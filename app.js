@@ -22,6 +22,7 @@ const elements = {
   hintBtn: document.getElementById("hint-btn"),
   prevBtn: document.getElementById("prev-btn"),
   nextBtn: document.getElementById("next-btn"),
+  resetBtn: document.getElementById("reset-btn"),
   optionTemplate: document.getElementById("option-template"),
 };
 
@@ -101,6 +102,16 @@ function restoreState(total) {
   } catch (error) {
     console.warn("Quiz state restore failed", error);
   }
+}
+
+function resetQuiz() {
+  state.answers = new Array(state.questions.length);
+  state.hintsShown = new Set();
+  state.index = 0;
+  if (typeof window !== "undefined") {
+    window.localStorage?.removeItem(STORAGE_KEY);
+  }
+  renderQuestion();
 }
 
 async function loadQuestions() {
@@ -312,6 +323,12 @@ function attachEventListeners() {
     renderQuestion();
     persistState();
   });
+
+  if (elements.resetBtn) {
+    elements.resetBtn.addEventListener("click", () => {
+      resetQuiz();
+    });
+  }
 }
 
 async function init() {

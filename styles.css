@@ -119,6 +119,12 @@ body {
   color: #7f1d1d;
 }
 
+.question__meta {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
 .question__badge {
   display: inline-flex;
   align-items: center;
@@ -357,6 +363,34 @@ body {
 
 .hidden {
   display: none !important;
+}
+
+.question__meta {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.btn.ghost {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 2px solid rgba(59, 130, 246, 0.45);
+  background: linear-gradient(145deg, rgba(37, 99, 235, 0.18), rgba(14, 165, 233, 0.18));
+  color: #1d4ed8;
+  font-weight: 700;
+  padding: 0;
+  margin-left: auto;
+  font-size: 0.95rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn.ghost:hover {
+  border-color: rgba(59, 130, 246, 0.9);
+  background: linear-gradient(145deg, rgba(37, 99, 235, 0.32), rgba(14, 165, 233, 0.32));
+  transform: none;
 }
 
 @media (max-width: 640px) {
