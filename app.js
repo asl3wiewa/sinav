@@ -1,12 +1,16 @@
 const DATA_URL = "Untitled-1.json";
 const LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const STORAGE_KEY = "bosZamanQuizState";
+const STORAGE_VERSION = 1;
 
 const elements = {
   loading: document.getElementById("loading"),
   error: document.getElementById("error"),
   card: document.getElementById("question-card"),
   progress: document.getElementById("progress"),
-  score: document.getElementById("score"),
+  scoreCorrect: document.getElementById("score-correct"),
+  scoreWrong: document.getElementById("score-wrong"),
+  progressBar: document.getElementById("progress-bar-fill"),
   number: document.getElementById("question-number"),
   text: document.getElementById("question-text"),
   imageWrapper: document.getElementById("question-image"),
@@ -29,6 +33,75 @@ const state = {
 };
 
 const labelFor = (idx) => (idx < LETTERS.length ? LETTERS[idx] : `${idx + 1}`);
+
+function persistState() {
+  if (!state.questions.length || typeof window === "undefined") {
+    return;
+  }
+  try {
+    const payload = {
+      version: STORAGE_VERSION,
+      index: state.index,
+      total: state.questions.length,
+      answers: state.answers.map((entry) =>
+        entry ? { selected: entry.selected, correct: entry.correct } : null,
+      ),
+      hints: [...state.hintsShown],
+    };
+    window.localStorage?.setItem(STORAGE_KEY, JSON.stringify(payload));
+  } catch (error) {
+    console.warn("Quiz state persist failed", error);
+  }
+}
+
+function restoreState(total) {
+  state.answers = new Array(total);
+  state.hintsShown = new Set();
+  state.index = 0;
+  if (typeof window === "undefined") {
+    return;
+  }
+  try {
+    const raw = window.localStorage?.getItem(STORAGE_KEY);
+    if (!raw) {
+      return;
+    }
+    const payload = JSON.parse(raw);
+    if (
+      payload.version !== STORAGE_VERSION ||
+      payload.total !== total
+    ) {
+      return;
+    }
+    if (Array.isArray(payload.answers)) {
+      payload.answers.forEach((entry, idx) => {
+        if (
+          idx < total &&
+          entry &&
+          typeof entry.selected === "number" &&
+          typeof entry.correct === "boolean"
+        ) {
+          state.answers[idx] = {
+            selected: entry.selected,
+            correct: entry.correct,
+          };
+        }
+      });
+    }
+    if (Array.isArray(payload.hints)) {
+      payload.hints.forEach((hintIndex) => {
+        if (typeof hintIndex === "number" && hintIndex >= 0 && hintIndex < total) {
+          state.hintsShown.add(hintIndex);
+        }
+      });
+    }
+    if (typeof payload.index === "number") {
+      state.index = Math.min(Math.max(payload.index, 0), total - 1);
+    }
+  } catch (error) {
+    console.warn("Quiz state restore failed", error);
+  }
+}
 
 async function loadQuestions() {
   const response = await fetch(DATA_URL);
@@ -63,7 +136,14 @@ function updateStatus() {
   const total = state.questions.length;
   elements.progress.textContent = `Soru ${state.index + 1} / ${total}`;
   const correctCount = state.answers.filter((item) => item?.correct).length;
-  elements.score.textContent = `Do\u011fru: ${correctCount}`;
+  const answeredCount = state.answers.filter(Boolean).length;
+  const wrongCount = answeredCount - correctCount;
+  elements.scoreCorrect.textContent = `Dogru: ${correctCount}`;
+  elements.scoreWrong.textContent = `Yanlis: ${wrongCount}`;
+  if (elements.progressBar) {
+    const width = total ? Math.min((answeredCount / total) * 100, 100) : 0;
+    elements.progressBar.style.width = `${width}%`;
+  }
   elements.prevBtn.disabled = state.index === 0;
   const isLast = state.index === total - 1;
   elements.nextBtn.textContent = isLast ? "Bitir" : "Sonraki";
@@ -80,8 +160,21 @@ function renderOptions(question) {
       .firstElementChild.cloneNode(true);
     button.dataset.index = idx;
     button.setAttribute("role", "option");
-    button.setAttribute("aria-label", `Se\u00e7enek ${labelFor(idx)}`);
-    button.textContent = `${labelFor(idx)}) ${option.text}`;
+    button.setAttribute("aria-label", `Secenek ${labelFor(idx)}`);
+    const label = button.querySelector(".option-label");
+    const text = button.querySelector(".option-text");
+    const detail = button.querySelector(".option-detail");
+    if (label) {
+      label.textContent = labelFor(idx);
+    }
+    if (text) {
+      text.textContent = option.text ?? "";
+    }
+    if (detail) {
+      detail.textContent = "";
+      detail.classList.add("hidden");
+      detail.classList.remove("correct", "incorrect");
+    }
     fragment.appendChild(button);
   });
 
@@ -95,64 +188,54 @@ function renderHint(question) {
     elements.hint.textContent = "";
     return;
   }
-    elements.hint.textContent = `\u0130pucu: ${question.hint}`;
+  elements.hint.textContent = `Ipucu: ${question.hint}`;
   elements.hint.classList.remove("hidden");
 }
 
-function renderFeedback(question) {
-  const answer = state.answers[state.index];
-  if (!answer) {
-    elements.feedback.classList.add("hidden");
-    elements.feedback.innerHTML = "";
-    return;
-  }
-  const isCorrect = answer.correct;
-  const title = isCorrect
-    ? "Tebrikler! Do\u011fru cevap."
-    : "Maalesef, bu se\u00e7iminiz do\u011fru de\u011fil.";
-  const rationalesMarkup = question.answerOptions
-    .map((option, idx) => {
-      const classes = ["rationale", option.isCorrect ? "correct" : "incorrect"];
-      return `
-        <div class="${classes.join(" ")}">
-          <div><strong>${labelFor(idx)}) ${option.text}</strong></div>
-          <p>${option.rationale || "A\u00e7\u0131klama bulunmuyor."}</p>
-        </div>`;
-    })
-    .join("");
-
-  elements.feedback.innerHTML = `
-    <p class="feedback__title">${title}</p>
-    <div class="rationales">${rationalesMarkup}</div>`;
-  elements.feedback.classList.remove("hidden");
+function renderFeedback() {
+  elements.feedback.classList.add("hidden");
+  elements.feedback.innerHTML = "";
 }
 
 function applyAnswerState(question) {
   const answer = state.answers[state.index];
   const buttons = [...elements.options.querySelectorAll(".option-btn")];
+  const hasAnswer = Boolean(answer);
   buttons.forEach((button) => {
     button.classList.remove("selected", "correct", "incorrect");
-  });
-  if (!answer) {
-    return;
-  }
-  const correctIndex = question.answerOptions.findIndex(
-    (opt) => opt.isCorrect,
-  );
-  buttons.forEach((button) => {
     const idx = Number(button.dataset.index);
+    const option = question.answerOptions[idx];
+    const detail = button.querySelector(".option-detail");
+    if (!hasAnswer) {
+      button.disabled = false;
+      if (detail) {
+        detail.textContent = "";
+        detail.classList.add("hidden");
+        detail.classList.remove("correct", "incorrect");
+      }
+      return;
+    }
+    button.disabled = true;
+    const isCorrectOption = Boolean(option?.isCorrect);
     if (idx === answer.selected) {
       button.classList.add("selected");
       button.classList.add(answer.correct ? "correct" : "incorrect");
-    } else if (idx === correctIndex) {
+    } else if (isCorrectOption) {
       button.classList.add("correct");
+    }
+    if (detail && option) {
+      const prefix = isCorrectOption ? "Dogru" : "Yanlis";
+      detail.textContent = `${prefix} - ${option.rationale || "Aciklama bulunmuyor."}`;
+      detail.classList.remove("hidden");
+      detail.classList.toggle("correct", isCorrectOption);
+      detail.classList.toggle("incorrect", !isCorrectOption);
     }
   });
 }
 
 function handleAnswer(optionIndex) {
   const question = currentQuestion();
-  if (!question) {
+  if (!question || state.answers[state.index]) {
     return;
   }
   const option = question.answerOptions[optionIndex];
@@ -163,9 +246,9 @@ function handleAnswer(optionIndex) {
     selected: optionIndex,
     correct: Boolean(option.isCorrect),
   };
-  renderFeedback(question);
   applyAnswerState(question);
   updateStatus();
+  persistState();
 }
 
 function renderQuestion() {
@@ -185,7 +268,7 @@ function renderQuestion() {
   }
 
   renderOptions(question);
-  renderFeedback(question);
+  renderFeedback();
   renderHint(question);
   updateStatus();
 }
@@ -203,6 +286,7 @@ function attachEventListeners() {
   elements.hintBtn.addEventListener("click", () => {
     state.hintsShown.add(state.index);
     renderHint(currentQuestion());
+    persistState();
   });
 
   elements.prevBtn.addEventListener("click", () => {
@@ -211,6 +295,7 @@ function attachEventListeners() {
     }
     state.index -= 1;
     renderQuestion();
+    persistState();
   });
 
   elements.nextBtn.addEventListener("click", () => {
@@ -219,6 +304,7 @@ function attachEventListeners() {
     }
     state.index += 1;
     renderQuestion();
+    persistState();
   });
 }
 
@@ -230,9 +316,10 @@ async function init() {
       return;
     }
     state.questions = questions;
-    state.answers = new Array(questions.length);
+    restoreState(questions.length);
     setLoading(false);
     renderQuestion();
+    persistState();
   } catch (error) {
     console.error(error);
     showError(error.message || "Beklenmeyen bir hata olu\u015ftu.");

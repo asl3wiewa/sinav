@@ -9,7 +9,7 @@
   <body>
     <div class="app">
       <header class="app__header">
-        <h1>Bo&#351; Zaman Etkinlikleri Testi</h1>
+        <h1>Genel Turizm Testi</h1>
         <p>
           Her soruda do&#287;ru oldu&#287;una inand&#305;&#287;&#305;n&#305;z se&#231;ene&#287;i t&#305;klay&#305;n. &#304;sterseniz ipucu isteyin,
           soruyu atlay&#305;n ve istedi&#287;iniz zaman &#246;nceki sorulara d&#246;n&#252;n. Se&#231;iminizin ard&#305;ndan
@@ -23,8 +23,16 @@
 
         <section id="question-card" class="card hidden" aria-live="polite">
           <div class="card__status">
-            <span id="progress">Soru 0 / 0</span>
-            <span id="score">Do&#287;ru: 0</span>
+            <div class="card__status-meta">
+              <span id="progress">Soru 0 / 0</span>
+              <div class="progress-track" aria-hidden="true">
+                <div id="progress-bar-fill" class="progress-track__fill"></div>
+              </div>
+            </div>
+            <div class="scoreboard">
+              <span id="score-correct" class="scoreboard__item is-correct">Do&#287;ru: 0</span>
+              <span id="score-wrong" class="scoreboard__item is-wrong">Yanl&#305;&#351;: 0</span>
+            </div>
           </div>
           <div class="question">
             <div class="question__meta">
@@ -50,7 +58,13 @@
     </div>
 
     <template id="option-template">
-      <button class="option-btn" type="button"></button>
+      <button class="option-btn" type="button">
+        <span class="option-label"></span>
+        <span class="option-content">
+          <span class="option-text"></span>
+          <span class="option-detail hidden"></span>
+        </span>
+      </button>
     </template>
 
     <script src="app.js" type="module"></script>
