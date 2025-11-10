@@ -7,7 +7,7 @@ const elements = {
   loading: document.getElementById("loading"),
   error: document.getElementById("error"),
   card: document.getElementById("question-card"),
-  progress: document.getElementById("progress"),
+  progressTotal: document.getElementById("progress-total"),
   scoreCorrect: document.getElementById("score-correct"),
   scoreWrong: document.getElementById("score-wrong"),
   progressBar: document.getElementById("progress-bar-fill"),
@@ -23,6 +23,8 @@ const elements = {
   prevBtn: document.getElementById("prev-btn"),
   nextBtn: document.getElementById("next-btn"),
   resetBtn: document.getElementById("reset-btn"),
+  jumpForm: document.getElementById("jump-form"),
+  jumpInput: document.getElementById("jump-input"),
   optionTemplate: document.getElementById("option-template"),
 };
 
@@ -114,6 +116,44 @@ function resetQuiz() {
   renderQuestion();
 }
 
+function jumpToQuestion(target) {
+  if (!state.questions.length) {
+    return;
+  }
+  const total = state.questions.length;
+  const clamped = Math.min(Math.max(target, 0), total - 1);
+  state.index = clamped;
+  renderQuestion();
+  persistState();
+}
+
+function processJumpInputValue(rawValue, silent = false) {
+  if (!state.questions.length) {
+    return;
+  }
+  const total = state.questions.length;
+  const parsed = Number.parseInt(rawValue, 10);
+  if (Number.isNaN(parsed)) {
+    if (!silent) {
+      window.alert("Ge\u00e7erli bir say\u0131 girin.");
+    }
+    if (elements.jumpInput) {
+      elements.jumpInput.value = `${state.index + 1}`;
+    }
+    return;
+  }
+  if (parsed < 1 || parsed > total) {
+    if (!silent) {
+      window.alert(`L\u00fctfen 1 ile ${total} aras\u0131nda bir de\u011fer girin.`);
+    }
+    if (elements.jumpInput) {
+      elements.jumpInput.value = `${state.index + 1}`;
+    }
+    return;
+  }
+  jumpToQuestion(parsed - 1);
+}
+
 async function loadQuestions() {
   const response = await fetch(DATA_URL);
   if (!response.ok) {
@@ -145,8 +185,13 @@ function currentQuestion() {
 
 function updateStatus() {
   const total = state.questions.length;
-  if (elements.progress) {
-    elements.progress.textContent = `Soru ${state.index + 1} / ${total}`;
+  if (elements.progressTotal) {
+    elements.progressTotal.textContent = `/ ${total}`;
+  }
+  if (elements.jumpInput) {
+    elements.jumpInput.value = `${state.index + 1}`;
+    elements.jumpInput.min = "1";
+    elements.jumpInput.max = `${total}`;
   }
   const correctCount = state.answers.filter((item) => item?.correct).length;
   const answeredCount = state.answers.filter(Boolean).length;
@@ -327,6 +372,19 @@ function attachEventListeners() {
   if (elements.resetBtn) {
     elements.resetBtn.addEventListener("click", () => {
       resetQuiz();
+    });
+  }
+
+  if (elements.jumpForm) {
+    elements.jumpForm.addEventListener("submit", (event) => {
+      event.preventDefault();
+      processJumpInputValue(elements.jumpInput?.value ?? "", false);
+    });
+  }
+
+  if (elements.jumpInput) {
+    elements.jumpInput.addEventListener("change", () => {
+      processJumpInputValue(elements.jumpInput?.value ?? "", true);
     });
   }
 }

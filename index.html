@@ -24,7 +24,22 @@
         <section id="question-card" class="card hidden" aria-live="polite">
           <div class="card__status">
             <div class="card__status-meta">
-              <span id="progress">Soru 0 / 0</span>
+              <div class="progress-line">
+                <span class="progress-label">Soru</span>
+                <form id="jump-form" class="jump-inline" autocomplete="off">
+                  <label for="jump-input" class="sr-only">Soru numaras&#305;</label>
+                  <input
+                    id="jump-input"
+                    name="jump-input"
+                    type="number"
+                    min="1"
+                    value="1"
+                    inputmode="numeric"
+                    aria-label="Soru numaras&#305;"
+                  />
+                </form>
+                <span id="progress-total">/ 0</span>
+              </div>
               <div class="progress-track" aria-hidden="true">
                 <div id="progress-bar-fill" class="progress-track__fill"></div>
               </div>
