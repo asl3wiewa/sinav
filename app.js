@@ -134,12 +134,18 @@ function currentQuestion() {
 
 function updateStatus() {
   const total = state.questions.length;
-  elements.progress.textContent = `Soru ${state.index + 1} / ${total}`;
+  if (elements.progress) {
+    elements.progress.textContent = `Soru ${state.index + 1} / ${total}`;
+  }
   const correctCount = state.answers.filter((item) => item?.correct).length;
   const answeredCount = state.answers.filter(Boolean).length;
   const wrongCount = answeredCount - correctCount;
-  elements.scoreCorrect.textContent = `Dogru: ${correctCount}`;
-  elements.scoreWrong.textContent = `Yanlis: ${wrongCount}`;
+  if (elements.scoreCorrect) {
+    elements.scoreCorrect.textContent = `Dogru: ${correctCount}`;
+  }
+  if (elements.scoreWrong) {
+    elements.scoreWrong.textContent = `Yanlis: ${wrongCount}`;
+  }
   if (elements.progressBar) {
     const width = total ? Math.min((answeredCount / total) * 100, 100) : 0;
     elements.progressBar.style.width = `${width}%`;
