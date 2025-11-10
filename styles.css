@@ -381,6 +381,17 @@ body {
   transform: none;
 }
 
+.btn.outline {
+  border: 2px solid rgba(37, 99, 235, 0.4);
+  color: #1d4ed8;
+  background: transparent;
+}
+
+.btn.outline:hover {
+  border-color: #1d4ed8;
+  transform: translateY(-1px);
+}
+
 .spacer {
   flex: 1;
 }
@@ -454,8 +465,15 @@ body {
   font-size: 0.9rem;
 }
 
-.test-card__action {
+.test-card__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
   margin-top: 20px;
+}
+
+.test-card__actions .btn {
+  flex: 1 1 140px;
   text-align: center;
 }
 

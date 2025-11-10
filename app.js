@@ -1,5 +1,5 @@
 const TESTS = {
-  general: {
+  "genel-turizm": {
     title: "Genel Turizm Testi",
     dataUrl: "genel-turizm.json",
   },
@@ -12,7 +12,13 @@ const TESTS = {
     dataUrl: "ziyafet-2.json",
   },
 };
-const DEFAULT_TEST = "general";
+const TEST_ALIASES = {
+  general: "genel-turizm",
+  ziyafet1: "ziyafet",
+  "ziyafet-1": "ziyafet",
+  turizm: "genel-turizm",
+};
+const DEFAULT_TEST = "genel-turizm";
 const LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const STORAGE_KEY_BASE = "bosZamanQuizState";
 const STORAGE_VERSION = 1;
@@ -41,6 +47,7 @@ const elements = {
   jumpInput: document.getElementById("jump-input"),
   optionTemplate: document.getElementById("option-template"),
   quizTitle: document.getElementById("quiz-title"),
+  profileBadge: document.getElementById("profile-name-badge"),
 };
 
 const state = {
@@ -55,7 +62,10 @@ const labelFor = (idx) => (idx < LETTERS.length ? LETTERS[idx] : `${idx + 1}`);
 
 function resolveActiveTest() {
   const params = new URLSearchParams(window.location.search);
-  const slugCandidate = (params.get("test") || DEFAULT_TEST).toLowerCase();
+  const rawSlug = (params.get("test") || DEFAULT_TEST).toLowerCase();
+  const slugCandidate = TESTS[rawSlug]
+    ? rawSlug
+    : TEST_ALIASES[rawSlug] || DEFAULT_TEST;
   if (TESTS[slugCandidate]) {
     return { slug: slugCandidate, ...TESTS[slugCandidate] };
   }
