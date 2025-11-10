@@ -343,6 +343,7 @@ function attachEventListeners() {
     }
     const optionIndex = Number(button.dataset.index);
     handleAnswer(optionIndex);
+    button.blur();
   });
 
   elements.hintBtn.addEventListener("click", () => {
