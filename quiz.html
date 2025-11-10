@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bo&#351; Zaman Etkinlikleri Testi</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="app__header">
+        <h1 id="quiz-title">Genel Turizm Testi</h1>
+        <p>
+          Her soruda do&#287;ru oldu&#287;una inand&#305;&#287;&#305;n&#305;z se&#231;ene&#287;i t&#305;klay&#305;n. &#304;sterseniz ipucu isteyin,
+          soruyu atlay&#305;n ve istedi&#287;iniz zaman &#246;nceki sorulara d&#246;n&#252;n. Se&#231;iminizin ard&#305;ndan
+          do&#287;ru cevap ve gerek&#231;eler hemen g&#246;r&#252;nt&#252;lenir.
+        </p>
+      </header>
+
+      <main id="quiz" class="quiz">
+        <div id="loading" class="info-card">Sorular y&#252;kleniyor...</div>
+        <div id="error" class="info-card info-card--error hidden"></div>
+
+        <section id="question-card" class="card hidden" aria-live="polite">
+          <div class="card__status">
+            <div class="card__status-meta">
+              <div class="progress-line">
+                <span class="progress-label">Soru</span>
+                <form id="jump-form" class="jump-inline" autocomplete="off">
+                  <label for="jump-input" class="sr-only">Soru numaras&#305;</label>
+                  <input
+                    id="jump-input"
+                    name="jump-input"
+                    type="number"
+                    min="1"
+                    value="1"
+                    inputmode="numeric"
+                    aria-label="Soru numaras&#305;"
+                  />
+                </form>
+                <span id="progress-total">/ 0</span>
+              </div>
+              <div class="progress-track" aria-hidden="true">
+                <div id="progress-bar-fill" class="progress-track__fill"></div>
+              </div>
+            </div>
+            <div class="scoreboard">
+              <span id="score-correct" class="scoreboard__item is-correct">Do&#287;ru: 0</span>
+              <span id="score-wrong" class="scoreboard__item is-wrong">Yanl&#305;&#351;: 0</span>
+            </div>
+          </div>
+          <div class="question">
+            <div class="question__meta">
+              <span id="question-number" class="question__badge"></span>
+              <button id="reset-btn" type="button" class="btn ghost" title="Tüm ilerlemeyi sıfırla">
+                &#8635;
+              </button>
+            </div>
+            <h2 id="question-text" class="question__text"></h2>
+            <div id="question-image" class="question__image hidden">
+              <img alt="Soru g&#246;rseli" />
+            </div>
+          </div>
+          <div id="options" class="options" role="listbox" aria-label="Cevap se&#231;enekleri"></div>
+          <div id="feedback" class="feedback hidden"></div>
+          <div id="hint" class="hint hidden"></div>
+        </section>
+
+        <div id="controls" class="controls hidden">
+          <button id="hint-btn" type="button" class="btn secondary">&#304;pucu</button>
+          <div class="spacer"></div>
+          <button id="prev-btn" type="button" class="btn secondary">&#214;nceki</button>
+          <button id="next-btn" type="button" class="btn primary">Sonraki</button>
+        </div>
+      </main>
+    </div>
+
+    <template id="option-template">
+      <button class="option-btn" type="button">
+        <span class="option-label"></span>
+        <span class="option-content">
+          <span class="option-text"></span>
+          <span class="option-detail hidden"></span>
+        </span>
+      </button>
+    </template>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

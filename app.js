@@ -1,6 +1,20 @@
-const DATA_URL = "Untitled-1.json";
+const TESTS = {
+  general: {
+    title: "Genel Turizm Testi",
+    dataUrl: "genel-turizm.json",
+  },
+  ziyafet: {
+    title: "Ziyafet Testi 1",
+    dataUrl: "ziyafet.json",
+  },
+  ziyafet2: {
+    title: "Ziyafet Testi 2",
+    dataUrl: "ziyafet-2.json",
+  },
+};
+const DEFAULT_TEST = "general";
 const LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-const STORAGE_KEY = "bosZamanQuizState";
+const STORAGE_KEY_BASE = "bosZamanQuizState";
 const STORAGE_VERSION = 1;
 
 const elements = {
@@ -26,9 +40,11 @@ const elements = {
   jumpForm: document.getElementById("jump-form"),
   jumpInput: document.getElementById("jump-input"),
   optionTemplate: document.getElementById("option-template"),
+  quizTitle: document.getElementById("quiz-title"),
 };
 
 const state = {
+  test: null,
   questions: [],
   index: 0,
   answers: [],
@@ -36,6 +52,19 @@ const state = {
 };
 
 const labelFor = (idx) => (idx < LETTERS.length ? LETTERS[idx] : `${idx + 1}`);
+
+function resolveActiveTest() {
+  const params = new URLSearchParams(window.location.search);
+  const slugCandidate = (params.get("test") || DEFAULT_TEST).toLowerCase();
+  if (TESTS[slugCandidate]) {
+    return { slug: slugCandidate, ...TESTS[slugCandidate] };
+  }
+  return { slug: DEFAULT_TEST, ...TESTS[DEFAULT_TEST] };
+}
+
+function storageKey() {
+  return `${STORAGE_KEY_BASE}:${state.test?.slug ?? DEFAULT_TEST}`;
+}
 
 function persistState() {
   if (!state.questions.length || typeof window === "undefined") {
@@ -51,7 +80,7 @@ function persistState() {
       ),
       hints: [...state.hintsShown],
     };
-    window.localStorage?.setItem(STORAGE_KEY, JSON.stringify(payload));
+    window.localStorage?.setItem(storageKey(), JSON.stringify(payload));
   } catch (error) {
     console.warn("Quiz state persist failed", error);
   }
@@ -65,7 +94,7 @@ function restoreState(total) {
     return;
   }
   try {
-    const raw = window.localStorage?.getItem(STORAGE_KEY);
+    const raw = window.localStorage?.getItem(storageKey());
     if (!raw) {
       return;
     }
@@ -111,7 +140,7 @@ function resetQuiz() {
   state.hintsShown = new Set();
   state.index = 0;
   if (typeof window !== "undefined") {
-    window.localStorage?.removeItem(STORAGE_KEY);
+    window.localStorage?.removeItem(storageKey());
   }
   renderQuestion();
 }
@@ -154,8 +183,8 @@ function processJumpInputValue(rawValue, silent = false) {
   jumpToQuestion(parsed - 1);
 }
 
-async function loadQuestions() {
-  const response = await fetch(DATA_URL);
+async function loadQuestions(dataUrl) {
+  const response = await fetch(dataUrl);
   if (!response.ok) {
     throw new Error("Soru dosyas\u0131 y\u00fcklenemedi");
   }
@@ -392,7 +421,15 @@ function attachEventListeners() {
 
 async function init() {
   try {
-    const questions = await loadQuestions();
+    const activeTest = resolveActiveTest();
+    state.test = activeTest;
+    if (elements.quizTitle) {
+      elements.quizTitle.textContent = activeTest.title;
+    }
+    if (typeof document !== "undefined") {
+      document.title = `${activeTest.title} | Turizm Test Portalı`;
+    }
+    const questions = await loadQuestions(activeTest.dataUrl);
     if (!questions.length) {
       showError("G\u00f6sterilecek soru bulunamad\u0131.");
       return;

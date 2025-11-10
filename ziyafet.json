@@ -1,0 +1,1209 @@
+{
+  "questions": [
+  {
+    "questionNumber": 1,
+    "question": "Belirli sayıda yemekten oluşan ve sabit bir fiyata sahip olan menü çeşidi aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "A la carte Menü (Alakart)", "isCorrect": false, "rationale": "A la carte menüde her yemek ayrı ayrı fiyatlandırılır ve konuk listeden seçim yapar." },
+      { "text": "Table d'hôte Menü (Tabldot)", "isCorrect": true, "rationale": "Tanıma göre, Table d'hôte menü belirli sayıda yemekten oluşur ve sabit bir fiyata sahiptir. Konuğun seçim hakkı çok sınırlıdır." },
+      { "text": "Ziyafet (Banket) Menüleri", "isCorrect": false, "rationale": "Ziyafet menüleri genellikle Table d'hôte özelliğindedir, ancak bu genel bir menü türü değil, özel bir uygulama biçimidir." },
+      { "text": "Kokteyl Menüsü", "isCorrect": false, "rationale": "Kokteyl menüleri genellikle küçük atıştırmalıklar ve içeceklerden oluşur." },
+      { "text": "Açık Büfe Menüsü", "isCorrect": false, "rationale": "Açık büfe, konukların kendi kendilerine servis yaptığı bir sunum şeklidir." }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "Aşağıdakilerden hangisi ziyafet menüsü oluşturma ilkelerinden biri olan 'Hazırlanabilirlik' kavramını en iyi açıklar?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Menünün ziyafetin temasına uygun olması.", "isCorrect": false, "rationale": "Bu 'Tematik Uygunluk' ilkesidir." },
+      { "text": "Menüdeki yemeklerin mevcut mutfak ekipmanlarıyla hazırlanabilmesi.", "isCorrect": false, "rationale": "Bu 'Ekipman Uygunluğu' ilkesidir." },
+      { "text": "Menüdeki yemeklerin önceden hazırlanıp bekletilebilen cinsten olması.", "isCorrect": true, "rationale": "Hazırlanabilirlik, büyük gruplar için anlık pişirilmesi zor olan yemekler yerine, önceden hazırlanabilen yemeklerin seçilmesi anlamına gelir." },
+      { "text": "Müşteriye seçenek sunarken yiyeceklerin sınıflarına göre gruplandırılması.", "isCorrect": false, "rationale": "Bu 'Gruplandırma' ilkesidir." },
+      { "text": "Menünün müşteri bütçesine uygun olması.", "isCorrect": false, "rationale": "Bu, menü planlamasının genel bir parçasıdır ancak 'Hazırlanabilirlik' ilkesini doğrudan tanımlamaz." }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "Ziyafet talebi (rezervasyonu) alınırken, müşteriye işletmenin en kârlı olduğu ve mutfak personelinin en iyi hazırladığı yemekleri tavsiye etmenin temel amacı nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Müşteriyi daha fazla harcama yapmaya zorlamak.", "isCorrect": false, "rationale": "Amaç müşteriye baskı yapmak değil, hem işletme hem de müşteri için en iyi sonucu elde etmektir." },
+      { "text": "Mutfak personelinin işini kolaylaştırmak.", "isCorrect": false, "rationale": "Bu bir yan fayda olabilir, ancak temel amaç bu değildir." },
+      { "text": "Hem müşteri memnuniyetini hem de işletme kârlılığını artırmak.", "isCorrect": true, "rationale": "İşletmenin iyi olduğu yemekleri sunmak hem kaliteyi ve memnuniyeti artırır hem de genellikle daha kârlı ve verimli bir operasyon sağlar." },
+      { "text": "Stoktaki malzemeleri bitirmek.", "isCorrect": false, "rationale": "Bu kısa vadeli bir taktik olabilir, ancak ziyafet planlamasının temel amacı değildir." },
+      { "text": "Rakip işletmelerden farklı bir menü sunmak.", "isCorrect": false, "rationale": "Farklılaşma önemli olsa da, bu tavsiyenin temel amacı değildir." }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "Aynı salonun farklı kişilere satılmasını (çakışmayı) önlemek için kullanılan en önemli belge aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Salon krokileri", "isCorrect": false, "rationale": "Salon krokileri masa düzenini gösterir, rezervasyon durumunu değil." },
+      { "text": "Menü örnekleri", "isCorrect": false, "rationale": "Menü örnekleri yemek seçeneklerini sunar." },
+      { "text": "Banket rezervasyon listesi (Ziyafet Kabul Defteri)", "isCorrect": true, "rationale": "Bu liste, salonların rezervasyon durumunu güncel olarak takip ederek çifte satışı önler." },
+      { "text": "Ziyafet Emri Formu (BEO)", "isCorrect": false, "rationale": "BEO, anlaşma sağlandıktan sonra etkinliğin detaylarını içerir, ilk rezervasyon kontrolü için kullanılmaz." },
+      { "text": "Adisyon (Hesap Pusulası)", "isCorrect": false, "rationale": "Adisyon, etkinlik sırasındaki ekstra harcamaları kaydeder." }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "Ziyafet talebi alınırken netleştirilmesi gereken 'garanti edilen minimum kişi sayısı' ne anlama gelmektedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Etkinliğe katılması beklenen tahmini davetli sayısı.", "isCorrect": false, "rationale": "Bu 'tahmini davetli sayısı'dır, garanti edilen sayı değildir." },
+      { "text": "İşletmenin faturayı keseceği en az kişi sayısı.", "isCorrect": true, "rationale": "Garanti edilen sayı, etkinliğe daha az kişi gelse bile işletmenin faturalandıracağı minimum misafir sayısıdır." },
+      { "text": "Salona sığabilecek maksimum kişi sayısı.", "isCorrect": false, "rationale": "Bu salonun kapasitesidir." },
+      { "text": "Protokol ve VIP konukların toplam sayısı.", "isCorrect": false, "rationale": "Bu, toplam katılımcı sayısının sadece bir kısmıdır." },
+      { "text": "Ücretsiz olarak ağırlanacak misafir sayısı.", "isCorrect": false, "rationale": "Bu, genellikle sözleşmede ayrı olarak belirtilir." }
+    ]
+  },
+  
+  {
+    "questionNumber": 6,
+    "question": "Ziyafetin menüsünü, personel ihtiyacını, salon düzenini ve bütçesini önceden belirleme aşaması, yönetimin hangi fonksiyonuna girer?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Planlama", "isCorrect": true, "rationale": "Planlama, gelecekte ne yapılacağının, nasıl yapılacağının ve kim tarafından yapılacağının önceden kararlaştırılması sürecidir." },
+      { "text": "Örgütleme (Organizasyon)", "isCorrect": false, "rationale": "Örgütleme, planı hayata geçirecek personelin ve ekipmanların organize edilmesidir." },
+      { "text": "Yöneltme (Yürütme)", "isCorrect": false, "rationale": "Yöneltme, ziyafet günü ekibi motive ederek servisi yönetmektir." },
+      { "text": "Kontrol (Değerlendirme)", "isCorrect": false, "rationale": "Kontrol, planlanan ile gerçekleşenin karşılaştırılması ve denetlenmesidir." },
+      { "text": "Koordinasyon", "isCorrect": false, "rationale": "Koordinasyon, mutfak ve servis ekibi arasında işbirliği sağlamaktır." }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "Hem işletmeyi hem de müşteriyi koruma altına alan ve olası anlaşmazlıklarda başvurulacak yasal belge niteliği taşıyan doküman hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Ziyafet Emri Formu (BEO)", "isCorrect": false, "rationale": "BEO, sözleşme sonrası iç departmanlara bilgi dağıtmak için kullanılır. Yasal sözleşmenin kendisi değildir." },
+      { "text": "Banket Rezervasyon Listesi", "isCorrect": false, "rationale": "Bu, salonların doluluk durumunu gösteren bir iç belgedir." },
+      { "text": "Ziyafet Sözleşmesi (Banket Sözleşmesi)", "isCorrect": true, "rationale": "Ziyafet sözleşmesi, taraflar arasındaki tüm anlaşma detaylarını içeren resmi ve yasal bir belgedir." },
+      { "text": "Adisyon (Hesap Pusulası)", "isCorrect": false, "rationale": "Adisyon, sadece ekstra harcamaları gösteren bir belgedir." },
+      { "text": "Menü Kartı", "isCorrect": false, "rationale": "Menü kartı, sunulacak yemekleri listeler ama yasal bir anlaşma değildir." }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "Ziyafet sözleşmesinde 'Garanti edilen minimum kişi sayısı'nın genellikle etkinlikten ne kadar süre önce teyit edilmesi gerekir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1 hafta önce", "isCorrect": false, "rationale": "1 hafta genellikle çok erken bir süredir." },
+      { "text": "Etkinlik günü", "isCorrect": false, "rationale": "Etkinlik günü planlama ve hazırlık için çok geçtir." },
+      { "text": "Sözleşme imzalanırken", "isCorrect": false, "rationale": "Sözleşme anında sadece tahmini bir sayı verilir, nihai sayı daha sonra teyit edilir." },
+      { "text": "24-48 saat önce", "isCorrect": true, "rationale": "Metne göre, garanti edilen sayı genellikle etkinlikten 24-48 saat önce teyit edilir. Bu süre, mutfağın son hazırlıklarını yapması için gereklidir." },
+      { "text": "Etkinlikten hemen sonra", "isCorrect": false, "rationale": "Etkinlikten sonra sayı teyidi anlamsızdır." }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "Sözleşme imzalandıktan sonra, etkinlik detaylarını Mutfak, Servis, Muhasebe gibi ilgili departmanlara dağıtmak için kullanılan formun adı nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Ziyafet Sözleşmesi", "isCorrect": false, "rationale": "Sözleşme, müşteri ile işletme arasındaki yasal belgedir." },
+      { "text": "Ziyafet Emri Formu (Banquet Event Order - BEO)", "isCorrect": true, "rationale": "BEO, bir ziyafetin tüm operasyonel detaylarını içerir ve ilgili tüm departmanlara dağıtılarak koordinasyonu sağlar." },
+      { "text": "Fatura", "isCorrect": false, "rationale": "Fatura, ödeme için düzenlenen mali bir belgedir." },
+      { "text": "Kapasite Çizelgesi", "isCorrect": false, "rationale": "Bu, salonların kapasitelerini gösterir." },
+      { "text": "Görev Tanımı Formu", "isCorrect": false, "rationale": "Bu, personelin görevlerini açıklar." }
+    ]
+  },
+  
+  {
+    "questionNumber": 10,
+    "question": "Salon yerleşim planında, mutfak giriş-çıkışı, servis yolları ve konukların hareket alanlarının net bir şekilde belirlenip açık tutulması hangi başlık altında değerlendirilir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Protokol ve Oturma Düzeni", "isCorrect": false, "rationale": "Bu, önemli konukların yerleşimini ifade eder." },
+      { "text": "Masa Şekilleri", "isCorrect": false, "rationale": "Bu, masaların 'U', 'T' gibi düzenlerini ifade eder." },
+      { "text": "Akış Yolları", "isCorrect": true, "rationale": "Akış yolları, hem personelin verimli çalışması hem de konukların rahat hareketi için servis ve hareket alanlarının açık tutulmasını sağlar." },
+      { "text": "Ekipman Konumu", "isCorrect": false, "rationale": "Bu, büfe, bar gibi ekipmanların yerini belirtir." },
+      { "text": "Kuver (Cover)", "isCorrect": false, "rationale": "Kuver, her konuk için masaya konulan servis malzemeleridir." }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "Her konuk için masada bulunması gereken tabak, çatal, bıçak, bardak gibi servis malzemelerinin menüye uygun şekilde düzenlenmesine ne ad verilir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Layout", "isCorrect": false, "rationale": "Layout, salonun genel düzenidir." },
+      { "text": "Kroki", "isCorrect": false, "rationale": "Kroki, yerleşim planının çizimidir." },
+      { "text": "Protokol", "isCorrect": false, "rationale": "Protokol, oturma düzenindeki hiyerarşiyi ifade eder." },
+      { "text": "Kuver (Cover)", "isCorrect": true, "rationale": "Kuver, bir kişinin yemek yiyebilmesi için masaya yerleştirilen tüm servis takımlarını ifade eder." },
+      { "text": "Mise-en-place", "isCorrect": false, "rationale": "Mise-en-place, 'servis öncesi ön hazırlık' anlamına gelen daha geniş bir kavramdır. Kuver de bu hazırlığın bir parçasıdır." }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "Servis sırasında konukların yaptığı anlaşma dışı içecekler gibi ekstra harcamaların kaydedildiği belgeye ne denir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Ziyafet Sözleşmesi", "isCorrect": false, "rationale": "Sözleşme, ana anlaşmayı içerir." },
+      { "text": "Kaparo Makbuzu", "isCorrect": false, "rationale": "Bu, ön ödemeyi belgeler." },
+      { "text": "Adisyon (Hesap Pusulası)", "isCorrect": true, "rationale": "Adisyon, etkinlik sırasında yapılan tüm ekstra harcamaları kaydetmek için kullanılır ve son hesaba eklenir." },
+      { "text": "BEO Formu", "isCorrect": false, "rationale": "BEO, planlanan detayları içerir, anlık harcamaları değil." },
+      { "text": "Fatura", "isCorrect": false, "rationale": "Fatura, tüm harcamaların (adisyon dahil) toplandığı son ödeme belgesidir." }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "Bir ziyafet bölümünün organizasyon yapısını (personel sayısı, hiyerarşi) etkileyen faktörlerden hangisi 'İşletme Faktörleri'ne bir örnektir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Sektörün genel durumu", "isCorrect": false, "rationale": "Bu bir 'Çevresel Faktör'dür." },
+      { "text": "Pazarın koşulları", "isCorrect": false, "rationale": "Bu bir 'Çevresel Faktör'dür." },
+      { "text": "İşletmenin hedef kitlesi ve rekabet durumu", "isCorrect": false, "rationale": "Bu bir 'Pazar Faktörü'dür." },
+      { "text": "İşletmenin büyüklüğü (küçük otel vs. büyük otel)", "isCorrect": true, "rationale": "İşletmenin büyüklüğü, yönetim biçimi ve stratejisi gibi unsurlar, organizasyon yapısını doğrudan etkileyen 'İşletme Faktörleri'dir." },
+      { "text": "Ekonomik kriz", "isCorrect": false, "rationale": "Bu bir 'Çevresel Faktör'dür." }
+    ]
+  },
+  
+  {
+    "questionNumber": 14,
+    "question": "Tüm yiyecek-içecek operasyonlarından (restoranlar, barlar, ziyafet, mutfak) sorumlu en üst düzey yönetici kimdir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Ziyafet Müdürü (Banquet Manager)", "isCorrect": false, "rationale": "Ziyafet Müdürü sadece ziyafetlerden sorumludur." },
+      { "text": "Yiyecek İçecek Müdürü (F&B Manager)", "isCorrect": true, "rationale": "F&B Manager, bütçeleme, maliyet kontrolü ve gelir artırma dahil olmak üzere tüm yiyecek-içecek departmanlarının en üst yöneticisidir." },
+      { "text": "Restoran Müdürü / Şef Garson (Maitre d'Hotel)", "isCorrect": false, "rationale": "Restoran Müdürü, restoranın veya ziyafetin salon operasyonunu yönetir." },
+      { "text": "Aşçıbaşı (Executive Chef)", "isCorrect": false, "rationale": "Aşçıbaşı, mutfak operasyonlarından sorumludur, servis veya barlardan değil." },
+      { "text": "Genel Müdür", "isCorrect": false, "rationale": "Genel Müdür otelin tamamından sorumludur, F&B Manager ona rapor verir." }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "Sadece ziyafetlerin (toplantı, düğün, konferans) satışından, planlanmasından ve yürütülmesinden sorumlu olan, müşteri ile sözleşmeyi yapan yönetici kimdir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Yiyecek İçecek Müdürü (F&B Manager)", "isCorrect": false, "rationale": "F&B Manager, ziyafetin de dahil olduğu tüm yiyecek-içecek operasyonlarından sorumludur." },
+      { "text": "Servis Şefi (Head Waiter / Kaptan)", "isCorrect": false, "rationale": "Servis Şefi, ziyafet sırasındaki servis operasyonunu yönetir." },
+      { "text": "Ziyafet Müdürü (Banquet Manager)", "isCorrect": true, "rationale": "Tanıma göre, Banquet Manager'ın ana görevi ziyafetlerin satış, planlama ve yürütme süreçlerini yönetmektir." },
+      { "text": "Restoran Müdürü", "isCorrect": false, "rationale": "Restoran Müdürü genellikle a la carte restoran operasyonlarından sorumludur." },
+      { "text": "Aşçıbaşı (Executive Chef)", "isCorrect": false, "rationale": "Aşçıbaşı, ziyafetin menüsü ve mutfak hazırlıklarından sorumludur." }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "Boşları toplayan, servantı (servis istasyonu) düzenleyen ve garsona yardımcı olan servis personeli kimdir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Servis Elemanı (Waiter / Garson)", "isCorrect": false, "rationale": "Garson, sipariş alma ve servis yapmaktan sorumludur." },
+      { "text": "Stajyer (Apprenti)", "isCorrect": false, "rationale": "Stajyer, en alt rütbedir ve genellikle gözlem yapar, komiye yardım eder." },
+      { "text": "Servis Şefi (Head Waiter / Kaptan)", "isCorrect": false, "rationale": "Servis şefi, garsonları yönetir ve yönlendirir." },
+      { "text": "Servis Eleman Yardımcısı (Busboy / Komi)", "isCorrect": true, "rationale": "Kominin temel görevleri arasında masayı temizlemek, boşları toplamak ve garsona destek olmak yer alır." },
+      { "text": "Şef Garson (Maitre d'Hotel)", "isCorrect": false, "rationale": "Şef Garson, tüm salon operasyonunu yönetir." }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "Mutfağın tüm yönetiminden, menü planlamasından, reçete standartlarından ve maliyet kontrolünden sorumlu olan kişi kimdir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Aşçıbaşı Yardımcısı (Sous Chef)", "isCorrect": false, "rationale": "Sous Chef, Aşçıbaşının yardımcısıdır ve operasyonel işleyişi denetler." },
+      { "text": "Kısım Şefi (Chef de Parti)", "isCorrect": false, "rationale": "Kısım Şefi, mutfakta belirli bir bölümden sorumludur." },
+      { "text": "Aşçıbaşı (Executive Chef / Chef de Cuisine)", "isCorrect": true, "rationale": "Executive Chef, mutfağın en üst düzey yöneticisidir ve metinde belirtilen tüm sorumlulukları taşır." },
+      { "text": "Yiyecek İçecek Müdürü (F&B Manager)", "isCorrect": false, "rationale": "F&B Manager, mutfağın da dahil olduğu tüm yiyecek-içecek bölümünün başındadır, ancak mutfağın doğrudan yönetiminden Aşçıbaşı sorumludur." },
+      { "text": "Soğukçu Şefi (Chef Garde Manger)", "isCorrect": false, "rationale": "Garde Manger, sadece soğuk mutfaktan sorumlu bir kısım şefidir." }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "Soğuk mezeler, salatalar, kanepeler ve büfe dekorasyonunu (showpiece) hazırlamaktan sorumlu olan kısım şefi aşağıdakilerden hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Sosçu / Sıcakçı Şefi (Chef Saucier)", "isCorrect": false, "rationale": "Saucier, sıcak soslar ve et yemeklerinden sorumludur." },
+      { "text": "Izgaracı Şefi (Chef Rotisseur)", "isCorrect": false, "rationale": "Rotisseur, ızgara ve fırınlanmış etlerden sorumludur." },
+      { "text": "Soğukçu Şefi (Chef Garde Manger)", "isCorrect": true, "rationale": "Garde Manger, soğuk mutfak olarak da bilinen bölümden sorumludur ve belirtilen yiyecekleri hazırlar." },
+      { "text": "Sebze Şefi (Chef Entremetier)", "isCorrect": false, "rationale": "Entremetier, sebze yemekleri, garnitürler ve makarnalardan sorumludur." },
+      { "text": "Pastane Şefi (Chef Patissier)", "isCorrect": false, "rationale": "Patissier, tatlılar, pastalar ve ekmeklerden sorumludur." }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "Tüm tatlılar, pastalar, dondurmalar ve ekmeklerin hazırlanmasından sorumlu uzman şef kimdir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Çorba Şefi (Chef Potager)", "isCorrect": false, "rationale": "Potager, çorbalardan sorumludur." },
+      { "text": "Balık Şefi (Chef Poissonier)", "isCorrect": false, "rationale": "Poissonier, balık yemeklerinden sorumludur." },
+      { "text": "Pastane Şefi (Chef Patissier)", "isCorrect": true, "rationale": "Patissier, pastane ürünleri olarak bilinen tatlı, pasta ve ekmeklerden sorumludur." },
+      { "text": "Soğukçu Şefi (Chef Garde Manger)", "isCorrect": false, "rationale": "Garde Manger, soğuk mezeler ve salatalardan sorumludur." },
+      { "text": "Aşçıbaşı (Executive Chef)", "isCorrect": false, "rationale": "Aşçıbaşı genel sorumludur, ancak bu özel alandaki uzman Patissier'dir." }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "Doğrama, karıştırma, rendeleme gibi birçok hazırlık işini farklı bıçak ataşmanları sayesinde yapan çok yönlü mutfak ekipmanı hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Gıda Mikseri (Food Mixer)", "isCorrect": false, "rationale": "Gıda mikseri temel olarak karıştırma ve çırpma işlevi görür." },
+      { "text": "El Blenderı (Hand Blender)", "isCorrect": false, "rationale": "El blenderı yiyecekleri pürüzsüz hale getirmek için kullanılır." },
+      { "text": "Food Processor (Mutfak Robotu)", "isCorrect": true, "rationale": "Mutfak robotu, farklı ataşmanları sayesinde doğrama, karıştırma, rendeleme gibi çok çeşitli görevleri yerine getirebilen çok yönlü bir alettir." },
+      { "text": "Dilimleyici (Slicer)", "isCorrect": false, "rationale": "Slicer, malzemeleri hassas kalınlıklarda dilimlemek için kullanılır." },
+      { "text": "Kıyma Makinesi (Mincer)", "isCorrect": false, "rationale": "Kıyma makinesi eti kıymak için kullanılır." }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "Islak (buharlı), kuru (konveksiyonel) ve bu ikisinin kombinasyonunu kullanarak pişirme yapabilen çok yönlü fırın türü hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Endüstriyel Fırın (Range Oven)", "isCorrect": false, "rationale": "Range oven, üzerinde ocak gözleri de bulunan standart bir fırındır." },
+      { "text": "Pizza Fırını (Pizza Oven)", "isCorrect": false, "rationale": "Pizza fırını, yüksek sıcaklıkta pişirme yapmak için tasarlanmıştır." },
+      { "text": "Kombinasyonlu Fırın (Combination Oven)", "isCorrect": true, "rationale": "Kombinasyonlu fırın (kombi fırın), buhar, sıcak hava (konveksiyon) ve ikisinin kombinasyonunu kullanarak pişirme esnekliği sunar." },
+      { "text": "Tütsüleme Fırını (Smoking Oven)", "isCorrect": false, "rationale": "Tütsüleme fırını, yiyeceklere dumanlı bir lezzet vermek için kullanılır." },
+      { "text": "Mikrodalga Fırın (Microwave)", "isCorrect": false, "rationale": "Mikrodalga, yiyecekleri mikrodalga ışınları ile hızlıca ısıtır." }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "Haşlama, kızartma, ızgara (griddling) ve yahnileme gibi birçok pişirme yöntemini tek bir büyük kapta yapabilen endüstriyel tava hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Düz Izgara (Griddle)", "isCorrect": false, "rationale": "Griddle, düz metal bir yüzeyde pişirme yapar." },
+      { "text": "Devrilir Tava (Bratt Pan)", "isCorrect": true, "rationale": "Bratt pan, büyük kapasitesi ve çok yönlülüğü sayesinde haşlama, kızartma, ızgara gibi birçok farklı pişirme tekniği için kullanılabilen bir ekipmandır." },
+      { "text": "Hızlı Fritöz (Rapid Recovery Fryer)", "isCorrect": false, "rationale": "Fritöz, yiyecekleri derin yağda kızartmak için kullanılır." },
+      { "text": "Buharlı Pişirici (Atmospheric Steamer)", "isCorrect": false, "rationale": "Buharlı pişirici, yiyecekleri buharda pişirir." },
+      { "text": "Kontak Izgara (Contact Grill)", "isCorrect": false, "rationale": "Kontak ızgara, yiyeceği iki sıcak plaka arasında sıkıştırarak pişirir." }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "Yiyecekleri pişirmekten çok, üzerlerini kızartmak (gratenlemek) veya hızlıca kahverengileştirmek için kullanılan ve üstten ısı veren ızgara türü nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Kömürlü Izgara (Chargrill)", "isCorrect": false, "rationale": "Chargrill, ısıyı alttan verir ve barbekü benzeri izler bırakır." },
+      { "text": "Düz Izgara (Griddle)", "isCorrect": false, "rationale": "Griddle, düz bir yüzeyde pişirme yapar." },
+      { "text": "Kontak Izgara (Contact Grill)", "isCorrect": false, "rationale": "Kontak ızgara, hem alttan hem üstten ısı vererek pişirir." },
+      { "text": "Salamander (Salamander Izgara)", "isCorrect": true, "rationale": "Salamander, sadece üstten yoğun ısı vererek yiyeceklerin üzerini hızlıca kızartmak, gratine etmek veya kahverengileştirmek için tasarlanmıştır." },
+      { "text": "İndüksiyonlu Ocak (Induction Hob)", "isCorrect": false, "rationale": "İndüksiyonlu ocak, tencereyi manyetik alanla ısıtan bir ocak türüdür, ızgara değildir." }
+    ]
+  },
+  
+  {
+    "questionNumber": 24,
+    "question": "Etkin bir yiyecek-içecek operasyonunda 'Satın Alma' aşaması hangi aşamadan hemen sonra gelir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Menü Planlama", "isCorrect": true, "rationale": "Operasyon süreci, ne üretileceğine karar verilen 'Menü Planlama' ile başlar. Bu karara göre gereken malzemeler 'Satın Alma' aşamasında tedarik edilir." },
+      { "text": "Teslim Alma", "isCorrect": false, "rationale": "Teslim alma, satın alınan ürünlerin işletmeye gelmesi ve kontrol edilmesidir." },
+      { "text": "Depolama", "isCorrect": false, "rationale": "Depolama, teslim alınan ürünlerin saklanmasıdır." },
+      { "text": "Ön Hazırlık ve Hazırlık (Üretim)", "isCorrect": false, "rationale": "Üretim, depodaki malzemelerin işlenmesidir." },
+      { "text": "Servis", "isCorrect": false, "rationale": "Servis, hazırlanan yemeğin sunulmasıdır." }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "Gelen ürünlerin siparişe (fatura, irsaliye) uygunluğunun (ağırlık, adet, kalite) kontrol edilerek depoya alınması süreci hangi aşamadır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Satın Alma", "isCorrect": false, "rationale": "Satın alma, sipariş verme sürecidir." },
+      { "text": "Depolama", "isCorrect": false, "rationale": "Depolama, ürünlerin uygun koşullarda saklanmasıdır." },
+      { "text": "Menü Planlama", "isCorrect": false, "rationale": "Menü planlama, ne pişirileceğine karar verme sürecidir." },
+      { "text": "Teslim Alma", "isCorrect": true, "rationale": "Teslim alma, gelen ürünlerin siparişle karşılaştırılarak kalite ve miktar kontrolünün yapıldığı kritik bir aşamadır." },
+      { "text": "Hijyen ve Sanitasyon", "isCorrect": false, "rationale": "Hijyen ve sanitasyon tüm süreci kapsayan genel bir kuraldır." }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "Günümüzde ziyafetlerde en yaygın kullanılan, yemeklerin mutfakta porsiyonlanıp garson tarafından konuğun sağından servis edildiği servis usulü hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Büfe Servisi", "isCorrect": false, "rationale": "Büfe servisinde konuklar kendileri servis yapar." },
+      { "text": "Fransız Servisi (Klasik)", "isCorrect": false, "rationale": "Fransız servisinde garson yemeği sol taraftan sunar ve konuk kendi tabağına kendisi alır." },
+      { "text": "İngiliz Servisi (Maşa Servisi)", "isCorrect": false, "rationale": "İngiliz servisinde garson yemeği sol taraftan konuğun tabağına porsiyonlar." },
+      { "text": "Rus Servisi", "isCorrect": false, "rationale": "Rus servisinde yemekler büyük tepsilerle masanın ortasına bırakılır." },
+      { "text": "Tabak Servisi (Amerikan Servisi)", "isCorrect": true, "rationale": "Amerikan servisi, yemeklerin mutfakta tabaklara porsiyonlanması ve garsonun konuğun sağından servis etmesiyle tanımlanır. Hızlı ve verimli olduğu için ziyafetlerde yaygındır." }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "Garsonun, yemeği büyük bir servis tabağı ile konuğun solundan yaklaşarak sunduğu ve konuğun servis maşasını kullanarak yemeği kendi tabağına kendisinin aldığı, çok şık ve lüks servis türü hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Tabak Servisi (Amerikan Servisi)", "isCorrect": false, "rationale": "Amerikan servisinde tabak mutfakta hazırlanır." },
+      { "text": "Fransız Servisi (Klasik)", "isCorrect": true, "rationale": "Bu tanım, garsonun sol taraftan servis yapması ve misafirin kendi kendine servis yapması özellikleriyle Klasik Fransız Servisi'ni tam olarak açıklamaktadır." },
+      { "text": "İngiliz Servisi (Maşa Servisi)", "isCorrect": false, "rationale": "İngiliz servisinde yemeği tabağa garson porsiyonlar." },
+      { "text": "Büfe Servisi", "isCorrect": false, "rationale": "Büfe servisinde konuklar masadan kalkarak kendileri servis yapar." },
+      { "text": "Rus Servisi", "isCorrect": false, "rationale": "Rus servisinde yemekler masanın ortasına konur." }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "Az personelle çok sayıda kişiye hizmet verme ve konuğa seçme özgürlüğü tanıma gibi avantajları olan, ancak yiyecek israfının fazla olabildiği servis usulü hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Tabak Servisi", "isCorrect": false, "rationale": "Tabak servisi porsiyon kontrolü sağlar ve israfı azaltır." },
+      { "text": "Fransız Servisi", "isCorrect": false, "rationale": "Fransız servisi çok yavaştır ve çok sayıda personel gerektirir." },
+      { "text": "İngiliz Servisi", "isCorrect": false, "rationale": "İngiliz servisi, büfeye göre daha fazla personel gerektirir." },
+      { "text": "Büfe Servisi", "isCorrect": true, "rationale": "Büfe servisi, az personelle çok kişiye hizmet imkanı sunması ve misafire seçenek sunmasıyla avantajlıdır, ancak kontrolsüz porsiyon alımı nedeniyle israfa yol açabilir." },
+      { "text": "Rus Servisi", "isCorrect": false, "rationale": "Rus servisi, büfe kadar çok kişiye hizmet vermek için pratik değildir." }
+    ]
+  },
+  
+  {
+    "questionNumber": 29,
+    "question": "Konuğun masasında (kuver) ve serviste kullanılan tüm malzemelerin temiz, eksiksiz ve yerli yerinde olması anlamına gelen 'servis öncesi ön hazırlık' terimi nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Kuver (Cover)", "isCorrect": false, "rationale": "Kuver, masaya konulan servis takımıdır, hazırlık sürecinin tamamı değildir." },
+      { "text": "Mise-en-place (Mizanplas)", "isCorrect": true, "rationale": "Mise-en-place, 'her şey yerli yerinde' anlamına gelen Fransızca bir terimdir ve servis öncesi yapılan tüm hazırlıkları kapsar." },
+      { "text": "Layout", "isCorrect": false, "rationale": "Layout, salonun genel yerleşim planıdır." },
+      { "text": "Protokol", "isCorrect": false, "rationale": "Protokol, oturma düzeni kurallarıdır." },
+      { "text": "Briefing", "isCorrect": false, "rationale": "Briefing, servis öncesi personele verilen bilgilendirme toplantısıdır." }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "Masa örtüsünün altına serilen, ses ve kaymayı önleyen keçe örtüye ne ad verilir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Masa Örtüsü", "isCorrect": false, "rationale": "Masa örtüsü, masayı tamamen kaplayan ana örtüdür." },
+      { "text": "Kapak Örtüsü (Naperon)", "isCorrect": false, "rationale": "Naperon, ana örtünün üzerine serilen daha küçük, dekoratif örtüdür." },
+      { "text": "Peçete", "isCorrect": false, "rationale": "Peçete, konuğun kullandığı kumaş peçetedir." },
+      { "text": "Skört", "isCorrect": false, "rationale": "Skört, büfe masalarının eteklerini kapatan kumaştır." },
+      { "text": "Miflon (Multon)", "isCorrect": true, "rationale": "Miflon (veya Molton), masa örtüsünün altına serilerek hem ses yapmasını engeller hem de örtünün kaymasını önler." }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "Yemeği masada sıcak tutan ısıtıcıya ne ad verilir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Şarap kovası (buzluk)", "isCorrect": false, "rationale": "Şarap kovası içecekleri soğuk tutmak için kullanılır." },
+      { "text": "Kloş (cloche)", "isCorrect": false, "rationale": "Kloş, tabağın üzerini kapatan kapaktır." },
+      { "text": "Reşo (rechaud)", "isCorrect": true, "rationale": "Reşo, genellikle büfelerde veya masada, yiyecek kaplarının altına konularak onları sıcak tutan bir ısıtıcıdır." },
+      { "text": "Sosiyer (sosluk)", "isCorrect": false, "rationale": "Sosiyer, sos servisi için kullanılan kaptır." },
+      { "text": "Servis tepsisi", "isCorrect": false, "rationale": "Tepsi, yiyecek ve içecekleri taşımak için kullanılır." }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "Pişmiş yiyeceklerin sıcaklığını çok hızlı bir şekilde düşürerek bakteri üremesini sınırlayan ve gıda güvenliği sağlayan ekipman hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Endüstriyel Buzdolabı / Dondurucu", "isCorrect": false, "rationale": "Buzdolabı ve dondurucu yiyecekleri soğuk tutar, ancak sıcak yiyecekleri 'hızlı' soğutmak için tasarlanmamıştır." },
+      { "text": "Hızlı Soğutucu (Blast Chiller)", "isCorrect": true, "rationale": "Blast chiller, sıcak yiyecekleri tehlikeli sıcaklık aralığından (5°C - 63°C) hızla geçirerek gıda güvenliğini sağlamak için özel olarak tasarlanmıştır." },
+      { "text": "Benmari (Bain-Marie)", "isCorrect": false, "rationale": "Benmari, yiyecekleri sıcak tutmak için kullanılır, soğutmak için değil." },
+      { "text": "Sıcak Dolap (Hot Cupboard)", "isCorrect": false, "rationale": "Sıcak dolap, yiyecekleri ve tabakları sıcak tutar." },
+      { "text": "Soğuk Teşhir Dolabı (Chilled Display Cabinet)", "isCorrect": false, "rationale": "Bu dolap, zaten soğuk olan ürünleri sergilemek için kullanılır." }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "Pişmiş yiyecekleri servis boyunca sıcak tutmak (hot holding) için kullanılan ve alttaki suyun ısınmasıyla üstteki kapları ısıtan ekipman hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Çorba Kazanı (Soup Kettle)", "isCorrect": false, "rationale": "Çorba kazanı sadece çorba gibi sıvı yiyecekler için kullanılır ve genellikle doğrudan ısıtma prensibiyle çalışır." },
+      { "text": "Sıcak Dolap (Hot Cupboard)", "isCorrect": false, "rationale": "Sıcak dolap, kuru ısı ile tabakları veya kapalı kaplardaki yiyecekleri sıcak tutar." },
+      { "text": "Benmari (Bain-Marie)", "isCorrect": true, "rationale": "Benmari, alttaki sıcak su banyosu sayesinde üstteki kaplarda bulunan yiyeceklerin (soslar, güveçler vb.) kurumasını önleyerek ve yavaşça ısıtarak güvenli sıcaklıkta kalmasını sağlar." },
+      { "text": "Hızlı Soğutucu (Blast Chiller)", "isCorrect": false, "rationale": "Blast chiller, yiyecekleri soğutmak için kullanılır." },
+      { "text": "Endüstriyel Fırın (Range Oven)", "isCorrect": false, "rationale": "Fırın, yiyecekleri pişirmek için kullanılır." }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "Ziyafet müdürünün, etkinlikten hemen önce tüm servis ve mutfak ekibiyle yaptığı kısa bilgilendirme toplantısına ne ad verilir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Sözleşme", "isCorrect": false, "rationale": "Sözleşme, müşteri ile yapılan anlaşmadır." },
+      { "text": "BEO (Banquet Event Order)", "isCorrect": false, "rationale": "BEO, etkinliğin yazılı planıdır." },
+      { "text": "Mise-en-place", "isCorrect": false, "rationale": "Mise-en-place, servis öncesi hazırlıktır." },
+      { "text": "Briefing", "isCorrect": true, "rationale": "Briefing, servis başlamadan hemen önce personele menü, servis zamanlaması, özel talepler ve motivasyon gibi konularda bilgi verilen hayati bir toplantıdır." },
+      { "text": "Değerlendirme", "isCorrect": false, "rationale": "Değerlendirme, genellikle etkinlik sonrasında yapılır." }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "Aşağıdakilerden hangisi bir servis öncesi briefing'de genellikle ele alınan konulardan biri değildir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Menü ve içeceklerin ekibe anlatılması.", "isCorrect": false, "rationale": "Bu, briefing'in en temel konularından biridir." },
+      { "text": "Protokol konukları veya özel talebi olan (alerji vb.) konuklar hakkında bilgi verilmesi.", "isCorrect": false, "rationale": "Özel misafirler ve talepler hakkında personeli bilgilendirmek çok önemlidir." },
+      { "text": "Personelin bir sonraki ayki maaş zamlarının tartışılması.", "isCorrect": true, "rationale": "Briefing, operasyonel konulara odaklanır. Maaş gibi idari ve İK konuları bu toplantının gündemi değildir." },
+      { "text": "Servis zamanlamasının (konuşmalar, pasta kesimi vb.) personele aktarılması.", "isCorrect": false, "rationale": "Servisin akışını sağlamak için zamanlama kritik öneme sahiptir ve briefing'de paylaşılır." },
+      { "text": "Personelin kılık-kıyafet (üniforma) ve kişisel hijyen kontrolünün yapılması.", "isCorrect": false, "rationale": "Profesyonel bir görünüm için bu kontrol briefing'in bir parçasıdır." }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "'A la carte' menünün kelime anlamı nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Günün Menüsü", "isCorrect": false, "rationale": "Bu genellikle 'Menu du Jour' olarak ifade edilir." },
+      { "text": "Şefin Seçimi", "isCorrect": false, "rationale": "Bu genellikle 'Chef's Special' olarak ifade edilir." },
+      { "text": "Karta göre", "isCorrect": true, "rationale": "A la carte, 'karta göre' veya 'listeye göre' anlamına gelir, yani konuk listeden dilediği yemeği seçer." },
+      { "text": "Sabit Fiyat", "isCorrect": false, "rationale": "Sabit fiyatlı menü Table d'hôte'dur." },
+      { "text": "Aile Stili", "isCorrect": false, "rationale": "Bu, genellikle İngiliz servisiyle ilişkilendirilir." }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "Ziyafetlerde genellikle tercih edilmeyen ancak kokteyl partilerindeki 'show' stantlarında (anlık makarna pişirme vb.) kullanılabilen menü mantığı hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Table d'hôte Menü", "isCorrect": false, "rationale": "Table d'hôte, standart ve önceden belirlenmiş bir menüdür, anlık hazırlığa uygun değildir." },
+      { "text": "A la carte Menü", "isCorrect": true, "rationale": "Sipariş üzerine anında hazırlanan yemekler 'a la carte' mantığına dayanır. Bu yüzden ziyafetler için genellikle pratik olmasa da, gösteri amaçlı stantlarda bu mantık kullanılır." },
+      { "text": "Büfe Menüsü", "isCorrect": false, "rationale": "Büfe menüsü, yemeklerin önceden hazırlanıp sergilenmesi esasına dayanır." },
+      { "text": "Banket Menüsü", "isCorrect": false, "rationale": "Banket menüleri genellikle Table d'hôte'dur." },
+      { "text": "Set Menü", "isCorrect": false, "rationale": "Set menü, Table d'hôte ile eş anlamlıdır." }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "Ziyafet yönetiminin başlangıç noktası olarak kabul edilen ilk adım nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Personel organizasyonu yapmak.", "isCorrect": false, "rationale": "Personel organizasyonu, talepler netleştikten sonraki aşamalardandır." },
+      { "text": "Sözleşme hazırlamak.", "isCorrect": false, "rationale": "Sözleşme, taleplerin kabul edilmesinden sonra hazırlanır." },
+      { "text": "Menü oluşturmak ve talepleri kabul etmek.", "isCorrect": true, "rationale": "Metne göre, ziyafet yönetiminin başlangıç noktası, müşteri taleplerini analiz ederek onlara uygun menüler oluşturmaktır." },
+      { "text": "Ekipman temin etmek.", "isCorrect": false, "rationale": "Ekipman temini, menü ve konsept belirlendikten sonra yapılır." },
+      { "text": "Salon yerleşim planı yapmak.", "isCorrect": false, "rationale": "Salon planı, kişi sayısı ve etkinlik türü kesinleştikten sonra yapılır." }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "Yiyecek içecek işletmelerinde yönetimin 'başkaları aracılığıyla iş görmek' sanatı olarak tanımlanan fonksiyonlarının etkin bir şekilde uygulanması neye bağlıdır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Sadece düşük maliyetlere", "isCorrect": false, "rationale": "Düşük maliyetler önemli olsa da, tek başına başarıyı garantilemez." },
+      { "text": "Sadece yetenekli personele", "isCorrect": false, "rationale": "Yetenekli personel önemlidir, ancak iyi yönetilmezlerse başarılı olamazlar." },
+      { "text": "Yönetim fonksiyonlarının birbiriyle ilişkili bir süreç olarak uygulanmasına", "isCorrect": true, "rationale": "Ziyafetin başarısı, Planlama, Örgütleme, Yöneltme, Koordinasyon ve Kontrol fonksiyonlarının bir bütün olarak etkin şekilde uygulanmasına bağlıdır." },
+      { "text": "Modern mutfak ekipmanlarına", "isCorrect": false, "rationale": "Ekipmanlar bir araçtır, başarının tek belirleyicisi değildir." },
+      { "text": "Geniş bir müşteri portföyüne", "isCorrect": false, "rationale": "Geniş bir portföy sonuçtur, başarının temelindeki süreç değildir." }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "Ziyafetin başarısı için mutfak ve servis ekibi arasında kusursuz bir işbirliği ve zamanlama sağlanması, yönetimin hangi fonksiyonu kapsamındadır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Planlama", "isCorrect": false, "rationale": "Planlama, geleceğe yönelik kararlar almaktır." },
+      { "text": "Örgütleme", "isCorrect": false, "rationale": "Örgütleme, kaynakların organize edilmesidir." },
+      { "text": "Yöneltme", "isCorrect": false, "rationale": "Yöneltme, ekibi motive etme ve yönetmedir." },
+      { "text": "Kontrol", "isCorrect": false, "rationale": "Kontrol, sonuçların denetlenmesidir." },
+      { "text": "Koordinasyon", "isCorrect": true, "rationale": "Koordinasyon, farklı departmanlar ve ekipler arasında uyum ve işbirliği sağlayarak operasyonun sorunsuz yürümesini temin etmektir." }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "Resmi yemeklerde (protokol), şeref konuğu ve ev sahibinin konumunun belirlenip önem sırasına göre bir oturma düzeni oluşturulması, salon yerleşim planının hangi unsurudur?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Masa Şekilleri", "isCorrect": false, "rationale": "Bu, masaların fiziksel düzenidir." },
+      { "text": "Protokol ve Oturma Düzeni", "isCorrect": true, "rationale": "Bu, konukların önem ve statülerine göre masalara yerleştirilmesi kurallarını içerir." },
+      { "text": "Akış Yolları", "isCorrect": false, "rationale": "Bu, servis ve hareket alanlarıdır." },
+      { "text": "Ekipman Konumu", "isCorrect": false, "rationale": "Bu, büfe ve bar gibi ekipmanların yeridir." },
+      { "text": "Kuver (Cover)", "isCorrect": false, "rationale": "Bu, masadaki servis malzemeleridir." }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "Finansal süreçte, sözleşme anında alınan ön ödemeye ne ad verilir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Adisyon", "isCorrect": false, "rationale": "Adisyon, ekstra harcamaları gösterir." },
+      { "text": "Fatura", "isCorrect": false, "rationale": "Fatura, son ödeme belgesidir." },
+      { "text": "Peşinat (Kaparo)", "isCorrect": true, "rationale": "Kaparo, anlaşmayı kesinleştirmek için etkinlikten önce alınan ön ödemedir." },
+      { "text": "Bakiye", "isCorrect": false, "rationale": "Bakiye, kaparo düşüldükten sonra kalan ödemedir." },
+      { "text": "Ciro", "isCorrect": false, "rationale": "Ciro, toplam gelirdir." }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "Ziyafet sırasındaki servis operasyonunu yöneten, garsonları yönlendiren ve belirli bir 'posta'dan (bölge) sorumlu olan kişi kimdir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Yiyecek İçecek Müdürü (F&B Manager)", "isCorrect": false, "rationale": "F&B Manager daha üst bir yöneticidir." },
+      { "text": "Ziyafet Müdürü (Banquet Manager)", "isCorrect": false, "rationale": "Ziyafet Müdürü planlama ve satıştan sorumludur." },
+      { "text": "Restoran Müdürü / Şef Garson (Maitre d'Hotel)", "isCorrect": false, "rationale": "Şef Garson, tüm salon operasyonunu yönetir." },
+      { "text": "Servis Şefi (Head Waiter / Kaptan)", "isCorrect": true, "rationale": "Servis Şefi (Kaptan), garsonları yönetir ve ziyafet sırasında belirli bir bölümün servisinden sorumludur." },
+      { "text": "Servis Elemanı (Garson)", "isCorrect": false, "rationale": "Garson, doğrudan masalara servis yapar." }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "Aşçıbaşı (Executive Chef) olmadığında tüm sorumluluğu üstlenen, onun yardımcısı olan ve operasyonel işleyişi denetleyen kişi kimdir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Kısım Şefi (Chef de Parti)", "isCorrect": false, "rationale": "Kısım Şefi sadece kendi bölümünden sorumludur." },
+      { "text": "Aşçıbaşı Yardımcısı (Sous Chef)", "isCorrect": true, "rationale": "Sous Chef, mutfak hiyerarşisinde Aşçıbaşı'ndan sonra ikinci kişidir ve onun yokluğunda vekalet eder." },
+      { "text": "Bulaşıkçı (Steward)", "isCorrect": false, "rationale": "Steward, temizlik ve hijyenden sorumludur." },
+      { "text": "Izgaracı Şefi (Chef Rotisseur)", "isCorrect": false, "rationale": "Rotisseur, sadece ızgara bölümünden sorumlu bir Kısım Şefidir." },
+      { "text": "Yiyecek İçecek Müdürü", "isCorrect": false, "rationale": "F&B Müdürü idari bir yöneticidir, mutfak operasyonunu doğrudan yönetmez." }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "Patatesleri çip (kızartmalık) şeklinde hazırlamak için kullanılan özel mutfak ekipmanı hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Dilimleyici (Slicer)", "isCorrect": false, "rationale": "Slicer genellikle et ürünleri için ince dilimler keser." },
+      { "text": "Mutfak Robotu (Food Processor)", "isCorrect": false, "rationale": "Mutfak robotu doğrayabilir ama bu iş için özel değildir." },
+      { "text": "Potato Chipper (Patates Doğrayıcı)", "isCorrect": true, "rationale": "Potato Chipper, adından da anlaşılacağı gibi, patatesleri kızartmalık (chip) şeklinde kesmek için tasarlanmış özel bir alettir." },
+      { "text": "El Blenderı", "isCorrect": false, "rationale": "Blender püre yapmak için kullanılır." },
+      { "text": "Kıyma Makinesi", "isCorrect": false, "rationale": "Bu makine eti kıymak için kullanılır." }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "Yiyecekleri buharda pişirmek için kullanılan; et, balık, sebze için sağlıklı bir pişirme yöntemi sunan ekipman hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Hızlı Fritöz", "isCorrect": false, "rationale": "Fritöz derin yağda kızartma yapar." },
+      { "text": "Kombinasyonlu Fırın", "isCorrect": false, "rationale": "Kombi fırın buharlı pişirme yapabilir ama bu iş için özel olan ekipman başka bir isimle anılır." },
+      { "text": "Tütsüleme Fırını", "isCorrect": false, "rationale": "Bu fırın yiyecekleri tütsüler." },
+      { "text": "Buharlı Pişirici (Atmospheric Steamer)", "isCorrect": true, "rationale": "Buharlı Pişirici, yiyecekleri sadece buhar kullanarak pişirmek için tasarlanmış özel bir ekipmandır." },
+      { "text": "Benmari", "isCorrect": false, "rationale": "Benmari, yiyecekleri sıcak tutmak veya yavaşça ısıtmak için kullanılır, pişirmek için değil." }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "Barbeküye benzeyen, ısının alttan gelerek yiyeceklerin üzerinde çekici (mühürlü) kahverengi çizgiler bıraktığı ızgara türü nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Salamander Izgara", "isCorrect": false, "rationale": "Salamander ısıyı üstten verir." },
+      { "text": "Düz Izgara (Griddle)", "isCorrect": false, "rationale": "Griddle düz bir yüzeye sahiptir ve çizgi bırakmaz." },
+      { "text": "Kontak Izgara (Contact Grill)", "isCorrect": false, "rationale": "Kontak ızgara yiyeceği sıkıştırır ve her iki taraftan da çizgi bırakabilir." },
+      { "text": "Kömürlü Izgara (Chargrill)", "isCorrect": true, "rationale": "Chargrill, alttan gelen yoğun ısı ve ızgara telleri sayesinde yiyeceklerin üzerinde karakteristik mühürleme izleri bırakır." },
+      { "text": "Devrilir Tava (Bratt Pan)", "isCorrect": false, "rationale": "Bratt pan, griddling yapabilse de, bu tanım en çok chargrill'e uymaktadır." }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "Yiyeceğin iki sıcak plaka arasına konularak ve üstteki plakanın bastırılarak pişirildiği ızgara türü hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Kömürlü Izgara (Chargrill)", "isCorrect": false, "rationale": "Chargrill'de ısı alttan gelir ve yiyecek sıkıştırılmaz." },
+      { "text": "Düz Izgara (Griddle)", "isCorrect": false, "rationale": "Griddle'da yiyecek tek bir sıcak yüzey üzerindedir." },
+      { "text": "Kontak Izgara (Contact Grill)", "isCorrect": true, "rationale": "Kontak ızgara, panini veya tost makineleri gibi, yiyeceği iki ısıtılmış yüzey arasında sıkıştırarak hızlı ve eşit bir şekilde pişirir." },
+      { "text": "Salamander Izgara", "isCorrect": false, "rationale": "Salamander'de ısı sadece üsttendir." },
+      { "text": "Tütsüleme Fırını", "isCorrect": false, "rationale": "Bu bir fırındır, ızgara değil." }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "Büyük miktarlarda ekmeği hızlıca kızartmak için kullanılan ve saatte 1000 dilime kadar kızartma yapabilen makine hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Hızlı Fritöz", "isCorrect": false, "rationale": "Fritöz yağda kızartma yapar." },
+      { "text": "Endüstriyel Fırın", "isCorrect": false, "rationale": "Fırın ekmek kızartmak için verimli bir yöntem değildir." },
+      { "text": "Döner Tost Makinesi (Rotary Toaster)", "isCorrect": true, "rationale": "Döner tost makinesi, bir konveyör bandı üzerinde ekmek dilimlerini sürekli olarak hareket ettirerek çok yüksek kapasitede tost yapabilen endüstriyel bir cihazdır." },
+      { "text": "Kontak Izgara", "isCorrect": false, "rationale": "Kontak ızgara daha küçük kapasitelidir." },
+      { "text": "Mikrodalga Fırın", "isCorrect": false, "rationale": "Mikrodalga ekmeği kızartmaz, yumuşatır." }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "'Alevsiz' olan ve anında ısınan ocak türü olarak tanımlanan ekipman hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Endüstriyel Fırın", "isCorrect": false, "rationale": "Fırınlar genellikle gazlı veya elektrikli rezistanslıdır." },
+      { "text": "Düz Izgara (Griddle)", "isCorrect": false, "rationale": "Griddle'lar gaz veya elektrikle ısınır ama prensibi farklıdır." },
+      { "text": "İndüksiyonlu Ocak (Induction Hob)", "isCorrect": true, "rationale": "İndüksiyonlu ocaklar, manyetik bir alan yaratarak sadece tencerenin tabanını ısıtır. Yüzeyi alevsizdir ve çok hızlı ısınır." },
+      { "text": "Kömürlü Izgara", "isCorrect": false, "rationale": "Kömürlü ızgarada ateş ve köz bulunur." },
+      { "text": "Gazlı Ocak", "isCorrect": false, "rationale": "Gazlı ocaklarda açık alev vardır." }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "question": "Büyük miktarlarda patatesi (kumpir için) pişiren ve aynı zamanda servis için sıcak tutma özelliğine sahip olan fırın hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Mikrodalga Fırın", "isCorrect": false, "rationale": "Mikrodalga patatesi haşlar gibi pişirir, fırınlanmış lezzeti vermez." },
+      { "text": "Kombinasyonlu Fırın", "isCorrect": false, "rationale": "Kombi fırın bu işi yapabilir, ancak bu amaca özel olarak tasarlanmış bir fırın türü vardır." },
+      { "text": "Patates Fırını (Potato Oven)", "isCorrect": true, "rationale": "Patates fırını (genellikle kumpir fırını olarak bilinir), büyük miktarlarda patatesi eşit şekilde pişirmek ve daha sonra sıcak bir şekilde sergilemek üzere özel olarak tasarlanmıştır." },
+      { "text": "Pizza Fırını", "isCorrect": false, "rationale": "Pizza fırını çok yüksek sıcaklıklarda çalışır ve patates pişirmek için ideal değildir." },
+      { "text": "Devrilir Tava", "isCorrect": false, "rationale": "Bu bir fırın değil, tavadır." }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "question": "Malzemelerin mutfakta işlenerek (doğrama, pişirme) menüdeki yemeklere dönüştürülmesi süreci, catering planı yönetiminin hangi aşamasıdır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Satın Alma", "isCorrect": false, "rationale": "Satın alma, malzeme tedariğidir." },
+      { "text": "Teslim Alma", "isCorrect": false, "rationale": "Teslim alma, malzemelerin kontrolüdür." },
+      { "text": "Depolama", "isCorrect": false, "rationale": "Depolama, malzemelerin saklanmasıdır." },
+      { "text": "Ön Hazırlık ve Hazırlık (Üretim)", "isCorrect": true, "rationale": "Üretim, ham malzemelerin işlenerek nihai ürün olan yemeğe dönüştürüldüğü aşamadır." },
+      { "text": "Servis", "isCorrect": false, "rationale": "Servis, yemeğin sunulmasıdır." }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "question": "Tabak Servisi'nin (Amerikan Servisi) en önemli avantajlarından biri nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Çok şık ve lüks bir servis olması.", "isCorrect": false, "rationale": "Şık ve lüks servis genellikle Fransız servisi ile ilişkilendirilir." },
+      { "text": "Konuğa seçme özgürlüğü tanıması.", "isCorrect": false, "rationale": "Seçme özgürlüğü büfe servisinde daha fazladır." },
+      { "text": "Hızlı olması ve porsiyon kontrolü sağlaması.", "isCorrect": true, "rationale": "Yemekler mutfakta standart porsiyonlarda hazırlandığı için hem servis hızlıdır hem de maliyet ve israf kontrolü (porsiyon kontrolü) sağlanır." },
+      { "text": "Az sayıda servis personeli gerektirmesi.", "isCorrect": false, "rationale": "Az personel gereksinimi genellikle Büfe Servisi'nin bir avantajıdır, ancak Amerikan servis de diğer masa servislerine göre verimlidir." },
+      { "text": "Konuğun maşa kullanmayı bilmesini gerektirmesi.", "isCorrect": false, "rationale": "Bu, Fransız servisinin bir dezavantajıdır." }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "question": "İngiliz Servisi (Maşa Servisi) ile Fransız Servisi arasındaki temel fark nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Fransız servisinde sağdan, İngiliz servisinde soldan servis yapılır.", "isCorrect": false, "rationale": "Her ikisinde de garson konuğa sol taraftan yaklaşır." },
+      { "text": "Fransız servisinde yemeği konuk, İngiliz servisinde garson porsiyonlar.", "isCorrect": true, "rationale": "Temel fark budur. Fransız servisinde konuk servis maşasını kullanarak kendi tabağına yemeği alır. İngiliz servisinde ise garson, servis maşasını kullanarak yemeği konuğun tabağına porsiyonlar." },
+      { "text": "İngiliz servisi daha yavaştır.", "isCorrect": false, "rationale": "Tam tersine, garson porsiyonlama yaptığı için İngiliz servisi Fransız servisine göre daha hızlıdır." },
+      { "text": "Fransız servisinde porsiyon kontrolü vardır.", "isCorrect": false, "rationale": "Her ikisinde de porsiyon kontrolü zayıftır. Fransız servisinde hiç yoktur, İngiliz servisinde garsonun inisiyatifindedir." },
+      { "text": "İngiliz servisi sadece tatlılar için kullanılır.", "isCorrect": false, "rationale": "Bu doğru değildir, tüm yemekler için kullanılabilir." }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "question": "Yemeklerin mutfakta hazırlanıp büyük tepsilerle masanın ortasına bırakıldığı ve konukların yemekleri kendilerinin aldığı servis usulü hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Tabak Servisi", "isCorrect": false, "rationale": "Tabaklar kişiye özel gelir." },
+      { "text": "Büfe Servisi", "isCorrect": false, "rationale": "Büfede ayrı bir masa kurulur, konuklar oradan alır." },
+      { "text": "Fransız Servisi", "isCorrect": false, "rationale": "Garson her konuğa ayrı ayrı servis yapar." },
+      { "text": "İngiliz Servisi", "isCorrect": false, "rationale": "Garson her konuğa ayrı ayrı porsiyonlama yapar." },
+      { "text": "Rus Servisi", "isCorrect": true, "rationale": "Rus servisi, 'Türk usulü meze servisine benzer' ifadesiyle de belirtildiği gibi, gösterişli tepsilerdeki yemeklerin masanın ortasına konulması ve misafirlerin kendi kendilerine servis yapması esasına dayanır." }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "question": "Kuverin temelini oluşturan en alttaki büyük tabağa ne ad verilir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Ana yemek tabağı", "isCorrect": false, "rationale": "Ana yemek tabağı bunun üzerine konulur." },
+      { "text": "Servis tabağı (Show plate)", "isCorrect": true, "rationale": "Show plate (şov tabağı veya servis tabağı), kuverin altına yerleştirilen, genellikle dekoratif olan ve üzerinden yemek yenmeyen temel tabaktır." },
+      { "text": "Antre tabağı", "isCorrect": false, "rationale": "Antre tabağı daha küçüktür ve başlangıçlar için kullanılır." },
+      { "text": "Ekmek tabağı", "isCorrect": false, "rationale": "Ekmek tabağı solda yer alan küçük tabaktır." },
+      { "text": "Çukur tabak", "isCorrect": false, "rationale": "Çukur tabak çorba veya makarna için kullanılır." }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "question": "Ana masa örtüsünün üzerine serilen daha küçük, dekoratif ve kirlendiğinde kolay değişen örtüye ne denir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Miflon (Multon)", "isCorrect": false, "rationale": "Miflon masa örtüsünün altına serilir." },
+      { "text": "Masa Örtüsü", "isCorrect": false, "rationale": "Bu ana örtüdür." },
+      { "text": "Kapak Örtüsü (Naperon)", "isCorrect": true, "rationale": "Naperon, hem dekorasyon hem de ana örtünün temiz kalmasını sağlamak amacıyla üzerine serilen daha küçük örtüdür." },
+      { "text": "Skört", "isCorrect": false, "rationale": "Skört, masanın eteklerini kapatır." },
+      { "text": "Runner", "isCorrect": false, "rationale": "Runner benzer bir işlev görse de, metinde geçen terim Naperon'dur." }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "question": "Endüstriyel mutfaklarda yüksek riskli gıdaların saklanması için önerilen buzdolabı ve dondurucu sıcaklık aralıkları sırasıyla nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "5-10°C (buzdolabı) ve -10°C (dondurucu)", "isCorrect": false, "rationale": "Bu sıcaklıklar gıda güvenliği için yeterince soğuk değildir." },
+      { "text": "0-4°C (buzdolabı) ve -18°C (dondurucu)", "isCorrect": true, "rationale": "Metinde belirtilen uluslararası gıda güvenliği standartlarına göre, buzdolapları 0-4°C arasında, dondurucular ise -18°C veya daha soğuk olmalıdır." },
+      { "text": "-5°C (buzdolabı) ve -25°C (dondurucu)", "isCorrect": false, "rationale": "Buzdolabı için -5°C çok soğuktur, yiyecekleri dondurur." },
+      { "text": "10-15°C (buzdolabı) ve 0°C (dondurucu)", "isCorrect": false, "rationale": "Bu sıcaklıklar tehlikeli aralıktadır ve bakteri üremesine neden olur." },
+      { "text": "0°C (buzdolabı) ve -10°C (dondurucu)", "isCorrect": false, "rationale": "-10°C dondurucu için yeterince soğuk kabul edilmez." }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "question": "Sandviçler, salata kaseleri, kremalı pastalar gibi soğuk yiyecek ve içecekleri sergilemek ve satmak için kullanılan dolap türü hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Endüstriyel Buzdolabı", "isCorrect": false, "rationale": "Buzdolabı saklama amaçlıdır, sergileme değil." },
+      { "text": "Hızlı Soğutucu", "isCorrect": false, "rationale": "Bu, sıcak yiyecekleri hızla soğutur." },
+      { "text": "Soğuk Teşhir Dolabı (Chilled Display Cabinet)", "isCorrect": true, "rationale": "Bu dolaplar, ürünleri güvenli bir sıcaklıkta tutarken aynı zamanda müşterilerin görmesi ve seçmesi için sergilemek üzere tasarlanmıştır." },
+      { "text": "Sıcak Dolap", "isCorrect": false, "rationale": "Bu, yiyecekleri sıcak tutar." },
+      { "text": "Dondurucu", "isCorrect": false, "rationale": "Dondurucu ürünleri dondurarak saklar, sergilemez." }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "question": "Büyük miktarlardaki tabakları/bulaşıkları hızlıca yıkamak ve kurutmak için kullanılan ve 'Pass through' (giyotin tip) modeli bulunan makine hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Bardak Yıkama Makinesi (Glass washer)", "isCorrect": false, "rationale": "Bu makine daha küçük ve hassas olan bardaklar içindir." },
+      { "text": "Endüstriyel Bulaşık Makinesi (Dishwasher)", "isCorrect": true, "rationale": "'Pass through' veya giyotin tip bulaşık makineleri, kirli bulaşıkların bir taraftan girip temizlenerek diğer taraftan çıktığı, yüksek kapasiteli endüstriyel mutfakların iş akışını hızlandıran makinelerdir." },
+      { "text": "Çamaşır Makinesi", "isCorrect": false, "rationale": "Bu, tekstil ürünleri (linen) içindir." },
+      { "text": "Zemin Temizleme Makinesi", "isCorrect": false, "rationale": "Bu, zemin temizliği için kullanılır." },
+      { "text": "Hızlı Soğutucu", "isCorrect": false, "rationale": "Bu bir soğutma ekipmanıdır." }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "question": "Aşağıdakilerden hangisi Metal Malzemeler (Takımlar) kategorisindeki 'Servis Takımları'na bir örnektir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Büyük boy çatal-kaşık-bıçak", "isCorrect": false, "rationale": "Bu, konuğun kullandığı 'Yemek Takımı'dır." },
+      { "text": "Tereyağı bıçağı", "isCorrect": false, "rationale": "Bu, 'Yemek Takımı'nın bir parçasıdır." },
+      { "text": "Servis maşaları (kaşık-çatal), kepçeler", "isCorrect": true, "rationale": "Servis takımları, garsonların yemekleri servis etmek için kullandığı maşa, kepçe, spatula gibi büyük boyutlu takımlardır." },
+      { "text": "Şarap kovası", "isCorrect": false, "rationale": "Bu, 'Diğer' metal malzemeler kategorisindedir." },
+      { "text": "Çay/kahve kaşığı", "isCorrect": false, "rationale": "Bu, 'Yemek Takımı'nın bir parçasıdır." }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "question": "Ziyafet menüsü oluştururken 'Ekipman Uygunluğu' ilkesi neyi ifade eder?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Yemeklerin önceden hazırlanabilir olması gerektiğini.", "isCorrect": false, "rationale": "Bu 'Hazırlanabilirlik' ilkesidir." },
+      { "text": "Menünün, mevcut mutfak malzemeleriyle (ekipmanlarıyla) kolayca hazırlanabilir olması gerektiğini.", "isCorrect": true, "rationale": "Bu ilke, mutfakta olmayan bir ekipman gerektiren (örneğin özel bir tütsüleme fırını) bir yemeğin menüye konulmaması gerektiğini belirtir." },
+      { "text": "Yemeklerin ziyafetin temasına uygun olması gerektiğini.", "isCorrect": false, "rationale": "Bu 'Tematik Uygunluk' ilkesidir." },
+      { "text": "Servis edilecek ekipmanların (tabak, çatal) temiz olması gerektiğini.", "isCorrect": false, "rationale": "Bu genel bir hijyen kuralıdır, menü oluşturma ilkesi değildir." },
+      { "text": "Yemeklerin gruplandırılarak sunulması gerektiğini.", "isCorrect": false, "rationale": "Bu 'Gruplandırma' ilkesidir." }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "question": "Yiyecek ve içeceklerin türü ile servis çeşidinin, ziyafete ödenecek bedeli ciddi şekilde değiştireceği müşteriye neden açıklanmalıdır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Müşterinin kafasını karıştırmak için.", "isCorrect": false, "rationale": "Amaç şeffaf olmak ve doğru karar vermesini sağlamaktır." },
+      { "text": "İşletmenin daha fazla kâr etmesini sağlamak için.", "isCorrect": false, "rationale": "Bu bir sonuç olabilir ama temel amaç şeffaflıktır." },
+      { "text": "Müşterinin bütçesine en uygun ve beklentilerini karşılayan seçimi yapmasına yardımcı olmak için.", "isCorrect": true, "rationale": "Açık büfe ile tabak servisi veya limitli içki ile limitsiz içki arasında büyük fiyat farkları olabilir. Müşteriyi bu konuda bilgilendirmek, sonradan sürprizlerle karşılaşmasını önler ve doğru karar almasını sağlar." },
+      { "text": "Mutfak personelinin iş yükünü azaltmak için.", "isCorrect": false, "rationale": "Bu bir faktör olabilir ama müşteriye açıklamanın temel nedeni değildir." },
+      { "text": "Sözleşmeyi daha uzun hale getirmek için.", "isCorrect": false, "rationale": "Amaç anlaşmayı netleştirmektir." }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "question": "Ziyafet sözleşmesinde yer alan 'İptal Koşulları'nın amacı nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Etkinliğin her zaman iptal edilebileceğini belirtmek.", "isCorrect": false, "rationale": "Amacı iptali teşvik etmek değildir." },
+      { "text": "Taraflardan birinin sözleşmeden cayması durumunda uygulanacak cezai şartları ve mücbir sebepleri belirlemek.", "isCorrect": true, "rationale": "İptal koşulları, her iki tarafı da olası bir iptal durumunda finansal kayıplara karşı korumak için önceden belirlenmiş kuralları içerir." },
+      { "text": "Müşterinin her zaman haklı olduğunu belirtmek.", "isCorrect": false, "rationale": "Sözleşme her iki tarafın da haklarını korur." },
+      { "text": "Sadece işletmeyi korumak.", "isCorrect": false, "rationale": "Sözleşme adil olmalı ve her iki tarafı da korumalıdır." },
+      { "text": "Etkinlik tarihini değiştirmek için gerekenleri listelemek.", "isCorrect": false, "rationale": "Bu da bir parçası olabilir ama asıl amaç cayma durumundaki sonuçları belirlemektir." }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "question": "Etkinlik sırasında ve sonrasında, planlanan ile gerçekleşenin karşılaştırılması, maliyetlerin ve müşteri memnuniyetinin denetlenmesi yönetimin hangi fonksiyonudur?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Planlama", "isCorrect": false, "rationale": "Planlama, etkinlik öncesinde yapılır." },
+      { "text": "Örgütleme", "isCorrect": false, "rationale": "Örgütleme, kaynakların organize edilmesidir." },
+      { "text": "Yöneltme", "isCorrect": false, "rationale": "Yöneltme, etkinlik sırasında ekibi yönetmektir." },
+      { "text": "Kontrol (Değerlendirme)", "isCorrect": true, "rationale": "Kontrol fonksiyonu, belirlenen hedeflere ve standartlara ne ölçüde ulaşıldığını ölçmek ve sapmalar varsa düzeltici önlemler almak anlamına gelir." },
+      { "text": "Koordinasyon", "isCorrect": false, "rationale": "Koordinasyon, ekipler arası işbirliğidir." }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "question": "Salon düzeni (layout), ziyafetin başarısı için neden kritik öneme sahiptir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Sadece daha güzel fotoğraflar çekilmesini sağladığı için.", "isCorrect": false, "rationale": "Estetik önemli olsa da, tek kritik faktör bu değildir." },
+      { "text": "Servis personelinin rahat çalışabilmesi, konukların konforu ve etkinliğin akışını sağladığı için.", "isCorrect": true, "rationale": "İyi bir layout, hem operasyonel verimliliği (personelin rahat hareketi) hem de müşteri memnuniyetini (konfor, ferahlık, kolay erişim) doğrudan etkiler." },
+      { "text": "Daha az personel çalıştırılmasına olanak tanıdığı için.", "isCorrect": false, "rationale": "Kötü bir layout daha fazla personele ihtiyaç duyulmasına bile neden olabilir." },
+      { "text": "Yemeklerin daha lezzetli olmasını sağladığı için.", "isCorrect": false, "rationale": "Layout, yemeklerin lezzetini doğrudan etkilemez." },
+      { "text": "Sözleşmenin bir parçası olduğu için.", "isCorrect": false, "rationale": "Sözleşmede belirtilebilir, ancak kritik olmasının nedeni bu değildir." }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "question": "Mutfak ve servis alanlarındaki tüm araçların temizliğinden ve mutfak hijyeninden sorumlu personel kimdir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Komi (Busboy)", "isCorrect": false, "rationale": "Komi kirli malzemeleri bulaşıkhaneye taşır ama genel temizlikten sorumlu değildir." },
+      { "text": "Aşçıbaşı Yardımcısı (Sous Chef)", "isCorrect": false, "rationale": "Sous Chef operasyonel işleyişi denetler." },
+      { "text": "Bulaşıkçı (Steward)", "isCorrect": true, "rationale": "Steward'ın görevi sadece bulaşıkları yıkamak değil, aynı zamanda mutfak ve servis alanlarının genel temizliği ve hijyenini sağlamaktır." },
+      { "text": "Garson (Waiter)", "isCorrect": false, "rationale": "Garson kendi çalıştığı alanın düzeninden sorumludur ama genel hijyenden değil." },
+      { "text": "Temizlik Personeli", "isCorrect": false, "rationale": "Metinde bu rol için 'Steward' terimi kullanılmaktadır ve görev tanımı daha spesifiktir." }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "question": "Aşağıdaki kısım şeflerinden hangisi sıcak yemekler bölümünde yer alır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Soğukçu Şefi (Chef Garde Manger)", "isCorrect": false, "rationale": "Garde Manger soğuk mutfaktan sorumludur." },
+      { "text": "Pastane Şefi (Chef Patissier)", "isCorrect": false, "rationale": "Patissier tatlı ve hamur işlerinden sorumludur." },
+      { "text": "Sosçu / Sıcakçı Şefi (Chef Saucier)", "isCorrect": true, "rationale": "Saucier, tüm sıcak soslardan, et yemeklerinden ve sote yemeklerden sorumlu olduğu için sıcak bölümün en önemli şeflerinden biridir." },
+      { "text": "Salata Şefi", "isCorrect": false, "rationale": "Salatalar genellikle Garde Manger'ın sorumluluğundadır." },
+      { "text": "Bulaşıkçı (Steward)", "isCorrect": false, "rationale": "Steward şef değildir, temizlikten sorumludur." }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "question": "Yiyeceklere 'dumanlı' bir lezzet vermek için altındaki kapta yakılan odun yongalarını kullanan fırın türü hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Kömürlü Izgara (Chargrill)", "isCorrect": false, "rationale": "Chargrill, kömür ateşinin doğrudan ısısını kullanır, dumanlama odaklı değildir." },
+      { "text": "Buharlı Pişirici (Atmospheric Steamer)", "isCorrect": false, "rationale": "Bu fırın buharla pişirir." },
+      { "text": "Tütsüleme Fırını (Smoking Oven)", "isCorrect": true, "rationale": "Tütsüleme fırını, yiyecekleri düşük sıcaklıkta uzun süre duman altında bırakarak hem pişirmek hem de onlara karakteristik bir lezzet katmak için tasarlanmıştır." },
+      { "text": "Endüstriyel Fırın (Range Oven)", "isCorrect": false, "rationale": "Bu standart bir pişirme fırınıdır." },
+      { "text": "Kombinasyonlu Fırın (Combination Oven)", "isCorrect": false, "rationale": "Bazı kombi fırınlarda tütsüleme özelliği olabilir ama bu iş için özel olan ekipman Smoking Oven'dır." }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "question": "Catering planı yönetim sürecinde 'Hijyen ve Sanitasyon' aşamasının yeri neresidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Sadece Servis sonrası temizlik aşamasıdır.", "isCorrect": false, "rationale": "Servis sonrası temizlik önemli bir parçasıdır ama sadece bununla sınırlı değildir." },
+      { "text": "Sadece Depolama aşamasında önemlidir.", "isCorrect": false, "rationale": "Depolama hijyeni kritiktir ama tek aşama değildir." },
+      { "text": "Tüm süreç boyunca ve servis sonrası devam eder.", "isCorrect": true, "rationale": "Hijyen ve sanitasyon, ham maddenin teslim alınmasından depolanmasına, hazırlanmasından servisine ve sonrasındaki temizliğe kadar tüm operasyon sürecini kapsayan kesintisiz bir gerekliliktir." },
+      { "text": "Sadece Ön Hazırlık aşamasında uygulanır.", "isCorrect": false, "rationale": "Hazırlık aşaması hijyenin en önemli olduğu yerlerden biridir ama tek değildir." },
+      { "text": "Sadece personelin kişisel temizliğidir.", "isCorrect": false, "rationale": "Personel hijyeni önemli bir parçasıdır ama süreç hijyeni daha geniştir." }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "question": "Tabak Servisi (Amerikan Servisi) sırasında boş tabaklar konuğun hangi tarafından alınır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Solundan", "isCorrect": false, "rationale": "Genel kural olarak soldan sadece belirli malzemeler (ekmek, salata) servis edilir ve alınır." },
+      { "text": "Sağından", "isCorrect": true, "rationale": "Amerikan servisinde ana yemek sağdan servis edildiği gibi, boşlar da (genel kural olarak) yine sağdan alınır." },
+      { "text": "Önünden uzanarak", "isCorrect": false, "rationale": "Bu, servis kurallarına aykırıdır ve kaba bir davranıştır." },
+      { "text": "Fark etmez, garsonun uygun gördüğü taraftan.", "isCorrect": false, "rationale": "Servisin belirli ve standart kuralları vardır." },
+      { "text": "Konuğa sorularak", "isCorrect": false, "rationale": "Profesyonel bir garson ne yapacağını bilir, sormasına gerek yoktur." }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "question": "Aşağıdakilerden hangisi Cam Malzemeler kategorisine girmez?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Su bardağı", "isCorrect": false, "rationale": "Su bardağı bir cam malzemedir." },
+      { "text": "Şarap kadehi", "isCorrect": false, "rationale": "Şarap kadehi bir cam malzemedir." },
+      { "text": "Sürahi", "isCorrect": false, "rationale": "Sürahi genellikle camdan yapılır." },
+      { "text": "Fincan", "isCorrect": true, "rationale": "Fincanlar (çay/kahve), genellikle Porselen Malzemeler kategorisinde yer alır." },
+      { "text": "Rakı bardağı", "isCorrect": false, "rationale": "Rakı bardağı bir cam malzemedir." }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "question": "Büfe ve masaların eteklerini kapatan kumaşlara ne ad verilir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Masa Örtüsü", "isCorrect": false, "rationale": "Masa örtüsü masanın üstünü kaplar." },
+      { "text": "Miflon", "isCorrect": false, "rationale": "Miflon örtünün altına serilir." },
+      { "text": "Naperon", "isCorrect": false, "rationale": "Naperon örtünün üstüne serilir." },
+      { "text": "Skörtler", "isCorrect": true, "rationale": "Skört (skirting), özellikle büfe masalarının ayaklarını ve altını gizleyerek daha şık bir görünüm sağlayan eteklik şeklindeki kumaşlardır." },
+      { "text": "Peçete", "isCorrect": false, "rationale": "Peçete konuklar için kullanılır." }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "question": "Tabakları servis öncesinde ısıtmak veya pişmiş yiyecek tabaklarını servis anına kadar sıcak tutmak için kullanılan ekipman hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Benmari (Bain-Marie)", "isCorrect": false, "rationale": "Benmari yiyecekleri sıcak tutar, tabakları değil." },
+      { "text": "Sıcak Dolap (Hot Cupboard)", "isCorrect": true, "rationale": "Sıcak dolaplar, çok sayıda tabağı servis öncesi ısıtmak ve sıcak tutmak için özel olarak tasarlanmıştır. Bu, yemeğin misafire sıcak servis edilmesi için kritik bir adımdır." },
+      { "text": "Mikrodalga Fırın", "isCorrect": false, "rationale": "Mikrodalga tabakları çok hızlı ve dengesiz ısıtır, bu iş için uygun değildir." },
+      { "text": "Endüstriyel Fırın", "isCorrect": false, "rationale": "Fırınlar bu amaçla kullanılabilir ama özel ekipman sıcak dolaptır." },
+      { "text": "Çorba Kazanı", "isCorrect": false, "rationale": "Bu, çorba gibi sıvıları sıcak tutar." }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "question": "Etkinliklerde çay ve diğer sıcak içecekler için büyük miktarlarda suyu kaynatmak ve sıcak tutmak için kullanılan ekipman nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Çorba Kazanı", "isCorrect": false, "rationale": "Çorba kazanı yemekler içindir." },
+      { "text": "Kahve Makinesi", "isCorrect": false, "rationale": "Kahve makinesi kahve demler." },
+      { "text": "Su Isıtıcısı / Çay Kazanı (Catering Urn)", "isCorrect": true, "rationale": "Catering Urn (semaver veya çay kazanı olarak da bilinir), büyük hacimli suyu kaynatıp uzun süre sıcak tutabilen, genellikle musluklu bir cihazdır." },
+      { "text": "Benmari", "isCorrect": false, "rationale": "Benmari suyu kaynatmaz, sıcak tutar." },
+      { "text": "İndüksiyonlu Ocak", "isCorrect": false, "rationale": "İndüksiyonlu ocakta su kaynatılabilir ama bu iş için özel ve pratik olan ekipman çay kazanıdır." }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "question": "Espresso, cappuccino gibi farklı kahve çeşitlerini hızlıca yapmak için kullanılan makine hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Çay Kazanı", "isCorrect": false, "rationale": "Bu, çay ve sıcak su içindir." },
+      { "text": "Filtre Kahve Makinesi", "isCorrect": false, "rationale": "Bu sadece filtre kahve yapar." },
+      { "text": "Kahve Makinesi (Coffee Machine)", "isCorrect": true, "rationale": "Metindeki 'Coffee Machine' görseli ve tanımı, genellikle espresso bazlı içecekleri (espresso, cappuccino vb.) yapabilen profesyonel makineleri ifade etmektedir." },
+      { "text": "Moka Pot", "isCorrect": false, "rationale": "Moka pot, ocak üstü bir kahve demleme ekipmanıdır, endüstriyel bir makine değildir." },
+      { "text": "Blender", "isCorrect": false, "rationale": "Blender, kahve yapmak için kullanılmaz." }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "question": "Hassas cam malzemeleri (bardakları) yıkamak için tasarlanmış daha küçük makineye ne denir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Endüstriyel Bulaşık Makinesi", "isCorrect": false, "rationale": "Bu, genellikle daha dayanıklı olan tabaklar ve diğer bulaşıklar içindir." },
+      { "text": "Bardak Yıkama Makinesi (Glass washer)", "isCorrect": true, "rationale": "Glass washer, daha düşük su basıncı, farklı deterjanlar ve daha kısa döngülerle çalışarak hassas cam eşyaların kırılmadan ve çizilmeden yıkanması için özel olarak tasarlanmıştır." },
+      { "text": "El ile yıkama", "isCorrect": false, "rationale": "Bu bir yöntemdir, makine değil." },
+      { "text": "Kurutma Makinesi", "isCorrect": false, "rationale": "Bu sadece kurutma işlemi yapar." },
+      { "text": "Cila Makinesi", "isCorrect": false, "rationale": "Bu, yıkandıktan sonra parlatma işlemi için kullanılır." }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "question": "Eleman temini, hangi aşamada belirlenen organizasyon yapısına uygun olarak personelin ziyafet günü için görevlendirilmesidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Hafta 1: Menü Oluşturma", "isCorrect": false, "rationale": "Bu aşamada personel ihtiyacı henüz netleşmemiştir." },
+      { "text": "Hafta 2: Sözleşme Yapılması", "isCorrect": false, "rationale": "Sözleşme aşamasında genel ihtiyaçlar belirlenir ama görevlendirme yapılmaz." },
+      { "text": "Hafta 4: Personel Organizasyonu ve Ekipman Temini", "isCorrect": true, "rationale": "Metne göre, Eleman Temini (Hafta 6), Hafta 4'te belirlenen genel personel organizasyonu ve hiyerarşisine göre yapılır." },
+      { "text": "Hafta 5: Servis Planı Oluşturma", "isCorrect": false, "rationale": "Servis planı oluşturulurken personel ihtiyacı daha da netleşir." },
+      { "text": "Briefing anında", "isCorrect": false, "rationale": "Briefing'de görevler hatırlatılır, ilk görevlendirme daha önce yapılır." }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "question": "Bir yılbaşı ziyafetinde hindi servis edilmesi, menü oluşturma ilkelerinden hangisine en iyi örnektir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Hazırlanabilirlik", "isCorrect": false, "rationale": "Hindi önceden hazırlanabilir ama bu ilkenin temel örneği değildir." },
+      { "text": "Ekipman Uygunluğu", "isCorrect": false, "rationale": "Fırın gerektirir ama bu ilkeyi özel olarak vurgulamaz." },
+      { "text": "Tematik Uygunluk", "isCorrect": true, "rationale": "Tematik uygunluk, menünün ziyafetin özel gün, amaç veya konseptine (yılbaşı, avcı yemeği vb.) uygun olmasını gerektirir. Yılbaşı ve hindi bu duruma klasik bir örnektir." },
+      { "text": "Gruplandırma", "isCorrect": false, "rationale": "Bu, menüdeki yemeklerin sunum sırasıyla ilgilidir." },
+      { "text": "Bütçe Uygunluğu", "isCorrect": false, "rationale": "Hindi bütçeye uygun olabilir ama bu seçimdeki temel ilke tema ile uyumdur." }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "question": "Aşağıdakilerden hangisi bir ziyafet sözleşmesinde bulunması gereken 'Mali Koşullar'dan biri değildir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Kişi başı anlaşılan fiyat ve toplam tutar.", "isCorrect": false, "rationale": "Bu, mali koşulların temelidir." },
+      { "text": "Peşinat (kaparo) tutarı ve kalan ödemenin ne zaman yapılacağı.", "isCorrect": false, "rationale": "Ödeme takvimi mali koşulların önemli bir parçasıdır." },
+      { "text": "Seçilen menünün tüm detayları (soğuk ordövr, ara sıcak vb.).", "isCorrect": true, "rationale": "Menü detayları sözleşmede yer alır, ancak 'Menü ve İçecekler' başlığı altında incelenir, doğrudan 'Mali Koşullar' değildir. Mali koşullar, bu menünün fiyatlandırılmasıyla ilgilidir." },
+      { "text": "KDV durumu.", "isCorrect": false, "rationale": "Vergi durumu, toplam maliyeti etkileyen önemli bir mali koşuldur." },
+      { "text": "İçki servisinin limitli mi, limitsiz mi olduğu.", "isCorrect": false, "rationale": "Bu durum fiyatı doğrudan etkilediği için mali koşullarla yakından ilişkilidir ve 'Menü ve İçecekler' başlığında detaylandırılır." }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "question": "Salon yerleşim planında masaların 'U', 'T', 'E' şeklinde veya yuvarlak olarak seçilmesi neye bağlıdır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Sadece Ziyafet Müdürünün tercihine", "isCorrect": false, "rationale": "Müdürün tecrübesi önemlidir ama tek faktör değildir." },
+      { "text": "Sadece mevcut masa sayısına", "isCorrect": false, "rationale": "Masa sayısı bir kısıttır ama şeklin seçim nedeni değildir." },
+      { "text": "Salonun ve davetli sayısının durumuna göre", "isCorrect": true, "rationale": "Metne göre, masa şekilleri salonun fiziksel yapısı, davetli sayısı ve etkinliğin türü (örneğin bir sunum yapılacaksa 'U' düzeni) gibi faktörlere göre seçilir." },
+      { "text": "Sadece menüdeki yemeklere", "isCorrect": false, "rationale": "Menü, masa şeklini doğrudan etkilemez." },
+      { "text": "Sadece o günkü modaya", "isCorrect": false, "rationale": "Estetik tercihler etkili olabilir ama temel belirleyiciler fonksiyonel ihtiyaçlardır." }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "question": "Aşağıdakilerden hangisi bir 'Kısım Şefi' (Chef de Parti) değildir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Balık Şefi (Chef Poissonier)", "isCorrect": false, "rationale": "Poissonier, balık bölümünden sorumlu bir kısım şefidir." },
+      { "text": "Sebze Şefi (Chef Entremetier)", "isCorrect": false, "rationale": "Entremetier, sebze bölümünden sorumlu bir kısım şefidir." },
+      { "text": "Aşçıbaşı Yardımcısı (Sous Chef)", "isCorrect": true, "rationale": "Sous Chef, tüm kısım şeflerinin üzerinde, Aşçıbaşı'nın altında yer alan bir yöneticidir. Belirli bir bölümden değil, operasyonun genelinden sorumludur." },
+      { "text": "Çorba Şefi (Chef Potager)", "isCorrect": false, "rationale": "Potager, çorba bölümünden sorumlu bir kısım şefidir." },
+      { "text": "Izgaracı Şefi (Chef Rotisseur)", "isCorrect": false, "rationale": "Rotisseur, ızgara ve fırın bölümünden sorumlu bir kısım şefidir." }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "question": "İngiliz Servisi'nin (Maşa Servisi) bir dezavantajı nedir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Çok yavaş olması.", "isCorrect": false, "rationale": "Fransız servisine göre daha hızlıdır." },
+      { "text": "Porsiyon kontrolünün garsonun inisiyatifinde olması.", "isCorrect": true, "rationale": "Garson her misafire eşit porsiyon veremeyebilir, bu da maliyet kontrolünü ve tutarlılığı zorlaştırır. Bu, Amerikan servisine göre önemli bir dezavantajdır." },
+      { "text": "Konuğun maşa kullanmayı bilmesini gerektirmesi.", "isCorrect": false, "rationale": "Bu Fransız servisinin dezavantajıdır. İngiliz servisinde garson maşayı kullanır." },
+      { "text": "Çok fazla personel gerektirmesi.", "isCorrect": false, "rationale": "Fransız servisine göre daha az personel gerektirir." },
+      { "text": "Sadece aile yemekleri için uygun olması.", "isCorrect": false, "rationale": "'Aile servisi' olarak da bilinir ama ziyafetlerde de kullanılabilir." }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "question": "Tabak Servisi (Amerikan Servisi) için aşağıdakilerden hangisi söylenemez?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Hızlı bir servis yöntemidir.", "isCorrect": false, "rationale": "Bu, Amerikan servisinin en bilinen özelliklerindendir." },
+      { "text": "Özel bir beceri gerektirmez.", "isCorrect": false, "rationale": "Diğer klasik yöntemlere göre garson için daha az teknik beceri gerektirir." },
+      { "text": "Yemekler mutfakta porsiyonlanır.", "isCorrect": false, "rationale": "Bu, servisin temel tanımıdır." },
+      { "text": "Porsiyon kontrolü yoktur ve israf fazladır.", "isCorrect": true, "rationale": "Tam tersine, Amerikan servisinin en büyük avantajlarından biri mutfakta yapılan standart porsiyonlama sayesinde porsiyon kontrolü sağlaması ve israfı en aza indirmesidir." },
+      { "text": "Günümüzde ziyafetlerde en yaygın kullanılan servistir.", "isCorrect": false, "rationale": "Bu, metinde belirtilen bir bilgidir." }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "question": "Porselen Malzemeler kategorisinde yer alan 'Diğer' malzemelere hangisi örnektir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Ana yemek tabağı", "isCorrect": false, "rationale": "Bu, 'Tabaklar' alt kategorisindedir." },
+      { "text": "Ekmek tabağı", "isCorrect": false, "rationale": "Bu, 'Tabaklar' alt kategorisindedir." },
+      { "text": "Çorba kâseleri, çay potları, sosiyerler", "isCorrect": true, "rationale": "Metne göre bunlar, standart tabakların dışında kalan diğer porselen servis malzemeleridir." },
+      { "text": "Çay/kahve fincanı", "isCorrect": false, "rationale": "Metinde 'fincanlar' olarak ayrıca belirtilmiştir." },
+      { "text": "Tatlı tabağı", "isCorrect": false, "rationale": "Bu, 'Tabaklar' alt kategorisindedir." }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "question": "Servis öncesi briefing'in amaçları arasında motivasyonu artırıcı konuşmalar yapmak neden önemlidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Personelin daha hızlı çalışmasını sağlamak için.", "isCorrect": false, "rationale": "Hız bir sonuç olabilir ama temel amaç değildir." },
+      { "text": "Ekip ruhunu güçlendirmek ve personelin kendini değerli hissederek daha iyi hizmet vermesini sağlamak için.", "isCorrect": true, "rationale": "Yoğun ve stresli olabilen ziyafet servisinden önce ekibi motive etmek, pozitif bir çalışma ortamı yaratır ve bu da doğrudan hizmet kalitesine ve misafir memnuniyetine yansır." },
+      { "text": "Personelin şikayetlerini dinlemek için.", "isCorrect": false, "rationale": "Briefing bunun için doğru zaman ve yer değildir, bu konular bireysel olarak veya başka toplantılarda görüşülür." },
+      { "text": "Toplantıyı uzatmak için.", "isCorrect": false, "rationale": "Briefing'ler kısa ve öz olmalıdır." },
+      { "text": "Yönetimin gücünü göstermek için.", "isCorrect": false, "rationale": "Amaç otorite kurmak değil, ekibi ortak bir hedef için birleştirmektir." }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "question": "Müşteriye biftekli menü ile tavuklu menü arasında fiyat farkı olacağının net bir şekilde açıklanması hangi menü oluşturma ilkesiyle ilgilidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Tematik Uygunluk", "isCorrect": false, "rationale": "Bu, tema ile ilgilidir, fiyatlandırma ile değil." },
+      { "text": "Hazırlanabilirlik", "isCorrect": false, "rationale": "Bu, hazırlık süreci ile ilgilidir." },
+      { "text": "Ekipman Uygunluğu", "isCorrect": false, "rationale": "Bu, mutfak ekipmanları ile ilgilidir." },
+      { "text": "Gruplandırma", "isCorrect": true, "rationale": "Metinde bu örnek, 'Gruplandırma' başlığı altında verilmiştir. Müşteriye farklı maliyetlerdeki seçeneklerin net bir şekilde sunulması, şeffaflık ve doğru karar verme açısından bu ilkenin bir parçasıdır." },
+      { "text": "Porsiyonlama", "isCorrect": false, "rationale": "Bu, menü oluşturma ilkelerinden biri olarak sayılmamıştır." }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "question": "Ziyafet organizasyonunda yiyecek-içecek bölümü hangi iki ana koldan organize olur?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Satış ve Pazarlama", "isCorrect": false, "rationale": "Bunlar destekleyici fonksiyonlardır, ana operasyon kolları değil." },
+      { "text": "Mutfak (Üretim) ve Servis (Sunum)", "isCorrect": true, "rationale": "Metin, yiyecek-içecek bölümünün bu iki temel operasyonel koldan oluştuğunu açıkça belirtir: Yemeğin üretildiği mutfak ve misafire sunulduğu servis." },
+      { "text": "Muhasebe ve İnsan Kaynakları", "isCorrect": false, "rationale": "Bunlar idari departmanlardır." },
+      { "text": "Temizlik ve Güvenlik", "isCorrect": false, "rationale": "Bunlar destekleyici hizmetlerdir." },
+      { "text": "Bar ve Restoran", "isCorrect": false, "rationale": "Bunlar yiyecek-içecek bölümünün alt birimleridir, ana kollar değildir." }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "question": "Yiyeceklerin pürüzsüz hale getirilmesi (püreler, çorbalar, soslar) için kullanılan mutfak ekipmanı hangisidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Gıda Mikseri (Food Mixer)", "isCorrect": false, "rationale": "Mikser çırpma ve karıştırma içindir." },
+      { "text": "Hand Blender (El Blenderı)", "isCorrect": true, "rationale": "El blenderı, daldırma blender olarak da bilinir ve doğrudan tencere içinde çorba, sos gibi yiyecekleri pürüzsüz hale getirmek için idealdir." },
+      { "text": "Mincer (Kıyma Makinesi)", "isCorrect": false, "rationale": "Bu eti kıymak içindir." },
+      { "text": "Dilimleyici (Slicer)", "isCorrect": false, "rationale": "Bu dilimlemek içindir." },
+      { "text": "Mutfak Robotu (Food Processor)", "isCorrect": false, "rationale": "Mutfak robotu da bu işi yapabilir ama metinde bu tanım doğrudan El Blenderı için verilmiştir." }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "question": "Catering planı yönetim sürecinde, ürünlerin bozulmaması için uygun koşullarda (kuru depo, soğuk hava deposu, dondurucu) saklanması hangi aşamadır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Teslim Alma", "isCorrect": false, "rationale": "Teslim alma, ürünlerin kabul edilmesidir." },
+      { "text": "Satın Alma", "isCorrect": false, "rationale": "Satın alma, sipariş vermedir." },
+      { "text": "Depolama", "isCorrect": true, "rationale": "Depolama, teslim alınan ürünlerin gıda güvenliği ve kalitesini koruyacak şekilde doğru sıcaklık ve koşullarda saklanması sürecidir." },
+      { "text": "Ön Hazırlık", "isCorrect": false, "rationale": "Ön hazırlık, depodan alınan malzemelerin işlenmesidir." },
+      { "text": "Servis", "isCorrect": false, "rationale": "Servis, son sunum aşamasıdır." }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "question": "Aşağıdakilerden hangisi Metal Malzemeler (Takımlar) arasında 'Diğer' kategorisinde yer alır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Servis maşaları", "isCorrect": false, "rationale": "Bu 'Servis Takımları' kategorisindedir." },
+      { "text": "Balık çatal-bıçağı", "isCorrect": false, "rationale": "Bu 'Yemek Takımları' kategorisindedir." },
+      { "text": "Pasta spatulası", "isCorrect": false, "rationale": "Bu 'Servis Takımları' kategorisindedir." },
+      { "text": "Kloş (cloche - tabak kapağı)", "isCorrect": true, "rationale": "Metinde şarap kovası, reşo ve kloş; yemek ve servis takımları dışında kalan 'Diğer' metal malzemeler olarak sınıflandırılmıştır." },
+      { "text": "Orta boy çatal-kaşık-bıçak", "isCorrect": false, "rationale": "Bu 'Yemek Takımları' kategorisindedir." }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "question": "Ziyafetin başarısının insan gücüne dayalı olduğu belirtilerek, personelin rütbelendirilmesinin (hiyerarşi) neyi sağladığı vurgulanmaktadır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Maaş farklılıklarını", "isCorrect": false, "rationale": "Hiyerarşi maaş farklılıklarına yol açar ama temel amacı bu değildir." },
+      { "text": "İş akışını", "isCorrect": true, "rationale": "Hiyerarşi, kimin kime rapor vereceğini, kimin hangi kararı alacağını ve görev dağılımını netleştirerek emir-komuta zinciri oluşturur ve böylece iş akışının düzenli ve verimli olmasını sağlar." },
+      { "text": "Personel motivasyonunu", "isCorrect": false, "rationale": "Hiyerarşi, kariyer yolu sunarak motivasyonu etkileyebilir ama temel amacı iş akışıdır." },
+      { "text": "Müşteri memnuniyetini", "isCorrect": false, "rationale": "İyi bir iş akışı müşteri memnuniyetini artırır, ancak hiyerarşinin doğrudan sağladığı şey iş akışının kendisidir." },
+      { "text": "Yasal zorunlulukları", "isCorrect": false, "rationale": "Bu bir yasal zorunluluktan çok, operasyonel bir gerekliliktir." }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "question": "Çok yönlü bir fırın olan Kombinasyonlu Fırın'ın (Combination Oven) kullandığı üç temel pişirme yöntemi hangileridir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Izgara, kızartma, haşlama", "isCorrect": false, "rationale": "Bunlar pişirme teknikleridir, fırının temel çalışma modları değil." },
+      { "text": "Mikrodalga, buhar, konveksiyon", "isCorrect": false, "rationale": "Standart kombi fırınlarda mikrodalga özelliği bulunmaz." },
+      { "text": "Islak (buharlı), kuru (konveksiyonel), ve kombinasyonu", "isCorrect": true, "rationale": "Metin, kombi fırının bu üç temel modda çalıştığını açıkça belirtir: Sadece buhar, sadece sıcak hava (konveksiyonel) ve bu ikisinin birlikte kullanıldığı kombinasyon modu." },
+      { "text": "Alttan ısıtma, üstten ısıtma, fanlı pişirme", "isCorrect": false, "rationale": "Bu, geleneksel fırınların özellikleridir." },
+      { "text": "Tütsüleme, buharda pişirme, ızgara", "isCorrect": false, "rationale": "Tütsüleme ve ızgara kombi fırının temel modları değildir." }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "question": "Büfe servisi için aşağıdakilerden hangisi bir dezavantaj olarak belirtilmiştir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Az personelle hizmet verilebilmesi", "isCorrect": false, "rationale": "Bu bir avantajdır." },
+      { "text": "Konuğa seçme özgürlüğü tanıması", "isCorrect": false, "rationale": "Bu bir avantajdır." },
+      { "text": "Konuk trafiği (kuyruk) oluşabilmesi", "isCorrect": true, "rationale": "Metinde, yiyecek israfının yanı sıra, özellikle yoğun zamanlarda büfe önünde oluşabilecek kuyrukların (konuk trafiği) bir dezavantaj olduğu belirtilmiştir." },
+      { "text": "Hızlı bir servis olması", "isCorrect": false, "rationale": "Genel olarak hızlıdır ama kuyruklar yavaşlamasına neden olabilir." },
+      { "text": "Porsiyon kontrolü sağlaması", "isCorrect": false, "rationale": "Tam tersine, porsiyon kontrolü olmaması bir dezavantajdır." }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "question": "Salon yerleşim planında büfelerin, barların, orkestra sahnesinin ve teknik ekipmanların yerinin plana işlenmesi hangi başlık altındadır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Akış Yolları", "isCorrect": false, "rationale": "Akış yolları, bu ekipmanların etrafındaki hareket alanlarıdır." },
+      { "text": "Protokol Düzeni", "isCorrect": false, "rationale": "Bu, misafirlerin oturma düzenidir." },
+      { "text": "Masa Şekilleri", "isCorrect": false, "rationale": "Bu, misafir masalarının düzenidir." },
+      { "text": "Ekipman Konumu", "isCorrect": true, "rationale": "Bu başlık, misafir masaları dışındaki tüm büyük ve sabit ekipmanların salondaki yerleşimini ifade eder." },
+      { "text": "Kuver Düzeni", "isCorrect": false, "rationale": "Bu, masanın üzerindeki servis malzemeleridir." }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "question": "Ziyafeti kabul edecek yetkilinin, müşteri ile konuşurken hangi noktaya dikkat etmesi gerektiği belirtilmiştir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Müşteriye her zaman en pahalı menüyü tavsiye etmelidir.", "isCorrect": false, "rationale": "Amaç müşteriyi yanıltmak değil, ona en uygun seçeneği sunmaktır." },
+      { "text": "Tavsiyeler, müşteriye baskı yapmadan, yönlendirici bir şekilde yapılmalıdır.", "isCorrect": true, "rationale": "Metin, tavsiyelerin baskı yapmadan, 'parayı ödeyecek kişinin ziyafet sahibi olduğu unutulmadan' yapılması gerektiğini vurgular." },
+      { "text": "Mutfak personelinin ne hazırlayabildiği önemli değildir, müşteri ne isterse o yapılmalıdır.", "isCorrect": false, "rationale": "Tam tersine, mutfağın en iyi yaptığı yemekleri önermek önemlidir." },
+      { "text": "Fiyat farkları hakkında konuşmaktan kaçınılmalıdır.", "isCorrect": false, "rationale": "Tam tersine, fiyat farkları net bir şekilde açıklanmalıdır." },
+      { "text": "Sadece işletmenin kârına odaklanılmalıdır.", "isCorrect": false, "rationale": "Müşteri memnuniyeti ve işletme kârı dengelenmelidir." }
+    ]
+  },
+  {
+    "questionNumber": 97,
+    "question": "Aşağıdaki unvanlardan hangisi mutfak hiyerarşisinde diğerlerinden daha üst bir konumdadır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Sosçu Şefi (Chef Saucier)", "isCorrect": false, "rationale": "Bu bir Kısım Şefidir." },
+      { "text": "Aşçıbaşı Yardımcısı (Sous Chef)", "isCorrect": true, "rationale": "Sous Chef, tüm Kısım Şeflerinin yöneticisidir ve hiyerarşide Aşçıbaşı'ndan sonra gelir." },
+      { "text": "Balık Şefi (Chef Poissonier)", "isCorrect": false, "rationale": "Bu bir Kısım Şefidir." },
+      { "text": "Pastane Şefi (Chef Patissier)", "isCorrect": false, "rationale": "Bu bir Kısım Şefidir." },
+      { "text": "Soğukçu Şefi (Chef Garde Manger)", "isCorrect": false, "rationale": "Bu bir Kısım Şefidir." }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "question": "Tüm çorbaların ve et sularının (stok) hazırlanmasından sorumlu olan Kısım Şefi kimdir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Sebze Şefi (Chef Entremetier)", "isCorrect": false, "rationale": "Entremetier sebze yemeklerinden sorumludur." },
+      { "text": "Sosçu Şefi (Chef Saucier)", "isCorrect": false, "rationale": "Saucier soslardan ve sıcak et yemeklerinden sorumludur." },
+      { "text": "Çorba Şefi (Chef Potager)", "isCorrect": true, "rationale": "Potager, mutfaktaki tüm çorbaları ve yemeklerin temelini oluşturan et sularını (stok) hazırlamaktan sorumlu uzman şeftir." },
+      { "text": "Bulaşıkçı (Steward)", "isCorrect": false, "rationale": "Steward temizlikten sorumludur." },
+      { "text": "Soğukçu Şefi (Chef Garde Manger)", "isCorrect": false, "rationale": "Garde Manger soğuk yemeklerden sorumludur." }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "question": "Aşağıdakilerden hangisi bir Ziyafet (Banket) Menüsünün temel özelliğidir?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Her yemeğin ayrı ayrı fiyatlandırılması.", "isCorrect": false, "rationale": "Bu A la carte menünün özelliğidir." },
+      { "text": "Genellikle Table d'hôte menü özelliğinde olması ve detayların önceden kararlaştırılması.", "isCorrect": true, "rationale": "Banket menüleri, çok sayıda kişiye aynı anda servis yapılacağı için, genellikle sabit bir menü (Table d'hôte) şeklinde haftalar veya aylar öncesinden planlanır." },
+      { "text": "Konuğun yemek seçme hakkının sınırsız olması.", "isCorrect": false, "rationale": "Tam tersine, seçim hakkı yoktur veya çok sınırlıdır." },
+      { "text": "Yemeklerin sipariş anında hazırlanması.", "isCorrect": false, "rationale": "Bu A la carte menünün özelliğidir. Ziyafette yemekler önceden planlanır ve hazırlanır." },
+      { "text": "Sadece atıştırmalıklardan oluşması.", "isCorrect": false, "rationale": "Bu kokteyl menülerinin özelliğidir." }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "question": "Hangi servis türü 'Türk usulü meze servisine benzer' olarak tanımlanmıştır?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "Tabak Servisi (Amerikan)", "isCorrect": false, "rationale": "Amerikan servisi kişiye özel porsiyonlanmış tabaklarla yapılır." },
+      { "text": "Büfe Servisi", "isCorrect": false, "rationale": "Büfe servisinde konuklar masadan kalkarak yemeklerini alır." },
+      { "text": "Fransız Servisi (Klasik)", "isCorrect": false, "rationale": "Fransız servisi çok daha resmi ve bireysel bir sunumdur." },
+      { "text": "İngiliz Servisi (Maşa)", "isCorrect": false, "rationale": "İngiliz servisinde garson her konuğa ayrı ayrı porsiyonlama yapar." },
+      { "text": "Rus Servisi", "isCorrect": true, "rationale": "Metinde Rus servisi, yemeklerin büyük tepsilerle masanın ortasına bırakılması ve konukların kendilerinin alması nedeniyle Türk meze kültüründeki paylaşımlı servis anlayışına benzetilmiştir." }
+    ]
+  }
+  ]
+}
