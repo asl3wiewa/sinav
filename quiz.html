@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Bo&#351; Zaman Etkinlikleri Testi</title>
+    <title>Boş Zaman Etkinlikleri Testi</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
@@ -11,14 +11,14 @@
       <header class="app__header">
         <h1 id="quiz-title">Genel Turizm Testi</h1>
         <p>
-          Her soruda do&#287;ru oldu&#287;una inand&#305;&#287;&#305;n&#305;z se&#231;ene&#287;i t&#305;klay&#305;n. &#304;sterseniz ipucu isteyin,
-          soruyu atlay&#305;n ve istedi&#287;iniz zaman &#246;nceki sorulara d&#246;n&#252;n. Se&#231;iminizin ard&#305;ndan
-          do&#287;ru cevap ve gerek&#231;eler hemen g&#246;r&#252;nt&#252;lenir.
+          Her soruda doğru olduğuna inandığınız seçeneği tıklayın. İsterseniz ipucu isteyin,
+          soruyu atlayın ve istediğiniz zaman önceki sorulara dönün. Seçiminizin ardından
+          doğru cevap ve gerekçeler hemen görüntülenir.
         </p>
       </header>
 
       <main id="quiz" class="quiz">
-        <div id="loading" class="info-card">Sorular y&#252;kleniyor...</div>
+        <div id="loading" class="info-card">Sorular yükleniyor...</div>
         <div id="error" class="info-card info-card--error hidden"></div>
 
         <section id="question-card" class="card hidden" aria-live="polite">
@@ -27,7 +27,7 @@
               <div class="progress-line">
                 <span class="progress-label">Soru</span>
                 <form id="jump-form" class="jump-inline" autocomplete="off">
-                  <label for="jump-input" class="sr-only">Soru numaras&#305;</label>
+                  <label for="jump-input" class="sr-only">Soru numarası</label>
                   <input
                     id="jump-input"
                     name="jump-input"
@@ -35,7 +35,7 @@
                     min="1"
                     value="1"
                     inputmode="numeric"
-                    aria-label="Soru numaras&#305;"
+                    aria-label="Soru numarası"
                   />
                 </form>
                 <span id="progress-total">/ 0</span>
@@ -44,35 +44,79 @@
                 <div id="progress-bar-fill" class="progress-track__fill"></div>
               </div>
             </div>
-            <div class="scoreboard">
-              <span id="score-correct" class="scoreboard__item is-correct">Do&#287;ru: 0</span>
-              <span id="score-wrong" class="scoreboard__item is-wrong">Yanl&#305;&#351;: 0</span>
+            <div class="scoreboard" id="scoreboard">
+              <span id="score-correct" class="scoreboard__item is-correct">Doğru: 0</span>
+              <span id="score-wrong" class="scoreboard__item is-wrong">Yanlış: 0</span>
             </div>
           </div>
+
+          <div class="mode-bar">
+            <div class="mode-switch" id="mode-switch">
+              <button type="button" class="mode-btn active" data-mode="manual">
+                Serbest
+              </button>
+              <button type="button" class="mode-btn" data-mode="auto">
+                Akış (otomatik)
+              </button>
+            </div>
+            <button id="finish-btn" type="button" class="btn outline small">
+              Testi Bitir
+            </button>
+          </div>
+
           <div class="question">
             <div class="question__meta">
               <span id="question-number" class="question__badge"></span>
+              <span id="question-status" class="question__status hidden"></span>
               <button id="reset-btn" type="button" class="btn ghost" title="Tüm ilerlemeyi sıfırla">
                 &#8635;
+              </button>
+              <button id="summary-back" type="button" class="btn outline small hidden">
+                Sonuca dön
               </button>
             </div>
             <h2 id="question-text" class="question__text"></h2>
             <div id="question-image" class="question__image hidden">
-              <img alt="Soru g&#246;rseli" />
+              <img alt="Soru görseli" />
             </div>
           </div>
-          <div id="options" class="options" role="listbox" aria-label="Cevap se&#231;enekleri"></div>
+          <div id="options" class="options" role="listbox" aria-label="Cevap seçenekleri"></div>
           <div id="feedback" class="feedback hidden"></div>
           <div id="hint" class="hint hidden"></div>
         </section>
 
         <div id="controls" class="controls hidden">
-          <button id="hint-btn" type="button" class="btn secondary">&#304;pucu</button>
+          <button id="hint-btn" type="button" class="btn secondary">İpucu</button>
           <div class="spacer"></div>
-          <button id="prev-btn" type="button" class="btn secondary">&#214;nceki</button>
+          <button id="prev-btn" type="button" class="btn secondary">Önceki</button>
           <button id="next-btn" type="button" class="btn primary">Sonraki</button>
         </div>
       </main>
+
+      <section id="summary-panel" class="summary hidden" aria-live="polite">
+        <div class="summary__header">
+          <h3>Test Özeti</h3>
+          <div class="summary__header-actions">
+            <button id="summary-restart" type="button" class="btn outline small">
+              Baştan çöz
+            </button>
+            <button id="summary-home" type="button" class="btn outline small">
+              Başka testlere bak
+            </button>
+          </div>
+        </div>
+        <p id="summary-stats" class="summary__stats"></p>
+        <div class="summary__columns">
+          <div class="summary__column" id="summary-column-left">
+            <h4 id="summary-left-title">1-50</h4>
+            <div id="summary-list-left" class="summary__list"></div>
+          </div>
+          <div class="summary__column" id="summary-column-right">
+            <h4 id="summary-right-title">51-100</h4>
+            <div id="summary-list-right" class="summary__list"></div>
+          </div>
+        </div>
+      </section>
     </div>
 
     <template id="option-template">
