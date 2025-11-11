@@ -11,12 +11,22 @@ const TESTS = {
     title: "Ziyafet Testi 2",
     dataUrl: "ziyafet-2.json",
   },
+  "turizm-cografyasi-2": {
+    title: "Turizm Coğrafyası II",
+    dataUrl: "turizm-cografyasi-2.json",
+  },
+  "turizm-cografyasi-2-2": {
+    title: "Turizm Coğrafyası II - 2",
+    dataUrl: "turizm-cografyasi-2-2.json",
+  },
 };
 const TEST_ALIASES = {
   general: "genel-turizm",
   ziyafet1: "ziyafet",
   "ziyafet-1": "ziyafet",
   turizm: "genel-turizm",
+  "turizm cografyasi ii": "turizm-cografyasi-2",
+  "turizm cografyasi ii 2": "turizm-cografyasi-2-2",
 };
 const DEFAULT_TEST = "genel-turizm";
 const LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";

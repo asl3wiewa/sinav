@@ -1,0 +1,1202 @@
+﻿{"questions": [
+    {
+        "questionNumber": 1,
+        "question": "Marmara Bölgesi, Türkiye'nin hangi yönünde yer almaktadır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Güney doğusu", "rationale": "Güney doğu, Güneydoğu Anadolu Bölgesi'nin bulunduğu yerdir.", "isCorrect": false },
+            { "text": "Kuzey batısı", "rationale": "Doğru! Metinde Marmara Bölgesi'nin ülkemizin kuzey batısını oluşturduğu belirtilmektedir.", "isCorrect": true },
+            { "text": "Güney batısı", "rationale": "Güney batıda Ege ve Akdeniz bölgeleri yer alır.", "isCorrect": false },
+            { "text": "Kuzey doğusu", "rationale": "Kuzey doğu, Doğu Karadeniz ve Doğu Anadolu bölgelerini kapsar.", "isCorrect": false },
+            { "text": "Orta kısmı", "rationale": "Orta kısımda İç Anadolu Bölgesi yer alır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 2,
+        "question": "İstanbul Boğazı'nın batısında ve Çanakkale Boğazı'nın kuzeyinde kalan topraklara ne ad verilir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Anadolu", "rationale": "Anadolu, Boğazların doğusunda kalan Asya kıtasındaki topraklardır.", "isCorrect": false },
+            { "text": "Kocaeli Yarımadası", "rationale": "Kocaeli Yarımadası, İstanbul Boğazı'nın doğusunda yer alır.", "isCorrect": false },
+            { "text": "Gelibolu Yarımadası", "rationale": "Gelibolu Yarımadası bu bölgenin bir parçasıdır ama tamamı değildir.", "isCorrect": false },
+            { "text": "Trakya", "rationale": "Doğru! Bu tanım, Trakya olarak adlandırılan bölgeyi ifade etmektedir.", "isCorrect": true },
+            { "text": "Biga Yarımadası", "rationale": "Biga Yarımadası, Çanakkale Boğazı'nın güneyinde yer alır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 3,
+        "question": "Marmara Bölgesi'nin iklimi, hangi iki iklim bölgesi arasında bir geçiş alanı olarak tanımlanır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Karasal iklim ve Karadeniz iklimi", "rationale": "Bölgenin iç kısımlarında karasal iklim özellikleri görülse de genel geçiş alanı bu değildir.", "isCorrect": false },
+            { "text": "Akdeniz iklimi ve Karasal iklim", "rationale": "Güney kesimlerde Akdeniz iklimi etkilidir ancak genel geçiş bu şekilde tanımlanmaz.", "isCorrect": false },
+            { "text": "Akdeniz iklimi ile Karadeniz iklimi", "rationale": "Doğru! Metne göre, Marmara Bölgesi genel olarak Akdeniz ve Karadeniz iklimleri arasında bir geçiş alanıdır.", "isCorrect": true },
+            { "text": "Karasal iklim ve Çöl iklimi", "rationale": "Türkiye'de çöl iklimi görülmez.", "isCorrect": false },
+            { "text": "Step iklimi ve Tundra iklimi", "rationale": "Bu iklim tipleri Marmara Bölgesi'nde görülmez.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 4,
+        "question": "Marmara Bölgesi'nde en çok yağış hangi mevsimde alınır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Yaz", "rationale": "Yazlar genellikle daha kurak geçer.", "isCorrect": false },
+            { "text": "İlkbahar", "rationale": "Yağış görülse de en çok yağış alan mevsim değildir.", "isCorrect": false },
+            { "text": "Sonbahar", "rationale": "Sonbahar yağışlı geçebilir ancak en çok yağış kışın alınır.", "isCorrect": false },
+            { "text": "Kış", "rationale": "Doğru! Metinde bölgenin en çok yağışı kışın aldığı belirtilmektedir.", "isCorrect": true },
+            { "text": "Her mevsim eşit", "rationale": "Yağış rejimi mevsimlere göre değişiklik gösterir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 5,
+        "question": "Aşağıdakilerden hangisi Marmara Bölgesi'nin ulaşım özellikleri arasında sayılamaz?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Kara, hava, deniz ve demir yolu ulaşımı bakımından zengindir.", "rationale": "Bu, bölgenin zengin ulaşım ağını doğru bir şekilde tanımlar.", "isCorrect": false },
+            { "text": "Avrupa ve Asya arasında bir geçiş alanıdır.", "rationale": "Boğazlar sayesinde bu önemli bir özelliğidir.", "isCorrect": false },
+            { "text": "Yurdumuzun en işlek kara ve demir yolları bölgeden geçer.", "rationale": "Bu da metinde belirtilen doğru bir bilgidir.", "isCorrect": false },
+            { "text": "Ulaşım ağı seyrek ve gelişmemiştir.", "rationale": "Doğru! Bu ifade yanlıştır. Marmara Bölgesi, Türkiye'nin en gelişmiş ulaşım ağına sahiptir.", "isCorrect": true },
+            { "text": "İstanbul ve Çanakkale boğazları ulaşıma büyük kolaylık sağlar.", "rationale": "Boğazlar ve üzerindeki köprüler ulaşımda kritik rol oynar.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 6,
+        "question": "Tekirdağ şehrinin adı 1917'de değiştirilmeden önce, hangi kelimeden türeyen bir isme sahipti?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Tekfur", "rationale": "Doğru! Şehrin adı, 'Tekfur' kelimesinden gelen 'Tekfurdağı' idi.", "isCorrect": true },
+            { "text": "Trakya", "rationale": "Trakya, şehrin bulunduğu coğrafi bölgenin adıdır.", "isCorrect": false },
+            { "text": "Rodosto", "rationale": "Rodosto, şehrin eski isimlerinden biridir ancak metinde bahsedilen isim kökeni Tekfur'dur.", "isCorrect": false },
+            { "text": "Bizans", "rationale": "Bizans, şehre hakim olmuş bir imparatorluktur, isim kökeni değildir.", "isCorrect": false },
+            { "text": "Marmara", "rationale": "Marmara, şehrin kıyısında olduğu denizin adıdır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 7,
+        "question": "Vatan Şairi Namık Kemal'in doğduğu ev örnek alınarak yaptırılan Namık Kemal Evi hangi ilimizdedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Edirne", "rationale": "Edirne, Trakya'da önemli bir şehirdir ancak Namık Kemal Evi burada değildir.", "isCorrect": false },
+            { "text": "İstanbul", "rationale": "Namık Kemal İstanbul'da yaşamış olsa da, anıt evi Tekirdağ'dadır.", "isCorrect": false },
+            { "text": "Tekirdağ", "rationale": "Doğru! Namık Kemal 1840 yılında Tekirdağ'da doğmuştur ve anıt evi burada bulunmaktadır.", "isCorrect": true },
+            { "text": "Bursa", "rationale": "Bursa, Osmanlı'nın ilk başkentidir ancak Namık Kemal Evi ile ilgisi yoktur.", "isCorrect": false },
+            { "text": "Çanakkale", "rationale": "Çanakkale tarihi bir şehir olsa da aranan cevap değildir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 8,
+        "question": "Üzümü ve şarabı ile meşhur olan, Tekirdağ'a bağlı ilçe aşağıdakilerden hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Marmara Ereğlisi", "rationale": "Marmara Ereğlisi, Tekirdağ'ın bir ilçesidir ancak üzüm ve şarapla öne çıkmaz.", "isCorrect": false },
+            { "text": "Şarköy", "rationale": "Doğru! Metinde Şarköy'ün üzümü ve şarabı ile meşhur olduğu belirtilmektedir.", "isCorrect": true },
+            { "text": "Çorlu", "rationale": "Çorlu, sanayisi ile bilinen büyük bir ilçedir.", "isCorrect": false },
+            { "text": "Hayrabolu", "rationale": "Hayrabolu, tarımı ile bilinen bir ilçedir.", "isCorrect": false },
+            { "text": "Saray", "rationale": "Saray, Tekirdağ'ın bir başka ilçesidir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 9,
+        "question": "Edirne, İstanbul'un fethine kadar ne kadar süreyle Osmanlı Devleti'ne başkentlik yapmıştır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Yaklaşık on yıl", "rationale": "Bu süre çok kısadır, Edirne daha uzun süre başkentlik yapmıştır.", "isCorrect": false },
+            { "text": "Yaklaşık elli yıl", "rationale": "Daha uzun bir süre başkentlik yapmıştır.", "isCorrect": false },
+            { "text": "Yaklaşık bir asır", "rationale": "Doğru! Metinde 'İstanbulun fethine kadar bir asır hükümet merkezliği yapmıştır' ifadesi yer almaktadır.", "isCorrect": true },
+            { "text": "Hiç başkentlik yapmamıştır", "rationale": "Bu yanlıştır, Edirne Osmanlı'nın önemli başkentlerinden biridir.", "isCorrect": false },
+            { "text": "Yaklaşık iki asır", "rationale": "Bu süre çok uzundur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 10,
+        "question": "Mimar Sinan'ın sanatının zirveye ulaştığı eser olarak kabul edilen Selimiye Camii hangi padişah döneminde yapılmıştır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Kanuni Sultan Süleyman", "rationale": "Süleymaniye Camii, Kanuni döneminde yapılmıştır, Selimiye değil.", "isCorrect": false },
+            { "text": "II. Selim", "rationale": "Doğru! Metinde 'II. Selim devrinde 1569 yılında başlanıp 6 yılda tamamlanan cami' olduğu belirtilmektedir.", "isCorrect": true },
+            { "text": "Fatih Sultan Mehmet", "rationale": "Fatih Sultan Mehmet, İstanbul'u fetheden padişahtır ve çok daha önceki bir dönemde yaşamıştır.", "isCorrect": false },
+            { "text": "II. Murat", "rationale": "Üç Şerefeli Cami, II. Murat tarafından yaptırılmıştır.", "isCorrect": false },
+            { "text": "I. Ahmet", "rationale": "Sultanahmet Camii, I. Ahmet döneminde yapılmıştır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 11,
+        "question": "Kırklareli ilinin adının nereden geldiği rivayet edilmektedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Bölgedeki kırk adet kiliseden", "rationale": "Bu yaygın bir yanılgıdır, ancak metinde farklı bir sebep belirtilmiştir.", "isCorrect": false },
+            { "text": "Kırklar Şehitlerinden", "rationale": "Doğru! Metne göre, Türk akıncılarının verdiği kırk şehit anısına 'Kırklar-eli' adı verilmiş ve bu isim zamanla Kırklareli'ne dönüşmüştür.", "isCorrect": true },
+            { "text": "Yunan mitolojisindeki Kırk Tanrıdan", "rationale": "Bu bilginin metinle ve tarihle bir ilgisi yoktur.", "isCorrect": false },
+            { "text": "Bölgedeki kırk pınardan", "rationale": "Doğal güzellikler olsa da isim kökeni bu değildir.", "isCorrect": false },
+            { "text": "Kırk gün süren bir kuşatmadan", "rationale": "Bu bilgi metinde yer almamaktadır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 12,
+        "question": "Bursa'nın Osmanlı Devleti için önemi nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Son başkenti olması", "rationale": "Son başkent İstanbul'dur.", "isCorrect": false },
+            { "text": "Denizle bağlantısının olmaması", "rationale": "Metinde Mudanya ve Gemlik ile deniz bağlantısı olduğu belirtilir.", "isCorrect": false },
+            { "text": "Anadolu'nun en büyük şehirlerinden biri haline gelmesi", "rationale": "Doğru! Metinde 'Bu sayede Bursa, Osmanlılar döneminde Anadolu’nun en büyük şehirlerinden biri haline gelmiştir' denmektedir.", "isCorrect": true },
+            { "text": "Sadece bir tarım şehri olması", "rationale": "Bursa aynı zamanda önemli bir sanayi ve ticaret merkeziydi.", "isCorrect": false },
+            { "text": "Hiçbir zaman başkent olmaması", "rationale": "Bursa, Osmanlı Devleti'nin ilk başkentidir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 13,
+        "question": "Uludağ, hangi ilimizin sembolü haline gelmiştir ve kış aylarında hangi spor yapılmaktadır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Bolu - Yüzme", "rationale": "Bolu'da Kartalkaya kayak merkezi vardır, ancak Uludağ Bursa'dadır.", "isCorrect": false },
+            { "text": "Bursa - Kayak sporları", "rationale": "Doğru! Uludağ, Bursa'nın sembolüdür ve kış aylarında kayak sporları yapılır.", "isCorrect": true },
+            { "text": "Erzurum - Sörf", "rationale": "Erzurum'da Palandöken kayak merkezi vardır, sörf ise bir su sporudur.", "isCorrect": false },
+            { "text": "Ankara - Dağcılık", "rationale": "Ankara'da Elmadağ vardır, ancak Uludağ Bursa'dadır.", "isCorrect": false },
+            { "text": "Kayseri - Yelken", "rationale": "Kayseri'de Erciyes Dağı vardır, yelken ise su sporudur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 14,
+        "question": "Osmanlılar zamanında başkent ve çinicilik sanatının önemli merkezi olan şehir hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Kütahya", "rationale": "Kütahya da çinicilikle ünlüdür ancak metinde bahsedilen yer İznik'tir.", "isCorrect": false },
+            { "text": "Bursa", "rationale": "Bursa başkentlik yapmıştır ancak metin İznik'ten bahsetmektedir.", "isCorrect": false },
+            { "text": "Edirne", "rationale": "Edirne de başkentlik yapmıştır ancak çinicilik merkezi olarak İznik öne çıkar.", "isCorrect": false },
+            { "text": "İznik", "rationale": "Doğru! Metinde İznik'in 'Osmanlılar zamanında başkent ve çinicilik sanatının önemli merkeziydi' olduğu belirtilmektedir.", "isCorrect": true },
+            { "text": "İstanbul", "rationale": "İstanbul son başkenttir ve çinicilik sanatı gelişmiştir, ancak metindeki tanım İznik'e aittir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 15,
+        "question": "Osmanlı Devleti'nin kurucusu olan Osman Gazi'nin türbesi hangi şehirde bulunmaktadır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Söğüt", "rationale": "Söğüt, beyliğin kurulduğu yerdir ancak türbe Bursa'dadır.", "isCorrect": false },
+            { "text": "Konya", "rationale": "Konya, Selçuklu Devleti'nin başkentiydi.", "isCorrect": false },
+            { "text": "İstanbul", "rationale": "İstanbul'da birçok padişah türbesi vardır, ancak Osman Gazi'nin türbesi Bursa'dadır.", "isCorrect": false },
+            { "text": "Ankara", "rationale": "Ankara Savaşı yapılmıştır ancak türbe burada değildir.", "isCorrect": false },
+            { "text": "Bursa", "rationale": "Doğru! Osman Gazi'nin türbesi, vasiyeti üzerine fethedildikten sonra Bursa'ya yapılmıştır.", "isCorrect": true }
+        ]
+    },
+    {
+        "questionNumber": 16,
+        "question": "Bursa'da bulunan ve zengin süslemeleri, yazıları ve taş işçiliği ile 'bir Osmanlı harikası' olarak nitelendirilen cami hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Ulu Cami", "rationale": "Ulu Cami de Bursa'nın önemli bir simgesidir, ancak metindeki tanım Yeşil Cami'ye aittir.", "isCorrect": false },
+            { "text": "Yeşil Cami", "rationale": "Doğru! Bu tanım, metinde belirtildiği gibi Yeşil Cami'ye aittir.", "isCorrect": true },
+            { "text": "Muradiye Külliyesi", "rationale": "Muradiye Külliyesi bir cami ve türbeler kompleksidir.", "isCorrect": false },
+            { "text": "Orhan Gazi Camii", "rationale": "Orhan Gazi Camii, Bursa'daki ilk Osmanlı camilerindendir.", "isCorrect": false },
+            { "text": "Emir Sultan Camii", "rationale": "Emir Sultan Camii de Bursa'nın önemli bir manevi merkezidir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 17,
+        "question": "Balıkesir'in eski adı nedir ve ne zaman 'Balıkesir' olarak değiştirilmiştir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Adramytteion - 1922", "rationale": "Adramytteion bölgedeki antik bir kenttir, ancak metinde geçen isim farklıdır.", "isCorrect": false },
+            { "text": "Karasi - 1923", "rationale": "Doğru! Metne göre, ismi 'Karasi' olan kent, 1923 yılında il olup ismi 'Balıkesir' olarak değiştirilmiştir.", "isCorrect": true },
+            { "text": "Mysia - 1930", "rationale": "Mysia, bölgenin antik adıdır.", "isCorrect": false },
+            { "text": "Bandırma - 1925", "rationale": "Bandırma, Balıkesir'in büyük bir ilçesidir.", "isCorrect": false },
+            { "text": "Ayvalık - 1923", "rationale": "Ayvalık, Balıkesir'in turistik bir ilçesidir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 18,
+        "question": "Her yıl 2-3 milyon kuşun uğradığı, 'dünyadaki ender yerlerden birisi' olarak tanımlanan Kuş Cenneti Milli Parkı hangi gölün kenarındadır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Sapanca Gölü", "rationale": "Sapanca Gölü, Sakarya ilindedir.", "isCorrect": false },
+            { "text": "Ulubat Gölü", "rationale": "Ulubat Gölü, Bursa ilindedir.", "isCorrect": false },
+            { "text": "İznik Gölü", "rationale": "İznik Gölü, Bursa ilindedir.", "isCorrect": false },
+            { "text": "Manyas Gölü", "rationale": "Doğru! Kuş Cenneti, Bandırma yakınlarında Manyas Gölü kenarındadır.", "isCorrect": true },
+            { "text": "Tuz Gölü", "rationale": "Tuz Gölü, İç Anadolu Bölgesi'ndedir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 19,
+        "question": "Fatih Sultan Mehmet'in vezirlerinden Zağnos Paşa tarafından 1461'de yaptırılan cami hangi ilimizdedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Bursa", "rationale": "Bursa'da çok sayıda tarihi cami vardır, ancak Zağnos Paşa Camii burada değildir.", "isCorrect": false },
+            { "text": "Çanakkale", "rationale": "Çanakkale'de de tarihi yapılar vardır.", "isCorrect": false },
+            { "text": "Balıkesir", "rationale": "Doğru! Zağnos Paşa Camii, ilin en önemli tarihi eserlerinden biri olarak Balıkesir'de bulunmaktadır.", "isCorrect": true },
+            { "text": "Tekirdağ", "rationale": "Tekirdağ'da Rüstem Paşa Camii gibi eserler vardır.", "isCorrect": false },
+            { "text": "Edirne", "rationale": "Edirne'de Selimiye gibi şaheserler bulunur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 20,
+        "question": "Çanakkale'nin tarihi hangi döneme kadar dayanmaktadır ve 'Çanakkale Geçilmez' destanı hangi yılda yazılmıştır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "M.Ö. 1000 - 1923", "rationale": "Tarihi daha eskiye dayanır ve destan daha önce yazılmıştır.", "isCorrect": false },
+            { "text": "M.Ö. 3000 - 1915", "rationale": "Doğru! Metne göre, şehrin tarihi M.Ö. 3000 yılına kadar dayanmakta ve 'Çanakkale Geçilmez' destanı 1915'te yazılmıştır.", "isCorrect": true },
+            { "text": "M.S. 500 - 1918", "rationale": "Tarihi çok daha eskidir.", "isCorrect": false },
+            { "text": "M.Ö. 5000 - 1914", "rationale": "Tarihi daha yakındır ve destan 1915'tedir.", "isCorrect": false },
+            { "text": "M.Ö. 2000 - 1926", "rationale": "1926, kentin il olduğu tarihtir, destanın yazıldığı tarih değil.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 21,
+        "question": "Tarihi Truva şehri, hangi boğaza hakim olan Hisarlık tepesi üzerindedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "İstanbul Boğazı", "rationale": "İstanbul Boğazı, Marmara Denizi'ni Karadeniz'e bağlar.", "isCorrect": false },
+            { "text": "Sakarya Nehri", "rationale": "Sakarya bir nehirdir, boğaz değil.", "isCorrect": false },
+            { "text": "Kiel Kanalı", "rationale": "Kiel Kanalı, Almanya'da bulunur.", "isCorrect": false },
+            { "text": "Çanakkale Boğazı", "rationale": "Doğru! Truva, Çanakkale Boğazı'na hakim bir konumdadır.", "isCorrect": true },
+            { "text": "Süveyş Kanalı", "rationale": "Süveyş Kanalı, Mısır'da bulunur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 22,
+        "question": "Çanakkale Şehitleri Anıtı, hangi savaşta hayatını kaybeden askerlerin anısına yaptırılmıştır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Balkan Savaşları", "rationale": "Balkan Savaşları 1912-1913 yıllarında olmuştur.", "isCorrect": false },
+            { "text": "Kurtuluş Savaşı", "rationale": "Kurtuluş Savaşı 1919-1922 yılları arasında yapılmıştır.", "isCorrect": false },
+            { "text": "I. Dünya Savaşı", "rationale": "Doğru! Anıt, 1915 yılında I. Dünya Savaşı sırasında Çanakkale Savaşları'nda hayatını kaybeden askerler için yapılmıştır.", "isCorrect": true },
+            { "text": "93 Harbi", "rationale": "93 Harbi (1877-1878 Osmanlı-Rus Savaşı) çok daha öncedir.", "isCorrect": false },
+            { "text": "Kıbrıs Barış Harekatı", "rationale": "Kıbrıs Barış Harekatı 1974'te yapılmıştır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 23,
+        "question": "Kocaeli (İzmit) şehrinin ilk adının 'Nikomedya' olmasının sebebi nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Roma İmparatoru Nicomedes tarafından kurulması", "rationale": "Nicomedes bir Roma imparatoru değil, Bithinya Kralı'dır.", "isCorrect": false },
+            { "text": "Bithinya Kralı I. Nicomedes tarafından kurulması", "rationale": "Doğru! Metinde şehrin M.Ö. 262 yılında Bithinya Kralı I. Nicomedes tarafından kurulduğu belirtilmektedir.", "isCorrect": true },
+            { "text": "Osmanlı komutanı Akça Koca'nın adından gelmesi", "rationale": "Akça Koca, 'Kocaeli' isminin kökenidir, 'Nikomedya' değil.", "isCorrect": false },
+            { "text": "Bölgedeki 'Niko' adlı bir bitkiden gelmesi", "rationale": "Bu bilgi metinde yer almamaktadır ve yanlıştır.", "isCorrect": false },
+            { "text": "Mitolojik bir kahraman olan Nikomedia'dan gelmesi", "rationale": "Bu bilgi metinde yer almamaktadır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 24,
+        "question": "Ünlü Kartaca Kralı Hannibal'ın mezarının bulunduğu yer olan anıt, hangi şehrimizin sınırları içerisindedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "İzmir", "rationale": "İzmir'de Efes gibi önemli antik kentler vardır, ama Hannibal Anıtı burada değildir.", "isCorrect": false },
+            { "text": "Bursa", "rationale": "Hannibal, Bithinya Krallığı'na sığınmıştır ve bu bölge Bursa'ya yakındır, ancak anıt Kocaeli'dedir.", "isCorrect": false },
+            { "text": "İstanbul", "rationale": "İstanbul tarihi bir merkezdir, ancak anıt burada değildir.", "isCorrect": false },
+            { "text": "Ankara", "rationale": "Ankara, İç Anadolu'da yer alır.", "isCorrect": false },
+            { "text": "Kocaeli (Gebze)", "rationale": "Doğru! Hannibal Anıtı, Gebze'nin güneybatısındaki Eskihisar köyünde yer almaktadır.", "isCorrect": true }
+        ]
+    },
+    {
+        "questionNumber": 25,
+        "question": "Sakarya (Adapazarı) ilinin adı nereden gelmektedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Sakarya Meydan Muharebesi'nden", "rationale": "Sakarya Meydan Muharebesi il sınırlarında yapılmıştır ancak isim kökeni daha eskiye dayanır.", "isCorrect": false },
+            { "text": "Kentin yakınından geçen Sakarya ırmağından", "rationale": "Doğru! Metinde 'Adını kentin yakınından geçen Sakarya ırmağından alan Sakarya...' ifadesi bulunmaktadır.", "isCorrect": true },
+            { "text": "Bölgede yetişen 'Saka' kuşlarından", "rationale": "Bu bilgi metinde yer almamaktadır.", "isCorrect": false },
+            { "text": "Osmanlı dönemindeki Sakabaşı'lardan", "rationale": "Bu bilgi metinde yer almamaktadır.", "isCorrect": false },
+            { "text": "Sakalar (İskitler) adlı Türk boyundan", "rationale": "Bu tarihi bir bilgidir ancak metinde geçen isim kökeni değildir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 26,
+        "question": "Bizans İmparatoru Justinyen tarafından yaptırılan ve bugün 'Beşköprü' olarak anılan tarihi köprü hangi ilimizdedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Bilecik", "rationale": "Bilecik'te de tarihi eserler vardır.", "isCorrect": false },
+            { "text": "Kocaeli", "rationale": "Kocaeli'de tarihi yapılar bulunur.", "isCorrect": false },
+            { "text": "Sakarya", "rationale": "Doğru! Justinyen Köprüsü (Beşköprü), Sakarya ilinde Çark çayı üzerindedir.", "isCorrect": true },
+            { "text": "Bursa", "rationale": "Bursa'da Irgandı Köprüsü gibi tarihi köprüler vardır.", "isCorrect": false },
+            { "text": "Yalova", "rationale": "Yalova daha çok termal turizmi ile bilinir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 27,
+        "question": "M.S. III. yüzyılda kurulan Bilecik ilinin eski adı nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Agrilion", "rationale": "Doğru! Metinde ilin eski adının 'Agrilion' olarak bilindiği yazmaktadır.", "isCorrect": true },
+            { "text": "Bithynia", "rationale": "Bithynia, bölgenin antik dönemdeki genel adıdır.", "isCorrect": false },
+            { "text": "Söğüt", "rationale": "Söğüt, Bilecik'in bir ilçesidir ve Osmanlı'nın kurulduğu yerdir.", "isCorrect": false },
+            { "text": "Nicea", "rationale": "Nicea, İznik'in eski adıdır.", "isCorrect": false },
+            { "text": "Prusa", "rationale": "Prusa, Bursa'nın eski adıdır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 28,
+        "question": "Osmanlı Devleti'ne giden yolda fethedilen ilk önemli kale olmasıyla ayrı bir öneme sahip olan kale hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Rumeli Hisarı", "rationale": "Rumeli Hisarı İstanbul'un fethi için yapılmıştır, çok daha sonradır.", "isCorrect": false },
+            { "text": "Ankara Kalesi", "rationale": "Ankara Kalesi çok daha eskidir ve farklı bir stratejik öneme sahiptir.", "isCorrect": false },
+            { "text": "Bursa Kalesi", "rationale": "Bursa Kalesi de önemli bir fetihtir.", "isCorrect": false },
+            { "text": "Belekoma Kalesi", "rationale": "Doğru! Bilecik'teki bu kale, metne göre 'Osmanlı devletine giden yolda fethedilen ilk önemli kale' olmasıyla öne çıkar.", "isCorrect": true },
+            { "text": "Edirne Kalesi", "rationale": "Edirne Kalesi, Rumeli fetihlerinde önemlidir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 29,
+        "question": "Osman Gazi'nin kayınpederi ve Ahiliğin temsilcisi olan Şeyh Edebali'nin türbesi hangi ilimizdedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Konya", "rationale": "Konya Mevlana ile bilinir ve Selçuklu merkezidir.", "isCorrect": false },
+            { "text": "Bursa", "rationale": "Bursa'da Osman Gazi ve Orhan Gazi'nin türbeleri vardır.", "isCorrect": false },
+            { "text": "Bilecik", "rationale": "Doğru! Şeyh Edebali'nin türbesi Bilecik'te bulunmaktadır.", "isCorrect": true },
+            { "text": "Ankara", "rationale": "Ankara'da Hacı Bayram Veli türbesi vardır.", "isCorrect": false },
+            { "text": "Eskişehir", "rationale": "Eskişehir'de Yunus Emre'nin mezarı bulunur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 30,
+        "question": "Yüzyıllardır işletilen ve modern tesislere sahip gözde termal merkezlerinden olan Yalova Kaplıcaları, hangi dağın yamacındadır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Uludağ", "rationale": "Uludağ, Bursa'dadır.", "isCorrect": false },
+            { "text": "Kaz Dağları", "rationale": "Kaz Dağları, Balıkesir ve Çanakkale arasındadır.", "isCorrect": false },
+            { "text": "Samanlı Dağı", "rationale": "Doğru! Metinde kaplıcaların Yalova'ya 12 km mesafede Samanlı dağının yamacında olduğu belirtilmektedir.", "isCorrect": true },
+            { "text": "Erciyes Dağı", "rationale": "Erciyes Dağı, Kayseri'dedir.", "isCorrect": false },
+            { "text": "Ilgaz Dağı", "rationale": "Ilgaz Dağı, Kastamonu ve Çankırı arasındadır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 31,
+        "question": "Türkiye'nin ilk özel arboretumu (Canlı ağaç müzesi) olan Karaca Arboretum hangi ilimizdedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "İstanbul", "rationale": "İstanbul'da Atatürk Arboretumu vardır, ancak ilk özel arboretum değildir.", "isCorrect": false },
+            { "text": "Yalova", "rationale": "Doğru! Karaca Arboretum, Tema Vakfı kurucusu Hayrettin Karaca tarafından Yalova'da kurulmuştur.", "isCorrect": true },
+            { "text": "Bursa", "rationale": "Bursa'da botanik parklar bulunur.", "isCorrect": false },
+            { "text": "Ankara", "rationale": "Ankara'da da yeşil alanlar ve parklar mevcuttur.", "isCorrect": false },
+            { "text": "İzmir", "rationale": "İzmir'de de çeşitli park ve bahçeler bulunur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 32,
+        "question": "İç Anadolu Bölgesi'ne konumundan dolayı verilen diğer isim nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Yukarı Mezopotamya", "rationale": "Bu, Güneydoğu Anadolu Bölgesi için kullanılan bir tanımdır.", "isCorrect": false },
+            { "text": "Anadolu Yaylası", "rationale": "Bu coğrafi bir terimdir ama bölgenin diğer adı değildir.", "isCorrect": false },
+            { "text": "Orta Anadolu Bölgesi", "rationale": "Doğru! Metinde, konumundan dolayı bölgeye 'Orta Anadolu Bölgesi' de dendiği belirtilmektedir.", "isCorrect": true },
+            { "text": "Kapadokya Bölgesi", "rationale": "Kapadokya, İç Anadolu Bölgesi'nin bir parçasıdır ama tamamı değildir.", "isCorrect": false },
+            { "text": "Büyük Bozkır", "rationale": "Bu, bölgenin bitki örtüsünü tanımlar ama resmi bir isim değildir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 33,
+        "question": "İç Anadolu Bölgesi'nin iklimi genel olarak nasıl tanımlanır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Yazlar serin ve yağışlı, kışlar ılık", "rationale": "Bu Karadeniz ikliminin özelliğidir.", "isCorrect": false },
+            { "text": "Yazlar sıcak ve kurak, kışlar soğuk", "rationale": "Doğru! Metinde bölgede karasal iklim görüldüğü, yazların sıcak ve kurak, kışların ise soğuk olduğu belirtilmiştir.", "isCorrect": true },
+            { "text": "Yıl boyunca ılıman ve yağışlı", "rationale": "Bu daha çok okyanusal iklim özelliğidir.", "isCorrect": false },
+            { "text": "Yazlar sıcak ve yağışlı, kışlar kurak", "rationale": "Bu Muson iklimi özelliğidir.", "isCorrect": false },
+            { "text": "Yazlar sıcak ve kurak, kışlar ılık ve yağışlı", "rationale": "Bu Akdeniz ikliminin özelliğidir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 34,
+        "question": "İç Anadolu Bölgesi'nde yağışın en çok düştüğü mevsim hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Yaz", "rationale": "Yazlar genellikle kuraktır.", "isCorrect": false },
+            { "text": "Sonbahar", "rationale": "Yağış görülür ama en fazla değildir.", "isCorrect": false },
+            { "text": "Kış", "rationale": "Kışın genellikle kar yağışı görülür.", "isCorrect": false },
+            { "text": "İlkbahar", "rationale": "Doğru! Metinde 'Yağışın en çok düştüğü mevsim, ilkbahardır.' denmektedir. Bunlara 'kırkikindi yağmurları' da denir.", "isCorrect": true },
+            { "text": "Mevsimlere göre değişmez", "rationale": "Yağış rejimi belirgindir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 35,
+        "question": "Türkiye'nin başkenti Ankara'nın İç Anadolu Bölgesi'nde yer almasının bölgeye sağladığı en önemli avantaj nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Tarımsal üretimi artırması", "rationale": "Başkent olmanın tarımla doğrudan bir ilgisi yoktur.", "isCorrect": false },
+            { "text": "İklimi ılımanlaştırması", "rationale": "Şehirleşmenin iklime mikro düzeyde etkileri olsa da bu önemli bir avantaj değildir.", "isCorrect": false },
+            { "text": "Zengin ulaşım ağının kazanılmasında önemli rol oynaması", "rationale": "Doğru! Metinde başkent olmasının 'bu özelliğin kazanılmasında önemli rol oynar' diyerek ulaşım ağını güçlendirdiği belirtilmiştir.", "isCorrect": true },
+            { "text": "Nüfusu azaltması", "rationale": "Aksine, başkent olması nüfusun artmasına neden olmuştur.", "isCorrect": false },
+            { "text": "Sanayiyi zayıflatması", "rationale": "Aksine, başkent olması sanayinin de gelişmesine katkı sağlamıştır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 36,
+        "question": "Ankara Kalesi'nin 1073 yılında kimlerin eline geçtiği belirtilmektedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Romalılar", "rationale": "Romalılar kalede daha önce hakimiyet kurmuşlardır.", "isCorrect": false },
+            { "text": "Bizanslılar", "rationale": "Kale Selçuklulara geçmeden önce Bizans hakimiyetindeydi.", "isCorrect": false },
+            { "text": "Osmanlılar", "rationale": "Osmanlılar kaleyi çok daha sonra ele geçirmiştir.", "isCorrect": false },
+            { "text": "Selçuklular", "rationale": "Doğru! Metinde '1073 yılında Selçukluların eline geçmiştir' ifadesi yer almaktadır.", "isCorrect": true },
+            { "text": "Frigler", "rationale": "Frigler, Ankara'da yaşamış çok daha eski bir medeniyettir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 37,
+        "question": "Ankara'da bulunan Augustus Tapınağı, ilk olarak hangi Frigya tanrısı adına yapılmıştır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Kibele", "rationale": "Kibele, Anadolu'nun ana tanrıçasıdır ancak metinde geçen isim farklıdır.", "isCorrect": false },
+            { "text": "Zeus", "rationale": "Zeus, Yunan mitolojisinin baş tanrısıdır.", "isCorrect": false },
+            { "text": "Men", "rationale": "Doğru! Metinde tapınağın M.Ö. II. yüzyılda Frigya tanrısı Men adına yapıldığı belirtilmektedir.", "isCorrect": true },
+            { "text": "Apollon", "rationale": "Apollon da Yunan ve Roma mitolojisinde önemli bir tanrıdır.", "isCorrect": false },
+            { "text": "Midas", "rationale": "Midas, bir Frigya kralıdır, tanrı değil.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 38,
+        "question": "Mustafa Kemal Atatürk'ün anıt mezarı olan Anıtkabir'in bulunduğu tepenin eski adı nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Anıttepe", "rationale": "Anıttepe, tepenin günümüzdeki adıdır.", "isCorrect": false },
+            { "text": "Çankaya", "rationale": "Çankaya, Cumhurbaşkanlığı Köşkü'nün bulunduğu semttir.", "isCorrect": false },
+            { "text": "Hıdırlık Tepesi", "rationale": "Hıdırlık Tepesi Ankara'da bulunan başka bir tepedir.", "isCorrect": false },
+            { "text": "Rasattepe", "rationale": "Doğru! Metinde 'Ankara Anıttepe'de (eski adıyla Rasattepe) bulunan anıt mezarıdır' denmektedir.", "isCorrect": true },
+            { "text": "TCDD Tepe", "rationale": "Bu isimli bir tepe yoktur, Anıtkabir'in arkasında TCDD arazisi bulunur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 39,
+        "question": "1997 yılında Avrupa'da 'Yılın Müzesi' ödülünü kazanan ve Türkiye'de bu ödülü alan tek müze olan yapı hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Etnografya Müzesi", "rationale": "Ankara'daki önemli müzelerdendir ama ödülü alan bu müze değildir.", "isCorrect": false },
+            { "text": "Anadolu Medeniyetleri Müzesi", "rationale": "Doğru! Metinde bu müzenin 1997'de 'Avrupa yılın müzesi' ödülünü aldığı ve Türkiye'de bu ödülü kazanan tek müze olduğu belirtilmiştir.", "isCorrect": true },
+            { "text": "Topkapı Sarayı Müzesi", "rationale": "İstanbul'daki çok önemli bir müzedir.", "isCorrect": false },
+            { "text": "Ayasofya Müzesi", "rationale": "İstanbul'un simgelerindendir.", "isCorrect": false },
+            { "text": "Cumhuriyet Müzesi", "rationale": "Ankara'da bulunan önemli bir müzedir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 40,
+        "question": "Ankara'da Ulus semtinde bulunan ve kare planlı taş kaideli, silindirik tuğla gövdeli bir minareye sahip tarihi cami hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Kocatepe Camii", "rationale": "Kocatepe Camii, Cumhuriyet dönemi eseri ve Ankara'nın en büyük camisidir.", "isCorrect": false },
+            { "text": "Maltepe Camii", "rationale": "Maltepe semtinde bulunan bir camidir.", "isCorrect": false },
+            { "text": "Hacı Bayram Camii", "rationale": "Doğru! Bu tanım, Augustus Tapınağı'nın yanında bulunan Hacı Bayram Camii'ne aittir.", "isCorrect": true },
+            { "text": "Ahi Evran Camii", "rationale": "Sincan'da bulunan bir camidir.", "isCorrect": false },
+            { "text": "Aslanhane Camii", "rationale": "Ankara Kalesi yakınlarında bulunan Selçuklu dönemine ait önemli bir camidir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 41,
+        "question": "Frigyalıların başkenti olan ve Kral Midas'ın mezarının da bulunduğu tarihi kent Gordion, hangi ilçe sınırlarındadır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Çankaya", "rationale": "Ankara'nın merkez ilçesidir.", "isCorrect": false },
+            { "text": "Polatlı", "rationale": "Doğru! Gordion antik kenti, Ankara'nın Polatlı ilçesi Yassıhöyük köyünde yer almaktadır.", "isCorrect": true },
+            { "text": "Kızılcahamam", "rationale": "Ankara'nın kaplıcaları ve ormanları ile ünlü bir ilçesidir.", "isCorrect": false },
+            { "text": "Beypazarı", "rationale": "Ankara'nın tarihi evleriyle ünlü bir ilçesidir.", "isCorrect": false },
+            { "text": "Sivrihisar", "rationale": "Eskişehir'in bir ilçesidir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 42,
+        "question": "Eskişehir'de Yunus Emre'nin mezarı, hangi olaydan sonra 1949'da yeni bir yere taşınmıştır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Bir deprem sonrası", "rationale": "Metinde depremden bahsedilmiyor.", "isCorrect": false },
+            { "text": "Yunan işgali sırasında yıkılması", "rationale": "Doğru! Metinde 'Yunus Emre’nin mezarı Yunan işgali sırasında yıkılmış, l949 yılında yapılan bir çeşmenin arkasına taşınarak yeni bir mezar yapılmıştır' denmektedir.", "isCorrect": true },
+            { "text": "Bir sel felaketi sonrası", "rationale": "Metinde selden bahsedilmiyor.", "isCorrect": false },
+            { "text": "Yol yapım çalışmaları nedeniyle", "rationale": "Bu da bir sebep olabilir ama metinde belirtilen farklıdır.", "isCorrect": false },
+            { "text": "Kendi vasiyeti üzerine", "rationale": "Metinde böyle bir bilgi yoktur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 43,
+        "question": "Eskişehir'deki Sazova Parkı'nda bulunan masal şatosunun 26 kulesi olmasının sembolik anlamı nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Türkiye'deki 26 önemli kaleyi temsil eder.", "rationale": "Kuleler Türkiye'deki kalelerden ilham almıştır ama sayısal olarak bu anlama gelmez.", "isCorrect": false },
+            { "text": "Eskişehir'in plaka koduna atıf yapılmıştır.", "rationale": "Doğru! Metinde '26 rakamı da rastgele seçilmemiş, Eskişehir’in plakasına atıf yapılmış' olduğu belirtilmektedir.", "isCorrect": true },
+            { "text": "Parkın kuruluşunun 26. yılını simgeler.", "rationale": "Metinde böyle bir bilgi yer almamaktadır.", "isCorrect": false },
+            { "text": "Masallardaki 26 prensesi temsil eder.", "rationale": "Bu sembolik bir anlam olabilir, ancak metindeki bilgi farklıdır.", "isCorrect": false },
+            { "text": "Tasarımcısının uğurlu sayısıdır.", "rationale": "Bu tamamen spekülatif bir bilgidir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 44,
+        "question": "Güldürürken düşündüren nükteli sözleriyle bilinen Nasreddin Hoca'nın hangi ilin hangi ilçesinde doğduğu kabul edilir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Konya - Akşehir", "rationale": "Akşehir, Nasreddin Hoca'nın türbesinin bulunduğu ve yaşadığı yer olarak bilinir, ancak metin doğum yeri olarak farklı bir yer belirtir.", "isCorrect": false },
+            { "text": "Ankara - Polatlı", "rationale": "Polatlı, Gordion antik kenti ile bilinir.", "isCorrect": false },
+            { "text": "Eskişehir - Sivrihisar", "rationale": "Doğru! Metinde 'Genel kanıya göre Eskişehir’in Sivrihisar ilçesi Hortu köyünde ( 1208 ) doğmuştur' ifadesi yer almaktadır.", "isCorrect": true },
+            { "text": "Afyonkarahisar - Merkez", "rationale": "Afyonkarahisar, komşu bir ildir.", "isCorrect": false },
+            { "text": "Kütahya - Simav", "rationale": "Kütahya, çinileriyle ünlüdür.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 45,
+        "question": "Frig, Hitit, Roma gibi medeniyetlere ait yaklaşık 22 bin kültürel kaynağın bulunduğu Eti Arkeoloji Müzesi hangi ilimizdedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Ankara", "rationale": "Ankara'da Anadolu Medeniyetleri Müzesi vardır.", "isCorrect": false },
+            { "text": "Konya", "rationale": "Konya'da Arkeoloji Müzesi bulunmaktadır.", "isCorrect": false },
+            { "text": "Eskişehir", "rationale": "Doğru! Bu müze Eskişehir'de bulunmaktadır ve metinde detaylı olarak anlatılmıştır.", "isCorrect": true },
+            { "text": "Kayseri", "rationale": "Kayseri'de de Arkeoloji Müzesi bulunur.", "isCorrect": false },
+            { "text": "Nevşehir", "rationale": "Nevşehir'de de Hacıbektaş Müzesi gibi müzeler vardır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 46,
+        "question": "Çankırı iline ilk yerleşenlerin kimler olduğu belirtilmektedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Romalılar", "rationale": "Romalılar daha sonraki dönemlerde Anadolu'ya hakim olmuştur.", "isCorrect": false },
+            { "text": "Frigler", "rationale": "Frigler de Anadolu'da önemli bir medeniyettir.", "isCorrect": false },
+            { "text": "Hititler", "rationale": "Doğru! Metinde 'Çankırı çevresine ilk yerleşenler, Hititlerdir.' denmektedir.", "isCorrect": true },
+            { "text": "Lidyalılar", "rationale": "Lidyalılar Batı Anadolu'da yaşamıştır.", "isCorrect": false },
+            { "text": "Urartular", "rationale": "Urartular Doğu Anadolu'da yaşamıştır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 47,
+        "question": "Yaklaşık 5000 yıldır yararlanıldığı tahmin edilen Türkiye'nin en büyük kaya tuzu rezervlerinden biri nerede bulunmaktadır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Nevşehir", "rationale": "Nevşehir peribacaları ile ünlüdür.", "isCorrect": false },
+            { "text": "Çankırı", "rationale": "Doğru! Metinde bahsedilen Tuz Mağarası, Çankırı ilindedir.", "isCorrect": true },
+            { "text": "Kırıkkale", "rationale": "Kırıkkale savunma sanayisi ile bilinir.", "isCorrect": false },
+            { "text": "Yozgat", "rationale": "Yozgat'ta da yer altı zenginlikleri vardır.", "isCorrect": false },
+            { "text": "Sivas", "rationale": "Sivas'ta da maden yatakları bulunur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 48,
+        "question": "Konya için kullanılan 'buğday ambarı' unvanının yanı sıra, hangi manevi şahsiyet ile birlikte anılmaktadır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Hacı Bayram Veli", "rationale": "Hacı Bayram Veli, Ankara ile anılır.", "isCorrect": false },
+            { "text": "Yunus Emre", "rationale": "Yunus Emre, Eskişehir ile anılır.", "isCorrect": false },
+            { "text": "Hacı Bektaş Veli", "rationale": "Hacı Bektaş Veli, Nevşehir (Hacıbektaş) ile anılır.", "isCorrect": false },
+            { "text": "Mevlana", "rationale": "Doğru! Metinde 'gönül eri Mevlana ile birlikte anılmaktadır' ifadesi geçmektedir.", "isCorrect": true },
+            { "text": "Ahi Evran", "rationale": "Ahi Evran, Kırşehir ile anılır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 49,
+        "question": "'Gel ne olursan ol yine de gel' sözüyle bilinen Mevlana'nın türbesi, Türkiye'de en çok ziyaret edilen kaçıncı müzedir (2015 yılı verisine göre)?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "1.", "rationale": "İlk sırada Ayasofya ve Topkapı yer alıyordu.", "isCorrect": false },
+            { "text": "2.", "rationale": "İkinci sırada da Ayasofya veya Topkapı'dan biri vardı.", "isCorrect": false },
+            { "text": "3.", "rationale": "Doğru! Metinde '2015 yılında da Ayasofya ve Topkapı’nın ardından Türkiye’nin en çok ziyaret edilen 3. müzesi olmuş' denmektedir.", "isCorrect": true },
+            { "text": "5.", "rationale": "Daha üst sıralarda yer almaktadır.", "isCorrect": false },
+            { "text": "10.", "rationale": "Çok daha üst sıralarda yer almaktadır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 50,
+        "question": "Mevlana'nın ölüm yıl dönümü olan 17 Aralık'ı ifade eden ve 'Düğün Gecesi' anlamına gelen kavram nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Hıdrellez", "rationale": "Hıdrellez, bahar bayramıdır.", "isCorrect": false },
+            { "text": "Nevruz", "rationale": "Nevruz, baharın başlangıcı ve yeni yıl olarak kutlanır.", "isCorrect": false },
+            { "text": "Sema Töreni", "rationale": "Sema, Şeb-i Arus'ta yapılan bir törendir, kavramın kendisi değildir.", "isCorrect": false },
+            { "text": "Kandil Gecesi", "rationale": "Kandiller, İslam dininde mübarek kabul edilen gecelerdir.", "isCorrect": false },
+            { "text": "Şeb-i Arus", "rationale": "Doğru! Şeb-i Arus, 'Düğün Gecesi' demektir ve Mevlana'nın Allah'a kavuştuğu gece olarak anılır.", "isCorrect": true }
+        ]
+    },
+    {
+        "questionNumber": 51,
+        "question": "Konya'daki Alaaddin Tepesi üzerinde bulunan Alaaddin Camii'nin minberi hangi ağaçtan yapılmıştır ve neden özeldir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Ceviz - En yumuşak ağaç olduğu için", "rationale": "Ceviz oyma sanatı için kullanılır ama metindeki bilgi farklıdır ve abanoz sert bir ağaçtır.", "isCorrect": false },
+            { "text": "Gül - Hoş kokusu olduğu için", "rationale": "Gül ağacı minber yapımı için uygun değildir.", "isCorrect": false },
+            { "text": "Abanoz - En sert ağaçlardan biri olduğu için", "rationale": "Doğru! Metinde 'En sert ağaç olarak bilinen “Abanoz” ağacının oyulmasıyla yapılan minberi dünya çapında bir şaheser olarak kabul edilmektedir.' denir.", "isCorrect": true },
+            { "text": "Çam - Kolay bulunduğu için", "rationale": "Çam daha yumuşak bir ağaçtır ve bu minber için kullanılmamıştır.", "isCorrect": false },
+            { "text": "Meşe - Dayanıklı olduğu için", "rationale": "Meşe dayanıklıdır ancak bu minber abanoz ağacındandır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 52,
+        "question": "Selçuklu veziri Celaleddin Karatay tarafından 1251 yılında yaptırılan Karatay Medresesi, günümüzde ne olarak kullanılmaktadır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Üniversite kampüsü", "rationale": "Günümüzde üniversite olarak kullanılmamaktadır.", "isCorrect": false },
+            { "text": "Çini eserler müzesi", "rationale": "Doğru! Metinde 'Bugün çini eserler müzesi olarak faaliyet göstermektedir.' ifadesi yer alır.", "isCorrect": true },
+            { "text": "Halk kütüphanesi", "rationale": "Kütüphane olarak kullanılmamaktadır.", "isCorrect": false },
+            { "text": "Devlet konukevi", "rationale": "Konukevi değildir.", "isCorrect": false },
+            { "text": "Hala medrese olarak", "rationale": "Medrese eğitimi vermemektedir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 53,
+        "question": "Konya'daki İnce Minareli Medrese hangi ilmin öğretilmesi amacıyla yaptırılmıştır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Tıp ilmi", "rationale": "Tıp medreseleri ayrıdır, örneğin Kayseri'deki Gevher Nesibe Şifahanesi.", "isCorrect": false },
+            { "text": "Astronomi ilmi", "rationale": "Astronomi Kırşehir'deki Cacabey Medresesi ile anılır.", "isCorrect": false },
+            { "text": "Matematik ilmi", "rationale": "Medreselerde okutulsa da bu medresenin kuruluş amacı farklıdır.", "isCorrect": false },
+            { "text": "Hadis ilmi", "rationale": "Doğru! Metinde 'hadis ilmi öğretilmek üzere... inşa ettirilmiştir.' denmektedir.", "isCorrect": true },
+            { "text": "Felsefe ilmi", "rationale": "Felsefe de okutulurdu ancak kuruluş amacı hadistir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 54,
+        "question": "Günümüze ulaşabilmiş tek Anadolu Selçuklu saray yapısı aşağıdakilerden hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Topkapı Sarayı", "rationale": "Topkapı Sarayı bir Osmanlı sarayıdır.", "isCorrect": false },
+            { "text": "İshak Paşa Sarayı", "rationale": "İshak Paşa Sarayı, Osmanlı dönemine aittir.", "isCorrect": false },
+            { "text": "Kubadabad Sarayı", "rationale": "Doğru! Metinde 'Kubadabad Sarayı Külliyesi, günümüze ulaşabilmiş tek Anadolu Selçuklu saray yapısıdır.' ifadesi bulunmaktadır.", "isCorrect": true },
+            { "text": "Dolmabahçe Sarayı", "rationale": "Dolmabahçe Sarayı bir Osmanlı sarayıdır.", "isCorrect": false },
+            { "text": "Alanya Kalesi Sarayı", "rationale": "Alanya Kalesi içinde saray kalıntıları olsa da tek yapı bu değildir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 55,
+        "question": "İnsanlık tarihindeki ilk yerleşim, ilk ev mimarisi ve ilk kutsal yapıların olduğu yer olarak tanımlanan Çatalhöyük, hangi ilçemizdedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Konya - Meram", "rationale": "Meram, Konya'nın merkez ilçelerindendir.", "isCorrect": false },
+            { "text": "Konya - Çumra", "rationale": "Doğru! Metinde 'Çumra ilçesindeki Küçükköy mevkiine doğru yol almadan önce...' denilerek yeri belirtilmiştir.", "isCorrect": true },
+            { "text": "Ankara - Polatlı", "rationale": "Polatlı'da Gordion antik kenti vardır.", "isCorrect": false },
+            { "text": "Nevşehir - Ürgüp", "rationale": "Ürgüp, Kapadokya'nın merkezlerindendir.", "isCorrect": false },
+            { "text": "Şanlıurfa - Merkez", "rationale": "Şanlıurfa'da Göbeklitepe bulunmaktadır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 56,
+        "question": "Çatalhöyük'teki evlere girişin kapı yerine damdan yapılmasının temel nedeni nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Dini bir ritüel olması", "rationale": "Dini yapılar olsa da girişlerin sebebi bu değildir.", "isCorrect": false },
+            { "text": "Etraftaki vahşi hayvanlardan korunmak", "rationale": "Doğru! Metinde 'Bunun etraftaki vahşi hayvanlardan korunmak için özellikle yapıldığı... belirtiliyor' denmektedir.", "isCorrect": true },
+            { "text": "Sel baskınlarını önlemek", "rationale": "Bu bir sebep olabilir ama metinde belirtilen vahşi hayvanlardır.", "isCorrect": false },
+            { "text": "Estetik bir mimari tercih olması", "rationale": "Bu bir mimari özelliktir ama temel sebebi estetik değildir.", "isCorrect": false },
+            { "text": "Kapı yapacak malzeme olmaması", "rationale": "Malzeme eksikliğinden değil, güvenlikten kaynaklanmaktadır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 57,
+        "question": "Hitit dönemine ait, Tuvana kralı Warpalawas tarafından yaptırılan kaya anıtı hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Eflatun Pınar Anıtı", "rationale": "Eflatun Pınar da bir Hitit anıtıdır ancak Warpalawas tarafından yaptırılmamıştır.", "isCorrect": false },
+            { "text": "Yazılıkaya", "rationale": "Yazılıkaya, Hattuşa'daki önemli bir Hitit açık hava tapınağıdır.", "isCorrect": false },
+            { "text": "İvriz Hitit Kaya Anıtı", "rationale": "Doğru! Metinde bu anıtın 'Tuvana kralı Warpalawas tarafından M.Ö.8. yüzyılda yaptırılmıştır' bilgisi yer almaktadır.", "isCorrect": true },
+            { "text": "Karatepe Aslantaş", "rationale": "Bu, Geç Hitit dönemine ait önemli bir sitedir.", "isCorrect": false },
+            { "text": "Gordion", "rationale": "Gordion, bir Frigya merkezidir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 58,
+        "question": "Adını renginden alan ve bir su kaynağının kenarında bulunan Hitit anıtı hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "İvriz Hitit Kaya Anıtı", "rationale": "Bu anıt bir kaya kabartmasıdır.", "isCorrect": false },
+            { "text": "Eflatun Pınar Anıtı", "rationale": "Doğru! Metinde 'Eflatun renginde olduğu için bu adı almıştır' denmektedir.", "isCorrect": true },
+            { "text": "Yazılıkaya", "rationale": "Bu bir açık hava tapınağıdır.", "isCorrect": false },
+            { "text": "Alacahöyük", "rationale": "Alacahöyük önemli bir Hitit yerleşimidir.", "isCorrect": false },
+            { "text": "Kültepe Kaniş", "rationale": "Burası bir Asur ticaret kolonisi ve Hitit şehridir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 59,
+        "question": "Peribacalarının oluşumunda hangi yanardağların püskürttüğü lavların etkili olduğu belirtilmiştir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Ağrı, Süphan, Nemrut", "rationale": "Bu dağlar Doğu Anadolu'dadır.", "isCorrect": false },
+            { "text": "Erciyes, Güllüdağ, Hasandağı", "rationale": "Doğru! Metinde bu üç yanardağın püskürttüğü lavların tüf tabakasını oluşturduğu anlatılmaktadır.", "isCorrect": true },
+            { "text": "Uludağ, Samanlı Dağları", "rationale": "Bu dağlar Marmara Bölgesi'ndedir ve volkanik yapıları farklıdır.", "isCorrect": false },
+            { "text": "Kaz Dağları, Madra Dağı", "rationale": "Bu dağlar Ege Bölgesi'ndedir.", "isCorrect": false },
+            { "text": "Toros Dağları", "rationale": "Toroslar, tektonik hareketlerle oluşmuş bir sıradağdır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 60,
+        "question": "Kapadokya bölgesine 'Katpatuka' adını veren ilk medeniyet hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Hititler", "rationale": "Hititler bölgede yaşamıştır ancak bu ismi verenler Asurlulardır.", "isCorrect": false },
+            { "text": "Romalılar", "rationale": "Romalılar daha sonraki bir dönemde bölgeye hakim olmuştur.", "isCorrect": false },
+            { "text": "Persler", "rationale": "İsmin Persçe kökenli olduğu söylense de, ismi verenler Asurlulardır.", "isCorrect": false },
+            { "text": "Asurlular", "rationale": "Doğru! Metinde 'Bölgeye yerleşen ilk bilinen medeniyet olan Asurlular, buraya “Katpatuka” adını vermişlerdir.' denmektedir.", "isCorrect": true },
+            { "text": "Frigler", "rationale": "Frigler daha çok Batı ve Orta Anadolu'da etkili olmuştur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 61,
+        "question": "Bizans ve Osmanlı dönemlerinde onarılan Nevşehir Kalesi'nin yapım tarihi neden kesin olarak bilinmemektedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Kalenin tamamen yıkılıp yeniden yapılması", "rationale": "Kale onarılmıştır, tamamen yeniden yapılmamıştır.", "isCorrect": false },
+            { "text": "Kalenin kitabesinin günümüze ulaşamaması", "rationale": "Doğru! Metinde 'kalenin kitabesi günümüze gelemediğinden yapım tarihi kesinlik kazanamamıştır' yazmaktadır.", "isCorrect": true },
+            { "text": "Tarihi kayıtların bir yangında yok olması", "rationale": "Metinde böyle bir bilgi yoktur.", "isCorrect": false },
+            { "text": "Farklı medeniyetler tarafından kullanılması", "rationale": "Bu bir neden değil, bir özelliktir.", "isCorrect": false },
+            { "text": "Kalenin aslında bir kale olmaması", "rationale": "Bu yanlıştır, yapı bir kaledir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 62,
+        "question": "Hıristiyanların önemli yerleşim ve dini merkezlerinden olan ve rahiplere ilk dini seminerlerin verildiği yer neresidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Derinkuyu", "rationale": "Derinkuyu bir yeraltı şehridir.", "isCorrect": false },
+            { "text": "Göreme", "rationale": "Göreme önemli bir merkezdir ama metindeki tanım Zelve'ye aittir.", "isCorrect": false },
+            { "text": "Zelve", "rationale": "Doğru! Metinde Zelve'nin 'rahiplere ilk dini seminerler de bu yörede verilmiştir' denilerek bu özelliği vurgulanmıştır.", "isCorrect": true },
+            { "text": "Kaymaklı", "rationale": "Kaymaklı bir yeraltı şehridir.", "isCorrect": false },
+            { "text": "Ihlara Vadisi", "rationale": "Ihlara Vadisi'nde çok sayıda kilise bulunur ama seminer yeri olarak Zelve belirtilmiştir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 63,
+        "question": "Kaymaklı Yeraltı Şehri'nde dışarıdan gelebilecek tehlikeleri önlemek için kullanılan savunma mekanizması nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Su dolu hendekler", "rationale": "Bu yeraltı şehrinde mümkün değildir.", "isCorrect": false },
+            { "text": "Demir parmaklıklar", "rationale": "Dönemin teknolojisi ve yapının doğası için uygun değildir.", "isCorrect": false },
+            { "text": "Kapıyı içten kapatan büyük sürgü taşları", "rationale": "Doğru! Metinde bu savunma mekanizması açıkça belirtilmiştir.", "isCorrect": true },
+            { "text": "Gizli okçu delikleri", "rationale": "Bu daha çok kale mimarisine ait bir özelliktir.", "isCorrect": false },
+            { "text": "Tuzaklı koridorlar", "rationale": "Metinde bahsedilen savunma mekanizması sürgü taşlarıdır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 64,
+        "question": "Bektaşi tarikatının kurucusu Hacı Bektaş Veli'nin yaşadığı ve dergahının bulunduğu ilçe hangi ilimizdedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Kırşehir", "rationale": "Kırşehir Ahi Evran ile bilinir ve komşu ildir.", "isCorrect": false },
+            { "text": "Yozgat", "rationale": "Yozgat komşu bir ildir.", "isCorrect": false },
+            { "text": "Konya", "rationale": "Konya Mevlana ile bilinir.", "isCorrect": false },
+            { "text": "Nevşehir", "rationale": "Doğru! Hacıbektaş ilçesi Nevşehir'e bağlıdır.", "isCorrect": true },
+            { "text": "Ankara", "rationale": "Ankara Hacı Bayram Veli ile bilinir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 65,
+        "question": "Kapadokya'nın en ihtişamlı deneyimlerinden biri olarak ne gösterilmiştir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Yeraltı şehirlerini gezmek", "rationale": "Bu da önemli bir deneyimdir ama metinde 'en ihtişamlı' olarak başka bir şey belirtilmiştir.", "isCorrect": false },
+            { "text": "Güneşin doğuşuyla birlikte balon turu yapmak", "rationale": "Doğru! Metinde 'en ihtişamlı deneyimlerinden biri, elbette ki güneşin doğuşuyla birlikte balon turu yapmaktır.' denmektedir.", "isCorrect": true },
+            { "text": "ATV safari yapmak", "rationale": "Popüler bir aktivitedir ama metinde geçmemektedir.", "isCorrect": false },
+            { "text": "Çömlek atölyelerini ziyaret etmek", "rationale": "Avanos'ta yapılan önemli bir aktivitedir.", "isCorrect": false },
+            { "text": "Şarap tadımı yapmak", "rationale": "Ürgüp'te yapılan popüler bir aktivitedir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 66,
+        "question": "Türkçenin ilk defa resmi dil olarak kabul edildiği yer neresidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Konya", "rationale": "Konya, Karamanoğulları Beyliği'nin de başkenti olmuştur ancak resmi dil ilanı Karaman'da yapılmıştır.", "isCorrect": false },
+            { "text": "Karaman", "rationale": "Doğru! Metinde 'KARAMAN, TÜRKÇENİN İLK DEFA RESMİ DİL KABUL EDİLDİĞİ YERDİR.' diye belirtilmiştir. Bu olay Karamanoğlu Mehmet Bey tarafından gerçekleştirilmiştir.", "isCorrect": true },
+            { "text": "Ankara", "rationale": "Ankara, Türkiye Cumhuriyeti'nin başkentidir.", "isCorrect": false },
+            { "text": "Bursa", "rationale": "Bursa, Osmanlı'nın ilk başkentidir.", "isCorrect": false },
+            { "text": "Sivas", "rationale": "Sivas, Sivas Kongresi'ne ev sahipliği yapmıştır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 67,
+        "question": "Karaman'da bulunan ve 251 adet tahıl ambarının yer aldığı otantik kasabanın adı nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Ermenek", "rationale": "Ermenek, Karaman'ın bir ilçesidir.", "isCorrect": false },
+            { "text": "Sarıveliler", "rationale": "Sarıveliler, Karaman'ın bir ilçesidir.", "isCorrect": false },
+            { "text": "Taşkale", "rationale": "Doğru! Metinde bu yerin Taşkale olduğu açıkça belirtilmiştir.", "isCorrect": true },
+            { "text": "Başyayla", "rationale": "Başyayla, Karaman'ın bir ilçesidir.", "isCorrect": false },
+            { "text": "Kazımkarabekir", "rationale": "Kazımkarabekir, Karaman'ın bir ilçesidir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 68,
+        "question": "Peri Bacalarıyla en çok turist çeken ve Kapadokya sınırları içinde yer alan yeni ilimiz hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Nevşehir", "rationale": "Nevşehir, Kapadokya'nın merkezidir ama 'yeni il' olarak bahsedilen Aksaray'dır.", "isCorrect": false },
+            { "text": "Kırşehir", "rationale": "Kırşehir, Kapadokya bölgesinde yer alır.", "isCorrect": false },
+            { "text": "Niğde", "rationale": "Niğde, Kapadokya bölgesinde yer alır.", "isCorrect": false },
+            { "text": "Aksaray", "rationale": "Doğru! Metinde 'Kapadokya sınırları içerisinde yer alan yeni ilimizde...' denilerek Aksaray kastedilmektedir.", "isCorrect": true },
+            { "text": "Kayseri", "rationale": "Kayseri, Kapadokya bölgesinde yer alır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 69,
+        "question": "Aksaray'a bağlı Güzelyurt ilçesinin batısında yer alan, tarihi ve doğal güzellikleriyle meşhur vadi hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Soğanlı Vadisi", "rationale": "Soğanlı Vadisi, Kayseri'dedir.", "isCorrect": false },
+            { "text": "Göreme Vadisi", "rationale": "Göreme Vadisi, Nevşehir'dedir.", "isCorrect": false },
+            { "text": "Ihlara Vadisi", "rationale": "Doğru! Metinde Ihlara Vadisi'nin Aksaray'a bağlı Güzelyurt ilçesinde bulunduğu belirtilmektedir.", "isCorrect": true },
+            { "text": "Zemi Vadisi", "rationale": "Zemi Vadisi, Nevşehir'dedir.", "isCorrect": false },
+            { "text": "Güvercinlik Vadisi", "rationale": "Güvercinlik Vadisi, Nevşehir'dedir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 70,
+        "question": "Aksaray'daki Ulu Camii'nin (Karamanoğlu Camii) kitabesinde kim tarafından yaptırıldığı yazılıdır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Alaaddin Keykubat", "rationale": "Alaaddin Keykubat, Selçuklu Sultanıdır ve Konya'daki Alaaddin Camii'ni yaptırmıştır.", "isCorrect": false },
+            { "text": "Mimar Sinan", "rationale": "Mimar Sinan, Osmanlı döneminin baş mimarıdır.", "isCorrect": false },
+            { "text": "Karamanoğlu Mehmet Bey", "rationale": "Doğru! Metinde 'Karamanoğlu Mehmet bey tarafından Mimar Mehmet Firuz Bey'e yaptırıldığı yazılır.' denmektedir.", "isCorrect": true },
+            { "text": "Sultan II. Kılıçarslan", "rationale": "II. Kılıçarslan da önemli bir Selçuklu hükümdarıdır.", "isCorrect": false },
+            { "text": "Zağnos Paşa", "rationale": "Zağnos Paşa, Fatih dönemi veziridir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 71,
+        "question": "Aksaray'da bulunan ve kırmızı tuğladan yapıldığı için 'Kızıl Minare' olarak da anılan yapı hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Ulu Cami", "rationale": "Ulu Cami, Aksaray'ın en büyük camisidir.", "isCorrect": false },
+            { "text": "Eğri Minare", "rationale": "Doğru! Metinde 'Kırmızı tuğladan yapıldığı için Kızıl Minare olarak da anılmaktadır.' ifadesi Eğri Minare için kullanılmıştır.", "isCorrect": true },
+            { "text": "Sultanhanı", "rationale": "Sultanhanı, büyük bir kervansaraydır.", "isCorrect": false },
+            { "text": "Zinciriye Medresesi", "rationale": "Zinciriye Medresesi, Aksaray'daki önemli bir medresedir.", "isCorrect": false },
+            { "text": "Yivli Minare", "rationale": "Yivli Minare, Antalya'dadır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 72,
+        "question": "Atatürk'ün Kurtuluş Savaşı meşalesini yaktığı illerden biri olarak anılan ve zengin folklorik ürünlere sahip olan ilimiz hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Samsun", "rationale": "Atatürk, Kurtuluş Savaşı'nı başlatmak için Samsun'a çıkmıştır, ancak metinde Sivas vurgulanmaktadır.", "isCorrect": false },
+            { "text": "Erzurum", "rationale": "Erzurum Kongresi toplanmıştır.", "isCorrect": false },
+            { "text": "Ankara", "rationale": "Ankara, Kurtuluş Savaşı'nın merkezi olmuştur.", "isCorrect": false },
+            { "text": "Sivas", "rationale": "Doğru! Metinde Sivas için 'Atatürk’ün Anadolu’da Kurtuluş Savaşı meşalesini yaktığı illerimizden biri' tanımı yapılmıştır. Sivas Kongresi burada toplanmıştır.", "isCorrect": true },
+            { "text": "Amasya", "rationale": "Amasya Genelgesi yayınlanmıştır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 73,
+        "question": "Sivas'ta bulunan ve minarelerindeki çiniler nedeniyle 'Gök Medrese' olarak anılan yapının asıl adı nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Buruciye Medresesi", "rationale": "Buruciye Medresesi, Sivas'taki bir başka önemli medresedir.", "isCorrect": false },
+            { "text": "Çifte Minareli Medrese", "rationale": "Bu da Sivas'taki önemli bir medresedir ve Gök Medrese'nin karşısındadır.", "isCorrect": false },
+            { "text": "Sahibiye Medresesi", "rationale": "Doğru! Metinde 'Asıl adı Sahibiye Medresesi olan yapıya, minarelerinde bulunan çiniler nedeniyle Gök Medrese denilmektedir.' bilgisi yer alır.", "isCorrect": true },
+            { "text": "Şifaiye Medresesi", "rationale": "Şifaiye Medresesi, Selçuklu döneminin hastanesidir.", "isCorrect": false },
+            { "text": "Keykavus Darüşşifası", "rationale": "Bu da Şifaiye Medresesi'nin diğer adıdır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 74,
+        "question": "İslam mimarisinin başyapıtlarından sayılan Sivas Divriği Ulu Camii, hangi beylik döneminde yapılmıştır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Osmanlılar", "rationale": "Osmanlı döneminden daha eskidir.", "isCorrect": false },
+            { "text": "Selçuklular", "rationale": "Selçuklulara bağlı bir beylik döneminde yapılmıştır.", "isCorrect": false },
+            { "text": "Artuklular", "rationale": "Artuklular, Güneydoğu Anadolu'da hüküm sürmüştür.", "isCorrect": false },
+            { "text": "Danişmentliler", "rationale": "Danişmentliler de Sivas ve çevresinde hüküm sürmüştür.", "isCorrect": false },
+            { "text": "Mengücekoğulları", "rationale": "Doğru! Metinde '1228’de Mengücekoğulları hükümdarı Süleyman Şah’ın oğlu Ahmet Şah tarafından yaptırılmıştır.' denmektedir.", "isCorrect": true }
+        ]
+    },
+    {
+        "questionNumber": 75,
+        "question": "Sivas Kongresi'nin toplandığı ve Atatürk ile arkadaşlarının bir süre kaldığı bina, aslında hangi okulun binasıdır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Sivas Lisesi", "rationale": "Doğru! Metinde 'Sivas Lisesi binası Kongreye ayrılmış...' denmektedir. Günümüzde müze olarak kullanılmaktadır.", "isCorrect": true },
+            { "text": "Sivas Üniversitesi", "rationale": "Cumhuriyet Üniversitesi daha sonra kurulmuştur.", "isCorrect": false },
+            { "text": "Sivas Öğretmen Okulu", "rationale": "Bina lise olarak kullanılıyordu.", "isCorrect": false },
+            { "text": "Sivas Sanat Okulu", "rationale": "Bina lise olarak kullanılıyordu.", "isCorrect": false },
+            { "text": "Buruciye Medresesi", "rationale": "Buruciye Medresesi tarihi bir medresedir, o dönemde okul olarak kullanılmıyordu.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 76,
+        "question": "Sivas'ın Kangal ilçesinde bulunan ve özellikle sedef hastalığı tedavisinde etkili olan kaplıcanın adı nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Sıcak Çermik", "rationale": "Sıcak Çermik, Sivas'taki başka bir kaplıcadır.", "isCorrect": false },
+            { "text": "Soğuk Çermik", "rationale": "Soğuk Çermik de Sivas'ta bulunur.", "isCorrect": false },
+            { "text": "Balıklı Kaplıca", "rationale": "Doğru! Metinde küçük balıklarıyla sedef hastalığı tedavisinde kullanılan bu kaplıcadan bahsedilmektedir.", "isCorrect": true },
+            { "text": "Kızılcahamam Kaplıcası", "rationale": "Bu kaplıca Ankara'dadır.", "isCorrect": false },
+            { "text": "Gönen Kaplıcası", "rationale": "Bu kaplıca Balıkesir'dedir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 77,
+        "question": "1968 yılından beri Sivas Müzesi olarak kullanılan Buruciye Medresesi kim tarafından yaptırılmıştır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Sahip Ata", "rationale": "Sahip Ata, Gök Medrese'yi yaptırmıştır.", "isCorrect": false },
+            { "text": "İzzettin Keykavus", "rationale": "Keykavus, Şifaiye Medresesi'ni yaptıran Selçuklu Sultanıdır.", "isCorrect": false },
+            { "text": "Burucerdioğlu Muzaffer Bey", "rationale": "Doğru! Metinde 'Burucerdioğlu Muzaffer Bey tarafından yaptırılmıştır' ifadesi yer almaktadır.", "isCorrect": true },
+            { "text": "Ahmet Şah", "rationale": "Ahmet Şah, Divriği Ulu Camii'ni yaptırmıştır.", "isCorrect": false },
+            { "text": "Mimar Kaluytan", "rationale": "Mimar Kaluytan, Gök Medrese'nin mimarıdır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 78,
+        "question": "Anadolu ve Avrupa'nın ilk hastanesi olma özelliğine sahip Şifaiye Medresesi (Gevher Nesibe Sultan Medresesi) hangi ilimizdedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Sivas", "rationale": "Sivas'ta da bir Şifaiye Medresesi vardır ancak 'ilk hastane' olarak anılan Kayseri'dekidir.", "isCorrect": false },
+            { "text": "Konya", "rationale": "Konya'da da önemli medreseler vardır.", "isCorrect": false },
+            { "text": "Kayseri", "rationale": "Doğru! Metinde Gıyasiye ve Şifaiye Medresesi'nin Kayseri'de olduğu ve 'Anadolu ve Avrupa’nın İlk hastanesi olma özelliğine sahip' olduğu belirtilmiştir.", "isCorrect": true },
+            { "text": "Amasya", "rationale": "Amasya'da Darüşşifa (Bimarhane) bulunmaktadır.", "isCorrect": false },
+            { "text": "Edirne", "rationale": "Edirne'de II. Bayezid Külliyesi içinde bir darüşşifa bulunur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 79,
+        "question": "Roma döneminden itibaren yerleşim yeri olan ve kaya konilerinin Romalılar tarafından mezarlık, Bizanslılar tarafından kilise olarak kullanıldığı vadi hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Ihlara Vadisi", "rationale": "Ihlara'da da kayalara oyulmuş kiliseler vardır.", "isCorrect": false },
+            { "text": "Soğanlı Vadisi", "rationale": "Doğru! Bu tanım, metinde belirtildiği gibi Yeşilhisar (Kayseri) sınırlarındaki Soğanlı Vadisi'ne aittir.", "isCorrect": true },
+            { "text": "Zelve Vadisi", "rationale": "Zelve, önemli bir manastır yaşamı merkeziydi.", "isCorrect": false },
+            { "text": "Güzelyurt Manastır Vadisi", "rationale": "Bu vadi Aksaray'dadır.", "isCorrect": false },
+            { "text": "Paşabağları", "rationale": "Paşabağları, peribacalarının en güzel örneklerinin olduğu bir yerdir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 80,
+        "question": "Flamingo sürülerinin görülebildiği, ekolojik açıdan 'dünyada bir eşi daha yoktur' denilen doğa harikası yer neresidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Tuz Gölü", "rationale": "Tuz Gölü, flamingoların önemli bir üreme alanıdır, ancak metinde bahsedilen yer farklıdır.", "isCorrect": false },
+            { "text": "Manyas Gölü Kuş Cenneti", "rationale": "Burası da çok sayıda kuşa ev sahipliği yapar.", "isCorrect": false },
+            { "text": "Seyfe Gölü", "rationale": "Seyfe Gölü, Kırşehir'de bulunur ve kuşlar için önemlidir.", "isCorrect": false },
+            { "text": "Sultansazlığı", "rationale": "Doğru! Metinde Kayseri'deki Sultansazlığı için bu tanım yapılmıştır.", "isCorrect": true },
+            { "text": "Beyşehir Gölü", "rationale": "Beyşehir Gölü, Türkiye'nin en büyük tatlı su gölüdür.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 81,
+        "question": "Orta Anadolu'nun en yüksek doruğu olan Erciyes Dağı'nın özelliği nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Aktif bir volkandır.", "rationale": "Metinde 'sönmüş bir volkandır' denmektedir.", "isCorrect": false },
+            { "text": "Üzerinde hiç kar bulunmaz.", "rationale": "Aksine, 'yılın her mevsiminde kalıcı karlarla örtülüdür' denmektedir.", "isCorrect": false },
+            { "text": "Sönmüş bir volkandır.", "rationale": "Doğru! Erciyes Dağı, sönmüş bir volkandır ve Kayseri'nin sembolüdür.", "isCorrect": true },
+            { "text": "Tektonik bir dağdır.", "rationale": "Erciyes volkanik bir dağdır.", "isCorrect": false },
+            { "text": "Bir sıradağın parçasıdır.", "rationale": "Erciyes tek bir kütle halindedir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 82,
+        "question": "Kırşehir'in Selçuklu döneminden sonra ilim ve güzel sanatlar dalında önemli bir kent olmasında en büyük rolü olan akım/teşkilat hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Mevlevilik", "rationale": "Mevlevilik Konya merkezlidir.", "isCorrect": false },
+            { "text": "Bektaşilik", "rationale": "Bektaşilik Nevşehir (Hacıbektaş) merkezlidir.", "isCorrect": false },
+            { "text": "Ahilik", "rationale": "Doğru! Kırşehir, Ahi Evran ile anılan Ahilik teşkilatının merkezi olmuş ve bu sayede ilim ve sanat merkezi haline gelmiştir. Metin doğrudan Ahilik demese de, Cacabey gibi şahsiyetler bu döneme işaret eder.", "isCorrect": true },
+            { "text": "Yeniçerilik", "rationale": "Yeniçerilik askeri bir ocaktır.", "isCorrect": false },
+            { "text": "İttihat ve Terakki", "rationale": "Bu siyasi bir oluşumdur ve çok daha sonraki bir döneme aittir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 83,
+        "question": "Kırşehir'de bulunan ve minarelerindeki yeşil çinilerden dolayı 'Cıncıklı Cami' de denilen yapı, aslında ne olarak inşa edilmiştir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Hastane (Darüşşifa)", "rationale": "Bu yapı bir hastane değildir.", "isCorrect": false },
+            { "text": "Kervansaray", "rationale": "Bu yapı bir kervansaray değildir.", "isCorrect": false },
+            { "text": "Medrese (Astronomi okulu)", "rationale": "Doğru! Cacabey Camii olarak bilinen yapı, Nurettin İbn Caca tarafından 1272 yılında medrese olarak inşa edilmiştir ve astronomi eğitimi verilmiştir.", "isCorrect": true },
+            { "text": "Türbe", "rationale": "Bu yapı bir türbe değildir.", "isCorrect": false },
+            { "text": "Saray", "rationale": "Bu yapı bir saray değildir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 84,
+        "question": "Nesli tehlikeye düşmüş Toy ve Angıt kuşlarının yaşadığı, flamingoların da bolca bulunduğu Seyfe Gölü hangi ilçemizdedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Kırşehir - Kaman", "rationale": "Kaman, Kırşehir'in bir ilçesidir.", "isCorrect": false },
+            { "text": "Kırşehir - Mucur", "rationale": "Doğru! Metinde gölün 'Mucur ilçesine 16 km mesafededir' olduğu belirtilmiştir.", "isCorrect": true },
+            { "text": "Yozgat - Sorgun", "rationale": "Sorgun, Yozgat'ın bir ilçesidir.", "isCorrect": false },
+            { "text": "Nevşehir - Avanos", "rationale": "Avanos, Nevşehir'in bir ilçesidir.", "isCorrect": false },
+            { "text": "Aksaray - Güzelyurt", "rationale": "Güzelyurt, Aksaray'ın bir ilçesidir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 85,
+        "question": "Yozgat'ta bulunan ve Anadolu'nun mimari tarz ve zerafet bakımından en seçkin eserlerinden biri olan Çapanoğlu Camii'nin içinde kimin türbesi bulunur?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Bir Osmanlı Sultanı", "rationale": "İçinde bir padişah türbesi yoktur.", "isCorrect": false },
+            { "text": "Çapanoğlu Mustafa Paşa", "rationale": "Doğru! Metinde 'İçerisinde Çapanoğlu Mustafa Paşanın türbesi bulunmaktadır.' denmektedir. Cami, bu aile tarafından yaptırılmıştır.", "isCorrect": true },
+            { "text": "Bir Selçuklu Veziri", "rationale": "Cami Osmanlı dönemine aittir.", "isCorrect": false },
+            { "text": "Bozoklu bir evliya", "rationale": "Böyle bir bilgi metinde yer almamaktadır.", "isCorrect": false },
+            { "text": "Türbe bulunmamaktadır", "rationale": "Metin aksini belirtmektedir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 86,
+        "question": "Niğde'nin ön plana çıkan turizm kaynakları arasında aşağıdakilerden hangisi sayılmamıştır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Aladağlar", "rationale": "Aladağlar, Niğde'nin önemli bir doğal güzelliği ve turizm kaynağıdır.", "isCorrect": false },
+            { "text": "Çiftehan Kaplıcası", "rationale": "Çiftehan, Niğde'nin ünlü bir kaplıcasıdır.", "isCorrect": false },
+            { "text": "Niğde Kalesi", "rationale": "Niğde Kalesi, şehrin merkezindeki tarihi bir yapıdır.", "isCorrect": false },
+            { "text": "Gümüşler Manastırı", "rationale": "Doğru! Gümüşler Manastırı Niğde'nin en önemli turistik yerlerinden biridir, ancak metindeki listede (Ak medrese) sayılmamıştır.", "isCorrect": true },
+            { "text": "Ak Medrese", "rationale": "Ak Medrese, metinde sayılan turizm kaynakları arasındadır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 87,
+        "question": "İç Anadolu Bölgesi'nin turizm potansiyeli için aşağıdakilerden hangisi söylenemez?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Önemli bir potansiyele sahiptir.", "rationale": "Metin, bölgenin önemli bir turizm potansiyeli olduğunu belirtir.", "isCorrect": false },
+            { "text": "Dağcılık ve kayak merkezleri bulunur.", "rationale": "Erciyes gibi merkezler buna örnektir.", "isCorrect": false },
+            { "text": "Sağlık turizmi için elverişli alanları vardır.", "rationale": "Kızılcahamam gibi kaplıcalar buna örnektir.", "isCorrect": false },
+            { "text": "Sadece yaz turizmi gelişmiştir.", "rationale": "Doğru! Bu ifade yanlıştır. Bölgede kış turizmi (kayak), kültür turizmi, sağlık turizmi gibi birçok farklı türde turizm faaliyeti yürütülmektedir.", "isCorrect": true },
+            { "text": "Tarihi 5000 yıl öncesine dayanan yerleşimlere sahiptir.", "rationale": "Metin, bölgedeki yerleşimin 5000 yıl öncesine dayandığını belirtir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 88,
+        "question": "Trakya'da kışlar ve yazlar genel olarak nasıldır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Kışlar ılık, yazlar serin", "rationale": "Bu, Marmara iklimine tam olarak uymaz.", "isCorrect": false },
+            { "text": "Kışlar daha soğuk, yazlar daha sıcaktır", "rationale": "Doğru! Metinde 'Trakya’da kışlar daha soğuk, yazlar daha sıcaktır' ifadesiyle bölgenin karasal iklim etkileri gösterdiği belirtilir.", "isCorrect": true },
+            { "text": "Kışlar ve yazlar ılımandır", "rationale": "Bu, Akdeniz iklimine daha yakındır.", "isCorrect": false },
+            { "text": "Kışlar kar yağışsız, yazlar kurak", "rationale": "Kışlar genellikle kar yağışlı ve soğuk geçer.", "isCorrect": false },
+            { "text": "Kışlar yağmurlu, yazlar nemli", "rationale": "Bu, Karadeniz iklimine daha yakındır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 89,
+        "question": "Fatih Sultan Mehmet'in toplarını döktürdüğü Tophanenin (Demirhane) bulunduğu ve geniş kumsallara sahip turizm cenneti neresidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Enez", "rationale": "Enez, Edirne'nin bir sahil ilçesidir.", "isCorrect": false },
+            { "text": "Şarköy", "rationale": "Şarköy, Tekirdağ'ın bir sahil ilçesidir.", "isCorrect": false },
+            { "text": "İğneada", "rationale": "Doğru! Metinde Kırklareli Demirköy'e bağlı İğneada'da Fatih'in Tophanesinin bulunduğu ve buranın bir turizm cenneti olduğu yazmaktadır.", "isCorrect": true },
+            { "text": "Erdek", "rationale": "Erdek, Balıkesir'in bir sahil ilçesidir.", "isCorrect": false },
+            { "text": "Gelibolu", "rationale": "Gelibolu, Çanakkale'de tarihi bir yarımadadır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 90,
+        "question": "Bursa'nın denize açılan kapısı ve limanı olan, 19. asırda Fransız şirketinin demiryolu hattı kurduğu ilçe hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Gemlik", "rationale": "Gemlik de Bursa'nın önemli bir limanıdır, ancak metindeki tanım Mudanya'ya aittir.", "isCorrect": false },
+            { "text": "Mudanya", "rationale": "Doğru! Metinde bu özellikler Mudanya için sıralanmıştır.", "isCorrect": true },
+            { "text": "Orhangazi", "rationale": "Orhangazi, İznik Gölü kıyısındadır.", "isCorrect": false },
+            { "text": "Karacabey", "rationale": "Karacabey, denize kıyısı olan bir ilçedir ancak bahsedilen yer değildir.", "isCorrect": false },
+            { "text": "İznik", "rationale": "İznik, göl kenarındadır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 91,
+        "question": "Orhanbey tarafından pazar yeri olarak kurulan ve ilk adı 'Pazarköy' olan Bursa ilçesi hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Kestel", "rationale": "Kestel, Bursa'nın bir ilçesidir.", "isCorrect": false },
+            { "text": "Gürsu", "rationale": "Gürsu, Bursa'nın bir ilçesidir.", "isCorrect": false },
+            { "text": "İnegöl", "rationale": "İnegöl, mobilyasıyla ünlü büyük bir ilçedir.", "isCorrect": false },
+            { "text": "Orhangazi", "rationale": "Doğru! Metinde Orhangazi kasabasının ilk adının 'Pazarköy' olduğu belirtilmektedir.", "isCorrect": true },
+            { "text": "Yenişehir", "rationale": "Yenişehir'de Bursa'nın havalimanı bulunur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 92,
+        "question": "Bursa'nın limanı ve Osmanlı'nın deniz üssü olan, adını tersaneden alan ilçe hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Mudanya", "rationale": "Mudanya da bir liman kentidir.", "isCorrect": false },
+            { "text": "Karacabey", "rationale": "Karacabey'in denize kıyısı vardır.", "isCorrect": false },
+            { "text": "Gemlik", "rationale": "Doğru! Metinde adını 'Tersaneden “Gemilik” aldığı söylenmektedir.' ifadesiyle Gemlik'ten bahsedilmektedir.", "isCorrect": true },
+            { "text": "İznik", "rationale": "İznik, göl kenarındadır.", "isCorrect": false },
+            { "text": "Orhangazi", "rationale": "Orhangazi de göl kenarındadır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 93,
+        "question": "Çanakkale'de, Gelibolu Yarımadası Tarihi Milli Parkı içinde aşağıdakilerden hangisi bulunmaz?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Abideler ve eserler", "rationale": "Metinde parkta abideler ve eserler olduğu belirtilmiştir.", "isCorrect": false },
+            { "text": "Mezarlıklar", "rationale": "Şehitlerin anısına kurulduğu için çok sayıda şehitlik ve mezarlık bulunur.", "isCorrect": false },
+            { "text": "Tuz Gölü", "rationale": "Metinde 'Tuz gölü ve doğal güzelliği ile' ifadesi yer almaktadır.", "isCorrect": false },
+            { "text": "Arıburnu Kayalıkları", "rationale": "Metinde 'Arıburnu Kayalıkları yer alır' denmektedir.", "isCorrect": false },
+            { "text": "Truva Atı Maketi", "rationale": "Doğru! Truva Atı maketi, Çanakkale şehir merkezinde ve Troya Ören Yeri'nde bulunur, Gelibolu Yarımadası'nda değil.", "isCorrect": true }
+        ]
+    },
+    {
+        "questionNumber": 94,
+        "question": "Sakarya'daki Kuzuluk Kaplıcası hangi hastalıklara iyi gelmesiyle bilinir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Cilt hastalıkları", "rationale": "Bu daha çok Kangal Balıklı Kaplıca'nın özelliğidir.", "isCorrect": false },
+            { "text": "Romatizma ve Siyatik", "rationale": "Doğru! Metinde 'Romatizma, Siyatik hastalıklarına iyi gelen kaplıcanın suyu...' denmektedir.", "isCorrect": true },
+            { "text": "Solunum yolu hastalıkları", "rationale": "Bu tür kaplıcalar da mevcuttur ama Kuzuluk'un özelliği bu değildir.", "isCorrect": false },
+            { "text": "Sindirim sistemi rahatsızlıkları", "rationale": "Bazı maden suları bunun için kullanılır.", "isCorrect": false },
+            { "text": "Göz hastalıkları", "rationale": "Böyle bir özelliği belirtilmemiştir.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 95,
+        "question": "Milli ve uluslararası yelken ve kürek yarışmalarının yapıldığı gölümüz hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Sapanca Gölü", "rationale": "Doğru! Metinde Sapanca Gölü için 'milli ve uluslar arası yelken ve kürek yarışmaları yapıldığından İstanbulluların da akın ettiği bir merkezdir' denir.", "isCorrect": true },
+            { "text": "İznik Gölü", "rationale": "İznik Gölü de su sporları için kullanılır ama metindeki tanım Sapanca'ya aittir.", "isCorrect": false },
+            { "text": "Beyşehir Gölü", "rationale": "Türkiye'nin en büyük tatlı su gölüdür.", "isCorrect": false },
+            { "text": "Manyas Gölü", "rationale": "Kuş Cenneti ile ünlüdür.", "isCorrect": false },
+            { "text": "Van Gölü", "rationale": "Türkiye'nin en büyük gölüdür.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 96,
+        "question": "Osmanlıların ilk kubbeli cami denemelerinden olan Kurşunlu Camii'nin en ilginç özelliği nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Tamamen altından yapılmış bir kubbeye sahip olması", "rationale": "Kubbesi kurşun kaplıdır, altından değil.", "isCorrect": false },
+            { "text": "Yeraltında inşa edilmiş olması", "rationale": "Cami bir uçurum üzerindedir.", "isCorrect": false },
+            { "text": "Minaresinin ana binadan 30 mt uzakta bir kayaya inşa edilmesi", "rationale": "Doğru! Metinde bu ilginç özellik açıkça belirtilmiştir.", "isCorrect": true },
+            { "text": "Hiç minaresinin olmaması", "rationale": "Minaresi vardır ve çok özel bir konumdadır.", "isCorrect": false },
+            { "text": "Sadece geceleri ibadete açık olması", "rationale": "Böyle bir kısıtlama yoktur.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 97,
+        "question": "Ertuğrul Gazi'nin Söğüt'teki türbesinde her yıl hangi ayda geleneksel ziyaretler ve etkinlikler düzenlenir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Mayıs", "rationale": "Bu Hıdrellez zamanıdır.", "isCorrect": false },
+            { "text": "Temmuz", "rationale": "Bu yaz ortasıdır.", "isCorrect": false },
+            { "text": "Ağustos", "rationale": "Bu Zafer Haftası'nın olduğu aydır.", "isCorrect": false },
+            { "text": "Eylül", "rationale": "Doğru! Metinde 'her yıl Eylül ayının ikinci pazarında' bu geleneklerin yaşatıldığı belirtilmektedir.", "isCorrect": true },
+            { "text": "Ekim", "rationale": "Bu Cumhuriyet Bayramı'nın olduğu aydır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 98,
+        "question": "Türkiye ve dünyanın sayılı turizm merkezlerinden olan Marmara Bölgesi'nde, özellikle hangi iki şehir doğal güzellikler ve tarihi eserler yönünden zengin olarak vurgulanmıştır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Tekirdağ ve Kırklareli", "rationale": "Bu şehirler de önemlidir ancak metinde öne çıkarılanlar farklıdır.", "isCorrect": false },
+            { "text": "İstanbul ve Bursa", "rationale": "Doğru! Metinde 'Doğal güzellikler ve tarihî eserler yönünden oldukça zengin olan İstanbul ve Bursa...' denilerek bu iki şehir öne çıkarılmıştır.", "isCorrect": true },
+            { "text": "Çanakkale ve Balıkesir", "rationale": "Bu şehirler de turizm açısından çok önemlidir.", "isCorrect": false },
+            { "text": "Kocaeli ve Sakarya", "rationale": "Bu şehirler daha çok sanayileriyle bilinir.", "isCorrect": false },
+            { "text": "Edirne ve Yalova", "rationale": "Bu şehirlerin de kendilerine has turistik değerleri vardır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 99,
+        "question": "Ankara'nın yoğun orman örtüsüne sahip, kaplıcalarıyla ünlü ilçesi hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Polatlı", "rationale": "Polatlı daha çok bozkır alanlarına sahiptir.", "isCorrect": false },
+            { "text": "Çankaya", "rationale": "Ankara'nın merkez ilçesidir.", "isCorrect": false },
+            { "text": "Kızılcahamam", "rationale": "Doğru! Metinde 'Kızılcahamam Ankara’nın en yoğun orman örtüsüne sahip olan yerleşim yeridir' ve kaplıcalarından bahsedilmektedir.", "isCorrect": true },
+            { "text": "Gölbaşı", "rationale": "Gölbaşı, Mogan ve Eymir gölleriyle bilinir.", "isCorrect": false },
+            { "text": "Sincan", "rationale": "Sincan, sanayi ve yerleşim alanıdır.", "isCorrect": false }
+        ]
+    },
+    {
+        "questionNumber": 100,
+        "question": "1925'ten önce küçük bir köyken kurulan silah ve mühimmat fabrikasıyla gelişen ve 'ülkemizin savunma sanayinin üssü' olarak anılan ilimiz hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Ankara", "rationale": "Ankara'da da savunma sanayi kuruluşları vardır ama metindeki tanım Kırıkkale'ye aittir.", "isCorrect": false },
+            { "text": "Kırşehir", "rationale": "Kırşehir, tarım ve hayvancılıkla bilinir.", "isCorrect": false },
+            { "text": "Yozgat", "rationale": "Yozgat bir tarım şehridir.", "isCorrect": false },
+            { "text": "Çankırı", "rationale": "Çankırı tuz mağaraları ile bilinir.", "isCorrect": false },
+            { "text": "Kırıkkale", "rationale": "Doğru! Bu tanım, MKE fabrikalarıyla büyüyen Kırıkkale iline aittir.", "isCorrect": true }
+        ]
+    }
+]}
