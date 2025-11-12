@@ -1,0 +1,3204 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "PDF özetine göre, 'Etik' (Ethics) kavramının felsefi tanımı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bir toplumun iyi ya da kötü olarak kabul ettiği yazısız kurallar bütünüdür.",
+          "rationale": "Bu, 'Ahlak' (Morality) kavramının toplumsal tanımıdır, Etik'in değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlaki olanın temellerini, özünü araştıran, insan davranışlarıyla ilgili problemleri inceleyen felsefe dalıdır.",
+          "rationale": "Bu, PDF'te verilen Etik'in felsefi tanımıdır. Doğru ve yanlışı, erdemi ve erdemsizliği inceler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişilerin sosyal yaşam içerisindeki ilişkilerini düzenleyen kurallardır.",
+          "rationale": "Bu, daha çok 'Ahlak'ın kapsamına giren bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yazılı emir ve yasaklardır ve yaptırımı cezai işlemleri içerir.",
+          "rationale": "Bu, 'Hukuk' (Law) kavramının tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş hayatı içerisindeki davranış biçimlerini (iş etiği, meslek etiği) ifade eder.",
+          "rationale": "Bu, Etik'in felsefi tanımı değil, 'Modern Kullanımı'dır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "Özete göre, 'Etik' hangi temel sorunun cevabını arar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "'Neden varız?' ve 'Hayatın anlamı nedir?'",
+          "rationale": "Bunlar felsefenin diğer alanlarının (metafizik, varoluşçuluk) sorularıdır. Etiğin odak noktası bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Toplumsal düzen nasıl sağlanır?'",
+          "rationale": "Bu, siyaset felsefesi veya sosyolojinin sorusudur. Etik, bu düzenin 'doğru' olup olmadığını sorgular.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Görenek ve gelenekler nasıl oluşur?'",
+          "rationale": "Bu, antropoloji veya sosyolojinin alanıdır ve 'Ahlak'ın pratiği ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Doğru nedir?', 'Yanlış nedir?'",
+          "rationale": "PDF'e göre bu, Etiğin temel sorusudur ve iyi ile kötünün ayrımına odaklanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "'Hangi yasalar daha adildir?'",
+          "rationale": "Bu, Hukuk Felsefesi'nin sorusudur. Etik, yasanın kendisinden daha temel olan 'doğru'yu arar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "Etiği kendi başına bir felsefe alanı olarak ele alan ilk filozof kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "John Stuart Mill",
+          "rationale": "John Stuart Mill, Faydacılık (Amaçlanan Sonuç Etiği) teorisinin kilit ismidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Immanuel Kant",
+          "rationale": "Immanuel Kant, Kural Etiği (Deontoloji) teorisinin kilit ismidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aristoteles",
+          "rationale": "PDF'te 'Kilit İsim' olarak belirtildiği gibi, Aristoteles etiği kendi başına bir felsefe alanı olarak ele alan ilk filozoftur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Jean-Jacques Rousseau",
+          "rationale": "Jean-Jacques Rousseau, Toplumsal Sözleşme Etiği'nin kilit ismidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Martin Buber",
+          "rationale": "Martin Buber, Kişisel Etik ve vicdan kavramıyla ilişkilendirilen kilit isimdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "'Ahlak' (Morality) kavramının toplumsal tanımı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İyi ile kötünün, erdem ile erdemsizliğin felsefi ayrımını yapan teoridir.",
+          "rationale": "Bu, 'Etik' kavramının tanımına daha yakındır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir toplumun iyi ya da kötü olarak kabul ettiği yazısız kurallar bütünüdür.",
+          "rationale": "Bu, PDF'te verilen 'Ahlak'ın toplumsal tanımıdır. Görenek, gelenek gibi unsurları içerir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişinin vicdanından gelen ve bireysel doğrularını belirleyen iç sestir.",
+          "rationale": "Bu, 'Kişisel Etik' veya 'Bireysel Etik' kavramlarına daha yakındır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yazılı emir ve yasaklar olup, uymayanlara cezai yaptırım uygular.",
+          "rationale": "Bu, 'Hukuk' kavramının tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Evrensel ve değişmez olan, tüm insanlar için geçerli ilkelerdir.",
+          "rationale": "Bu, 'Etik'in kapsamıdır. Ahlak ise toplumsal ve değişebilirdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi 'Ahlak'ın bir parçası olarak *sayılmaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Görenek",
+          "rationale": "PDF'te görenek, gelenek, töre ve adetler ahlakın bir parçası olarak sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gelenek",
+          "rationale": "PDF'te görenek, gelenek, töre ve adetler ahlakın bir parçası olarak sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Töre",
+          "rationale": "PDF'te görenek, gelenek, töre ve adetler ahlakın bir parçası olarak sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adetler",
+          "rationale": "PDF'te görenek, gelenek, töre ve adetler ahlakın bir parçası olarak sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kanunlar",
+          "rationale": "Kanunlar, 'Hukuk'un bir parçasıdır. Hukuk yazılıdır, ahlak ise yazısız kurallardır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "Hukuk ve Ahlak arasındaki temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hukuk iyiyi, Ahlak kötüyü inceler.",
+          "rationale": "İkisi de iyi/kötü veya doğru/yanlış ile ilgilenir ancak farklı yöntemlerle. Bu tanım yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk teorik, Ahlak pratiktir.",
+          "rationale": "Bu, Etik (teorik) ve Ahlak (pratik) arasındaki farktır. Hukuk da pratik ve yazılıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk yazılıdır ve yaptırımı (ceza) vardır; Ahlak yazısızdır ve yaptırımı toplumsaldır (kınama).",
+          "rationale": "Bu, PDF'te Hukuk ve Ahlak arasında belirtilen temel farktır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hukuk evrenseldir, Ahlak toplumsaldır.",
+          "rationale": "Bu, Etik (evrensel) ve Ahlak (toplumsal) arasındaki farktır. Hukuk da genellikle ulusal/toplumsaldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk iş hayatıyla, Ahlak sosyal hayatla ilgilidir.",
+          "rationale": "Bu, Etik (iş hayatı) ve Ahlak (sosyal hayat) arasındaki farktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "Etik vs. Ahlak tablosuna göre 'Etik' hangi alanla ilişkilidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sosyal Hayat",
+          "rationale": "Tabloya göre Sosyal Hayat, 'Ahlak' ile ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş Hayatı",
+          "rationale": "Tabloya göre 'Etik', modern kullanımda daha çok 'İş Hayatı' (iş etiği, meslek etiği) ile ilişkilidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dini Hayat",
+          "rationale": "Bu, PDF'teki tabloda bir kriter olarak belirtilmemiştir. Din, bireysel etiği etkileyen bir faktördür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuki Hayat",
+          "rationale": "Bu, PDF'teki tabloda bir kriter olarak belirtilmemiştir. Hukuk, etikten farklı bir kavram olarak ele alınmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Hayat",
+          "rationale": "Tablo, 'Sosyal Hayat' (Ahlak) ve 'İş Hayatı' (Etik) ayrımını yapmaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "Etik vs. Ahlak tablosuna göre 'Ahlak'ın odağı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İlkeler (Teori)",
+          "rationale": "Tabloya göre İlkeler (Teori), 'Etik'in odak noktasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Davranışlar (Pratik)",
+          "rationale": "Tabloya göre 'Ahlak'ın odağı, teorinin pratiğe dökülmüş hali olan 'Davranışlar'dır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Evrensellik",
+          "rationale": "Evrensellik, 'Etik'in kapsamıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soyutluk",
+          "rationale": "Soyutluk, 'Etik'in niteliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Değişmezlik",
+          "rationale": "Değişmezlik, 'Etik'in genel ilkelerinin özelliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "Etik vs. Ahlak tablosuna göre 'Etik'in niteliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Soyut",
+          "rationale": "Tabloya göre Etik, teorik ve ilkesel olduğu için 'Soyut' bir niteliğe sahiptir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Somut",
+          "rationale": "Tabloya göre 'Ahlak', davranışlara ve pratiğe dayandığı için 'Somut' bir niteliğe sahiptir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pratik",
+          "rationale": "Pratik, 'Ahlak'ın yapısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal",
+          "rationale": "Toplumsal, 'Ahlak'ın kapsamıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Değişebilir",
+          "rationale": "Değişebilirlik, 'Ahlak'ın bir özelliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "Etik vs. Ahlak tablosuna göre 'Ahlak'ın kapsamı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Evrensel (Tüm insanlar için)",
+          "rationale": "Tabloya göre Evrensel kapsam, 'Etik'e aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal (Topluma göre değişir)",
+          "rationale": "Tabloya göre 'Ahlak', içinde bulunduğu topluma göre değişen 'Toplumsal' bir kapsama sahiptir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Teorik",
+          "rationale": "Teorik, 'Etik'in yapısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soyut",
+          "rationale": "Soyut, 'Etik'in niteliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Değişmez",
+          "rationale": "Değişmezlik, 'Etik'in genel ilkelerinin özelliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "Etik vs. Ahlak tablosuna göre 'Etik'in yapısı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Pratik",
+          "rationale": "Tabloya göre Pratik yapı, 'Ahlak'a aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Somut",
+          "rationale": "Somut, 'Ahlak'ın niteliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Değişebilir",
+          "rationale": "Değişebilirlik, 'Ahlak'ın bir özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teorik",
+          "rationale": "Tabloya göre 'Etik'in yapısı ilkelere dayandığı için 'Teorik'tir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Toplumsal",
+          "rationale": "Toplumsal, 'Ahlak'ın kapsamıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "Etik vs. Ahlak tablosuna göre aşağıdakilerden hangisi 'Ahlak' için doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Evrenseldir",
+          "rationale": "Yanlış, evrensel olan Etik'tir. Ahlak toplumsaldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soyuttur",
+          "rationale": "Yanlış, soyut olan Etik'tir. Ahlak somuttur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Değişmez",
+          "rationale": "Yanlış, değişmez olan Etik ilkeleridir. Ahlak zamana ve topluma göre değişebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş hayatı ile ilişkilidir",
+          "rationale": "Yanlış, iş hayatı ile ilişkili olan Etik'tir. Ahlak sosyal hayatla ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pratik yapıdadır",
+          "rationale": "Doğru, tabloya göre Ahlak pratik (davranışsal) bir yapıdadır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "Etik vs. Ahlak tablosuna göre aşağıdakilerden hangisi 'Etik' için doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Toplumsaldır",
+          "rationale": "Yanlış, toplumsal olan Ahlak'tır. Etik evrenseldir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Somuttur",
+          "rationale": "Yanlış, somut olan Ahlak'tır. Etik soyuttur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Değişebilir",
+          "rationale": "Yanlış, değişebilir olan Ahlak'tır. Etik'in genel ilkeleri değişmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odak noktası Davranışlardır",
+          "rationale": "Yanlış, odak noktası davranışlar olan Ahlak'tır. Etik'in odağı İlkelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapsamı Evrenseldir",
+          "rationale": "Doğru, tabloya göre Etik'in kapsamı evrenseldir (tüm insanlar için geçerlidir).",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "Özet cümleye göre Etik ve Ahlak ilişkisi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etik, ahlakın toplumsal yansımasıdır.",
+          "rationale": "Tam tersi, ahlak etiğin toplumsal yansıması veya pratiğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etik, 'doğru ve yanlış davranışın teorisidir.' Ahlak ise 'onun pratiğidir.'",
+          "rationale": "Bu, PDF'te BÖLÜM 1'in sonunda yer alan özet cümledir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Etik ve Ahlak tamamen aynı anlama gelen eş anlamlı kelimelerdir.",
+          "rationale": "PDF'in tüm BÖLÜM 1'i bu iki kavramın farkını açıklamaya adanmıştır, dolayısıyla bu yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlak, 'doğru ve yanlış davranışın teorisidir.' Etik ise 'onun pratiğidir.'",
+          "rationale": "Bu, kavramların yer değiştirilmiş halidir. Doğrusu Etik=Teori, Ahlak=Pratik şeklindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etik, hukuk kurallarının temelini oluşturur; Ahlak ise gelenekleri oluşturur.",
+          "rationale": "Bu kısmen doğru olsa da PDF'teki özet cümleyi tam olarak yansıtmamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "Hangi etik teori, bir eylemin doğruluğunu 'amaçlanan sonuçları' tarafından belirler ve 'sonuç iyiyse, eylem iyidir' der?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kural Etiği (Deontoloji)",
+          "rationale": "Kural Etiği, sonuçlara değil, eylemin kendisine ve uyduğu kurallara bakar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal Sözleşme Etiği",
+          "rationale": "Toplumsal Sözleşme Etiği, doğruluğu toplumun normları ve uzlaşmaları ile belirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amaçlanan Sonuç Etiği (Faydacılık)",
+          "rationale": "Bu, Faydacılık teorisinin temel fikridir. Odak noktası sonuçtur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Kişisel Etik, doğruluğu kişinin vicdanı ile belirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Yaşam Etiği",
+          "rationale": "Sosyal Yaşam Etiği, sosyal ilişkilerdeki saygı ve nezaket kurallarına odaklanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "Faydacılık (Utilitarianism) teorisinin odak noktası nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Evrensel ve nesnel ilkelere uymak",
+          "rationale": "Bu, Kant'ın Kural Etiği'nin (Deontoloji) ilkesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişinin vicdanından gelen sese uymak",
+          "rationale": "Bu, Kişisel Etik'in odak noktasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumun norm ve geleneklerine uymak",
+          "rationale": "Bu, Toplumsal Sözleşme Etiği'nin odak noktasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Haz arama ve acıdan kaçma",
+          "rationale": "PDF'e göre Faydacılık teorisinin odağı 'Haz arama ve acıdan kaçma'dır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Karşılıklı saygı ve nezaket",
+          "rationale": "Bu, Sosyal Yaşam Etiği'nin odak noktasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "John Stuart Mill'in 'Faydacılık' ilkesi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "'İyi' olan, kişinin sadece kendi mutluluğunu ve faydasını maksimize etmesidir.",
+          "rationale": "Bu, bencilce bir yaklaşımdır. Mill'in ilkesi 'herkesin' mutluluğunu önemser.",
+          "isCorrect": false
+        },
+        {
+          "text": "'İyi' olan, evrensel ödevlere ve kurallara kayıtsız şartsız uymaktır.",
+          "rationale": "Bu, Kant'ın Kural Etiği'nin ilkesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'İyi' olan, en fazla sayıda insana en yüksek mutluluğu ve faydayı sağlayan şeydir.",
+          "rationale": "Bu, PDF'te J.S. Mill'in ilkesi olarak belirtilen 'en yüksek mutluluk' prensibidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "'İyi' olan, kişinin vicdanının sesini dinleyerek hareket etmesidir.",
+          "rationale": "Bu, Kişisel Etik'in ilkesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'İyi' olan, amaca ulaşmak için her şeyin mubah görülmesidir.",
+          "rationale": "Bu, Faydacılık teorisinin 'ekstrem ve tehlikeli bir yorumu'dur (Machiavelli), Mill'in ilkesi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "Machiavelli'nin 'Amaca ulaşmak için her şey mubahtır' anlayışı, hangi etik teorinin 'ekstrem yorumu' olarak belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kural Etiği (Deontoloji)",
+          "rationale": "Deontoloji kurallara odaklanır, amaca değil. Bu tam tersi bir yaklaşımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amaçlanan Sonuç Etiği (Faydacılık)",
+          "rationale": "PDF'te bu anlayışın, sonuca odaklanan Faydacılık teorisinin 'tehlikeli bir yorumu' olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Kişisel Etik vicdana odaklanır; bu anlayış genellikle vicdansız olarak nitelendirilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal Sözleşme Etiği",
+          "rationale": "Toplumsal Sözleşme uzlaşmaya dayanır, bu anlayış ise uzlaşmayı reddeder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Yaşam Etiği",
+          "rationale": "Sosyal Yaşam Etiği nezakete odaklanır, bu anlayış ise nezaketi dışlayabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "Hangi etik teori, bir eylemin doğruluğunu 'sonuçlarına değil', uyduğu standartlar, kurallar ve yasalara göre belirler?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Amaçlanan Sonuç Etiği (Faydacılık)",
+          "rationale": "Faydacılık tam tersine 'sonuçlara' odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kural Etiği (Deontoloji)",
+          "rationale": "Bu, Deontoloji'nin (Kural Etiği) temel fikridir. Eylemin kendisi ve niyeti (kurallara uygunluk) önemlidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Toplumsal Sözleşme Etiği",
+          "rationale": "Toplumsal Sözleşme de kurallara (toplumsal normlara) odaklansa da, Deontoloji'nin tanımı daha kesindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Kişisel Etik, dışsal kurallardan çok içsel vicdana odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Yaşantı Etiği",
+          "rationale": "Bu teori, daha çok kişiler arası nezaket kurallarına odaklanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "Immanuel Kant, hangi etik teorinin kilit ismidir ve hangi kavram bu teorinin merkezindedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Faydacılık / 'Mutluluk'",
+          "rationale": "Faydacılık'ın kilit ismi J.S. Mill'dir ve 'mutluluk/fayda' merkezdedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kural Etiği (Deontoloji) / 'Ödev'",
+          "rationale": "PDF'e göre Kant, Kural Etiği'nin kilit ismidir ve 'Ödev' kavramı bu teori için merkezdedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Toplumsal Sözleşme / 'Uzlaşma'",
+          "rationale": "Toplumsal Sözleşme'nin kilit ismi Rousseau'dur ve 'uzlaşma' merkezdedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Etik / 'Vicdan'",
+          "rationale": "Kişisel Etik'in kilit ismi Martin Buber'dir ve 'vicdan' merkezdedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faydacılık / 'Sonuç'",
+          "rationale": "Kant, sonuçlara değil kurallara odaklanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "Ahlaki doğruluğu, 'belli bir toplumun normları, gelenekleri ve uzlaşmaları (sözleşme)' tarafından belirlendiğini savunan teori hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kural Etiği (Deontoloji)",
+          "rationale": "Kural Etiği, kuralların evrensel ve nesnel olması gerektiğini savunur, toplumsal uzlaşmaya değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Kişisel Etik, topluma değil bireyin vicdanına odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amaçlanan Sonuç Etiği (Faydacılık)",
+          "rationale": "Faydacılık, toplumsal normlardan çok 'en yüksek fayda' sonucuna odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal Sözleşme Etiği",
+          "rationale": "Bu, Toplumsal Sözleşme Etiği'nin temel fikridir. Ahlaki doğruluk, toplumsal bir uzlaşmanın ürünüdür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosyal Yaşam Etiği",
+          "rationale": "Sosyal Yaşam Etiği, bu normların günlük ilişkilerdeki (nezaket vb.) yansımasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "Jean-Jacques Rousseau, hangi etik teorinin kilit ismidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Amaçlanan Sonuç Etiği (Faydacılık)",
+          "rationale": "Bu teorinin kilit ismi John Stuart Mill'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kural Etiği (Deontoloji)",
+          "rationale": "Bu teorinin kilit ismi Immanuel Kant'tır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal Sözleşme Etiği",
+          "rationale": "PDF'e göre Rousseau, Toplumsal Sözleşme Etiği'nin kilit ismidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Bu teorinin kilit ismi Martin Buber'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Yaşam Etiği",
+          "rationale": "Bu teori için PDF'te kilit bir isim belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "Ahlaki doğruluğu, 'kişinin vicdanı (içinden gelen ses)' tarafından belirlendiğini savunan teori hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Toplumsal Sözleşme Etiği",
+          "rationale": "Bu teori, toplumsal uzlaşmaya dayanır, bireysel vicdana değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kural Etiği (Deontoloji)",
+          "rationale": "Bu teori, dışsal kurallara ve ödevlere dayanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Bu, Kişisel Etik'in temel fikridir. Odak noktası bireyin kendi vicdanıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Amaçlanan Sonuç Etiği (Faydacılık)",
+          "rationale": "Bu teori, sonuçlara (faydaya) dayanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Yaşam Etiği",
+          "rationale": "Bu teori, diğer insanlarla olan ilişkilere dayanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "Martin Buber, hangi etik kavramıyla ilişkilendirilen kilit isimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fayda (Faydacılık)",
+          "rationale": "Fayda, J.S. Mill ile ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ödev (Deontoloji)",
+          "rationale": "Ödev, Immanuel Kant ile ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sözleşme (Toplumsal Sözleşme)",
+          "rationale": "Sözleşme, J.J. Rousseau ile ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vicdan (Kişisel Etik)",
+          "rationale": "PDF'te Martin Buber, Kişisel Etik ve Bireysel Etiğin kaynağı olan 'vicdan' ile ilişkilendirilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nezaket (Sosyal Yaşam Etiği)",
+          "rationale": "Nezaket, Sosyal Yaşam Etiği'nin odak noktasıdır, Buber ile doğrudan ilişkilendirilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "'Kişinin sosyal ilişkilerde (diğer insanlar ve doğa ile) uyması gereken kurallar bütünü' olarak tanımlanan etik türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Kişisel Etik, bireyin içsel vicdanına odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kural Etiği (Deontoloji)",
+          "rationale": "Kural Etiği, daha genel ve evrensel kurallara odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Yaşam Etiği",
+          "rationale": "Bu, Sosyal Yaşam Etiği'nin PDF'teki tanımıdır. Karşılıklı saygı ve nezaketi içerir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Toplumsal Sözleşme Etiği",
+          "rationale": "Bu, toplumun geneliyle yapılan zımni bir anlaşmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş Etiği",
+          "rationale": "İş Etiği, sosyal ilişkilerden çok iş hayatındaki ilişkilere odaklanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "Sosyal Yaşam Etiği'nin odak noktası aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "En yüksek faydayı sağlamak",
+          "rationale": "Bu, Faydacılık'ın odak noktasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişinin vicdanına uyması",
+          "rationale": "Bu, Kişisel Etik'in odak noktasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Evrensel ödevleri yerine getirmek",
+          "rationale": "Bu, Kural Etiği'nin odak noktasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karşılıklı saygı, nezaket, güç ve nüfuz kullanmama",
+          "rationale": "Bu, PDF'te Sosyal Yaşam Etiği'nin odak noktası olarak belirtilen unsurlardır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Toplumsal normlara ve geleneklere uymak",
+          "rationale": "Bu, Toplumsal Sözleşme Etiği'nin odak noktasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "Bireysel Etiğin kaynağı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Toplumsal uzlaşma",
+          "rationale": "Bu, Toplumsal Sözleşme Etiği'nin kaynağıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yazılı yasalar ve kanunlar",
+          "rationale": "Bu, Hukuk'un kaynağıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vicdan",
+          "rationale": "PDF'te Bireysel Etiğin (Kişisel Etiğin detaylandırılması) kaynağının 'vicdan' olduğu ve Martin Buber ile ilişkilendirildiği belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İş hayatı kuralları",
+          "rationale": "Bu, İş Etiği'nin kaynağıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elde edilen sonuçların faydası",
+          "rationale": "Bu, Faydacılık teorisinin temelidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "PDF'e göre aşağıdakilerden hangisi Bireysel Etiği Oluşturan 8 Faktörden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aile",
+          "rationale": "Aile, 'En önemli' faktör olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Din",
+          "rationale": "Din, bir kontrol mekanizması olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaşam Deneyimleri",
+          "rationale": "Yaşam Deneyimleri, ahlaki değerleri şekillendiren bir faktör olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Evrensel Hukuk Kuralları",
+          "rationale": "Hukuk kuralları listede yer almaz. Liste daha çok kişisel ve sosyal etkenlere (Aile, Din, Arkadaşlar, Medya, Kişilik, Deneyimler, Değerler, Durumlar) odaklanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Durumsal Faktörler",
+          "rationale": "Durumsal Faktörler (örn: parasız kalmak), davranışları değiştirebilen 8. faktör olarak listelenmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "Bireysel etiği oluşturan faktörlerden hangisi 'en önemli' olarak belirtilmiş ve değerlerin 'taklit yoluyla' öğrenildiği yer olarak tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Din",
+          "rationale": "Din, önemli bir faktör (kontrol mekanizması) olarak belirtilmiş ancak 'en önemli' olarak değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arkadaşlar",
+          "rationale": "Arkadaşlar, tutum ve düşünceleri etkiler (benzerlik eğilimi) ancak 'en önemli' olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle İletişim Araçları",
+          "rationale": "Medya, değer yargılarını değiştirir ancak 'en önemli' olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile",
+          "rationale": "PDF'te Aile, bireysel etiği oluşturan 8 faktör arasında 'En önemli' olarak vurgulanmış ve temel değerlerin taklit yoluyla öğrenildiği yer olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yaşam Deneyimleri",
+          "rationale": "Deneyimler, değerleri şekillendirir ancak 'en önemli' olarak belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "Bireysel etiği oluşturan faktörlerden 'Arkadaşlar'ın etkisi nasıl açıklanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Davranışları iyiye yönlendiren bir kontrol mekanizmasıdır.",
+          "rationale": "Bu, 'Din' faktörünün açıklamasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temel değerler taklit yoluyla öğrenilir.",
+          "rationale": "Bu, 'Aile' faktörünün açıklamasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireyin tutum ve düşüncelerini etkiler (benzerlik eğilimi).",
+          "rationale": "Bu, 'Arkadaşlar' faktörünün PDF'teki açıklamasıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Değer yargılarını değiştirir (TV, internet vb.).",
+          "rationale": "Bu, 'Kitle İletişim Araçları' faktörünün açıklamasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Beklenmedik durumlar (örn: parasız kalmak) davranışları değiştirebilir.",
+          "rationale": "Bu, 'Durumsal Faktörler'in açıklamasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "Bireysel etiği oluşturan faktörlerden hangisi 'Bireyin temel yapısı (iyimser, karamsar vb.)' olarak tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişilik",
+          "rationale": "Bu, 'Kişilik' faktörünün PDF'teki tam tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişisel Değerler",
+          "rationale": "Kişisel Değerler, bireyin öncelikleri (finansal kazanç vs. manevi huzur) olarak tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaşam Deneyimleri",
+          "rationale": "Yaşam Deneyimleri, hayattaki önemli olaylar olarak tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Durumsal Faktörler",
+          "rationale": "Durumsal Faktörler, beklenmedik durumlar olarak tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile",
+          "rationale": "Aile, temel değerlerin öğrenildiği yer olarak tanımlanmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "Bireysel etiği oluşturan faktörlerden hangisi 'Bireyin öncelikleri (örn: finansal kazanç vs. manevi huzur)' olarak tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişilik",
+          "rationale": "Kişilik, bireyin temel yapısı (iyimser, karamsar vb.) olarak tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaşam Deneyimleri",
+          "rationale": "Yaşam Deneyimleri, hayattaki önemli olaylar olarak tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Durumsal Faktörler",
+          "rationale": "Durumsal Faktörler, beklenmedik durumlar (örn: parasız kalmak) olarak tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Değerler",
+          "rationale": "Bu, 'Kişisel Değerler' faktörünün PDF'teki tam tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kitle İletişim Araçları",
+          "rationale": "Medya, değer yargılarını değiştiren (TV, internet) bir faktör olarak tanımlanmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "'Genel ahlak kurallarının iş hayatında uygulanması' olarak tanımlanan kavram hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bireysel Etik",
+          "rationale": "Bireysel Etik, kişinin kendi vicdanı ve değerleriyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Yaşam Etiği",
+          "rationale": "Sosyal Yaşam Etiği, genel sosyal ilişkilerle (nezaket vb.) ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Hukuk, yazılı kanunlar ve yasalardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş Etiği (Business Ethics)",
+          "rationale": "Bu, 'İş Etiği'nin PDF'teki tanımıdır. Dürüstlük, adil rekabet gibi konuları kapsar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ahilik",
+          "rationale": "Ahilik, iş etiğinin tarihsel bir kökenidir ancak modern tanımı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "Aşağıdakilerden hangisi İş Etiği'nin kapsamına giren konulardan biri olarak *belirtilmemiştir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dürüstlük",
+          "rationale": "Dürüstlük, İş Etiği kapsamında belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adil rekabet",
+          "rationale": "Adil rekabet, İş Etiği kapsamında belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal sorumluluk",
+          "rationale": "Sosyal sorumluluk, İş Etiği kapsamında belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüketici hakları",
+          "rationale": "Tüketici hakları, İş Etiği kapsamında belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel vicdan ve manevi huzur",
+          "rationale": "Kişisel vicdan, 'Bireysel Etik'in; manevi huzur ise 'Kişisel Değerler'in konusudur. İş Etiği'nin doğrudan kapsamı olarak listelenmemiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "'Örgütün bütününde (karar alma, kültür) etiğin uygulanması' hangi iş etiği alt başlığıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Örgütsel Etik",
+          "rationale": "Bu, 'Örgütsel Etik'in PDF'teki tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İşletme Etiği",
+          "rationale": "İşletme Etiği, paydaşlarla (müşteri, çalışan vb.) olan ilişkilerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yönetsel Etik",
+          "rationale": "Yönetsel Etik, yöneticilerin rekabet halindeki çıkarları uzlaştırmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meslek Etiği",
+          "rationale": "Meslek Etiği, her mesleğe özgü (doktor, turizmci) kurallardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel Etik",
+          "rationale": "Bireysel Etik, bir iş etiği alt başlığı olarak listelenmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "question": "'İşletmenin tarafları (paydaşları) ile olan ilişkilerinde etik' (Sahipler, Müşteriler, Çalışanlar vb.) hangi iş etiği alt başlığıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Örgütsel Etik",
+          "rationale": "Örgütsel Etik, örgütün bütünü (karar alma, kültür) ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme Etiği",
+          "rationale": "Bu, 'İşletme Etiği'nin PDF'teki tanımıdır. Paydaş ilişkilerine odaklanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yönetsel Etik",
+          "rationale": "Yönetsel Etik, yöneticilerin uyması gereken standartlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meslek Etiği",
+          "rationale": "Meslek Etiği, belirli meslek gruplarının davranış kurallarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Yaşam Etiği",
+          "rationale": "Sosyal Yaşam Etiği, genel toplumsal ilişkilerle ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "question": "'Yöneticilerin rekabet halindeki çıkarları uzlaştırırken uyması gereken standartlar' hangi iş etiği alt başlığıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Örgütsel Etik",
+          "rationale": "Örgütsel Etik, örgütün bütünü (karar alma, kültür) ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme Etiği",
+          "rationale": "İşletme Etiği, paydaşlarla olan ilişkilerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yönetsel Etik",
+          "rationale": "Bu, 'Yönetsel Etik'in PDF'teki tanımıdır. Yöneticilerin karar alma süreçlerine odaklanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Meslek Etiği",
+          "rationale": "Meslek Etiği, belirli meslek gruplarının davranış kurallarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Kişisel Etik, yöneticinin kendi vicdanıdır ancak bu tanım daha spesifik olarak Yönetsel Etiğe aittir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "question": "'Her mesleğe özgü (doktor, avukat, turizmci) olarak belirlenen, mesleki davranışları düzenleyen kurallar' hangi iş etiği alt başlığıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Örgütsel Etik",
+          "rationale": "Örgütsel Etik, bir örgüte özgüdür, mesleğin geneline değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme Etiği",
+          "rationale": "İşletme Etiği, işletmenin paydaşlarıyla olan ilişkileridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yönetsel Etik",
+          "rationale": "Yönetsel Etik, yöneticilere özgüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meslek Etiği",
+          "rationale": "Bu, 'Meslek Etiği'nin PDF'teki tanımıdır. TÜRSAB ilkeleri buna bir örnektir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Toplumsal Sözleşme Etiği",
+          "rationale": "Bu, bir iş etiği alt başlığı değil, genel bir etik teoridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "question": "PDF'te 'TÜRSAB Seyahat Acenteliği Meslek İlkeleri' neye örnek olarak verilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yönetsel Etik",
+          "rationale": "Yönetsel Etik, yöneticilerin standartlarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meslek Etiği",
+          "rationale": "PDF'te bu ilkeler, 'Meslek Etiği'ne (turizmciye özgü) bir örnek olarak verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Örgütsel Etik",
+          "rationale": "Örgütsel Etik, örgütün kültürüyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme Etiği",
+          "rationale": "İşletme Etiği, paydaş ilişkileridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Bunlar etik ilkelerdir, zorunlu kanunlardan (hukuk) farklı olabilirler.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "question": "Aşağıdakilerden hangisi İş Etiğinin 4 Alt Başlığından biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Örgütsel Etik",
+          "rationale": "Bu, 4 alt başlıktan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme Etiği",
+          "rationale": "Bu, 4 alt başlıktan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yönetsel Etik",
+          "rationale": "Bu, 4 alt başlıktan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meslek Etiği",
+          "rationale": "Bu, 4 alt başlıktan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel Etik",
+          "rationale": "Bireysel Etik, PDF'te ayrı bir 'Etik Çeşidi' olarak ele alınmış, İş Etiği'nin 4 alt başlığı altında listelenmemiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "question": "Ahilik nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece dini konuları ele alan bir tarikat.",
+          "rationale": "Ahilik ekonomik, sosyal ve kültürel bir meslek örgütlenmesidir, sadece dini bir tarikat değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "13. - 19. yy arası Anadolu'da egemen olmuş ekonomik, sosyal ve kültürel bir meslek örgütlenmesidir.",
+          "rationale": "Bu, Ahiliğin PDF'teki tam tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Osmanlı İmparatorluğu'nun askeri teşkilatıdır.",
+          "rationale": "Bu, Yeniçeri Ocağı gibi askeri yapılarla ilgilidir. Ahilik sivil bir meslek örgütlenmesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Immanuel Kant tarafından geliştirilen bir etik teoridir.",
+          "rationale": "Ahilik, Kant'tan çok önce Anadolu'da ortaya çıkmış bir Türk iş ahlâkı temelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Günümüzdeki modern sendikaların birebir aynısıdır.",
+          "rationale": "Modern sendikalardan farklı olarak Ahilik, kalite kontrol, fiyat belirleme ve mesleki eğitimi de kapsamlı bir şekilde düzenlemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "question": "'Ahi' kelimesinin Türkçe anlamı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kardeş",
+          "rationale": "Bu, kelimenin Arapça anlamıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Usta",
+          "rationale": "Usta, Ahilik sistemindeki bir rütbedir ancak kelimenin kök anlamı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cömert, Yiğit",
+          "rationale": "PDF'e göre kelimenin Türkçe anlamı 'Cömert, Yiğit'tir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Esnaf",
+          "rationale": "Ahilik bir esnaf örgütlenmesidir ancak kelimenin anlamı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüccar",
+          "rationale": "Ahilik tüccarları da kapsar ancak kelimenin anlamı bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "question": "Ahilik sisteminin tarihsel devamı olarak hangi yapılar belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "TÜRSAB ve Ticaret Odaları",
+          "rationale": "Bunlar modern karşılıklarıdır, tarihsel devamı (paralellikleri) değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önce Bektaşilik, sonra Loncalar",
+          "rationale": "PDF'te 'Önce Bektaşilik, sonra Loncalar Ahilik sistemini devam ettirmiştir' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yeniçeri Ocağı ve Tımarlı Sipahiler",
+          "rationale": "Bunlar askeri yapılardır, mesleki örgütlenme değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Medreseler ve Tekkeler",
+          "rationale": "Bunlar eğitim ve dini yapılardır. Ahilik (zaviyeler) ile ilişkili olsa da doğrudan 'devamı' olarak bu ikisi belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vakıflar ve Kervansaraylar",
+          "rationale": "Bunlar sosyal ve ekonomik yapılardır ancak Ahiliğin devamı olarak belirtilmemişlerdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "question": "Ahilik teşkilatının kilit ismi kimdir ve merkezi nerededir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "J.S. Mill / Londra",
+          "rationale": "J.S. Mill, Faydacılık teorisiyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fatma Bacı / Ankara",
+          "rationale": "Fatma Bacı, kadın kolu olan Bacıyan-ı Rum'u kurmuştur, teşkilatın ana kilit ismi Ahi Evran'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahi Evran / Kırşehir",
+          "rationale": "PDF'te kilit isim 'Ahi Evran (Kırşehir'de)' olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Martin Buber / Viyana",
+          "rationale": "Martin Buber, Kişisel Etik teorisiyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Immanuel Kant / Königsberg",
+          "rationale": "Immanuel Kant, Kural Etiği teorisiyle ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "question": "Ahilik teşkilatının kadın kolu olan 'Bacıyan-ı Rum' (Anadolu Kadınları) kim tarafından kurulmuştur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ahi Evran",
+          "rationale": "Ahi Evran, teşkilatın genel kurucusudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fatma Bacı (Ahi Evran'ın eşi)",
+          "rationale": "PDF'te kadın kolunun Ahi Evran'ın eşi Fatma Bacı tarafından kurulduğu açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Râbi'a el-Adeviyye",
+          "rationale": "Bu, Ahilik ile ilgili bir isim değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nene Hatun",
+          "rationale": "Nene Hatun, çok daha sonra (93 Harbi) yaşamış bir milli kahramandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hacı Bektaş-ı Veli",
+          "rationale": "Hacı Bektaş-ı Veli, Ahiliğin paralelindeki Bektaşilik ile ilişkilidir, Bacıyan-ı Rum'un kurucusu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "question": "Ahilik teşkilatının fonksiyonları arasında aşağıdakilerden hangisi *yoktur*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kaliteyi korumak (Dönemin TSE'si gibi).",
+          "rationale": "Bu, Ahiliğin temel fonksiyonlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiyatları belirlemek (Narh Sistemi).",
+          "rationale": "Narh Sistemi ile fiyatları belirlemek (ve haksız rekabeti önlemek) fonksiyonlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesleki eğitimi düzenlemek (çırak, kalfa, usta).",
+          "rationale": "Bu, Ahiliğin temel direklerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dış ülkelerle askeri ittifaklar kurmak.",
+          "rationale": "Ahilik, sivil bir ekonomik ve sosyal örgütlenmedir; askeri ittifaklar kurmak gibi bir siyasi/askeri fonksiyonu yoktur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Patent Ofisi gibi çalışmak (Ürün amblemlerini korumak).",
+          "rationale": "Bu, PDF'te 'Patent Ofisi' ve 'Alâmet-i Farika' (amblemler) ile açıklanmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "question": "Ahilikte fiyat belirleme sistemi ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Alâmet-i Farika",
+          "rationale": "Bu, ürünlere kazınan amblem/kalite belgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fütüvvetname",
+          "rationale": "Bu, Ahiliğin anayasası/kural kitabıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Narh Sistemi",
+          "rationale": "PDF'te fiyat belirleme sisteminin 'Narh Sistemi' olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bacıyan-ı Rum",
+          "rationale": "Bu, Ahiliğin kadın koludur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zaviye Sistemi",
+          "rationale": "Zaviye, toplanma ve eğitim yerleridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "question": "Ahilik felsefesine göre 'çalışma' ve 'iş' nasıl görülür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çalışma 'zorunluluk', iş 'para kazanma aracı'",
+          "rationale": "Bu, modern kapitalist bir bakış açısı olabilir ancak Ahilik felsefesi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma 'ibadet', iş 'kutsal'",
+          "rationale": "PDF'te Ahiliğin felsefesi 'Çalışmayı \"ibadet\", işi \"kutsal\" sayar' şeklinde özetlenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çalışma 'sosyal statü', iş 'toplumsal görev'",
+          "rationale": "Bu, Ahilik felsefesini tam olarak yansıtmaz. Odak noktası manevidir (ibadet, kutsal).",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma 'acı', iş 'eğlence'",
+          "rationale": "Bu, Ahilik felsefesiyle ilgisiz bir görüştür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma 'eğitim', iş 'sınav'",
+          "rationale": "Eğitim (çırak, kalfa) sistemin bir parçasıdır ancak felsefenin özeti bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "question": "Ahilikte 'Kalite' ilkesine göre hileli mal üretenin cezası neydi?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Para cezası alırdı.",
+          "rationale": "PDF'te para cezasından bahsedilmiyor, daha ağır bir yaptırım belirtilmiş.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hapis cezası alırdı.",
+          "rationale": "Bu, Hukuk'un yaptırımıdır. Ahiliğin yaptırımı meslekidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece uyarılırdı.",
+          "rationale": "PDF'te 'sıkı denetim' olduğu belirtiliyor, yaptırım sadece uyarıdan ibaret değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Loncadan atılır ve mesleği yapamazdı.",
+          "rationale": "PDF'te 'Hileli mal üreten loncadan atılır ve mesleği yapamazdı' ifadesi açıkça yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Daha fazla vergi ödemek zorunda kalırdı.",
+          "rationale": "Vergi, Ahiliğin kalite yaptırımı olarak belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "question": "Ahilikte ürünlere kazınan, ustanın imzası ve kalite belgesi olan 'amblemler' ne ad verilirdi?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Narh",
+          "rationale": "Narh, fiyat belirleme sistemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fütüvvetname",
+          "rationale": "Fütüvvetname, kural kitabıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zaviye",
+          "rationale": "Zaviye, toplanma mekanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alâmet-i Farika",
+          "rationale": "PDF'te bu amblemlerin 'Alâmet-i Farika' olarak adlandırıldığı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bacıyan-ı Rum",
+          "rationale": "Bacıyan-ı Rum, kadın kolları teşkilatıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "question": "Ahiliğin 'Ahlâk' ilkesini açıklamak için kullanılan benzetme nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "'Üçü Açık, Üçü Kapalı' kuralı",
+          "rationale": "Bu, ahlak ilkesinin bir parçasıdır ancak temel benzetme değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'İki kürekli kayık' benzetmesi (bir kürek iş/ekonomi, diğer kürek ahlak/insan ilişkileri)",
+          "rationale": "Bu, PDF'te Ahlâk ilkesini açıklamak için kullanılan temel benzetmedir. Biri olmazsa kayık ilerlemez.",
+          "isCorrect": true
+        },
+        {
+          "text": "'Müşteri Velinimettir' ilkesi",
+          "rationale": "Bu, Ahiliğin başka bir temel ilkesidir, ahlakı açıklayan benzetme değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Çırak, kalfa, usta' sistemi",
+          "rationale": "Bu, Ahiliğin eğitim ve yetki devri sistemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Alâmet-i Farika' sistemi",
+          "rationale": "Bu, Ahiliğin kalite ilkesiyle ilgili bir kavramdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "question": "Ahilikteki 'Üçü Açık, Üçü Kapalı' kuralında '3 Kapalı' olanlar nelerdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kapı (konuklara), Kese (kardeşlere), Sofra (fukaralara)",
+          "rationale": "Bunlar '3 Açık' olanlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Göz (kötüye), Ağız (kötü söze), El (haksızlığa)",
+          "rationale": "PDF'e göre '3 Kapalı' olanlar Göz, Ağız ve El'dir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zihin (kötü düşünceye), Kalp (kine), Ayak (kötü yere)",
+          "rationale": "Bu, kuralın orijinal ifadesi değildir. PDF'te Göz, Ağız, El olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dükkan (müşteriye), Kese (vergiye), Zihin (eğitime)",
+          "rationale": "Bu, kuralın anlamı ve ifadesi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Göz (haksızlığa), Kapı (yabancıya), Ağız (sırra)",
+          "rationale": "Bu, kuralın doğru ifadesi değildir. Kapı 'açık' olanlardandır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "question": "Ahilikteki 'Üçü Açık, Üçü Kapalı' kuralında '3 Açık' olanlar nelerdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Göz (kötüye), Ağız (kötü söze), El (haksızlığa)",
+          "rationale": "Bunlar '3 Kapalı' olanlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapı (konuklara), Kese (kardeşlere/yardıma), Sofra (fukaralara)",
+          "rationale": "PDF'e göre '3 Açık' olanlar misafirperverlik ve cömertlikle ilgili olan Kapı, Kese ve Sofra'dır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zihin (eğitime), Kalp (sevgiye), El (üretime)",
+          "rationale": "Bu, kuralın orijinal ifadesi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dükkan (mesaiye), Kalp (ibadete), Kese (kâra)",
+          "rationale": "Bu, kuralın anlamı ve ifadesi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "El (çalışmaya), Ağız (duaya), Göz (kaliteye)",
+          "rationale": "Bu, kuralın doğru ifadesi değildir. Göz, Ağız, El 'kapalı' olanlardadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "question": "Ahiliğin 'anayasası, tüzüğü, kural kitabı' olarak bilinen ve 740 kural içeren belge nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Narh Defteri",
+          "rationale": "Narh, fiyat belirleme sistemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fütüvvetname",
+          "rationale": "Bu, 'Ahiliğin anayasası, tüzüğü, kural kitabı' olarak tanımlanan belgedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Alâmet-i Farika",
+          "rationale": "Bu, kalite amblemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bacıyan-ı Rum Tüzüğü",
+          "rationale": "Bacıyan-ı Rum kadın kollarıdır, Fütüvvetname ise genel kural kitabıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zaviye Kayıtları",
+          "rationale": "Zaviye, toplanma yeridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "question": "Fütüvvetname kaç kural içerir ve kaç aşamada öğretilirdi?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "100 kural / 3 aşamada (çırak, kalfa, usta)",
+          "rationale": "Aşama sayısı 3 (çırak, kalfa, usta) olsa da Fütüvvetname 9 aşamada öğretilirdi ve kural sayısı 100 değildi.",
+          "isCorrect": false
+        },
+        {
+          "text": "740 kural / 9 aşamada (çıraklık, kalfalık, ustalık vb.)",
+          "rationale": "PDF'te '740 kural içerir ve 9 aşamada ... öğretilirdi' bilgisi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "9 kural / 740 aşamada",
+          "rationale": "Rakamlar yer değiştirmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "740 kural / 3 aşamada (çırak, kalfa, usta)",
+          "rationale": "Kural sayısı doğru ancak öğretilme aşaması 9 olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "40 kural / 40 aşamada",
+          "rationale": "Bu rakamlar PDF'te yer almamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "question": "Ahilikteki 'Müşteri Velinimettir' (The Customer is a Godsend) ilkesinin günümüzdeki karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Adil rekabet",
+          "rationale": "Adil rekabet, iş etiğinin bir parçasıdır ancak bu ilkenin tam karşılığı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal sorumluluk",
+          "rationale": "Sosyal sorumluluk, topluma karşı görevlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteri odaklılık",
+          "rationale": "PDF'te bu ilkenin günümüzdeki karşılığının 'müşteri odaklılık' olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yetki devri",
+          "rationale": "Yetki devri, Ahiliğin eğitimle ilgili başka bir ilkesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalite kontrol",
+          "rationale": "Müşterinin sağlığını korumak kaliteyle ilgili olsa da, ilkenin modern adı 'müşteri odaklılık'tır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "question": "Ahiliğin 'Katılımcılık' ilkesi nasıl uygulanırdı?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tüm ustaların yönetime katılmasıyla.",
+          "rationale": "Bu, modern bir katılımcılık anlayışıdır. PDF'teki tanım farklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akşamları zaviyelerde toplanıp sohbet etmek, eğitim almak.",
+          "rationale": "Bu, PDF'te 'Katılımcılık' ilkesinin tanımı olarak verilmiştir. Motivasyon ve işbirliğini artırırdı.",
+          "isCorrect": true
+        },
+        {
+          "text": "Müşterilerin yönetime katılmasıyla.",
+          "rationale": "Bu, 'Müşteri Velinimettir' ilkesiyle ilgilidir ancak 'Katılımcılık' olarak tanımlanmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çırakların kalite kontrolüne katılmasıyla.",
+          "rationale": "Bu, eğitim (Yetki Devri) ilkesinin bir parçası olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Devletin lonca işlerine katılmasıyla.",
+          "rationale": "Ahilik, özerk bir sivil örgütlenmedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "question": "Ahiliğin 'Yetki Devri (Eğitim)' ilkesine göre ustanın görevi neydi?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece dükkanın kârını maksimize etmek.",
+          "rationale": "Bu, Ahilik felsefesine (ibadet, kutsallık) aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanatın ve ahlakın tüm inceliklerini çırak ve kalfasına aşama aşama öğretmek.",
+          "rationale": "Bu, 'Yetki Devri (Eğitim)' ilkesinin PDF'teki tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fiyatları (Narh) belirlemek ve devlete bildirmek.",
+          "rationale": "Bu, Ahiliğin genel bir fonksiyonudur, ustanın eğitim görevi değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fütüvvetname'yi yazmak ve güncellemek.",
+          "rationale": "Fütüvvetname, mevcut bir kural kitabıdır; ustanın görevi onu 'öğretmek'tir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hileli mal üretenleri loncadan atmak.",
+          "rationale": "Bu, Ahiliğin denetim/yaptırım mekanizmasıdır, eğitim ilkesi değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "question": "PDF'in sonundaki 'NOT: EKSİK KONULAR' bölümüne göre, bu özetin hangi konuları kapsamadığı belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etik ve Ahlak Kavramı",
+          "rationale": "Bu, BÖLÜM 1 olarak detaylıca işlenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etik Teorileri (Kant, Mill)",
+          "rationale": "Bu, BÖLÜM 2 olarak detaylıca işlenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahilik İlkeleri",
+          "rationale": "Bu, BÖLÜM 4 olarak detaylıca işlenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turizmde Etik Dışı Davranışlar ve Global Etik İlkeleri",
+          "rationale": "PDF'in sonunda '5. Temel Etik İlkeleri', '6. Global Etik İlkeleri' ve '7. Turizmde Etik Dışı Davranışlar' gibi konuların özete dahil edilemediği belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İş Etiği Alt Başlıkları",
+          "rationale": "Bu, BÖLÜM 3 olarak detaylıca işlenmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "question": "Etik vs. Ahlak karşılaştırmasında, 'Değişim' kriterine göre aşağıdakilerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etik değişebilir, Ahlak değişmez.",
+          "rationale": "Tam tersi. Etik'in genel ilkeleri değişmez, Ahlak ise zamana ve topluma göre değişebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etik (Genel ilkeler) değişmez, Ahlak değişebilir (Zamana ve topluma göre).",
+          "rationale": "Bu, PDF'teki tabloda yer alan doğru bilgidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Her ikisi de değişmez.",
+          "rationale": "Yanlış, Ahlak'ın değişebilir olduğu belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her ikisi de değişebilir.",
+          "rationale": "Yanlış, Etik'in genel ilkelerinin değişmez olduğu belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etik evrenseldir, Ahlak toplumsaldır.",
+          "rationale": "Bu, 'Kapsam' kriteridir, 'Değişim' kriteri değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "question": "Aşağıdaki Etik Teori ve Kilit İsim eşleştirmelerinden hangisi *yanlıştır*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Amaçlanan Sonuç Etiği (Faydacılık) - John Stuart Mill",
+          "rationale": "Bu eşleştirme doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kural Etiği (Deontoloji) - Immanuel Kant",
+          "rationale": "Bu eşleştirme doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal Sözleşme Etiği - Jean-Jacques Rousseau",
+          "rationale": "Bu eşleştirme doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Etik (Vicdan) - Martin Buber",
+          "rationale": "Bu eşleştirme doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kural Etiği (Deontoloji) - Aristoteles",
+          "rationale": "Bu eşleştirme yanlıştır. Aristoteles, etiği felsefe alanı olarak ele alan ilk filozoftur. Deontoloji'nin kilit ismi Kant'tır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "question": "'Haz arama ve acıdan kaçma' hangi etik teorinin odak noktasıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kural Etiği (Deontoloji)",
+          "rationale": "Deontoloji'nin odağı kurallar ve ödevlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amaçlanan Sonuç Etiği (Faydacılık)",
+          "rationale": "PDF'e göre Faydacılık'ın odak noktası 'Haz arama ve acıdan kaçma'dır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Kişisel Etiğin odağı vicdandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal Sözleşme Etiği",
+          "rationale": "Toplumsal Sözleşme'nin odağı normlar ve uzlaşmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Yaşam Etiği",
+          "rationale": "Sosyal Yaşam Etiği'nin odağı nezaket ve saygıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "question": "Kant'ın Kural Etiği'ne (Deontoloji) göre etik ilkeler nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Topluma göre değişen ve esnek olmalıdır.",
+          "rationale": "Bu, Ahlak'ın özelliğidir. Kant, tam tersini (evrensellik) savunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "En fazla faydayı sağlayan olmalıdır.",
+          "rationale": "Bu, Faydacılık'ın ilkesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Evrensel ve nesnel olmalıdır.",
+          "rationale": "PDF'e göre Kant'ın ilkesi, etik ilkelerin evrensel ve nesnel olması gerektiğidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişinin vicdanına göre değişmelidir.",
+          "rationale": "Bu, Kişisel Etik'in ilkesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal bir uzlaşmanın ürünü olmalıdır.",
+          "rationale": "Bu, Toplumsal Sözleşme Etiği'nin ilkesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "question": "Bireysel Etiği oluşturan 8 faktör arasında, 'TV, internet, sosyal medya' hangi başlık altında incelenmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Arkadaşlar",
+          "rationale": "Arkadaşlar, benzerlik eğilimi ile etkiler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaşam Deneyimleri",
+          "rationale": "Yaşam Deneyimleri, hayattaki önemli olaylardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle İletişim Araçları",
+          "rationale": "PDF'te 'Kitle İletişim Araçları' başlığı altında 'TV, internet, sosyal medya vb. değer yargılarını değiştirir' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Durumsal Faktörler",
+          "rationale": "Durumsal Faktörler, beklenmedik durumlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Değerler",
+          "rationale": "Kişisel Değerler, bireyin öncelikleridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "question": "Bireysel Etiği oluşturan 8 faktör arasında, 'Beklenmedik durumlar (örn: parasız kalmak)' hangi başlık altında incelenmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişilik",
+          "rationale": "Kişilik, bireyin temel yapısıdır (iyimser vb.).",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaşam Deneyimleri",
+          "rationale": "Yaşam Deneyimleri, hayattaki önemli olaylardır (bu da bir deneyimdir ancak tanım 'durumsal'a daha yakındır).",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Değerler",
+          "rationale": "Kişisel Değerler, bireyin öncelikleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Durumsal Faktörler",
+          "rationale": "PDF'te 'Durumsal Faktörler' başlığı altında 'Beklenmedik durumlar (örn: parasız kalmak)' örneği verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arkadaşlar",
+          "rationale": "Arkadaşlar, benzerlik eğilimi ile etkiler.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "question": "'Ahlaki olanın temellerini araştıran felsefe dalı' ile 'Bir toplumun yazısız kurallar bütünü' arasındaki fark, sırasıyla hangi iki kavramın farkıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ahlak vs. Etik",
+          "rationale": "Kavramlar ters verilmiştir. İlk tanım Etik'e, ikincisi Ahlak'a aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etik vs. Ahlak",
+          "rationale": "İlk tanım 'Etik'in felsefi tanımıdır, ikinci tanım 'Ahlak'ın toplumsal tanımıdır. Sıralama doğrudur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Etik vs. Hukuk",
+          "rationale": "İkinci tanım Hukuk değil, Ahlak'tır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlak vs. Hukuk",
+          "rationale": "İlk tanım Ahlak değil, Etik'tir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Etik vs. İş Etiği",
+          "rationale": "Tanımlar bu kadar spesifik değildir, genel Etik ve Ahlak tanımlarıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "question": "Ahlak'ın yaptırımı (örn: kınama, dışlanma) ile Hukuk'un yaptırımı (örn: ceza, hapis) arasındaki temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ahlak'ın yaptırımı yoktur, Hukuk'un vardır.",
+          "rationale": "Yanlış, Ahlak'ın da (toplumsal) bir yaptırımı vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlak'ın yaptırımı toplumsal ve yazısız, Hukuk'un yaptırımı cezai ve yazılıdır.",
+          "rationale": "Bu, iki kavramın yaptırımları arasındaki temel farkı doğru bir şekilde özetler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ahlak'ın yaptırımı iş hayatında, Hukuk'un yaptırımı sosyal hayattadır.",
+          "rationale": "Bu, Etik/Ahlak ayrımına benzer ve yanlıştır. Hukuk her iki alanı da kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlak'ın yaptırımı evrensel, Hukuk'un yaptırımı toplumsaldır.",
+          "rationale": "Tam tersi daha yakındır; Hukuk ulusal (toplumsal), Ahlak da toplumsaldır. Evrensel olan Etik ilkeleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlak'ın yaptırımı somut, Hukuk'un yaptırımı soyuttur.",
+          "rationale": "Tam tersi. Hapis (Hukuk) somut bir yaptırımdır; kınama (Ahlak) daha soyut kalabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "question": "Etik vs. Ahlak tablosuna göre 'Somut' niteliğe sahip olan hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etik",
+          "rationale": "Etik 'Soyut' olarak nitelendirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlak",
+          "rationale": "Ahlak, davranışlara (pratiğe) dayandığı için 'Somut' olarak nitelendirilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Hukuk tabloda yer almaz, ancak o da yazılı olduğu için somuttur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her ikisi de",
+          "rationale": "Hayır, Etik soyut olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiçbiri",
+          "rationale": "Hayır, Ahlak somut olarak belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "question": "Etik vs. Ahlak tablosuna göre 'Evrensel' kapsama sahip olan hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etik",
+          "rationale": "Etik, tüm insanlar için geçerli (Evrensel) bir kapsama sahip olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ahlak",
+          "rationale": "Ahlak, topluma göre değişen (Toplumsal) bir kapsama sahip olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Hukuk tabloda yer almaz, ancak o da genellikle ulusal (toplumsal) bir kapsama sahiptir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her ikisi de",
+          "rationale": "Hayır, Ahlak toplumsaldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiçbiri",
+          "rationale": "Hayır, Etik evrenseldir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "question": "Aşağıdaki kilit isimlerden hangisi BÖLÜM 2: ETİK TEORİLERİ altında *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "John Stuart Mill",
+          "rationale": "Faydacılık teorisi altında yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Immanuel Kant",
+          "rationale": "Kural Etiği teorisi altında yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jean-Jacques Rousseau",
+          "rationale": "Toplumsal Sözleşme Etiği teorisi altında yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Martin Buber",
+          "rationale": "Kişisel Etik teorisi altında yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahi Evran",
+          "rationale": "Ahi Evran, BÖLÜM 4: AHİLİK (Tarihsel Kökenler) altında yer alır, bir etik teorisyeni değildir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "question": "'En fazla sayıda insana en yüksek mutluluğu' hedefleyen ilke kime aittir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Immanuel Kant",
+          "rationale": "Kant'ın ilkesi 'ödev' ve 'evrensel kurallar'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "John Stuart Mill",
+          "rationale": "Bu, J.S. Mill'in Faydacılık ilkesinin tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aristoteles",
+          "rationale": "Aristoteles, etiği bir alan olarak başlatan filozoftur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Machiavelli",
+          "rationale": "Machiavelli, 'amaca ulaşmak için her şey mubah' diyen ekstrem yorumla ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Martin Buber",
+          "rationale": "Buber'in ilkesi 'vicdan'dır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "question": "'Ödev' kavramını etik teorisinin merkezine koyan filozof kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "John Stuart Mill",
+          "rationale": "Mill, 'fayda' ve 'mutluluk' kavramlarını merkeze koyar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jean-Jacques Rousseau",
+          "rationale": "Rousseau, 'toplumsal sözleşme' ve 'uzlaşma' kavramlarını merkeze koyar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Immanuel Kant",
+          "rationale": "PDF'e göre Kant, Kural Etiği'nin (Deontoloji) kilit ismidir ve 'Ödev' kavramı merkezdedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Martin Buber",
+          "rationale": "Buber, 'vicdan' kavramını merkeze koyar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahi Evran",
+          "rationale": "Ahi Evran, Ahilik teşkilatının kilit ismidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "question": "Hukuk kurallarının 'toplumsal bir uzlaşmanın ürünü' olduğunu savunan etik teori hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kural Etiği (Deontoloji)",
+          "rationale": "Deontoloji, kuralların evrensel (uzlaşmadan bağımsız) olması gerektiğini savunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Kişisel Etik, bireysel vicdana odaklanır, toplumsal uzlaşmaya değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal Sözleşme Etiği",
+          "rationale": "Bu, Toplumsal Sözleşme Etiği'nin temel fikridir ve kilit ismi Rousseau'dur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Amaçlanan Sonuç Etiği (Faydacılık)",
+          "rationale": "Faydacılık, sonuca (faydaya) odaklanır, uzlaşmaya değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Yaşam Etiği",
+          "rationale": "Sosyal Yaşam Etiği, günlük nezaket kurallarına odaklanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "question": "Bireysel Etiği oluşturan 8 faktör arasında 'en önemli' olarak belirtilen hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Din",
+          "rationale": "Din, bir faktördür ancak 'en önemli' olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle İletişim Araçları",
+          "rationale": "Medya, bir faktördür ancak 'en önemli' olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile",
+          "rationale": "PDF'te Aile, 'En önemli' faktör olarak açıkça vurgulanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişilik",
+          "rationale": "Kişilik, bir faktördür ancak 'en önemli' olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Durumsal Faktörler",
+          "rationale": "Durumsal faktörler, bir faktördür ancak 'en önemli' olarak belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "question": "Bireysel etiği oluşturan faktörlerden hangisi 'Bireyin tutum ve düşüncelerini etkiler (benzerlik eğilimi)' şeklinde açıklanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aile",
+          "rationale": "Aile, 'taklit yoluyla öğrenme' olarak açıklanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Din",
+          "rationale": "Din, 'kontrol mekanizması' olarak açıklanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arkadaşlar",
+          "rationale": "Bu, 'Arkadaşlar' faktörünün PDF'teki tam açıklamasıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kitle İletişim Araçları",
+          "rationale": "Medya, 'değer yargılarını değiştirir' şeklinde açıklanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişilik",
+          "rationale": "Kişilik, 'bireyin temel yapısı' olarak açıklanmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "question": "'Dürüstlük, adil rekabet, sosyal sorumluluk, tüketici hakları' hangi etik çeşidinin kapsamındadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bireysel Etik",
+          "rationale": "Bireysel Etik, daha çok kişinin vicdanı ve kişisel değerleriyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş Etiği",
+          "rationale": "Bu, PDF'te 'İş Etiği'nin kapsamı olarak listelenen unsurlardır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosyal Yaşam Etiği",
+          "rationale": "Sosyal Yaşam Etiği, nezaket ve saygı gibi genel ilişkilere odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahilik",
+          "rationale": "Ahilik de bu değerleri içerir ancak bu modern 'İş Etiği'nin tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Bunların bazıları (tüketici hakları, adil rekabet) Hukuk tarafından da düzenlenir, ancak liste 'İş Etiği'nin kapsamı olarak verilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "question": "İş Etiğinin alt başlıklarından hangisi 'İşletmenin paydaşları (Müşteriler, Çalışanlar, Toplum vb.)' ile olan ilişkilerine odaklanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Örgütsel Etik",
+          "rationale": "Örgütsel Etik, örgütün bütününe (kültür, karar alma) odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme Etiği",
+          "rationale": "Bu, 'İşletme Etiği'nin PDF'teki tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yönetsel Etik",
+          "rationale": "Yönetsel Etik, yöneticilerin standartlarına odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meslek Etiği",
+          "rationale": "Meslek Etiği, belirli meslek gruplarına (doktor, turizmci) odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Kişisel Etik, bireyin vicdanına odaklanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "question": "İş Etiğinin alt başlıklarından hangisi 'Her mesleğe özgü (doktor, turizmci)' kuralları içerir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Örgütsel Etik",
+          "rationale": "Örgütsel Etik, örgüte özgüdür, mesleğe değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme Etiği",
+          "rationale": "İşletme Etiği, paydaşlara odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yönetsel Etik",
+          "rationale": "Yönetsel Etik, yöneticilere odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meslek Etiği",
+          "rationale": "Bu, 'Meslek Etiği'nin PDF'teki tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ahilik",
+          "rationale": "Ahilik, meslek etiğinin tarihsel bir örneğidir ancak modern sınıflandırmadaki başlığın adı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "question": "Ahilik teşkilatının 'Kırşehir' ile ilişkilendirilen kilit ismi kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fatma Bacı",
+          "rationale": "Fatma Bacı, Bacıyan-ı Rum'un kurucusudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahi Evran",
+          "rationale": "PDF'te 'Ahi Evran (Kırşehir'de)' olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hacı Bektaş-ı Veli",
+          "rationale": "Hacı Bektaş-ı Veli, Ahilik ile paralellik gösteren Bektaşilik ile ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "J.J. Rousseau",
+          "rationale": "Rousseau, Toplumsal Sözleşme teorisyendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aristoteles",
+          "rationale": "Aristoteles, Antik Yunan filozofudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "question": "Ahi Evran'ın eşi Fatma Bacı tarafından kurulan kadın teşkilatının adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ahiliğin Kadın Kolları",
+          "rationale": "Bu, teşkilatın işlevini anlatan modern bir tabirdir, tarihsel adı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bacıyan-ı Rum (Anadolu Kadınları)",
+          "rationale": "Bu, PDF'te belirtilen teşkilatın doğru adıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zaviyedeki Kadınlar",
+          "rationale": "Zaviye, toplanma yeridir, teşkilatın adı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anadolu Esnaf Kadınları",
+          "rationale": "Bu, anlamca yakın olsa da teşkilatın özel adı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fütüvvetname Kadınları",
+          "rationale": "Fütüvvetname, kural kitabıdır, teşkilat adı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "question": "Ahilik teşkilatının 'Dönemin TSE'si, Ticaret Odası, Patent Ofisi' gibi çalıştığı belirtilen fonksiyonu hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eğitim Fonksiyonu (çırak, kalfa, usta)",
+          "rationale": "Bu, Ahiliğin eğitim fonksiyonudur, TSE/Ticaret Odası değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Fonksiyonu (zaviyelerde toplanma)",
+          "rationale": "Bu, Katılımcılık ilkesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik ve Denetleyici Fonksiyonu (Kalite, Fiyat, Patent)",
+          "rationale": "PDF'te bu benzetmeler (TSE, Ticaret Odası, Patent Ofisi), Ahiliğin kaliteyi koruma, fiyatları belirleme (Narh) ve amblemleri (Alâmet-i Farika) yönetme fonksiyonlarını açıklamak için kullanılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dini Fonksiyonu (çalışmayı ibadet sayma)",
+          "rationale": "Bu, Ahiliğin felsefesidir, fonksiyonel benzetmesi değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kadın Örgütlenmesi Fonksiyonu (Bacıyan-ı Rum)",
+          "rationale": "Bu, teşkilatın bir koludur, TSE/Ticaret Odası benzetmesi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "question": "Ahilikte 'çırak, kalfa, usta' sistemi hangi ilkenin veya fonksiyonun bir parçasıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kalite İlkesi (Alâmet-i Farika)",
+          "rationale": "Kalite, bu eğitim sürecinin bir hedefidir ancak sistemin kendisi eğitimle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiyat Belirleme (Narh Sistemi)",
+          "rationale": "Bu, ekonomik bir düzenlemedir, eğitim değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesleki Eğitim ve Yetki Devri İlkesi",
+          "rationale": "PDF'te 'çırak, kalfa, usta' sistemi, Ahiliğin 'mesleki eğitimi' düzenlemesi ve 'Yetki Devri (Eğitim)' ilkesi altında açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "'Üçü Açık, Üçü Kapalı' Kuralı",
+          "rationale": "Bu, ahlaki bir kuraldır, mesleki hiyerarşi değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Katılımcılık İlkesi (Zaviyeler)",
+          "rationale": "Zaviyeler, bu eğitimin yapıldığı yerler olabilir ancak sistemin adı 'Eğitim/Yetki Devri'dir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "question": "Ahilik felsefesi 'Çalışmayı \"ibadet\", işi \"kutsal\" sayar.' Bu felsefe hangi ilkeyle çelişir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kalite İlkesi",
+          "rationale": "Çelişmez, aksine 'kutsal' sayılan bir işin 'kaliteli' yapılması beklenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlâk İlkesi",
+          "rationale": "Çelişmez, aksine 'ibadet' olarak yapılan bir işin 'ahlaklı' yapılması beklenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Müşteri Velinimettir' İlkesi",
+          "rationale": "Çelişmez, aksine 'kutsal' bir işte müşteriye de değer verilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Machiavelli'nin 'Amaca ulaşmak için her şey mubahtır' anlayışı",
+          "rationale": "Ahilik felsefesi (işi kutsal/ibadet sayma), Machiavelli'nin amaca ulaşmak için ahlaki olmayan yolları (hile, kalitesizlik) mubah gören anlayışıyla temelden çelişir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Katılımcılık İlkesi",
+          "rationale": "Çelişmez, aksine 'ibadet' olan bir işi yapanlar bir araya gelip (Katılımcılık) bu maneviyatı paylaşabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "question": "Ahilikteki 'Kalite' ilkesiyle ilgili olarak, ürünlere kazınan ve ustanın imzası olan amblem nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fütüvvetname",
+          "rationale": "Bu, kural kitabıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alâmet-i Farika",
+          "rationale": "Bu, 'amblemler' (kalite belgesi, ustanın imzası) için kullanılan doğru terimdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Narh",
+          "rationale": "Bu, fiyat belirleme sistemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zaviye",
+          "rationale": "Bu, toplanma mekanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bacıyan-ı Rum",
+          "rationale": "Bu, kadın kolları teşkilatıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "question": "Ahiliğin 'Ahlâk' ilkesini açıklayan 'İki kürekli kayık' benzetmesindeki iki kürek neyi temsil eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çırak ve Kalfa",
+          "rationale": "Bu, eğitim sistemiyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahi Evran ve Fatma Bacı",
+          "rationale": "Bunlar kilit isimlerdir, benzetmedeki kürekler değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalite ve Fiyat",
+          "rationale": "Bunlar Ahiliğin önemli unsurlarıdır ancak benzetmedeki kürekler değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş/Ekonomi ve Ahlak/İnsan İlişkileri",
+          "rationale": "PDF'e göre benzetmedeki bir kürek 'iş/ekonomi', diğer kürek 'ahlak/insan ilişkileri'dir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Din ve Devlet",
+          "rationale": "Bu, Ahilik benzetmesinde yer almamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "question": "Ahilikteki 'Üçü Kapalı' kuralı (Göz, Ağız, El) neye karşı kapalılığı ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eğitime, gelişime ve yeniliğe",
+          "rationale": "Bu, Ahiliğin 'Yetki Devri (Eğitim)' ve 'Katılımcılık' ilkelerine aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kötüye (Göz), kötü söze (Ağız), haksızlığa (El)",
+          "rationale": "Bu, PDF'te '3 Kapalı' kuralı için verilen tam açıklamadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Konuklara, kardeşlere ve fukaralara",
+          "rationale": "Bunlar, 'Açık' olunması (Kapı, Kese, Sofra) gerekenlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Devlet denetimine, vergiye ve askere",
+          "rationale": "Bu, Ahiliğin bu kuralıyla ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ticaret yapmaya, kâr etmeye ve zenginleşmeye",
+          "rationale": "Ahilik bir meslek örgütlenmesidir; bu kural ticareti değil, ahlaksızlığı engellemeyi amaçlar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "question": "Ahilikteki 'Üçü Açık' kuralı (Kapı, Kese, Sofra) hangi değerleri vurgular?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hile, kalitesizlik ve haksız rekabet",
+          "rationale": "Bunlar, Ahiliğin tam tersi olan değerlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece işe odaklanma ve disiplin",
+          "rationale": "Disiplin önemlidir ancak bu kural (Kapı, Kese, Sofra) sosyal değerlere odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirperverlik (Kapı), Cömertlik ve Yardımseverlik (Kese, Sofra)",
+          "rationale": "Kapı (konuklara), Kese (kardeşlere/yardıma), Sofra (fukaralara) ifadeleri misafirperverlik ve cömertliği vurgular.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sır saklama, ketumluk ve gizlilik",
+          "rationale": "Bu, 'kapalı' olmayı çağrıştırır, 'açık' olmayı değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalite (Kapı), Fiyat (Kese), Eğitim (Sofra)",
+          "rationale": "Bu, kuralın sembolik anlamı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "question": "Ahiliğin 'anayasası' olarak bilinen Fütüvvetname'nin temel işlevi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiyat listesi (Narh) belirlemek.",
+          "rationale": "Bu, Narh Sistemi'nin işlevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalite amblemlerini (Alâmet-i Farika) kaydetmek.",
+          "rationale": "Bu, Patent Ofisi benzeri bir işlevdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesleki davranış kurallarını ve ahlaki ilkeleri (740 kural) belirlemek.",
+          "rationale": "Bir 'anayasası, tüzüğü, kural kitabı' olarak Fütüvvetname'nin temel işlevi budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kadın kolları teşkilatını (Bacıyan-ı Rum) yönetmek.",
+          "rationale": "Bacıyan-ı Rum ayrı bir teşkilattır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zaviyelerdeki sohbet ve eğitim konularını belirlemek.",
+          "rationale": "Bu, Katılımcılık ilkesinin bir parçasıdır. Fütüvvetname, bu eğitimlerin içeriğini oluşturan ana kaynaktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "question": "'Müşteri Velinimettir' ilkesinin Ahilikteki uygulaması nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Müşteriden mümkün olan en yüksek kârı elde etmek.",
+          "rationale": "PDF'te 'makul kârla satış yapılır' denmektedir, bu tam tersidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşterinin sağlığı, parası korunur; makul kârla satış yapılır.",
+          "rationale": "Bu, PDF'te 'Müşteri Velinimettir' ilkesinin uygulaması olarak açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Müşterinin dükkana girmesi yasaklanır.",
+          "rationale": "Bu, ilkenin anlamına tamamen aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteriye sadece hileli mal satmak.",
+          "rationale": "Bu, Ahiliğin Kalite ilkesine ve 'Müşteri Velinimettir' anlayışına tamamen aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteriyi sadece bir para kaynağı olarak görmek.",
+          "rationale": "'Velinimet' (Godsend - Allah'ın nimeti/gönderdiği) olarak görmek, onu bir para kaynağından öte bir değer olarak görmektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "question": "Ahilikteki 'Katılımcılık' ilkesinin (zaviyelerde toplanma) amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiyatları (Narh) gizlice belirlemek.",
+          "rationale": "Narh sistemi gizli değildir, bir denetim mekanizmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Motivasyon ve işbirliğini artırmak.",
+          "rationale": "PDF'te 'Akşamları zaviyelerde toplanıp sohbet etmek, eğitim almak. Motivasyon ve işbirliğini artırırdı.' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Devlete karşı ayaklanma planlamak.",
+          "rationale": "Ahilik, devlete karşı değil, toplumsal ve ekonomik düzeni sağlayan bir yapıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece dini ibadet yapmak.",
+          "rationale": "Toplanmalar 'sohbet etmek' ve 'eğitim almak' içindir, sadece ibadet değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rakipleri kötülemek ve dışlamak.",
+          "rationale": "Bu, Ahiliğin 'Ahlâk' ilkesine aykırıdır. Amaç işbirliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 91,
+      "question": "Aşağıdakilerden hangisi Ahiliğin Temel İlkelerinden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kalite",
+          "rationale": "Kalite, (Alâmet-i Farika) temel bir ilkedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlâk",
+          "rationale": "Ahlâk, (İki kürekli kayık, Üçü Açık/Kapalı) temel bir ilkedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fütüvvetname",
+          "rationale": "Fütüvvetname (kural kitabı), temel bir ilkedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Müşteri Velinimettir'",
+          "rationale": "Müşteri odaklılık, temel bir ilkedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Amaca ulaşmak için her şey mubahtır'",
+          "rationale": "Bu, Machiavelli'nin anlayışıdır ve Ahiliğin 'Ahlâk' ve 'Kalite' ilkeleriyle tamamen çelişir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 92,
+      "question": "Bireysel Etiği oluşturan faktörlerden hangisi 'kontrol mekanizması' olarak tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aile",
+          "rationale": "Aile, 'en önemli' ve 'taklit' yoluyla öğrenme olarak tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Din",
+          "rationale": "PDF'te 'Din: Davranışları iyiye yönlendiren bir kontrol mekanizmasıdır.' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arkadaşlar",
+          "rationale": "Arkadaşlar, 'benzerlik eğilimi' olarak tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişilik",
+          "rationale": "Kişilik, 'bireyin temel yapısı' olarak tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Durumsal Faktörler",
+          "rationale": "Durumsal Faktörler, 'beklenmedik durumlar' olarak tanımlanmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 93,
+      "question": "Etik vs. Ahlak tablosuna göre 'İş Hayatı' ile ilişkili olan hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etik",
+          "rationale": "Tabloda 'Etik', 'İş Hayatı' ile ilişkilendirilmiştir (modern kullanım).",
+          "isCorrect": true
+        },
+        {
+          "text": "Ahlak",
+          "rationale": "Ahlak, 'Sosyal Hayat' ile ilişkilendirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Hukuk tabloda bu kriterle yer almaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her ikisi de",
+          "rationale": "Tablo bu ikisini ayırmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiçbiri",
+          "rationale": "Etik, iş hayatı ile ilişkilendirilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 94,
+      "question": "Etik vs. Ahlak tablosuna göre 'Sosyal Hayat' ile ilişkili olan hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etik",
+          "rationale": "Etik, 'İş Hayatı' ile ilişkilendirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlak",
+          "rationale": "Tabloda 'Ahlak', 'Sosyal Hayat' ile ilişkilendirilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Hukuk tabloda bu kriterle yer almaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her ikisi de",
+          "rationale": "Tablo bu ikisini ayırmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiçbiri",
+          "rationale": "Ahlak, sosyal hayat ile ilişkilendirilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 95,
+      "question": "Ahlaki doğruluğu 'kişinin vicdanı' ile belirleyen Kişisel Etik teorisinin kilit ismi kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "John Stuart Mill",
+          "rationale": "Mill, Faydacılık (fayda) ile ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Immanuel Kant",
+          "rationale": "Kant, Deontoloji (ödev) ile ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jean-Jacques Rousseau",
+          "rationale": "Rousseau, Toplumsal Sözleşme (uzlaşma) ile ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Martin Buber",
+          "rationale": "PDF'te Buber, Kişisel Etik ve 'vicdan' ile ilişkilendirilen kilit isimdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ahi Evran",
+          "rationale": "Ahi Evran, Ahilik teşkilatı ile ilişkilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 96,
+      "question": "Aşağıdakilerden hangisi Bireysel Etiği Oluşturan 8 Faktörden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aile",
+          "rationale": "Aile, 1. ve 'en önemli' faktördür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arkadaşlar",
+          "rationale": "Arkadaşlar, 3. faktördür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişilik",
+          "rationale": "Kişilik, 5. faktördür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Değerler",
+          "rationale": "Kişisel Değerler, 7. faktördür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahilik İlkeleri",
+          "rationale": "Ahilik İlkeleri, BÖLÜM 4'te incelenen tarihsel bir konudur, BÖLÜM 3'teki Bireysel Etiği oluşturan 8 faktör listesinde yer almaz.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 97,
+      "question": "'Yöneticilerin rekabet halindeki çıkarları uzlaştırırken uyması gereken standartlar' hangi etik türüdür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Meslek Etiği",
+          "rationale": "Meslek Etiği, mesleğin geneline (doktor, avukat) odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme Etiği",
+          "rationale": "İşletme Etiği, paydaşlara (müşteri, çalışan) odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Örgütsel Etik",
+          "rationale": "Örgütsel Etik, örgütün bütününe (kültür) odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yönetsel Etik",
+          "rationale": "Bu, 'Yönetsel Etik'in PDF'teki tam tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Yöneticinin kişisel etiği önemlidir ancak bu tanım spesifik olarak 'Yönetsel Etik'e aittir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 98,
+      "question": "Ahilikte 'Kalite' ilkesinin denetim aracı olarak 'Hileli mal üreteni loncadan atma' ve 'Alâmet-i Farika' (amblem) kullanılmıştır. Bu hangi modern kurumun işlevine benzer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sosyal Güvenlik Kurumu (SGK)",
+          "rationale": "SGK, sağlık ve emeklilik ile ilgilidir, kalite kontrolü değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Türk Standardları Enstitüsü (TSE) ve Patent Ofisi",
+          "rationale": "PDF, Ahiliğin bu fonksiyonlarını 'Dönemin TSE'si' (kalite denetimi) ve 'Patent Ofisi' (amblem/marka koruması) olarak benzetmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Milli Eğitim Bakanlığı (MEB)",
+          "rationale": "MEB, eğitimle ilgilidir. Ahiliğin 'çırak, kalfa, usta' sistemi bu işlevi görse de, soru kalite denetimi (TSE) ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Merkez Bankası",
+          "rationale": "Merkez Bankası, para politikaları ile ilgilidir. Fiyat belirleme (Narh) kısmen ilgili olsa da, kalite denetimi (TSE) ile ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Türkiye İş Kurumu (İŞKUR)",
+          "rationale": "İŞKUR, iş bulma ile ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 99,
+      "question": "Ahilikteki 'Üçü Açık' kuralında 'Kese' (kardeşlere/yardıma) ve 'Sofra' (fukaralara) neyi temsil eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Cimrilik ve tutumluluk",
+          "rationale": "Tam tersine, 'açık' olmak cömertliği ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece aile içine yardım",
+          "rationale": "Kural 'kardeşlere' (Ahi kardeşliği) ve 'fukaralara' (yoksullara) yardımı kapsar, sadece kan bağı olan aile değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cömertlik ve sosyal yardımlaşma",
+          "rationale": "Keseyi ve sofrayı yardıma muhtaç olanlara açmak, cömertlik ve sosyal yardımlaşmanın bir göstergesidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Devletten vergi kaçırma",
+          "rationale": "Bu, Ahilik ahlakına tamamen aykırı bir durumdur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hesapsızca para harcama",
+          "rationale": "Ahilikte amaç 'yardım' ve 'cömertlik'tir, 'israf' veya 'hesapsızlık' değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 100,
+      "question": "PDF özetine göre, Etik ve Ahlak arasındaki temel fark (Slayt 21 tablosu) sınav için neden 'altın değerindedir'?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çünkü PDF'teki tek önemli konu budur.",
+          "rationale": "Yanlış, PDF'te Etik Teoriler ve Ahilik gibi başka önemli konular da vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü bu iki kavram dersin temelini oluşturur ve sınavda mutlaka sorulacağı öngörülür.",
+          "rationale": "PDF'in BÖLÜM 1 girişinde 'Bu bölüm, dersin temelini oluşturur. Etik ve Ahlak arasındaki fark sınavda mutlaka sorulur.' denmektedir. 'Altın değerinde' ifadesi bu önemi vurgular.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çünkü bu tablo Ahi Evran tarafından çizilmiştir.",
+          "rationale": "Tablo, modern bir ders notu özetidir ve Ahi Evran ile ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü bu tablo Fütüvvetname'de yer almaktadır.",
+          "rationale": "Bu tablo, Etik ve Ahlak'ın modern felsefi ayrımını gösterir, Fütüvvetname'de (tarihsel kural kitabı) yer almaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü bu tablo olmadan Ahilik anlaşılamaz.",
+          "rationale": "Ahilik, bu tablodaki 'Ahlak' ilkesinin bir uygulamasıdır ancak tablo Ahilik'ten bağımsız bir felsefi ayrımdır.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

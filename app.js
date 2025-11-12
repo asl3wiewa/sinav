@@ -19,6 +19,26 @@ const TESTS = {
     title: "Turizm Coğrafyası II - 2",
     dataUrl: "turizm-cografyasi-2-2.json",
   },
+  "turizmde-etik": {
+    title: "Turizmde Etik",
+    dataUrl: "turizmde-etik.json",
+  },
+  "turizmde-etik-2": {
+    title: "Turizmde Etik 2",
+    dataUrl: "turizmde-etik-2.json",
+  },
+  "turizmde-etik-3": {
+    title: "Turizmde Etik 3",
+    dataUrl: "turizmde-etik-3.json",
+  },
+  "bagimlilik-ve-bagimlilikla-mucadele": {
+    title: "Bağımlılık ve Bağımlılıkla Mücadele",
+    dataUrl: "bagimlilik-ve-bagimlilikla-mucadele.json",
+  },
+  "bagimlilik-ve-bagimlilikla-mucadele-2": {
+    title: "Bağımlılık ve Bağımlılıkla Mücadele 2",
+    dataUrl: "bagimlilik-ve-bagimlilikla-mucadele-2.json",
+  },
 };
 const TEST_ALIASES = {
   general: "genel-turizm",
@@ -27,6 +47,12 @@ const TEST_ALIASES = {
   turizm: "genel-turizm",
   "turizm cografyasi ii": "turizm-cografyasi-2",
   "turizm cografyasi ii 2": "turizm-cografyasi-2-2",
+  "turizmde etik": "turizmde-etik",
+  "turizmde etik 2": "turizmde-etik-2",
+  "turizmde etik 3": "turizmde-etik-3",
+  "bagimlilik ve bagimlilikla mucadele": "bagimlilik-ve-bagimlilikla-mucadele",
+  "bagimlilik ve bagimlilikla mucadele 2": "bagimlilik-ve-bagimlilikla-mucadele-2",
+  "bagimlilik mucadele": "bagimlilik-ve-bagimlilikla-mucadele",
 };
 const DEFAULT_TEST = "genel-turizm";
 const LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
