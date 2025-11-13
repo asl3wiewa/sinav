@@ -39,6 +39,54 @@ const TESTS = {
     title: "Bağımlılık ve Bağımlılıkla Mücadele 2",
     dataUrl: "bagimlilik-ve-bagimlilikla-mucadele-2.json",
   },
+  "kat-hizmetleri": {
+
+    title: "Kat Hizmetleri Testi 1",
+
+    dataUrl: "kat-hizmetleri.json",
+
+  },
+
+  "kat-hizmetleri-2": {
+
+    title: "Kat Hizmetleri Testi 2",
+
+    dataUrl: "kat-hizmetleri-2.json",
+
+  },
+
+  "kat-hizmetleri-3": {
+
+    title: "Kat Hizmetleri Testi 3",
+
+    dataUrl: "kat-hizmetleri-3.json",
+
+  },
+  "camasirhane-kontrolu": {
+
+    title: "Camasirhane Kontrolu Testi 1",
+
+    dataUrl: "camasirhane-kontrolu.json",
+
+  },
+
+  "camasirhane-kontrolu-2": {
+
+    title: "Camasirhane Kontrolu Testi 2",
+
+    dataUrl: "camasirhane-kontrolu-2.json",
+
+  },
+
+  "camasirhane-kontrolu-3": {
+
+    title: "Camasirhane Kontrolu Testi 3",
+
+    dataUrl: "camasirhane-kontrolu-3.json",
+
+  },
+
+
 };
 const TEST_ALIASES = {
   general: "genel-turizm",
@@ -53,6 +101,18 @@ const TEST_ALIASES = {
   "bagimlilik ve bagimlilikla mucadele": "bagimlilik-ve-bagimlilikla-mucadele",
   "bagimlilik ve bagimlilikla mucadele 2": "bagimlilik-ve-bagimlilikla-mucadele-2",
   "bagimlilik mucadele": "bagimlilik-ve-bagimlilikla-mucadele",
+  "kat hizmetleri": "kat-hizmetleri",
+
+  "kat hizmetleri 2": "kat-hizmetleri-2",
+
+  "kat hizmetleri 3": "kat-hizmetleri-3",
+  "camasirhane kontrolu": "camasirhane-kontrolu",
+
+  "camasirhane kontrolu 2": "camasirhane-kontrolu-2",
+
+  "camasirhane kontrolu 3": "camasirhane-kontrolu-3",
+
+
 };
 const DEFAULT_TEST = "genel-turizm";
 const LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";

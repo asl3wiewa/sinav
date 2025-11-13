@@ -1,0 +1,3204 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi 'Turizm' kavramının tanımında yer alan bir unsur DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kazanç sağlama amacı gütmemek.",
+          "rationale": "Tanıma göre, turizm kazanç sağlama amacı dışında yapılan bir faaliyettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Devamlı yerleşme amacı taşımamak.",
+          "rationale": "Turizm, geçici konaklamaları kapsar ve devamlı yerleşme amacı taşımaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gidilen yerde en az 48 saat kalmak.",
+          "rationale": "'Turist' tanımında en az 24 saat kalma ve geceleme şartı vardır, 'Turizm' genel tanımında bu süre spesifik değildir, ancak 'Turist' tanımı için 48 saat yanlıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İnsanların seyahatlerinden doğan ihtiyaçların karşılanması.",
+          "rationale": "Turizm, seyahat ve konaklamadan doğan ihtiyaçların karşılanmasıyla ilgili olayları kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geçici konaklamalardan doğan olay ve ilişkiler bütünü.",
+          "rationale": "Bu ifade, turizm tanımının temel bir parçasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "Bir kişiye 'Turist' denilebilmesi için aşağıdaki şartlardan hangisi belgede zorunlu olarak belirtilmemiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Devamlı ikametgâhından ayrılması.",
+          "rationale": "Turist, tanım gereği devamlı ikametgâhından ayrılan kişidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ziyaret ettiği yerde en az 24 saat kalması.",
+          "rationale": "Bu, turist tanımının temel kriterlerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir konaklama tesisinde geceleme yapması.",
+          "rationale": "Geceleme yapmak, turist tanımının bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tekrar devamlı ikametgâhına dönmesi.",
+          "rationale": "Turist, seyahati sonunda ikametgâhına dönen kişidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spor veya dinlenme dışında bir amaçla seyahat etmesi.",
+          "rationale": "Belgede iş, merak, din, sağlık, spor, dinlenme gibi birçok neden sayılarak bu ifadenin yanlış olduğu belirtilmiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "Belgeye göre, bir turistin konaklama işletmesinden beklediği evrensel beklentiler arasında hangisi en öncelikli olarak vurgulanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Uygun Fiyat",
+          "rationale": "Uygun fiyat bir beklentidir ancak en önemlisi olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik",
+          "rationale": "Belgede 'En önemlilerinden biri' olarak parantez içinde özellikle vurgulanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İyi Hizmet",
+          "rationale": "İyi hizmet bir beklentidir ancak en önemlisi olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güler Yüz",
+          "rationale": "Güler yüz bir beklentidir ancak en önemlisi olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rahatlık",
+          "rationale": "Rahatlık bir beklentidir ancak en önemlisi olarak belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi bir turistin konaklama işletmesinden temel beklentileri arasında SAYILMAMIŞTIR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Emniyet (Güvenlik)",
+          "rationale": "Emniyet ve güvenlik, belgede listelenen 7 temel beklentiden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İtimat (Güven)",
+          "rationale": "İtimat ve güven, belgede listelenen 7 temel beklentiden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lüks Dekorasyon",
+          "rationale": "Belgede lüks dekorasyon değil, 'Rahatlık' ve 'Temizlik' gibi daha temel beklentiler sıralanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uygun Fiyat",
+          "rationale": "Uygun fiyat, belgede listelenen 7 temel beklentiden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İyi Hizmet",
+          "rationale": "İyi hizmet, belgede listelenen 7 temel beklentiden biridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi 'Motel' tipi konaklama işletmesinin ayırt edici özelliklerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Genellikle şehir merkezlerinde ve lüks plazalarda bulunması.",
+          "rationale": "Moteller, yerleşim merkezleri dışında, karayolu güzergahlarında kurulur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzun süreli konaklamalar ve 'her şey dahil' sistemler sunması.",
+          "rationale": "Bu daha çok tatil köylerinin özelliğidir. Moteller kısa süreli konaklamalar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otopark imkanı ve çevre aydınlatmasının kritik öneme sahip olması.",
+          "rationale": "Arabayla seyahat edenlere yönelik olduğu için otopark ve güvenlik amaçlı aydınlatma moteller için kritiktir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Müşterilerin kendi yemeğini yapabileceği mutfak donanımına sahip olması.",
+          "rationale": "Bu, Apart Otellerin ayırt edici özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Ev atmosferi' sunan küçük aile işletmeleri olması.",
+          "rationale": "Bu, Pansiyonların belirgin bir özelliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "Doğal güzelliği olan yerlerde kurulan, ortak kullanım alanları sayesinde maliyeti düşük olan konaklama tesisi türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Pansiyon",
+          "rationale": "Pansiyonlar genellikle 'ev atmosferi' sunar, maliyet düşüklüğü ortak kullanım alanlarından ziyade tesisin yapısından gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oberj",
+          "rationale": "Oberjler daha çok kış sporları ve doğal çevre ile bütünlük arayanlara hitap eder, maliyet düşüklüğü ana özelliği değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Motel",
+          "rationale": "Moteller karayolu üzerindedir ve kısa süreli konaklamalar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kamping",
+          "rationale": "Belgede kampinler için 'Ortak kullanım alanları (duş, tuvalet vb.) sayesinde maliyeti düşüktür' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Apart Otel",
+          "rationale": "Apart oteller mutfak donanımı sunar ve maliyet düşüklüğü ana özelliği değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "'Ev atmosferi' sunmasıyla bilinen, genellikle küçük, aile işletmesi tipinde olan konaklama tesisi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tatil Köyü",
+          "rationale": "Tatil köyleri büyük, kendi kendine yetebilen tesislerdir; 'ev atmosferi' pansiyonun özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel",
+          "rationale": "Oteller daha profesyonel ve çeşitli büyüklükte olabilir, 'ev atmosferi' spesifik bir özellikleri değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pansiyon",
+          "rationale": "Belgede pansiyon için 'Genellikle küçük, aile işletmesi tipindedir ve \"ev atmosferi\" hakimdir' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oberj",
+          "rationale": "Oberj, doğal çevre ile bütünlüğe odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hostel",
+          "rationale": "Hosteller genellikle paylaşımlı odalar sunar ve daha çok bütçe odaklıdır, 'ev atmosferi' pansiyon kadar belirgin değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "Fiziki görünümünün doğal çevre ile bütünlük sağlaması gereken, kış sporları veya sakinlik arayanlara hitap eden tesis türü nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Motel",
+          "rationale": "Moteller karayolu güzergahlarındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kamping",
+          "rationale": "Kampinler doğadadır ancak 'çevre ile bütünlük' ve 'kış sporları' vurgusu Oberj için daha spesifiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pansiyon",
+          "rationale": "Pansiyonlar 'ev atmosferi' ile öne çıkar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tatil Köyü",
+          "rationale": "Tatil köyleri geniş alanlara yayılır ve birçok aktivite sunar, ancak 'çevre ile bütünlük' vurgusu Oberj kadar güçlü değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oberj",
+          "rationale": "Belgedeki tanım tam olarak Oberj'i işaret etmektedir: 'Kış sporları, doğal güzellikler... Tesisin fiziki görünümünün doğal çevre ile bütünlük sağlaması belirgin özelliğidir.'",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "Müşterilerin kendi yeme-içme ihtiyaçlarını karşılayabilmesi için gerekli mutfak donanımına sahip olan konaklama tesisi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Apart Otel",
+          "rationale": "Belgede Apart Otel için 'Ayırt edici özelliği, müşterilerin kendi yeme-içme ihtiyaçlarını karşılayabilmesi için gerekli donanım ve teçhizata (mutfak) sahip olmasıdır' denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pansiyon",
+          "rationale": "Pansiyonlar genellikle konaklama ağırlıklıdır, mutfak donanımı sunmak ana özellikleri değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tatil Köyü",
+          "rationale": "Tatil köyleri genellikle yeme-içme hizmetini kendisi sunar (restoranlar vb.).",
+          "isCorrect": false
+        },
+        {
+          "text": "Motel",
+          "rationale": "Moteller kısa süreli konaklama ve otopark üzerine yoğunlaşır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel",
+          "rationale": "Oteller yeme-içme hizmetini oda servisi veya restoranlar aracılığıyla sunar, odada mutfak standart değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "Uzun süreli konaklamaya uygun, alışveriş, eğlence, spor imkanları barındıran ve 'kendi kendine yetebilen' tesis olarak tanımlanan yapı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Otel",
+          "rationale": "Oteller bu imkanları sunsa da 'kendi kendine yetebilen' ve 'uzun süreli konaklama' vurgusu Tatil Köyü için daha tipiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tatil Köyü",
+          "rationale": "Belgedeki tanım tam olarak Tatil Köyü'nü açıklamaktadır: 'Uzun süreli konaklamaya uygun ve kendi kendine yetebilen... tesislerdir.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Apart Otel",
+          "rationale": "Apart Oteller mutfak sunar ancak 'kendi kendine yetebilen' bir kompleks olmak zorunda değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oberj",
+          "rationale": "Oberjler daha çok doğa ve sakinlik odaklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kamping",
+          "rationale": "Kampinler daha temel konaklama ve ortak alanlar sunar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "Kat Hizmetleri (Housekeeping) kavramının sözlük anlamı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oda Düzeni",
+          "rationale": "Oda düzeni, kat hizmetlerinin bir parçasıdır ancak sözlük anlamı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik Yönetimi",
+          "rationale": "Temizlik yönetimi, kat hizmetlerinin işlevidir ancak sözlük anlamı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir İlişkileri",
+          "rationale": "Misafir ilişkileri, kat hizmetlerinin dolaylı bir sonucudur ancak anlamı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ev İdaresi",
+          "rationale": "Belgede 'Sözlük anlamı \"Ev İdaresi\"dir' ifadesi net olarak yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Konuk Ağırlama",
+          "rationale": "Konuk ağırlama daha çok Ön Büro ve otelin genelini kapsayan bir terimdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "Kat Hizmetleri departmanının sorumlu olduğu alanlar düşünüldüğünde, aşağıdaki alanlardan hangisi bu departmanın sorumluluğu DIŞINDADIR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuk Odaları",
+          "rationale": "Konuk odaları, kat hizmetlerinin ana sorumluluk alanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak",
+          "rationale": "Belgede 'Mutfak ve depolar hariç otelin tüm alanlarının temizliği...' şeklinde net bir istisna belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lobi",
+          "rationale": "Lobi, genel alanlar kapsamında kat hizmetlerinin sorumluluğundadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel Lojmanları",
+          "rationale": "Personel alanları (Back of House) kat hizmetlerinin sorumluluk alanlarındandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırhane",
+          "rationale": "Çamaşırhane, operasyonel alanlar kapsamında kat hizmetlerinin sorumluluğundadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "Kat Hizmetleri yönetimi sadece otellerde değil, pek çok farklı kurumda da uygulanır. Aşağıdakilerden hangisi bu kurumlara bir örnek OLAMAZ?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hastaneler",
+          "rationale": "Sağlık kurumları (Hastaneler) belgede uygulama alanı olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim kurumları (Okullar, yurtlar)",
+          "rationale": "Eğitim kurumları belgede uygulama alanı olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ulaşım araçları (Uçak, tren, gemi)",
+          "rationale": "Ulaşım araçları belgede uygulama alanı olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yazılım Geliştirme Ofisleri",
+          "rationale": "Belgede iş merkezleri listelenmiş olsa da, 'Kat Hizmetleri Yönetimi' spesifik olarak bu sektör için tanımlanmamıştır; diğer seçenekler belgede doğrudan yer almaktadır. Bu, en zayıf halkadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Huzurevleri ve Hapishaneler",
+          "rationale": "Huzurevleri ve Hapishaneler belgede uygulama alanı olarak listelenmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "Konaklama işletmelerinin en önemli temel özelliği olarak belirtilen ve 'O gün satılamayan oda (zaman) stoklanamaz' şeklinde açıklanan özellik hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İnsan gücüne dayanması",
+          "rationale": "Bu bir özelliktir ancak 'stoklanamaz' vurgusu zaman satışı ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekip çalışmasını gerektirmesi",
+          "rationale": "Bu bir özelliktir ancak 'stoklanamaz' vurgusu zaman satışı ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zamanı Satması",
+          "rationale": "Belgede 'En önemli özelliktir. Oda günlük satılır. O gün satılamayan oda (zaman) stoklanamaz...' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dinamik bir yapıya sahip olması",
+          "rationale": "Bu bir özelliktir ancak 'stoklanamaz' vurgusu zaman satışı ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Büyük sabit sermaye gerektirmesi",
+          "rationale": "Bu bir özelliktir ancak 'stoklanamaz' vurgusu zaman satışı ile ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "Konaklama işletmelerinin 'Emek-yoğun' bir sektöre dayanması ne anlama gelmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sürekli olarak teknolojiye yatırım yapılması gerektiği.",
+          "rationale": "Bu 'dinamik yapı' ile ilgilidir. Emek-yoğun, otomasyonun sınırlı olduğunu ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hizmetin insan gücüne dayalı olması ve otomasyonun sınırlı kalması.",
+          "rationale": "Belgedeki 'İnsan Gücüne Dayanır: Emek-yoğun bir sektördür. Otomasyon sınırlıdır.' tanımıyla tam olarak eşleşmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Personelin çok uzun saatler çalışmak zorunda kalması.",
+          "rationale": "Bu, emek-yoğun olmanın bir tanımı değil, kötü bir yönetim sonucudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletmenin 24 saat faaliyet göstermek zorunda olması.",
+          "rationale": "Bu, 24/7/365 faaliyet gösterme özelliğidir, emek-yoğunluğun tanımı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik dalgalanmalardan çok çabuk etkilenmesi.",
+          "rationale": "Bu, talebin esnek olmasıyla ilgili farklı bir özelliktir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "Aşağıdakilerden hangisi konaklama işletmelerinin temel özelliklerinden biri DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hizmetin, üretildiği yerde tüketilmesi.",
+          "rationale": "Bu, belgede listelenen 8. temel özelliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik ve politik dalgalanmalardan çabuk etkilenmesi.",
+          "rationale": "Bu, belgede listelenen 5. temel özelliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "7 gün 24 saat faaliyet göstermesi.",
+          "rationale": "Bu, belgede listelenen 7. temel özelliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üretilen hizmetin (oda) stoklanabilmesi.",
+          "rationale": "Tam tersine, en önemli özellik 'Zamanı Satar' olması ve satılamayan odanın stoklanamamasıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ekip çalışmasını gerektirmesi.",
+          "rationale": "Bu, belgede listelenen 3. temel özelliktir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "Büyük ölçekli bir otel organizasyon şemasında, 'Executive Housekeeper' (Kat Hizmetleri Müdürü) hangi bölüm müdürünün altında yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Genel Müdür",
+          "rationale": "Genel Müdür en üst yöneticidir, ancak E.H. genellikle Odalar Bölümü Müdürü'ne bağlıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yiyecek-İçecek Müdürü",
+          "rationale": "Yiyecek-İçecek bölümü, kat hizmetlerinden ayrı bir departmandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknik Servis Müdürü",
+          "rationale": "Teknik Servis, kat hizmetleri ile koordineli çalışır ancak E.H. onlara bağlı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsan Kaynakları Müdürü",
+          "rationale": "İnsan Kaynakları, personel işlerinden sorumludur, operasyonel bir bağları yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odalar Bölümü Müdürü",
+          "rationale": "Belgede '\"Odalar Bölümü Müdürü\" altında \"Resepsiyon\" ve \"Executive Housekeeper\" bulunur' denmektedir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "Kat Hizmetleri departmanının 'otelin belkemiği' olarak adlandırılmasının temel nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oteldeki en kalabalık personel grubuna sahip olması.",
+          "rationale": "Bu doğru olabilir ancak 'belkemiği' denmesinin temel nedeni bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğrudan en yüksek geliri getiren departman olması.",
+          "rationale": "Belgede 'Doğrudan gelir getirmez ama çok önemli bir destekleyici işlevdir' denilerek bu çürütülmüştür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satış departmanının satacağı 'temiz ve bakımlı' odayı hazırlayarak satışı mümkün kılması.",
+          "rationale": "Belgede '...satacakları \"temiz ve bakımlı\" odayı hazırlayan kat hizmetleridir.' ifadesiyle bu rol vurgulanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otelin tüm yiyecek-içecek operasyonlarını denetlemesi.",
+          "rationale": "Bu, Yiyecek-İçecek departmanının görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirlerin otele giriş ve çıkış kayıtlarını tutması.",
+          "rationale": "Bu, Ön Büro'nun (Resepsiyon) görevidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "Kat Hizmetleri departmanının 'Yatırımın Korunması' işlevi ne anlama gelmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Otelin borsadaki hisse değerlerini korumak.",
+          "rationale": "Bu, finansal bir işlemdir ve kat hizmetlerinin doğrudan görevi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otelin demirbaşlarını (mobilya, halı vb.) koruyarak kullanım ömrünü uzatmak.",
+          "rationale": "Belgede 'Otelin tüm demirbaşlarını... korur ve kullanım ömrünü uzatır' şeklinde açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafirlerin kişisel eşyalarını kasada saklamak.",
+          "rationale": "Bu genellikle Ön Büro veya güvenlik hizmetidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel için en uygun fiyatlı malzemeleri satın almak.",
+          "rationale": "Bu, Satın Alma departmanının görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda fiyatlarını piyasa koşullarına göre belirlemek.",
+          "rationale": "Bu, Gelirler Yönetimi veya Satış departmanının görevidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "Misafirlerin zamanının büyük bir kısmını (uyku dahil $1/3$) odada geçirmesi, Kat Hizmetleri departmanının hangi önemi üzerinde doğrudan etkilidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafir Memnuniyeti",
+          "rationale": "Belgede 'Misafirler zamanının büyük kısmını... odada geçirir. Temizlik, misafir memnuniyetini belirleyen en önemli faktörlerden biridir' denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oda Gelirlerine Katkı",
+          "rationale": "Bu dolaylı bir etkidir; memnuniyet, tekrar gelme ve dolayısıyla gelire katkı sağlar, ancak doğrudan etki memnuniyettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yatırımın Korunması",
+          "rationale": "Bu, demirbaşların ömrü ile ilgilidir, misafirin odada geçirdiği süre ile doğrudan ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "24 Saat Hizmet Verme Zorunluluğu",
+          "rationale": "Misafirin odada olması 24 saat hizmeti gerektirebilir ancak bu durumun asıl vurguladığı nokta memnuniyettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satışa Etkisi",
+          "rationale": "Bu da dolaylı bir etkidir. Odada geçirilen süre, temizliğin memnuniyet üzerindeki etkisini artırır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "Kat Hizmetleri departmanının 'Satışa Etkisi' ile ilgili olarak, kirli bir oda algısının misafir üzerinde yarattığı etki nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafirin sadece o oda için indirim talep etmesi.",
+          "rationale": "Bu olabilir ancak belgede vurgulanan algı daha geniştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirin, restoranın da kirli olacağını düşünmesi.",
+          "rationale": "Belgede 'Kirli oda algısı, misafirin restoranın da kirli olacağını düşünmesine yol açar' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafirin otel yönetimine teşekkür etmesi.",
+          "rationale": "Kirli bir oda için teşekkür beklenemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirin sadece yatak çarşaflarının değişmesini istemesi.",
+          "rationale": "Bu bir sonuç olabilir ancak genel algı üzerindeki etkiden bahsedilmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirin otelin mimarisini beğenmekten vazgeçmesi.",
+          "rationale": "Mimari beğeni ile temizlik algısı farklı konulardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "Kat Hizmetleri departmanının 5 kritik rolünden biri olan '24 Saat Hizmet Verir' fonksiyonunda, 'Gece Nezaretçisi'nin görevi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gündüz yapılan rutin temizlik işlerini denetlemek.",
+          "rationale": "Gece nezaretçisi gece çalışır, gündüz işlerini denetlemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel alanların temizliği ve acil misafir isteklerini karşılamak.",
+          "rationale": "Belgede '\"Gece Nezaretçisi\" ise genel alanların temizliği, acil oda hazırlama ve misafir istekleri (ekstra havlu vb.) için gece çalışır' denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otelin tüm güvenlik kameralarını izlemek.",
+          "rationale": "Bu, Güvenlik departmanının görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gelecek günün çalışma planlarını ve vardiyalarını hazırlamak.",
+          "rationale": "Bu genellikle gündüz yöneticilerinin veya şeflerin görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sabah kahvaltısı için restoran hazırlıklarına yardım etmek.",
+          "rationale": "Bu, Yiyecek-İçecek departmanının görevidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "Ön büronun, oda satışını kat hizmetlerinden gelen raporlara göre yapması, Kat Hizmetleri departmanının hangi fonksiyonunu açıklar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Otel Yatırımlarının Korunması",
+          "rationale": "Bu, demirbaşların bakımı ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir Memnuniyeti Sağlaması",
+          "rationale": "Bu, temiz ve huzurlu ortam yaratmakla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "24 Saat Hizmet Vermesi",
+          "rationale": "Bu, hizmetin kesintisiz olmasıyla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ön Büronun Oda Satışında Kritik Rol Oynaması",
+          "rationale": "Belgede bu fonksiyon altında 'Ön büro, oda satışını kat hizmetlerinden gelen raporlara... göre yapar' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oda Gelirlerine Katkı Sağlaması",
+          "rationale": "Bu, odaları 'satılabilir' hale getirme eylemidir. Raporlama ise Ön Büro ile olan kritik ilişkiyi tanımlar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "Kat Hizmetleri departmanının, Ön Büro'nun 'gözü ve kulağı' olarak nitelendirilmesinin sebebi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kat hizmetleri personelinin, misafirleri gizlice dinlemesi.",
+          "rationale": "Bu etik dışı bir davranıştır ve tanımın anlamı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ön Büro'nun, Kat Hizmetleri'nden gelen oda durum (temiz, kirli, arızalı) raporlarına göre satış yapabilmesi.",
+          "rationale": "Ön Büro katları fiziksel olarak göremez, Kat Hizmetleri'nin verdiği bilgiye (gözü/kulağı) göre hareket eder. Bu, tanımı en iyi açıklayan ifadedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kat hizmetleri personelinin, Ön Büro personelinin işlerini de yapması.",
+          "rationale": "İki departmanın görev tanımları farklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ön Büro'nun, Kat Hizmetleri departmanını sürekli denetlemesi.",
+          "rationale": "Bu ifade, Kat Hizmetleri'nin Ön Büro için neden 'göz ve kulak' olduğunu açıklamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm misafir şikayetlerinin önce Kat Hizmetleri'ne gelmesi.",
+          "rationale": "Şikayetler genellikle Ön Büro'ya veya Misafir İlişkileri'ne gelir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "Kat Hizmetleri departmanının 'Oda Gelirlerine Katkı' fonksiyonu nasıl gerçekleşir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Odalara ekstra yatak satışı yaparak.",
+          "rationale": "Ekstra yatak talebini karşılar ancak bu, gelire katkının ana tanımı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mini bar satışlarını artırarak.",
+          "rationale": "Mini bar kontrolü yapsa da, 'oda gelirlerine katkı'nın temel anlamı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odaları 'satılabilir' (temiz, bakımlı) hale getirerek otelin temel gelir kaynağını destekleyerek.",
+          "rationale": "Belgede 'Otelin temel geliri oda satışıdır. Bu odaları \"satılabilir\" kılan bu departmandır' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafirlere otelin restoranlarını pazarlayarak.",
+          "rationale": "Bu dolaylı bir katkı olabilir ancak 'oda gelirleri' ile doğrudan ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik malzemelerinden tasarruf ederek maliyetleri düşürerek.",
+          "rationale": "Bu verimlilikle ilgilidir, 'oda gelirlerine' doğrudan bir katkı tanımı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "Aşağıdakilerden hangisi Kat Hizmetleri departmanının 'Çalışma İlkeleri' arasında yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Süreklilik İlkesi",
+          "rationale": "Süreklilik, belgede listelenen 7 ilkeden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sessizlik İlkesi",
+          "rationale": "Sessizlik, belgede listelenen 7 ilkeden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hijyen Sağlama İlkesi",
+          "rationale": "Hijyen Sağlama, belgede listelenen 7 ilkeden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kâr Maksimizasyonu İlkesi",
+          "rationale": "Kâr maksimizasyonu bir işletme hedefidir ancak Kat Hizmetleri'nin 'çalışma ilkeleri' arasında 'Verimlilik' vardır, doğrudan 'Kâr Maksimizasyonu' listelenmemiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İletişim İlkesi",
+          "rationale": "İletişim, belgede listelenen 7 ilkeden biridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "Temizlik ve bakımın periyodik ve sistematik bir planla sürekli yapılması hangi çalışma ilkesine girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Süreklilik İlkesi",
+          "rationale": "Tanım tam olarak 'Süreklilik İlkesi'ni açıklamaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Doğru Zamanlama İlkesi",
+          "rationale": "Bu ilke, işlerin misafirin en az olduğu zaman yapılmasıyla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Verimlilik İlkesi",
+          "rationale": "Bu ilke, en az emek ve malzeme ile iş yapmayla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalite İlkesi",
+          "rationale": "Bu ilke, işin standartlara uygun yapılmasıyla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hijyen Sağlama İlkesi",
+          "rationale": "Bu ilke, mikroplardan arındırmayla ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "Faaliyetlerin, özellikle misafir katlarında, misafirleri rahatsız etmeyecek şekilde yürütülmesi hangi çalışma ilkesinin gereğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İletişim İlkesi",
+          "rationale": "İletişim, diğer birimlerle olan ilişkiyi düzenler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Süreklilik İlkesi",
+          "rationale": "Süreklilik, işin kesintisiz planlanmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sessizlik İlkesi",
+          "rationale": "Tanım tam olarak 'Sessizlik İlkesi'ni açıklamaktadır: '...misafirleri rahatsız etmeyecek şekilde ve sessizce yürütülmelidir.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Hijyen Sağlama İlkesi",
+          "rationale": "Hijyen, temizliğin mikrobiyolojik boyutudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Verimlilik İlkesi",
+          "rationale": "Verimlilik, kaynak kullanımıyla ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "Cila atma, derin temizlik gibi yoğun ve gürültülü işlerin misafirlerin en az olduğu saatlere planlanması hangi ilkeye örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Doğru Zamanlama İlkesi",
+          "rationale": "Belgede 'Doğru Zamanlama İlkesi' açıklanırken tam olarak bu örnek (cila, derin temizlik) verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sessizlik İlkesi",
+          "rationale": "Sessizlik ilkesi gürültü yapmamayı kapsar, ancak bu işlerin 'ne zaman' yapılacağını planlamak 'Doğru Zamanlama' ilkesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalite İlkesi",
+          "rationale": "Bu, işin standartlara uygun yapılmasıdır, zamanlamasıyla ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Süreklilik İlkesi",
+          "rationale": "Bu, işin periyodik olarak yapılmasıdır, hangi saatte yapılacağıyla ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Verimlilik İlkesi",
+          "rationale": "Bu, kaynak kullanımıyla ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "En az emek, enerji ve malzeme ile istenilen hizmet kalitesine ulaşmayı hedefleyen ilke hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kalite İlkesi",
+          "rationale": "Kalite ilkesi, standarda ulaşmaktır. O standarda 'en az kaynakla' ulaşmak ise verimliliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Verimlilik İlkesi",
+          "rationale": "Tanım tam olarak 'Verimlilik İlkesi'ni açıklamaktadır: 'En az emek, enerji ve malzeme ile...'",
+          "isCorrect": true
+        },
+        {
+          "text": "Süreklilik İlkesi",
+          "rationale": "Bu, işin kesintisiz planlanmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hijyen Sağlama İlkesi",
+          "rationale": "Bu, mikroplardan arındırmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğru Zamanlama İlkesi",
+          "rationale": "Bu, işin ne zaman yapılacağıyla ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "'Hijyen Sağlama İlkesi' ile 'temizlik' arasındaki fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hijyen sadece mutfakta, temizlik ise odalarda yapılır.",
+          "rationale": "Hijyen her yerde gereklidir ve Kat Hizmetleri mutfaktan sorumlu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik görünür kirleri, hijyen ise mikroplardan arındırmayı (dezenfeksiyon) ifade eder.",
+          "rationale": "Belgede 'Sadece \"temizlik\" (görünür kir) yeterli değildir. Alanların mikroplardan... arındırılması (dezenfeksiyon) şarttır.' denilerek bu fark açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Temizlik kimyasallarla, hijyen ise sadece su ile yapılır.",
+          "rationale": "Bu tanım yanlıştır; hijyen genellikle dezenfektan gibi güçlü kimyasallar gerektirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik günlük, hijyen ise aylık yapılır.",
+          "rationale": "Hijyen de sürekli sağlanması gereken bir durumdur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik ve hijyen arasında hiçbir fark yoktur, eş anlamlıdırlar.",
+          "rationale": "Belgeye göre, bu iki kavram arasında net bir fark vardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "Hizmetin, misafir beklentilerine ve işletmenin belirlediği 'hizmet kalitesi standartları'na uygun olması hangi ilkenin gereğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Verimlilik İlkesi",
+          "rationale": "Verimlilik, kaynak kullanımıyla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hijyen Sağlama İlkesi",
+          "rationale": "Bu, kalitenin sadece bir parçasıdır (mikrobiyolojik boyut).",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalite İlkesi",
+          "rationale": "Tanım tam olarak 'Kalite İlkesi'ni açıklamaktadır: '...misafir beklentilerine ve... \"hizmet kalitesi standartları\"na uygun olmalıdır.'",
+          "isCorrect": true
+        },
+        {
+          "text": "İletişim İlkesi",
+          "rationale": "Bu, departmanlar arası ilişkiyi düzenler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sessizlik İlkesi",
+          "rationale": "Bu, misafiri rahatsız etmemeyle ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "Kat Hizmetleri departmanının Ön Büro ve Teknik Servis ile sağlıklı, etkin ve hızlı iletişim kurması hangi çalışma ilkesi kapsamındadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İletişim İlkesi",
+          "rationale": "Tanım, 'İletişim İlkesi'ni doğrudan açıklamaktadır: 'Diğer tüm birimlerle... sağlıklı, etkin ve hızlı iletişim kurulmalıdır.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Verimlilik İlkesi",
+          "rationale": "İyi iletişim verimliliği artırır ancak ilkenin adı 'İletişim'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalite İlkesi",
+          "rationale": "İyi iletişim kaliteyi artırır ancak ilkenin adı 'İletişim'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğru Zamanlama İlkesi",
+          "rationale": "Arızanın doğru zamanda bildirilmesi önemlidir ancak bu 'İletişim' ilkesinin bir sonucudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Süreklilik İlkesi",
+          "rationale": "Bu, işin kesintisiz planlanmasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "Kat Hizmetleri departmanının sorumluluk alanlarıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece misafir odaları ve koridorlardan sorumludur.",
+          "rationale": "Bu çok dar bir tanımdır; genel alanlar, personel alanları vb. de sorumluluk alanındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak ve depolar hariç otelin her yerinden sorumludur.",
+          "rationale": "Belgede '...mutfak ve depolar hariç, otelin \"her yerinden\" sorumludur' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece misafirlerin gördüğü alanlardan (lobi, odalar) sorumludur.",
+          "rationale": "Bu yanlıştır; personel alanları (Back of House) da sorumluluk alanındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otelin tüm alanlarından (mutfak ve depolar dahil) sorumludur.",
+          "rationale": "Bu yanlıştır; mutfak ve depolar istisna olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece çamaşırhane operasyonlarından sorumludur.",
+          "rationale": "Çamaşırhane sorumluluk alanlarından sadece biridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "Aşağıdakilerden hangisi Kat Hizmetleri'nin sorumlu olduğu 'Misafir Alanları' kategorisine girmez?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuk Odaları",
+          "rationale": "Konuk odaları, misafir alanlarının ana sorumluluk alanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Koridorlar",
+          "rationale": "Katlar (Koridorlar) misafir alanları olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lobi",
+          "rationale": "Lobi, misafir alanları olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel Yemekhanesi",
+          "rationale": "Personel yemekhanesi, 'Personel Alanları' (Back of House) kategorisine girer.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafir Asansörleri",
+          "rationale": "Merdivenler ve Misafir Asansörleri, misafir alanları olarak listelenmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "question": "SPA, hamam, masaj odaları, toplantı salonları ve yüzme havuzları otelin hangi bölümü olarak sınıflandırılır ve kimin sorumluluğundadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafir Alanları / Sadece SPA Yönetimi",
+          "rationale": "Bu alanlar 'Genel Alanlar' (Public Areas) olarak sınıflandırılır ve temizliği Kat Hizmetleri'ne aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel Alanlar (Public Areas) / Kat Hizmetleri",
+          "rationale": "Belgede bu alanlar 'Genel Alanlar (Public Areas)' başlığı altında listelenmiş ve Kat Hizmetleri'nin sorumluluğunda olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Operasyonel Alanlar / Teknik Servis",
+          "rationale": "Bu alanlar misafire açıktır, operasyonel değildir. Sorumluluk Kat Hizmetleri'ndedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel Alanları / İnsan Kaynakları",
+          "rationale": "Bu alanlar misafir kullanımı içindir, personel alanı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel Alanlar (Public Areas) / Yiyecek-İçecek Bölümü",
+          "rationale": "Restoranlar Y&İ ile koordineli olsa da, SPA ve havuz gibi alanların temizliği doğrudan Kat Hizmetleri'ndedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "question": "'Back of House' olarak da adlandırılan ve personel lojmanları, yemekhaneleri ve soyunma odalarını kapsayan alan hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafir Alanları",
+          "rationale": "Misafir alanları misafirlerin kullandığı yerlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel Alanlar (Public Areas)",
+          "rationale": "Genel alanlar da misafirlerin ortak kullandığı yerlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel Alanları",
+          "rationale": "Tanım tam olarak 'Personel Alanları (Back of House)' kategorisini açıklamaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Operasyonel Alanlar",
+          "rationale": "Operasyonel alanlar çamaşırhane, servis koridorları gibi yerlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknik Alanlar",
+          "rationale": "Teknik alanlar (kazan dairesi vb.) genellikle Teknik Servis'in sorumluluğundadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "question": "Çamaşırhane, servis merdivenleri, servis asansörleri ve ofisler Kat Hizmetleri'nin sorumlu olduğu hangi kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafir Alanları",
+          "rationale": "Bu alanlar misafir kullanımına kapalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel Alanlar (Public Areas)",
+          "rationale": "Bu alanlar misafir kullanımına kapalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel Alanları",
+          "rationale": "Personel alanları personelin dinlenme, yeme-içme alanlarıdır. Çamaşırhane ise bir iş yapma alanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Operasyonel Alanlar",
+          "rationale": "Belgede bu alanlar 'Operasyonel Alanlar' başlığı altında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sorumluluk Dışı Alanlar",
+          "rationale": "Bu alanlar (çamaşırhane, ofisler) Kat Hizmetleri'nin sorumluluğundadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "question": "Aşağıdakilerden hangisi Kat Hizmetleri'nin 'Genel Alanlar (Public Areas)' sorumluluklarından biri DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Restoranlar ve barlar",
+          "rationale": "Genel Alanlar altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık ve güzellik merkezleri (SPA)",
+          "rationale": "Genel Alanlar altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüzme havuzları ve çevresi",
+          "rationale": "Genel Alanlar altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ortak kullanıma açık tuvaletler",
+          "rationale": "Genel Alanlar altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis koridorları",
+          "rationale": "Servis koridorları, misafire kapalı 'Operasyonel Alanlar' kategorisindedir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "question": "Yönetim fonksiyonlarının ilki olan 'Planlama'nın tanımı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İşlerin kim tarafından yapıldığının sonradan denetlenmesi.",
+          "rationale": "Bu 'Denetim' fonksiyonudur, planlama değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neyin, nerede, nasıl, ne zaman, niçin ve kim tarafından yapılacağının önceden belirlenmesi.",
+          "rationale": "Belgedeki tanım tam olarak budur (5N1K).",
+          "isCorrect": true
+        },
+        {
+          "text": "Personelin işe alınması ve eğitilmesi süreci.",
+          "rationale": "Bu, İnsan Kaynakları ve 'Yöneltme' fonksiyonlarının bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Departmanlar arası görev dağılımının yapılması.",
+          "rationale": "Bu, 'Organizasyon' (Örgütleme) fonksiyonudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşlerin standartlara uygun yapılıp yapılmadığının kontrolü.",
+          "rationale": "Bu, 'Denetim' fonksiyonudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "question": "Kat Hizmetleri çalışma planı oluşturulurken dikkate alınan iki iş türü hangileridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kolay İşler ve Zor İşler",
+          "rationale": "Bu, işlerin sınıflandırılmasında kullanılan bir yöntem değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gündüz İşleri ve Gece İşleri",
+          "rationale": "Bu bir zamanlama ayrımıdır ancak belgede 'Rutin' ve 'Periyodik' olarak ikiye ayrıldığı belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rutin İşler ve Periyodik İşler",
+          "rationale": "Belgede 'Planlama yapılırken iki iş türü dikkate alınır: 1. Rutin İşler... 2. Periyodik İşler...' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafir Alanı İşleri ve Personel Alanı İşleri",
+          "rationale": "Bu, alan ayrımıdır; iş türü ayrımı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maliyetli İşler ve Maliyetsiz İşler",
+          "rationale": "Bu, bütçesel bir ayrımdır; çalışma planı ayrımı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "question": "Oda temizliği, yatak yapımı ve lobi toparlama gibi günlük yapılan ve temizliği korumaya yönelik işler hangi kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rutin İşler",
+          "rationale": "Belgedeki 'Rutin İşler' tanımıyla tam olarak eşleşmektedir: 'Günlük yapılan (oda temizliği, yatak yapımı, lobi toparlama vb.)...'",
+          "isCorrect": true
+        },
+        {
+          "text": "Periyodik İşler",
+          "rationale": "Periyodik işler günlük olmayan, belirli aralıklarla yapılan işlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Operasyonel İşler",
+          "rationale": "Bu bir alan tanımıdır, işin sıklık tanımı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Back of House İşleri",
+          "rationale": "Lobi toparlama 'Back of House' (personel alanı) işi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Acil İşler",
+          "rationale": "Bunlar acil değil, planlı ve her gün yapılan işlerdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "question": "Cila, camların dışarıdan silinmesi ve halı yıkama gibi belirli aralıklarla (haftalık, aylık) yapılan işler hangi kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rutin İşler",
+          "rationale": "Rutin işler günlük yapılır, bu işler ise belirli aralıklarla yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Periyodik İşler",
+          "rationale": "Belgedeki 'Periyodik İşler' tanımıyla tam olarak eşleşmektedir: 'Günlük olmayan, belirli aralıklarla... (Cila, camların... silinmesi, halı yıkama...)'",
+          "isCorrect": true
+        },
+        {
+          "text": "Standart Dışı İşler",
+          "rationale": "Bu işler standart dışı değil, planlı periyodik işlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel Alan İşleri",
+          "rationale": "Halı yıkama odada da olabilir, bu bir alan değil sıklık tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknik Servis İşleri",
+          "rationale": "Bu işler genellikle Kat Hizmetleri tarafından yapılır veya koordine edilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "question": "Kat Hizmetleri'nde 'Envanter Planlaması'nın amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personelin çalışma saatlerini belirlemek.",
+          "rationale": "Bu, İş Gücü Planlaması'nın konusudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hangi odanın ne zaman temizleneceğini belirlemek.",
+          "rationale": "Bu, Çalışma Planı'nın konusudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "İstenilen kalitede temizlik için gerekli malzemelerin belirlenmesi çalışmasıdır.",
+          "rationale": "Belgedeki tanım tam olarak budur: '...gerekli malzemelerin belirlenmesi çalışmasıdır.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Personelin performansını ölçmek.",
+          "rationale": "Bu, Performans ve Verimlilik Standartları Planlaması'nın konusudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel demirbaşlarının ömrünü uzatmak.",
+          "rationale": "Bu, departmanın genel bir fonksiyonudur; envanter planlamasının tanımı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "question": "Çarşaf, yastık kılıfı, havlu ve bornoz gibi temizlenip tekrar kullanıma sunulan malzemeler envanter planlamasında nasıl sınıflandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dönüşümsüz Malzemeler",
+          "rationale": "Dönüşümsüz malzemeler tüketilen (buklet vb.) malzemelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dönüşümlü Malzemeler",
+          "rationale": "Belgede 'Dönüşümlü Malzemeler (Tekrar Kullanılan): Temizlenip tekrar kullanıma sunulan... Örn: Çarşaf, yastık kılıfı, havlu...' denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Buklet Malzemeleri",
+          "rationale": "Buklet malzemeleri (şampuan, sabun) dönüşümsüz (tüketilen) malzemelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Demirbaş Malzemeler",
+          "rationale": "Demirbaş (mobilya, TV vb.) daha uzun ömürlü ve farklı bir kategoridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Operasyonel Malzemeler",
+          "rationale": "Bu çok genel bir tanımdır; belgedeki sınıflandırma 'dönüşümlü' ve 'dönüşümsüz' şeklindedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "question": "Şampuan, sabun, duş jeli ve tuvalet kâğıdı gibi tüketilen ve sürekli yenilenmesi gereken malzemeler envanter planlamasında nasıl sınıflandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dönüşümlü Malzemeler",
+          "rationale": "Dönüşümlü malzemeler (çarşaf, havlu) yıkanıp tekrar kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel Alan Malzemeleri",
+          "rationale": "Bu malzemeler odalarda kullanılır, bu bir alan tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir Buklet Malzemeleri (Dönüşümsüz)",
+          "rationale": "Belgede 'Dönüşümsüz Malzemeler (Tüketilen): ... (Misafir buklet malzemeleri). Örn: Şampuan, sabun, duş jeli...' denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tekstil Malzemeleri",
+          "rationale": "Tekstil malzemeleri (çarşaf, havlu) dönüşümlü malzemelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rutin Malzemeler",
+          "rationale": "Bu, belgede kullanılan bir envanter sınıflandırması değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "question": "Hizmeti sağlayabilmek için gereken en az işçi sayısını ve personelin çalışma saatlerini planlama süreci nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Envanter Planlaması",
+          "rationale": "Envanter planlaması malzemelerle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma Planı Oluşturma",
+          "rationale": "Çalışma planı işlerin ne zaman yapılacağıyla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Performans Planlaması",
+          "rationale": "Performans planlaması işin nasıl yapılacağı ve kalitesiyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş Gücü Planlaması",
+          "rationale": "Tanım tam olarak 'İş Gücü Planlaması'nı açıklamaktadır: '...gereken en az işçi sayısını ve personelin çalışma saatlerini planlama süreci.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Organizasyon Planlaması",
+          "rationale": "Organizasyon, departmanın yapısı ve hiyerarşisi ile ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "question": "İş gücü planlamasında 'Optimum (En Uygun) Denge' neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tüm personelin aynı vardiyada çalışmasını.",
+          "rationale": "Bu, 24 saat hizmet veren bir otelde verimsiz ve imkansızdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece en deneyimli personelle çalışmayı.",
+          "rationale": "Bu, maliyetleri çok artırabilir ve optimum dengeyi bozabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gerekenden fazla personelin yaratacağı yüksek maliyet ile gerekenden az personelin yaratacağı hizmet aksaması arasındaki dengeyi.",
+          "rationale": "Belgede bu denge tam olarak 'Gerekenden fazla iş gücü = Yüksek maliyet. Gerekenden az iş gücü = Hizmetin aksaması' şeklinde açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Personelin hem temizlik hem de teknik servis işlerini yapabilmesini.",
+          "rationale": "Bu, görev tanımıyla ilgilidir, iş gücü sayısı dengesiyle ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Malzeme maliyetleri ile personel maliyetlerini eşitlemeyi.",
+          "rationale": "Optimum denge, personel sayısı ve hizmet kalitesi arasındaki dengeye odaklanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "question": "Aşağıdakilerden hangisi Kat Hizmetleri'nde iş gücü planlamasını zorlaştıran unsurlardan biri DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistik talebin dalgalanması (sezonsallık).",
+          "rationale": "Belgede 'Talebin dalgalanması' zorlaştıran bir unsur olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hizmetin 7 gün (24 saat) sürmesi.",
+          "rationale": "Belgede '7 gün hizmet' zorlaştıran bir unsur olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsan performansının stoklanamaması.",
+          "rationale": "Belgede 'insan performansının stoklanamaması' zorlaştıran bir unsur olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel sayısındaki azalmanın kaliteyi hemen düşürmesi.",
+          "rationale": "Belgede 'personel sayısındaki azalmanın kaliteyi hemen düşürmesi' zorlaştıran bir unsur olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik malzemelerinin standart kalitede olması.",
+          "rationale": "Malzemelerin standart olması planlamayı zorlaştırmaz, aksine kolaylaştırır. Bu, zorlaştıran unsurlar arasında listelenmemiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "question": "İşlerin nasıl, ne zaman ve ne sıklıkta yapılacağını belirleyen ve hedeflenen kalite ile gerçekleşen hizmeti karşılaştırmaya yarayan planlama türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Envanter Planlaması",
+          "rationale": "Envanter planlaması malzemelerle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş Gücü Planlaması",
+          "rationale": "İş gücü planlaması personel sayısı ve saatleriyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Performans ve Verimlilik Standartları Planlaması",
+          "rationale": "Tanım tam olarak 'Performans ve Verimlilik Standartları Planlaması'nı açıklamaktadır: 'İşlerin nasıl... yapılacağını belirleyen... kaliteyi ölçmeye yarayan planlamadır.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Çalışma Planı Oluşturma",
+          "rationale": "Çalışma planı (rutin/periyodik) bu standartlara dayansa da, kaliteyi ölçme tanımı Performans Standartları planlamasına aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bütçe Planlaması",
+          "rationale": "Bütçe, bu standartların mali yönüyle ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "question": "Aşağıdakilerden hangisi Performans Standartlarının belirlendiği 'Detaylı Program İçeriği'nde bulunması gereken bir unsur DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Temizlik adımları (Örn: '1. Eldiven giyin')",
+          "rationale": "Belgede 'Temizlik adımları' içerik unsuru olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik maddesinin kesin ölçümü (Örn: '2 ml dezenfektan ekleyin')",
+          "rationale": "Belgede 'Temizlik maddesinin kesin ölçümü' içerik unsuru olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her adım için zamanlama (Örn: 'Bu adım 1 dakika sürecektir')",
+          "rationale": "Belgede 'Her adım için zamanlama' içerik unsuru olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin maaş bilgisi",
+          "rationale": "Maaş bilgisi, İnsan Kaynakları'nın konusudur ve bir işin nasıl yapılacağını anlatan performans standardı programında yer almaz.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sağlık ve Güvenlik bilgisi",
+          "rationale": "Belgede 'Sağlık ve Güvenlik bilgisi' içerik unsuru olarak listelenmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "question": "Aşağıdakilerden hangisi 'Performans Standartları'nın sağladığı avantajlardan biri DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çalışanı yönlendirir ve hatayı azaltır.",
+          "rationale": "Belgede 'Çalışanı yönlendirir, hatayı azaltır' ifadesi bir avantaj olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Denetim (kontrol) için bir araçtır.",
+          "rationale": "Belgede 'Denetim (kontrol) için araçtır' ifadesi bir avantaj olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maliyet kontrolü sağlar.",
+          "rationale": "Belgede 'Maliyet kontrolü sağlar' (ölçüm vb. sayesinde) ifadesi bir avantaj olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeni personel için eğitim belgesi olarak kullanılır.",
+          "rationale": "Belgede 'Yeni personel için eğitim belgesi olarak kullanılır' ifadesi bir avantaj olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin standartlara uymasını zorunlu kıldığı için motivasyonu düşürür.",
+          "rationale": "Belgede bu bir avantaj olarak listelenmemiştir. Aksine, 'İnsan Unsuru' başlığında gerçek dışı standartların olumsuz etkilerinden bahsedilmiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "question": "Performans standartları planlamasında 'İnsan Unsuru'nun dikkate alınmaması, yani 'gerçek dışı (çok yüksek) standartlar' belirlenmesi neye yol açar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personelin daha hızlı ve verimli çalışarak rekor kırmasına.",
+          "rationale": "Belgede tam tersi, performans düşüşüne yol açacağı belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otelin maliyetlerinin anında düşmesine.",
+          "rationale": "İş kazaları ve memnuniyetsizlik nedeniyle maliyetler artabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışanların yorulmasına, performans düşüşüne ve iş kazalarına.",
+          "rationale": "Belgede 'Gerçek dışı... standartlar; çalışanların yorulmasına, performans düşüşüne, iş kazalarına... yol açar' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Diğer departmanların Kat Hizmetleri'ni örnek almasına.",
+          "rationale": "Olumsuz sonuçlar (memnuniyetsizlik) örnek alınacak bir durum yaratmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir memnuniyetinin anında artmasına.",
+          "rationale": "Belgede '...sonuç olarak konuk memnuniyetsizliğine yol açar' denilmektedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "question": "Gerçek dışı (çok yüksek) performans standartları belirlenmesinin nihai sonucu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuk memnuniyetsizliği",
+          "rationale": "Belgedeki 'İnsan Unsuru' bölümü '...ve sonuç olarak konuk memnuniyetsizliğine yol açar' ifadesiyle bitmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Personel maaşlarında artış",
+          "rationale": "Gerçek dışı standartlar genellikle maaş artışına değil, personel değişimine (turnover) yol açar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otele uluslararası ödüller kazandırması",
+          "rationale": "Memnuniyetsizliğe yol açan bir durum ödül kazandırmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha az temizlik malzemesi tüketimi",
+          "rationale": "Acele ve stres altında yapılan iş, malzeme israfına veya yanlış kullanımına yol açabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknik servis ihtiyacının azalması",
+          "rationale": "Aceleyle yapılan iş ve iş kazaları, teknik servis ihtiyacını artırabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "question": "Turistin konaklama işletmesinden beklediği 'Emniyet' ve 'İtimat' beklentileri arasındaki fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Emniyet fiziksel güvenliği, İtimat ise hizmetin tutarlılığına olan güveni ifade eder.",
+          "rationale": "Bu, iki kavram arasındaki mantıksal ve yaygın bir ayrımdır. Emniyet (Security) can ve mal güvenliği, İtimat (Trust) ise personelin dürüstlüğü ve hizmetin söz verildiği gibi olmasıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Emniyet otelin güvenliğini, İtimat ise personelin güler yüzlü olmasını ifade eder.",
+          "rationale": "Güler yüz ayrı bir beklenti olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emniyet yangın merdivenlerini, İtimat ise temiz çarşafları ifade eder.",
+          "rationale": "Temizlik (ve çarşaflar) ayrı bir beklentidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İkisi arasında hiçbir fark yoktur, eş anlamlıdırlar.",
+          "rationale": "Listede iki ayrı madde olarak yer almaları, farklı anlamlara geldiklerini gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emniyet personelin güvenliğini, İtimat ise misafirin güvenliğini ifade eder.",
+          "rationale": "Her ikisi de misafir beklentisidir ve misafirin kendini güvende hissetmesiyle ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "question": "Konaklama tesisleri 'Geleneksel' ve 'Tamamlayıcı' olarak ikiye ayrılır. Aşağıdakilerden hangisi 'Geleneksel' bir konaklama tesisi örneğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Otel",
+          "rationale": "Otel, 'En yaygın olanıdır' ifadesiyle geleneksel ve temel konaklama tesisi olarak kabul edilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hostel",
+          "rationale": "Hosteller 'Diğer Tesisler' altında listelenmiş olup, genellikle tamamlayıcı veya alternatif olarak kabul edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık turizmi tesisleri (Kaplıca)",
+          "rationale": "Bu tesisler 'Diğer Tesisler' altında, yani tamamlayıcı kategoride listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dağ sığınakları",
+          "rationale": "Bu tesisler 'Diğer Tesisler' altında, yani tamamlayıcı kategoride listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Öğrenci yurtları",
+          "rationale": "Bu tesisler 'Diğer Tesisler' altında, yani tamamlayıcı kategoride listelenmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "question": "Konaklama işletmelerinin 'Ekonomik ve Politik Dalgalanmalardan Çabuk Etkilenmesi' özelliğinin temel nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Otellerin büyük sabit sermaye gerektirmesi.",
+          "rationale": "Bu farklı bir özelliktir. Dalgalanmadan etkilenmenin nedeni talebin yapısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turizm talebinin çok esnek olması.",
+          "rationale": "Belgede 'Turizm talebi çok esnektir' ifadesi bu özelliğin açıklaması olarak verilmiştir. İnsanlar kriz anında ilk olarak seyahatten vazgeçer.",
+          "isCorrect": true
+        },
+        {
+          "text": "İşletmelerin 24/7 faaliyet göstermesi.",
+          "rationale": "Bu, operasyonel bir özelliktir ve dalgalanmadan etkilenmenin ana nedeni değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sektörün insan gücüne dayanması.",
+          "rationale": "Bu, emek-yoğun yapıyı açıklar, talebin esnekliğini değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hizmetin üretildiği yerde tüketilmesi.",
+          "rationale": "Bu, stoklanamama ile ilgili bir özelliktir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "question": "Büyük ölçekli otel şemasında Resepsiyon ve Kat Hizmetleri'nin aynı çatı altında ('Odalar Bölümü Müdürü') toplanması neyi gösterir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bu iki departmanın birbiriyle rekabet içinde olduğunu.",
+          "rationale": "Aynı çatı altında olmaları rekabeti değil, işbirliği zorunluluğunu gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diğer departmanların (Yiyecek-İçecek, Teknik) daha az önemli olduğunu.",
+          "rationale": "Bu, diğerlerinin önemsiz olduğunu değil, bu ikisinin operasyonel olarak çok yakın çalıştığını gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ön Büro ve Kat Hizmetleri'nin ne kadar yakın çalışmak zorunda olduğunu.",
+          "rationale": "Belgede 'Bu, Ön Büro ve Kat Hizmetleri'nin aynı çatı altında ne kadar yakın çalıştığını gösterir' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Resepsiyon personelinin kat temizliği de yapması gerektiğini.",
+          "rationale": "Bu, görev tanımlarının karıştığı anlamına gelmez, sadece yönetsel olarak yakın olduklarını gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat Hizmetleri'nin Resepsiyon'dan daha üst bir konumda olduğunu.",
+          "rationale": "Şemada ikisi de aynı yöneticiye bağlıdır, ast-üst ilişkisi yoktur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "question": "Kat Hizmetleri departmanının 'Misafir Memnuniyeti Sağlar' fonksiyonu açıklanırken hangi unsur vurgulanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafirlere ücretsiz oda servisi sunmak.",
+          "rationale": "Bu, Kat Hizmetleri'nin standart bir görevi değildir ve belgede böyle bir vurgu yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Huzurlu, temiz ve güvenli bir ortam yaratarak misafirin yorgunluğunu unutturmak.",
+          "rationale": "Belgede '...huzurlu, temiz ve güvenli bir ortam yaratarak misafirin yorgunluğunu unutturur' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafirlerin tüm şikayetlerini bizzat çözmek.",
+          "rationale": "Bu, tüm departmanların işbirliğini gerektirir, sadece Kat Hizmetleri'nin değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirlere şehir turları organize etmek.",
+          "rationale": "Bu, Concierge veya Misafir İlişkileri'nin görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda fiyatlarında indirim yapmak.",
+          "rationale": "Bu, Satış veya Ön Büro'nun yetkisindedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "question": "Konaklama işletmelerinin 'Hizmet, Üretildiği Yerde Tüketilir' özelliğine en iyi örnek nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bir misafirin otelden sabun alıp evine götürmesi.",
+          "rationale": "Bu bir ürünün (sabun) transferidir, hizmetin (konaklama) değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir misafirin otel odasında kalması ve bu deneyimi (konaklama hizmeti) evine götürememesi.",
+          "rationale": "Konaklama hizmeti (oda deneyimi) sadece oteldeyken 'tüketilir', sonrasında anı olarak kalır. Hizmetin kendisi stoklanamaz veya taşınamaz.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otelin, odalarını internet üzerinden satması.",
+          "rationale": "Bu, satış kanalıdır; hizmetin tüketim yeriyle ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otelin çamaşırhanesinde havluların yıkanması.",
+          "rationale": "Bu, hizmet üretimi için yapılan bir ara işlemdir, misafirin hizmeti tüketmesi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda servisi ile yemeğin odaya getirilmesi.",
+          "rationale": "Yemek odada tüketilir, bu da (Y&İ hizmeti) üretildiği yerde (otel) tüketilir, ancak en temel örnek konaklama hizmetinin kendisidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "question": "Aşağıdaki alanlardan hangisi Kat Hizmetleri'nin sorumluluğunda olup 'Genel Alanlar (Public Areas)' olarak sınıflandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personel soyunma odaları",
+          "rationale": "Bu, 'Personel Alanları' (Back of House) kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel Genel Müdürü'nün ofisi",
+          "rationale": "Bu, 'Operasyonel Alanlar' (Ofisler) kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Balo salonu",
+          "rationale": "Balo salonu, tüm misafirlerin kullanımına açık bir 'Genel Alan'dır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oda servisi koridoru (Servis koridoru)",
+          "rationale": "Bu, 'Operasyonel Alanlar' kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Malzeme deposu",
+          "rationale": "Belgede 'depolar hariç' denilerek Kat Hizmetleri'nin sorumluluğu dışında bırakılmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "question": "Kat Hizmetleri'nin restoran ve barların temizliğinden sorumlu olması, hangi departman ile koordineli çalışmasını gerektirir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Teknik Servis",
+          "rationale": "Restorandaki arızalar için Teknik Servis ile görüşülür ancak temizlik koordinasyonu Y&İ iledir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yiyecek-İçecek bölümü",
+          "rationale": "Belgede restoranlar listelenirken '(Yiyecek-İçecek bölümü ile koordineli)' şeklinde bir not düşülmüştür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ön Büro",
+          "rationale": "Ön Büro oda durumları için kritiktir, restoran temizliği için değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenlik",
+          "rationale": "Güvenlik, restoranın güvenliği ile ilgilenir, temizlik koordinasyonu ile değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satış ve Pazarlama",
+          "rationale": "Satış, restoranın pazarlamasıyla ilgilenir, günlük temizlik koordinasyonu ile değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "question": "Performans Standartları Planlaması'nın temel amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personelin mümkün olduğunca hızlı çalışmasını sağlamak.",
+          "rationale": "Amaç hız değil, belirlenen kalitede hizmet sunmaktır. Sadece hız, kaliteyi düşürebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hedeflenen kalite ile gerçekleşen hizmeti karşılaştırarak kaliteyi ölçmek.",
+          "rationale": "Belgede 'Amaç, hedeflenen kalite ile gerçekleşen hizmeti karşılaştırmaktır' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Temizlik malzemelerinden maksimum tasarrufu sağlamak.",
+          "rationale": "Bu, 'Verimlilik' ilkesinin bir parçasıdır ancak standartların ana amacı kaliteyi tanımlamak ve ölçmektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş gücü maliyetlerini en aza indirmek.",
+          "rationale": "Bu, İş Gücü Planlaması'nın bir hedefidir. Standartlar, o iş gücünün 'ne' yapacağını tanımlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diğer otellerle rekabet edebilmek için fiyat belirlemek.",
+          "rationale": "Bu, Satış ve Gelir Yönetimi'nin konusudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "question": "Kat Hizmetleri'nde 'Çalışma Planı' oluşturulurken 'Rutin İşler' ve 'Periyodik İşler' ayrımının yapılmasının temel nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personelin sıkılmasını engellemek için iş değişikliği yapmak.",
+          "rationale": "Bu bir yan etki olabilir ancak temel neden kaynakların doğru planlanmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hangi işin ne sıklıkta yapılması gerektiğini ve buna göre kaynak (personel, zaman, malzeme) ayırmayı planlamak.",
+          "rationale": "Rutin işler günlük iş gücü planına, periyodik işler ise daha uzun vadeli planlara (örn. gece vardiyası, düşük sezon) dahil edilir. Bu ayrım, kaynak planlaması için kritiktir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Periyodik işlerin daha az önemli olduğunu göstermek.",
+          "rationale": "Periyodik işler (cila, derin temizlik) daha az önemli değil, sadece daha az sıklıkta yapılması gereken işlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rutin işleri acemi personele, periyodik işleri deneyimli personele vermek.",
+          "rationale": "Bu bir iş dağılımı tercihi olabilir ancak planlamadaki temel ayrım nedeni bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirlerden hangi iş için ekstra ücret alınacağını belirlemek.",
+          "rationale": "Bu işler (temizlik, cila) genellikle oda fiyatına dahildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "question": "Aşağıdakilerden hangisi Kat Hizmetleri'nin 'Operasyonel Alanlar' sorumluluğuna bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafir odasının banyosunun temizliği",
+          "rationale": "Bu, 'Misafir Alanları' sorumluluğudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lobideki ortak tuvaletlerin temizliği",
+          "rationale": "Bu, 'Genel Alanlar (Public Areas)' sorumluluğudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel soyunma odasının temizliği",
+          "rationale": "Bu, 'Personel Alanları' sorumluluğudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel ofislerinin (örn: Muhasebe Ofisi) temizliği",
+          "rationale": "Belgede 'Ofisler', 'Operasyonel Alanlar' kategorisi altında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otel restoranının mutfağının temizliği",
+          "rationale": "Belgede 'mutfak... hariç' denilerek bu alan sorumluluk dışı bırakılmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "question": "Aşağıdakilerden hangisi 'Dönüşümlü Malzeme' (Tekrar Kullanılan) değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Havlu",
+          "rationale": "Havlu, yıkanıp tekrar kullanılır; dönüşümlü malzemedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çarşaf",
+          "rationale": "Çarşaf, yıkanıp tekrar kullanılır; dönüşümlü malzemedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bornoz",
+          "rationale": "Bornoz, yıkanıp tekrar kullanılır; dönüşümlü malzemedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yatak örtüsü",
+          "rationale": "Yatak örtüsü, yıkanıp tekrar kullanılır; dönüşümlü malzemedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalem",
+          "rationale": "Kalem, misafir tarafından kullanılır veya alınır, tüketilir; 'Dönüşümsüz Malzeme' olarak listelenmiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "question": "Aşağıdakilerden hangisi 'Dönüşümsüz Malzeme' (Tüketilen) değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Şampuan",
+          "rationale": "Şampuan tüketilir; dönüşümsüz malzemedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sabun",
+          "rationale": "Sabun tüketilir; dönüşümsüz malzemedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kibrit",
+          "rationale": "Kibrit tüketilir; dönüşümsüz malzemedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yastık kılıfı",
+          "rationale": "Yastık kılıfı yıkanıp tekrar kullanılır; 'Dönüşümlü Malzeme'dir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tuvalet kâğıdı",
+          "rationale": "Tuvalet kâğıdı tüketilir; dönüşümsüz malzemedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "question": "Dönüşümlü malzemelerin (örn: çarşaf) miktarını belirlerken aşağıdakilerden hangisi dikkate alınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafirin milliyeti",
+          "rationale": "Misafirin milliyeti, çarşaf miktarını belirlemede bir kriter değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırhane yıkama süresi ve otel doluluk oranı",
+          "rationale": "Belgede '(Miktarı belirlerken çamaşırhane yıkama süresi, doluluk oranı vb. dikkate alınır)' notu bulunmaktadır. Yıkamada olan, kirlide olan, odada olan ve depoda olan miktar (par) hesaplanmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Odanın kaçıncı katta olduğu",
+          "rationale": "Odanın katı, çarşaf miktarını etkilemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şampuan ve sabun stok miktarı",
+          "rationale": "Bu, dönüşümsüz malzeme hesabıdır; dönüşümlü malzeme hesabını etkilemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otelin kaç yıldızlı olduğu",
+          "rationale": "Yıldız sayısı kaliteyi etkiler ancak miktarı belirleyen temel faktörler yıkama süresi ve doluluktur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "question": "İş gücü planlamasını zorlaştıran 'insan performansının stoklanamaması' ifadesi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personelin yorgunsa performans gösteremeyeceği.",
+          "rationale": "Bu, ifadenin dolaylı bir sonucudur ancak tam tanımı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir personelin boş olduğu bir saatteki iş gücünün, yoğun olduğu bir saate aktarılamaması.",
+          "rationale": "Tıpkı satılamayan oda gibi, personelin o anki emeği de 'stoklanamaz'. Öğlen boş oturan bir personel, akşam yoğunluğunda 'öğlen boş oturmuştum' diye iki katı hızlı çalışamaz. O anki emek (performans) boşa gitmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Personelin performansının ölçülemeyeceği.",
+          "rationale": "Performans standartları ile performans ölçülebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin yaptığı işi depoya kaldıramaması.",
+          "rationale": "Bu, ifadenin çok yüzeysel bir yorumudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm personelin aynı performansı gösteremeyeceği.",
+          "rationale": "Bu doğru bir tespittir ancak 'stoklanamama'nın anlamı bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "question": "Performans standartlarının 'denetim (kontrol) için araç' olması ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personelin sürekli kameralarla izlenmesi gerektiği.",
+          "rationale": "Denetim, işin standarda uygunluğunun kontrolüdür, sürekli izleme değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yöneticinin (Şefin), personelin işi doğru yapıp yapmadığını (örn: 2 ml dezenfektan kullandı mı, klozet fırçalandı mı?) kontrol edebilmesi için bir rehber sağlaması.",
+          "rationale": "Standartlar, 'olması gerekeni' tanımlar. Denetçi de 'olan' ile 'olması gerekeni' karşılaştırır. Bu nedenle standartlar denetim için bir araçtır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Personelin birbirini şikayet etmesi gerektiği.",
+          "rationale": "Bu, sağlıklı bir denetim yöntemi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm personelin aynı maaşı alması gerektiği.",
+          "rationale": "Bu, denetimle ilgili bir konu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirlerin temizliği denetlemesi için anketler düzenlenmesi.",
+          "rationale": "Misafir memnuniyeti bir denetim aracıdır ancak standartlar, öncelikle iç denetim (yöneticinin denetimi) için bir araçtır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "question": "Kat Hizmetleri'nin, otelin 'belkemiği' olmasına rağmen 'doğrudan gelir getirmez' denmesinin nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kat Hizmetleri departmanının bütçesinin olmaması.",
+          "rationale": "Kat Hizmetleri'nin (malzeme, personel maaşı) bütçesi vardır, bu bir gider bütçesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirin odaya ödediği ücretin doğrudan Ön Büro'nun kasasına girmesi ve 'oda geliri' olarak görünmesi.",
+          "rationale": "Kat Hizmetleri, odayı 'satılabilir' hale getirir (dolaylı katkı), ancak satış işlemini ve gelir kaydını (doğrudan gelir) Ön Büro ve Muhasebe yapar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kat Hizmetleri personelinin maaşlarının çok düşük olması.",
+          "rationale": "Maaş seviyesinin, departmanın gelir getirip getirmemesiyle bir ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm gelirin Yiyecek-İçecek departmanından gelmesi.",
+          "rationale": "Otelin temel geliri oda satışıdır, ancak bu gelir Kat Hizmetleri'ne değil, 'Odalar Bölümü'ne yazılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat Hizmetleri'nin sadece bir maliyet merkezi olması.",
+          "rationale": "Bu doğru olsa da, 'doğrudan gelir getirmez'in nedeni gelirin Ön Büro/Muhasebe tarafından kaydedilmesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "question": "Aşağıdaki konaklama tesislerinden hangisinin ana hedef kitlesi arabayla seyahat edenler ve kısa süreli konaklama yapanlardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tatil Köyü",
+          "rationale": "Tatil köyleri uzun süreli konaklamalar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apart Otel",
+          "rationale": "Apart oteller mutfak donanımı sunar ve daha çok kendi yemeğini yapmak isteyenlere yöneliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pansiyon",
+          "rationale": "Pansiyonlar 'ev atmosferi' arayanlara yöneliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Motel",
+          "rationale": "Belgede 'Genellikle arabayla seyahat edenlerin kısa süreli konaklamaları içindir' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oberj",
+          "rationale": "Oberjler kış sporları veya doğa arayanlara yöneliktir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "question": "Performans standartlarının 'Yeni personel için eğitim belgesi olarak kullanılır' avantajı ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yeni personelin bu belgeleri okuyarak sınav olması gerektiği.",
+          "rationale": "Bu bir sınav belgesi değil, işi nasıl yapacağını gösteren bir rehberdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşe yeni başlayan birine, o işin (örn: banyo temizliği) nasıl, hangi adımlarla ve hangi malzemeyle yapılacağını öğretmek için bir rehber olması.",
+          "rationale": "Detaylı program içeriği (adım 1, adım 2, kullanılacak malzeme vb.) tam olarak bir eğitim rehberidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yeni personelin sadece bu belgeleri okuyarak, usta bir personel kadar hızlı çalışması gerektiği.",
+          "rationale": "Bu, gerçek dışı bir beklenti olur. Belge, hızı değil, 'doğru' yöntemi öğretir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeni personelin eski personeli denetlemesi için kullanıldığı.",
+          "rationale": "Eğitim belgesi, yeni personelin 'öğrenmesi' içindir, denetlemesi için değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bu belgelerin personelin özlük dosyasında saklanması gerektiği.",
+          "rationale": "Bu bir eğitim materyalidir, özlük dosyası belgesi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "question": "Turizm tanımında yer alan 'Kazanç sağlama amacı dışında' ifadesi, aşağıdakilerden hangisini turizm faaliyeti saymamıza engel olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bir iş adamının fuara katılmak için başka şehre gitmesi.",
+          "rationale": "Bu 'iş' nedeniyle yapılan bir seyahattir ve turist tanımında yer alır. Kişi, seyahatten değil, asıl işinden kazanç sağlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir kişinin dinlenmek için tatile gitmesi.",
+          "rationale": "Bu 'dinlenme' amaçlı bir turizm faaliyetidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir kişinin başka bir şehre gidip orada kalıcı bir işe başlaması ve yerleşmesi.",
+          "rationale": "Bu, hem 'kazanç sağlama' hem de 'devamlı yerleşme' amacı taşıdığı için turizm tanımının dışındadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bir öğrencinin merak ettiği bir müzeyi ziyaret etmesi.",
+          "rationale": "Bu 'merak' amaçlı bir turizm faaliyetidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir hastanın tedavi olmak için kaplıca tesisine gitmesi.",
+          "rationale": "Bu 'sağlık' amaçlı bir turizm faaliyetidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "question": "Turistin temel beklentilerinden olan 'Güler Yüz', Kat Hizmetleri departmanı için ne ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kat hizmetleri personelinin misafirle asla karşılaşmaması gerektiğini.",
+          "rationale": "'Sessizlik' ilkesi olsa da, karşılaşma kaçınılmazdır ve bu durumda güler yüz önemlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin koridorda misafirle karşılaştığında selam vermesi ve güler yüzlü davranması gerektiğini.",
+          "rationale": "Güler yüz, tüm otel personelinin (Ön Büro, Restoran, Kat Hizmetleri) misafir memnuniyeti için göstermesi gereken bir davranıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece Ön Büro personelinin güler yüzlü olması yeterlidir.",
+          "rationale": "Misafir, otelde karşılaştığı herkesten (temizlik personeli dahil) güler yüz bekler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin işini yaparken sürekli şaka yapması gerektiğini.",
+          "rationale": "Güler yüz, profesyonel bir nezaket ifadesidir, şaka yapmak değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin mutsuz olsa bile gülmek zorunda olduğunu.",
+          "rationale": "Bu, hizmet sektörünün bir gerekliliğidir ancak 'ifade ettiği anlam' misafire karşı olan nezakettir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "question": "Aşağıdakilerden hangisi bir 'Pansiyon' işletmesinin özelliklerinden biri olarak belgede belirtilmemiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Esas fonksiyonunun konaklama olması.",
+          "rationale": "Belgede 'Esas fonksiyonu konaklamadır' denilmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genellikle küçük olması.",
+          "rationale": "Belgede 'Genellikle küçük, aile işletmesi...' denilmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Ev atmosferi' hakim olması.",
+          "rationale": "Belgede '...\"ev atmosferi\" hakimdir' denilmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amatörce (evin fazla odasını kiralamak) yapılabilmesi.",
+          "rationale": "Belgede '...amatörce (evin fazla odasını kiralamak) de yapılabilir' denilmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odalarda mutlaka mutfak bulunması.",
+          "rationale": "Bu, 'Apart Otel'in özelliğidir. Pansiyon için böyle bir şart belirtilmemiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "question": "Konaklama işletmelerinin 'Ekip Çalışmasını Gerektirmesi' özelliği neden kritiktir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çünkü tüm personel aynı anda işe başlar.",
+          "rationale": "Vardiya sistemi vardır, herkes aynı anda başlamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü bir departmandaki aksaklığın (örn: odanın hazır olmaması) tüm işletmeyi etkilemesi.",
+          "rationale": "Belgede 'Bir departmandaki aksaklık... tüm işletmeyi etkiler' ifadesiyle bu özellik açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çünkü personel sendikalı olmak zorundadır.",
+          "rationale": "Ekip çalışması ile sendikalı olma arasında doğrudan bir bağ yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü otellerin büyük sermayeye sahip olması.",
+          "rationale": "Sermaye büyüklüğü, ekip çalışmasını gerektiren bir neden değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü tüm personelin aynı dili konuşması gerekir.",
+          "rationale": "Bu, iletişimi kolaylaştırır ancak ekip çalışmasının kritik olmasının 'nedeni' bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "question": "Kat Hizmetleri'nin, otel yatırımlarını (demirbaşları) koruma fonksiyonu, departmanın hangi ilkesiyle doğrudan ilişkilidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sessizlik İlkesi",
+          "rationale": "Sessizlik, misafiri rahatsız etmemekle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Süreklilik İlkesi",
+          "rationale": "Demirbaşların korunması için 'sürekli' ve 'periyodik' bakım (temizlik) şarttır. Bu, en ilişkili ilkedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İletişim İlkesi",
+          "rationale": "Arızalı bir demirbaşın bildirilmesi 'İletişim' ile ilgilidir ancak korunması 'Süreklilik' (bakım) gerektirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğru Zamanlama İlkesi",
+          "rationale": "Bakımın ne zaman yapılacağıyla ilgilidir, neden yapıldığıyla (koruma) değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalite İlkesi",
+          "rationale": "Kaliteli bakım korumayı sağlar ancak 'Süreklilik' (planlı bakım) korumanın temelini oluşturur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "question": "Aşağıdakilerden hangisi Kat Hizmetleri'nin 'Personel Alanları (Back of House)' sorumluluk alanına girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Lobi",
+          "rationale": "Lobi, 'Misafir Alanları'ndandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüzme havuzu çevresi",
+          "rationale": "Yüzme havuzu, 'Genel Alanlar'dandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel dinlenme alanları",
+          "rationale": "Belgede 'Personel soyunma odaları ve dinlenme alanları' bu kategoride listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çamaşırhane",
+          "rationale": "Çamaşırhane, 'Operasyonel Alanlar' kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir odası koridoru",
+          "rationale": "Koridor, 'Misafir Alanları'ndandır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "question": "Kat Hizmetleri planlamasında, 'Periyodik İşler'e neden ihtiyaç duyulur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çünkü rutin (günlük) temizlik, otelin derinlemesine temizliği ve bakımı için yeterli değildir.",
+          "rationale": "Rutin işler 'temizliği korumaya' yöneliktir. Cila, halı yıkama gibi 'Periyodik İşler' ise daha derinlemesine bakım ve temizlik sağlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çünkü personelin boş zamanı çoktur ve bu zamanı değerlendirmek gerekir.",
+          "rationale": "Turizm yoğun bir sektördür; bu işler personelin boş zamanı olduğu için değil, otelin ihtiyacı olduğu için yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü bu işler sadece düşük sezonda yapılabilir.",
+          "rationale": "Düşük sezonda yapılması 'Doğru Zamanlama' ile ilgilidir, ancak 'neden ihtiyaç duyulduğu'nun cevabı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü bu işleri sadece dışarıdan gelen firmalar yapabilir.",
+          "rationale": "Bazı işler (cam silme) dışarıya verilebilir ancak (cila, duvar silme) otel personeli tarafından da yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü 'Rutin İşler'den daha ucuz maliyetlidirler.",
+          "rationale": "Derin temizlik ve cila gibi işler, hem malzeme hem de iş gücü (zaman) açısından daha maliyetlidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "question": "Konaklama işletmelerinin 'Dinamik Bir Yapıya Sahiptir' özelliği ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İşletmenin sürekli olarak fiziksel hareket (deprem vb.) içinde olması.",
+          "rationale": "Bu, kelimenin fiziksel anlamıdır; sektör için anlamı farklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel değişim hızının çok yüksek olması.",
+          "rationale": "Bu, dinamik yapının bir sonucu olabilir ancak tanımı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknolojiye ve tüketici beklentilerine hızla adapte olmak zorunda olması.",
+          "rationale": "Belgedeki tanım tam olarak budur: 'Teknolojiye ve tüketici beklentilerine hızla adapte olmak zorundadır.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece genç ve enerjik personelle çalışılması gerektiği.",
+          "rationale": "Bu, 'dinamik' kelimesinin farklı bir kullanımıdır; sektörün özelliği bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otelin 24 saat açık olması.",
+          "rationale": "Bu, '24/7/365 Faaliyet Gösterir' özelliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "question": "Aşağıdakilerden hangisi Kat Hizmetleri'nin 'İletişim İlkesi' çerçevesinde Ön Büro'ya bildirmesi gereken en kritik bilgilerden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Odanın temiz, kirli veya arızalı (OOO, OOI) olma durumu.",
+          "rationale": "Ön Büro, bu bilgi olmadan odayı satamaz. Bu, iki departman arasındaki en kritik iletişimdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Temizlik personelinin vardiya değişim saati.",
+          "rationale": "Bu, departmanın iç planlamasıdır; Ön Büro için kritik değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırhanede kaç adet havlu yıkandığı.",
+          "rationale": "Bu, envanter yönetimidir; Ön Büro için kritik değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lobideki çiçeklerin ne zaman sulandığı.",
+          "rationale": "Bu, genel alan bakımıdır; Ön Büro'nun oda satışını etkileyen kritik bir bilgi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel yemekhanesindeki günün menüsü.",
+          "rationale": "Bu, personel alanlarıyla ilgili bir bilgidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "question": "Kat Hizmetleri'nin 'Hijyen Sağlama İlkesi' hangi alanlarda özellikle kritik öneme sahiptir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece personel alanlarında",
+          "rationale": "Hijyen her yerde önemlidir, ancak misafir alanları daha kritiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece ofislerde",
+          "rationale": "Ofisler, hijyenin en kritik olduğu yerler değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece depolarda",
+          "rationale": "Depolar Kat Hizmetleri'nin sorumluluğunda değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Özellikle banyo, tuvalet, SPA, havuz gibi ıslak ve ortak kullanım alanlarında",
+          "rationale": "Bu alanlar, mikrop, bakteri ve virüs üremesi için en elverişli yerlerdir, bu nedenle hijyen (dezenfeksiyon) bu alanlarda en kritik öneme sahiptir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece servis merdivenlerinde",
+          "rationale": "Bu alanların da temiz olması gerekir ancak kritik hijyen önceliği banyo/tuvalet gibi yerlerdedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "question": "Bir otelin 'Kat Hizmetleri departmanı yetersizse, en lüks otelin bile değeri kalmaz' ifadesi neyi vurgulamaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Lüks otellerin kat hizmetleri personeline daha çok maaş vermesi gerektiğini.",
+          "rationale": "Bu bir sonuç olabilir ancak ifadenin vurgusu bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir memnuniyetinde ve otel algısında 'temizlik' faktörünün, 'lüks' faktöründen bile daha temel ve önemli olduğunu.",
+          "rationale": "Temel turist beklentilerinde (Temizlik, Rahatlık, Emniyet) 'Lüks' yer almaz. Kirli bir lüks oda, temiz bir standart odadan daha kötü bir deneyim yaratır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lüks otellerin daha kolay kirlendiğini.",
+          "rationale": "İfadenin vurgusu bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat Hizmetleri personelinin lüks eşyaları temizleyemediğini.",
+          "rationale": "Bu, personelin eğitimsizliği olur; ifadenin vurgusu departmanın 'yetersiz' olmasının genel sonucudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otellerin lükse yatırım yapmaması gerektiğini.",
+          "rationale": "İfade, lükse yatırım yapılmamasını değil, lüks yatırımın 'temizlik' ile desteklenmesi gerektiğini vurgular.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "question": "Aşağıdakilerden hangisi Kat Hizmetleri'nin 'Sessizlik İlkesi'ni ihlal eden bir davranışa örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personelin koridorda misafirle karşılaştığında 'Günaydın' demesi.",
+          "rationale": "Bu, güler yüz ve nezaket gereğidir, sessizlik ilkesini ihlal etmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirin 'check-out' yaptığı bir odanın öğlen saatlerinde elektrik süpürgesi ile temizlenmesi.",
+          "rationale": "Misafir ayrılmıştır ve bu normal bir temizlik faaliyetidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin sabah saat 08:00'de, misafirlerin uyuyor olabileceği bir katta yüksek sesle konuşarak veya telsizle haberleşmesi.",
+          "rationale": "Bu, '...misafirleri rahatsız etmeyecek şekilde ve sessizce yürütülmelidir' ilkesini doğrudan ihlal eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gece nezaretçisinin gece lobide cila makinesi çalıştırması.",
+          "rationale": "Bu, gürültülü bir iştir ancak misafirlerin en az olduğu (ve odalarında olduğu) 'Doğru Zamanlama' ilkesine uygundur, sessizlik ilkesini ihlal etmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arızalı bir ekipmanın Teknik Servis'e bildirilmesi.",
+          "rationale": "Bu, 'İletişim İlkesi'nin bir gereğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "question": "Kat Hizmetleri'nin 'Kalite İlkesi'ni sağlamak için temel aldığı referans nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personelin kişisel temizlik anlayışı.",
+          "rationale": "Kalite, kişisel görüşlere değil, objektif standartlara dayanmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletmenin belirlediği 'hizmet kalitesi standartları' ve misafir beklentileri.",
+          "rationale": "Belgedeki tanım tam olarak budur: '...misafir beklentilerine ve işletmenin belirlediği \"hizmet kalitesi standartları\"na uygun olmalıdır.'",
+          "isCorrect": true
+        },
+        {
+          "text": "En ucuz temizlik malzemelerini kullanma zorunluluğu.",
+          "rationale": "Bu, 'Verimlilik' ilkesiyle karıştırılabilir ancak kaliteyi düşürebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diğer otellerin ne yaptığından haberdar olmamak.",
+          "rationale": "Rekabet analizi önemlidir ancak kaliteyi belirleyen temel referans kendi standartlarınızdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece misafir şikayetlerine odaklanmak.",
+          "rationale": "Kalite, şikayet gelmeden önce, proaktif olarak standartları uygulamaktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "question": "Aşağıdaki ifadelerden hangisi 'Hostel' tipi konaklama tesisini en iyi tanımlar (Belgede 'Diğer Tesisler' altında geçse de)?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kendi yemeğini yapabileceğin mutfaklı lüks daireler.",
+          "rationale": "Bu, Apart Otel tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genellikle gençlere ve bütçeli gezginlere yönelik, paylaşımlı odalar (ranzalı) sunan tesisler.",
+          "rationale": "Hostel'in genel kabul görmüş tanımı budur ve belgedeki 'Diğer Tesisler' kategorisine uyar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Karayolu üzerinde arabalı misafirlere yönelik tesisler.",
+          "rationale": "Bu, Motel tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğal çevre ile bütünleşik, kış sporlarına yönelik tesisler.",
+          "rationale": "Bu, Oberj tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Ev atmosferi' sunan küçük aile işletmeleri.",
+          "rationale": "Bu, Pansiyon tanımıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "question": "Kat Hizmetleri'nin, Teknik Servis ile 'İletişim İlkesi' çerçevesinde çalışmasına en iyi örnek nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oda temizliği bittikten sonra Ön Büro'ya 'oda temiz' bilgisi vermek.",
+          "rationale": "Bu, Ön Büro ile olan iletişimdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik sırasında odada (örn: duş başlığı) fark edilen bir arızayı derhal Teknik Servise bildirmek.",
+          "rationale": "Bu, Kat Hizmetleri'nin (gözü ve kulağı) Teknik Servis için de çalışmasını gösteren tipik bir iletişim örneğidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çamaşırhanedeki havlu stoğunu saymak.",
+          "rationale": "Bu, envanter yönetimidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirden gelen ekstra havlu isteğini karşılamak.",
+          "rationale": "Bu, departmanın kendi içindeki bir operasyonudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel dinlenme odasını temizlemek.",
+          "rationale": "Bu, personel alanı sorumluluğudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "question": "Bir konaklama işletmesinin 'Büyük Sabit Sermaye Gerektirmesi' özelliği ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çok fazla personele maaş ödenmesi gerektiği.",
+          "rationale": "Bu, 'İnsan Gücüne Dayanması' ve operasyonel giderlerle ilgilidir. Sabit sermaye, bina ve demirbaş maliyetidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bina, arazi, dekorasyon ve demirbaşlar için yüksek bir başlangıç yatırım maliyeti olması.",
+          "rationale": "Sabit sermaye, otelin fiziksel varlıklarıdır (bina, yatak, mobilya vb.) ve bunlar için yüksek bir ilk yatırım (sermaye) gerekir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otelin sürekli ekonomik krizlerden etkilenmesi.",
+          "rationale": "Bu, 'Ekonomik Dalgalanmalardan Etkilenme' özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece nakit para ile çalışılması gerektiği.",
+          "rationale": "Sermaye, sadece nakit para demek değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda fiyatlarının çok yüksek olması gerektiği.",
+          "rationale": "Yüksek yatırım maliyeti yüksek fiyatları gerektirebilir ancak 'özelliğin tanımı' bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "question": "Performans Standartları'nın 'Maliyet kontrolü sağlar' avantajı nasıl gerçekleşir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personelin daha az maaş almasını sağlayarak.",
+          "rationale": "Standartlar maaşı değil, işin yapılışını belirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik maddelerinin (Örn: '2 ml dezenfektan') ve harcanan zamanın (Örn: '1 dakika') standartlaşması, israfı önleyerek.",
+          "rationale": "Standartlar, malzeme ve zamanın 'gerektiği kadar' kullanılmasını sağlayarak (ne az, ne çok) israfı ve gereksiz maliyeti önler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otele daha fazla misafir gelmesini sağlayarak.",
+          "rationale": "Standartlar kaliteyi artırarak dolaylı yoldan misafir sayısını artırabilir ancak 'maliyet kontrolü' avantajı israfla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece en pahalı malzemelerin kullanılmasını zorunlu kılarak.",
+          "rationale": "Bu, maliyetleri artırır. Standartlar, 'doğru' malzemeyi 'doğru ölçüde' kullanmayı belirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin iş kazası geçirmesini önleyerek.",
+          "rationale": "Bu (tazminat vb.) dolaylı bir maliyet kontrolüdür ancak asıl avantaj malzeme ve zaman israfını önlemektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 91,
+      "question": "Bir otelin 'Kat Hizmetleri' departmanının varlığı, turistin hangi temel beklentisini karşılamaya yöneliktir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Temizlik",
+          "rationale": "Kat Hizmetleri'nin ana fonksiyonu temizlik, düzen ve bakımdır. Bu da turistin 'Temizlik' (en önemlilerinden biri) beklentisini doğrudan karşılar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uygun Fiyat",
+          "rationale": "Fiyatlandırma, Kat Hizmetleri'nin değil, Satış ve Yönetim'in görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece Emniyet (Güvenlik)",
+          "rationale": "Kat Hizmetleri (odanın güvenli olması) buna katkı sağlar ancak asıl beklenti Güvenlik departmanındadır ve Kat Hizmetleri'nin ana işi 'Temizlik'tir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güler Yüz",
+          "rationale": "Güler yüz tüm personelden beklenir, ancak Kat Hizmetleri'nin 'varlık nedeni' bu değildir, 'temizlik'tir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İyi Hizmet (Genel)",
+          "rationale": "Bu çok genel bir ifadedir. Kat Hizmetleri'nin sunduğu 'iyi hizmetin' spesifik adı 'Temizlik'tir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 92,
+      "question": "Aşağıdaki işlerden hangisi 'Doğru Zamanlama İlkesi'ne göre, misafirlerin en yoğun olduğu saatlerde (örn: kahvaltı çıkışı lobi) yapılması en sakıncalı olan 'Periyodik İş'tir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Lobideki çiçeklerin sulanması",
+          "rationale": "Bu, sessiz ve hızlı bir iştir, büyük bir rahatsızlık vermez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lobi tuvaletinin kontrol edilmesi (Rutin İş)",
+          "rationale": "Bu, yoğunlukta daha sık yapılması gereken rutin bir iştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lobinin zeminine cila makinesi ile cila atılması",
+          "rationale": "Bu iş hem gürültülü, hem alanı kısıtlayıcı, hem de ıslak zemin tehlikesi yaratır. 'Doğru Zamanlama' ilkesine göre bu işin misafirlerin en az olduğu (örn: gece) saatlerde yapılması gerekir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lobideki sehpaların tozunun alınması (Rutin İş)",
+          "rationale": "Bu, yoğunluğu korumaya yönelik rutin bir iştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir asansörünün içinin silinmesi",
+          "rationale": "Bu, hızlıca yapılabilir ve alanı tamamen kapatmaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 93,
+      "question": "Pansiyonların 'amatörce (evin fazla odasını kiralamak)' şeklinde de yapılabilmesi, hangi konaklama türünden farklılaştığını gösterir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kamping",
+          "rationale": "Kamping de profesyonel olmayan şekillerde (arazi kiralama) yapılabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel",
+          "rationale": "Oteller, 'büyük sabit sermaye' ve profesyonel bir organizasyon (departmanlar, müdürler) gerektiren işletmelerdir. 'Evin fazla odasını' otele dönüştüremezsiniz.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hostel",
+          "rationale": "Hosteller de bazen küçük ve amatör bir yapıda olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kiralık daireler",
+          "rationale": "Kiralık daireler (Airbnb vb.) de amatörce yapılabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirhaneler",
+          "rationale": "Misafirhaneler de genellikle basit yapılıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 94,
+      "question": "Bir turistin, ziyaret ettiği yerde 23 saat kalıp geceleme yapmadan ayrılması durumunda, turist tanımına göre eksik olan nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Devamlı ikametgâhından ayrılmış olması.",
+          "rationale": "Bu şartı yerine getirmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kazanç amacı gütmemesi.",
+          "rationale": "Bu şartı yerine getirmiş olabilir, eksik olan bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "En az 24 saat kalması ve geceleme yapması.",
+          "rationale": "Belgedeki tanım 'en az 24 saat kalan' ve 'geceleme yapan' şartlarını içerir. Bu kişi her ikisini de sağlamamıştır (Günübirlikçi).",
+          "isCorrect": true
+        },
+        {
+          "text": "Tekrar devamlı ikametgâhına dönmesi.",
+          "rationale": "Dönecektir, ancak bu onu 'turist' yapmaya yetmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık veya spor amaçlı seyahat etmesi.",
+          "rationale": "Amaç, tanım için bir kısıtlama değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 95,
+      "question": "Kat Hizmetleri'nin 'Süreklilik İlkesi' ile 'Rutin İşler' arasındaki ilişki nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hiçbir ilişkisi yoktur.",
+          "rationale": "Tam tersine, çok yakın bir ilişkileri vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rutin işler, 'Süreklilik İlkesi'nin günlük uygulamasıdır.",
+          "rationale": "'Süreklilik İlkesi', temizlik ve bakımın 'sürekli' yapılmasını gerektirir. 'Rutin İşler' (günlük yapılan) bu sürekliliğin temelini oluşturur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Süreklilik ilkesi sadece periyodik işler için geçerlidir.",
+          "rationale": "Süreklilik, hem günlük (rutin) hem de periyodik (aylık vb.) işlerin sistematik takibini kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rutin işler sürekliliği bozar.",
+          "rationale": "Rutin işler sürekliliği sağlar, bozmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Süreklilik, sadece gece nezaretçisinin görevidir.",
+          "rationale": "Süreklilik, 24 saati kapsayan ve tüm departmanı ilgilendiren bir ilkedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 96,
+      "question": "Otel işletmelerinin 'İnsan Gücüne Dayanması' (Emek-yoğun) özelliği, aşağıdaki departmanların hangisinde en belirgindir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Satış ve Pazarlama",
+          "rationale": "Bu departman da insana dayalıdır ancak otomasyon (dijital pazarlama, online rezervasyon) kullanımı daha yoğundur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Muhasebe",
+          "rationale": "Muhasebe, yazılımlar sayesinde otomasyona en açık departmanlardan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat Hizmetleri",
+          "rationale": "Oda temizliği, yatak yapma gibi işler yüksek düzeyde insan gücü gerektirir ve otomasyonu (robot vb.) çok sınırlıdır. Bu nedenle sektörün 'emek-yoğun' yapısı en çok bu departmanda görülür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bilgi İşlem (IT)",
+          "rationale": "Bu departman otomasyonu sağlayan departmandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gelirler Yönetimi",
+          "rationale": "Bu departman, fiyatlandırma algoritmaları ve yazılımları kullanarak yüksek düzeyde otomasyondan faydalanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 97,
+      "question": "Aşağıdakilerden hangisi bir Kat Hizmetleri Performans Standardı programında yer alacak 'Temizlik maddesinin kesin ölçümü'ne örnek olamaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "'Bir kova suya 2 kapak yüzey temizleyici ekleyin.'",
+          "rationale": "Bu, kesin bir ölçümdür (2 kapak).",
+          "isCorrect": false
+        },
+        {
+          "text": "'Püskürtme şişesine 10 ml dezenfektan koyun.'",
+          "rationale": "Bu, kesin bir ölçümdür (10 ml).",
+          "isCorrect": false
+        },
+        {
+          "text": "'Gerektiği kadar sabun kullanın.'",
+          "rationale": "'Gerektiği kadar' ifadesi belirsizdir ve bir standart değildir. Bu durum, personelin ya çok az (kalitesiz temizlik) ya da çok fazla (israf, maliyet) kullanmasına yol açar.",
+          "isCorrect": true
+        },
+        {
+          "text": "'Halı lekesi için 1:3 oranında leke çıkarıcı solüsyon hazırlayın.'",
+          "rationale": "Bu, kesin bir ölçüm (oran) standardıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Klozet içine 5 ml çamaşır suyu dökün.'",
+          "rationale": "Bu, kesin bir ölçümdür (5 ml).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 98,
+      "question": "Aşağıdaki ifadelerden hangisi Kat Hizmetleri'nin 'Yatırımın Korunması' fonksiyonunu en iyi açıklar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafir memnuniyetini sağlayarak otelin itibarını korumak.",
+          "rationale": "Bu, 'Misafir Memnuniyeti' fonksiyonudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Periyodik halı yıkama ve mobilya cilalama yaparak demirbaşların ömrünü uzatmak.",
+          "rationale": "Bu, fiziksel yatırımın (demirbaş) korunmasına yönelik doğrudan bir eylemdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ön Büro'ya oda durumunu bildirerek geliri korumak.",
+          "rationale": "Bu, 'Oda Satışında Kritik Rol Oynama' fonksiyonudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gece çalışarak otelin 24 saat hizmet vermesini sağlamak.",
+          "rationale": "Bu, '24 Saat Hizmet Verir' fonksiyonudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik malzemelerini verimli kullanarak bütçeyi korumak.",
+          "rationale": "Bu, 'Verimlilik İlkesi' ile ilgilidir; 'Yatırımın Korunması' ise demirbaşların ömrü ile ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 99,
+      "question": "İş gücü planlamasında 'personel sayısındaki azalmanın kaliteyi hemen düşürmesi' sorununun nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çünkü kalan personel, giden personeli kıskanır.",
+          "rationale": "Bu, psikolojik bir yorumdur; neden operasyoneldir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü azalan personel nedeniyle 'insan performansının stoklanamaması' ilkesi geçerliliğini yitirir.",
+          "rationale": "İlke geçerliliğini yitirmez, tam tersine bu durumun olumsuz etkisi daha da artar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü kalan az sayıdaki personel, aynı miktardaki işi (örn: 100 odayı temizlemek) yapmak için acele etmek zorunda kalır, bu da standartların (kalite) düşmesine neden olur.",
+          "rationale": "Aynı iş yükü daha az kişiye bindiğinde, her bir işe (oda) ayrılan süre azalır. Bu da 'Performans Standartları'nın (örn: 1 oda 30 dk) uygulanamamasına ve kalitenin düşmesine yol açar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çünkü otomasyon (robotlar) azalan personelin yerini hemen doldurur.",
+          "rationale": "Sektörün 'emek-yoğun' olduğu ve otomasyonun sınırlı olduğu belirtilmiştir. Robotlar personelin yerini dolduramaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü otel yönetimi hemen yeni personel alır.",
+          "rationale": "Eğer hemen yeni personel alınsaydı, kalite düşüşü 'hemen' olmazdı. Sorun, eksik personelle çalışılmaya devam edilmesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 100,
+      "question": "Aşağıdaki otel departmanlarından hangisi, Kat Hizmetleri'nin sorumlu olduğu alanlardan (Mutfak ve Depolar) sorumlu olan departmandır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ön Büro",
+          "rationale": "Ön Büro lobi ve misafir girişinden sorumludur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yiyecek-İçecek (Mutfak) ve Satın Alma/Muhasebe (Depolar)",
+          "rationale": "Mutfak, Yiyecek-İçecek (Aşçıbaşı) departmanının; depolar ise genellikle Satın Alma veya Muhasebe'nin (Maliyet Kontrol) sorumluluğundadır. Bu alanlar Kat Hizmetleri'nin dışındadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Teknik Servis",
+          "rationale": "Teknik Servis bu alanların bakımından sorumludur, operasyonel temizlik ve düzeninden değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenlik",
+          "rationale": "Güvenlik bu alanların güvenliğinden sorumludur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satış ve Pazarlama",
+          "rationale": "Bu departmanlar misafir bulmakla sorumludur, mutfak veya depolarla operasyonel bir bağı yoktur.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
