@@ -1,0 +1,3204 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "PDF'e göre 'Rekreasyon' kavramının temel tanımı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece spor yapmak için ayrılan zaman.",
+          "rationale": "Spor bir rekreasyon çeşididir ancak tanımı tam olarak kapsamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Boş zamanlarda gönüllü olarak yapılan, bireye haz ve tatmin sağlayan etkinlikler.",
+          "rationale": "Bu, Slayt 3'te verilen temel tanımıdır; gönüllülük, boş zaman ve tatmin unsurlarını içerir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çalışma saatleri içinde verilen molalar.",
+          "rationale": "Rekreasyon, çalışma zamanı dışında kalan 'boş zaman'da yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Para kazanmak amacıyla yapılan ikincil işler.",
+          "rationale": "Rekreasyon gönüllülük esasına dayanır ve birincil amacı maddi kazanç değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece fizyolojik ihtiyaçları giderme süreci.",
+          "rationale": "Boş zaman, fizyolojik ihtiyaçlar dışındaki zaman olarak da tanımlanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi rekreasyonun temel özelliklerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gönüllülük esaslıdır.",
+          "rationale": "Slayt 4'e göre bu, rekreasyonun temel özelliklerindendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel haz ve tatmin sağlar.",
+          "rationale": "Slayt 4'e göre bu, rekreasyonun temel özelliklerindendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal katkı yönü vardır.",
+          "rationale": "Slayt 4'e göre bu, rekreasyonun temel özelliklerindendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zorunluluk ve mecburiyet içerir.",
+          "rationale": "Tam tersine, rekreasyon gönüllülük esasına dayanır ve zorunluluklardan kurtulma amacı taşır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dinlenme ve eğlenme amaçlıdır.",
+          "rationale": "Slayt 3'e göre bu, rekreasyonun amaçları arasındadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "Rekreasyonun temel amaçları arasında aşağıdakilerden hangisi yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiziksel dinlenme.",
+          "rationale": "Slayt 5'te belirtildiği gibi bu, temel amaçlardan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Psikolojik yenilenme.",
+          "rationale": "Slayt 5'te belirtildiği gibi bu, temel amaçlardan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal ilişkilerin güçlenmesi.",
+          "rationale": "Slayt 5'te belirtildiği gibi bu, temel amaçlardan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddi gelir elde etme zorunluluğu.",
+          "rationale": "Rekreasyon, temelde boş zaman etkinliğidir ve birincil amacı maddi gelir değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bireysel gelişim.",
+          "rationale": "Slayt 3'te 'gelişim amaçlıdır' ifadesi yer almaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "Antik Roma dönemindeki rekreasyon faaliyetlerine hangisi örnek olarak gösterilebilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gladyatör dövüşleri ve hamam kültürü.",
+          "rationale": "Slayt 7, Antik Roma için bu örnekleri vermektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oyunlar ve tiyatrolar.",
+          "rationale": "Slayt 7, bu faaliyetleri Antik Yunan ile ilişkilendirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şölenler ve avcılık.",
+          "rationale": "Slayt 8, bu faaliyetleri Orta Çağ ile ilişkilendirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Parklar ve spor kulüpleri.",
+          "rationale": "Slayt 9, bu kavramların Sanayi Devrimi sonrası ortaya çıktığını belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "E-spor ve sosyal medya.",
+          "rationale": "Slayt 11, bu faaliyetleri günümüz rekreasyonu olarak tanımlar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "Antik Yunan'daki rekreasyon anlayışı hangi faaliyetler üzerine kuruluydu?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gladyatör dövüşleri",
+          "rationale": "Bu, Antik Roma'ya ait bir faaliyettir (Slayt 7).",
+          "isCorrect": false
+        },
+        {
+          "text": "Dini festivaller",
+          "rationale": "Bu daha çok Orta Çağ'da öne çıkmıştır (Slayt 8).",
+          "isCorrect": false
+        },
+        {
+          "text": "Oyunlar ve tiyatrolar",
+          "rationale": "Slayt 7'de Antik Yunan için bu faaliyetler belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hamam kültürü",
+          "rationale": "Bu, Antik Roma'ya ait bir faaliyettir (Slayt 7).",
+          "isCorrect": false
+        },
+        {
+          "text": "Avcılık ve şölenler",
+          "rationale": "Bu faaliyetler Orta Çağ ile ilişkilendirilmiştir (Slayt 8).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "Orta Çağ'daki rekreasyon faaliyetlerine hangi örnekler verilebilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Parklar ve spor kulüpleri",
+          "rationale": "Bunlar Sanayi Devrimi sonrası gelişmiştir (Slayt 9).",
+          "isCorrect": false
+        },
+        {
+          "text": "Şölenler, avcılık ve dini festivaller",
+          "rationale": "Slayt 8, Orta Çağ rekreasyon faaliyetleri olarak bunları listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kitle turizmi ve tatil köyleri",
+          "rationale": "Bunlar 20. Yüzyıl gelişir (Slayt 10).",
+          "isCorrect": false
+        },
+        {
+          "text": "Tiyatrolar ve oyunlar",
+          "rationale": "Bunlar Antik Yunan'da öne çıkmıştır (Slayt 7).",
+          "isCorrect": false
+        },
+        {
+          "text": "E-spor turnuvaları",
+          "rationale": "Bu günümüz rekreasyon anlayışına aittir (Slayt 11).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "Sanayi Devrimi sonrası 'çalışma-boş zaman dengesi' kavramının ortaya çıkmasıyla hangi rekreasyonel gelişmeler yaşanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gladyatör dövüşlerinin yaygınlaşması",
+          "rationale": "Bu Antik Roma dönemine aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dini festivallerin tek etkinlik olması",
+          "rationale": "Bu Orta Çağ'a ait bir özelliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Parklar, spor kulüpleri ve tatil anlayışının gelişmesi",
+          "rationale": "Slayt 9, Sanayi Devrimi sonrasındaki bu gelişmeleri vurgular.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dijital rekreasyonun ortaya çıkışı",
+          "rationale": "Bu günümüze ait bir gelişmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece şölenlerin düzenlenmesi",
+          "rationale": "Bu Orta Çağ'a ait bir özelliktir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "20. Yüzyılda rekreasyon anlayışını şekillendiren en önemli gelişmeler nelerdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "E-spor ve sosyal medya",
+          "rationale": "Bu günümüz (21. Yüzyıl) gelişmesidir (Slayt 11).",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle turizmi ve tatil köyleri",
+          "rationale": "Slayt 10, 20. Yüzyıl için bu iki önemli gelişmeyi belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Avcılık ve şölenler",
+          "rationale": "Bu Orta Çağ faaliyetleridir (Slayt 8).",
+          "isCorrect": false
+        },
+        {
+          "text": "Tiyatrolar ve hamamlar",
+          "rationale": "Bunlar Antik Dönem faaliyetleridir (Slayt 7).",
+          "isCorrect": false
+        },
+        {
+          "text": "Parklar ve spor kulüpleri",
+          "rationale": "Bunlar Sanayi Devrimi sonrası başlamıştır (Slayt 9).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "Günümüz rekreasyon anlayışında öne çıkan iki yeni eğilim hangileridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kitle turizmi ve tatil köyleri",
+          "rationale": "Bunlar 20. Yüzyılda öne çıkmıştır (Slayt 10).",
+          "isCorrect": false
+        },
+        {
+          "text": "Dini festivaller ve şölenler",
+          "rationale": "Bunlar Orta Çağ'da yaygındı (Slayt 8).",
+          "isCorrect": false
+        },
+        {
+          "text": "Gladyatör dövüşleri ve hamamlar",
+          "rationale": "Bunlar Antik Roma'da yaygındı (Slayt 7).",
+          "isCorrect": false
+        },
+        {
+          "text": "Dijital rekreasyon (e-spor) ve sağlık/doğa temelli etkinlikler",
+          "rationale": "Slayt 11, günümüz rekreasyonunda bu iki eğilimi vurgulamaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece parklar ve spor kulüpleri",
+          "rationale": "Bunlar Sanayi Devrimi sonrası başlamış olsa da günümüzdeki en yeni eğilimler değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "Rekreasyon tarihi için 'insanlık tarihi kadar eskidir' denmesinin nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çünkü e-spor her zaman vardı.",
+          "rationale": "E-spor günümüze ait bir kavramdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü insanlar her dönemde boş zamana ve dinlenmeye ihtiyaç duymuştur.",
+          "rationale": "Slayt 6'daki ifade, insanların her kültürde ve dönemde boş zamanlarını değerlendirecek yollar bulduğunu ima eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çünkü tatil köyleri Antik Yunan'da icat edildi.",
+          "rationale": "Tatil köyleri 20. Yüzyıl gelişmesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü Sanayi Devrimi hiç yaşanmadı.",
+          "rationale": "Sanayi Devrimi, rekreasyon tarihini derinden etkileyen bir dönemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü sadece Orta Çağ'da rekreasyon yapıldı.",
+          "rationale": "Rekreasyon her dönemde farklı şekillerde var olmuştur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "PDF'e göre turizm ve rekreasyon talebinin artışı en çok hangi tip ülkelerde gözlenmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sanayileşmiş ülkeler",
+          "rationale": "Slayt 12, talep artışının esas olarak sanayileşmiş ülkelerde gözlendiğini belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece tarım ülkeleri",
+          "rationale": "Belgede sanayileşmenin talep üzerinde doğrudan bir etkisi olduğu belirtiliyor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nüfusu az olan ülkeler",
+          "rationale": "Aksine, nüfus artışı ve şehirleşme talebi artıran nedenler arasında sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknolojinin gelişmediği ülkeler",
+          "rationale": "Teknolojik gelişmeler talebi artıran önemli bir faktördür (Slayt 16).",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim seviyesinin düşük olduğu ülkeler",
+          "rationale": "Eğitim seviyesinin yükselmesi talebi artıran bir nedendir (Slayt 20).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "Aşağıdakilerden hangisi rekreasyonun 'kişisel' faydalarından biri olarak sayılmamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiziki sağlık gelişimi yaratması",
+          "rationale": "Slayt 12'de kişisel fayda olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ruh sağlığı kazandırması",
+          "rationale": "Slayt 12'de kişisel fayda olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsanı sosyalleştirmesi",
+          "rationale": "Slayt 12'de kişisel fayda olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaratıcılık ve kişisel beceriyi geliştirmesi",
+          "rationale": "Slayt 12'de kişisel fayda olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Demokratik toplum yaratılması",
+          "rationale": "Slayt 12'de bu, rekreasyonun 'toplumsal' faydaları arasında sayılmıştır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "Rekreasyonun 'toplumsal' faydaları arasında hangisi vurgulanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Toplumsal bütünleşmeyi ve dayanışmayı sağlaması",
+          "rationale": "Slayt 12'de bu, toplumsal fayda olarak açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece kişisel beceriyi geliştirmesi",
+          "rationale": "Bu, kişisel faydalar arasında sayılmıştır (Slayt 12).",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma başarısı ve iş verimine etkisi",
+          "rationale": "Bu, kişisel faydalar arasında sayılmıştır (Slayt 12).",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik hareketlilik yaratması",
+          "rationale": "Bu, kişisel faydalar arasında sayılmıştır (Slayt 12).",
+          "isCorrect": false
+        },
+        {
+          "text": "Ruh sağlığı kazandırması",
+          "rationale": "Bu, kişisel faydalar arasında sayılmıştır (Slayt 12).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "Boş zamanların artışı hangi dört şekilde ortaya çıkmaktadır? (Slayt 13)",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çalışma günlerinin azalması, hafta tatili, yıllık izinler, emeklilik yaşının öne alınması.",
+          "rationale": "Slayt 13'te bu dört madde tam olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maaşların artması, teknoloji, şehirleşme, nüfus artışı.",
+          "rationale": "Bunlar talebi artıran diğer nedenlerdir, boş zaman artışının biçimleri değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece yıllık izinlerin artması.",
+          "rationale": "Yıllık izinler bu etkenlerden sadece biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha fazla çalışma, daha az uyku, daha çok yemek, daha az tatil.",
+          "rationale": "Bu, boş zamanların artışının tam tersidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "E-turizm, sosyal medya, eko turizm, sağlık köyleri.",
+          "rationale": "Bunlar talebi etkileyen modern eğilimlerdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "1930'larda birçok ülke tarafından kabul edilen ve kitle turizmini geliştiren en etkili gelişme nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Emeklilik yaşının öne alınması",
+          "rationale": "Bu bir etken olsa da, Slayt 13'e göre en etkilisi bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıllık ücretli izin hakkının genelleştirilmesi",
+          "rationale": "Slayt 13, bu hakkın 'en etkili' olduğunu ve kitle turizmini geliştirdiğini belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hafta tatilinin 2 güne çıkması",
+          "rationale": "Bu daha çok çevre turizmini (günlük gezileri) etkilemiştir (Slayt 14).",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma günlerinin azalması",
+          "rationale": "Bu genel bir ifadedir, en etkili gelişme spesifik olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnternetin icadı",
+          "rationale": "İnternet çok daha sonra ortaya çıkmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "Slayt 14'e göre 'çevre turizmi' (günlük geziler) hangi gelişme sayesinde imkan bulmuştur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yıllık ücretli izinler",
+          "rationale": "Yıllık izinler daha çok kitle turizmini ve uzun süreli tatilleri etkilemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emeklilik",
+          "rationale": "Emeklilik, çalışma hayatının sonundaki uzun boş zamanla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hafta sonu tatilleri",
+          "rationale": "Slayt 14'te hafta sonu tatillerinin 'çevre turizmi dediğimiz günlük gezileri' düzenleme imkanı verdiği belirtilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dinsel törenler",
+          "rationale": "Dinsel törenler boş zaman yaratsa da, 'çevre turizmi'nin ana nedeni olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otomatikleşme",
+          "rationale": "Otomatikleşme dolaylı olarak boş zamanı artırsa da, çevre turizminin doğrudan nedeni hafta sonu tatilleridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "Gelir seviyesinin yükselmesi turizm talebini nasıl etkilemiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İnsanlar sadece tasarruf yapmaya yönelmiştir.",
+          "rationale": "Slayt 15, gelir artışıyla tasarruf eğiliminin arttığını ancak bu artışın talebi de artırdığını söyler.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsanlar temel ihtiyaçlarını karşıladıktan sonra eğlenceyi düşünmeye başlamıştır.",
+          "rationale": "Slayt 15, 'insanlar ancak karnını doyurduktan... sonra, eğlenceyi düşünmektedir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turizm talebi üzerinde hiçbir etkisi olmamıştır.",
+          "rationale": "Slayt 15, 'Turizm, gelirle birebir ilişki içindedir' diyerek güçlü bir bağ kurar.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsanlar daha fazla çalışıp daha az tatil yapmıştır.",
+          "rationale": "Gelir artışı, boş zamanı değerlendirme imkanını da artırmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece gelişmemiş ülkelerde talebi artırmıştır.",
+          "rationale": "Slayt 15, özellikle 'gelişmiş ülkelerde' ulusal gelirdeki artıştan bahseder.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "Teknolojik gelişmeler rekreasyon ve turizm talebini hangi yollarla artırmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece insanların boş zaman sürelerini azaltarak.",
+          "rationale": "Aksine, Slayt 16'ya göre teknoloji 'insanların boş zaman sürelerini arttırırken' talebi de artırmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Boş zamanları artırmış ve kitle iletişim araçlarıyla tanıtımı kolaylaştırmıştır.",
+          "rationale": "Slayt 16, hem çamaşır makinesi örneğiyle zaman yaratmasını hem de kitle iletişim araçlarıyla tanıtım (reklam) yönünü vurgular.",
+          "isCorrect": true
+        },
+        {
+          "text": "İnsanların seyahat etme isteğini azaltarak.",
+          "rationale": "Kitle iletişim araçları ve reklamlar sayesinde 'insanların... katılma isteği artmıştır' (Slayt 16).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece çamaşır makinesinin icadıyla sınırlı kalmıştır.",
+          "rationale": "Bu sadece bir örnektir; kitle iletişim araçları da önemli bir teknolojik gelişmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistik işletmeler hakkında bilgiye ulaşımı zorlaştırarak.",
+          "rationale": "Aksine, 'geniş bilgilerin sunulması... turizm talebini arttırmıştır' (Slayt 16).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "Şehirleşme eğilimleri, turizm ve rekreasyon talebini neden artırmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çünkü şehirlerde daha fazla yeşil alan ve doğal ortam vardır.",
+          "rationale": "Aksine, Slayt 17, şehirlerdeki kalabalıklaşan mekanlardan bahseder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü insanlar şehirlerdeki sakin yaşamdan memnundur.",
+          "rationale": "Slayt 17, insanların 'sürekli yaşadıkları bu ortamdan, her fırsatta kaçmak' istediğini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalabalıklaşan mekanlarda yaşayan insanların, bulundukları ortamdan kaçma isteği nedeniyle.",
+          "rationale": "Slayt 17, endüstrileşme sonucu kalabalıklaşan şehirlerde yaşayanların talebinin arttığını ve bu ortamdan kaçmak istediklerini belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çünkü şehirleşme, insanların gelir seviyesini düşürmüştür.",
+          "rationale": "Şehirleşme genellikle iş imkanları nedeniyle olur ve gelir seviyesinin yükselmesi de talebi artıran ayrı bir nedendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü şehirlerde rekreasyon tesisleri yoktur.",
+          "rationale": "Şehirlerde tesisler olsa bile, insanların doğal ortamlara ve farklı mekanlara olan talebi artmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "Nüfus artışı ve hareketliliği, rekreasyon talebini nasıl etkilemektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nüfus yoğunluğu, kentlerdeki rekreatif tesislerin yeterli kalmasını sağlamıştır.",
+          "rationale": "Slayt 18, aksine tesislerin 'yetersiz kalmasına neden olmaktadır' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çevre kirliliği azaldığı için insanlar rekreasyona ihtiyaç duymamaktadır.",
+          "rationale": "Slayt 18, 'Nüfus artışının getirdiği sorunlar nedeniyle; ortaya çıkan çevre kirliliği ile... doğrusal bir ilişki vardır' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kentlerdeki tesislerin yetersiz kalması, insanların başka alanlara yönelmesine neden olmuştur.",
+          "rationale": "Slayt 18, tesislerin yetersiz kaldığını ve insanların 'yakın merkezlere ve diğer alanlara yönelerek' boş zamanlarını değerlendirdiğini belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nüfus artışının rekreasyon talebi üzerinde hiçbir etkisi yoktur.",
+          "rationale": "Slayt 18, 'doğrusal bir ilişki' olduğunu belirterek bu fikri çürütür.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsanlar sadece evlerinde kalarak boş zamanlarını değerlendirmeye başlamıştır.",
+          "rationale": "Belge, insanların başka alanlara yöneldiğini belirtir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "Slayt 19'da 'Asmalı Konak' dizisi hangi duruma örnek olarak verilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Teknolojik gelişmelerin olumsuz etkilerine.",
+          "rationale": "Burada olumlu bir etki, yani talep artışı örneklenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle iletişim araçlarının (televizyon) iç turizm talebini artırmasına.",
+          "rationale": "Slayt 19, bir ünlünün veya bir dizinin (Asmalı Konak) bir bölgeye (Kapadokya) olan talebi artırmasını örnek olarak verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Şehirleşmenin getirdiği sorunlara.",
+          "rationale": "Örnek, şehirleşmeyle değil, medya etkisiyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim seviyesinin düşüklüğüne.",
+          "rationale": "Örnek, eğitimle değil, medya etkisiyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eko turizmin gelişimine.",
+          "rationale": "Örnek, bir dizinin popülerleştirdiği destinasyon turizmiyle ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "Eğitim ve kültür seviyesinin yükselmesi ile turizm ve rekreasyon faaliyetlerine katılım arasında nasıl bir ilişki vardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ters bir ilişki vardır; eğitimliler daha az seyahat eder.",
+          "rationale": "Slayt 20, 'paralel bir ilişki' olduğunu, eğitim seviyesi yükseldikçe katılımın arttığını belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Paralel bir ilişki vardır; eğitim seviyesi arttıkça katılım da artar.",
+          "rationale": "Slayt 20, 'Eğitim ve kültür seviyesinin artması ile... paralel bir ilişki bulunmaktadır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hiçbir ilişki yoktur.",
+          "rationale": "Belge, açıkça bir ilişki olduğunu vurgular.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitimliler sadece dil öğrenmek için seyahat eder.",
+          "rationale": "Dil öğrenme bir etken olsa da (Slayt 20), tek neden bu değildir; tarih ve kültürel yerleri görme eğilimi de vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim seviyesi yükseldikçe insanların gelir seviyesi düştüğü için katılım azalır.",
+          "rationale": "Slayt 20, aksine 'eğitim seviyesi yükseldikçe... insanların gelir seviyesi de yükselmektedir' der.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "Sanayi devrimi sonrası 'değer yargılarının değişmesi' rekreasyon talebini nasıl etkilemiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Boş zaman fuzuli bir tüketim olarak görülmeye devam etmiştir.",
+          "rationale": "Slayt 21, bu düşüncenin 'eski anlamını kaybetmiş' olduğunu belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Boş zamanın, insanların verimliliğini artıran bir kavram olarak kabul görmeye başlamasıyla.",
+          "rationale": "Slayt 21, boş zamanın 'verimliliklerini arttıran bir kavram olarak kabul görmeye başladığını' ifade eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "İşten sonra spor yapmanın 'tekrar yorulma' olarak görülmesi düşüncesi pekişmiştir.",
+          "rationale": "Slayt 21, bu düşüncenin 'değişmiş' olduğunu belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kadınların rekreatif etkinliklere katılması engellenmiştir.",
+          "rationale": "Slayt 21, sosyal yönden değişimi ele alırken 'kadınların rekreatif etkinliklere katılmalarından' olumlu bir değişim olarak bahseder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece çalışma ve disiplin kavramları önemini korumuştur.",
+          "rationale": "Bu kavramlar önem kazanmış ama zamanla boş zaman kavramı da kabul görmüştür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "Turizm ve rekreasyon bilincinin artması, talebi nasıl etkilemiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İnsanlar boş zamanlarında artan parayı sadece tasarruf için kullanmıştır.",
+          "rationale": "Slayt 22, 'Önceleri ise; bu para, tasarruf için kullanılıyordu' derken, 'Bugün' bu durumun değiştiğini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Boş zamanı değerlendirmenin bir 'ihtiyaç' olarak görülmesi talebi artırmıştır.",
+          "rationale": "Slayt 22, 'boş zamanı değerlendirmenin ihtiyaç olarak bilincine varılması, turizm ve rekreasyon faaliyetlerine olan talebi arttırmıştır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Seyahat ve tatil, kişinin ruh sağlığı için gereksiz görülmüştür.",
+          "rationale": "Slayt 22, aksine 'kişinin ruh sağlığını... geliştirebilmesi için gerçek bir gereksinimdir' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsanlar daha az yoruldukları için tatile ihtiyaç duymamıştır.",
+          "rationale": "Slayt 22, 'Bütün yıl yorucu bir şekilde çalışan insanlar' ifadesini kullanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rekreasyon bilinci sadece mesleki yetenekleri geliştirmiştir.",
+          "rationale": "Slayt 22, hem 'ruh sağlığını' hem de 'mesleki yeteneklerini' geliştirdiğinden bahseder.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "Siyasi otorite ve diğer kurumların rekreasyon ve turizm üzerindeki etkisi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çalışma hayatını düzenleyerek daha fazla boş zaman yaratırlar.",
+          "rationale": "Slayt 23'te bu, kurumların etkisi olarak ilk maddede belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çalışanlara maddi destek olmalarının hiçbir etkisi yoktur.",
+          "rationale": "Slayt 23, 'maddi yönden destek olurlar' ifadesini kullanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rekreasyona olan ilgiyi azaltmaya çalışırlar.",
+          "rationale": "Slayt 23, 'ilgi arttırırlar ve herkesin tanımasını sağlarlar' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ücretli tatilleri kaldırırlar.",
+          "rationale": "Slayt 23, aksine 'uzun ücretli tatiller' için ortam sağladıklarını belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece özel kuruluşların etkisi vardır, kamunun yoktur.",
+          "rationale": "Slayt 23, 'Kamu ve özel kuruluşların' ortak etkisinden bahseder.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "Çevre bilincinin artması hangi yeni turizm modelinin doğmasına yol açmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kitle turizmi",
+          "rationale": "Kitle turizmi 20. yüzyılın bir olgusudur ve çevre bilincinden çok sanayileşmenin bir sonucudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alternatif ya da eko turizm",
+          "rationale": "Slayt 24, gelişen çevre bilincinin insanları doğaya yönelttiğini ve 'alternatif ya da eko turizm' modelini doğurduğunu belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hamam turizmi",
+          "rationale": "Bu, Antik Roma'dan beri var olan bir faaliyettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "E-turizm",
+          "rationale": "Bu, teknoloji ve internetin gelişmesiyle ortaya çıkmıştır (Slayt 26).",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültür turizmi",
+          "rationale": "Kültür turizmi de bir alternatif olsa da, 'çevre bilinci' doğrudan 'eko turizm' ile ilişkilendirilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "Sanayileşme çabaları, insanların doğa ile ilişkisini nasıl etkilemiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hava, su ve doğal kaynaklar temizlenmiştir.",
+          "rationale": "Slayt 24, aksine bu kaynakların 'kirlenmektedir' olduğunu söyler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeşil alanlar artmış ve insanın doğa ile ilişkisi kolaylaşmıştır.",
+          "rationale": "Slayt 24, 'yeşil alanlar daralmış ve insanın doğa ile ilişki kurması zorlaşmıştır' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeşil alanların daralması ve kirlilik, insanın doğayla ilişkisini zorlaştırmıştır.",
+          "rationale": "Slayt 24'teki temel argüman budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "İnsanlar şehirlerde sağlıklı yaşamı buldukları için doğaya ihtiyaç duymamıştır.",
+          "rationale": "Slayt 24, 'Bu şartlarda, sağlıklı yaşamı bulamayan insanların' doğaya yöneldiğini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanayileşmenin çevre üzerinde hiçbir etkisi olmamıştır.",
+          "rationale": "Slayt 24, sanayileşmenin olumsuz çevresel etkilerini vurgular.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "'Değişen yeni sağlık bilinci' hangi tür faaliyetlere olan ilgiyi artırmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece hareketsiz ve gerilimli ofis ortamında kalmaya",
+          "rationale": "Slayt 25, modern yaşamın bu olumsuzluklarından kurtulma isteğinden bahseder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şişmanlama, sigara ve alkol gibi olumsuzluklara",
+          "rationale": "Slayt 25, bu olumsuzlukların 'farkına varılması' ile yeni sağlık bilincinin oluştuğunu söyler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trekking, rafting, dağcılık gibi doğa ile iç içe spor faaliyetlerine",
+          "rationale": "Slayt 25, 'bedenen ve ruhen sağlıklı olacakları faaliyetler' arandığını ve 'trekking, rafting, dağcılık' gibi faaliyetlere ilginin arttığını belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece kapalı alanlardaki spor salonlarına",
+          "rationale": "Belge, özellikle 'doğa ile iç içe olan' faaliyetleri vurgulamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık bilincinin değişmesi talebi azaltmıştır.",
+          "rationale": "Aksine, bu bilinç 'entegre sağlık köyleri' gibi yeni yer değiştirme faaliyetlerine yol açmıştır (Slayt 25).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "Günümüzde tüketici tercihlerindeki değişme, turizm talebini hangi yöne kaydırmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece 'kum - deniz - güneş' üçlüsüne",
+          "rationale": "Slayt 26, talebin bu üçlüden 'kaydığını' belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Kum - deniz - güneş' üçlüsünden kültür, hobi ve eko turizmine",
+          "rationale": "Slayt 26'da 'talep profili kum - deniz - güneş üçlüsünden kültür, hobi ve eko turizmine kaymıştır' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece hobi turizmine",
+          "rationale": "Hobi turizmi bu kaymanın sadece bir parçasıdır; kültür ve eko turizmi de vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültür ve hobi turizminden 'kum - deniz - güneş' üçlüsüne",
+          "rationale": "Belgede belirtilen kayma yönü bunun tam tersidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüketici tercihlerinde hiçbir değişiklik olmamıştır.",
+          "rationale": "Slayt 26, 'önemli değişimler gözlenmektedir' diyerek başlar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "E-turizm nedir ve seyahat endüstrisinde nasıl bir rol oynamaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turizmde bilgisayar kullanımının yasaklanmasıdır.",
+          "rationale": "Aksine, Slayt 26, bilgisayar ve iletişim teknolojilerinin 'daha kullanılır hale geldiğini' belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece cep telefonları ile rezervasyon yapmaktır.",
+          "rationale": "Cep telefonları E-turizmin bir parçasıdır (Slayt 26) ancak E-turizm bundan daha geniştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistlerin bilgisayar ve ağ sistemleri ile destinasyon seçimi ve rezervasyon yapabilmesidir.",
+          "rationale": "Slayt 26, insanların 'milyonlarca bilgisayarın bağlı olduğu bir ağ sistemi' ile 'destinasyon seçimi ve rezervasyonlar' yapabildiğini açıklar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turistlerin seyahat hakkında bilgi edinmesini zorlaştıran bir sistemdir.",
+          "rationale": "Aksine, 'gidecekleri yer hakkında bilgi edinebilmektedir' (Slayt 26).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece tur güzergahlarının planlanmasıdır.",
+          "rationale": "Bu, E-turizmin sunduğu imkanlardan sadece biridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "Slayt 27'ye göre 'sosyal medya'nın tanımı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece turizm pazarlamasıdır.",
+          "rationale": "Sosyal medya turizm pazarlamasının bir 'unsuru' haline gelmiştir, ancak tanımı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek erişilebilir platformlar üzerinden oluşturulan sosyal etkileşim ve paylaşım ortamları.",
+          "rationale": "Slayt 27'de verilen 'En genel tanım' budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece butik otellerin kullandığı bir sistemdir.",
+          "rationale": "Butik otellerin sosyal medyanın farkına vardığı belirtilse de, sosyal medya sadece onlara ait değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masraflı ve yavaş bir iletişim aracıdır.",
+          "rationale": "Slayt 27, sosyal medyanın 'hem masrafsız hem de hızlı bir iletişim aracı' olduğunu belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her şey dahil sistemini destekleyen bir araçtır.",
+          "rationale": "Slayt 27, her şey dahil sisteminin 'ciddi sıkıntılar' oluşturduğundan bahseder; sosyal medya ise daha çok butik otellerle ilişkilendirilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "Sosyal medya, turizm pazarlaması için neden vazgeçilmez bir unsur haline gelmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çünkü çok masraflı ve yavaştır.",
+          "rationale": "Slayt 27, tam tersini, 'hem masrafsız hem de hızlı' olduğunu söyler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü tüketicilere ulaşmada masrafsız ve hızlı bir iletişim aracıdır.",
+          "rationale": "Slayt 27'de bu neden açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çünkü sadece 'her şey dahil' sistemini pazarlamaktadır.",
+          "rationale": "Belge, sosyal medyanın özellikle 'butik oteller' tarafından fark edildiğini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü sosyal etkileşimi engeller.",
+          "rationale": "Sosyal medyanın tanımı 'sosyal etkileşim ve paylaşım' üzerine kuruludur (Slayt 27).",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü sadece PC dışı araçlarla (web tv) kullanılır.",
+          "rationale": "Slayt 26, internete PC dışı araçlarla da bağlanıldığını söyler, ancak bu sosyal medyanın tek özelliği değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "Slayt 30'a göre 'Zaman Kavramı' nasıl tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tekrarı mümkün olan, sonsuz bir süreç.",
+          "rationale": "Slayt 30, 'tekrarı imkansız' olarak tanımlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Başlangıcı ve sonu belli olmayan, ölçülemeyen bir akış.",
+          "rationale": "Slayt 30, 'başlangıcı ve sonu belli, saatle ölçülen bir bölümdür' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tekrarı imkansız, başlangıcı ve sonu belli, saatle ölçülen bir bölüm.",
+          "rationale": "Slayt 30'daki tanım budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Boşa harcanılan zamanın telafisi mümkün olan bir kaynak.",
+          "rationale": "Slayt 30, 'Boşa harcanılan zamanın bir telafisi yoktur' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece çalışma ile ilgili bir kavram.",
+          "rationale": "Zaman, çalışma dışında biyolojik ve boş zamanı da kapsar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "Slayt 31'de belirtilen üç temel 'Zaman Tipi' hangileridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oyun - Dinlenme - Eğlence",
+          "rationale": "Bunlar 'Serbest - Boş Zaman' tipinin nasıl kullanıldığına örnektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geçmiş - Şimdi - Gelecek",
+          "rationale": "Bu felsefi bir ayrımdır, belgedeki sınıflandırma bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Var olma (Biyolojik), Çalışma, Serbest - Boş zaman",
+          "rationale": "Slayt 31'deki sınıflandırma bu şekildedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uyumak - Yemek - Çalışmak",
+          "rationale": "Bunlar zaman tiplerinin kendisi değil, kullanım şekilleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hafta içi - Hafta sonu - Yıllık İzin",
+          "rationale": "Bu, boş zamanın ortaya çıkış şekillerinden biridir, temel zaman tipi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "'Var olma ile ilgili zaman (Biyolojik zaman)' hangi faaliyetleri kapsar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oyun, dinlenme ve eğlenceyi",
+          "rationale": "Bu, Serbest - Boş Zaman'ın kullanımıdır (Slayt 31).",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışarak geçirilen zamanı",
+          "rationale": "Bu, Çalışma Zamanı'nın tanımıdır (Slayt 31).",
+          "isCorrect": false
+        },
+        {
+          "text": "Uyumak, yemek-içmek, vücut sağlığı gibi temel ihtiyaçları",
+          "rationale": "Slayt 31 ve 32, biyolojik zamanı bu şekilde tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fazla çalışma ve gönüllü mesaiyi",
+          "rationale": "Bu, Çalışma Zamanı'nın bir alt kategorisidir (Slayt 33).",
+          "isCorrect": false
+        },
+        {
+          "text": "Turizm ve rekreasyon faaliyetlerini",
+          "rationale": "Bu, Serbest - Boş Zaman'ın kullanımıdır (Slayt 31).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "question": "'Çalışma Zamanı'nın tanımı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hayatı kazanmak için fiilen yapılan çalışma ve iş görme zamanı.",
+          "rationale": "Slayt 33'te verilen tanım budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yemek, uyumak ve vücut temizliği için kullanılan zaman.",
+          "rationale": "Bu, Var Olma (Biyolojik) Zamanı'dır (Slayt 31-32).",
+          "isCorrect": false
+        },
+        {
+          "text": "Oyun, dinlenme ve eğlence için ayrılan zaman.",
+          "rationale": "Bu, Serbest - Boş Zaman'dır (Slayt 31).",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişinin ailesinin zorunlu ihtiyaçlarını karşıladığı zaman.",
+          "rationale": "Bu, 'Çalışma dışı zorunluluk' olarak tanımlanır (Slayt 34).",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireyin özgürce istediği gibi kullanabildiği zaman.",
+          "rationale": "Bu, 'Boş Zaman'ın tanımıdır (Slayt 35).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "question": "Slayt 34'e göre 'Boş Zaman', hangi zaman dilimlerinin dışında kalan zamandır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece çalışma zamanının",
+          "rationale": "Boş zaman, çalışma dışı zorunlulukları ve fizyolojik ihtiyaçları da dışarıda bırakır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma Dışı Zaman, Fizyolojik İhtiyaçlar ve Çalışma Dışı Zorunluluklar dışında kalan",
+          "rationale": "Slayt 34'teki şema ve açıklama, Boş Zaman'ın bu üç unsurun dışında kalan zaman olduğunu gösterir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece fizyolojik ihtiyaçların",
+          "rationale": "Boş zaman, çalışmayı ve çalışma dışı zorunlulukları da dışarıda bırakır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece çalışma dışı zorunlulukların",
+          "rationale": "Ev alışverişi gibi zorunluluklar boş zaman sayılmaz (Slayt 34).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece eğlenceye ayrılan zamanın",
+          "rationale": "Eğlence, boş zamanın nasıl kullanıldığına bir örnektir, onun tanımı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "question": "Slayt 34'te 'Çalışma dışı zorunluluk'lara hangi örnekler verilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oyun oynamak ve dinlenmek",
+          "rationale": "Bunlar boş zaman etkinlikleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemek yemek ve uyumak",
+          "rationale": "Bunlar fizyolojik ihtiyaçlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ev için alışveriş yapmak, bahçe sulamak, hayvanlara bakmak",
+          "rationale": "Slayt 34'te bu örnekler 'çalışma dışı zorunluluk' olarak verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arkadaş grubuyla uzun süreli yemek yemek",
+          "rationale": "Slayt 34, normal süre dışındaki bu etkinliğin 'boş zaman içine girmektedir' olduğunu belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fazla çalışma ve gönüllü mesai",
+          "rationale": "Bunlar 'çalışma zamanı' ile ilgilidir (Slayt 33).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "question": "Fransız sosyolog Dumazedier'in 'boş zaman' tanımı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çalışma, fizyolojik ihtiyaçlar ve çalışma dışı zorunluluklar dışında kalan zaman dilimi.",
+          "rationale": "Slayt 34, Dumazedier'in 'Bunların dışında kalan zaman dilimine... boş zaman' dediğini belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece çalışma zamanı.",
+          "rationale": "Bu, boş zamanın tam tersidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece uyku zamanı.",
+          "rationale": "Bu, fizyolojik ihtiyaç zamanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece ev işlerine ayrılan zaman.",
+          "rationale": "Bu, çalışma dışı zorunluluktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm zamanların toplamı.",
+          "rationale": "Boş zaman, tüm zamanların sadece bir parçasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "question": "Slayt 35'e göre 'boş zaman'ın en belirleyici özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bireyin zorunluluklara bağlı olması.",
+          "rationale": "Aksine, 'bütün zorunluluklardan... kurtulduğu' zaman olarak tanımlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Başkalarının isteğiyle seçilen faaliyetler.",
+          "rationale": "Aksine, 'kendi isteğiyle seçeceği' ve 'özgürce istediği gibi kullanabildiği' bir zamandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireyin özgürce istediği gibi kullanabildiği ve kendi isteğiyle faaliyet seçtiği zaman.",
+          "rationale": "Slayt 35'teki tanımların ortak noktası 'özgürce', 'kendi isteğiyle' ve 'zorunluluklara bağlı olmadan' ifadeleridir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece dinlenmek için hak edilen zaman.",
+          "rationale": "Dinlenme bir parçasıdır ancak 'meşguliyeti' de (faaliyet) kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece çalışma saatleri dışında kalan zaman.",
+          "rationale": "Bu tanım eksiktir; zaruri ihtiyaçlar ve zorunlulukları da dışarıda bırakmak gerekir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "question": "Türkiye'de 5 yıldan fazla 15 yıldan az çalışan birinin yıllık ücretli tatil hakkı ne kadardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "14 gün",
+          "rationale": "Slayt 37'ye göre bu, 1-5 yıl arası çalışanlar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "20 gün",
+          "rationale": "Slayt 37'de '5 yıldan fazla 15 yıldan az' çalışanlar için bu süre 20 gün olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "26 gün",
+          "rationale": "Slayt 37'ye göre bu, 15 yıldan fazla çalışanlar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "30 gün",
+          "rationale": "Bu, Türkiye için belirtilen bir süre değildir (Slayt 36'da Rusya için verilmiş).",
+          "isCorrect": false
+        },
+        {
+          "text": "Süre belirtilmemiştir.",
+          "rationale": "Slayt 37'de süreler açıkça belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "question": "Aşağıdakilerden hangisi 'boş zamanın artmasını sağlayan çalışmalar'dan biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Günlük çalışma saatlerinin azaltılması",
+          "rationale": "Slayt 38'de 1. madde olarak yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Haftalık çalışma sürelerinin azaltılması",
+          "rationale": "Slayt 38'de 2. madde olarak yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıllık çalışma sürelerinin azaltılması",
+          "rationale": "Slayt 38'de 3. madde olarak yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma hayatının kısaltılması (Emeklilik)",
+          "rationale": "Slayt 38'de 4. madde olarak yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Günlük çalışma saatlerinin artırılması",
+          "rationale": "Bu, boş zamanın azalmasına neden olur; Slayt 39'da 10-14 saatten 8 saate 'indirilmiştir' denir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "question": "Günlük çalışma saatlerinin 8 saate indirilmesi hangi tür talebi artırmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece uzun süreli tatil talebini",
+          "rationale": "Uzun süreli tatiller daha çok yıllık izinlerle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kısa süreli yer değiştirmelere ve gece eğlencelerine olan talebi",
+          "rationale": "Slayt 39'da bu sonuç açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Emeklilik talebini",
+          "rationale": "Bu, çalışma hayatının kısaltılmasıyla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece hafta sonu tatili talebini",
+          "rationale": "Bu, haftalık çalışma sürelerinin azaltılmasıyla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğlence talebini tamamen bitirmiştir.",
+          "rationale": "Aksine, talebi artırmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "question": "Haftalık çalışma süresinin 6 günden 5 güne indirilmesiyle ne kadarlık bir boş zaman sağlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Haftada 1 gün",
+          "rationale": "6 günden 5 güne inmesi 1 gün değil, 2 gün tatil anlamına gelir (Cumartesi-Pazar).",
+          "isCorrect": false
+        },
+        {
+          "text": "Haftada 2 günlük boş zaman",
+          "rationale": "Slayt 40, 'haftada 2 günlük boş zaman sağlanmıştır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ayda 1 gün",
+          "rationale": "Bu, haftalık bir düzenlemedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yılda 1 hafta",
+          "rationale": "Bu, yıllık izinlerle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Boş zaman azalmıştır.",
+          "rationale": "Aksine, boş zaman artmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "question": "Yıllık ücretli izinlerin uygulanmaya başlaması (1936) ve sürelerinin artması (örn. 4 hafta), rekreasyonu nasıl etkilemiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece gece eğlencelerini artırmıştır.",
+          "rationale": "Gece eğlenceleri daha çok günlük boş zamanla ilgilidir (Slayt 39).",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzun süreli tatil ve turizm faaliyetlerine katılımı büyük ölçüde artırmıştır.",
+          "rationale": "Yıllık izinler, kitle turizmini (Slayt 13) ve uzun süreli yer değiştirmeyi (Slayt 41) mümkün kılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İnsanların tatil yapmasını engellemiştir.",
+          "rationale": "Aksine, yasal hak tanıyarak teşvik etmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece hafta sonu gezilerini etkilemiştir.",
+          "rationale": "Hafta sonu gezileri haftalık çalışmayla ilgilidir (Slayt 40).",
+          "isCorrect": false
+        },
+        {
+          "text": "Emeklilik yaşını düşürmüştür.",
+          "rationale": "Bu, çalışma hayatının kısaltılmasıyla ilgili ayrı bir konudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "question": "Çalışma hayatının kısaltılmasına en belirgin örnek nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Günlük çalışma saatlerinin azaltılması",
+          "rationale": "Bu ayrı bir maddedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Haftalık çalışma sürelerinin azaltılması",
+          "rationale": "Bu ayrı bir maddedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emeklilik yaşının indirilmesi",
+          "rationale": "Slayt 42, 'en belirgin ve uygulanan örnek, emeklilik yaşının indirilmesidir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yıllık izinlerin artırılması",
+          "rationale": "Bu ayrı bir maddedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma saatlerinin artırılması",
+          "rationale": "Bu, çalışma hayatının uzatılması anlamına gelir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "question": "Slayt 42'deki grafiğe göre, boş zaman miktarı hayatın hangi evresinde en düşüktür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gençlik / Bekarlık",
+          "rationale": "Grafikte bu dönemdeki boş zaman, 'Aile Yaşamı'ndan daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile Yaşamı",
+          "rationale": "Grafikteki eğri, 'Aile Yaşamı' evresinde en alt noktaya (dip) ulaşmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yaşlılık",
+          "rationale": "Grafikte 'Yaşlılık' dönemi, boş zamanın en yüksek olduğu dönemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm evrelerde eşittir.",
+          "rationale": "Grafik, boş zamanın evrelere göre belirgin bir şekilde değiştiğini (U-şeklinde bir eğri) göstermektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grafikte bu bilgi yoktur.",
+          "rationale": "Grafik, tam olarak bu bilgiyi göstermek için çizilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "question": "Slayt 43'teki yaş gruplarına göre zaman kullanımı tablosunda, haftalık boş zamanı en fazla olan yaş grubu hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "16-44 Yaş (53,4 Saat)",
+          "rationale": "Bu, en az boş zamana sahip gruptur.",
+          "isCorrect": false
+        },
+        {
+          "text": "45-59 Yaş (65,6 Saat)",
+          "rationale": "Bu grup ortadadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "60-75 Yaş (86,1 Saat)",
+          "rationale": "Tabloya göre 86,1 saat ile en fazla haftalık boş zamana sahip olan grup 60-75 yaş grubudur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tüm yaş grupları eşittir.",
+          "rationale": "Tablo, yaş arttıkça boş zamanın da arttığını göstermektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "16-59 Yaş",
+          "rationale": "Bu, iki grubun birleşimidir ve en yüksek değeri temsil etmez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "question": "Slayt 45'e göre zamanı daha etkili kullanmak için yapılması gerekenlerden biri hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Güne en zor işle başlamak",
+          "rationale": "Slayt 45, 'Güne rutin işlerle başlamak' (kahve içmek, maillere bakmak) önerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm iş ve randevuları kabul etmek, 'Hayır' dememek",
+          "rationale": "Slayt 45, ''Hayır' demeyi bilmek, zamansız iş ve randevuları ret etmek' gerektiğini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önce önemli işleri yapmak ve acil işleri öne almak",
+          "rationale": "Slayt 45'in ilk iki maddesi 'Önce önemli işleri yapmak' ve 'Acil işleri öne almak'tır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Takvim kullanmamak",
+          "rationale": "Slayt 45, 'Mutlaka takvim kullanmak... ve uymak' önerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Günlük internet ve sosyal medya kullanımına sınır getirmemek",
+          "rationale": "Slayt 45, 'sınır getirmek' gerektiğini belirtir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "question": "Aşağıdakilerden hangisi 'Kısa Süreli Boş Zamanlar' sınıflandırmasına girmez?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İşgünü sonu (akşam üstü) boş zamanları",
+          "rationale": "Slayt 46'da 'Kısa Süreli Boş Zamanlar' altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hafta sonları",
+          "rationale": "Slayt 46'da 'Kısa Süreli Boş Zamanlar' altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kısa süreli tatiller",
+          "rationale": "Slayt 46'da 'Kısa Süreli Boş Zamanlar' altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emeklilik dönemi boş zamanları",
+          "rationale": "Slayt 46'da bu, 'Uzun Süreli Boş Zamanlar' altında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kısa süreli boş zamanların hepsi.",
+          "rationale": "Diğer seçenekler kısa süreli boş zamanlara örnektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "question": "Aşağıdakilerden hangisi 'Uzun Süreli Boş Zamanlar' sınıflandırmasına girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hafta sonları",
+          "rationale": "Slayt 46'ya göre bu, 'Kısa Süreli Boş Zamanlar'dandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşgünü sonu boş zamanları",
+          "rationale": "Slayt 46'ya göre bu, 'Kısa Süreli Boş Zamanlar'dandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıllık izin boş zamanları",
+          "rationale": "Slayt 46'da 'Uzun Süreli Boş Zamanlar' altında (Çocukluk ve Emeklilik ile birlikte) listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kısa süreli tatiller",
+          "rationale": "Slayt 46'ya göre bu, 'Kısa Süreli Boş Zamanlar'dandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece iş günü sonları",
+          "rationale": "Bu kısa süreli boş zamanlara bir örnektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "question": "Rekreasyon kelimesi Latince hangi kökten gelir ve ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "'recreate'; 'yaratmak'",
+          "rationale": "Anlamı tam olarak bu değildir, 'yeniden' anlamı eksiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'recreate'; 'yenilenme, tazelenme'",
+          "rationale": "Slayt 49, kelimenin 'recreate' sözcüğünden geldiğini ve 'yenilenme, tazelenme' anlamına geldiğini belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "'recreatio'; 'boş zaman'",
+          "rationale": "Kavram boş zamanla ilgilidir ancak Slayt 49'daki etimoloji 'recreate' üzerinedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'repose'; 'dinlenme'",
+          "rationale": "Dinlenme bir sonuçtur ancak köken bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'rebellio'; 'isyan etme'",
+          "rationale": "Bu, konuyla ilgisiz farklı bir Latince kelimedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "question": "Rekreasyonun 'yeniden yaratılma' anlamı, hangi kaynakların yenilenmesini ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece maddi kaynakların",
+          "rationale": "Rekreasyonun amacı bedensel ve zihinsel yenilenmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma faaliyetleri ile tükenen bedensel ve zihinsel kaynakların",
+          "rationale": "Slayt 49, 'çalışma faaliyetleri ile tükenen bedensel ve zihinsel kaynakların yeniden yaratılması' amacını taşır der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece doğal kaynakların",
+          "rationale": "Doğal kaynaklar rekreasyon alanı olabilir ancak 'yeniden yaratılan' bireyin kendisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece çalışma zamanının",
+          "rationale": "Yeniden yaratılan zaman değil, bireyin enerjisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece fizyolojik ihtiyaçların",
+          "rationale": "Bu, biyolojik zamanla ilgilidir; rekreasyon bunun dışındadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "question": "İnsan yaşamındaki üç ana unsur (çalışma, uyuma, temel gereksinmeler) dışında kalan zamana ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çalışma zamanı",
+          "rationale": "Çalışma, bu üç ana unsurdan biri olarak sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Biyolojik zaman",
+          "rationale": "Uyuma ve temel gereksinmeler biyolojik zamanın parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Boş zaman",
+          "rationale": "Slayt 50, bu üç unsurdan 'arta kalan zaman \"boş zaman\" olarak belirtilir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rekreasyon",
+          "rationale": "Rekreasyon, bu boş zamanın 'kıymetlendirilmesi' aktivitesidir (Slayt 50).",
+          "isCorrect": false
+        },
+        {
+          "text": "İş zamanı",
+          "rationale": "Bu, çalışma zamanı ile aynıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "question": "Slayt 51'e göre insanlar hangi amaçlarla rekreasyon etkinliklerine katılırlar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece para kazanmak",
+          "rationale": "Bu, rekreasyonun temel tanımına aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dinlenme, hava değişimi, gezme-görme, sağlık, heyecan duyma gibi",
+          "rationale": "Slayt 51, bu ve benzeri birçok amacı (uzaklaşma, beraber olma, farklı yaşantılar elde etme vb.) listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece ev içinde kalmak",
+          "rationale": "Slayt 51, 'ev dışında veya içinde' olabileceğini belirterek seçenekleri genişletir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece pasif etkinliklere katılmak",
+          "rationale": "Slayt 51, 'aktif-pasif şekilde' katılabileceklerini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece şehir içinde",
+          "rationale": "Slayt 51, 'şehir içinde veya kırsal alanda' olabileceğini belirtir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "question": "Slayt 52'deki kapsamlı rekreasyon tanımına göre, hangisi bu tanımın bir unsuru değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bedeni ve ruh sağlığını tekrar elde etmek istemek",
+          "rationale": "Tanımda bu unsur yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zevk, haz almak ve kişisel doyum sağlamak",
+          "rationale": "Tanımda bu unsur yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma ve zorunlu ihtiyaçlar dışındaki boş zamanda yapılması",
+          "rationale": "Tanımda bu unsur yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İsteğe bağlı ve gönüllü olarak yapılması",
+          "rationale": "Tanımda bu unsur yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutlaka maddi bir kazanç sağlamak",
+          "rationale": "Tanım, gönüllülük ve kişisel doyuma odaklanır; maddi kazanç bir zorunluluk veya amaç olarak belirtilmemiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "question": "Slayt 53'teki 'Bir barmenin arkadaşlarına içki servisi yapması' örneği, rekreasyonun hangi yönünü vurgular?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rekreasyonun her zaman para kazandırması gerektiğini.",
+          "rationale": "Örnekte, barmenin bu faaliyeti eğlenmek için (parasız) yapması rekreasyondur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir faaliyetin (içki servisi) bir kültürde iş, başka bir bağlamda (arkadaş ortamı) rekreasyon olabileceğini.",
+          "rationale": "Slayt 53, 'Bir aktivite... rekreasyon faaliyeti olabilirken... iş olabilmektedir' der ve bu örneği verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rekreasyonun sadece profesyoneller tarafından yapılması gerektiğini.",
+          "rationale": "Örnek, profesyonel bir işin, bağlam değiştiğinde amatör bir rekreasyon faaliyetine dönüştüğünü gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İçki servisinin her zaman rekreasyon olduğunu.",
+          "rationale": "Barmenin işi olarak yaptığında bunun 'kendi işidir' ve rekreasyon değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rekreasyonun sıkıcı bir faaliyet olduğunu.",
+          "rationale": "Aksine, 'Eğlenmek için' yapıldığını belirtir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "question": "Aşağıdakilerden hangisi Slayt 54-55'te belirtilen rekreasyonun özelliklerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rekreasyon, boş zamanda yapılır.",
+          "rationale": "Slayt 54, 5. madde.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişiler bu faaliyetlere kendi istek ve iradeleri ile katılırlar.",
+          "rationale": "Slayt 54, 4. madde.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rekreasyon, haz ve neşe sağlayan bir faaliyettir.",
+          "rationale": "Slayt 55, 11. madde.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rekreasyon, ciddi ve belirli amaçları olan bir aktivitedir.",
+          "rationale": "Slayt 55, 7. madde.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rekreasyonda faaliyetlere devam ve iştirak etme zorunluluğu bulunmalıdır.",
+          "rationale": "Slayt 55, 10. madde 'Rekreasyonda faaliyetlere devam ve iştirak etme zorunluluğu bulunmamalıdır' der.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "question": "Slayt 56'ya göre rekreasyonun 'toplumun geleneklerine, törelerine ve manevi değerlerine' uygun olması gerekir mi?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Evet, uygun olmalı ve sosyal değerlere ters düşmemelidir.",
+          "rationale": "Slayt 56, 13. madde bunu açıkça belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hayır, rekreasyon tüm toplumsal değerlerden bağımsız olmalıdır.",
+          "rationale": "Belge, sosyal değerlere ters düşmemesi gerektiğini vurgular.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece manevi değerlere uygun olması yeterlidir.",
+          "rationale": "Belge gelenek ve töreleri de kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece geleneklere uygun olması yeterlidir.",
+          "rationale": "Belge manevi değerleri ve töreleri de kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bu konudan bahsedilmemiştir.",
+          "rationale": "Slayt 56, 13. maddede bu konu doğrudan ele alınmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "question": "Rekreasyon Yönetimi (Slayt 57) hangi iki planda yapılmaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece Bireysel Planda",
+          "rationale": "Bireysel planın yanı sıra toplumsal plan da vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel Planda ve Toplumsal Planda",
+          "rationale": "Slayt 57, yönetimi 'a) Bireysel Planda' ve 'b) Toplumsal Planda' olarak ikiye ayırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece Toplumsal Planda",
+          "rationale": "Bireysel plan da (kişinin kendi karar vermesi) bir yönetim olayıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resmi ve Gayri resmi Planda",
+          "rationale": "Bunlar, 'Toplumsal Planda Yapılan Yönetim'in alt kategorileridir (Slayt 57).",
+          "isCorrect": false
+        },
+        {
+          "text": "Siyasi ve Özel Sektör Planda",
+          "rationale": "Bu, toplumsal planın bir parçasıdır ancak sınıflandırmanın tamamı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "question": "Bir öğrencinin derse girip girmeme kararı, hangi tür rekreasyon yönetimine örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Toplumsal Planda - Resmi Yönetim",
+          "rationale": "Bu, hükümetin veya bir kurumun yönetimidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal Planda - Gayri resmi Yönetim",
+          "rationale": "Bu, toplum düzeyinde kolektif bir yönetimdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel Planda Yapılan Yönetim",
+          "rationale": "Slayt 57, 'bir öğrencinin derse girip girmeme gibi kararları' bireysel yönetime örnek verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rekreasyon Yönetimi değildir.",
+          "rationale": "Slayt 57, bunun 'farkında olmaksızın yerine getirdiği bir yönetim olayıdır' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Siyasi İktidarın Yönetimi",
+          "rationale": "Bu, toplumsal planın bir parçasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "question": "Günümüzde boş zaman ve rekreasyon faaliyetleri kimin görevi haline gelmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece bireylerin",
+          "rationale": "Bireysel yönetim olsa da, toplumsal bir görev boyutu da vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece özel sektörün",
+          "rationale": "Slayt 57, 'siyasi iktidarların (hükümetin)' görevinden bahseder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Siyasi iktidarların (hükümetin)",
+          "rationale": "Slayt 57, 'boş zaman ve rekreasyon faaliyetleri, siyasi iktidarların (hükümetin) görevi haline gelmiştir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece ailelerin",
+          "rationale": "Aile bir faktör olsa da, toplumsal düzeyde görev hükümetlere verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kimsenin görevi değildir.",
+          "rationale": "Slayt 57, bunun bir görev haline geldiğini belirtir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "question": "Aşağıdakilerden hangisi Slayt 58-59'da belirtilen 'Rekreasyon İlkeleri'nden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Programlarda herkese eşit katılma fırsatı sağlanmalıdır.",
+          "rationale": "Slayt 58, 1. ilke.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bütün yaş gruplarına hizmet vermelidir.",
+          "rationale": "Slayt 58, 2. ilke.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile üyelerinin de katılımına imkan vermelidir.",
+          "rationale": "Slayt 58, 3. ilke.",
+          "isCorrect": false
+        },
+        {
+          "text": "Programlar çok çeşitli faaliyetleri kapsamalıdır.",
+          "rationale": "Slayt 58, 4. ilke.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faaliyetler mümkün olduğu kadar yüksek ücretli olmalıdır.",
+          "rationale": "Slayt 60, 11. ilke 'Faaliyetler, mümkün olduğu kadar ücretsiz olmalı ve katılımı arttırmalıdır' der.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "question": "Rekreasyon ilkelerine göre, programların amacı ne olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece beceri ve yeteneklere öncelik vermek",
+          "rationale": "Bu bir ilkedir (Slayt 58, 5. ilke), ancak tek amaç değildir. Kişilik geliştirme de önemlidir (6. ilke).",
+          "isCorrect": false
+        },
+        {
+          "text": "Mevcut kaynakları en verimli şekilde kullanmak",
+          "rationale": "Slayt 59, 10. ilke 'Amaç, mevcut kaynakları en verimli şekilde kullanmaktır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece doğadan uzak faaliyetler düzenlemek",
+          "rationale": "Slayt 60, 13. ilke 'Faaliyetler, doğaya yönelik veya doğa ile ilişkili olmalıdır' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Programları sürekli değerlendirmemek",
+          "rationale": "Slayt 60, 12. ilke 'Faaliyet ve programlar sürekli olarak değerlendirilmelidir' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece bireylerin gönüllü hizmetinden kaçınmak",
+          "rationale": "Slayt 60, 15. ilke 'bireylerin... gönüllü hizmetlerinden ve yeteneklerinden yararlanılmalıdır' der.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "question": "Aşağıdakilerden hangisi 'Rekreasyon Planlama Aşamaları'ndan (Slayt 61) biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Envanter aşaması",
+          "rationale": "Slayt 61'de 1. aşama olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Analiz aşaması",
+          "rationale": "Slayt 61'de 2. aşama olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Planlama aşaması",
+          "rationale": "Slayt 61'de 3. aşama olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Program-proje uygulama aşaması",
+          "rationale": "Slayt 61'de 4. aşama olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pazarlama aşaması",
+          "rationale": "Slayt 61'deki 5 aşama (Envanter, Analiz, Planlama, Uygulama, İşletme) arasında 'Pazarlama' ayrı bir aşama olarak listelenmemiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "question": "Slayt 61'e göre Rekreasyon Planlama Aşamalarının doğru sıralaması nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Planlama -> Analiz -> Envanter -> Uygulama -> İşletme",
+          "rationale": "Sıralama yanlıştır, envanter ve analiz planlamadan önce gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Envanter -> Analiz -> Planlama -> Program-proje uygulama -> İşletme",
+          "rationale": "Slayt 61'de verilen sıralama budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "İşletme -> Uygulama -> Planlama -> Analiz -> Envanter",
+          "rationale": "Bu, sürecin tersten sıralanmış halidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Analiz -> Planlama -> Envanter -> İşletme -> Uygulama",
+          "rationale": "Sıralama yanlıştır, envanter analizden önce gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Planlama -> Envanter -> Analiz -> Uygulama -> İşletme",
+          "rationale": "Sıralama yanlıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "question": "Aşağıdakilerden hangisi 'Rekreasyon Programlamada Etkin Olan Faktörler'den (Slayt 62) biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İlgi (Grup veya kişilerin ilgisi)",
+          "rationale": "Slayt 62'de 'a' bendi olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaş (Kişi ve grupların yaşları)",
+          "rationale": "Slayt 62'de 'b' bendi olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cinsiyet (Erkek kadın farklılıkları)",
+          "rationale": "Slayt 62'de 'c' bendi olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yer-mekan (Faaliyetin düzenlendiği alan)",
+          "rationale": "Slayt 62'de 'd' bendi olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Politik Görüş (Katılımcıların siyasi tercihleri)",
+          "rationale": "Slayt 62-63'te listelenen 10 faktör (İlgi, Yaş, Cinsiyet, Yer, Yetenek, Zaman, Fayda, Grup Büyüklüğü, Organizasyon, Planlama) arasında politik görüş yer almaz.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "question": "Rekreasyon programlamada 'Yetenek-beceri' faktörü neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çünkü sadece yeteneksiz kişilerin katılması gerekir.",
+          "rationale": "Slayt 62, yetenek ve becerilerin 'dikkate almak' gerektiğini söyler, dışlamayı değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü faaliyetler katılımcıların yetenek ve becerilerine göre düzenlenmelidir.",
+          "rationale": "Slayt 62 'e' bendinde, 'Kişilerin beceri ve yeteneklerine göre... faaliyetleri düzenlenmelidir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çünkü rekreasyon sadece profesyonel sporcular içindir.",
+          "rationale": "Rekreasyon her seviyeden insan içindir, bu faktör sadece programlamayı etkiler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yetenek ve becerinin programlamada hiçbir önemi yoktur.",
+          "rationale": "Slayt 62'de bu, etkin olan bir faktör olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü herkesin yeteneği aynıdır.",
+          "rationale": "Faktörün dikkate alınma nedeni tam da yeteneklerin farklı olmasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "question": "Rekreasyon programlamada 'Zaman' faktörü neleri kapsar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece faaliyetin hangi yıl yapılacağını",
+          "rationale": "Slayt 63 'f' bendi, mevsimi ve süreyi de kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faaliyetlerin düzenlenme zamanı, mevsimi ve faaliyetlerin süresi",
+          "rationale": "Slayt 63 'f' bendinde bu üç unsur belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece faaliyetin ne kadar süreceğini",
+          "rationale": "Bu, zaman faktörünün sadece bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece hangi mevsimde yapılacağını",
+          "rationale": "Bu, zaman faktörünün sadece bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece katılımcıların yaşını",
+          "rationale": "Bu, 'Yaş' faktörüdür, 'Zaman' değil (Slayt 62).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "question": "Rekreasyon programlamada 'Grubun büyüklüğü' faktörü neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çünkü sadece bireysel faaliyetler düzenlenmelidir.",
+          "rationale": "Slayt 63 'h' bendi, 'bireylere ve gruplara yönelik ayrı ayrı düzenleme yapılmalıdır' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü faaliyetlerin yönetimini ve alanın kullanımını etkiler.",
+          "rationale": "Slayt 63 'h' bendi, 'Katılacakların sayıları, faaliyetlerin yönetimini yakından etkilemektedir' ve 'faaliyet alanının kullanımını da etkilemektedir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çünkü gruplar her zaman bireylerden daha iyidir.",
+          "rationale": "Belge, her ikisine de yönelik düzenleme yapılması gerektiğini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup büyüklüğünün hiçbir önemi yoktur.",
+          "rationale": "Slayt 63'te bu, etkin bir faktör olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü gruplar her zaman daha az maliyetlidir.",
+          "rationale": "Belgede maliyetle ilgili bir karşılaştırma yapılmamış, yönetime etkisi vurgulanmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "question": "Rekreasyon programlamada 'Planlama ve yönetim' faktörünün temel stratejisi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Planları bir kez yapıp asla değiştirmemek.",
+          "rationale": "Slayt 63 'j' bendi, 'devamlı değişen yenilikçi planlamalar yapmak' gerektiğini söyler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumun ve müşterilerin ihtiyaçlarını göz önüne alarak devamlı değişen yenilikçi planlamalar yapmak.",
+          "rationale": "Slayt 63 'j' bendinde 'Toplumun ve müşterilerin ihtiyaçları göz önüne alınarak devamlı değişen yenilikçi planlamalar yapmak temel stratejidir' denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece müşterilerin ihtiyaçlarını göz ardı etmek.",
+          "rationale": "Aksine, 'göz önüne alınarak' denilmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece planlama yapmak, yönetimi başkasına bırakmak.",
+          "rationale": "Faktörün adı 'Planlama ve yönetim'dir; 'en iyi şekilde gerçekleştirilmeli ve yönetilmelidir' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece diğer departmanlarla işbirliği yapmamak.",
+          "rationale": "Aksine, 'çeşitli departmanlar arasında işbirliği gerektiren bir faaliyettir' der.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "question": "Slayt 66'ya göre rekreasyon faaliyetlerinin sınıflandırılmasının zor olmasının nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çok az rekreasyon çeşidi olması.",
+          "rationale": "Aksine, çok fazla çeşit vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her faaliyetin sadece tek bir gruba girmesi.",
+          "rationale": "Slayt 66, aksine bir faaliyetin 'birden fazla gruba girmektedir' olduğunu belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rekreasyonun çok yönlü olması ve bir etkinliğin birden fazla gruba girebilmesi.",
+          "rationale": "Slayt 66, TV izleme ve golf örneklerini vererek 'Bu durumun nedeni rekreasyonun çok yönlü olmasıdır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rekreasyonun mekansal bir kavram olmaması.",
+          "rationale": "Sınıflandırmalardan biri 'Mekânsal Açıdan' yapılmaktadır (Slayt 67).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sınıflandırma için hiçbir kriter olmaması.",
+          "rationale": "Slayt 66, 'mekan, amaç, fonksiyon vb. kriterler' rol oynamaktadır der.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "question": "Kayak, tırmanma, piknik ve bahçe işleri hangi rekreasyon sınıflandırmasına girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kapalı alan rekreasyonu",
+          "rationale": "Bu faaliyetler kapalı alanda yapılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Açık alan rekreasyonu",
+          "rationale": "Slayt 67, bu faaliyetleri (kayak, tırmanma, piknik, bahçe işleri) 'Açık alan rekreasyonu' başlığı altında listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pasif rekreasyon",
+          "rationale": "Bu faaliyetlerin çoğu (tırmanma, kayak) yüksek düzeyde aktif katılım gerektirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estetik rekreasyon",
+          "rationale": "Bu faaliyetler estetik bir boyuta sahip olabilir ancak birincil sınıflandırmaları bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ticari rekreasyon",
+          "rationale": "Piknik veya bahçe işleri ticari olmak zorunda değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "question": "Aşağıdakilerden hangisi 'Kapalı alan rekreasyonu'na (Slayt 68) bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İzcilik ve kampçılık",
+          "rationale": "Bunlar 'Açık alan rekreasyonu' örnekleridir (Slayt 67).",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğa incelemesi",
+          "rationale": "Bu bir 'Açık alan rekreasyonu' örneğidir (Slayt 67).",
+          "isCorrect": false
+        },
+        {
+          "text": "Tırmanma ve kayak",
+          "rationale": "Bunlar 'Açık alan rekreasyonu' örnekleridir (Slayt 67).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sauna, kaplıca, fitness ve hamam gibi sağlıklı yaşam etkinlikleri",
+          "rationale": "Slayt 68, 'Kapalı tesislerdeki sağlıklı yaşam etkinliklerine katılmak' başlığı altında bu örnekleri verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Piknik yapmak",
+          "rationale": "Bu bir 'Açık alan rekreasyonu' örneğidir (Slayt 67).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "question": "Evde televizyon izlemek, Slayt 68'e göre hangi rekreasyon türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece açık alan rekreasyonu",
+          "rationale": "Bu faaliyet evde, yani kapalı alanda yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ev içi rekreasyon (Kapalı alan rekreasyonunun bir alt türü)",
+          "rationale": "Slayt 68, 'Ev içi rekreasyon etkinliklerine katılmak (televizyon ve video izlemek...)' şeklinde belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece aktif rekreasyon",
+          "rationale": "TV izlemek genellikle 'pasif (edilgen)' rekreasyon olarak kabul edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece fiziksel rekreasyon",
+          "rationale": "Bu, fiziksel bir çaba gerektirmeyen, pasif bir etkinliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece turistik rekreasyon",
+          "rationale": "Bu, turistik bir seyahat gerektirmez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "question": "Katılımcıların milliyetlerine göre rekreasyon nasıl sınıflandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aktif ve Pasif",
+          "rationale": "Bu, katılma şekline göre sınıflandırmadır (Slayt 70).",
+          "isCorrect": false
+        },
+        {
+          "text": "Açık ve Kapalı",
+          "rationale": "Bu, mekâna göre sınıflandırmadır (Slayt 67-68).",
+          "isCorrect": false
+        },
+        {
+          "text": "Ulusal ve Uluslararası",
+          "rationale": "Slayt 69, 'ulusal ve uluslararası olmak üzere iki grupta incelenir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ferdi ve Grup",
+          "rationale": "Bu, katılımcı sayısına göre sınıflandırmadır (Slayt 72).",
+          "isCorrect": false
+        },
+        {
+          "text": "Ticari ve Estetik",
+          "rationale": "Bu, fonksiyonel sınıflandırmanın alt türleridir (Slayt 73-74).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "question": "Bir spor karşılaşmasını stadyumda izleyen bir seyirci, hangi tür rekreasyon faaliyetini gerçekleştirmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etken (aktif) rekreasyon",
+          "rationale": "Aktif rekreasyon, bireyin 'aktif rol aldıkları' (örn. golf oynama) etkinliklerdir (Slayt 70).",
+          "isCorrect": false
+        },
+        {
+          "text": "Edilgen (pasif) rekreasyon",
+          "rationale": "Slayt 70, 'insanların rol almadıkları, izleyici (seyirci) olarak katıldıkları' etkinliklere (örn. spor karşılaşmalarını izleme) edilgen (pasif) rekreasyon der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ferdi rekreasyon",
+          "rationale": "Stadyumda izlemek genellikle bir grup etkinliğidir, ancak bireysel de olabilir; ancak asıl ayrım aktif/pasifliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapalı alan rekreasyonu",
+          "rationale": "Stadyum açık alan da olabilir, kapalı alan da; ancak bu, katılma şeklini tanımlamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık rekreasyonu",
+          "rationale": "İzlemek, spor yapmanın getirdiği fiziksel sağlık faydasını sağlamaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "question": "Grup halinde yüzme etkinliğine katılmak, Slayt 70'e göre hangi rekreasyon türüdür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etken (aktif) rekreasyon",
+          "rationale": "Slayt 70, 'yüzme, golf oynama' gibi etkinliklere 'aktif rol aldıkları' için 'etken (aktif) rekreasyon' olarak örnek verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Edilgen (pasif) rekreasyon",
+          "rationale": "Yüzme, izlemenin aksine aktif bir eylemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece uluslararası rekreasyon",
+          "rationale": "Grup ulusal da olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece estetik rekreasyon",
+          "rationale": "Yüzme, birincil olarak 'fiziksel rekreasyon' kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece kapalı alan rekreasyonu",
+          "rationale": "Yüzme açık alanda (deniz, göl) da yapılabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "question": "56 yaş ve üstü emekliler için düzenlenen rekreasyon faaliyetleri hangi yaş grubuna girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çocuk rekreasyonu (3-6 yaş)",
+          "rationale": "Bu, Slayt 71'deki farklı bir yaş grubudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yetişkin rekreasyonu (16-24 yaş)",
+          "rationale": "Bu, Slayt 71'deki farklı bir yaş grubudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üretken yaş rekreasyonu (26-55 yaş)",
+          "rationale": "Bu, Slayt 71'deki farklı bir yaş grubudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üçüncü kuşak rekreasyonu (yaşlılar veya emekliler, 56 yaş ve üstü)",
+          "rationale": "Slayt 71, '56 yaş ve üstü' grubunu 'Üçüncü kuşak rekreasyonu' olarak adlandırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tüm yaş gruplarına",
+          "rationale": "Bu, spesifik olarak yaşlılara yönelik bir rekreasyon türüdür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "question": "Evde tek başına müzik dinlemek, katılımcı sayısına göre hangi rekreasyon çeşididir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Grup rekreasyonu",
+          "rationale": "Grup rekreasyonu, 'grup halinde' yapılan faaliyetlerdir (Slayt 72).",
+          "isCorrect": false
+        },
+        {
+          "text": "Ferdi (bireysel) rekreasyon",
+          "rationale": "Slayt 72, 'insanların yalnız olarak boş zamanlarını değerlendirmeleridir' der ve 'evde tek başına müzik dinlemek' örneğini verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ulusal rekreasyon",
+          "rationale": "Bu, milliyete göre bir ayrımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aktif rekreasyon",
+          "rationale": "Müzik dinlemek genellikle 'pasif' bir rekreasyon olarak kabul edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Açık alan rekreasyonu",
+          "rationale": "Bu faaliyet 'evde', yani kapalı alanda yapılır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "question": "Grupça sinemaya gitmek veya kutlama yemeğine katılmak, katılımcı sayısına göre hangi rekreasyon çeşididir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Grup rekreasyonu",
+          "rationale": "Slayt 72, 'insanların grup halinde boş zamanlarını değerlendirmeleridir' der ve bu örnekleri verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ferdi (bireysel) rekreasyon",
+          "rationale": "Bu faaliyetler 'grupça' veya başkalarıyla birlikte yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uluslararası rekreasyon",
+          "rationale": "Grup ulusal da olabilir; bu milliyete göre bir ayrımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estetik rekreasyon",
+          "rationale": "Sinema estetik bir yönü olsa da, buradaki sınıflandırma 'katılımcı sayısı'na göredir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık rekreasyonu",
+          "rationale": "Bu faaliyetlerin birincil amacı sağlık değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "question": "İnsanların ücret karşılığında katıldıkları (at yarışları, talih oyunları, rafting) rekreasyon türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Estetik rekreasyon",
+          "rationale": "Bu, yüksek eğitim ve kültür düzeyine hitap eder (Slayt 74).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal rekreasyon",
+          "rationale": "Bu, sosyal ilişkiler kurmaya yöneliktir (Slayt 75).",
+          "isCorrect": false
+        },
+        {
+          "text": "Ticari rekreasyon",
+          "rationale": "Slayt 73, 'İnsanların ücret karşılığında katıldıkları' etkinlikler olarak tanımlar ve bu örnekleri verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sağlık rekreasyonu",
+          "rationale": "Bu, sağlığı koruyucu veya tedavi edici etkinliklerdir (Slayt 76).",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel rekreasyon",
+          "rationale": "Bu, bilgi ve beceri artırmaya yöneliktir (Slayt 81).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "question": "Sanat etkinliklerini izlemek veya ünlü müzik yapıtlarını dinlemek gibi, genellikle yüksek eğitim ve kültür düzeyine hitap eden rekreasyon türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ticari rekreasyon",
+          "rationale": "Bu, birincil olarak ücretle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estetik rekreasyon",
+          "rationale": "Slayt 74, 'Genellikle yüksek eğitim ve kültür düzeyindeki insanların katıldıkları etkinliklerdir' der ve bu örnekleri verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fiziksel rekreasyon",
+          "rationale": "Bu, spor ve fiziksel eforla ilgilidir (Slayt 77).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal rekreasyon",
+          "rationale": "Bu, birincil olarak sosyal ilişkilerle ilgilidir (Slayt 75).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık rekreasyonu",
+          "rationale": "Bu, birincil olarak sağlıkla ilgilidir (Slayt 76).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "question": "Kutlama partileri, yemekli toplantılar ve akraba ziyaretleri hangi fonksiyonel rekreasyon türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sosyal rekreasyon",
+          "rationale": "Slayt 75, 'Sosyal (beşeri) ilişkiler kurma veya sosyal ilişkileri kuvvetlendirmeye yönelik etkinliklerdir' der ve bu örnekleri verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fiziksel rekreasyon",
+          "rationale": "Bu faaliyetler fiziksel efor gerektirmeyebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanatsal rekreasyon",
+          "rationale": "Bu faaliyetler sanatsal bir üretim veya izleme içermeyebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estetik rekreasyon",
+          "rationale": "Bu, yüksek kültürden ziyade beşeri ilişkilere odaklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel rekreasyon",
+          "rationale": "Kültürel rekreasyon (Slayt 81) daha çok bilgi/beceri odaklıdır, sosyal rekreasyon (Slayt 82) ise ziyaretleri de kapsar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "question": "Termalizm (kaplıca), klimatizm (iklim) ve yaylacılık hangi rekreasyon türüne örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sanatsal rekreasyon",
+          "rationale": "Bu, sanatla ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ticari rekreasyon",
+          "rationale": "Bu faaliyetler ticari olabilir, ancak fonksiyonel sınıflandırmada daha spesifik bir karşılığı vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal rekreasyon",
+          "rationale": "Amaç sosyalleşmekten çok sağlıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık rekreasyonu",
+          "rationale": "Slayt 76, 'Sağlığı koruyucu, tedavi edici' etkinlikler olarak tanımlar ve 'Termalizme... klimatizme... yaylacılık' gibi örnekleri verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fiziksel rekreasyon",
+          "rationale": "Yaylacılık fiziksel olsa da, kaplıca (termalizm) pasif bir sağlık etkinliğidir. Kapsayıcı kategori 'sağlık'tır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "question": "Açık ve kapalı alanlarda yapılan tüm spor çeşitleri ve sportif oyunlara katılım, hangi rekreasyon türüdür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Estetik rekreasyon",
+          "rationale": "Bu, sanatsal zevkle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel rekreasyon",
+          "rationale": "Slayt 77, 'Açık ve kapalı alanlarda yapılan tüm spor çeşitleri ve sportif oyunlara katılmaktır' şeklinde tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosyal rekreasyon",
+          "rationale": "Spor sosyal olabilir, ancak birincil fonksiyonu fizikseldir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel rekreasyon",
+          "rationale": "Bu, bilgi/beceri ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistik rekreasyon",
+          "rationale": "Bu, turistik bir gezi sırasında yapılabilir, ancak sporun temel fonksiyonu fizikseldir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "question": "Slayt 77'ye göre 'Havuz, akarsu, göl ve deniz etkinlikleri' (Fiziksel Rekreasyon alt başlığı) hangisini kapsamaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yüzme, su altı dalış",
+          "rationale": "Slayt 77, A başlığı altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rafting, rüzgâr sörfü, yelkencilik",
+          "rationale": "Slayt 77, A başlığı altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Havuz oyunları (su balesi, su voleybolu)",
+          "rationale": "Slayt 77, A başlığı altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tırmanma, yürüyüş (trekking), kar kayağı",
+          "rationale": "Bunlar Slayt 78'de 'B. Dağ sporları' başlığı altında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sandal, yat, deniz bisikleti gezileri",
+          "rationale": "Slayt 77, A başlığı altında listelenmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "question": "Tırmanma, trekking ve kar kayağı hangi Fiziksel Rekreasyon alt türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Havuz, akarsu, göl ve deniz etkinlikleri",
+          "rationale": "Bu, su sporlarıdır (Slayt 77).",
+          "isCorrect": false
+        },
+        {
+          "text": "Dağ sporları",
+          "rationale": "Slayt 78, 'B. Dağ sporları' başlığı altında 'Tırmanma, yürüyüş (trekking)... kar kayağı'nı listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sportif rekreasyon merkezlerindeki etkinlikler",
+          "rationale": "Bunlar genellikle merkez dışında, doğada yapılır (Dağ).",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel beceri oyunları",
+          "rationale": "Bunlar spor dalı olarak sınıflandırılmıştır (Slayt 79).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanatsal rekreasyon",
+          "rationale": "Bunlar fiziksel efor gerektiren sporlardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "question": "Tehlikeli (adrenalin içeren) sporlar, golf, tenis ve paraşütçülük hangi Fiziksel Rekreasyon alt türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dağ sporları",
+          "rationale": "Golf veya tenis dağ sporu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Havuz ve deniz etkinlikleri",
+          "rationale": "Bu faaliyetler suda yapılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sportif rekreasyon merkezlerindeki etkinlikler",
+          "rationale": "Slayt 78, 'C. Sportif rekreasyon merkezlerindeki etkinlikler' başlığı altında 'Tehlikeli... sporlar... golf... tenis... paraşütçülük' vb. listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fiziksel beceri oyunları ve yarışmaları",
+          "rationale": "Bunlar daha çok spor dalı olarak kabul edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel rekreasyon",
+          "rationale": "Bunlar fiziksel sporlardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "question": "İnsanların sanatsal becerilerini geliştirici ve artırıcı (sepetçilik, seramik, heykelcilik) etkinlikler hangi rekreasyon türüdür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiziksel rekreasyon",
+          "rationale": "Bu, spora odaklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık rekreasyonu",
+          "rationale": "Bu, sağlığa odaklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanatsal rekreasyon",
+          "rationale": "Slayt 80, 'İnsanların, sanatsal becerilerini geliştirici ve arttırıcı etkinliklerdir' der ve 'Sepetçilik, seramik işleri... heykelcilik' gibi örnekleri verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kültürel rekreasyon",
+          "rationale": "Sanat, kültürün bir parçası olsa da, 'sanatsal üretim' Slayt 80'de ayrı bir başlıkta ele alınmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal rekreasyon",
+          "rationale": "Bu, ilişkilere odaklıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 91,
+      "question": "Sinema, tiyatro, opera, bale gibi etkinlikleri izlemek veya amatör olarak rol almak hangi rekreasyon türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sanatsal rekreasyon",
+          "rationale": "Slayt 80, bu etkinlikleri (izleme veya rol alma) 'Sanatsal rekreasyon'un ikinci bölümünde listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fiziksel rekreasyon",
+          "rationale": "Bu, birincil olarak fiziksel sporla ilgili değildir (Bale hariç, ancak burada izleme de dahildir).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık rekreasyonu",
+          "rationale": "Birincil amaç sağlık tedavisi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistik rekreasyon",
+          "rationale": "Bu, turistik bir gezi sırasında yapılabilir, ancak temel fonksiyonu sanatsaldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ticari rekreasyon",
+          "rationale": "Bilet ücreti olsa da, fonksiyonel sınıflandırması 'Sanatsal'dır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 92,
+      "question": "Katılımcıların bilgi ve becerilerini artırmaya yönelik (meslek kursları, yabancı dil kursu) etkinlikler hangi rekreasyon türüdür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kültürel rekreasyon",
+          "rationale": "Slayt 81, 'Katılıcıların bilgi ve becerilerini artırmaya yönelik... etkinliklerdir' der ve 'meslek kursları, yabancı dil kursu' örneğini verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sanatsal rekreasyon",
+          "rationale": "El sanatları kursu kültürel rekreasyona girse de, yabancı dil kursu sanatsal değildir. Kapsayıcı küme 'kültürel'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel rekreasyon",
+          "rationale": "Bu faaliyetler fiziksel efor gerektirmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık rekreasyonu",
+          "rationale": "Amaç bilgi ve beceri artırmaktır, sağlık değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal rekreasyon",
+          "rationale": "Kurslar sosyalleşme sağlasa da, birincil fonksiyonu kültürel (eğitsel)dir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 93,
+      "question": "Aşağıdakilerden hangisi Slayt 81-82'de 'Kültürel rekreasyon' altında listelenen etkinliklerden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Günübirlik ve turistik geziler",
+          "rationale": "Slayt 81'de listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sergi, festival, panayır, kutlama, şenlik... izleme veya rol alma",
+          "rationale": "Slayt 81'de listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kütüphane etkinlikleri (araştırma yapma vb.)",
+          "rationale": "Slayt 81'de listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitsel oyunlar, talih oyunları, bilgisayar oyunları",
+          "rationale": "Slayt 82'de listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tırmanma, yürüyüş (trekking) ve kar kayağı",
+          "rationale": "Bunlar Slayt 78'de 'Fiziksel rekreasyon - Dağ sporları' altında listelenmiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 94,
+      "question": "Korku tüneli, salıncak, tahterevalli gibi 'şok, kasılma ve korku yaratan oyunlar' hangi rekreasyon türü altında sınıflandırılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sağlık rekreasyonu",
+          "rationale": "Bu, tedavi edici bir faaliyet değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel rekreasyon",
+          "rationale": "Slayt 82, bu tür oyunları 'Kültürel rekreasyon'un bir alt türü olan 'Eğitsel oyunlar' (veya genel olarak oyunlar) başlığı altında listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Estetik rekreasyon",
+          "rationale": "Bu, estetik zevkten çok heyecan ve korku ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal rekreasyon",
+          "rationale": "Bu, sosyal bir ortamda yapılsa da, oyunun fonksiyonu kültürel (eğlence) olarak sınıflandırılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel rekreasyon",
+          "rationale": "Bazı fiziksel etkileri olsa da, Slayt 82'de Kültürel başlığı altındadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 95,
+      "question": "'Turistik rekreasyon' nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistik boş zaman diliminde gerçekleştirilen boş zaman değerlendirme etkinlikleri.",
+          "rationale": "Slayt 83'te verilen tanım budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turizmden nefret etmek.",
+          "rationale": "Bu, tanımın tam tersidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece evde yapılan rekreasyon.",
+          "rationale": "Turistik rekreasyon, evden uzakta, seyahat sırasında yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece spor yapmak.",
+          "rationale": "Bu, fiziksel rekreasyondur; turizm sırasında yapılabilir ancak tanımı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece kongrelere katılmak.",
+          "rationale": "Kongreye katılmak Slayt 83'te bir örnek olarak verilmiştir, ancak tanımın tamamı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 96,
+      "question": "Bir rekreasyon etkinliği, konaklama yapan turistlere yönelikse ve turizm işletmeleri tarafından yönetiliyorsa, bu etkinliğe özel olarak ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Animasyon",
+          "rationale": "Slayt 83, 'eğer, rekreasyon etkinliği... turizm işletmeleri tarafından yönetiliyorsa bu etkinlikler aynı zamanda animasyondur' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kültürel rekreasyon",
+          "rationale": "Animasyon, kültürel rekreasyonu kapsayabilir ancak otel tarafından yönetilmesi ona 'animasyon' kimliği kazandırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel rekreasyon",
+          "rationale": "Oteldeki spor faaliyeti bir animasyondur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eko turizm",
+          "rationale": "Bu, çevre bilinciyle ilgili bir turizm türüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece rekreasyon",
+          "rationale": "Slayt 83, bu özel duruma 'animasyon' dendiğini belirtir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 97,
+      "question": "Aşağıdakilerden hangisi 'animasyon'a örnek olabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Evde tek başına kitap okumak.",
+          "rationale": "Bu, turizm işletmesi tarafından yönetilmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklama işletmesince düzenlenen eğlence gecelerine, gezilere ve sportif etkinliklere katılma.",
+          "rationale": "Slayt 83, bu örnekleri 'animasyon' tanımının hemen ardından verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Şehir parkında piknik yapmak.",
+          "rationale": "Bu, bir turizm işletmesi (otel) tarafından yönetilen bir etkinlik değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir yabancı dil kursuna gitmek.",
+          "rationale": "Bu, kültürel rekreasyondur ancak bir otel animasyonu olmak zorunda değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kaplıcaya gitmek.",
+          "rationale": "Bu, sağlık rekreasyonudur. Otel bünyesinde ise animasyon programının bir parçası olabilir, ancak tek başına animasyon demek değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 98,
+      "question": "PDF'e göre, bir aktivite (örn. araba kullanmak) ne zaman rekreasyon sayılır, ne zaman sayılmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Her zaman rekreasyondur.",
+          "rationale": "Slayt 53, işe giderken araba kullanmanın 'ulaşım şekli' olduğunu belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiçbir zaman rekreasyon değildir.",
+          "rationale": "Slayt 53, 'Zevk için araba kullanmak' bir rekreasyon şekli olabilir der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece işe giderken kullanmak rekreasyondur.",
+          "rationale": "İşe gitmek bir zorunluluktur ve rekreasyon sayılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "İçinde bulunulan ortam ve şartlara (örn. zevk için yapılması) bağlı olarak rekreasyon sayılabilir.",
+          "rationale": "Slayt 53, 'İçinde bulunulan ortam ve şartlar'ın ve 'Zevk için' yapılmasının belirleyici olduğunu vurgular.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece pahalı bir araba ise rekreasyondur.",
+          "rationale": "Belgede böyle bir maddi ayrımdan bahsedilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 99,
+      "question": "Slayt 62'ye göre rekreasyon programlaması yapılırken cinsiyet faktörü (erkek-kadın) dikkate alınmalı mıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hayır, cinsiyet faktörü hiçbir zaman dikkate alınmamalıdır.",
+          "rationale": "Slayt 62 'c' bendi, 'cinsiyet farklılıkları dikkate alınmalı' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Evet, dikkate alınmalı ve müşterek (karma) faaliyetler buna göre düzenlenmelidir.",
+          "rationale": "Slayt 62 'c' bendi, 'erkek kadın arasındaki cinsiyet farklılıkları dikkate alınmalı ve müşterek faaliyetler buna göre düzenlenmelidir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece erkekler için faaliyetler düzenlenmelidir.",
+          "rationale": "Belge, 'Her iki grup için özellikli faaliyetler yapılabilir' diyerek ayrımcılığı değil, çeşitliliği savunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece kadınlar için faaliyetler düzenlenmelidir.",
+          "rationale": "Belge, 'Her iki grup için özellikli faaliyetler yapılabilir' diyerek ayrımcılığı değil, çeşitliliği savunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cinsiyet, rekreasyonda etkin bir faktör değildir.",
+          "rationale": "Slayt 62, cinsiyeti 'Etkin Olan Faktörler' arasında listeler.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 100,
+      "question": "Rekreasyon ilkelerine göre (Slayt 60), faaliyetlerin güvenlik ve sağlık açısından durumu ne olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Güvenlik ve sağlık sorunları öncelikli değildir.",
+          "rationale": "Slayt 60, 14. ilke bunun tam tersini söyler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faaliyetlere katılacakların güvenlik ve sağlık sorunları olmamalıdır.",
+          "rationale": "Slayt 60, 14. ilke 'Faaliyetlere katılacakların güvenlik ve sağlık sorunları olmamalıdır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece tehlikeli (adrenalin) sporlarda güvenlik önemlidir.",
+          "rationale": "Bu ilke, tüm rekreasyon faaliyetleri için genel bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece sağlık sorunları önemlidir, güvenlik değil.",
+          "rationale": "İlke, 'güvenlik ve sağlık' olarak her ikisini de belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece güvenlik sorunları önemlidir, sağlık değil.",
+          "rationale": "İlke, 'güvenlik ve sağlık' olarak her ikisini de belirtir.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

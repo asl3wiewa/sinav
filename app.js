@@ -86,6 +86,110 @@ const TESTS = {
 
   },
 
+  "on-buro-hizmetleri": {
+
+    title: "On Buro Hizmetleri Testi 1",
+
+    dataUrl: "on-buro-hizmetleri.json",
+
+  },
+
+  "on-buro-hizmetleri-2": {
+
+    title: "On Buro Hizmetleri Testi 2",
+
+    dataUrl: "on-buro-hizmetleri-2.json",
+
+  },
+
+  "mesleki-yabanci-dil-1": {
+
+    title: "Mesleki Yabancı Dil I Testi 1",
+
+    dataUrl: "mesleki-yabanci-dil-1.json",
+
+  },
+
+  "mesleki-yabanci-dil-1-2": {
+
+    title: "Mesleki Yabancı Dil I Testi 2",
+
+    dataUrl: "mesleki-yabanci-dil-1-2.json",
+
+  },
+
+  "mesleki-yabanci-dil-1-3": {
+
+    title: "Mesleki Yabancı Dil I Testi 3",
+
+    dataUrl: "mesleki-yabanci-dil-1-3.json",
+
+  },
+
+  "yiyecek-ve-icecek-servisi-1": {
+
+    title: "Yiyecek ve Icecek Servisi I Testi 1",
+
+    dataUrl: "yiyecek-ve-icecek-servisi-1.json",
+
+  },
+
+  "yiyecek-ve-icecek-servisi-1-2": {
+
+    title: "Yiyecek ve Icecek Servisi I Testi 2",
+
+    dataUrl: "yiyecek-ve-icecek-servisi-1-2.json",
+
+  },
+
+  "yiyecek-ve-icecek-servisi-1-3": {
+
+    title: "Yiyecek ve Icecek Servisi I Testi 3",
+
+    dataUrl: "yiyecek-ve-icecek-servisi-1-3.json",
+
+  },
+
+  "turizm-ve-cevre": {
+
+    title: "Turizm ve Cevre Testi 1",
+
+    dataUrl: "turizm-ve-cevre.json",
+
+  },
+
+  "turizm-ve-cevre-2": {
+
+    title: "Turizm ve Cevre Testi 2",
+
+    dataUrl: "turizm-ve-cevre-2.json",
+
+  },
+
+  "turizm-ve-cevre-3": {
+
+    title: "Turizm ve Cevre Testi 3",
+
+    dataUrl: "turizm-ve-cevre-3.json",
+
+  },
+
+  "turizmde-rekreasyon": {
+
+    title: "Turizmde Rekreasyon Testi 1",
+
+    dataUrl: "turizmde-rekreasyon.json",
+
+  },
+
+  "turizmde-rekreasyon-2": {
+
+    title: "Turizmde Rekreasyon Testi 2",
+
+    dataUrl: "turizmde-rekreasyon-2.json",
+
+  },
+
 
 };
 const TEST_ALIASES = {
@@ -101,6 +205,15 @@ const TEST_ALIASES = {
   "bagimlilik ve bagimlilikla mucadele": "bagimlilik-ve-bagimlilikla-mucadele",
   "bagimlilik ve bagimlilikla mucadele 2": "bagimlilik-ve-bagimlilikla-mucadele-2",
   "bagimlilik mucadele": "bagimlilik-ve-bagimlilikla-mucadele",
+  "turizm ve cevre": "turizm-ve-cevre",
+
+  "turizm ve cevre 2": "turizm-ve-cevre-2",
+
+  "turizm ve cevre 3": "turizm-ve-cevre-3",
+
+  "turizmde rekreasyon": "turizmde-rekreasyon",
+
+  "turizmde rekreasyon 2": "turizmde-rekreasyon-2",
   "kat hizmetleri": "kat-hizmetleri",
 
   "kat hizmetleri 2": "kat-hizmetleri-2",
@@ -111,6 +224,23 @@ const TEST_ALIASES = {
   "camasirhane kontrolu 2": "camasirhane-kontrolu-2",
 
   "camasirhane kontrolu 3": "camasirhane-kontrolu-3",
+  "on buro hizmetleri": "on-buro-hizmetleri",
+
+  "on buro hizmetleri 2": "on-buro-hizmetleri-2",
+
+  "mesleki yabanci dil i": "mesleki-yabanci-dil-1",
+
+  "mesleki yabanci dil i 2": "mesleki-yabanci-dil-1-2",
+
+  "mesleki yabanci dil i 3": "mesleki-yabanci-dil-1-3",
+
+  "yiyecek ve icecek servisi i": "yiyecek-ve-icecek-servisi-1",
+
+  "yiyecek ve icecek servisi i 2": "yiyecek-ve-icecek-servisi-1-2",
+
+  "yiyecek ve icecek servisi i 3": "yiyecek-ve-icecek-servisi-1-3",
+
+
 
 
 };

@@ -1,0 +1,3204 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Genel turizm tanımına göre, bir olayın turizm sayılabilmesi için aşağıdakilerden hangisi gerekli *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Seyahatin sürekli oturulan yer dışında gerçekleşmesi.",
+          "rationale": "Bu, turizmin temel öğelerinden biridir; seyahat, olağan yaşam alanının dışına olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklamanın geçici olması.",
+          "rationale": "Bu, turizmin temel öğelerinden biridir; kalıcı yerleşim turizm sayılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gidilen yerde turizm işletmelerinin hizmetlerinin istenmesi.",
+          "rationale": "Bu, turizmin temel öğelerinden biridir; konaklama, yeme-içme gibi hizmetlerin alınması gerekir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyahatin ticari veya sanayi amaçlı olması.",
+          "rationale": "Modern turizmin dayandığı nedenlerden biri ticaretin gelişmesi olsa da, her turizm olayının ticari amaçlı olması gerekmez. Dinlenme, eğlence de ana amaçlardandır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişilerin geçici konaklamalarından doğan gereksinimlerinin karşılanması.",
+          "rationale": "Bu, genel turizm tanımının ana unsurlarından biridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi 'Modern Turizm' tanımının dayandığı nedenlerden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gittikçe artan hava değişimi, dinlenme ve eğlenme gereksinimleri.",
+          "rationale": "Bu, modern turizmin temel dayanaklarından biri olarak metinde belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğa ve sanatla beslenen güzellikleri tanıma isteği.",
+          "rationale": "Bu, insanların seyahat etme motivasyonlarından biri olarak modern turizm tanımında yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ticaret ve sanayinin gelişmesi.",
+          "rationale": "Bu, modern turizmin ortaya çıkışını ve gelişimini destekleyen önemli bir faktördür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ulaşım araçlarının kusursuz hale gelmesi.",
+          "rationale": "Teknolojik gelişmeler ve ulaşımın kolaylaşması, modern turizmin ana dayanaklarındandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal güvenlik sistemlerinin zayıflaması.",
+          "rationale": "Metinde 'Sosyal Güvenlik' turizmin gelişim etmenleri arasında sayılmıştır; zayıflaması değil, varlığı turizmi destekler.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdakilerden hangisi Endüstri Devrimi sonrası turizmin dünyada gelişmesini sağlayan etmenlerden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Boş zaman yaratılması ve ücretli tatil hakkı.",
+          "rationale": "Bu iki faktör, insanların seyahat edebilmesi için gerekli olan zamanı ve ekonomik güvenceyi sağlamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknolojik yenilikler ve gelir düzeyinin artması.",
+          "rationale": "Ulaşım teknolojisi ve artan refah, turizmin gelişmesindeki ana etmenlerdendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kentleşme ve nüfus artışı.",
+          "rationale": "Kentlerin kalabalıklaşması, insanları dinlenme ve kaçış amacıyla seyahate yöneltmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsan ömrünün kısalması ve seyahat özgürlüğünün kısıtlanması.",
+          "rationale": "Tam tersine, metinde 'İnsan ömrünün uzaması' ve 'Seyahat özgürlüğü' turizmi geliştiren etmenler olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turizm bilincinin oluşması ve kültür/eğitim düzeyinin yükselmesi.",
+          "rationale": "Bu sosyal faktörler, insanların yeni yerler görme isteğini ve merakını artırmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "Turizmin sosyal etkileri arasında aşağıdakilerden hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dünya ve bölge barışına katkıda bulunması.",
+          "rationale": "Farklı kültürlerin birbirini tanıması barışa katkı olarak görülmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim ve kültür düzeyinin yükselmesine yol açması.",
+          "rationale": "Yeni yerler görmek ve öğrenmek, kültürel ve eğitsel bir gelişim sağlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile yapısı ve kadın hakları konusunda yenilikleri beraberinde getirmesi.",
+          "rationale": "Turizm, farklı sosyal yapıların etkileşimiyle toplumsal değişimlere yol açabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kırsal bölgelerin kentleşme olgusunu yavaşlatması.",
+          "rationale": "Metinde tam tersi, 'Kırsal bölgelerin kentleşme olgusunu hızlandırır' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Halkın ulusal ve kültürel değerlerle övünç duymasına neden olması.",
+          "rationale": "Kültürel mirasın turistler tarafından ilgi görmesi, yerel halkın bu değerlere sahip çıkmasını teşvik edebilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi 'Doğrudan Turizm Ürünü Sunan Sektörler' arasında *sayılmaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konaklama Sektörü (Oteller, tatil köyleri).",
+          "rationale": "Konaklama, turizmin ana bileşenidir ve doğrudan ürün sunan sektörlerin başında gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ulaştırma Sektörü (Havayolları, havaalanları).",
+          "rationale": "Ulaştırma, turistlerin destinasyona erişimini sağlayan doğrudan bir turizm hizmetidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağımsız işletilen restoranlar ve kafeteryalar.",
+          "rationale": "Metne göre, herhangi bir konaklama ünitesi bünyesinde yer almayıp bağımsız işletilen bu yerler 'Dolaylı Turizm Ürünü Sunan Sektörler'dendir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Cazibe Sektörü (Temalı parklar, müzeler).",
+          "rationale": "Bu sektör, turistlerin destinasyona gitme nedenini oluşturan çekicilikleri sunar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyahat Ticareti Sektörü (Tur operatörleri, seyahat acenteleri).",
+          "rationale": "Bu sektör, turizm ürünlerini paketleyip satan aracıları kapsar ve doğrudan turizmle ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "Aşağıdakilerden hangisi 'Dolaylı Turizm Ürünü Sunan Sektörler'e bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tatil köyleri",
+          "rationale": "Tatil köyleri, Konaklama Sektörü'nün bir parçası olup doğrudan turizm ürünü sunar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tur operatörleri",
+          "rationale": "Tur operatörleri, Seyahat Ticareti Sektörü'nün bir parçası olup doğrudan turizm ürünü sunar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ulusal parklar",
+          "rationale": "Ulusal parklar, Cazibe Sektörü'nün bir parçası olup doğrudan turizm ürünü sunar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gece kulüpleri ve diskotekler",
+          "rationale": "Metne göre, bağımsız işletilen eğlence yerleri dolaylı turizm ürünü sunan sektörlere örnektir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Havayolları",
+          "rationale": "Havayolları, Ulaştırma Sektörü'nün bir parçası olup doğrudan turizm ürünü sunar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "Türkiye'deki ulaştırma sektörü ağırlıklı olarak hangi türe dayanmaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Havayolu",
+          "rationale": "Metne göre yabancı ziyaretçilerin çoğu havayolu ile gelse de, 'ülkedeki ulaşım sektörü' genel olarak karayolu ağırlıklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karayolu",
+          "rationale": "Metinde 'Ülkedeki ulaşım sektörü karayolu ağırlıklıdır.' ifadesi net olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Denizyolu",
+          "rationale": "Denizyolu, Türkiye'de ulaştırmanın ana ağırlığını oluşturmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Demiryolu",
+          "rationale": "Demiryolu, Türkiye'de ulaştırmanın ana ağırlığını oluşturmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karma (Tümü eşit ağırlıkta)",
+          "rationale": "Metin, karayolunun 'ağırlıklı' olduğunu belirterek eşit olmadığını vurgulamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "2023 yılında Türkiye'ye gelen yabancı ziyaretçilerin en çok kullandığı ulaşım yolu hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Karayolu",
+          "rationale": "Ülke içi ulaşım karayolu ağırlıklı olsa da, 2023'te yabancı ziyaretçilerin %75.7'si havayolu ile gelmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Havayolu",
+          "rationale": "Metne göre, 2023'te yabancı ziyaretçilerin %75.7'si, yani büyük çoğunluğu havayolu ile gelmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Denizyolu",
+          "rationale": "Bu oran, havayolu ve karayoluna göre çok daha düşüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Demiryolu",
+          "rationale": "Bu oran, havayolu ve karayoluna göre çok daha düşüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otobüs",
+          "rationale": "Otobüs, karayolu taşımacılığının bir alt dalıdır ancak havayolu en yüksek oranı oluşturur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "Çevre tanımına göre, 'canlı öğeler' arasında aşağıdakilerden hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İnsanlar",
+          "rationale": "İnsanlar, çevrenin canlı öğelerinden biri olarak sınıflandırılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bitki örtüsü (Flora)",
+          "rationale": "Flora, çevrenin canlı öğelerinden biri olarak sınıflandırılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hayvan topluluğu (Fauna)",
+          "rationale": "Fauna, çevrenin canlı öğelerinden biri olarak sınıflandırılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İklim ve hava",
+          "rationale": "İklim ve hava, çevrenin 'cansız öğeleri' arasında sınıflandırılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mikroorganizmalar",
+          "rationale": "Mikroorganizmalar, çevrenin canlı öğelerinden biri olarak sınıflandırılmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "Çevrenin boyutları düşünüldüğünde, 'Doğal Çevre'nin temel özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tümüyle insan elinden çıkmış olması.",
+          "rationale": "Bu, 'Yapay Çevre'nin temel özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsan emeğine bağlı olmayan, doğanın kendi hazırladığı çevre olması.",
+          "rationale": "Doğal çevrenin tanımı tam olarak budur; dağlar, ovalar gibi.",
+          "isCorrect": true
+        },
+        {
+          "text": "İnsanların ekonomik ve toplumsal ilişkilerinin tümü olması.",
+          "rationale": "Bu, 'Toplumsal Çevre'nin tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel mirasın aktarılmasında temel öğe olması.",
+          "rationale": "Bu, 'Tarihi Çevre'nin (Yapay Çevrenin bir parçası) özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece canlı öğelerden oluşması.",
+          "rationale": "Doğal çevre, iklim ve su gibi cansız öğeleri de kapsar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "Aşağıdakilerden hangisi 'Yapay Çevre'ye bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dağ",
+          "rationale": "Dağ, insan emeğine bağlı olmayan bir 'Doğal Çevre' unsurudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ova",
+          "rationale": "Ova, insan emeğine bağlı olmayan bir 'Doğal Çevre' unsurudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kentler ve binalar",
+          "rationale": "Kentler ve binalar, insanın bilgi ve kültür birikimiyle yarattığı 'Yapay Çevre'nin tipik örnekleridir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Orijinal (insan müdahalesi olmayan) orman",
+          "rationale": "İnsan eliyle yaratılmamış orman, 'Doğal Çevre' unsurudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "İklim",
+          "rationale": "İklim, çevrenin cansız bir öğesidir ve doğal çevrenin bir parçasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "Metne göre 'Doğal Çevre' tanımının 'istisnası' olarak kabul edilebilecek durum hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gecekondular",
+          "rationale": "Gecekondular, 'Yapay Çevre'ye bir örnektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarihi anıtlar",
+          "rationale": "Tarihi anıtlar, 'Yapay Çevre'nin özel bir parçası olan 'Tarihi Çevre'ye aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ağaçlandırma sonucu oluşan orman ve baraj gölleri",
+          "rationale": "Bu yapılar insan eliyle yaratılsa da 'doğal görünümlü' oldukları için metinde doğal çevre kapsamında değerlendirilebilecek bir istisna olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Komşuluk ilişkileri",
+          "rationale": "Bu, 'Toplumsal Çevre'nin bir unsurudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müzeler",
+          "rationale": "Müzeler, 'Yapay Çevre'nin bir parçasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "İnsanların ekonomik, toplumsal ve siyasal sistemleri gereği yarattıkları ilişkilerin tümüne ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiziksel Çevre",
+          "rationale": "Fiziksel çevre, insanın algıladığı doğal ve yapay ortamdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğal Çevre",
+          "rationale": "Doğal çevre, insan emeğine bağlı olmayan çevredir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yapay Çevre",
+          "rationale": "Yapay çevre, insanın yarattığı fiziksel çevredir (binalar, yollar vb.).",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal Çevre",
+          "rationale": "Bu tanım, metinde 'Toplumsal Çevre' için verilen tanımın aynısıdır (örn. komşuluk, çalışma koşulları).",
+          "isCorrect": true
+        },
+        {
+          "text": "Tarihi Çevre",
+          "rationale": "Tarihi çevre, kültürel mirasın aktarıldığı yapay çevrenin bir parçasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "Turizmin 'Hava Kirliliği' üzerindeki etkisi olarak aşağıdakilerden hangisi belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistik tesislerin atık sularının denize verilmesi.",
+          "rationale": "Bu, turizmin 'Su Kirliliği' üzerindeki etkisine bir örnektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğlence yerlerinin (disko, bar) yarattığı ses.",
+          "rationale": "Bu, turizmin 'Gürültü Kirliliği' üzerindeki etkisine bir örnektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Havayolu kullanımı (uçaklar) ve turist transfer araçlarının (otobüs) yarattığı kirlilik.",
+          "rationale": "Metinde bu iki faktör, turizmin hava kirliliğine etkisi olarak açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Verimli tarım alanlarının golf sahasına dönüştürülmesi.",
+          "rationale": "Bu, turizmin 'Toprak Kirliliği' (arazi kullanımı) üzerindeki etkisine bir örnektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gemilerden bırakılan sintine atıkları.",
+          "rationale": "Bu, turizmin 'Su Kirliliği' üzerindeki etkisine bir örnektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "Stres, sinirlilik, tedirginlik ve kan basıncı sorunlarına yol açabilen, turizmde özellikle eğlence yerleri ve ulaşım araçlarıyla ilişkilendirilen kirlilik türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hava Kirliliği",
+          "rationale": "Hava kirliliğinin de sağlık etkileri vardır ancak tanım (hoşa gitmeyen ses) ve kaynaklar (eğlence yerleri) gürültü kirliliğine işaret etmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su Kirliliği",
+          "rationale": "Bu tanım ve etkiler, su kirliliği ile doğrudan ilişkili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toprak Kirliliği",
+          "rationale": "Bu tanım ve etkiler, toprak kirliliği ile doğrudan ilişkili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gürültü Kirliliği",
+          "rationale": "Metinde 'hoşa gitmeyen ses', 'stres, sinirlilik' ve kaynak olarak 'eğlence yerleri, uçak, transfer araçları' gürültü kirliliği başlığında ele alınmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kültürel Kirlilik",
+          "rationale": "Kültürel kirlilik, sosyal değerlerdeki bozulmayı ifade eder, fiziksel sağlık sorunlarını değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "Aşağıdakilerden hangisi turizmin 'Su Kirliliği'ne yol açma biçimlerinden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistik tesislerin atık sularının arıtılmadan denize verilmesi.",
+          "rationale": "Bu, turizmin su kirliliğine yol açan en önemli etkenlerinden biri olarak metinde belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gezi amaçlı deniz araçları ve gemilerden yağ ve sintine atıklarının bırakılması.",
+          "rationale": "Bu, özellikle deniz turizminde su kirliliğine neden olan bir faktördür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su ortamlarına şişe, kutu gibi katı atıkların atılması.",
+          "rationale": "Bu, hem su kirliliğine hem de görsel kirliliğe neden olan bir turizm etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Artan nüfusun oksijen tüketimi.",
+          "rationale": "Bu, metinde 'Hava Kirliliği' nedenleri arasında sayılmıştır, su kirliliği değil.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tesislerden deterjanlı suların arıtılmadan göle verilmesi.",
+          "rationale": "Bu, turistik tesis atık sularının (kanalizasyon, deterjan) su kirliliğine yol açmasına bir örnektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "Temizlenmesi en zor, bazen olanaksız olan kirlenme şekli olarak tanımlanan ve turizmin arazi talebiyle (örn. tarım alanlarının tesise dönüşmesi) ilişkili olan kirlilik türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hava Kirliliği",
+          "rationale": "Hava kirliliği ciddi bir sorun olsa da, 'temizlenmesi en zor' ve 'arazi talebi' ile ilişkilendirilen tür bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gürültü Kirliliği",
+          "rationale": "Gürültü kirliliği kaynağı durduğunda biter; 'temizlenmesi en zor' tanımına uymaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su Kirliliği",
+          "rationale": "Su kirliliğinin temizlenmesi zordur ancak metindeki tanım ve arazi kullanımı vurgusu toprak kirliliğine aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Flora ve Fauna Bozulması",
+          "rationale": "Bu bir sonuçtur, ancak 'temizlenmesi en zor kirlenme' olarak tanımlanan ana başlık bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toprak Kirliliği",
+          "rationale": "Metinde 'Toprak Kirliliği' için 'Temizlenmesi en zor, bazen olanaksız olan kirlenme şekli' tanımı yapılmış ve turizmin 'arazi talebi' (verimli tarım alanlarının tesise dönüşmesi) ile etkisi vurgulanmıştır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "Aşağıdakilerden hangisi turizmin 'Toprak Kirliliği' üzerindeki etkilerinden biri olarak *gösterilemez*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistik tesislerin plansız saha kullanımı (yanlış yer seçimi).",
+          "rationale": "Bu, toprak kirliliği ve arazi bozulmasına yol açan bir etki olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Atıkların (çöp) çevreye yayılması.",
+          "rationale": "Çöplerin toprağa karışması, toprak kirliliğinin önemli bir nedenidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Verimli tarım alanlarının otel veya golf sahasına dönüştürülmesi.",
+          "rationale": "Bu, turizmin yarattığı arazi talebinin toprağın yapısını ve kullanım amacını bozmasına bir örnektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turist transfer araçlarının (otobüs) egzoz gazları.",
+          "rationale": "Bu, metinde 'Hava Kirliliği'ne neden olan bir faktör olarak belirtilmiştir, doğrudan toprak kirliliği değil.",
+          "isCorrect": true
+        },
+        {
+          "text": "Doğal ve tarihi sitler ile kamu ormanları üzerinde baskı yaratması.",
+          "rationale": "Bu, turizmin arazi talebinin korunan alanlar üzerindeki olumsuz bir etkisidir ve toprak kullanımıyla ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "Atmosferin doğal 'sera etkisi' işleyişinin bozulması ve yeryüzü sıcaklığının artması olayına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Su Kirliliği",
+          "rationale": "Bu, suyun özelliklerinin bozulmasıdır; sıcaklık artışını tanımlamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Çevrede Bozulma",
+          "rationale": "Bu, sosyal değerlerdeki değişimi ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Küresel Isınma ve İklim Değişikliği",
+          "rationale": "Bu tanım, metinde 'Küresel Isınma ve İklim Değişikliği' başlığı altında verilen tanımın aynısıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Toprak Kirliliği",
+          "rationale": "Bu, toprağın yapısının bozulmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gürültü Kirliliği",
+          "rationale": "Bu, hoşa gitmeyen seslerdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "Aşağıdakilerden hangisi 'İklim Değişikliği'nin turizm üzerindeki etkilerinden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Buzulların erimesiyle plajların bozulması ve deniz-kum-güneş turizminin olumsuz etkilenmesi.",
+          "rationale": "Bu, iklim değişikliğinin kıyı turizmi üzerindeki önemli bir etkisi olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kar yağışının azalması sonucu kış turizmi imkanlarının etkilenmesi.",
+          "rationale": "Bu, iklim değişikliğinin kış turizmi üzerindeki önemli bir etkisi olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğal kaynak kalitesinin düşmesi ve salgın hastalık riskinin artması.",
+          "rationale": "Bu, iklim değişikliğinin turizm talebini azaltabilecek bir etkisi olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turist-yerel halk arasında kültürel çatışmaların artması.",
+          "rationale": "Bu, 'Kültürel Çevrede Bozulma' başlığında ele alınan bir turizm etkisidir; doğrudan iklim değişikliğinin bir sonucu değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turizm talebinin Akdeniz kıyılarından daha yüksek ve yayla alanlarına kayma olasılığı.",
+          "rationale": "Bu, aşırı sıcaklar nedeniyle turist akımlarının değişebileceğine dair bir öngörüdür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "Turist kabul eden bölge halkının davranışlarına, yerel alışkanlıklara ve gelenek-göreneklerine etki etme durumu, turizmin hangi olumsuz etkisi olarak tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hava Kirliliği",
+          "rationale": "Bu, fiziksel bir kirlilik türüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gürültü Kirliliği",
+          "rationale": "Bu, fiziksel bir kirlilik türüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "İklim Değişikliği",
+          "rationale": "Bu, küresel bir çevre sorunudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Çevrede Bozulma",
+          "rationale": "Bu tanım, metinde 'Kültürel Çevrede Bozulma' başlığı altında açıklanan sosyal etkiyi tam olarak karşılamaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Flora ve Fauna Bozulması",
+          "rationale": "Bu, bitki ve hayvan yaşamındaki bozulmadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "Ecotourism Society'e (Ekoturizm Derneği) göre ekoturizmin tanımı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece maceraya dayalı, yüksek adrenalin içeren doğa sporlarıdır.",
+          "rationale": "Macera turizmi ekoturizmin bir parçası olabilir ancak tanımı bu değildir; koruma ve refah boyutu eksiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çevreyi koruyan ve yerel halkın refahını sürdüren, doğal alanlara doğru olan sorumlu turizm.",
+          "rationale": "Bu, metinde Ecotourism Society'e atfedilen tanımın birebir aynısıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yerel halkı dikkate almadan, sadece doğal alanların korunmasına odaklanan turizm.",
+          "rationale": "Bu tanım yanlıştır; ekoturizm 'yerel halkın refahını' da temel bir ilke olarak benimser.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm alternatif turizm türlerini kapsayan genel bir addır.",
+          "rationale": "Ekoturizm bir alternatif turizm türüdür ancak tümünü kapsayan bir şemsiye kavram değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Büyük otellerde kalarak günübirlik doğa gezileri yapmaktır.",
+          "rationale": "Bu, kitle turizminin bir parçası olabilir; ekoturizm genellikle daha küçük ölçekli ve yerel katılımı vurgular.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "Aşağıdakilerden hangisi ekoturizm için kullanılan diğer isimlendirmelerden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Doğaya dayalı turizm",
+          "rationale": "Bu, ekoturizm ile eş anlamlı kullanılan bir isimlendirmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeşil turizm",
+          "rationale": "Bu, ekoturizm ile eş anlamlı kullanılan bir isimlendirmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sorumlu turizm",
+          "rationale": "Bu, ekoturizm ile eş anlamlı kullanılan bir isimlendirmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yumuşak turizm",
+          "rationale": "Bu, ekoturizm ile eş anlamlı kullanılan bir isimlendirmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle turizmi",
+          "rationale": "Kitle turizmi, ekoturizmin tam zıttı olan, büyük ölçekli ve genellikle çevresel/sosyal etkileri yoğun olan turizm türüdür.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "Ekoturizm terimini 1983 yılında ilk kez ortaya atan kişi kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Carlo Petrini",
+          "rationale": "Carlo Petrini, 'Slow Food' (Yavaş Yemek) hareketinin kurucusudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Polat (2006)",
+          "rationale": "Polat, metinde ekoturizm faaliyetlerini gruplandıran bir araştırmacı olarak anılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hector Ceballos-Lascurain",
+          "rationale": "Metinde 'Terim 1983 yılında Hector Ceballos-Lascurain tarafından ortaya atılmıştır.' bilgisi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brundtland",
+          "rationale": "Brundtland, 1987'deki sürdürülebilirlik tanımıyla bilinir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ecotourism Society",
+          "rationale": "Bu bir kişi değil, ekoturizm alanında tanım yapan bir dernektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "Ekoturizmin temel odak noktası aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Maksimum kâr elde etmek.",
+          "rationale": "Ekoturizm ekonomik katkı sağlasa da, temel odak noktası maksimum kâr değil, korumadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece macera ve adrenalin sağlamak.",
+          "rationale": "Macera, ekoturizmin bir parçası olabilir ancak temel odak bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Büyük ölçekli altyapı projeleri geliştirmek.",
+          "rationale": "Ekoturizm genellikle küçük ölçekli gelişimi savunur, büyük altyapı projeleri kitle turizmine daha yakındır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğal ve kültürel kaynakların korunmasına katkıda bulunmak ve yerel halka ekonomik katkı sağlamak.",
+          "rationale": "Bu, metinde ekoturizmin temel odak noktası olarak belirtilen iki ana unsuru (koruma ve yerel halk) birleştiren en doğru ifadedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yabancı dil öğrenimini teşvik etmek.",
+          "rationale": "Bu, turizmin genel bir sosyal etkisi olabilir ancak ekoturizmin 'temel odak noktası' değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "Aşağıdakilerden hangisi ekoturizmin çıkış ve gelişme nedenlerinden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yerel halk için iş imkanları (tur rehberleri, park bekçisi vb.) yaratması.",
+          "rationale": "Bu, ekoturizmin gelişmesini teşvik eden önemli bir ekonomik neden olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ziyaretçiler için çevresel eğitim sağlaması.",
+          "rationale": "Ekoturizmin aydınlatıcı yönü, gelişimini destekleyen bir faktördür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumda artan çevre duyarlılığı.",
+          "rationale": "İnsanların çevreye daha duyarlı hale gelmesi, sorumlu turizm arayışını artırmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle turizminin çevresel etkilerini tamamen ortadan kaldırması.",
+          "rationale": "Ekoturizm, kitle turizmine bir alternatif olarak çıksa da, kitle turizminin etkilerini 'tamamen ortadan kaldırmamıştır'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sürdürülebilir turizm anlayışının gelişmesi.",
+          "rationale": "Ekoturizm, sürdürülebilirlik ilkesinin bir uygulaması olarak gelişmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "Ekoturizmin ilkeleri göz önüne alındığında, aşağıdakilerden hangisi bu ilkelerle *çelişir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Karar verme aşamalarında yerel halkın katılımını sağlamak.",
+          "rationale": "Bu, ekoturizmin temel ilkelerinden biridir (sosyal sürdürülebilirlik).",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel halka ekonomik faydalar sağlamak.",
+          "rationale": "Bu, ekoturizmin temel ilkelerinden biridir (ekonomik sürdürülebilirlik).",
+          "isCorrect": false
+        },
+        {
+          "text": "Alanin doğal ve kültürel sistemine karşı duyarlılığı ve bilinci artırma.",
+          "rationale": "Bu, ekoturizmin eğitimsel ve korumacı temel ilkelerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğa turizminde dışarıdan (bölge dışı) ve daha ucuz işgücü kullanmak.",
+          "rationale": "Bu, 'yerel halk için özel fırsatlar (istihdam) sağlamak' ve 'doğa turizminde yerel halktan çalışanlar kullanmak' ilkesiyle doğrudan çelişir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çevre ve yerel halk üzerinde en az olumsuz etkiyi yapacak kullanım tarzı.",
+          "rationale": "Bu, ekoturizmin ana felsefesini özetleyen temel bir ilkedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "Aşağıdakilerden hangisi ekoturizm kapsamındaki faaliyet türlerinden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kuş gözlemciliği (Ornitoloji)",
+          "rationale": "Bu, metinde ekoturizm faaliyetleri arasında açıkça listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yayla turizmi",
+          "rationale": "Bu, metinde ekoturizm faaliyetleri arasında açıkça listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alışveriş merkezi turizmi",
+          "rationale": "Alışveriş, turizmin bir parçası olsa da, 'ekoturizm' (doğaya dayalı, sorumlu turizm) kapsamında bir faaliyet değildir; daha çok kentsel ve kitle turizmine aittir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Trekking (Doğa yürüyüşü)",
+          "rationale": "Bu, metinde ekoturizm faaliyetleri arasında açıkça listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akarsu turizmi (Rafting)",
+          "rationale": "Bu, metinde ekoturizm faaliyetleri arasında açıkça listelenmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "Polat'ın (2006) ekoturizm faaliyetleri gruplandırmasına göre, 'Öğrenmeye Dayalı' faaliyetler arasında hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Botanik turizmi",
+          "rationale": "Metne göre Botanik (bitki inceleme), 'Öğrenmeye Dayalı' gruptadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuş Gözlemciliği",
+          "rationale": "Metne göre Kuş Gözlemciliği, 'Öğrenmeye Dayalı' gruptadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Foto Safari",
+          "rationale": "Metne göre Foto Safari (gözlem ve fotoğraf), 'Öğrenmeye Dayalı' gruptadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mağara turizmi",
+          "rationale": "Metne göre Mağara turizmi (keşif, inceleme), 'Öğrenmeye Dayalı' gruptadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yamaç Paraşütü",
+          "rationale": "Metne göre Yamaç Paraşütü, 'Eğlenmeye Dayalı' ve 'Maceraya Dayalı' alt grubundadır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "Polat'ın (2006) gruplandırmasına göre, 'Maceraya Dayalı' eğlence faaliyetlerine hangisi örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kamp karavan turizmi",
+          "rationale": "Bu, 'Dinlenmeye Dayalı' eğlence faaliyeti olarak gruplandırılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sualtı Dalış",
+          "rationale": "Bu, 'Sportif Eğlenmeye Dayalı' faaliyet olarak gruplandırılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dağcılık",
+          "rationale": "Metne göre Dağ (Dağcılık), Balon ve Yamaç Paraşütü 'Maceraya Dayalı' faaliyetlerdendir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Botanik turizmi",
+          "rationale": "Bu, 'Öğrenmeye Dayalı' faaliyet olarak gruplandırılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yayla turizmi",
+          "rationale": "Bu, 'Dinlenmeye Dayalı' eğlence faaliyeti olarak gruplandırılmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "Polat'ın (2006) gruplandırmasına göre, 'Sportif Eğlenmeye Dayalı' faaliyetler arasında hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bisiklet turizmi",
+          "rationale": "Metne göre bu, 'Sportif Eğlenmeye Dayalı' bir faaliyettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trekking",
+          "rationale": "Metne göre bu, 'Sportif Eğlenmeye Dayalı' bir faaliyettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Av turizmi",
+          "rationale": "Metne göre bu, 'Sportif Eğlenmeye Dayalı' bir faaliyettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akarsu turizmi (Rafting)",
+          "rationale": "Bu, 'Maceraya Dayalı' bir faaliyet olarak gruplandırılmıştır, sportif değil.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sportif olta balıkçılığı",
+          "rationale": "Metne göre bu, 'Sportif Eğlenmeye Dayalı' bir faaliyettir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "Polat'ın (2006) gruplandırmasına göre, 'Kamp karavan' ve 'Yayla' turizmi hangi kategori altında yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Öğrenmeye Dayalı",
+          "rationale": "Bu grupta botanik, kuş gözlemciliği gibi faaliyetler yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maceraya Dayalı",
+          "rationale": "Bu grupta dağcılık, yamaç paraşütü gibi faaliyetler yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sportif Eğlenmeye Dayalı",
+          "rationale": "Bu grupta bisiklet, trekking, av gibi faaliyetler yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dinlenmeye Dayalı",
+          "rationale": "Metne göre bu iki faaliyet, 'Eğlenmeye Dayalı' ana kategorisinin altındaki 'Dinlenmeye Dayalı' gruptadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kültürel Turizm",
+          "rationale": "Bu gruplandırma metinde Polat'ın sınıflandırması içinde yer almamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "Metne göre Türkiye'nin en uzun mağarası hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mersin Peynirlikönü",
+          "rationale": "Bu, Türkiye'nin en derin mağarası olarak belirtilmiştir, en uzun değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Isparta Pınargözü",
+          "rationale": "Metinde 'Türkiye'nin en uzun mağarası: Isparta Pınargözü' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Trabzon Yılantaş Yaylası",
+          "rationale": "Bu bir mağara değil, en geniş alana sahip yayla olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antalya Beydağlar",
+          "rationale": "Bu bir mağara değil, dağ turizmi için önemli bir dağdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rize Kaçkar",
+          "rationale": "Bu bir mağara değil, dağ turizmi için önemli bir dağdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "Metne göre Türkiye'nin en derin mağarası hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mersin Peynirlikönü",
+          "rationale": "Metinde 'En derin mağarası: Mersin Peynirlikönü' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Isparta Pınargözü",
+          "rationale": "Bu, Türkiye'nin en uzun mağarası olarak belirtilmiştir, en derin değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trabzon Yılantaş Yaylası",
+          "rationale": "Bu bir mağara değil, en geniş alana sahip yayla olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antalya Düzlerçamı",
+          "rationale": "Bu, ilk izinli avın yapıldığı yerdir, bir mağara değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kayseri Erciyes",
+          "rationale": "Bu bir mağara değil, dağ turizmi için önemli bir dağdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "'Tarım turizmi' ile 'Çiftlik turizmi' arasındaki 'ÖNEMLİ FARK' olarak metinde ne belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tarım turizmi pahalıdır, çiftlik turizmi ucuzdur.",
+          "rationale": "Metinde fiyatla ilgili bir fark belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarım turizmi sadece bitkilerle, çiftlik turizmi sadece hayvanlarla ilgilidir.",
+          "rationale": "Metinde böyle bir içerik farkından bahsedilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarım turizmi A grubu acenteler yapar, çiftlik turizmini herkes yapabilir.",
+          "rationale": "Bu, Av Turizmi için belirtilen bir özelliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarım turizmi günübirlik olabilirken, çiftlik turizminde genellikle geceleme olması beklenir.",
+          "rationale": "Metinde 'ÖNEMLİ FARK' olarak bu konaklama süresi farkı vurgulanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tarım turizmi 'öğrenmeye dayalı', çiftlik turizmi 'dinlenmeye dayalı'dır.",
+          "rationale": "Her ikisi de Polat'ın gruplandırmasında 'Öğrenmeye Dayalı' (Çiftlik) ve 'Faaliyet Listesi' (Tarım) içinde yer alır, ancak aralarındaki fark bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "question": "Zorlu, dağcılık bilgisi ve malzeme gerektiren, uzun süreli doğa yürüyüşlerine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Soft trekking",
+          "rationale": "Soft trekking, rahat, her kondisyon seviyesine uygun, genellikle günübirlik yürüyüşlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hard trekking",
+          "rationale": "Bu tanım, metinde 'Hard trekking' için yapılan tanımın aynısıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rafting",
+          "rationale": "Bu, akarsu turizmi faaliyetidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Botanik turizmi",
+          "rationale": "Bu, bitki inceleme amaçlı bir turizm türüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yayla turizmi",
+          "rationale": "Bu, yaylalarda yapılan bir dinlenme/gezi faaliyetidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "question": "Rahat, her kondisyon seviyesine uygun, genellikle günübirlik doğa yürüyüşlerine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Soft trekking",
+          "rationale": "Bu tanım, metinde 'Soft trekking' için yapılan tanımın aynısıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hard trekking",
+          "rationale": "Hard trekking, zorlu, dağcılık bilgisi ve malzeme gerektiren yürüyüşlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dağcılık",
+          "rationale": "Dağcılık, tırmanış içeren, hard trekking'den daha teknik bir faaliyettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Foto safari",
+          "rationale": "Bu, fotoğraf çekme amaçlı bir gözlem faaliyetidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yamaç paraşütü",
+          "rationale": "Bu, bir hava sporudur, yürüyüş değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "question": "Türkiye'nin kuş gözlemciliği (ornitoloji) açısından zengin olmasının nedenleri nelerdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Zengin sulak alanlara sahip olması ve kuş göç yolları üzerinde bulunması.",
+          "rationale": "Metinde Türkiye'nin bu alandaki zenginliğinin nedenleri tam olarak bu iki faktörle açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "En uzun ve en derin mağaralara sahip olması.",
+          "rationale": "Bu, mağara turizmi için bir zenginliktir, kuş gözlemciliği için değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çok sayıda temalı parka sahip olması.",
+          "rationale": "Temalı parklar yapay çevrelerdir ve kuş gözlemciliği zenginliğiyle ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akarsu turizmine (rafting) uygun nehirlere sahip olması.",
+          "rationale": "Bu, rafting için bir avantajdır, kuş gözlemciliği için birincil neden değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yayla turizminin çok gelişmiş olması.",
+          "rationale": "Yaylalar kuşlara ev sahipliği yapsa da, metinde zenginliğin ana nedeni olarak 'sulak alanlar' ve 'göç yolları' belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "question": "Metne göre Türkiye'de ilk izinli av turizmi faaliyeti nerede ve ne zaman yapılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "1983, Isparta Pınargözü",
+          "rationale": "Isparta Pınargözü en uzun mağaradır; 1983 ise ekoturizm teriminin ortaya atıldığı yıldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "2009, İzmir Seferihisar",
+          "rationale": "Bu, Türkiye'nin ilk 'Cittaslow' (Sakin Şehir) üyeliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "1981, Antalya Düzlerçamı",
+          "rationale": "Metinde 'İlk izinli av 1981'de Antalya Düzlerçamı'nda (dağ keçisi, domuz) yapılmıştır.' bilgisi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "1989, İtalya",
+          "rationale": "Bu, 'Slow Food' hareketinin Carlo Petrini tarafından kurulma tarihi ve yeridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "2006, Yellowstone",
+          "rationale": "Yellowstone, ekoturizmin olumsuz etkilerine (ayıların çöplerle beslenmesi) bir örnektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "question": "Aşağıdakilerden hangisi Türkiye'de akarsu turizmi (rafting) yapılan başlıca nehirlerden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çoruh",
+          "rationale": "Metinde başlıca nehirler arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Köprülüçay",
+          "rationale": "Metinde başlıca nehirler arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dalaman",
+          "rationale": "Metinde başlıca nehirler arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Melen",
+          "rationale": "Metinde başlıca nehirler arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pınargözü",
+          "rationale": "Pınargözü, bir nehir değil, Türkiye'nin en uzun mağarasıdır (Isparta).",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "question": "Ekoturizmin olumsuz çevresel etkileri arasında hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Taşıma kapasitesi aşılırsa kitle turizmine dönüşmesi.",
+          "rationale": "Bu, ekoturizmin en önemli risklerinden ve olumsuz etkilerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aşırı kalabalık nedeniyle çevresel stres ve yaban hayatında davranış bozukluğu.",
+          "rationale": "Bu, ekoturizmin olumsuz çevresel etkilerinden biri olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Safari araçları gibi motorlu ulaşımların yaban hayatını rahatsız etmesi.",
+          "rationale": "Bu, ekoturizm faaliyetlerinin (örn. foto safari) olumsuz bir çevresel etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel halka ekonomik fayda ve istihdam sağlamak.",
+          "rationale": "Bu, ekoturizmin olumsuz bir etkisi değil, 'olumlu ekonomik etkileri'nden biridir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çöplerin yaban hayatının beslenme alışkanlıklarını bozması.",
+          "rationale": "Bu, (örn. Yellowstone ayıları) ekoturizmin olumsuz çevresel etkilerinden biridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "question": "Metinde hangi ülkedeki safari faaliyetlerinin çita popülasyonunu yok olmanın eşiğine getirdiği belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Türkiye",
+          "rationale": "Türkiye'de çita popülasyonu ile ilgili böyle bir örnek verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kenya",
+          "rationale": "Metinde 'Kenya: Safari faaliyetleri çita popülasyonunu yok olmanın eşiğine getirmiştir.' örneği verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Filipinler",
+          "rationale": "Filipinler, mercan kayalıklarının tahribatı ile ilgili örnekte yer almıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maldivler",
+          "rationale": "Maldivler, mercan kayalıklarının tahribatı ile ilgili örnekte yer almıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İtalya",
+          "rationale": "İtalya, Slow Food ve Cittaslow hareketleri ile ilgili anılmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "question": "Yellowstone Ulusal Parkı'nda turistlerin bıraktığı çöplerin hangi hayvanın yaşam alanını terk etmesine ve ölmesine neden olduğu belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çita",
+          "rationale": "Çita örneği Kenya için verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dağ keçisi",
+          "rationale": "Dağ keçisi, Antalya'daki ilk av turizmi örneğinde geçmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ayı",
+          "rationale": "Metinde 'Yellowstone: Turistlerin bıraktığı çöpler ayıların yaşam alanlarını terk etmesine ve ölmesine neden olmaktadır.' örneği verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mercan",
+          "rationale": "Mercanlar hayvan (polip) olsalar da, Yellowstone örneğinde yer almazlar; Filipinler/Maldivler örneğindedirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuşlar",
+          "rationale": "Kuşlar, kuş gözlemciliği bölümünde geçmiştir, Yellowstone örneğinde değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "question": "Filipinler ve Maldivler'de resort inşaatı için hangi doğal yapının kazındığı ve dinamitlendiği belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dağlar",
+          "rationale": "Örnek, dağlar değil, deniz ekosistemi ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ormanlar",
+          "rationale": "Örnek, ormanlar değil, deniz ekosistemi ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sulak Alanlar",
+          "rationale": "Örnek, sulak alanlar değil, deniz ekosistemi ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mercan kayalıkları",
+          "rationale": "Metinde 'Filipinler/Maldivler: Resort inşaatı için mercan kayalığı kazısı ve dinamitlemesi.' örneği verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mağaralar",
+          "rationale": "Örnek, mağaralar değil, deniz ekosistemi ile ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "question": "Aşağıdakilerden hangisi ekoturizmin 'olumlu' ekonomik etkilerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Su ve enerji gibi kaynakların aşırı tüketimi.",
+          "rationale": "Bu, ekoturizmin 'olumsuz' ekonomik etkilerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bölgedeki fiyatların artması.",
+          "rationale": "Bu, yerel halk için 'olumsuz' bir ekonomik etkidir (enflasyon).",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel halk için su/elektrik kesintileri yaşanması.",
+          "rationale": "Bu, kaynakların aşırı tüketimine bağlı 'olumsuz' bir ekonomik/sosyal etkidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerelde yaşayanlar için istihdam (rehberlik, şoförlük) yaratılması.",
+          "rationale": "Bu, metinde ekoturizmin 'olumlu' ekonomik etkileri arasında açıkça listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kumar ve suç oranlarında artış.",
+          "rationale": "Bu, 'olumsuz sosyo-kültürel' bir etkidir, olumlu bir ekonomik etki değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "question": "Aşağıdakilerden hangisi ekoturizmin 'olumsuz' ekonomik etkilerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Park giriş ücretlerinden ilave bölgesel gelir elde edilmesi.",
+          "rationale": "Bu, ekoturizmin 'olumlu' ekonomik etkilerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yöresel sanat ve zanaat ürünlerinin satışının artması.",
+          "rationale": "Bu, ekoturizmin 'olumlu' ekonomik etkilerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su ve enerji gibi kaynakların aşırı tüketimi.",
+          "rationale": "Bu, kaynaklar üzerinde baskı yaratan 'olumsuz' bir ekonomik etki olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Küçük konaklama olanaklarının (pansiyon vb.) gelişmesi.",
+          "rationale": "Bu, gelirin yerelde kalmasını sağlayan 'olumlu' bir ekonomik etkidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğal ve kültürel kaynakların korunmasına katkıda bulunmak.",
+          "rationale": "Bu, ekoturizmin temel amacıdır, olumsuz bir ekonomik etki değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "question": "Aşağıdakilerden hangisi ekoturizmin 'olumsuz sosyo-kültürel' etkileri arasında *sayılmaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kumar, suç oranları ve alkol tüketiminde artış.",
+          "rationale": "Bu, metinde olumsuz sosyo-kültürel etkiler arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dilde ve yerel kültürde erozyon (bozulma).",
+          "rationale": "Bu, metinde olumsuz sosyo-kültürel etkiler arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel toplulukların kendi topraklarından ve doğal alanlarından mahrum bırakılması.",
+          "rationale": "Bu, metinde olumsuz sosyo-kültürel etkiler arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "HIV/AIDS gibi bulaşıcı hastalıklarda artış.",
+          "rationale": "Bu, metinde olumsuz sosyo-kültürel etkiler arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Park giriş ücretleri sayesinde bölgesel gelirin artması.",
+          "rationale": "Bu, olumsuz bir sosyo-kültürel etki değil, 'olumlu ekonomik' bir etkidir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "question": "Hızlı nüfus artışı ve sosyal ilişkilerde bozulmalar, ekoturizmin hangi tür olumsuz etkisine örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Olumlu Ekonomik Etki",
+          "rationale": "Bu olumlu bir etki değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olumsuz Çevresel Etki",
+          "rationale": "Bu, fiziksel çevreden çok toplum yapısıyla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olumsuz Sosyo-Kültürel Etki",
+          "rationale": "Nüfus yapısı ve sosyal ilişkilerdeki bozulmalar, metinde 'Olumsuz Sosyo-Kültürel Etkiler' başlığında ele alınmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Olumsuz Ekonomik Etki",
+          "rationale": "Hızlı nüfus artışı ekonomik baskı yaratsa da, sosyal ilişkilerdeki bozulma sosyo-kültürel bir konudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olumlu Çevresel Etki",
+          "rationale": "Bu olumlu bir etki değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "question": "'Ekosistemdeki tüm çeşitliliğin ve yenilenemez kaynakların gelecek nesillere aktarılabilmesi için, insanın ekosistem üzerindeki olumsuz etkilerinin sistemin taşıma kapasitesinin üzerine çıkmayacak düzeyde tutulması' tanımı kime aittir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sürdürülebilirlik (Genel Tanım)",
+          "rationale": "Bu tanım, metinde 'Sürdürülebilirlik Tanımı' başlığı altında verilen genel tanımdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brundtland (1987)",
+          "rationale": "Brundtland tanımı, '...gelecek nesillerin yaşam haklarını gasp etmeden yaşamlarını sürdürmeleri' şeklinde daha özet bir tanımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ecotourism Society",
+          "rationale": "Bu derneğin tanımı, 'çevreyi koruyan ve yerel halkın refahını sürdüren sorumlu turizm' üzerinedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Carlo Petrini",
+          "rationale": "Carlo Petrini, 'İyi, Temiz ve Adil Yiyecek' felsefesiyle (Slow Food) anılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cittaslow",
+          "rationale": "Bu, 'Sakin Şehirler' birliğinin adıdır, bir tanım değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "question": "Brundtland Raporu'nda (1987) yapılan sürdürülebilirlik tanımı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Doğal alanlara doğru olan sorumlu turizm.",
+          "rationale": "Bu, ekoturizmin tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dünyada yaşayan insanların, gelecek nesillerin yaşam haklarını gasp etmeden yaşamlarını sürdürmeleri.",
+          "rationale": "Bu, metinde 'Brundtland Tanımı (1987)' olarak verilen ifadedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otantik ürünleri, yerel mutfağı ve gastronomi kültürünü önemseyen hareket.",
+          "rationale": "Bu, 'Slow Food' hareketinin odak noktasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Taşıma kapasitesini aşmayacak düzeyde turizm yapmak.",
+          "rationale": "Bu, sürdürülebilirliğin genel bir ilkesidir ancak Brundtland'ın spesifik tanımı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik, sosyal ve çevresel boyutların adil paylaşımı.",
+          "rationale": "Bu, sürdürülebilirliğin 3 boyutunun bir özetidir, Brundtland'ın spesifik tanımı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "question": "Sürdürülebilirliğin '3 Boyutu' arasında aşağıdakilerden hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ekonomik Sürdürülebilirlik (Adil paylaşım)",
+          "rationale": "Bu, sürdürülebilirliğin 3 temel boyutundan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Sürdürülebilirlik (Katılım)",
+          "rationale": "Bu, sürdürülebilirliğin 3 temel boyutundan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çevresel Sürdürülebilirlik (Doğal kaynakların korunması)",
+          "rationale": "Bu, sürdürülebilirliğin 3 temel boyutundan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknolojik Sürdürülebilirlik (Sürekli yenilik)",
+          "rationale": "Teknoloji sürdürülebilirliğe yardımcı olsa da, metinde '3 Boyut' arasında (Ekonomik, Sosyal, Çevresel) listelenmemiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Adil paylaşımı ifade eden boyut (Ekonomik)",
+          "rationale": "Bu, Ekonomik Sürdürülebilirliğin açıklamasıdır ve 3 boyuttan biridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "question": "Sürdürülebilirliğin 'Sosyal' boyutu metinde hangi kavramla ilişkilendirilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Adil paylaşım",
+          "rationale": "Adil paylaşım, 'Ekonomik Sürdürülebilirlik' ile ilişkilendirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Katılım",
+          "rationale": "Metinde 'Sosyal Sürdürülebilirlik: (Katılımı ifade eder)' şeklinde belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Doğal kaynakların korunması",
+          "rationale": "Bu, 'Çevresel Sürdürülebilirlik' ile ilişkilendirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimum kâr",
+          "rationale": "Bu, sürdürülebilirlik kavramıyla genellikle çelişen bir yaklaşımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gelecek nesillerin hakları",
+          "rationale": "Bu, sürdürülebilirliğin genel (Brundtland) tanımında yer alır, spesifik olarak sosyal boyutun anahtarı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "question": "Sürdürülebilirliğin 'Ekonomik' boyutu metinde hangi kavramla ilişkilendirilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Adil paylaşım",
+          "rationale": "Metinde 'Ekonomik Sürdürülebilirlik: (Adil paylaşımı ifade eder)' şeklinde belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Katılım",
+          "rationale": "Katılım, 'Sosyal Sürdürülebilirlik' ile ilişkilendirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğal kaynakların korunması",
+          "rationale": "Bu, 'Çevresel Sürdürülebilirlik' ile ilişkilendirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yenilenemez kaynaklar",
+          "rationale": "Bu, çevresel sürdürülebilirliğin konusudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Taşıma kapasitesi",
+          "rationale": "Bu, çevresel sürdürülebilirliğin konusudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "question": "İtalya'da 1980'lerin sonunda 'fast food' akımına karşı çıkan, otantik ve yerel ürünleri önemseyen uluslararası hareketin adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Cittaslow",
+          "rationale": "Cittaslow, bu felsefeyi 'kentsel boyuta' taşıyan şehirler birliğidir; hareketin kendisi değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Slow Travel (Yavaş Seyahat)",
+          "rationale": "Yavaş Seyahat, bu felsefenin seyahat boyutudur, gıda değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Slow Food (Yavaş Yemek)",
+          "rationale": "Bu tanım, metinde 'Slow Food' hareketinin doğuşu ve odak noktası olarak tam olarak verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ekoturizm",
+          "rationale": "Ekoturizm, doğaya dayalı sorumlu turizmdir; kökeni 'fast food' karşıtlığı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sürdürülebilirlik Hareketi",
+          "rationale": "Slow Food sürdürülebilirliğin bir parçasıdır ancak bu spesifik hareketin adı 'Slow Food'dur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "question": "'Slow Food' (Yavaş Yemek) hareketinin kurucusu kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Carlo Petrini",
+          "rationale": "Metinde 'Kurucusu: Carlo Petrini (1989)' olarak açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hector Ceballos-Lascurain",
+          "rationale": "Bu kişi, 'Ekoturizm' terimini ortaya atan kişidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brundtland",
+          "rationale": "Brundtland, sürdürülebilirlik tanımıyla bilinen raporun başkanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Polat (2006)",
+          "rationale": "Polat, ekoturizm faaliyetlerini gruplandıran bir araştırmacıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seferihisar Belediyesi",
+          "rationale": "Seferihisar, Türkiye'de Cittaslow'a üye olan ilk ilçedir; hareketin kurucusu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "question": "Slow Food felsefesinin savunduğu 'İyi, Temiz ve Adil Yiyecek' ifadesinin İtalyanca karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Citta (Şehir) + Slow (Yavaş)",
+          "rationale": "Bu, 'Cittaslow' (Sakin Şehir) kelimesinin etimolojisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Buono, Pulito e Giusto",
+          "rationale": "Metinde 'Felsefesi: Herkesin \"İyi, Temiz ve Adil Yiyecek\" (Buono, Pulito e Giusto) hakkı olduğunu savunur.' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ecotourism Society",
+          "rationale": "Bu, Ekoturizm Derneği'nin İngilizce adıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hard Trekking",
+          "rationale": "Bu, zorlu doğa yürüyüşünün İngilizce adıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ornitoloji",
+          "rationale": "Bu, kuş gözlemciliğinin bilimsel adıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "question": "Aşağıdakilerden hangisi 'Slow Food' hareketinin amaçlarından biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Biyoçeşitliliği ve kültürel mirası korumak.",
+          "rationale": "Bu, yerel ve otantik ürünleri koruma hedefiyle doğrudan ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel üreticiye destek olmak.",
+          "rationale": "Bu, 'adil yiyecek' felsefesinin bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lezzet eğitimleri vermek.",
+          "rationale": "Bu, 'iyi yiyecek' anlayışını geliştirmek için metinde belirtilen bir amaçtır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gıda üretimini standartlaştırmak ve hızlandırmak.",
+          "rationale": "Bu, Slow Food'un tam olarak karşı çıktığı 'fast food' akımının felsefesidir; amaç standartlaşmayı engellemektir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yerel mutfağı ve gastronomi kültürünü önemsemek.",
+          "rationale": "Bu, hareketin temel odak noktasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "question": "'Slow Food' felsefesini kentsel boyuta taşıyan, küreselleşmenin şehirlerin dokusunu standartlaştırmasını engellemeyi amaçlayan birliğin adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Slow Food",
+          "rationale": "Slow Food, hareketin gıda (gastronomi) boyutudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cittaslow (Sakin Şehir)",
+          "rationale": "Bu tanım, metinde 'Cittaslow' için verilen tanımın aynısıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Slow Travel (Yavaş Seyahat)",
+          "rationale": "Bu, hareketin seyahat boyutudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekoturizm",
+          "rationale": "Ekoturizm, doğaya dayalı turizmle ilgilidir, kentsel dokuyla değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sürdürülebilir Kentler",
+          "rationale": "Cittaslow sürdürülebilir bir kent modelidir ancak bu spesifik birliğin adı 'Cittaslow'dur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "question": "'Cittaslow' (Sakin Şehir) kavramı ile ilgili aşağıdakilerden hangisi *yanlıştır*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etimolojisi İtalyanca 'Citta' (Şehir) ve İngilizce 'Slow' (Yavaş) kelimelerinden gelir.",
+          "rationale": "Bu bilgi metinde doğru olarak verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amacı küreselleşmenin şehirlerin yerel özelliklerini yok etmesini engellemektir.",
+          "rationale": "Bu bilgi metinde doğru olarak verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yavaş Kent olmak, geriye gitmek, eskide yaşamak ve teknolojiye karşı çıkmak demektir.",
+          "rationale": "Metinde 'Ne Değildir?' başlığı altında bu ifadenin tam tersi belirtilmiş; 'teknolojiye karşı çıkmak değildir' denmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Belediye hizmetlerinin internete taşınmasını teşvik eder.",
+          "rationale": "Bu, teknolojiye karşı olmadığını gösteren bir örnektir ve metinde belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Slow Food felsefesini kentsel boyuta taşır.",
+          "rationale": "Bu bilgi metinde doğru olarak verilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "question": "Türkiye, 'Cittaslow' kavramıyla ilk defa 2009 yılında hangi ilçenin üyeliği ile tanışmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Antalya Düzlerçamı",
+          "rationale": "Burası ilk izinli avın yapıldığı yerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İzmir Seferihisar",
+          "rationale": "Metinde 'Türkiye bu kavramla ilk defa 2009 yılında İzmir'in Seferihisar ilçesinin üyeliği ile tanışmıştır.' bilgisi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mersin Peynirlikönü",
+          "rationale": "Burası en derin mağaradır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Isparta Pınargözü",
+          "rationale": "Burası en uzun mağaradır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trabzon Yılantaş Yaylası",
+          "rationale": "Burası en geniş yayladır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "question": "Tanışılan insanlarla ve ziyaret edilen mekanlarla hoş vakit geçirmek için yavaş hızda (örn. yaya, bisiklet, tren) yapılan, havayolu ulaşımının olmadığı doğa dostu seyahate ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hard Trekking",
+          "rationale": "Bu, sadece zorlu yürüyüşü kapsar; yavaş seyahatin tüm felsefesini değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle Turizmi",
+          "rationale": "Bu, genellikle hızlı (uçak) ve kalabalık seyahatleri ifade eder; tanımın tam zıttıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yavaş Seyahat (Slow Travel)",
+          "rationale": "Bu tanım, metinde 'Yavaş Seyahat' için verilen tanımın aynısıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Cittaslow",
+          "rationale": "Bu, seyahatin kendisi değil, 'yavaş' felsefesini benimseyen şehirlerin birliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Av Turizmi",
+          "rationale": "Bu, spesifik bir ekoturizm faaliyetidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "question": "'Yavaş Seyahat'in (Slow Travel) felsefesi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece yavaş olmak değil, doğru tempoyu yakalamak ve kaliteyi miktarın önüne koymak.",
+          "rationale": "Metinde felsefesi 'Sadece yavaş olmak değil, doğru tempoyu yakalamak, kaliteyi miktarın önüne koymaktır.' şeklinde açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gidilebilecek en fazla yeri en kısa sürede görmek.",
+          "rationale": "Bu, kaliteyi değil miktarı öne koyan 'hızlı' seyahat anlayışıdır, yavaş seyahatin zıttıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece havayolu kullanarak en uzak yerlere gitmek.",
+          "rationale": "Yavaş seyahat, tam tersine 'havayolu ulaşımının olmadığı' doğa dostu seyahattir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel halkla etkileşime girmekten kaçınmak.",
+          "rationale": "Yavaş seyahat, 'tanışılan insanlarla hoş vakit geçirmeyi' ve 'yerel halkla kaynaşmayı' (unsurları arasında) önemser.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece sıfır karbonlu (bisiklet/yürüyüş) seyahat yapmak.",
+          "rationale": "Sıfır karbon ideali olsa da, tren gibi 'düşük karbonlu' ulaşımları da kapsar; felsefesi sadece 'sıfır' karbon değil, 'doğru tempo'dur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "question": "Aşağıdakilerden hangisi 'Yavaş Seyahat'in (Slow Travel) unsurları arasında *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Düşük Karbonlu Turizm",
+          "rationale": "Bu, yavaş seyahatin temel unsurlarından biridir (örn. tren, bisiklet).",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyahat ve Destinasyon Deneyimi (Yerel halkla kaynaşma)",
+          "rationale": "Bu, yavaş seyahatin temel unsurlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çevresel Kaygılar",
+          "rationale": "Bu, yavaş seyahatin temel unsurlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ulaşım Türü",
+          "rationale": "Bu, (yavaş ve düşük karbonlu) yavaş seyahatin temel unsurlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek Hız ve Maksimum Verimlilik",
+          "rationale": "Bu, yavaş seyahatin tam zıttı olan 'hızlı' seyahat ve kitle turizmi anlayışının bir unsurudur.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "question": "Turizm endüstrisinde karbon salınımının yüzde kaçı 'Ulaşımdan' kaynaklanmaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "%4",
+          "rationale": "Metne göre %4 'faaliyetler'den kaynaklanmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "%8",
+          "rationale": "Metne göre %8 'konaklama'dan kaynaklanmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "%50",
+          "rationale": "Oran çok daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%88",
+          "rationale": "Metinde 'Turizm endüstrisinde karbon salınımının %88'İ ULAŞIMDAN kaynaklanır.' ifadesi net olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "%100",
+          "rationale": "Tamamı ulaşımdan değildir; konaklama (%8) ve faaliyetler (%4) de pay sahibidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "question": "Turizmde konaklama faaliyetleri, karbon salınımının yaklaşık yüzde kaçını oluşturur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "%4",
+          "rationale": "Metne göre %4 'faaliyetler'den kaynaklanmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "%8",
+          "rationale": "Metne göre %8 'konaklama'dan kaynaklanmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "%88",
+          "rationale": "Metne göre %88 'ulaşım'dan kaynaklanmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "%12",
+          "rationale": "Metinde %12 (8+4) konaklama ve faaliyetlerin toplamıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "%0.135",
+          "rationale": "Bu, uçağın kg/yolcu/km başına karbon miktarıdır, bir yüzde oranı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "question": "Ulaşım türlerine göre (kg/yolcu/km) karbon miktarı düşünüldüğünde, en yüksek salınıma sahip olan hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Uçak (0.135)",
+          "rationale": "Metindeki verilere göre 0.135 kg/yolcu/km ile en yüksek salınıma sahip ulaşım türüdür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Araba (Benzin) (0.121)",
+          "rationale": "Yüksek bir salınıma sahiptir ancak uçaktan (0.135) daha düşüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tren (0.033)",
+          "rationale": "Düşük salınımlı bir ulaşım türüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yürüyüş (0)",
+          "rationale": "Sıfır salınıma sahiptir, en düşük budur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bisiklet (0)",
+          "rationale": "Sıfır salınıma sahiptir, en düşük budur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "question": "Ulaşım türlerine göre (kg/yolcu/km) karbon miktarı düşünüldüğünde, 'düşük' salınımlı olarak belirtilen hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Uçak (0.135)",
+          "rationale": "En yüksek salınıma sahip olan olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Araba (Benzin) (0.121)",
+          "rationale": "Yüksek bir salınıma sahiptir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tren (0.033)",
+          "rationale": "Metindeki verilere göre (0.033) en düşük salınımlı motorlu taşıttır ve 'düşük' olarak parantez içinde belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otobüs",
+          "rationale": "Metinde otobüs için spesifik bir karbon miktarı verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Deniz yolu",
+          "rationale": "Metinde deniz yolu için spesifik bir karbon miktarı verilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "question": "Belirli bir tabiat, manzara, kültür, gastronomi, tarih ve geleneklerin tadını çıkararak gerçekleştirilen, sorumlu ve yenilikçi bir turizm türüne ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yavaş Turizm",
+          "rationale": "Bu tanım, metinde 'Yavaş Turizm Tanımı' başlığı altında verilen ifadenin aynısıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yavaş Seyahat (Slow Travel)",
+          "rationale": "Yavaş seyahat, daha çok ulaşım türüne (yaya, tren) odaklanır; yavaş turizm ise destinasyondaki deneyimin (gastronomi, kültür) tadını çıkarmayı vurgular.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle Turizmi",
+          "rationale": "Bu, genellikle 'tadını çıkarmak' yerine 'tüketmek' üzerine kurulu, sorumlu olmayan bir turizm türüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekoturizm",
+          "rationale": "Ekoturizm de sorumlu bir türdür ancak bu tanım, gastronomi ve kültürü de vurgulayarak 'Yavaş Turizm' felsefesine daha çok uymaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cittaslow",
+          "rationale": "Bu, yavaş turizmin yapıldığı 'yavaş şehir' markasıdır, turizmin türünün tanımı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "question": "Metne göre 'Yoğun (Hard) Yavaş Turistler'in temel motivasyonu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece dinlenmek ve yerel kültürü göz ardı etmek.",
+          "rationale": "Bu, 'Yumuşak (Soft) Yavaş Turist'in özelliği olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "En lüks otellerde kalmak.",
+          "rationale": "Bu, yavaş turizm felsefesiyle (yerel halktan faydalanma) çelişebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çevresel kaygılar.",
+          "rationale": "Metinde 'Esas motivasyonu çevresel kaygılardır.' ifadesi 'Yoğun (Hard) Yavaş Turistler' için açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mümkün olan en hızlı ulaşım aracını kullanmak.",
+          "rationale": "Tam tersine, bu turistler 'yavaş seyahat yoluyla (bisiklet, yürüyüş)' seyahat ederler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel yiyecekleri denemekten kaçınmak.",
+          "rationale": "Yavaş turizm, gastronomi ve yerel kültürü önemser; bu davranış yavaş turist tipine uymaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "question": "'Yumuşak (Soft) Yavaş Turistler' ile 'Yoğun (Hard) Yavaş Turistler' arasındaki fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "'Yoğun' turistler yerel kültüre önem verirken, 'Yumuşak' turistler hiç önemsemez.",
+          "rationale": "Metne göre 'Yumuşak' turistler de yerel kültüre ve yiyeceklere önem verir, ancak 'Yoğun' turistler kadar tam anlamıyla ilgilenmeyebilirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Yoğun' turistlerin ana motivasyonu çevresel kaygılarken, 'Yumuşak' turistlerin ana amacı bu değildir.",
+          "rationale": "Metinde 'Yoğun' turist için 'Esas motivasyonu çevresel kaygılardır', 'Yumuşak' turist için 'Ana amacı çevresel kaygı değildir' denilerek bu fark vurgulanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "'Yumuşak' turistler bisiklet kullanır, 'Yoğun' turistler uçak kullanır.",
+          "rationale": "Tam tersi; 'Yoğun' turistler yavaş seyahat (bisiklet, yürüyüş) yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Yoğun' turistler kısa süre kalır, 'Yumuşak' turistler uzun süre kalır.",
+          "rationale": "Tam tersi; 'Yoğun' turistler 'bulunduğu yerde daha uzun süre kalır'.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Yumuşak' turistler yerel halktan faydalanır, 'Yoğun' turistler faydalanmaz.",
+          "rationale": "Tam tersi; 'Yoğun' turistler 'yerel halktan faydalanır'.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "question": "Aşağıdakilerden hangisi 'Doğrudan Turizm Ürünü Sunan Sektörler'den olan 'Cazibe Sektörü'ne bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oteller",
+          "rationale": "Oteller, 'Konaklama Sektörü'ne aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Havayolları",
+          "rationale": "Havayolları, 'Ulaştırma Sektörü'ne aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tur operatörleri",
+          "rationale": "Tur operatörleri, 'Seyahat Ticareti Sektörü'ne aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temalı parklar ve müzeler",
+          "rationale": "Metinde temalı parklar ve müzeler, 'Cazibe Sektörü' altında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yerel danışma büroları",
+          "rationale": "Bu bürolar, 'Destinasyon Düzenleyici Sektörler'e aittir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "question": "Ulusal/bölgesel turizm büroları ve yerel danışma büroları, hangi 'Doğrudan Turizm Ürünü Sunan Sektör' kategorisinde yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konaklama Sektörü",
+          "rationale": "Bu sektör otel, motel gibi yerleri kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cazibe Sektörü",
+          "rationale": "Bu sektör müze, park gibi çekicilikleri kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyahat Ticareti Sektörü",
+          "rationale": "Bu sektör tur operatörü, acente gibi yerleri kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Destinasyon Düzenleyici Sektörler",
+          "rationale": "Metinde bu bürolar, 'Destinasyon Düzenleyici Sektörler' altında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ulaştırma Sektörü",
+          "rationale": "Bu sektör havayolu, karayolu gibi ulaşım araçlarını kapsar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "question": "Metinde 2025 Temmuz itibariyle 'Çevreye Duyarlı Tesis' sayısının en fazla olduğu il hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İzmir",
+          "rationale": "Metinde İzmir, Cittaslow ile anılmıştır, çevreye duyarlı tesis sayısı ile değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antalya",
+          "rationale": "Metinde 'En fazla Antalya ilindedir.' ifadesi açıkça yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mersin",
+          "rationale": "Metinde Mersin, en derin mağara (Peynirlikönü) ile anılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Isparta",
+          "rationale": "Metinde Isparta, en uzun mağara (Pınargözü) ile anılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rize",
+          "rationale": "Metinde Rize, Kaçkar Dağları ile anılmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "question": "Aşağıdakilerden hangisi çevrenin 'cansız öğeleri' arasında yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Flora (Bitki örtüsü)",
+          "rationale": "Flora, çevrenin 'canlı öğeleri' arasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fauna (Hayvan topluluğu)",
+          "rationale": "Fauna, çevrenin 'canlı öğeleri' arasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mikroorganizmalar",
+          "rationale": "Mikroorganizmalar, çevrenin 'canlı öğeleri' arasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su",
+          "rationale": "Metinde iklim, hava, su ve yer yuvarlağının yapısı 'cansız öğeler' olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İnsanlar",
+          "rationale": "İnsanlar, çevrenin 'canlı öğeleri' arasındadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "question": "İnsanın fiziksel olarak algıladığı ortama ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Toplumsal Çevre",
+          "rationale": "Bu, insanların yarattığı ilişkiler bütünüdür (örn. komşuluk).",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel Çevre",
+          "rationale": "Metinde 'Fiziksel Çevre: İnsanın fiziksel olarak algıladığı ortam.' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ekonomik Çevre",
+          "rationale": "Bu, toplumsal çevrenin bir alt boyutudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Biyolojik Çevre",
+          "rationale": "Bu, canlı öğeleri (flora, fauna) ifade eder, fiziksel çevrenin tamamı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Siyasal Çevre",
+          "rationale": "Bu, toplumsal çevrenin bir alt boyutudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "question": "Kültürel mirasın aktarılmasında temel öğe olan ve yapay çevrenin özel bir parçası olarak kabul edilen çevre hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Doğal Çevre",
+          "rationale": "Doğal çevre insan elinden çıkmamıştır; kültürel miras ise insan üretimidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal Çevre",
+          "rationale": "Bu, fiziksel bir yapı değil, ilişkiler bütünüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarihi Çevre",
+          "rationale": "Metinde 'Not: Tarihi çevre, yapay çevrenin özel bir parçasıdır ve kültürel mirasın aktarılmasında temel öğedir.' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Cansız Çevre",
+          "rationale": "Tarihi çevre (binalar, anıtlar) cansız olsa da, bu tanım 'kültürel miras' vurgusunu karşılamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel Çevre",
+          "rationale": "Tarihi çevre fiziksel çevrenin bir parçasıdır ancak bu cevap 'özel parça' ve 'kültürel miras' vurgusunu yapan 'Tarihi Çevre' kadar spesifik değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "question": "Gürültü kirliliğinin kaynakları arasında hangisi 'doğal' bir kaynaktır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eğlence yerleri (disko, bar)",
+          "rationale": "Bu, 'Yapay' (insan kaynaklı) bir gürültü kaynağıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mekanik sesler ve trafik",
+          "rationale": "Bu, 'Yapay' (insan kaynaklı) bir gürültü kaynağıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanayi",
+          "rationale": "Bu, 'Yapay' (insan kaynaklı) bir gürültü kaynağıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rüzgar ve yanardağ",
+          "rationale": "Metinde bu ikisi 'Doğal' gürültü kaynakları olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uçak ve transfer araçları",
+          "rationale": "Bu, 'Yapay' (insan kaynaklı) bir gürültü kaynağıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "question": "Aşağıdakilerden hangisi gürültü kirliliğinin 'yapay' kaynaklarından biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Trafik",
+          "rationale": "Trafik, insan kaynaklı 'Yapay' bir gürültü kaynağıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanayi",
+          "rationale": "Sanayi, insan kaynaklı 'Yapay' bir gürültü kaynağıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yanardağ",
+          "rationale": "Yanardağ, insan kaynaklı olmayan 'Doğal' bir gürültü kaynağıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eğlence yerleri",
+          "rationale": "Eğlence yerleri, insan kaynaklı 'Yapay' bir gürültü kaynağıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mekanik sesler",
+          "rationale": "Mekanik sesler, insan kaynaklı 'Yapay' bir gürültü kaynağıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "question": "Suyun yapısındaki mineral oranının, tat, koku ve berraklık gibi özelliklerinin bozulmasına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hava Kirliliği",
+          "rationale": "Bu, havanın kirlenmesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su Kirliliği",
+          "rationale": "Bu tanım, metinde 'Su Kirliliği' başlığı altında verilen tanımın aynısıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Küresel Isınma",
+          "rationale": "Bu, yeryüzü sıcaklığının artmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toprak Kirliliği",
+          "rationale": "Bu, toprağın kirlenmesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gürültü Kirliliği",
+          "rationale": "Bu, hoşa gitmeyen seslerdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "question": "Bitki örtüsünün 'flora', hayvan topluluğunun 'fauna' olarak adlandırıldığı bilgisi ışığında, turizmin bu iki unsur üzerindeki olumsuz etkisi nasıl gerçekleşir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistlerin yabancı dil öğrenme isteğini artırarak.",
+          "rationale": "Bu, turizmin olumlu bir 'sosyal' etkisidir; flora/fauna ile ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sahil bölgelerindeki kirlenme, gürültü ve yapılaşma ile deniz ve kara hayatını olumsuz etkileyerek.",
+          "rationale": "Metinde turizmin flora ve fauna üzerindeki etkisi bu şekilde (kirlenme, gürültü, yapılaşma) açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ulaşım araçlarını kusursuz hale getirerek.",
+          "rationale": "Bu, modern turizmin dayandığı bir nedendir; bir etki değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turist-yerel halk arasında kültürel çatışmalara yol açarak.",
+          "rationale": "Bu, 'kültürel çevre' üzerindeki bir etkidir; flora/fauna (biyolojik çevre) değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Verimli tarım alanlarını golf sahasına dönüştürerek.",
+          "rationale": "Bu, 'toprak kirliliği' (arazi kullanımı) başlığında ele alınmıştır. Flora/fauna bozulmasına yol açsa da, metindeki flora/fauna başlığının ana açıklaması bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "question": "Aşağıdakilerden hangisi küresel ısınmaya neden olan faktörlerden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fosil yakıt tüketimi",
+          "rationale": "Bu, küresel ısınmanın ana nedenlerinden biri olarak metinde belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanayi",
+          "rationale": "Bu, küresel ısınmanın nedenlerinden biri olarak metinde belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ormanların yok edilmesi",
+          "rationale": "Bu, (karbon yutaklarının azalması) küresel ısınmanın nedenlerinden biri olarak metinde belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aşırı sıcaklar nedeniyle talebin yaylalara kayması.",
+          "rationale": "Bu, küresel ısınmanın bir 'nedeni' değil, 'sonucu' (turizm üzerindeki etkisi) olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Atmosferin doğal işleyişinin bozulması.",
+          "rationale": "Bu, küresel ısınmanın tanımının bir parçasıdır (sera etkisi).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "question": "İklim değişikliğinin turizm üzerindeki hangi etkisi, özellikle güneşe hassas Kuzey Avrupalı turistlerin akımlarını etkileyebilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kar yağışının azalması.",
+          "rationale": "Bu, kış turizmini etkiler; Kuzey Avrupalı yaz turistlerini değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Buzulların erimesi ve plajların bozulması.",
+          "rationale": "Bu, deniz-kum-güneş turizmini genel olarak etkiler.",
+          "isCorrect": false
+        },
+        {
+          "text": "İklim koşullarının (aşırı sıcaklar) değişmesi.",
+          "rationale": "Metinde 'İklim koşullarının (aşırı sıcaklar) değişmesi -> Turist akımlarının (örn. güneşe hassas Kuzey Avrupalıların) etkilenmesi.' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turistik ürünlerin çeşitlendirilmesi zorunluluğu.",
+          "rationale": "Bu, bir sonuçtur; spesifik olarak Kuzey Avrupalı turistleri etkileyen 'neden' (aşırı sıcaklar) değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Salgın hastalık riski.",
+          "rationale": "Bu, tüm turistleri etkileyebilecek genel bir risktir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "question": "'Alternatif turizm' veya 'Yumuşak turizm' olarak da adlandırılan, çevreyi koruyan ve yerel halkın refahını gözeten turizm türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kitle Turizmi",
+          "rationale": "Kitle turizmi (sert turizm), genellikle ekoturizmin (yumuşak turizm) zıttı olarak kabul edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekoturizm",
+          "rationale": "Metinde ekoturizmin diğer isimlendirmeleri arasında 'Yumuşak turizm' ve 'Alternatif turizm' yer almakta, tanımı da çevreyi koruma ve yerel halkın refahını vurgulamaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Av Turizmi",
+          "rationale": "Av turizmi, ekoturizmin bir alt dalı olsa da, 'yumuşak turizm'in genel adı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yavaş Turizm",
+          "rationale": "Yavaş turizm de sorumlu bir turizm türüdür ancak 'yumuşak turizm' ifadesi metinde doğrudan ekoturizm ile ilişkilendirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cittaslow",
+          "rationale": "Bu bir turizm türü değil, şehirler birliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "question": "Ekoturizmin ilkeleri arasında yer alan 'Yasal olarak yönetilen alanların korunmasına katkıda bulunma' ilkesi ne anlama gelmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece milli parklar gibi yasal koruma altındaki yerlerde turizm yapılması.",
+          "rationale": "Bu, ilkenin bir yorumu olabilir ancak ilkenin tam anlamı bu olmayabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turizm gelirlerinin (örn. park giriş ücretleri) bu alanların korunması için kullanılması.",
+          "rationale": "Ekoturizmin ekonomik katkısının (olumlu ekonomik etki) korumaya yönlendirilmesi, bu ilkenin pratik bir uygulamasıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turistlerin yasalara uyması için eğitilmesi.",
+          "rationale": "Bu, 'duyarlılığı ve bilinci artırma' ilkesiyle daha çok ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Korunan alanlarda yapılaşmayı artırmak.",
+          "rationale": "Bu, koruma ilkesiyle tamamen çelişir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel halkın bu alanlara girişinin yasaklanması.",
+          "rationale": "Bu, 'yerel halkın katılımı' ilkesiyle çelişir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "question": "Aşağıdakilerden hangisi ekoturizm faaliyetlerinden olan dağ turizmi için metinde belirtilen önemli dağlardan biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ağrı",
+          "rationale": "Metinde dağ turizmi için önemli dağlar arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Erciyes (Kayseri)",
+          "rationale": "Metinde dağ turizmi için önemli dağlar arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kaçkar (Rize)",
+          "rationale": "Metinde dağ turizmi için önemli dağlar arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aladağlar (Niğde)",
+          "rationale": "Metinde dağ turizmi için önemli dağlar arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yellowstone",
+          "rationale": "Yellowstone, bir dağ değil, ABD'de bir ulusal parktır ve ekoturizmin olumsuz etkileri (ayılar) örneğinde kullanılmıştır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "question": "Ekoturizmin olumsuz çevresel etkilerinden olan 'Tahripçilik ve Hatıra eşya toplanması' neye yol açar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Doğal ve kültürel değerlerin kaybına.",
+          "rationale": "Metinde bu eylemin sonucu 'Doğal/kültürel değerlerin kaybı' olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yerel halk için istihdam artışına.",
+          "rationale": "Bu, ekoturizmin olumlu bir ekonomik etkisidir, olumsuz bir çevresel etki değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaban hayatının çöple beslenmeye alışmasına.",
+          "rationale": "Bu, 'Çöpler' başlığındaki olumsuz bir etkidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Görsel kirliliğe.",
+          "rationale": "Bu da bir etkidir ancak 'değerlerin kaybı' bu eylemin daha spesifik sonucudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su yollarının değişmesine.",
+          "rationale": "Bu, 'Yol ve patikalar' başlığındaki olumsuz bir etkidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "question": "Eğer taşıma kapasitesi aşılırsa ve aşırı kalabalık oluşursa, ekoturizmin dönüşebileceği olumsuz durum nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kitle turizmine dönüşmesi.",
+          "rationale": "Metinde 'Eğer taşıma kapasitesi aşılırsa, ekoturizm kitle turizmine dönüşebilir.' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yavaş turizme dönüşmesi.",
+          "rationale": "Yavaş turizm, kitle turizminin zıttı bir felsefedir; aşırı kalabalık tam tersi bir duruma işaret eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sürdürülebilirliğe ulaşması.",
+          "rationale": "Taşıma kapasitesinin aşılması, sürdürülebilirliğin tam tersidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cittaslow üyesi olması.",
+          "rationale": "Cittaslow, 'sakin' şehir demektir; aşırı kalabalık bu felsefeyle çelişir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tamamen yok olması.",
+          "rationale": "Yok olmaktan ziyade, niteliğini kaybederek kitle turizmine dönüşmesi (bozulması) belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "question": "Aşağıdakilerden hangisi turizmin sosyal etkileri arasında sayılan, halkın kendi değerleriyle ilgili olumlu bir durumu ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kültürel çatışmaların yaşanması.",
+          "rationale": "Bu, 'Kültürel Çevrede Bozulma' başlığındaki olumsuz bir etkidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile yapısında yenilikler olması.",
+          "rationale": "Bu nötr veya olumlu bir değişim olabilir ancak 'kendi değerleriyle' ilgili spesifik durumu ifade etmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Halkın ulusal ve kültürel değerlerle övünç duymasına neden olması.",
+          "rationale": "Metinde bu, turizmin (kültüre olan ilgiden dolayı) yarattığı olumlu bir sosyal etki olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kırsal bölgelerin kentleşme olgusunu hızlandırması.",
+          "rationale": "Bu, sosyal bir etkidir ancak olumlu mu olumsuz mu olduğu tartışmalı bir değişimdir; 'övünç duyma' gibi net bir olumlu durum değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yabancı dil öğrenme isteğini artırması.",
+          "rationale": "Bu olumlu bir sosyal etkidir ancak 'kendi ulusal değerleri' ile değil, dışa dönük bir beceriyle ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "question": "Endüstri Devrimi sonrası turizmin gelişim etmenlerinden olan 'Kentleşme ve Nüfus Artışı'nın turizmi teşvik etme nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kentlerde yaşayanların daha zengin olması.",
+          "rationale": "Bu 'Gelir Düzeyinin Artması' etmeniyle ilgilidir, kentleşmenin kendisiyle değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kentlerde daha fazla boş zaman olması.",
+          "rationale": "Bu 'Boş Zaman Yaratılması' etmeniyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kentlerdeki kalabalık, gürültü ve stresten kaçma, dinlenme ihtiyacı.",
+          "rationale": "Kentleşme, insanların doğaya ve sakin yerlere kaçma isteğini (turizm talebini) artırmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kentlerde seyahat acentelerinin sayısının artması.",
+          "rationale": "Bu, kentleşmenin bir sonucu olabilir ancak turizmi teşvik eden 'ana neden' değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kentlerdeki ulaşım araçlarının daha yavaş olması.",
+          "rationale": "Tam tersine, ulaşım araçlarının gelişmesi (hızlanması) turizmi geliştiren bir etmendir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "question": "Aşağıdakilerden hangisi 'Doğal Çevre' ile 'Yapay Çevre' arasındaki temel farktır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Doğal çevre canlı, yapay çevre cansızdır.",
+          "rationale": "Bu yanlıştır; doğal çevre de (su, hava) cansız öğeler içerir, yapay çevre de (parktaki bitkiler) canlı öğeler içerebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğal çevre insan elinden çıkmamış, yapay çevre insan elinden çıkmıştır.",
+          "rationale": "Metindeki tanımlara göre temel ayrım budur; biri doğanın kendi hazırladığı, diğeri insanın yarattığıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Doğal çevre kırsalda, yapay çevre kenttedir.",
+          "rationale": "Genellikle doğru olsa da, kentteki bir park (doğal unsurlar) veya kırsaldaki bir baraj (yapay çevre istisnası) bu ayrımı geçersiz kılar. Temel fark 'insan emeği'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğal çevre kirlidir, yapay çevre temizdir.",
+          "rationale": "Böyle bir genelleme doğru değildir; her ikisi de kirlenebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğal çevre turistik değildir, yapay çevre turistiktir.",
+          "rationale": "Bu tamamen yanlıştır; hem doğal çevre (milli parklar) hem de yapay çevre (müzeler, kentler) turistik cazibe merkezidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 91,
+      "question": "Aşağıdakilerden hangisi turizmin hem 'Hava Kirliliği' hem de 'Gürültü Kirliliği'ne aynı anda neden olan bir kaynağıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistik tesislerin atık suları.",
+          "rationale": "Bu, 'Su Kirliliği'ne neden olur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğlence yerleri (disko, bar).",
+          "rationale": "Bu, öncelikle 'Gürültü Kirliliği'ne neden olur; doğrudan hava kirliliği etkisi metinde belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uçaklar ve turist transfer araçları (otobüs).",
+          "rationale": "Metne göre bu araçlar egzoz gazlarıyla 'Hava Kirliliği'ne, motor sesleriyle 'Gürültü Kirliliği'ne neden olurlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Golf sahaları.",
+          "rationale": "Bu, 'Toprak Kirliliği' (arazi kullanımı) ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gemilerden bırakılan sintine atıkları.",
+          "rationale": "Bu, 'Su Kirliliği'ne neden olur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 92,
+      "question": "Aşağıdakilerden hangisi 'Kültürel Çevrede Bozulma'ya bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kanalizasyonun denize akıtılması.",
+          "rationale": "Bu, 'Su Kirliliği'dir (Fiziksel çevre).",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistlerin yerel halkın geleneklerini değiştirmeye başlaması.",
+          "rationale": "Bu, 'Kültürel Çevrede Bozulma'nın tanımıdır (sosyal etki).",
+          "isCorrect": true
+        },
+        {
+          "text": "Uçakların egzoz gazları.",
+          "rationale": "Bu, 'Hava Kirliliği'dir (Fiziksel çevre).",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarihi bir binanın restore edilmesi.",
+          "rationale": "Bu, tarihi çevrenin korunmasıdır; bozulma değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Plajların erozyona uğraması.",
+          "rationale": "Bu, iklim değişikliğinin fiziksel bir etkisidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 93,
+      "question": "Aşağıdakilerden hangisi 'ekoturizm ilkesi' *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çevre üzerinde en az olumsuz etkiyi yapmak.",
+          "rationale": "Bu, ekoturizmin temel ilkelerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel halka ekonomik fayda sağlamak.",
+          "rationale": "Bu, ekoturizmin temel ilkelerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karar verme aşamalarına yerel halkın katılımını sağlamak.",
+          "rationale": "Bu, ekoturizmin temel ilkelerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turist memnuniyetini her şeyin önünde tutmak.",
+          "rationale": "Turist memnuniyeti önemli olsa da, ekoturizmin 'ilkesi' değildir. Ekoturizmde koruma ve yerel halkın refahı, feda edilebilir bir memnuniyet anlayışının önündedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Alanın doğal ve kültürel sistemine karşı duyarlılığı ve bilinci artırma.",
+          "rationale": "Bu, ekoturizmin temel ilkelerinden biridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 94,
+      "question": "Av turizmi, Polat'ın (2006) gruplandırmasına göre hangi kategoride yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Öğrenmeye Dayalı",
+          "rationale": "Bu grupta botanik, kuş gözlemciliği gibi faaliyetler yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maceraya Dayalı",
+          "rationale": "Bu grupta dağcılık, yamaç paraşütü gibi faaliyetler yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sportif Eğlenmeye Dayalı",
+          "rationale": "Metinde 'Av' turizmi, 'Sportif Eğlenmeye Dayalı' alt grubunda listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dinlenmeye Dayalı",
+          "rationale": "Bu grupta kamp/karavan, yayla gibi faaliyetler yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Turizm",
+          "rationale": "Bu gruplandırma metinde bu başlık altında yer almamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 95,
+      "question": "Aşağıdakilerden hangisi Sürdürülebilirliğin 3 Boyutu (Ekonomik, Sosyal, Çevresel) ile doğru bir şekilde eşleştirilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ekonomik (Katılım), Sosyal (Koruma), Çevresel (Paylaşım)",
+          "rationale": "Eşleştirmeler yanlıştır. Ekonomik (Paylaşım), Sosyal (Katılım), Çevresel (Koruma) olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik (Adil Paylaşım), Sosyal (Katılım), Çevresel (Doğal kaynakların korunması)",
+          "rationale": "Bu, metinde verilen 3 boyut ve parantez içindeki anahtar kelimelerle tam olarak eşleşmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ekonomik (Koruma), Sosyal (Adil Paylaşım), Çevresel (Katılım)",
+          "rationale": "Eşleştirmeler yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik (Katılım), Sosyal (Adil Paylaşım), Çevresel (Koruma)",
+          "rationale": "Eşleştirmeler yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik (Doğal kaynaklar), Sosyal (Biyoçeşitlilik), Çevresel (Adil Paylaşım)",
+          "rationale": "Eşleştirmeler yanlıştır ve metindeki anahtar kelimelerle uyumsuzdur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 96,
+      "question": "Aşağıdakilerden hangisi 'Yavaş Hareketi' (Slow Movement) ile ilgili *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Slow Food",
+          "rationale": "Slow Food, Yavaş Hareketi'nin gastronomi boyutudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cittaslow",
+          "rationale": "Cittaslow, Yavaş Hareketi'nin kentsel boyutudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Slow Travel",
+          "rationale": "Slow Travel, Yavaş Hareketi'nin seyahat boyutudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fast Food",
+          "rationale": "Fast Food, Yavaş Hareketi'nin tam olarak 'karşı çıktığı' akımdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yavaş Turizm",
+          "rationale": "Yavaş Turizm, Yavaş Hareketi'nin turizmdeki yansımasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 97,
+      "question": "Turizm endüstrisindeki karbon salınımının çok büyük bir kısmının (%88) ulaşımdan kaynaklanması, aşağıdaki turizm türlerinden hangisinin felsefesini 'düşük karbonlu' olması açısından destekler?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kitle Turizmi",
+          "rationale": "Kitle turizmi genellikle uçak gibi yüksek karbonlu ulaşımlara dayanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yavaş Seyahat (Slow Travel)",
+          "rationale": "Yavaş seyahat, 'havayolu ulaşımının olmadığı', 'düşük karbonlu' (tren, bisiklet) ve 'çevresel kaygıları' olan bir turizm türü olarak bu duruma bir çözüm sunar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lüks Turizm",
+          "rationale": "Lüks turizm, genellikle özel jetler veya hızlı ulaşım araçlarını tercih edebilir, düşük karbon bir öncelik olmayabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alışveriş Turizmi",
+          "rationale": "Bu turizm türü, destinasyona ulaşımla (genellikle uçak) ilgili bir çözüm sunmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş Turizmi",
+          "rationale": "İş turizmi, zaman kısıtlamaları nedeniyle genellikle en hızlı (ve yüksek karbonlu) ulaşımı (uçak) tercih eder.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 98,
+      "question": "Aşağıdaki ulaşım türlerinden hangisi 'sıfır' karbon salınımına sahiptir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Uçak",
+          "rationale": "En yüksek salınıma (0.135) sahip araçtır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Araba (Benzin)",
+          "rationale": "Yüksek salınıma (0.121) sahip araçtır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tren",
+          "rationale": "Düşük salınıma (0.033) sahiptir, ancak sıfır değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yürüyüş ve Bisiklet",
+          "rationale": "Metinde bu iki türün karbon miktarı '0 (Sıfır)' olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otobüs",
+          "rationale": "Fosil yakıt kullandığı için salınımı vardır, sıfır değildir (metinde değeri verilmemiş olsa da).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 99,
+      "question": "'Yoğun (Hard) Yavaş Turist'in özelliklerinden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Esas motivasyonu çevresel kaygılardır.",
+          "rationale": "Bu, 'Yoğun' turistin temel özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyahat deneyimini yavaş seyahat yoluyla (bisiklet, yürüyüş) yapar.",
+          "rationale": "Bu, 'Yoğun' turistin temel özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğa dostu faaliyetlerde bulunur.",
+          "rationale": "Bu, 'Yoğun' turistin temel özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel halktan faydalanır (örn. konaklama, rehberlik).",
+          "rationale": "Bu, 'Yoğun' turistin temel özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ana amacı çevresel kaygı değildir, sadece dinlenirken bunlarla ilgilenir.",
+          "rationale": "Bu, 'Yoğun' turistin değil, 'Yumuşak (Soft) Yavaş Turist'in tanımıdır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 100,
+      "question": "Bir olayın 'turizm' sayılabilmesi için gerekli olan 'geçici konaklama' ilkesi, aşağıdaki durumlardan hangisini turizm kapsamı *dışında* bırakır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bir hafta sonu otelde kalmak.",
+          "rationale": "Bu, 'geçici konaklama' ilkesine uyar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaz tatilinde 2 haftalığına bir tatil köyüne gitmek.",
+          "rationale": "Bu, 'geçici konaklama' ilkesine uyar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim için başka bir şehre taşınmak ve orada 4 yıl yaşamak.",
+          "rationale": "Bu, 'geçici konaklama' değil, 'kalıcı' veya 'uzun süreli yerleşim' sayılır ve turizm tanımının dışında kalır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İş gezisi için 3 günlüğüne bir şehirde konaklamak.",
+          "rationale": "Bu, 'geçici konaklama' ilkesine uyar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir kamp alanında 1 gece çadır kurmak.",
+          "rationale": "Bu, 'geçici konaklama' ilkesine uyar.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,644 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Yiyecek ve İçecek Bölümü'nün temel amaçları arasında aşağıdakilerden hangisi yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konukların arzu ettikleri yiyecek ve içecekleri belirli kurallar dâhilinde sunmak.",
+          "rationale": "Bu, bölümün ana servis fonksiyonunu tanımlar ve temel amaçlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuklara sıcak ve samimi bir ortam yaratarak rahat hissetmelerini sağlamak.",
+          "rationale": "Konuk memnuniyeti ve psikolojik rahatlık, bölümün sosyal amaçları arasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satışları artırarak işletmeye ve personele mümkün olan en yüksek geliri sağlamak.",
+          "rationale": "Bölümün ticari ve finansal hedefi, işletmenin kârlılığına katkıda bulunmaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel odalarının günlük temizliğini ve düzenini sağlamak.",
+          "rationale": "Bu görev, Yiyecek ve İçecek Bölümü'nün değil, Kat Hizmetleri Bölümü'nün sorumluluğundadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Konukların memnuniyet ve devamlılığını sağlamak.",
+          "rationale": "Hizmet kalitesiyle konuk sadakati oluşturmak, bölümün uzun vadeli hedeflerindendir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "Organizasyon şemasında 'Kaptan' (4. Seviye) olarak adlandırılan Servis Sorumlusunun bir üst amiri kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Servis Görevlisi (Garson, 3. Seviye)",
+          "rationale": "Garson, Kaptan'ın bir üst amiri değil, astıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yiyecek & İçecek Operasyonları Sorumlusu (Maitre d'Hotel, 5. Seviye)",
+          "rationale": "Maitre d'Hotel (5. Seviye), Kaptan'ın (4. Seviye) doğrudan bağlı olduğu bir üst amiridir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Servis Görevlisi (Komi, 2. Seviye)",
+          "rationale": "Komi, Kaptan'ın astının da (Garson) yardımcısıdır, yani hiyerarşide çok daha alt bir seviyededir.",
+          "isCorrect": false
+        },
+        {
+          "text": "F&B Müdürü (6. Seviye)",
+          "rationale": "F&B Müdürü, Kaptan'ın doğrudan amiri değil, Maitre d'Hotel'in amiridir; yani Kaptan'ın dolaylı olarak üstüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şef Barmen",
+          "rationale": "Şef Barmen, bar operasyonlarından sorumludur ve Kaptan'ın (restoran) amiri değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdakilerden hangisi Servis Görevlisinin (Komi, 2. Seviye) ana görev tanımına girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuklardan yiyecek ve içecek siparişi almak ve hesap sunmak.",
+          "rationale": "Sipariş almak ve hesap sunmak, genellikle Garson (Seviye 3) veya Kaptan'ın (Seviye 4) görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Barda alkollü ve alkolsüz içecekleri reçetelerine uygun olarak hazırlamak.",
+          "rationale": "Bu, Barmen/Barmaid'in görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis alanlarının temizliği ile ilgilenmek ve servis sırasında Garson'a yardım etmek.",
+          "rationale": "Komi'nin temel sorumluluğu, servis öncesi hazırlık, temizlik ve Garson'a asistanlık yapmaktır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otelde yapılacak ziyafet ve toplantıları organize edip yönetmek.",
+          "rationale": "Bu, Ziyafet Müdürü'nün (Banquet Manager) görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirleri karşılamak ve onlara masa tahsis etmek.",
+          "rationale": "Bu, genellikle Maitre d'Hotel veya Kaptan'ın görevidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "Servis görevlisinin konuğun sigarasını yakmak için kullanması gereken ve dokümanda özellikle belirtilen araç hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çakmak",
+          "rationale": "Dokümanda, konuğun sigarasını yakarken çakmak kullanılmaması gerektiği belirtilmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kibrit",
+          "rationale": "Dokümanda, konuğun sigarasını yakmak için servis görevlisinin yanında bir kutu kibrit bulunması gerektiği açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Servis peçetesi",
+          "rationale": "Servis peçetesi, sıcak tabakları tutmak veya tepsiyi taşımak için kullanılır, sigara yakmak için değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tirbuşon",
+          "rationale": "Tirbuşon, şarap vb. içecekleri açmak için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalem",
+          "rationale": "Kalem, alınan siparişleri kaydetmek için kullanılır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "Gıda hijyenine göre, yiyeceklerin bekletilmemesi gereken, bakterilerin hızla çoğalmasına elverişli olan tehlikeli sıcaklık aralığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "-18°C ile 0°C arası",
+          "rationale": "Bu aralık, gıdaların dondurularak saklandığı ve bakteri üremesinin durduğu aralıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "0°C ile +5°C arası",
+          "rationale": "Bu aralık, soğuk depolama (buzdolabı) aralığıdır ve bakteri üremesini yavaşlatır.",
+          "isCorrect": false
+        },
+        {
+          "text": "+63°C'nin üzeri",
+          "rationale": "Bu sıcaklık, sıcak yiyeceklerin servis (sıcak tutma) sıcaklığıdır ve bakteri üremesini engeller.",
+          "isCorrect": false
+        },
+        {
+          "text": "+7°C ile +63°C arası",
+          "rationale": "Dokümana göre bu aralık 'Tehlikeli Bölge' (Danger Zone) olarak adlandırılır ve bakterilerin hızla çoğalması için idealdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece +100°C (Kaynama noktası)",
+          "rationale": "Kaynama noktası gıdaları pişirir ve bakterileri öldürür, tehlikeli aralık değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "Sulu yiyeceklerin (çorba vb.) servisinde kullanılan, büyük kâse şeklinde, kapaklı veya kapaksız olabilen porselen servis kabına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fayans",
+          "rationale": "Fayanslar, yiyeceklerin porsiyonlanmak üzere getirildiği büyük, düz veya az çukur servis tabaklarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosiyer",
+          "rationale": "Sosiyerler (Sosluk), akıcı sosların servisinde kullanılan, genellikle kulplu ve ağızlı küçük kaplardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turen",
+          "rationale": "Turen (Çorba potu), sulu yiyeceklerin ve çorbaların servisinde kullanılan büyük kâse şeklindeki kaplardır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kup Bardağı",
+          "rationale": "Kup bardakları genellikle tatlı, dondurma veya kokteyl servisinde kullanılan cam malzemelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis Tabağı (Show plate)",
+          "rationale": "Servis tabağı, kuverin temelini oluşturan, genellikle dekoratif amaçlı kullanılan büyük tabaktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "Açık büfelerde veya resepsiyonlarda yiyecekleri sıcak tutmak için kullanılan, alttan ısıtmalı, içinde sıcak su bulunan, genellikle metal ve kapaklı olan ekipmana ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rechaud (Reşo)",
+          "rationale": "Reşo, genellikle yemeği tabağında veya küçük bir kapta sıcak tutmaya yarayan, masaya getirilen küçük ısıtıcıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gueridon",
+          "rationale": "Gueridon, masa yanında servis veya flambe yapmak için kullanılan servis sehpasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bain Marie (Benmari)",
+          "rationale": "Benmari, benzer bir sistemdir ancak dokümanda tezgah havuzları olan daha geniş boyutlu sistem olarak tanımlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Chafing Dish (Şeyfır)",
+          "rationale": "Dokümana göre bu tanım, altındakinin içinde su olan üst üste iki kaptan oluşan ve büfelerde kullanılan 'Chafing Dish'e (Şeyfır) aittir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fondue (Fondü)",
+          "rationale": "Fondü, altta ısıtıcı ve üstte tavadan oluşan özel bir yemek (eritme peynir/çikolata) takımının adıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "Temel servis tekniklerine göre, konuğun sağında yer alan su bardağına su servisi ve boş tabakların toplanması (ekmek ve salata hariç) hangi taraftan yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Her ikisi de konuğun solundan yapılır.",
+          "rationale": "Sol taraf genellikle ekmek servisi ve soldaki malzemelerin toplanması için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her ikisi de konuğun sağından yapılır.",
+          "rationale": "Genel kural olarak, içecek servisi ve ana boşların toplanması konuğun sağ tarafından gerçekleştirilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Su servisi sağdan, boş toplama soldan yapılır.",
+          "rationale": "Boş toplama (sağdaki tabaklar için) genellikle sağdan yapılır, soldan değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su servisi soldan, boş toplama sağdan yapılır.",
+          "rationale": "İçecek servisi (sağdaki bardaklar için) genellikle sağdan yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis görevlisinin tercihine bağlıdır.",
+          "rationale": "Serviste keyfiyete yer yoktur; bu işlemlerin standart kuralları (sağ/sol) vardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "Ana yemekten sonra ve tatlı servisinden önce yapılması gereken işlem aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hesabın konuğa sunulması.",
+          "rationale": "Hesap, konuk tatlı ve kahvesini bitirdikten sonra veya talep ettiğinde sunulur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masadaki kül tablasının değiştirilmesi.",
+          "rationale": "Kül tablası ihtiyaç duyuldukça (içinde sönmüş sigara oldukça) değiştirilir, bu ana yemeğe bağlı bir zamanlama değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masadaki kırıntıların temizlenmesi.",
+          "rationale": "Ana yemek boşları kalktıktan sonra, tatlı kuveri konulmadan önce masa kırıntıları temizlenir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ekmek sepetinin yenilenmesi.",
+          "rationale": "Ekmek servisi genellikle ana yemekle birlikte biter, tatlıdan önce ekmek yenilenmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aperatif siparişlerinin alınması.",
+          "rationale": "Aperatifler (iştah açıcı içecekler) yemekten önce alınır, sonra değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "Servis anında personelin bazı ihtiyaçlarını (ekstra çatal-bıçak, peçete, menaj vb.) karşılamak amacıyla restoranda bulunan dolaplı, çekmeceli ara depolara ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gueridon (Servis Sehpası)",
+          "rationale": "Gueridon, masa kenarında servis veya hazırlık (flambe, tranş) yapmak için kullanılan tekerlekli sehpadır, depolama amaçlı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servant (Servis İstasyonu)",
+          "rationale": "Servant (veya Posta Servantı), servis personelinin ihtiyaç duyduğu malzemelerin depolandığı istasyon dolabıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rechaud (Reşo)",
+          "rationale": "Reşo, yemeği sıcak tutmak için kullanılan bir ısıtıcıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mise en place (Mizan plas)",
+          "rationale": "'Mise en place' bir ekipman değil, 'servis öncesi ön hazırlık' eyleminin adıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Chafing Dish (Şeyfır)",
+          "rationale": "Chafing dish, büfelerde yiyecekleri sıcak tutan bir ekipmandır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "Konuğun alacağı yemek önceden belli olduğu için (ziyafet veya grup yemeği gibi) kuverin ona göre hazırlandığı, belli sayıda yemekten oluşan ve tek fiyatı olan mönü tipine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "A'la Carte (Alakart) Mönü",
+          "rationale": "A'la Carte mönüde konuk yemeklerini karttan seçer, yemekler sipariş üzerine hazırlanır ve her biri ayrı fiyatlandırılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Table d'hote (Tabldot) Mönü",
+          "rationale": "Table d'hote, 'Ev sahibinin masası' anlamındadır; yemekler önceden bellidir, seçim sınırlıdır ve tek bir fiyat uygulanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brunch Mönüsü",
+          "rationale": "Brunch, kahvaltı ve öğle yemeğini birleştiren bir öğün adıdır, mönü yapısını tanımlamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda Servisi Mönüsü",
+          "rationale": "Bu, servisin yapıldığı yere göre (oda) bir mönü sınıflandırmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Klasik Mönü",
+          "rationale": "Klasik mönü, 14 aşamalı tarihsel bir yemek sıralamasını ifade eder, günümüzdeki bir servis tipini değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "Yiyeceklerin tepsi veya fayansta salona getirilip, servis görevlisi tarafından maşa kullanılarak konuğun SOLUNDAN tabağına servis edildiği servis usulü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fransız Servisi",
+          "rationale": "Fransız servisinde tepsi (veya fayans) konuğun solundan sunulur ancak yemeği tabağına konuğun KENDİSİ alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İngiliz Servisi",
+          "rationale": "İngiliz servisinde tepsi (veya fayans) konuğun solundan sunulur ve yemeği tabağına GÖREVLİ (garson) servis eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Amerikan Servisi",
+          "rationale": "Amerikan servisinde yemek mutfakta tabağa hazırlanır ve tabakla birlikte masaya getirilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rus Servisi",
+          "rationale": "Rus servisinde hazırlanan yiyecekler tepsi veya fayanslarda masanın ortasına bırakılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gueridon Servisi",
+          "rationale": "Gueridon servisinde yemek, konuğun masasındaki yardımcı sehpa üzerinde porsiyonlanır veya hazırlanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "Protokol servisinde (resmi ziyafetler) dikkat edilmesi gereken kurallardan hangisi yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bir garson en fazla 6-8 kişiye servis yapmalıdır.",
+          "rationale": "Protokol servisinin yüksek standartları nedeniyle bir garsonun ilgilendiği konuk sayısı (6-8 kişi) sınırlıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Komi servis yapmamalı, sadece mutfak ile salon bağlantısını sağlamalıdır.",
+          "rationale": "Protokolde servis sadece eğitimli garsonlar tarafından yapılır, Komi geri hizmette kalır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis görevlileri beyaz eldiven kullanmalıdır.",
+          "rationale": "Beyaz eldiven, protokol servisinin gerektirdiği hijyen ve resmiyetin bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maitre d'hotel servisi yönetmek için konuklara yakın durmalı ve sesli komutlar vermelidir.",
+          "rationale": "Protokol ziyafetinde 'sessizlik çok önemlidir'. Maitre d'hotel uzakta durmalı ve servisi sadece baş işaretleriyle yönetmelidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Protokol masasında bütün konuklar yemeğini bitirmeden boşlar alınmamalıdır.",
+          "rationale": "Servis bütünlüğünü korumak ve kimseyi rahatsız etmemek için herkesin bitirmesi beklenir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "Konuk önünde, genellikle et yemeklerini (örn. Pepper Steak) veya tatlıları, alkollü içecekler (Brandy vb.) dökerek alevlendirme yoluyla pişirme veya tamamlama işlemine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Flambe",
+          "rationale": "Flambe, 'alevlendirme' anlamına gelir ve konuk önünde alkol kullanarak yapılan gösteri amaçlı pişirme tekniğidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tranş (Tranche)",
+          "rationale": "Tranş, bütün haldeki et, tavuk veya balığın konuk önünde dilimlenmesi (porsiyonlanması) işlemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dekantasyon (Dekante)",
+          "rationale": "Dekantasyon, genellikle eski kırmızı şarapları tortusundan ayırmak ve havalandırmak için bir karafa aktarma işlemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "A'la Carte",
+          "rationale": "A'la Carte, mönüden sipariş verme yöntemidir, bir pişirme tekniği değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mise en place",
+          "rationale": "Mise en place, servis öncesi yapılan ön hazırlıkların tümüdür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "Sadece sıcak içecek (çay/kahve), tereyağı, bal/reçel ve ekmek çeşitlerinden (kruvasan vb.) oluşan, en basit ve hafif kahvaltı türü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İngiliz Usulü Kahvaltı",
+          "rationale": "İngiliz kahvaltısı; yumurta, sosis, bacon, fasulye gibi pişmiş ve ağır yiyecekler içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amerikan Usulü Kahvaltı",
+          "rationale": "Amerikan kahvaltısı; İngiliz kahvaltısına benzer, ek olarak pancake, waffle, et çeşitleri içerebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Türk Usulü Kahvaltı",
+          "rationale": "Türk kahvaltısı; peynir çeşitleri, zeytin, domates, salatalık gibi zengin kahvaltılıklar içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Continental (Kıta) Kahvaltı",
+          "rationale": "Continental (Kıta Avrupası) kahvaltısı, dokümanda tanımlandığı gibi sadece içecek, ekmek ve reçel/tereyağından oluşan hafif kahvaltıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brunch",
+          "rationale": "Brunch, bir kahvaltı türü değil, kahvaltı ile öğle yemeğini birleştiren bir öğündür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "Aşağıdakilerden hangisi alkollü içeceklerin 'Damıtma Yolu (Distillation)' ile üretilenler sınıfına girmez?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Viski",
+          "rationale": "Viski, tahıl mayşesinin damıtılmasıyla elde edilen yüksek alkollü bir içkidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rakı",
+          "rationale": "Rakı, üzüm suması ve anasonun birlikte damıtılmasıyla (distilasyon) elde edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konyak (Brandy)",
+          "rationale": "Konyak, şarabın (fermente edilmiş üzüm suyu) damıtılmasıyla elde edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Votka",
+          "rationale": "Votka, tahıl veya patatesin fermente edilmesi ve ardından saf alkol elde edilene kadar damıtılmasıyla üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şarap",
+          "rationale": "Şarap, üzüm suyunun 'Mayalandırma (Fermantasyon)' yoluyla üretilir; damıtma işlemi görmez.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "Şarap servisi ile ilgili aşağıdaki kurallardan hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Beyaz şaraplar oda sıcaklığında (16-20°C) servis edilmelidir.",
+          "rationale": "Bu sıcaklık aralığı kırmızı şaraplar içindir; beyaz şaraplar daha soğuk (6-10°C) servis edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kırmızı şaraplar çok soğuk (6-10°C) servis edilmelidir.",
+          "rationale": "Bu sıcaklık aralığı beyaz şaraplar içindir; kırmızı şaraplar daha ılık (14-20°C) servis edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şişe, etiketi konuğun göremeyeceği şekilde peçeteyle tamamen sarılarak tutulmalıdır.",
+          "rationale": "Etiket, konuğun siparişi doğrulayabilmesi için mutlaka görünür olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şarap servisi (tattırma dahil) konuğun sağ tarafından yapılır.",
+          "rationale": "Tüm içecek servisleri gibi şarap servisi de konuğun sağından ve bardağa uygun şekilde yapılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Onay alındıktan sonra şarap bardağı ağzına kadar doldurulmalıdır.",
+          "rationale": "Şarap bardağı, havalanması (aroma) için 2/3 oranında veya daha az doldurulur, asla tamamı doldurulmaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "Arpa maltı şırasının şerbetçiotu ile mayalandırılması sonucu elde edilen, 'Ale' ve 'Lager' gibi türleri bulunan hafif alkollü içki hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Cin",
+          "rationale": "Cin, ardıç ağacı meyvesinin damıtılmasıyla elde edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bira",
+          "rationale": "Bu tanım, arpa maltı, şerbetçiotu ve maya kullanılarak yapılan biranın üretim sürecini ve 'Ale' (üstten) / 'Lager' (alttan) mayalanma türlerini tam olarak açıklamaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Şarap",
+          "rationale": "Şarap, üzüm suyunun mayalandırılmasıyla elde edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rom (Rum)",
+          "rationale": "Rom, şeker kamışı melasının damıtılmasıyla elde edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Likör",
+          "rationale": "Likör, alkolün çeşitli meyve ve bitkilerle tatlandırılmasıyla elde edilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "Fransa'nın 'Cognac' bölgesinde üretilen ve şarabın damıtılmasıyla elde edilen içkiye verilen özel ad nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Armagnac",
+          "rationale": "Armagnac da bir Fransız brandy'sidir ancak Cognac bölgesinden değil, Armagnac bölgesindendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brandy",
+          "rationale": "Brandy, şarabın damıtılmasıyla elde edilen içkinin genel adıdır; 'Konyak' ise bu içkinin özel bir coğrafi bölgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Viski",
+          "rationale": "Viski, şaraptan değil, tahılların damıtılmasından elde edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konyak (Cognac)",
+          "rationale": "Dokümanda belirtildiği gibi 'Konyak', Fransa'nın Cognac kasabasını çevreleyen bağlardan üretilen brandy'e verilen addır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tekila",
+          "rationale": "Tekila, 'Mezkal' bitkisinden Meksika'da üretilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "İki veya daha fazla alkollü içkinin veya bunlara eklenen meyve suyu, likör vb. malzemelerin karıştırılmasıyla hazırlanan içeceklere verilen genel ad nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kokteyl",
+          "rationale": "Bu tanım, birden fazla içeceğin karıştırılmasıyla elde edilen 'Kokteyl'in tam tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Frappe",
+          "rationale": "Frappe, bir içeceğin (genellikle likör) talaş buzla servis edilme şeklidir, bir karışım kategorisi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aperatif",
+          "rationale": "Aperatif, yemekten önce içilen iştah açıcı içeceklerin zamanlama adıdır (örn: bir aperatif kokteyl olabilir ama her kokteyl aperatif değildir).",
+          "isCorrect": false
+        },
+        {
+          "text": "Digestive (Digestif)",
+          "rationale": "Digestif, yemekten sonra içilen hazmettirici içeceklerin zamanlama adıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Shaker",
+          "rationale": "Shaker, kokteyl hazırlamak için kullanılan bir araçtır (çalkalayıcı), içeceğin adı değildir.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
