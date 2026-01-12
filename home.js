@@ -101,12 +101,13 @@ const TEST_DATA = [
   {
     id: "on-buro-hizmetleri-final",
     title: "On Buro Hizmetleri (Final)",
-    description: "Ön büro operasyonlarini iki testlik setle calisin.",
+    description: "Ön büro operasyonlarini üç testlik setle calisin.",
     tag: "On Buro",
     category: "final",
     tests: [
       { name: "Test 1 Basla", url: "quiz.html?test=on-buro-hizmetleri" },
-      { name: "Test 2 Basla", url: "quiz.html?test=on-buro-hizmetleri-2" }
+      { name: "Test 2 Basla", url: "quiz.html?test=on-buro-hizmetleri-2" },
+      { name: "Test 3 Basla", url: "quiz.html?test=on-buro-hizmetleri-3" }
     ],
     pdfUrl: "assets/pdf/final/on-buro-hizmetleri.pdf"
   },

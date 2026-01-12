@@ -102,6 +102,14 @@ const TESTS = {
 
   },
 
+  "on-buro-hizmetleri-3": {
+
+    title: "On Buro Hizmetleri Testi 3 (Final)",
+
+    dataUrl: "final/on-buro-hizmetleri-3.json",
+
+  },
+
   "on-buro-hizmetleri-vize": {
 
     title: "On Buro Hizmetleri Testi 1 (Vize)",
@@ -243,6 +251,8 @@ const TEST_ALIASES = {
   "on buro hizmetleri": "on-buro-hizmetleri",
 
   "on buro hizmetleri 2": "on-buro-hizmetleri-2",
+
+  "on buro hizmetleri 3": "on-buro-hizmetleri-3",
 
   "mesleki yabanci dil i": "mesleki-yabanci-dil-1",
 
