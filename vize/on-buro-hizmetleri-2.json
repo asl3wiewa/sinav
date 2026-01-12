@@ -1,0 +1,3204 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Otel işletmelerinin sunduğu 'çekirdek ürünü' ifade eden ve otelin ana gelir kaynağı olan bölüm aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yiyecek & İçecek Bölümü (F&B)",
+          "rationale": "Metne göre, yeme-içme veya eğlence olmadan otel olabilir, bu nedenle bu çekirdek ürün değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odalar Bölümü (Rooms Division)",
+          "rationale": "Metin, 'Odalar Bölümü'nün konaklama hizmetini (çekirdek ürün) ifade ettiğini ve ana gelir kaynağı olduğunu belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Teknik Servis",
+          "rationale": "Teknik servis bir destek bölümüdür, otelin ana gelir kaynağı veya çekirdek ürünü değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satış & Pazarlama",
+          "rationale": "Satış & Pazarlama, çekirdek ürünü pazarlayan bölümdür, ürünün kendisi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsan Kaynakları",
+          "rationale": "İnsan Kaynakları, personeli yöneten idari bir bölümdür, çekirdek ürünle doğrudan ilgili değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi 'Odalar Bölümü' (Rooms Division) organizasyonu içinde yer alan alt bölümlerden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Önbüro (Front Office)",
+          "rationale": "Metne göre, Önbüro Odalar Bölümü'nün 3 alt bölümünden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat Hizmetleri (Housekeeping)",
+          "rationale": "Metne göre, Kat Hizmetleri Odalar Bölümü'nün 3 alt bölümünden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üniformalı Hizmetler (Bellboy, Concierge vb.)",
+          "rationale": "Metne göre, Üniformalı Hizmetler Odalar Bölümü'nün 3 alt bölümünden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak (Kitchen)",
+          "rationale": "Mutfak, Yiyecek & İçecek (F&B) bölümünün bir parçasıdır, Odalar Bölümü'nün değil.",
+          "isCorrect": true
+        },
+        {
+          "text": "Danışma (Concierge)",
+          "rationale": "Danışma (Concierge), Üniformalı Hizmetler başlığı altında Odalar Bölümü'ne dahildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "Önbüro faaliyetlerini tanımlayan 'Konuk Döngüsü' (Guest Cycle) hangi aşamada başlar ve hangi aşamada biter?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuk otele geldiğinde (check-in) başlar, ayrıldığında (check-out) biter.",
+          "rationale": "Döngü, check-in'den önce (rezervasyon) başlar ve check-out'tan sonra (misafir geçmişi) devam eder, bu yüzden bu eksiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuk rezervasyon yaptığında başlar, konuk ayrıldıktan sonra (misafir geçmişi kaydı) biter.",
+          "rationale": "Metne göre, faaliyetler 'konuk gelmeden (rezervasyon) başlar' ve 'ayrıldıktan sonra da (misafir geçmişi kaydı) devam eder'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Konuk otele geldiğinde (check-in) başlar, faturayı ödediğinde biter.",
+          "rationale": "Bu tanım, döngünün sadece konaklama sırasındaki kısmını kapsar; öncesini ve sonrasını dışarıda bırakır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuk rezervasyon yaptığında başlar, otelden ayrıldığında (check-out) biter.",
+          "rationale": "Metne göre döngü, check-out'tan sonra 'misafir geçmişi kaydı' ile devam eder, bu yüzden bu seçenek tam doğru değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuk odaya yerleştiğinde başlar, anahtarı teslim ettiğinde biter.",
+          "rationale": "Bu, Konuk Döngüsü'nün çok dar bir tanımıdır; rezervasyon ve sonrası aşamaları içermez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi Önbüronun detaylı görev listesi içinde yer *almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuk adına hesap kartı (folio) açmak ve harcamaları işlemek.",
+          "rationale": "Metinde bu, önbüronun görevleri arasında 'hesap kartı (folio) açmak' olarak açıkça belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "VIP konukları belirlemek ve özel oda tahsis etmek.",
+          "rationale": "Metinde bu, 'VIP konukları belirlemek ve özel oda tahsis etmek' olarak açıkça belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odaların günlük temizlik planlamasını yapmak ve denetlemek.",
+          "rationale": "Odaların temizlik planlaması ve denetimi, Önbüronun değil, Kat Hizmetleri (Housekeeping) bölümünün ana görevidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gerektiğinde kambiyo (döviz) işlemlerini yapmak.",
+          "rationale": "Metinde bu, 'kambiyo (döviz) işlemlerini yapmak' olarak açıkça belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuk dilek ve şikayetlerini dinleyip çözümünü sağlamak.",
+          "rationale": "Metinde bu, 'konuk dilek ve şikayetlerini dinleyip çözümünü sağlamak' olarak açıkça belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "Ön büro bölümleri arasında yer alan ve konuk hesaplarını tutup tahsilat yapan bölüm hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Resepsiyon (Reception)",
+          "rationale": "Resepsiyon check-in/out yapar, ancak hesapların tutulup tahsil edildiği ana bölüm Ön Kasa'dır (Metin günümüzde birleştiğini belirtse de).",
+          "isCorrect": false
+        },
+        {
+          "text": "Rezervasyon (Reservation)",
+          "rationale": "Rezervasyon bölümü oda taleplerini karşılar ve boş/dolu takibi yapar, tahsilat yapmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ön Kasa (Cashier)",
+          "rationale": "Metne göre, Ön Kasa 'konuk hesaplarını tutar ve tahsilat yapar'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Danışma (Concierge)",
+          "rationale": "Danışma bilgi verir, bilet ve tur rezervasyon işlerini yapar, hesap tutmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Santral (Switchboard)",
+          "rationale": "Santral, telefon haberleşmesini sağlar ve uyandırma yapar, tahsilat yapmaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "Otel içi ve dışı telefon haberleşmesini sağlayan, mesaj alan ve uyandırma listesini hazırlayan ön büro bölümü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Resepsiyon",
+          "rationale": "Resepsiyon bu işleri koordine edebilir ancak telefon haberleşmesi ve uyandırma Santral'in ana görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Santral (Switchboard)",
+          "rationale": "Metin, Santral'in görevlerini 'otel içi ve dışı telefon haberleşmesini sağlamak', 'mesaj almak' ve 'uyandırma listesini hazırlamak' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Danışma (Concierge)",
+          "rationale": "Danışma bilgi verir ve dışarıdaki rezervasyonları ayarlar, telefon santrali ile ilgilenmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ön Kasa",
+          "rationale": "Ön Kasa, finansal işlemler ve hesaplarla ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rezervasyon",
+          "rationale": "Rezervasyon, gelecekteki konaklamalar için oda taleplerini yönetir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "Önbüro personelini yöneten, eğiten, denetleyen, çalışma çizelgesini düzenleyen ve VIP konuklarla bizzat ilgilenen kişi kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Resepsiyon Şefi (Reception Chief)",
+          "rationale": "Resepsiyon şefi deskteki iş akışını yönetir, ancak tüm önbüro personelini yöneten ve eğiten kişi Önbüro Müdürü'dür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önbüro Müdürü (Front Office Manager)",
+          "rationale": "Metin, Önbüro Müdürü'nün görevlerini 'personeli yönetir, eğitir, denetler, çalışma çizelgesini düzenler' ve 'VIP konuklarla bizzat ilgilenir' olarak listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Danışma Şefi (Bell Captain)",
+          "rationale": "Danışma şefi sadece üniformalı personeli (bellboy, doorman) yönetir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyon Görevlisi (Reception Clerk)",
+          "rationale": "Resepsiyon görevlisi check-in/out işlemleri yapar, personel yönetimi sorumluluğu yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önkasa Görevlisi (Cashier)",
+          "rationale": "Önkasa görevlisi ödeme alır, personel yönetimi yapmaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "Rezervasyon alıp dosyalayan, değişiklik/iptal işlemlerini belgeleyen ve rezervasyon tablolarını güncelleyen personel kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Resepsiyon Görevlisi",
+          "rationale": "Resepsiyon görevlisi check-in/out yapar, rezervasyon takibi ana görevi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önbüro Müdürü",
+          "rationale": "Önbüro müdürü idari ve yönetimsel işlerle ilgilenir, günlük rezervasyon kaydı yapmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rezervasyon Görevlisi (Reservation Clerk)",
+          "rationale": "Metne göre, Rezervasyon Görevlisi 'rezervasyon alır, dosyalar, değişiklik/iptal işlemlerini belgeler' ve 'tabloları günceller'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Santral Görevlisi",
+          "rationale": "Santral görevlisi telefonlara bakar, rezervasyon almaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bellboy",
+          "rationale": "Bellboy bagaj taşır ve odayı tanıtır, rezervasyonla ilgisi yoktur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "Konuğu odasına götüren, eşyalarını taşıyan ve odayı/otel hizmetlerini konuğa tanıtan personel kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kapı Görevlisi (Doorman)",
+          "rationale": "Doorman kapıda durur, konuğu karşılar ve taksi çağırır, odaya kadar eşlik etmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Danışma Şefi (Bell Captain)",
+          "rationale": "Bell Captain, bellboy'ların şefidir, bizzat bu işi her zaman yapmaz, yönetir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Asansör Görevlisi (Lift Boy)",
+          "rationale": "Asansör görevlisi sadece asansörü idare eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyon Görevlisi",
+          "rationale": "Resepsiyon görevlisi desk'te kalır, kayıt işlemlerini yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bellboy",
+          "rationale": "Metin, Bellboy'un görevlerini 'konuğu odasına götürür, eşyalarını taşır' ve 'odayı ve otel hizmetlerini konuğa tanıtır' olarak belirtir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "Rezervasyonsuz gelen konuk (Walk-in), erken çıkış (Early Check-Out) ve konaklama uzatma (Extention) gibi durumları titizlikle izleyen ve kaydeden personel kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rezervasyon Görevlisi",
+          "rationale": "Metin, Rezervasyon Görevlisi'nin görevleri arasında 'Walk-in, Early Check-Out, Extention gibi durumları titizlikle izler ve kaydeder' ifadesini içerir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Resepsiyon Şefi",
+          "rationale": "Resepsiyon şefi bu durumları denetler ancak titizlikle izleme ve kaydetme işi rezervasyon görevlisinindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önbüro Müdürü",
+          "rationale": "Önbüro müdürü bu tür operasyonel detaylarla değil, yönetimle ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önkasa Görevlisi",
+          "rationale": "Önkasa görevlisi ödemeyi alır, konaklama durumu değişikliğini izlemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Santral Görevlisi",
+          "rationale": "Santral görevlisinin bu durumlarla bir ilgisi yoktur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "Aşağıdakilerden hangisi ön büro personelinin sahip olması gereken genel özelliklerden biri olarak metinde *vurgulanmamıştır*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Güler yüzlü olmak",
+          "rationale": "Metinde bu özellik '(En önemlisi)' olarak vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geçerli bir yabancı dil bilmek",
+          "rationale": "Metinde 'Geçerli bir yabancı dil bilmek' listelenen özellikler arasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekip çalışmasına yatkın olmak",
+          "rationale": "Metinde 'Ekip çalışmasına yatkın olmak' listelenen özellikler arasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Muhasebe ve finans bilgisine sahip olmak",
+          "rationale": "Metinde personelin genel özellikleri arasında muhasebe veya finans bilgisi gerektiğinden bahsedilmemiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Disiplinli, dürüst ve soğukkanlı olmak",
+          "rationale": "Metinde 'Disiplinli, dürüst ve soğukkanlı olmak' listelenen özellikler arasındadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "Konuğun oda numarası ve konaklama süresine göre manyetik kartları kodlayan ve süre bitiminde kartın çalışmasını durduran donanım nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "POS Makinesi",
+          "rationale": "POS makinesi kredi kartı ile ödeme ve provizyon almak için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "PMS (Otel Yönetim Sistemi)",
+          "rationale": "PMS bir yazılımdır, kartı fiziksel olarak kodlayan donanım değildir, ancak donanımı yönetir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Folio Havuzu (Pit / Rack)",
+          "rationale": "Folio havuzu, hesap kartlarının ve adisyonların saklandığı bir dolap veya bölümdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anahtar Kartı Makinesi",
+          "rationale": "Metin, 'Anahtar Kartı Makinesi'ni 'manyetik kartları... kodlar. Süre bitince... kart çalışmaz' şeklinde tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Emanet Kasa (Safe Box)",
+          "rationale": "Emanet kasa, konukların değerli eşyalarını sakladığı, çift anahtarlı bir sistemdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "Konuk hesaplarının (folio) ve harcama belgelerinin (adisyon) saklandığı bölüm veya dolaba ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Emanet Kasa (Safe Box)",
+          "rationale": "Emanet kasa, değerli eşyalar içindir, hesap belgeleri için değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Döviz Panosu",
+          "rationale": "Döviz panosu, günlük kurları gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "POS Makinesi",
+          "rationale": "POS makinesi bir ödeme terminalidir, belge saklama dolabı değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "PMS (Otel Yönetim Sistemi)",
+          "rationale": "PMS bu verileri dijital olarak saklar, ancak metin fiziksel bir 'bölüm/dolap'tan bahseder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Folio Havuzu (Pit / Rack)",
+          "rationale": "Metin, 'Folio Havuzu (Pit / Rack)' için 'Konuk hesaplarının (folio) ve harcama belgelerinin (adisyon) saklandığı bölüm/dolap' tanımını yapar.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "Check-in sırasında doldurulması kanuni bir zorunluluk olan ve konuk ile işletme arasında hukuki bir sözleşme niteliği taşıyan form hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafir Anket Formu (Guest Survey)",
+          "rationale": "Anket formu isteğe bağlıdır, memnuniyet ölçer, kanuni bir zorunluluk veya sözleşme değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "VIP Talimat Formu (VIP Courtesy Order)",
+          "rationale": "VIP formu, ikramları belirten iç bir formdur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklama Belgesi (Registration Form)",
+          "rationale": "Metin, 'Konaklama Belgesi' için 'doldurulması kanuni bir zorunluluktur' ve 'hukuki bir sözleşmedir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uyandırma Listesi (Wake-up Call Sheet)",
+          "rationale": "Uyandırma listesi, bir hizmet talebi kaydıdır, kanuni bir belge değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup Memorandumu",
+          "rationale": "Grup memorandumu, grup detaylarını içeren bilgilendirme formudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "Konaklama Belgesi (Registration Form) doldurulurken uyulması gereken kurallardan hangisi metinde *belirtilmemiştir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "En önemli noktalar ayrılış tarihi ve imzadır.",
+          "rationale": "Metin 'En Önemli Noktalar: Ayrılış tarihi ve imza' olarak bunu açıkça belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aynı odada kalan (aile dışı) her kişi için ayrı form doldurulur.",
+          "rationale": "Metin 'Detay: Aynı odada kalan (aile dışı) her kişi için ayrı form doldurulur' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile bile olsa, her oda için ayrı form doldurulur.",
+          "rationale": "Metin 'Detay: Aile bile olsa, her oda için ayrı form doldurulur' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Formun bir kopyası 24 saat içinde emniyete bildirilmelidir.",
+          "rationale": "Metinde formun emniyete bildirilmesi gerektiğinden bahsedilmemiştir, bu bir dış düzenlemedir ancak metinde yoktur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kanuni bir zorunluluktur.",
+          "rationale": "Metin, bu formun 'kanuni bir zorunluluk' olduğunu belirtir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "Misafire yapılacak ikramları (meyve sepeti, şarap vb.) belirten ve ilgili bölümlere (F&B, HK) dağıtılan form hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafir Anket Formu",
+          "rationale": "Anket formu misafirin görüşlerini toplar, ikram talimatı vermez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup Memorandumu",
+          "rationale": "Grup memorandumu, grup detaylarını (kişi sayısı, pansiyon durumu) bildirir, kişisel ikramları değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesaj Formu",
+          "rationale": "Mesaj formu, misafire bırakılan notlar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "VIP Talimat Formu (VIP Courtesy Order)",
+          "rationale": "Metin, 'VIP Talimat Formu'nu 'Misafire yapılacak ikramları (meyve sepeti, şarap vb.) belirtir' şeklinde tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bebek Bakıcısı İsteme Formu",
+          "rationale": "Bu form, bebek bakımı hizmeti talebi için kullanılır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "Otele gelecek grupla ilgili kişi sayısı, pansiyon durumu, tarih gibi bilgileri diğer bölümlere ileten formun adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "VIP Talimat Formu",
+          "rationale": "VIP formu, belirli misafirlere yapılacak ikramlarla ilgilidir, gruplarla değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklama Belgesi",
+          "rationale": "Konaklama belgesi, bireysel veya grup üyesi her konuğun yasal kaydıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fark Raporu (Discrepancy Report)",
+          "rationale": "Fark raporu, oda durumu uyuşmazlıklarını listeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup Memorandumu",
+          "rationale": "Metin, 'Grup Memorandumu'nu 'Otele gelecek grupla ilgili tüm bilgileri... diğer bölümlere ileten form' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ziyafet Emri (BEO)",
+          "rationale": "Ziyafet emri (BEO) ziyafet/toplantı detaylarını içerir, konaklama grubu detaylarını değil (Metin 5. Bölümde ayırıyor).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "Önbüro ile hangi departman arasındaki ilişki metinde 'En önemli ilişki' olarak tanımlanmıştır ve neden?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yiyecek & İçecek (F&B); çünkü pansiyon durumunu bildirir.",
+          "rationale": "Bu önemli bir ilişkidir ancak metin 'en önemli' olarak bunu belirtmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Muhasebe; çünkü günlük hasılat devredilir.",
+          "rationale": "Bu finansal bir zorunluluktur ancak 'en önemli' operasyonel ilişki değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat Hizmetleri (Housekeeping); çünkü ürün 'oda'dır, HK odayı üretir/temizler, Önbüro satar.",
+          "rationale": "Metin, Önbüro-HK ilişkisi için 'En önemli ilişkidir. Ürün \"oda\"dır. Kat Hizmetleri odayı üretir/temizler, Önbüro satar' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Teknik Servis; çünkü arızalı odalar (OOO) geliri etkiler.",
+          "rationale": "Bu ilişki gelir kaybını önlemek için kritiktir ancak 'en önemli' olarak tanımlanmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenlik; çünkü Önbüro otelin 'gözü' gibidir.",
+          "rationale": "Bu, özellikle güvenlik açısından önemli bir ilişkidir ancak metin 'en önemli ilişki' olarak HK'yı belirtir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "Kat Hizmetleri (HK) raporunda 'VC' simgesi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Vacant Dirty (Boş Kirli Oda)",
+          "rationale": "Bu 'VD' simgesidir, 'VC' değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vacant Clean (Boş Temiz Oda - Satışa Hazır)",
+          "rationale": "Metne göre 'VC: Vacant Clean (Boş Temiz Oda - Satışa Hazır)' anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Occupied (Bagajlı Dolu Oda)",
+          "rationale": "Bu 'OCC' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Checked Out (Çıkış Yapmış Oda)",
+          "rationale": "Bu 'C/O' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Okey (Bakım Yapılmış Dolu Oda)",
+          "rationale": "Bu 'O.K.' simgesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "Kat Hizmetleri (HK) raporunda 'OOO' simgesi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Out of Order (Arızalı Oda - Satılamaz)",
+          "rationale": "Metne göre 'OOO: Out of Order (Arızalı Oda - Satılamaz)' anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Out of Inventory (Kısa Süreli Arızalı)",
+          "rationale": "Bu 'OOI' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Occupied Without Luggage (Bagajsız Dolu Oda)",
+          "rationale": "Bu 'XWL' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Slept Out (Odada Bagaj Var, Kalan Olmamış)",
+          "rationale": "Bu 'S/O' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Occupied (Bagajlı Dolu Oda)",
+          "rationale": "Bu 'OCC' simgesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "Kat Hizmetleri (HK) raporunda 'C/O' simgesi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Vacant Dirty (Boş Kirli Oda)",
+          "rationale": "Bu 'VD' simgesidir. C/O odası da kirlidir ancak VD 'önceki günden boş' anlamına gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Checked Out (Çıkış Yapmış Oda - Bugün boşalmış, kirli)",
+          "rationale": "Metne göre 'C/O: Checked Out (Çıkış Yapmış Oda - Bugün boşalmış, kirli)' anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vacant Clean (Boş Temiz Oda)",
+          "rationale": "Bu 'VC' simgesidir. C/O odası temizlenmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Out of Order (Arızalı Oda)",
+          "rationale": "Bu 'OOO' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Connection (Bağlantılı) Oda",
+          "rationale": "Bu bir oda tipidir, HK durum simgesi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "Kat Hizmetleri (HK) raporunda 'S/O' simgesi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Slept Out (Odada Bagaj Var, Kalan Olmamış)",
+          "rationale": "Metne göre 'S/O: Slept Out (Odada Bagaj Var, Kalan Olmamış - Misafir dışarıda kalmış)' anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Out of Order (Arızalı Oda)",
+          "rationale": "Bu 'OOO' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Occupied Without Luggage (Bagajsız Dolu Oda)",
+          "rationale": "Bu 'XWL' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Checked Out (Çıkış Yapmış Oda)",
+          "rationale": "Bu 'C/O' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Studio Oda",
+          "rationale": "Bu bir oda tipidir, HK durum simgesi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "Kat Hizmetleri (HK) raporunda 'XWL' simgesi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Extra Wheel Luggage (Ekstra Bavul Var)",
+          "rationale": "Bu uydurma bir tanımdır, 'XWL'nin anlamı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Slept Out (Odada Bagaj Var, Kalan Olmamış)",
+          "rationale": "Bu 'S/O' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Out of Order (Arızalı Oda)",
+          "rationale": "Bu 'OOO' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Checked Out (Çıkış Yapmış Oda)",
+          "rationale": "Bu 'C/O' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Occupied Without Luggage (Bagajsız Dolu Oda - Şüpheli durum)",
+          "rationale": "Metne göre 'XWL: Occupied Without Luggage (Bagajsız Dolu Oda - Şüpheli durum, ödeme yapmadan kaçabilir)' anlamına gelir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "Kat Şefinin fiziksel oda sayım raporu ile Önbüronun sistemindeki (PMS) oda durumları karşılaştırıldığında ortaya çıkan uyuşmazlıkların yazıldığı rapor hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Housekeeping Raporu",
+          "rationale": "Housekeeping raporu, uyuşmazlığın tespitinde kullanılan iki rapordan biridir, uyuşmazlıkların listelendiği rapor değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Günlük Kasa İcmal Formu",
+          "rationale": "Bu form, muhasebeye devredilen günlük hasılatı gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tamir Emri Formu",
+          "rationale": "Bu form, teknik servise bildirilen arızaları listeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fark Raporu (Discrepancy Report)",
+          "rationale": "Metin, 'Uyuşmazlıklar... bu rapora yazılır ve düzeltilir' diyerek 'Fark Raporu'nu tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Grup Memorandumu",
+          "rationale": "Bu form, gruplarla ilgili bilgileri içerir, oda durumu uyuşmazlıklarını değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "Önbüronun Yiyecek & İçecek (F&B) bölümüne gelecek dönem doluluk tahminlerini gönderdiği rapora ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ziyafet Emri (BEO)",
+          "rationale": "Ziyafet emri, spesifik bir toplantı veya ziyafetin detaylarını içerir, genel doluluk tahmini değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tur Memorandumu",
+          "rationale": "Tur memorandumu, mevcut grupların yemek detayları için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Forecast (Tahmin Raporu)",
+          "rationale": "Metin, 'Forecast (Tahmin Raporu): Önbüro, F&B'ye gelecek dönem doluluk tahminlerini gönderir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lunch Box (Yiyecek Paketi) Formu",
+          "rationale": "Bu form, pansiyonlu olup yemek saatini kaçıracak misafirler için özel bir talimattır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fark Raporu (Discrepancy Report)",
+          "rationale": "Fark raporu, oda durumu uyuşmazlıklarıyla ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "Pansiyonlu olup yemek saatini kaçıracak (örn. erken ayrılan) misafirler için mutfağa gönderilen talimat formu hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ziyafet Emri (BEO)",
+          "rationale": "Bu, ziyafetler ve büyük toplantılar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tur Memorandumu",
+          "rationale": "Bu, grup yemekleri içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "VIP Talimat Formu",
+          "rationale": "Bu, odaya gönderilecek ikramlar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Forecast (Tahmin Raporu)",
+          "rationale": "Bu, gelecekteki doluluk tahminleri içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lunch Box (Yiyecek Paketi) Formu",
+          "rationale": "Metin, 'Lunch Box... pansiyonlu olup yemek saatini kaçıracak misafirler için... talimat formudur' der.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "Ön Kasa'da toplanan günlük hasılat (gelir), hangi form ile Muhasebeye (Ana Kasa) devredilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Günlük Kasa İcmal Formu",
+          "rationale": "Metin, 'Günlük Kasa İcmal Formu' ile hasılatın Muhasebeye devredildiğini belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Folio Havuzu",
+          "rationale": "Folio havuzu, hesap belgelerinin saklandığı yerdir, bir devir formu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklama Belgesi",
+          "rationale": "Bu, konuğun yasal kayıt formudur, hasılatla ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fark Raporu",
+          "rationale": "Bu, oda durumu uyuşmazlıkları içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satış Raporu",
+          "rationale": "Metinde 'Satış Raporu'ndan değil, 'Günlük Kasa İcmal Formu'ndan bahsedilmektedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "Misafir veya HK tarafından bildirilen arızaların (ampul, musluk) Önbüro tarafından Teknik Servis'e bildirilmesi için kullanılan form hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Talep Fişi",
+          "rationale": "Talep fişi, Satın Alma'dan malzeme istemek için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tamir Emri Formu",
+          "rationale": "Metin, arızaların '\"Tamir Emri Formu\" ile Teknik Servis'e bildirilir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fark Raporu",
+          "rationale": "Fark raporu, oda durumu uyuşmazlıkları içindir, arıza bildirimi değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Housekeeping Raporu",
+          "rationale": "Housekeeping raporu arızayı tespit edebilir, ancak Teknik Servis'e gönderilen resmi form bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "VIP Talimat Formu",
+          "rationale": "Bu form ikramlar içindir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "Hesabını ödemeden otelden ayrılmaya çalışan konuklar için kullanılan 'Skipper' terimi, Önbüro tarafından hangi departmana bildirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Muhasebe",
+          "rationale": "Muhasebeye daha sonra alacak takibi için bildirilir, ancak anlık müdahale için değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat Hizmetleri",
+          "rationale": "Kat Hizmetleri'nin bu durumla bir ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenlik",
+          "rationale": "Metin, 'hesabını ödemeden ayrılmaya çalışanlar (Skipper)... Güvenliğe bildirilir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "İnsan Kaynakları",
+          "rationale": "İnsan Kaynakları personel işleriyle ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satış & Pazarlama",
+          "rationale": "Satış & Pazarlama'nın bu durumla bir ilgisi yoktur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "Önbüronun ihtiyacı olan formlar, kırtasiye gibi malzemeler hangi departmandan ve hangi belge kullanılarak istenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Muhasebe'den, Günlük Kasa İcmal Formu ile",
+          "rationale": "Bu form, hasılat devri içindir, malzeme isteme değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknik Servis'ten, Tamir Emri Formu ile",
+          "rationale": "Bu form, arıza bildirimi içindir, malzeme isteme değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satın Alma'dan, Talep Fişi ile",
+          "rationale": "Metin, 'malzemeler (formlar, kırtasiye vb.) \"Talep Fişi\" doldurularak Satın Alma'dan istenir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kat Hizmetleri'nden, Housekeeping Raporu ile",
+          "rationale": "Bu rapor, oda durumları içindir, malzeme isteme değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsan Kaynakları'ndan, Puantaj Cetveli ile",
+          "rationale": "Puantaj, çalışma saatlerini gösterir (Metinde geçmese de); İK malzeme sağlamaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "Tek kişilik (Bir tane tek kişilik yatak) olan oda tipi aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Double Room",
+          "rationale": "Double room, bir tane çift kişilik yatak içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Twin Bed",
+          "rationale": "Twin bed, iki tane tek kişilik yatak içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Single Room",
+          "rationale": "Metin, 'Single Room: Tek kişilik oda (Bir tane tek kişilik yatak)' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Triple Room",
+          "rationale": "Triple room, üç kişilik odadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Studio Oda",
+          "rationale": "Studio oda, yatağa dönüşebilen kanepe içerir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "İki kişilik olup, 'İki tane tek kişilik yatak' içeren oda tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Double Room",
+          "rationale": "Double room, 'Bir tane çift kişilik yatak' içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Single Room",
+          "rationale": "Single room, 'Bir tane tek kişilik yatak' içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Twin Bed",
+          "rationale": "Metin, 'Twin Bed: İki kişilik oda (İki tane tek kişilik yatak)' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Triple Room",
+          "rationale": "Triple room, üç kişilik yataktan oluşur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Quadrouple Room",
+          "rationale": "Quadrouple room, dört kişilik yataktan oluşur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "Bir salon ve bir veya daha fazla yatak odasından oluşan lüks oda tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Junior Suite",
+          "rationale": "Junior suite, normal suit odadan daha küçük alana sahiptir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Suit Oda",
+          "rationale": "Metin, 'Suit Oda: Bir salon + bir veya daha fazla yatak odasından oluşur. Lükstür' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Family Suite",
+          "rationale": "Family suite, ebeveyn ve çocuk odası bölümlerinden oluşur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Studio Oda",
+          "rationale": "Studio oda, yatağa dönüşebilen kanepe bulunan tek bir alandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Connection Oda",
+          "rationale": "Connection oda, iki oda arasında ara geçiş kapısı olan standart odalardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "İçinde yatağa dönüştürülebilen kanepe (sofa bed) bulunan oda tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Presidental Suite (Kral Dairesi)",
+          "rationale": "Bu en lüks oda tipidir, kanepe (sofa bed) ile tanımlanmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Twin Bed",
+          "rationale": "Bu, iki tek kişilik yataklı odadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Studio Oda",
+          "rationale": "Metin, 'Studio Oda: İçinde yatağa dönüştürülebilen kanepe (sofa bed) bulunan oda' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Junior Suite",
+          "rationale": "Junior suite, küçük bir suit odadır, sofa bed içermek zorunda değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adjoining Oda",
+          "rationale": "Bu, yandaki odayla ara kapısı olmayan, yan yana odalardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "İki (veya daha fazla) oda arasında 'ara geçiş kapısı' bulunan odalara ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Adjoining (Yan Yana) Odalar",
+          "rationale": "Adjoining odalar, 'ara kapısı bulunmayan' yan yana odalardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Family Suite",
+          "rationale": "Family suite, ebeveyn ve çocuk odası bölümlerinden oluşur, ara kapı zorunluluğu yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Connection (Bağlantılı) Odalar",
+          "rationale": "Metin, 'Connection (Bağlantılı) Odalar: İki... oda arasında ara geçiş kapısı bulunan odalardır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Studio Oda",
+          "rationale": "Studio oda, tek bir alandır, başka bir odaya kapısı yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Suit Oda",
+          "rationale": "Suit oda, bir salon ve yatak odasından oluşur, iki ayrı odanın birleşimi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "question": "Yan yana olan ancak 'ara kapısı bulunmayan' odalara ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Connection (Bağlantılı) Odalar",
+          "rationale": "Connection odalarda 'ara geçiş kapısı' bulunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adjoining (Yan Yana) Odalar",
+          "rationale": "Metin, 'Adjoining (Yan Yana) Odalar: Yan yana olan ancak ara kapısı bulunmayan odalardır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Twin Bed",
+          "rationale": "Bu, odanın içindeki yatak tipini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Family Suite",
+          "rationale": "Bu, odanın planını belirtir, ara kapı durumunu değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Handicap Oda",
+          "rationale": "Bu, engelli misafirler için özel dizayn edilmiş odadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "question": "Sadece 'Oda + Kahvaltı' hizmetini kapsayan, diğer tüm yiyecek ve içeceklerin ücretli olduğu pansiyon tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "RO (Room Only)",
+          "rationale": "RO, 'Sadece oda konaklaması'dır, kahvaltı içermez.",
+          "isCorrect": false
+        },
+        {
+          "text": "HB (Half Board)",
+          "rationale": "HB, kahvaltıya ek olarak akşam (veya öğle) yemeğini de kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "FB (Full Board)",
+          "rationale": "FB, 3 öğün yemeği de kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "BB (Bed & Breakfast)",
+          "rationale": "Metin, 'BB (Bed & Breakfast): Oda + Kahvaltı' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "AI (All Inclusive)",
+          "rationale": "AI, kahvaltıdan çok daha fazlasını (tüm öğünler, içecekler) kapsar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "question": "Oda + Kahvaltı + Akşam Yemeği (bazen öğle yemeği) içeren pansiyon tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "BB (Bed & Breakfast)",
+          "rationale": "BB, sadece kahvaltı içerir, akşam yemeği içermez.",
+          "isCorrect": false
+        },
+        {
+          "text": "FB (Full Board)",
+          "rationale": "FB, kahvaltı ve akşam yemeğine ek olarak öğle yemeğini de içerir (toplam 3 öğün).",
+          "isCorrect": false
+        },
+        {
+          "text": "HB (Half Board - Yarım Pansiyon)",
+          "rationale": "Metin, 'HB (Half Board - Yarım Pansiyon): Oda + Kahvaltı + Akşam Yemeği' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "AI (All Inclusive)",
+          "rationale": "AI, 3 öğün yemek, ara öğünler ve içecekleri kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "RO (Room Only)",
+          "rationale": "RO, hiçbir öğün içermez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "question": "Oda + Kahvaltı + Öğle Yemeği + Akşam Yemeği (3 öğün yemek) içeren ve içeceklerin genelde ücretli olduğu pansiyon tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "HB (Half Board)",
+          "rationale": "HB, sadece 2 öğün yemek içerir (kahvaltı + 1 öğün).",
+          "isCorrect": false
+        },
+        {
+          "text": "AI (All Inclusive)",
+          "rationale": "AI, 3 öğün yemek içerir ancak içecekler (yerli) ücretsizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "UAI (Ultra All Inclusive)",
+          "rationale": "UAI, 3 öğün yemek içerir ancak içecekler (ithal dahil) ücretsizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "FB (Full Board - Tam Pansiyon)",
+          "rationale": "Metin, 'FB (Full Board - Tam Pansiyon): Oda + Kahvaltı + Öğle Yemeği + Akşam Yemeği. (3 öğün yemek). İçecekler genelde ücretlidir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "BB (Bed & Breakfast)",
+          "rationale": "BB, sadece 1 öğün (kahvaltı) içerir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "question": "3 öğün yemek, ara öğünler ve 'yerli' alkollü/alkolsüz içecekleri kapsayan pansiyon tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "FB (Full Board)",
+          "rationale": "FB, içecekleri kapsamaz, genellikle ücretlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "HB (Half Board)",
+          "rationale": "HB, 2 öğün yemek içerir ve içecekleri kapsamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "UAI (Ultra All Inclusive)",
+          "rationale": "UAI, yerli içeceklere ek olarak 'ithal' içecekleri de kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "AI (All Inclusive - Her Şey Dahil)",
+          "rationale": "Metin, 'AI (All Inclusive - Her Şey Dahil): 3 öğün yemek + ara öğünler + yerli alkollü ve alkolsüz içecekleri kapsar' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "BB (Bed & Breakfast)",
+          "rationale": "BB, sadece kahvaltı içerir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "question": "Her Şey Dahil (AI) konseptine ek olarak 'ithal' alkollü içecekleri de kapsayan pansiyon tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "AI (All Inclusive)",
+          "rationale": "AI, genellikle sadece 'yerli' içecekleri kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "FB (Full Board)",
+          "rationale": "FB, içecekleri (hem yerli hem ithal) genellikle kapsamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "UAI (Ultra All Inclusive)",
+          "rationale": "Metin, 'UAI (Ultra All Inclusive): Her Şey Dahil konseptine ek olarak ithal... içecekleri de kapsar' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Presidental Suite",
+          "rationale": "Bu bir oda tipidir, pansiyon tipi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "HB (Half Board)",
+          "rationale": "HB, içecekleri kapsamaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "question": "Personel sağlığı ve hijyeni konusunda, turizm sektörünün 'emek-yoğun' bir sektör olmasının önemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personel maliyetlerinin yüksek olması.",
+          "rationale": "Emek-yoğun olması maliyetleri etkiler ancak hijyenle ilgili metindeki vurgu bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üretim ve tüketimin aynı anda olması ve konuk-personel etkileşiminin yoğun olması.",
+          "rationale": "Metin, 'Turizm \"emek-yoğun\" bir sektördür, üretim ve tüketim aynı anda olur. Konuk-personel etkileşimi yoğundur' diyerek önemi açıklar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Personelin uzun saatler ayakta çalışması.",
+          "rationale": "Bu, emek-yoğun olmanın bir sonucudur ancak hijyenin önemini açıklayan ana neden değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin sık sık hastalanması.",
+          "rationale": "Bu bir riskdir, ancak hijyenin önemli olmasının nedenidir, sektörün tanımı değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otomasyonun mümkün olmaması.",
+          "rationale": "Emek-yoğun olması otomasyonun zorluğunu gösterir ancak hijyenin önemini doğrudan açıklamaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "question": "Personel hijyeni ile ilgili metinde belirtilen 'Kritik Kural' aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bayanların uzun saçlarını toplaması.",
+          "rationale": "Bu bir kuraldır ancak metinde 'Kritik Kural' olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek topuklu ayakkabı giyilmemesi.",
+          "rationale": "Bu, ayak sağlığı için bir tavsiyedir, kritik kural değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Erkek personelin bıyık ve sakal bırakmaması, her gün tıraş olması.",
+          "rationale": "Metin, 'Kritik Kural: Erkek personelin... bıyık ve sakal bırakmamaları... gerekir' diyerek bunu vurgular.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yazın teri emen pamuklu, kışın yünlü kumaş seçimi.",
+          "rationale": "Bu, üniforma kumaşıyla ilgili bir tavsiyedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tırnakların kısa olması ve bayanların açık renk oje kullanması.",
+          "rationale": "Bu, el temizliği ile ilgili bir kuraldır ancak 'Kritik Kural' olarak belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "question": "Personel davranış kuralları (Hal ve Hareket) ile ilgili aşağıdakilerden hangisi *yanlıştır*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bankoya veya desk'e yaslanarak durulmamalı, yüz daima konuklara dönük olmalı.",
+          "rationale": "Bu, metinde belirtilen doğru bir davranış kuralıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuklara 'Hayır' veya 'Yok' gibi net cevaplar verilmeli.",
+          "rationale": "Metin, tam tersini söyleyerek '\"Hayır\" veya \"Yok\" gibi net cevaplar yerine' olumlu ve çözüm odaklı konuşulmasını belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Konuk karşısında sigara içilmemeli, sakız çiğnenmemelidir.",
+          "rationale": "Bu, metinde belirtilen doğru bir davranış kuralıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Görev yeri asla boş bırakılmamalıdır.",
+          "rationale": "Bu, metinde belirtilen doğru bir davranış kuralıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuklara mümkünse isimleriyle hitap edilmelidir.",
+          "rationale": "Bu, metinde belirtilen doğru bir davranış kuralıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "question": "Lüks otellerde, özel odalarda kalan misafirlerin en ilginç isteklerini bile yerine getiren, 24 saat kişiye özel hizmet veren görevli kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bellboy",
+          "rationale": "Bellboy bagaj taşır ve odayı tanıtır, bu düzeyde özel hizmet vermez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Concierge (Danışma)",
+          "rationale": "Concierge bilet bulma, restoran rezervasyonu gibi işler yapar ancak 24 saat kişiye özel uşaklık hizmeti vermez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önbüro Müdürü",
+          "rationale": "Önbüro müdürü bölümü yönetir, kişisel hizmet vermez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Butler (Kişiye Özel Uşak)",
+          "rationale": "Metin, 'Butler'ı '...en ilginç isteklerini bile yerine getiren, 24 saat kişiye özel hizmet veren görevli' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Resepsiyon Şefi",
+          "rationale": "Resepsiyon şefi desk'i yönetir, kişisel hizmet vermez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "question": "Metne göre, bir Butler'ın sahip olması gereken 'En Önemli Yetkinlik' nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İyi seviyede İngilizce (min. 500 kelime) bilmek.",
+          "rationale": "Bu gerekli bir özelliktir ancak 'En Önemli Yetkinlik' olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sırdaş ve ağzı sıkı olmak.",
+          "rationale": "Bu çok önemli bir özelliktir ancak metin 'En Önemli Yetkinlik' olarak başka bir şeyi vurgular.",
+          "isCorrect": false
+        },
+        {
+          "text": "Proaktif, yaratıcı, sezgileri güçlü ve önceden davranan olmak.",
+          "rationale": "Metin, 'En Önemli Yetkinlik: Proaktif, yaratıcı, sezgileri güçlü ve önceden davranan olmak' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Modayı, vizyondaki filmleri ve güncel kitapları (TREND'leri) takip etmek.",
+          "rationale": "Bu, sahip olunması gereken bir özelliktir ancak 'En Önemli Yetkinlik' değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Valiz toplama, ütüleme ve ayakkabı temizliği yapabilmek.",
+          "rationale": "Bunlar Butler'ın görevleridir, en önemli yetkinliği değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "question": "Butler hizmetiyle ilgili verilen Turgut Özal vaka örneğinde, Butler'ın 'proaktif' (önceden davranan) eylemi ne olmuştur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Cumhurbaşkanı gelmeden odaya meyve sepeti göndermek.",
+          "rationale": "Bu standart bir VIP ikramıdır, proaktif bir eylem örneği olarak verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cumhurbaşkanının sevdiği puroyu hazırlamak.",
+          "rationale": "Bu bir Butler görevidir ancak vaka örneğinde anlatılan bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cumhurbaşkanının geç kalacağı düşünülerek, izlemek isteyeceği ana haber bültenini VHS kasete kaydetmek.",
+          "rationale": "Metin, bu durumu 'proaktif' eyleme örnek olarak açıkça anlatır ('...düşünülerek...kaydedilmesi').",
+          "isCorrect": true
+        },
+        {
+          "text": "Cumhurbaşkanı için en gözde restoranda yer ayırtmak.",
+          "rationale": "Bu bir Butler görevidir ancak vaka örneğinde anlatılan bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cumhurbaşkanının ayakkabılarını temizlemek.",
+          "rationale": "Bu bir Butler görevidir ancak vaka örneğinde anlatılan bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "question": "Bellboy'un 'Bavul Odası Sorumluluğu' ile ilgili metinde belirtilen 'Sık Hata' nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafirin bavulunu taşırken düşürüp kırmak.",
+          "rationale": "Bu bir hata olabilir ancak metinde 'Sık Hata' olarak vurgulanan bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sabah çıkış (C/O) yapan misafirin bavulunu, o odaya yeni giriş (Check-in) yapan misafirin bavuluyla karıştırmak.",
+          "rationale": "Metin, 'Sık Hata'yı '...sabah çıkış yapan (C/O) misafirin... bavulunu, o odaya yeni gelen (Check-in) misafirin... bavuluyla karıştırmak' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bavul odasına alınan eşyalar için Emanet Fişi vermeyi unutmak.",
+          "rationale": "Bu bir hatadır, ancak 'Sık Hata' olarak belirtilen karıştırma sorunudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir istemediği halde bavulunu taşımak için ısrar etmek.",
+          "rationale": "Metin 'ısrar edilmemeli' der, ancak bu 'Sık Hata' olarak tanımlanmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bavul odasının anahtarını kaybetmek.",
+          "rationale": "Bu ciddi bir hatadır ancak metinde 'Sık Hata' olarak belirtilen bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "question": "Bellboy'un bavul odasındaki karıştırma hatasını önlemek için metinde önerilen 'Çözüm' nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bavul odasını her zaman kilitli tutmak.",
+          "rationale": "Bu bir güvenlik önlemidir ancak karıştırmayı önleyen çözüm olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bavulların üzerine renkli etiketler yapıştırmak.",
+          "rationale": "Bu bir yöntem olabilir ancak metinde önerilen çözüm bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emanet Fişi üzerine sadece oda numarası değil, mutlaka misafirin ismini de yazmak.",
+          "rationale": "Metin, 'Çözüm: Emanet Fişi üzerine... mutlaka misafirin ismi de yazılmalıdır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bavulları odaya değil, doğrudan misafirin kendisine teslim etmek.",
+          "rationale": "Metin, emanet fişi üzerine isim yazılmasını çözüm olarak sunar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her bavulun fotoğrafını çekmek.",
+          "rationale": "Bu modern bir yöntem olabilir ancak metinde önerilen çözüm bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "question": "Check-in prosedürlerindeki 'Güvenlik Kuralı' olarak belirtilen uygulama nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafirin kimlik bilgilerini almak (Kanuni zorunluluk).",
+          "rationale": "Bu bir kanuni zorunluluktur, ancak metinde 'Güvenlik Kuralı' olarak belirtilen farklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ödeme şeklini sormak ve ön ödeme almak.",
+          "rationale": "Bu bir ödeme prosedürüdür, güvenlik kuralı değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda numarasını misafire (başkaları duymasın diye) söylemeyip, anahtar kartın üzerinden göstermek.",
+          "rationale": "Metin, 'Güvenlik Kuralı: Oda numarasını misafire söylemeyin... anahtar kartın üzerinden gösterin' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafirin ismini en az bir kez kullanmak.",
+          "rationale": "Bu bir nezaket ve iletişim kuralıdır, güvenlik kuralı değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklama Belgesini (Registration Card) misafir gelmeden hazırlamak.",
+          "rationale": "Bu, işlemi hızlandırmak için bir yöntemdir, güvenlik kuralı değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "question": "Misafirin oda standardının ücretsiz olarak artırılması işlemine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Upgrade (Oda Yükseltme)",
+          "rationale": "Metin, 'Upgrade (Oda Yükseltme): Misafirin oda standardının ücretsiz olarak artırılmasıdır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Up-selling",
+          "rationale": "Up-selling, daha pahalı bir odayı misafire ücreti karşılığında satmaya çalışmaktır (Metin Bölüm 3'te bahseder).",
+          "isCorrect": false
+        },
+        {
+          "text": "Extention (Uzatma)",
+          "rationale": "Extention, konaklama süresinin uzatılmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oversold",
+          "rationale": "Oversold, otelin kapasitesinden fazla oda satması durumudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Check-in",
+          "rationale": "Check-in, otele giriş kayıt işlemidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "question": "Aşağıdakilerden hangisi otelin 'Upgrade (Oda Yükseltme)' yapması için 'geçerli nedenlerden' biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafirin istediği oda tipinde yer kalmamıştır (Oversold durumu).",
+          "rationale": "Metin, bunu 'Oda Yoksa' başlığı altında geçerli bir neden olarak listeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir sürekli o otelde kalıyordur (Sadakat).",
+          "rationale": "Metin, bunu 'Sadakat' başlığı altında geçerli bir neden olarak listeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirin balayı veya evlilik yıldönümü vardır (Özel Gün).",
+          "rationale": "Metin, bunu 'Özel Gün' başlığı altında geçerli bir neden olarak listeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir odayı beğenmeyip klimadan veya gürültüden şikayet etmiştir.",
+          "rationale": "Metin, bunu misafirlerin upgrade almak için kullandığı 'taktiklerden' biri olarak listeler, otelin proaktif bir nedeni olarak değil.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafir özel bir kişidir (VIP).",
+          "rationale": "Metin, bunu 'VIP' başlığı altında geçerli bir neden olarak listeler.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "question": "Aşağıdakilerden hangisi misafirlerin 'Upgrade (Oda Yükseltme)' almak için kullandığı 'taktiklerden' biri olarak metinde *belirtilmemiştir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nazikçe istemek.",
+          "rationale": "Bu, metinde 'Misafirlerin Upgrade Alma Taktikleri' altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otele mümkün olduğunca geç giriş yapmak.",
+          "rationale": "Bu, metinde '...geç giriş yapmak (standart odaların dolmuş olma umuduyla)' şeklinde listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Başka otele giderim' diye tehdit etmek.",
+          "rationale": "Bu, metinde '...tehdit etmek' şeklinde listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Girişte resepsiyon görevlisine bahşiş vermek.",
+          "rationale": "Bu, metinde '...bahşiş vermek' şeklinde listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otelin sadakat programına üye olduğunu belirtmek.",
+          "rationale": "Sadakat, otelin upgrade yapma nedenidir (Geçerli Nedenler), misafirin kullandığı bir 'taktik' olarak listelenmemiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "question": "Önbüronun, otelin 'bilgi merkezi' olarak tanımlanmasının nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tüm paranın burada toplanması.",
+          "rationale": "Para ön kasada toplanır ancak 'bilgi merkezi' olmasının nedeni bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm departman müdürlerinin burada oturması.",
+          "rationale": "Müdürler burada oturmaz, önbüro müdürü dışındaki müdürlerin kendi ofisleri vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilgiyi toplaması ve ilgili departmanlara dağıtması.",
+          "rationale": "Metin, Önbüroyu 'Otelin \"bilgi merkezi\"dir. Bilgiyi toplar ve ilgili departmanlara dağıtır' şeklinde tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otel hakkındaki tüm şikayetlerin burada yapılması.",
+          "rationale": "Şikayetler buraya gelir ancak 'bilgi merkezi' tanımı sadece şikayetleri değil, tüm bilgi akışını kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konukların sadece bu bölümü görmesi.",
+          "rationale": "Konuklar restoran, havuz gibi diğer bölümleri de görür; bu tanımın nedeni değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "question": "Resepsiyon Şefi'nin (Reception Chief) görevleri arasında aşağıdakilerden hangisi *bulunmaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Deskteki iş akışını yönetmek, raporları onaylamak.",
+          "rationale": "Metin, Resepsiyon Şefi'nin 'Deskteki iş akışını yönetir, raporları onaylar' görevini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "VIP'leri karşılamak, grupların giriş/çıkışlarını bizzat yönetmek.",
+          "rationale": "Metin, Resepsiyon Şefi'nin 'VİP'leri karşılar, grupların giriş/çıkışlarını bizzat yönetir' görevini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gelmeyen rezervasyon (No-Show) ve iptalleri izlemek.",
+          "rationale": "Metin, Resepsiyon Şefi'nin 'No-Show ve iptalleri izler' görevini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Telefonları bağlamak, ücretlendirme yapmak ve uyandırmaları yapmak.",
+          "rationale": "Bu görevler, Resepsiyon Şefi'nin değil, 'Santral Görevlisi'nin (Switchboard Operator) görevleridir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafir Geçmiş Kartlarının (History Card) doldurulmasını sağlamak.",
+          "rationale": "Metin, Resepsiyon Şefi'nin 'Misafir Geçmiş Kartlarının doldurulmasını sağlar' görevini belirtir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "question": "Resepsiyon Görevlisi'nin (Reception Clerk) oteldeki diğer birimlerin (restoran vb.) satışını yapmaya çalışmasına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Up-selling",
+          "rationale": "Metin, Resepsiyon Görevlisi'nin görevleri arasında 'Oteldeki diğer birimlerin (restoran vb.) satışını yapmaya çalışır (Up-selling)' ifadesini kullanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Upgrade",
+          "rationale": "Upgrade, ücretsiz oda yükseltmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Check-out",
+          "rationale": "Check-out, otelden çıkış işlemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Concierge Hizmeti",
+          "rationale": "Bu, danışma hizmetidir, satış yapma eylemi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Forecast",
+          "rationale": "Forecast, doluluk tahmin raporudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "question": "Üniformalı personelin (bellboy, doorman) şefine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Önbüro Müdürü",
+          "rationale": "Önbüro müdürü, tüm önbüro departmanının (şefler dahil) yöneticisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyon Şefi",
+          "rationale": "Resepsiyon şefi, resepsiyon desk'inin şefidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Danışma Şefi (Bell Captain / Concierge Chief)",
+          "rationale": "Metin, 'Danışma Şefi (Bell Captain / Concierge Chief)' için 'Üniformalı personelin (bellboy, doorman) şefidir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Butler",
+          "rationale": "Butler, kişiye özel uşak hizmeti verir, personel şefi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapı Görevlisi (Doorman)",
+          "rationale": "Doorman, üniformalı bir personeldir, şefleri değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "question": "Giriş kapısında duran, konuğu karşılayan, taksi çağıran ve istenmeyen kişileri engelleyen personel kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bellboy",
+          "rationale": "Bellboy, konuğa odaya kadar eşlik eder ve bagajı taşır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapı Görevlisi (Doorman)",
+          "rationale": "Metin, 'Kapı Görevlisi (Doorman)' için 'Giriş kapısında durur, konuğu karşılar, taksi çağırır, istenmeyen kişileri engeller' tanımını yapar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Asansör Görevlisi (Lift Boy)",
+          "rationale": "Asansör görevlisi asansörü idare eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Danışma Şefi (Bell Captain)",
+          "rationale": "Bell Captain, bu personelin şefidir, kapıda durmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenlik Görevlisi",
+          "rationale": "Metin, bu görevi üniformalı hizmetler altındaki 'Doorman'e vermiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "question": "Asansörü idare eden ve şüpheli şahısların katlara çıkmasını önleyen personel kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bellboy",
+          "rationale": "Bellboy, konuğa odaya kadar eşlik eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapı Görevlisi (Doorman)",
+          "rationale": "Doorman, dış kapıda durur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenlik Görevlisi",
+          "rationale": "Güvenlik görevlisi genel güvenliği sağlar, ancak metin bu spesifik görevi başkasına vermiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Asansör Görevlisi (Lift Boy)",
+          "rationale": "Metin, 'Asansör Görevlisi (Lift Boy)' için 'Asansörü idare eder, şüpheli şahısların katlara çıkmasını önler' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Resepsiyon Görevlisi",
+          "rationale": "Resepsiyon görevlisi desk'te durur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "question": "Kredi kartı ile ödeme alan ve bankadan provizyon (onay) alan donanım hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "PMS (Otel Yönetim Sistemi)",
+          "rationale": "PMS bir yazılımdır, provizyonu alan fiziksel donanım değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "POS Makinesi (Provision Machine)",
+          "rationale": "Metin, 'POS Makinesi' için 'Kredi kartı ile ödeme alır, bankadan provizyon (onay) alır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Folio Havuzu (Pit / Rack)",
+          "rationale": "Folio havuzu, hesap belgelerinin saklandığı dolaptır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anahtar Kartı Makinesi",
+          "rationale": "Bu makine, oda anahtar kartlarını kodlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ön Kasa (Cashier)",
+          "rationale": "Ön Kasa bir bölümdür, POS makinesi ise bu bölümde kullanılan bir donanımdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "question": "Genellikle ön büro arkasında bulunan, çift anahtarlı (biri misafirde, biri görevlide) sisteme ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Anahtar Kartı Makinesi",
+          "rationale": "Bu, kart kodlayan bir makinedir, kasa değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Folio Havuzu",
+          "rationale": "Bu, hesap belgelerinin saklandığı yerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Döviz Panosu",
+          "rationale": "Bu, kurları gösteren bir panodur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emanet Kasa (Safe Box)",
+          "rationale": "Metin, 'Emanet Kasa (Safe Box)' için 'Genellikle ön büro arkasında, çift anahtarlı... sistemdir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "POS Makinesi",
+          "rationale": "Bu, kredi kartı ödeme makinesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "question": "Odalarda bulunan ve doldurulan formların kapalı olarak Genel Müdüre iletildiği form hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konaklama Belgesi",
+          "rationale": "Bu form check-in sırasında doldurulur ve önbüroda kalır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir Anket Formu (Guest Survey)",
+          "rationale": "Metin, 'Misafir Anket Formu' için 'Odalarda bulunur, doldurulan formlar kapalı olarak Genel Müdüre iletilir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "VIP Talimat Formu",
+          "rationale": "Bu bir iç talimat formudur, misafire verilmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesaj Formu",
+          "rationale": "Bu, misafire gelen mesajlar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bebek Bakıcısı İsteme Formu",
+          "rationale": "Bu, bir hizmet talebi formudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "question": "Genellikle 15 dakikalık dilimlere ayrılmış olan ve Santral veya Resepsiyon tarafından tutulan liste hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Uyandırma Listesi (Wake-up Call Sheet)",
+          "rationale": "Metin, 'Uyandırma Listesi' için 'Genellikle 15 dakikalık dilimlere ayrılmıştır. Santral veya resepsiyon tutar' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Grup Memorandumu",
+          "rationale": "Bu, grup bilgileri formudur, zaman dilimlerine ayrılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklama Belgesi",
+          "rationale": "Bu, yasal kayıt formudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Housekeeping Raporu",
+          "rationale": "Bu, oda durumlarını gösteren rapordur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel Çalışma Çizelgesi",
+          "rationale": "Bu, personelin vardiya saatlerini gösterir (Metinde bu isimle geçmez).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "question": "Önbüro-Kat Hizmetleri ilişkisinde, 'Rahatsız Etmeyin' kartının İngilizce kısaltması nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "OK",
+          "rationale": "OK, 'Bakım Yapılmış Dolu Oda' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "OOO",
+          "rationale": "OOO, 'Out of Order' (Arızalı Oda) demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "DND (Don't Disturb)",
+          "rationale": "Metin, '\"Rahatsız Etmeyin\" (DND - Don't Disturb) kartı varsa girilmez' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "C/O",
+          "rationale": "C/O, 'Checked Out' (Çıkış Yapmış) demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "VIP",
+          "rationale": "VIP, 'Very Important Person' (Çok Önemli Kişi) demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "question": "Kat Hizmetleri (HK) raporunda 'VD' simgesi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Vacant Dirty (Boş Kirli Oda - Önceki günden boş, temizlenmemiş)",
+          "rationale": "Metne göre 'VD: Vacant Dirty (Boş Kirli Oda - Önceki günden boş, temizlenmemiş)' anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vacant Clean (Boş Temiz Oda)",
+          "rationale": "Bu 'VC' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Very Dirty (Çok Kirli)",
+          "rationale": "Bu, metinde yer alan standart bir simge değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "VIP Departing (VIP Ayrılıyor)",
+          "rationale": "Bu, metinde yer alan standart bir simge değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Checked Out (Çıkış Yapmış Oda)",
+          "rationale": "Bu 'C/O' simgesidir (bugün boşalmış). VD ise 'önceki günden boş' anlamındadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "question": "Kat Hizmetleri (HK) raporunda 'OOI' simgesi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Out of Order (Arızalı Oda - Satılamaz)",
+          "rationale": "Bu 'OOO' simgesidir. OOI'den farkı, OOO'nun daha uzun süreli bir arıza olmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Out of Inventory (Kısa Süreli Arızalı - Aynı gün giderilebilir)",
+          "rationale": "Metne göre 'OOI: Out of Inventory (Kısa Süreli Arızalı - Aynı gün giderilebilir)' anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Occupied (Bagajlı Dolu Oda)",
+          "rationale": "Bu 'OCC' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Occupied Without Luggage (Bagajsız Dolu Oda)",
+          "rationale": "Bu 'XWL' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Okey (Bakım Yapılmış Dolu Oda)",
+          "rationale": "Bu 'O.K.' simgesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "question": "Önbüro, check-out işlemi başladığında Kat Hizmetleri'ne haber verir. HK odayı kontrol eder ve Önbüroya 'Oda Okey' bilgisini verir. Bu işlemin amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Odanın bir sonraki misafir için temizlenip temizlenmediğini anlamak.",
+          "rationale": "Bu, C/I sırasında önemlidir, C/O anında değil. C/O'daki kontrolün amacı farklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odadaki arızaları (OOO) tespit etmek.",
+          "rationale": "Arıza tespiti yapılır ancak C/O anındaki hızlı kontrolün ana amacı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Unutulmuş eşya, minibar kullanımı veya hasar olup olmadığını kontrol etmek.",
+          "rationale": "Metin, HK'nın odayı 'unutulmuş eşya, minibar kullanımı, hasar' açısından hızla kontrol ettiğini belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafirin 'Rahatsız Etmeyin' (DND) kartı asıp asmadığını görmek.",
+          "rationale": "Misafir zaten check-out yapmaktadır, DND kartının bir önemi kalmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafire 'Misafir Anket Formu' doldurtmak.",
+          "rationale": "Bu, Önbüro veya HK'nın C/O kontrolünün bir parçası değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "question": "Önbüro, Yiyecek & İçecek (F&B) bölümüne kişi sayısını ve pansiyon durumunu bildirir. F&B buna göre ne hazırlar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kuver (masa düzeni)",
+          "rationale": "Metin, 'F&B buna göre kuver (masa düzeni) hazırlar' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ziyafet Emri (BEO)",
+          "rationale": "Ziyafet emri, özel toplantı ve ziyafetler içindir, günlük pansiyon durumu için değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lunch Box (Yiyecek Paketi)",
+          "rationale": "Bu, yemek saatini kaçıranlar için özel bir talimattır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fark Raporu (Discrepancy Report)",
+          "rationale": "Bu, oda durumu uyuşmazlıkları içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Günlük Kasa İcmal Formu",
+          "rationale": "Bu, muhasebeye devredilen hasılat formudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "question": "Önbüro, topladığı Misafir Anketlerini analiz için hangi departmana iletir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Muhasebe",
+          "rationale": "Muhasebe finansal verilerle ilgilenir, misafir anketleriyle değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat Hizmetleri",
+          "rationale": "Anket sonuçları HK'yı ilgilendirse de, analiz için iletildiği bölüm bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsan Kaynakları",
+          "rationale": "İK, personel verileriyle ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satış & Pazarlama",
+          "rationale": "Metin, Önbüronun 'Misafir Anketlerini analiz için Satış & Pazarlama'ya iletir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Teknik Servis",
+          "rationale": "Teknik servis arızalarla ilgilenir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "question": "Arıza odayı 'OOO' (Out of Order) yapıyorsa, arıza giderildiğinde Teknik Servis'in derhal Önbüroya haber vermesinin nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oda geliri kaybını önlemek",
+          "rationale": "Metin, 'Arıza giderildiğinde... derhal Önbüroya haber vermelidir (Oda geliri kaybını önlemek için)' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Odanın temizlik planlamasını yapmak",
+          "rationale": "Temizlik önemlidir ancak haber vermenin ana nedeni gelir kaybını durdurmaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafiri arıza hakkında bilgilendirmek",
+          "rationale": "Oda OOO ise içinde misafir yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fark Raporu (Discrepancy Report) düzenlemek",
+          "rationale": "Fark raporu, durum uyuşmazlığı içindir, arıza bildirimi için değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tamir Emri Formu'nu kapatmak",
+          "rationale": "Formu kapatmak idari bir işlemdir, acil haber vermenin operasyonel nedeni değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "question": "Önbüronun 24 saat açık tek bölüm olması, hangi departmanla olan ilişkisinde onu otelin 'gözü' haline getirir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Satış & Pazarlama",
+          "rationale": "Bu ilişki, satışları desteklemekle ilgilidir, 'göz' olmakla değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenlik",
+          "rationale": "Metin, 'Önbüro 24 saat açık tek bölümdür. Otelin \"gözü\" gibidir' ifadesini Güvenlik bölümüyle olan ilişkisinde kullanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İnsan Kaynakları",
+          "rationale": "Bu ilişki, personel yönetimi ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Muhasebe",
+          "rationale": "Bu ilişki, finansal işlemlerle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Animasyon / Eğlence",
+          "rationale": "Bu ilişki, misafir bilgilendirmesi ile ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "question": "Önbüro personelinin işe alınması, eğitimi, ücreti, izinleri ve işten çıkarılması işlemlerini hangi departman yürütür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Önbüro Müdürü",
+          "rationale": "Önbüro müdürü bu süreçleri yönetir ancak resmi işlemleri yürüten departman başkasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel Müdür",
+          "rationale": "Genel müdür en üst yöneticidir, bu operasyonel işlemleri bizzat yürütmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Muhasebe",
+          "rationale": "Muhasebe ücret ödemelerini yapar ancak işe alma, eğitim gibi süreçleri yürütmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsan Kaynakları (İK)",
+          "rationale": "Metin, 'İK; Önbüro personelinin işe alınması, eğitimi, ücreti, izinleri ve işten çıkarılması işlemlerini yürütür' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Satış & Pazarlama",
+          "rationale": "Satış departmanının personel yönetimi ile ilgisi yoktur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "question": "Animasyon bölümü, günlük faaliyetlerin (yer, saat) çizelgesini Önbüroya neden verir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Önbüronun konukları bilgilendirmesi için",
+          "rationale": "Metin, 'Animasyon bölümü... çizelgesini Önbüroya verir. Önbüro konukları bilgilendirir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Teknik servisten destek istemek için",
+          "rationale": "Bu, faaliyet çizelgesinin Önbüroya verilme nedeni değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat hizmetlerinden temizlik talep etmek için",
+          "rationale": "Bu, faaliyet çizelgesinin Önbüroya verilme nedeni değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Muhasebeye masraf bildirmek için",
+          "rationale": "Bu, faaliyet çizelgesinin Önbüroya verilme nedeni değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenlikten önlem almasını istemek için",
+          "rationale": "Bu, faaliyet çizelgesinin Önbüroya verilme nedeni değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "question": "Yatağa göre oda tiplerinden 'Triple Room' ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İki kişilik oda (İki tane tek kişilik yatak)",
+          "rationale": "Bu, 'Twin Bed' oda tipidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çift kişilik oda (Bir tane çift kişilik yatak)",
+          "rationale": "Bu, 'Double Room' oda tipidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üç kişilik oda (Bir double + bir single VEYA üç single yatak)",
+          "rationale": "Metin, 'Triple Room: Üç kişilik oda (Bir double + bir single VEYA üç single yatak)' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dört kişilik oda",
+          "rationale": "Bu, 'Quadrouple Room' oda tipidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tek kişilik oda",
+          "rationale": "Bu, 'Single Room' oda tipidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "question": "Oteldeki en lüks oda tipi olup; oturma odası, yatak odası, mutfak, bazen jakuzi/havuz içerebilen oda hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Suit Oda",
+          "rationale": "Suit oda lükstür ancak en lüksü 'Presidental Suite'tir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Junior Suite",
+          "rationale": "Junior suite, normal suit odadan daha küçüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Family Suite",
+          "rationale": "Family suite, ebeveyn ve çocuk odalarından oluşur, en lüks olmak zorunda değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Presidental Suite (Kral Dairesi)",
+          "rationale": "Metin, 'Presidental Suite (Kral Dairesi): En lüks oda tipi' olarak tanımlar ve detaylarını verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Studio Oda",
+          "rationale": "Studio oda, yatağa dönüşen kanepe içeren standart bir oda tipidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "question": "Sadece oda konaklamasını içeren ve genellikle şehir otellerinde kullanılan pansiyon tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "BB (Bed & Breakfast)",
+          "rationale": "BB, kahvaltı içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "HB (Half Board)",
+          "rationale": "HB, iki öğün yemek içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "FB (Full Board)",
+          "rationale": "FB, üç öğün yemek içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "AI (All Inclusive)",
+          "rationale": "AI, her şey dahil konseptidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Room Only (RO)",
+          "rationale": "Metin, 'Room Only (RO): Sadece oda konaklaması. (Genellikle şehir otelleri)' der.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "question": "Engelli misafirlerin kullanımı için özel dizayn edilmiş odaya ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Handicap Oda",
+          "rationale": "Metin, 'Handicap Oda: Engelli misafirlerin kullanımı için özel dizayn edilmiş oda' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Connection Oda",
+          "rationale": "Bu, ara geçiş kapısı olan odadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adjoining Oda",
+          "rationale": "Bu, ara kapısı olmayan yan yana odadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Studio Oda",
+          "rationale": "Bu, yatağa dönüşen kanepe içeren odadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Junior Suite",
+          "rationale": "Bu, küçük suit odadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "question": "Personel hijyeni konusunda el temizliği ile ilgili kural hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece yemeklerden önce yıkanmalı.",
+          "rationale": "Metin 'Sık sık yıkanmalı' der, sadece yemeklerden önce değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tırnaklar uzun olmalı, bayanlar koyu renk oje kullanmalı.",
+          "rationale": "Metin tam tersini, 'Tırnaklar kısa olmalı. Bayanlar açık renk oje kullanmalı' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tırnaklar kısa olmalı, bayanlar açık renk oje kullanmalı.",
+          "rationale": "Metin, el temizliği başlığında 'Tırnaklar kısa olmalı. Bayanlar açık renk oje kullanmalı' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eldiven kullanıldığı için yıkamaya gerek yoktur.",
+          "rationale": "Metinde eldiven kullanımından veya yıkamaya gerek olmadığından bahsedilmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "El temizliği sadece Kat Hizmetleri personeli için zorunludur.",
+          "rationale": "Bu kurallar tüm önbüro (ve otel) personeli için geçerlidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "question": "Personel hijyeni konusunda diş ve ağız temizliğinin önemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sürekli gülümsemek gerektiğinden bakımlı dişler ve kötü olmayan nefes şarttır.",
+          "rationale": "Metin, 'Sürekli gülümsemek gerektiğinden bakımlı dişler ve kötü olmayan nefes şarttır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafirlerle aynı yemekleri yedikleri için.",
+          "rationale": "Metinde böyle bir neden belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yabancı dil konuşurken telaffuzun düzgün olması için.",
+          "rationale": "Ağız bakımı telaffuzu etkilese de, metindeki vurgu gülümseme ve nefes kokusudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzun vardiyalarda acıkmamak için.",
+          "rationale": "Diş temizliğinin acıkmayla bir ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dişçiden rapor almanın zorunlu olması.",
+          "rationale": "Metinde böyle bir zorunluluktan bahsedilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "question": "Personel hijyeni konusunda ayak temizliği ile ilgili kural nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Günde en az iki kez yıkanmalı.",
+          "rationale": "Metin 'Günlük çorap değişimi' der, yıkama sıklığından bahsetmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek topuklu ayakkabı giyilmelidir.",
+          "rationale": "Metin tam tersini, 'Yüksek topuklu ayakkabı giyilmemelidir' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Günlük çorap değişimi yapılmalı ve rahat ayakkabılar giyilmeli.",
+          "rationale": "Metin, 'Günlük çorap değişimi, rahat ayakkabılar' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ayak kokusuna karşı önlem alınması zorunlu değildir.",
+          "rationale": "Metin 'ter kokusuna karşı önlem' derken, ayak temizliği de bu kapsamdadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ayakkabılar her gün boyanmalıdır.",
+          "rationale": "Metin ayakkabının 'rahat' olmasını söyler, boyanmasından bahsetmez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "question": "Personel davranış kurallarından hangisi, konuklara olumlu ve çözüm odaklı yaklaşımı vurgular?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bankoya veya desk'e yaslanarak durulmamalı.",
+          "rationale": "Bu, duruşla ilgili bir kuraldır, iletişimle değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Hayır' veya 'Yok' yerine, 'Sizin için bir şeyler yapmaya çalışayım efendim' demek.",
+          "rationale": "Metin, bu ifadeyi 'olumlu ve çözüm odaklı konuşma' örneği olarak verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Konuk karşısında sigara içilmemeli, sakız çiğnenmemeli.",
+          "rationale": "Bu, yapılmaması gereken olumsuz davranışları belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Görev yeri asla boş bırakılmamalı.",
+          "rationale": "Bu, sorumlulukla ilgili bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuklara mümkünse isimleriyle hitap edilmeli.",
+          "rationale": "Bu, kişisel ilgi ve nezaket kuralıdır, ancak çözüm odaklılıktan farklıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "question": "Aşağıdakilerden hangisi bir Butler'ın (Kişiye Özel Uşak) görevleri arasında *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "VIP bilet bulma, en gözde restoranda yer ayırtma.",
+          "rationale": "Metin, 'VIP bilet bulma, en gözde restoranda yer ayırtma'yı Butler görevi olarak listeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Valiz toplama/açma, ütüleme, ayakkabı temizliği.",
+          "rationale": "Metin, 'valiz toplama/açma, ütüleme, ayakkabı temizliği'ni Butler görevi olarak listeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Puro hazırlama, nazik uyandırma hizmeti.",
+          "rationale": "Metin, 'puro hazırlama, nazik uyandırma hizmeti'ni Butler görevi olarak listeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel içi ve dışı telefon haberleşmesini sağlamak.",
+          "rationale": "Bu, Butler'ın değil, 'Santral Görevlisi'nin görevidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Özel alışveriş (mağaza açtırma).",
+          "rationale": "Metin, 'özel alışveriş (mağaza açtırma)'yı Butler görevi olarak listeler.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "question": "Bellboy'un önemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Otelin en çok bahşiş toplayan personeli olması.",
+          "rationale": "Bu bir sonuç olabilir ancak metinde belirtilen 'önemi' bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirin otele girerken ilk, ayrılırken son gördüğü kişi olması.",
+          "rationale": "Metin, 'Misafirin otele girerken ilk gördüğü, otelden ayrılırken son gördüğü kişidir. Otel imajı için çok değerlidir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bavul odasının sorumluluğunu alması.",
+          "rationale": "Bu önemli bir görevidir, ancak otel imajı açısından 'önemi'ni açıklayan ana neden değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirlere otel hizmetlerini tanıtması.",
+          "rationale": "Bu kritik bir görevidir, ancak 'önemi'nin (ilk ve son izlenim) bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyon görevlisine yardım etmesi.",
+          "rationale": "Görevi resepsiyona yardım etmek değil, misafire eşlik etmektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "question": "Check-in prosedürlerinin amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mümkün olduğunca yavaş ve detaylı olmak.",
+          "rationale": "Metin tam tersini, 'Kolay, bekletmeden, hızlı ve hatasız olmak' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kolay, bekletmeden, hızlı ve hatasız olmak.",
+          "rationale": "Metin, 'Amaç: Kolay, bekletmeden, hızlı ve hatasız olmak' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafire mümkün olduğunca çok oda satışı (up-selling) yapmak.",
+          "rationale": "Bu bir hedef olabilir ancak check-in prosedürünün ana amacı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirin tüm kimlik bilgilerini kopyalamak.",
+          "rationale": "Kimlik bilgisi almak zorunludur ancak 'kopyalamak' değil, kaydetmektir; amaç bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirden bahşiş almak.",
+          "rationale": "Bu, prosedürün bir amacı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "question": "Check-in prosedürleri adımlarından hangisi 'Kanuni zorunluluk' olarak belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafiri güler yüzle selamlamak.",
+          "rationale": "Bu bir nezaket kuralıdır, kanuni zorunluluk değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirin ismini en az bir kez kullanmak.",
+          "rationale": "Bu bir nezaket kuralıdır, kanuni zorunluluk değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kimlik bilgilerini almak.",
+          "rationale": "Metin, 'Kimlik bilgilerini alın (Kanuni zorunluluk)' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ödeme şeklini sormak ve ön ödeme almak.",
+          "rationale": "Bu, otelin finansal bir prosedürüdür, kanuni zorunluluk değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel hakkında kısa bilgi vermek (kahvaltı saati vb.).",
+          "rationale": "Bu bir bilgilendirme adımıdır, kanuni zorunluluk değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "question": "Aşağıdakilerden hangisi bir 'Upgrade (Oda Yükseltme)' örneği olarak metinde *verilmemiştir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Manzaralı oda vermek.",
+          "rationale": "Metin, 'Manzaralı oda'yı bir upgrade örneği olarak listeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha büyük oda vermek.",
+          "rationale": "Metin, 'daha büyük oda'yı bir upgrade örneği olarak listeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Balkonlu oda vermek.",
+          "rationale": "Metin, 'balkonlu oda'yı bir upgrade örneği olarak listeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ücretsiz kahvaltı vermek.",
+          "rationale": "Metin, 'ücretsiz kahvaltı'yı bir upgrade örneği olarak listeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ücretsiz havaalanı transferi sağlamak.",
+          "rationale": "Metinde 'ücretsiz kahvaltı' bir örnek olarak varken, 'havaalanı transferi' listelenmemiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "question": "Upgrade yapmanın 'Amacı' nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oversold durumunu telafi etmek.",
+          "rationale": "Bu, upgrade yapmanın 'geçerli nedenlerinden' biridir, nihai 'amacı' değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir memnuniyeti ve sadakatli misafir yaratmak.",
+          "rationale": "Metin, 'Amaç: Misafir memnuniyeti ve sadakatli misafir yaratmaktır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otel müdürünün arkadaşlarını ağırlamak.",
+          "rationale": "Bu, metinde belirtilen bir amaç değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha pahalı odaların da dolu görünmesini sağlamak.",
+          "rationale": "Bu bir sonuç olabilir ancak metinde belirtilen 'amaç' misafir memnuniyetidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyon görevlisine bahşiş verilmesini teşvik etmek.",
+          "rationale": "Bu, metinde belirtilen bir amaç değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "question": "Odalar Bölümü'ndeki işlerin sıralı yapılması gerektiği belirtilerek verilen örnek nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çamaşırhane zamanında yıkamazsa, kat hizmetleri odayı hazırlayamaz.",
+          "rationale": "Metin, 'Örnek: Çamaşırhane zamanında yıkamazsa, kat hizmetleri odayı hazırlayamaz' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Resepsiyon check-in yapmazsa, bellboy bavul taşıyamaz.",
+          "rationale": "Bu da sıralı bir iştir ancak metinde verilen örnek bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak yemek hazırlamazsa, F&B servis yapamaz.",
+          "rationale": "Bu, F&B bölümüyle ilgili bir örnektir, Odalar Bölümü değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satın alma malzeme almazsa, teknik servis tamir yapamaz.",
+          "rationale": "Bu, destek bölümleriyle ilgili bir örnektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir rezervasyon yapmazsa, önbüro kayıt açamaz.",
+          "rationale": "Bu, Konuk Döngüsü ile ilgili bir örnektir, metindeki spesifik 'sıralı iş' örneği değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "question": "Konukların işletme hakkındaki 'ilk ve son izlenimlerini' oluşturan, bu nedenle imaj, halkla ilişkiler ve satış için kritik olan bölüm hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kat Hizmetleri",
+          "rationale": "Kat hizmetleri oda temizliğiyle izlenim oluşturur ancak 'ilk ve son' izlenim önbürodadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ön Büro (Front Office)",
+          "rationale": "Metin, 'İlk ve Son İzlenim: Önbüro, konukların işletme hakkındaki ilk ve son izlenimlerini oluşturur' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yiyecek & İçecek",
+          "rationale": "F&B, yeme-içme deneyimiyle izlenim oluşturur ancak 'ilk ve son' izlenim değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenlik",
+          "rationale": "Güvenlik, güven hissiyle izlenim oluşturur ancak 'ilk ve son' izlenim değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satış & Pazarlama",
+          "rationale": "Satış & Pazarlama, konuk gelmeden önceki izlenimi (reklam, web sitesi) oluşturur, 'son' izlenimi değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "question": "Aşağıdakilerden hangisi Önbüronun Görevleri arasında yer alan 'Konuk dosya ve belgelerini usulüne uygun tutmak' ifadesindeki belgeye bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konaklama Belgesi (Registration Form)",
+          "rationale": "Metin, bu görevi 'Konuk dosya ve belgelerini (Registration Form) usulüne uygun tutmak' şeklinde açıklar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tamir Emri Formu",
+          "rationale": "Bu, teknik servise giden bir belgedir, konuk dosyası değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Talep Fişi",
+          "rationale": "Bu, satın almaya giden bir belgedir, konuk dosyası değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fark Raporu",
+          "rationale": "Bu, iç denetim için bir rapordur, konuk dosyası değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Günlük Kasa İcmal Formu",
+          "rationale": "Bu, muhasebeye giden bir belgedir, konuk dosyası değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 91,
+      "question": "Check-in adımlarından olan 'Asansör veya odaya gidiş yönünü tarif etme' işlemi kim tarafından yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Önbüro Müdürü",
+          "rationale": "Önbüro müdürü bu operasyonel detayı yapmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyon Görevlisi (Check-in işlemini yapan)",
+          "rationale": "Metindeki 10 adımlık check-in prosedürünün 10. adımı 'Asansör veya odaya gidiş yönünü tarif edin'dir ve bu, işlemi yapan resepsiyonistin görevidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Santral Görevlisi",
+          "rationale": "Santral görevlisi telefondadır, yön tarifi yapmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapı Görevlisi (Doorman)",
+          "rationale": "Doorman dış kapıdadır, odaya gidiş yönünü tarif etmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Butler",
+          "rationale": "Butler, sadece özel misafirlere hizmet verir, her check-in'de bu işlemi yapmaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 92,
+      "question": "Farklı başkentlerin (New York, London, Tokyo) yerel saatlerini gösteren donanım hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Döviz Panosu",
+          "rationale": "Döviz panosu, para kurlarını gösterir, saatleri değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "PMS (Otel Yönetim Sistemi)",
+          "rationale": "PMS yazılımı saatleri gösterebilir ancak metin, duvarda asılı olan fiziksel donanımdan bahseder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ülke Saatleri",
+          "rationale": "Metin, 'Ülke Saatleri: Farklı başkentlerin... yerel saatlerini gösterir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Folio Havuzu",
+          "rationale": "Bu, hesap belgelerinin saklandığı dolaptır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Santral (Switchboard)",
+          "rationale": "Santral telefon bağlantılarını yapar, saatleri göstermez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 93,
+      "question": "Aşağıdakilerden hangisi Danışma (Concierge) bölümünün görevlerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuk hesaplarını tutmak ve tahsilat yapmak.",
+          "rationale": "Bu, Ön Kasa'nın (Cashier) görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda taleplerini karşılamak ve boş/dolu oda takibi yapmak.",
+          "rationale": "Bu, Rezervasyon (Reservation) bölümünün görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilgi vermek, bilet/rezervasyon (restoran, tur vb.) işlerini yapmak.",
+          "rationale": "Metin, Danışma (Concierge) için 'Bilgi verir, bilet/rezervasyon (restoran, tur vb.) işlerini yapar' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otel içi ve dışı telefon haberleşmesini sağlamak.",
+          "rationale": "Bu, Santral (Switchboard) bölümünün görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuk kayıt (check-in) ve faturalandırma işlemlerini yürütmek.",
+          "rationale": "Bu, Resepsiyon (Reception) bölümünün görevidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 94,
+      "question": "Resepsiyon Görevlisi'nin, Kat Hizmetleri'nden (HK) gelen raporları işleme koymasının anlamı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Raporları imzalayıp dosyalamak.",
+          "rationale": "İşleme koymak sadece dosyalamak değil, sistemde güncelleme yapmaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Raporları Önbüro Müdürü'ne iletmek.",
+          "rationale": "Bu, işleme koymanın bir parçası olabilir ancak asıl anlamı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda durumunu (örn: C/O, VC) sistemde (PMS) güncellemek.",
+          "rationale": "Metin, 'Kat hizmetleri (Housekeeping) raporlarını işleme koyar (Oda durumunu günceller)' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Raporlara göre konuklara fatura çıkarmak.",
+          "rationale": "Fatura, folio'daki harcamalara göre çıkarılır, HK raporuna göre değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Raporları Teknik Servis'e iletmek.",
+          "rationale": "Sadece arıza varsa Tamir Emri Formu ile iletilir, raporun tamamı değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 95,
+      "question": "Bellboy'un 'Kritik Görevi' olarak metinde belirtilen, odayı ve otel hizmetlerini konuğa tanıtması neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuğun odada yalnız kalmaktan korkmamasını sağlar.",
+          "rationale": "Metindeki vurgu bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirlerin resepsiyondan çok Bellboy'a soru sormayı tercih etmesi.",
+          "rationale": "Metin, Bellboy'un tutumuyla ilgili bölümde 'Misafirler resepsiyondan çok Bellboy'a soru sormayı tercih eder' der. Bu durum, tanıtım görevinin önemini artırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Resepsiyon görevlisinin bu işi yapmak için zamanı olmaması.",
+          "rationale": "Bu operasyonel bir neden olabilir ancak metindeki vurgu misafir davranışıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel içi satışları (Up-selling) artırmak.",
+          "rationale": "Oda tanıtımı, otel hizmetlerini (örn: restoran) tanıtarak 'Up-selling'e (Bölüm 3) katkı sağlar. Bu da önemli bir nedendir, ancak metin bellboy'un soru sorma tercihini vurgular.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuğun odadaki arızaları hemen fark etmesini sağlamak.",
+          "rationale": "Bu bir yan fayda olabilir ancak asıl amaç hizmet tanıtımıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 96,
+      "question": "Odalar Bölümü'ndeki koordinasyon eksikliğine dair verilen örnekte, Kat Hizmetleri'nin patlak ampulü Teknik Servis'e bildirmemesi hangi sonuca yol açar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oda satılamaz (OOO)",
+          "rationale": "Metin, 'Örnek: Kat hizmetleri patlak ampulü teknik servise bildirmezse, oda satılamaz (OOO)' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oda kirli kalır (VD)",
+          "rationale": "Oda temizlenmiş olabilir ancak arızalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir şikayet eder (DND)",
+          "rationale": "Misafir şikayet edebilir ancak DND 'Rahatsız Etmeyin' demektir, ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda 'XWL' olarak işaretlenir.",
+          "rationale": "XWL, 'Bagajsız Dolu Oda' demektir, arıza ile ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fark Raporu (Discrepancy Report) düzenlenir.",
+          "rationale": "Fark raporu, ÖB ve HK kayıtları uyuşmadığında düzenlenir, arıza bildirimi için değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 97,
+      "question": "Aşağıdakilerden hangisi Önbüronun günlük, haftalık, aylık vb. hazırlayıp ilgili departmanlara ilettiği raporlara bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gelen-giden listesi",
+          "rationale": "Metin, 'Günlük, haftalık, aylık vb. raporları (gelen-giden listesi) hazırlayıp ilgili departmanlara iletmek' görevini listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafir Anket Formu",
+          "rationale": "Bu form misafir tarafından doldurulur, Önbüro tarafından hazırlanmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklama Belgesi",
+          "rationale": "Bu form misafirle birlikte doldurulur, bir 'rapor' değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tamir Emri Formu",
+          "rationale": "Bu, spesifik bir arıza için anlık doldurulan bir formdur, periyodik bir rapor değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Talep Fişi",
+          "rationale": "Bu, malzeme istemek için anlık doldurulan bir fiştir, periyodik bir rapor değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 98,
+      "question": "VIP odalarına 'özel emir formlarıyla' ikram gönderilmesini sağlayan bölüm hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ön Büro",
+          "rationale": "Metin, Önbüronun görevleri arasında 'VİP odalarına özel emir formlarıyla ikram gönderilmesini sağlamak' ifadesini listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kat Hizmetleri",
+          "rationale": "Kat hizmetleri odayı hazırlar ancak ikram emrini Önbüro verir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yiyecek & İçecek",
+          "rationale": "F&B ikramı hazırlar, ancak 'gönderilmesini sağlayan' (talimatı veren) Önbüro'dur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satış & Pazarlama",
+          "rationale": "Satış, VIP statüsünü belirleyebilir ancak operasyonel emri Önbüro verir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak",
+          "rationale": "Mutfak, F&B'nin bir alt bölümüdür ve ikramı hazırlar, emri vermez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 99,
+      "question": "Kat Hizmetleri (HK) raporunda 'OCC' simgesi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Okey (Bakım Yapılmış Dolu Oda)",
+          "rationale": "Bu 'O.K.' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Occupied (Bagajlı Dolu Oda)",
+          "rationale": "Metne göre 'OCC: Occupied (Bagajlı Dolu Oda)' anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Out of Order (Arızalı Oda)",
+          "rationale": "Bu 'OOO' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Checked Out (Çıkış Yapmış Oda)",
+          "rationale": "Bu 'C/O' simgesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Occupied Without Luggage (Bagajsız Dolu Oda)",
+          "rationale": "Bu 'XWL' simgesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 100,
+      "question": "Aşağıdakilerden hangisi misafirin 'Check-in' prosedürü adımlarından biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafiri güler yüzle selamlamak.",
+          "rationale": "Bu, metindeki 10 adımlık prosedürün 2. adımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kimlik bilgilerini almak.",
+          "rationale": "Bu, metindeki 10 adımlık prosedürün 5. adımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ödeme şeklini sormak.",
+          "rationale": "Bu, metindeki 10 adımlık prosedürün 6. adımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda numarasını misafire (güvenlik için) söylemeyip, kart üzerinden göstermek.",
+          "rationale": "Bu, metindeki 10 adımlık prosedürün 7. adımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir Anket Formu'nun doldurulup doldurulmadığını sormak.",
+          "rationale": "Anket formu genellikle odada bulunur veya check-out sırasında istenir, metindeki 10 adımlık check-in prosedüründe yer almaz.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

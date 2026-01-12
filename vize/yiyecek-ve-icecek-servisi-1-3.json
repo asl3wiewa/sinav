@@ -1,0 +1,3204 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Metne göre, aşağıdakilerden hangisi Yiyecek-İçecek Bölümünün temel 'amaç'larından biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konukların arzu ettikleri yiyecek ve içecekleri kurallara uygun sunmak.",
+          "rationale": "Bu, metinde listelenen 3 temel amaçtan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuklara sıcak bir ortam yaratarak memnuniyeti sağlamak.",
+          "rationale": "Bu, metinde listelenen 3 temel amaçtan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odalardan sonra en fazla gelir getiren bölüm olmak.",
+          "rationale": "Bu, bölümün 'amacı' değil, 'işletme yönünden önemi' olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Satışları artırarak işletmeye ve personele en yüksek geliri sağlamak.",
+          "rationale": "Bu, metinde listelenen 3 temel amaçtan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konukların beslenme, dinlenme ve eğlenme ihtiyaçlarını karşılamak.",
+          "rationale": "Bu, bölümün 'konuk yönünden önemi' olarak belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "Yiyecek-İçecek organizasyon şemasında 'Kaptan' (Seviye 4) hangi görevi üstlenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "En üst yönetici olarak politikaları uygular ve denetler.",
+          "rationale": "Bu görev F&B Müdürü'ne (Seviye 6) aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak ve servis koordinasyonunu sağlar, amirine yardımcı olur.",
+          "rationale": "Bu görev Maitre d'Hotel'e (Seviye 5) aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sorumlu olduğu postadaki (servis istasyonu) koordinasyonu sağlar.",
+          "rationale": "Bu, Kaptan'ın (Seviye 4) doğru tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sipariş alır, servis yapar ve hesap alır.",
+          "rationale": "Bu görev Garson'a (Seviye 3) aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garsona yardım eder ve servis alanının temizliğiyle ilgilenir.",
+          "rationale": "Bu görev Komi'ye (Seviye 2) aittir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "Organizasyon şemasında 'Komi' hangi seviye görevlisi olarak tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Seviye 5",
+          "rationale": "Seviye 5 Maitre d'Hotel'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seviye 4",
+          "rationale": "Seviye 4 Kaptan'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seviye 3",
+          "rationale": "Seviye 3 Garson'dur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seviye 2",
+          "rationale": "Komi, Servis Görevlisi - 2. Seviye olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Seviye 6",
+          "rationale": "Seviye 6 F&B Müdürü'dür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "Yiyecek-İçecek Bölümü'nün hangi bölümle olan ilişkisi, 'Konuk sayısı, saati ve kalkış bilgileri'ni bildirme üzerine kuruludur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mutfak",
+          "rationale": "Mutfak, mönüleri hazırlar ve ziyafet emirleri hakkında bilgi alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önbüro",
+          "rationale": "Önbüro, konuk sayısı, saati ve kalkış bilgilerini F&B bölümüne bildirir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kat Hizmetleri",
+          "rationale": "Kat Hizmetleri, genel alanların ve üniformaların temizliğini yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknik Servis",
+          "rationale": "Teknik Servis, bina ve teçhizatın bakım ve onarımını yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satın Alma",
+          "rationale": "Metinde bu bölümle ilişki detaylandırılmamıştır, ancak F&B tedarik için bu bölümle çalışır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "Servis görevlisinin (Garson) taşıması gereken araçlarla ilgili aşağıdaki ifadelerden hangisi *yanlıştır*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuğun sigarasını yakmak için çakmak değil, kibrit bulundurulur.",
+          "rationale": "Bu, metinde belirtilen doğru bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sipariş almak için basmalı tükenmez kalem tercih edilir.",
+          "rationale": "Bu, metinde belirtilen doğru bir tercihtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis peçetesi (Garson Peçetesi) temizlik amacıyla sağ cebe konulmalıdır.",
+          "rationale": "Bu yanlıştır. Metne göre servis peçetesi 'Sol kol üzerine asılır, asla cebe konmaz.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Tarak, konuk önünde değil, sadece lavaboda kullanılmak üzere taşınır.",
+          "rationale": "Bu, metinde belirtilen doğru bir hijyen kuralıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mendil, hapşırma ve terlemeler için bulundurulmalıdır.",
+          "rationale": "Bu, metinde belirtilen doğru bir kuraldır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "Bir 'Komi'nin (Seviye 2) temel görev tanımı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mise en place (servis öncesi ön hazırlık) yapar ve konukların şikayetleriyle ilgilenir.",
+          "rationale": "Bu görevler Garson'a (Seviye 3) aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sorumlu olduğu postadaki koordinasyonu sağlar.",
+          "rationale": "Bu görev Kaptan'a (Seviye 4) aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İçecekleri hazırlar ve sunar.",
+          "rationale": "Bu görev Barmen/Barmaid'e (Seviye 3) aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak ve servis koordinasyonunu genel olarak sağlar.",
+          "rationale": "Bu görev Maitre d'Hotel'e (Seviye 5) aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garsona yardım eder, servis dolaplarını (servant) hazırlar ve kirli malzemeleri taşır.",
+          "rationale": "Bu, Komi'nin (Seviye 2) doğru görev tanımıdır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "'Hijyen' ve 'Sanitasyon' kavramları arasındaki temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hijyen personel temizliği, sanitasyon ise alan temizliğidir.",
+          "rationale": "Eksik bir tanımdır. Hijyen genel sağlığı korumaktır, sanitasyon ise daha teknik bir işlemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hijyen sağlığı korumak için gerekli koşulların sağlanmasıdır; Sanitasyon ise temizlik ve dezenfektasyonun birlikte yapılmasıdır.",
+          "rationale": "Bu, metindeki doğru ve eksiksiz tanımdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sanitasyon sadece ısı ile, hijyen ise kimyasallar ile yapılır.",
+          "rationale": "Yanlıştır. Sanitasyon hem ısı hem de kimyasal ile yapılabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hijyen ve sanitasyon eş anlamlıdır, aralarında bir fark yoktur.",
+          "rationale": "Yanlıştır. Metin bu iki kavramı ayrı ayrı tanımlamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hijyen gıda güvenliği, sanitasyon ise personel güvenliğidir.",
+          "rationale": "Yanlış bir ayrımdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "Gıda hijyeni açısından 'Tehlikeli Sıcaklık Aralığı' olarak tanımlanan ve bakterilerin hızla çoğaldığı aralık nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "0°C ila +4°C arası",
+          "rationale": "Bu aralık soğuk depolama aralığıdır, tehlikeli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "-18°C ila 0°C arası",
+          "rationale": "Bu aralık dondurulmuş depolama aralığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "+63°C ila +100°C arası",
+          "rationale": "Bu aralık sıcak tutma aralığıdır (+63°C üzeri), bakterilerin çoğalmasını engeller.",
+          "isCorrect": false
+        },
+        {
+          "text": "+7°C ila +63°C arası",
+          "rationale": "Metne göre bu aralık, bakterilerin hızla çoğaldığı 'Tehlikeli Sıcaklık Aralığı'dır.",
+          "isCorrect": true
+        },
+        {
+          "text": "+4°C ila +10°C arası",
+          "rationale": "Bu aralık tehlikeli bölgenin bir kısmını kapsasa da, metindeki tanım +7 ile +63 arasındadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "Sıcak gıdaların servis anına kadar hangi sıcaklıkta saklanması gerekmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "+7°C altında",
+          "rationale": "Bu, soğuk gıdalar için geçerli kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "+63°C üzerinde",
+          "rationale": "Sıcak gıdalar, tehlikeli bölgenin üst sınırı olan +63°C üzerinde saklanmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "+7°C ila +63°C arasında",
+          "rationale": "Bu, bakterilerin hızla çoğaldığı tehlikeli aralıktır ve yiyecekler bu aralıkta tutulmamalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda sıcaklığında (20°C - 25°C)",
+          "rationale": "Bu, tehlikeli sıcaklık aralığının tam ortasıdır ve kesinlikle yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tam olarak +63°C'de",
+          "rationale": "Metin, '+63°C üzerinde' ifadesini kullanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "Personel hijyeni ile ilgili aşağıdakilerden hangisi metne göre *yanlıştır*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Vücut, el, ayak, saç ve ağız temizliğine dikkat edilmelidir.",
+          "rationale": "Bu, metinde belirtilen temel hijyen kurallarındandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alyans ve saat hariç takı takılmamalıdır.",
+          "rationale": "Bu, metinde belirtilen doğru bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aşırı makyaj yapılmamalıdır.",
+          "rationale": "Bu, metinde belirtilen doğru bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yiyeceklere çıplak elle temas edilmemelidir.",
+          "rationale": "Bu, gıda hijyeni ile ilgili bir kuraldır ancak personel için de geçerlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuktan dönen ekmekler, ziyan olmaması için başka bir konuğa servis edilebilir.",
+          "rationale": "Bu kesinlikle yanlıştır. Metin 'asla başka konuğa servis edilmemelidir' der.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "Cam malzemelerin depolanmasıyla ilgili doğru kural nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Raflara ters olarak yerleştirilmeli ve yer kazanmak için üst üste konmalıdır.",
+          "rationale": "Ters yerleştirilmeli kısmı doğru, ancak 'üst üste konmamalı'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Raflara düz olarak yerleştirilmeli ve ağızları açık bırakılmalıdır.",
+          "rationale": "Yanlış, içlerinin tozlanmaması için ters yerleştirilmelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Raflara ters olarak yerleştirilmeli ve üst üste konmamalıdır.",
+          "rationale": "Bu, metinde belirtilen doğru depolama yöntemidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çatlak olanlar belli bir alanda tamir için bekletilmelidir.",
+          "rationale": "Yanlış, metin 'Çatlak ve kırıklar kullanılmamalı' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hepsi bir arada, iç içe geçirilerek depolanmalıdır.",
+          "rationale": "Yanlış, bu kırılmalarına ve çizilmelerine neden olur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "Tek kulplu olan ve 'konsome' servisi için kullanılan porselen malzeme hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çukur Tabak",
+          "rationale": "Çukur tabaklar sulu yemekler ve çorbalar için kullanılır, ancak konsome için özel fincan vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kaseler",
+          "rationale": "Kaseler çorba, komposto, tatlı için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konsome Fincanları",
+          "rationale": "Metne göre 'Konsome Fincanları: Tek kulplu, konsomeler için.' kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turenler",
+          "rationale": "Turenler kapaklı servis kabıdır, fincan değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosiyerler",
+          "rationale": "Sosiyerler sos servisi içindir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "Mutfaktan restorana yiyecek taşımak için kullanılan büyük oval veya yuvarlak porselen servis kaplarına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turenler",
+          "rationale": "Turenler, sulu yemekler ve çorbalar için kapaklı servis kabıdır ('çorba potu').",
+          "isCorrect": false
+        },
+        {
+          "text": "Fayanslar",
+          "rationale": "Metne göre 'Fayanslar: Mutfaktan restorana yiyecek taşımak için büyük oval/yuvarlak tabaklar.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosiyerler",
+          "rationale": "Sosiyerler, sos servisi için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Reşo",
+          "rationale": "Reşo metal bir ısıtıcıdır, porselen servis kabı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Show Plate (Servis Tabağı)",
+          "rationale": "Show plate kuverde konuğun önünde duran alt tabaktır, taşıma için kullanılmaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "Sulu yemekler ve çorbalar için kullanılan kapaklı servis kabına (çorba potu) ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turen",
+          "rationale": "Doğru. Metin Turenleri 'sulu yemekler, çorbalar için kapaklı servis kabı (çorba potu)' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosiyer",
+          "rationale": "Sos servisi içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fayans",
+          "rationale": "Yiyecek taşımak için kullanılan büyük oval tabaklardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kase",
+          "rationale": "Kişisel servis içindir, kapaklı büyük servis kabı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kloş (Cloche)",
+          "rationale": "Kloş, tabağın üstünü kapatan metal bir kapaktır, çorba potu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "Menaj takımları ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tuz, karabiber, ketçap, hardal, sirke ve zeytinyağı her zaman masada hazır bulunmalıdır.",
+          "rationale": "Yanlış. Metne göre sadece tuzluk ve biberlik masaya konur, diğerleri yemekle veya isteğe göre gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece tuzluk ve biberlik masaya konur; ketçap, hardal gibi soslar yemekle veya isteğe göre gelir.",
+          "rationale": "Bu, metinde 'Menaj Hazırlığı' bölümünde belirtilen doğru bilgidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Menaj takımları sadece porselenden yapılır.",
+          "rationale": "Metinde böyle bir kısıtlama yoktur, metal veya cam da olabilirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menaj takımları Komi tarafından masadan toplanmaz.",
+          "rationale": "Böyle bir kural metinde yoktur, temizlik Komi'nin görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm menaj takımları 'Servant' içinde saklanır ve asla masaya konmaz.",
+          "rationale": "Yanlış, tuzluk ve biberlik masaya konur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "Bıçak bilemek için kullanılan metal servis takımının adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tranş Bıçağı",
+          "rationale": "Tranş bıçağı et kesmek içindir, bilemek için değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spatül",
+          "rationale": "Pasta servisi için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masat",
+          "rationale": "Doğru. Masat, bıçak bileme aleti olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Istakoz Pensi",
+          "rationale": "Istakoz yemek için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kepçe",
+          "rationale": "Sıvı yiyeceklerin servisi için kullanılır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "Yemeklerin üstünü kapatan çan şeklindeki metal kapağa ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Reşo",
+          "rationale": "Reşo bir ısıtıcıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turen",
+          "rationale": "Bu kapaklı bir porselen çorba kabıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kloş (Cloche)",
+          "rationale": "Metne göre 'Kloş (Cloche): yemeklerin üstünü kapatan çan şeklinde kapak.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Chafing Dish",
+          "rationale": "Bu bir büfe ısıtıcısıdır (benmari tipinde).",
+          "isCorrect": false
+        },
+        {
+          "text": "Show Plate",
+          "rationale": "Bu bir servis alt tabağıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "Tepsilerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yuvarlak tepsiler yiyecek, dikdörtgen tepsiler içecek servisi içindir.",
+          "rationale": "Yanlış, tam tersidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yuvarlak tepsiler içecek, dikdörtgen tepsiler yiyecek ve boş toplama içindir.",
+          "rationale": "Bu, metinde belirtilen doğru kullanımdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tüm tepsiler sadece sol el üzerinde, omuz hizasında taşınır.",
+          "rationale": "Sol el doğrudur, ancak göğüs veya omuz hizasında olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tepsiler her zaman vücuda yaslanarak taşınmalıdır.",
+          "rationale": "Yanlış. Metin 'vücuda yaslanmaz' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece metal tepsiler serviste kullanılır.",
+          "rationale": "Metinde böyle bir kısıtlama yoktur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "Masaya en alta serilen, kaymayı ve sesi önleyen keçe/aba örtünün adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Masa Örtüsü",
+          "rationale": "Bu asıl örtüdür, Miflon'un üzerine serilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapak Örtüsü",
+          "rationale": "Bu en üste serilen küçük renkli örtüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Miflon (Multon)",
+          "rationale": "Metne göre 'Miflon (Multon): Masaya en alta serilen, kaymayı ve sesi önleyen keçe/aba örtü.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Skört (Masa Eteği)",
+          "rationale": "Bu, masanın kenarlarını kapatan örtüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis Peçetesi",
+          "rationale": "Bu, garsonun kullandığı peçetedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "Peçete çeşitleri ve boyutları (cm) ile ilgili eşleştirmelerden hangisi *yanlıştır*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çay Peçetesi (30-40cm) - Kahvaltıda kullanılır.",
+          "rationale": "Metne göre bu doğru bir eşleştirmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemek Peçetesi (55-60cm) - Konuk için kullanılır.",
+          "rationale": "Metne göre bu doğru bir eşleştirmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garson Peçetesi (60-60cm) - Servis görevlisi için kullanılır.",
+          "rationale": "Metne göre bu doğru bir eşleştirmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çay Peçetesi (55-60cm) - Konuk için kullanılır.",
+          "rationale": "Yanlış. 55-60cm yemek peçetesidir. Çay peçetesi 30-40cm'dir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yemek Peçetesi (55-60cm) - Garson Peçetesi (60-60cm)",
+          "rationale": "Bu boyutlar metindeki tanımlara uygundur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "Servis personelinin malzemelerini depoladığı ara depo/dolaba ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gueridon (Servis Sehpası)",
+          "rationale": "Bu, konuk masası yanında kullanılan tekerlekli yardımcı sehpadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servant (Servis İstasyonu)",
+          "rationale": "Metne göre 'Servant (Servis İstasyonu): Malzemelerin depolandığı ara depo/dolap.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Rechaud (Reşo)",
+          "rationale": "Bu, yemeği tabağında sıcak tutan bir ısıtıcıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Chafing Dish (Şeyfır)",
+          "rationale": "Bu, büfelerde yiyecekleri sıcak tutan bir ünitedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bain Marie (Benmari)",
+          "rationale": "Bu, Chafing Dish'in tezgâh boyutunda olanıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "Konuk masası yanında kullanılan tekerlekli yardımcı sehpanın adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Servant",
+          "rationale": "Bu, malzemelerin depolandığı ara depo/dolaptır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gueridon",
+          "rationale": "Metne göre 'Gueridon (Servis Sehpası): Konuk masası yanında kullanılan tekerlekli yardımcı sehpa.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Flambe Arabası",
+          "rationale": "Bu bir servis arabası çeşididir, ancak 'Gueridon' daha genel bir tanımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tranş Arabası",
+          "rationale": "Bu, et kesmek için kullanılan özel bir arabadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Reşo",
+          "rationale": "Bu bir ısıtıcıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "Yemeği tabağında sıcak tutan, dökümden yapılmış ısıtıcı/ocağa ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rechaud (Reşo)",
+          "rationale": "Metne göre 'Rechaud (Reşo): Yemeği tabağında sıcak tutan, dökümden yapılmış ısıtıcı/ocak.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Chafing Dish (Şeyfır)",
+          "rationale": "Bu, büfelerde yiyecekleri sıcak tutar (su banyolu sistem).",
+          "isCorrect": false
+        },
+        {
+          "text": "Fondue (Fondü)",
+          "rationale": "Bu, altta reşo, üstte tava olan bir takımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bain Marie (Benmari)",
+          "rationale": "Bu, Chafing Dish'in tezgâh boyutunda olanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kloş (Cloche)",
+          "rationale": "Bu, yemeğin üstünü kapatan metal bir kapaktır, ısıtıcı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "Büfelerde kullanılan, iki kaptan oluşan (altta su) ve yiyecekleri sıcak tutan ünite hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rechaud (Reşo)",
+          "rationale": "Bu, yemeği tabağında sıcak tutar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Chafing Dish (Şeyfır)",
+          "rationale": "Metne göre 'Chafing Dish (Şeyfır): İki kaptan oluşur (altta su), büfelerde yiyecekleri sıcak tutar.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Fondue (Fondü)",
+          "rationale": "Bu, altta reşo, üstte tava olan bir takımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gueridon",
+          "rationale": "Bu, tekerlekli servis sehpasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bain Marie (Benmari)",
+          "rationale": "Bu, Chafing Dish'in tezgâh boyutunda olanıdır, ancak 'iki kaptan oluşur' tanımı Chafing Dish'e daha uygundur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "Temel servis tekniklerine göre, kirli tabak toplama ile ilgili genel kural ve istisnası nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Genel kural: Konuğun solundan alınır. İstisna: Ekmek tabağı sağından alınır.",
+          "rationale": "Yanlış, genel kural sağdandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel kural: Konuğun sağından alınır. İstisna: Tamamen solda olan (ekmek, salata) tabaklar solundan alınır.",
+          "rationale": "Bu, metinde belirtilen doğru kural ve istisnadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Genel kural: Konuğun sağından alınır. İstisna yoktur, her şey sağdan alınır.",
+          "rationale": "Yanlış, metin bir istisnadan bahseder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel kural: Konuğun solundan alınır. İstisna yoktur, her şey soldan alınır.",
+          "rationale": "Yanlış, genel kural sağdandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel kural: Masadakilerin bitirmesi beklenmez, bitireninki hemen alınır.",
+          "rationale": "Yanlış. Metin 'Masadakilerin bitirmesi beklenir' der.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "Su servisi konuğun hangi tarafından yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Solundan",
+          "rationale": "Yanlış. Su servisi sağdan yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağından",
+          "rationale": "Metne göre 'Su Servisi: Konuğun sağından yapılır.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Fark etmez, uygun olan taraftan.",
+          "rationale": "Yanlış, servis kurallarının standartları vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sürahi soldan, şişe sağdan.",
+          "rationale": "Metinde böyle bir ayrım yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her zaman solundan, sol ayak ileride.",
+          "rationale": "Yanlış, su servisi sağdandır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "Ekmek servisi neden konuğun solundan yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ekmek tabağı konuğun solunda olduğu için.",
+          "rationale": "Doğru. Metin 'Ekmek tabağı solda olduğu için konuğun solundan yapılır.' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ekmek servisi her zaman sağdan yapılır.",
+          "rationale": "Yanlış, ekmek servisi soldan yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garsonun sol elini kullanması gerektiği için.",
+          "rationale": "Neden değil, sonuçtur. Ekmek tabağı solda olduğu için soldan servis daha kolaydır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece İngiliz servisinde soldan yapıldığı için.",
+          "rationale": "Yanlış, bu genel bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekmek maşası sadece sol elle tutulabildiği için.",
+          "rationale": "Yanlış, böyle bir kural yoktur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "Maşa servisinde, küresel yiyecekleri (patates, köfte) servis etmek için hangi teknik kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Düz Maşa (Kaşık altta, çatal üstte)",
+          "rationale": "Bu teknik dilimli yiyecekler (ekmek, biftek) için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ters Maşa (Çatal altta, kaşık üstte)",
+          "rationale": "Metne göre 'Ters Maşa (Çatal altta, kaşık üstte): Küresel yiyecekler (patates, köfte).' için kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece kaşık kullanılır.",
+          "rationale": "Yanlış, maşa servisi tanımına uymaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece çatal kullanılır.",
+          "rationale": "Yanlış, maşa servisi tanımına uymaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çatal ve bıçak maşa olarak kullanılır.",
+          "rationale": "Yanlış, servis takımları kaşık ve çataldır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "Kırıntıları temizleme işlemi servisin hangi aşamasında yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tüm yemekler bittikten sonra, hesap alınırken.",
+          "rationale": "Yanlış, tatlıdan önce yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ana yemekten hemen önce.",
+          "rationale": "Yanlış, ana yemekten sonradır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çorba servisinden sonra.",
+          "rationale": "Yanlış, ana yemekten sonradır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ana yemekten sonra, tatlıdan önce.",
+          "rationale": "Bu, metinde belirtilen doğru zamanlamadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Konuk masaya oturduğu anda.",
+          "rationale": "Yanlış, bu masa temizliğidir, servis sırasındaki kırıntı temizliği değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "Kül tablası değiştirme prosedürü nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kirli olan alınır, yerine temiz olan konur.",
+          "rationale": "Yanlış, külün uçuşmaması için özel bir teknik vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temiz olanı kirli olanın üzerine kapatarak alınır.",
+          "rationale": "Bu, metinde belirtilen doğru ve hijyenik prosedürdür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kirli olan konuğun önünde boşaltılır.",
+          "rationale": "Kesinlikle yanlış ve kabadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece konuk talep ederse değiştirilir.",
+          "rationale": "Genellikle belirli bir dolulukta (örn: 2 izmarit) değiştirilir, talep beklenmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kirli olan sol el ile, temiz olan sağ el ile aynı anda değiştirilir.",
+          "rationale": "Yanlış, metindeki prosedür 'üzerine kapatarak' şeklindedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "Servisi kolaylaştırmak için yapılan tüm ön hazırlıklara verilen ad nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mise en Place (Mizan plas)",
+          "rationale": "Metne göre 'Mise en Place (Mizan plas): Servisi kolaylaştırmak için yapılan tüm ön hazırlıklara verilen ad.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Kuver Açma",
+          "rationale": "Bu, Mise en Place'in bir parçasıdır, tamamı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servant Hazırlığı",
+          "rationale": "Bu, Mise en Place'in bir parçasıdır, tamamı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "A'la Carte",
+          "rationale": "Bu bir mönü tipidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gueridon",
+          "rationale": "Bu bir servis sehpasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "Servant (servis istasyonu) hazırlığı ile ilgili en önemli kural nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece porselen malzemeler konulmalıdır.",
+          "rationale": "Yanlış, tüm malzemeler konulur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her Kaptan kendi servantını farklı bir düzende hazırlamalıdır.",
+          "rationale": "Yanlış, tam tersi olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm servantlarda yerleşim planı aynı olmalıdır.",
+          "rationale": "Metne göre 'Tüm servantlarda yerleşim planı aynı olmalıdır.' Bu, personelin aradığını kolayca bulmasını sağlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece Komi'ler servantı kullanabilir.",
+          "rationale": "Yanlış, tüm servis personeli kullanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servant içinde mutlaka bir ısıtıcı (reşo) bulunmalıdır.",
+          "rationale": "Metinde böyle bir zorunluluk belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "Masa örtüsü sermeden önce masaya serilmesi gereken ilk örtü nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kapak Örtüsü",
+          "rationale": "Kapak örtüsü en üste serilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masa Örtüsü",
+          "rationale": "Masa örtüsü asıl örtüdür ancak Miflon'dan sonra serilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Miflon (Multon)",
+          "rationale": "Metne göre 'Önce Miflon serilir.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Skört",
+          "rationale": "Skört masa eteğidir, büfelerde kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemek Peçetesi",
+          "rationale": "Bu bir örtü değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "Masaların servise hazırlanması (Kuver Açma) ile ilgili aşağıdaki kurallardan hangisi *yanlıştır*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Servis tabağı (veya yeri) sandalyeyi tam ortalamalıdır.",
+          "rationale": "Bu, metinde belirtilen doğru bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Takımlar masa kenarından bir parmak içeri konur.",
+          "rationale": "Bu, metinde belirtilen doğru bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bıçakların keskin yüzü tabağa (sola) bakar.",
+          "rationale": "Bu, metinde belirtilen doğru bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İlk kullanılacak takım tabağa en yakın (içeride) olur.",
+          "rationale": "Bu yanlıştır. Metne göre 'İlk kullanılacak takım en dışta olur.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Sol elle kullanılanlar (Çatal) tabağın soluna konur.",
+          "rationale": "Bu, metinde belirtilen doğru bir kuraldır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "Kuver açarken bıçaklar tabağın sağına nasıl yerleştirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Keskin yüzü tabağa (sola) bakacak şekilde.",
+          "rationale": "Doğru. Metin 'Bıçakların keskin yüzü tabağa (sola) bakar.' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Keskin yüzü dışarıya (sağa) bakacak şekilde.",
+          "rationale": "Yanlış, bu tehlikelidir ve kurala aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Keskin yüzü yukarıya bakacak şekilde.",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bıçaklar tabağın soluna yerleştirilir.",
+          "rationale": "Yanlış, bıçaklar sağ elle kullanıldığı için sağa konur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bıçakların yönü fark etmez.",
+          "rationale": "Yanlış, kuver açmanın net kuralları vardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "question": "Konuğun yemekte kullanacağı malzemelerin (çatal, bıçak, tabak vb.) masa üzerinde düzenli ve eksiksiz olarak hazırlanmış şekline ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mise en Place",
+          "rationale": "Bu genel ön hazırlıktır. Kuver, bu hazırlığın bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuver",
+          "rationale": "Bu, metinde verilen 'Kuver' tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Servant",
+          "rationale": "Bu, servis dolabıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adisyon",
+          "rationale": "Bu, hesap pusulasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menaj",
+          "rationale": "Bu, tuz, biber gibi malzemelerdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "question": "Yemeklerin önceden belli olduğu ve tüm takımların (ilk kullanılacak dışarıda olacak şekilde) kuvere yerleştirildiği mönü ve kuver tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "A'la Carte Kuveri (Basit Kuver)",
+          "rationale": "A'la Carte'ta yemekler belli değildir, sonradan seçilir. Kuver basittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Table d'Hote Kuveri (Sabit Mönü Kuveri)",
+          "rationale": "Metne göre 'Table d'Hote Kuveri (Sabit Mönü Kuveri): Yemekler önceden bellidir. Tüm takımlar... kuvere yerleştirilir.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Büfe Kuveri",
+          "rationale": "Büfe kuverinde konuk yemeğini kendi alır, tüm takımlar masada olmayabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amerikan Servisi",
+          "rationale": "Bu bir servis usulüdür, kuver tipi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brunch Kuveri",
+          "rationale": "Bu, zamanlamaya göre bir mönüdür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "question": "Hangi servis usulünde servis görevlisi tepsiyi konuğun solundan tutar ve yemeği *kendisi* (garson) maşa ile servis eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fransız Servisi",
+          "rationale": "Fransız servisinde konuk yemeğini kendisi alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İngiliz Servisi",
+          "rationale": "Metne göre 'İngiliz Servisi: Servis görevlisi tepsiyi konuğun solundan tutar, yemeği kendisi (garson) maşa ile servis eder.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Gueridon Servisi",
+          "rationale": "Bu serviste yemek masanın yanında hazırlanır/porsiyonlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rus Servisi",
+          "rationale": "Bu serviste yemekler masanın ortasına yerleştirilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amerikan Servisi",
+          "rationale": "Bu serviste tabak mutfakta hazırlanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "question": "Hangi servis usulü 'ziyafetlerde çok tercih edilir'?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fransız Servisi",
+          "rationale": "Konuğun kendi alması ziyafetler için yavaştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İngiliz Servisi",
+          "rationale": "Metin, İngiliz Servisi için 'Ziyafetlerde çok tercih edilir.' ifadesini kullanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gueridon Servisi",
+          "rationale": "Gueridon servisi çok fazla şov ve zaman gerektirir, kalabalık ziyafetler için uygun değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rus Servisi",
+          "rationale": "Rus servisi daha çok aile tarzı yemekler içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Self Servis",
+          "rationale": "Bu bir masa servisi çeşidi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "question": "Yemeğin (genellikle flambe veya tranş) konuğun masası yanındaki servis sehpasında (gueridon) hazırlanıp porsiyonlandığı servis usulü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gueridon Servisi",
+          "rationale": "Bu, Gueridon servisinin tam tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İngiliz Servisi",
+          "rationale": "Bu serviste tepsiyle soldan servis yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amerikan Servisi",
+          "rationale": "Bu serviste tabak mutfakta hazırlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fransız Servisi",
+          "rationale": "Bu serviste konuk yemeğini kendi alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rus Servisi",
+          "rationale": "Bu serviste yemekler masanın ortasına konur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "question": "Yemeklerin mutfakta porsiyonlanıp, tepsi/fayanslarda salona getirildiği ve masanın ortasına yerleştirilerek konukların kendilerinin aldığı servis usulü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rus Servisi",
+          "rationale": "Bu, Rus servisinin tam tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İngiliz Servisi",
+          "rationale": "Bu serviste garson servis yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fransız Servisi",
+          "rationale": "Bu serviste konuk tepsiden alır, yemek masaya konmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tabak Servisi",
+          "rationale": "Bu serviste tabak konuğun önüne konur, ortaya değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Türk Usulü Servis",
+          "rationale": "Bu, mezelerin tepsiyle gösterilmesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "question": "Metne göre 'Amerikan Servisi' ile 'Tabak Servisi' arasındaki temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Amerikan servisi sağdan, Tabak servisi soldan yapılır.",
+          "rationale": "Yanlış, metne göre tam tersidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amerikan servisi soldan, Tabak servisi sağdan yapılır.",
+          "rationale": "Metin, Amerikan için 'konuğun solundan servis edilir', Tabak için 'konuğun sağından servis edilir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Amerikan servisinde tabak mutfakta, Tabak servisinde salonda hazırlanır.",
+          "rationale": "Yanlış, metne göre ikisinde de tabak mutfakta hazırlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amerikan servisi ziyafetlerde, Tabak servisi A'la Carte'ta kullanılır.",
+          "rationale": "Metinde böyle bir ayrım yapılmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aralarında hiçbir fark yoktur, aynı servis usulüdür.",
+          "rationale": "Yanlış, metin servis yönleri açısından ikisini ayırmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "question": "Soğuk mezelerin tepsi veya araba ile masaya getirilip, konuğun seçtiklerinin masaya konulması hangi servis usulüdür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rus Servisi",
+          "rationale": "Rus servisinde yemekler porsiyonlanıp ortaya konur, seçmeli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gueridon Servisi",
+          "rationale": "Bu serviste yemek masada hazırlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Türk Usulü Servis",
+          "rationale": "Metne göre 'Türk Usulü Servis: Soğuk mezelerin tepsi veya araba ile masaya getirilip, konuğun seçtiklerinin masaya konulmasıdır.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Büfe Servisi",
+          "rationale": "Büfede konuk yemeğin yanına gider, yemek masaya gelmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "İngiliz Servisi",
+          "rationale": "Bu serviste garson tepsiden servis yapar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "question": "Anlaşma sonrası hazırlanan ve ilgili tüm bölümlere (Mutfak, Satın Alma vb.) dağıtılan bilgilendirme formu hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ziyafet Rezervasyon Formu",
+          "rationale": "Bu, rezervasyon alınırken detayların yazıldığı formdur, dağıtılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ziyafet Emri Formu",
+          "rationale": "Metne göre 'Ziyafet Emri Formu: Anlaşma sonrası hazırlanan ve ilgili tüm bölümlere... dağıtılan bilgilendirme formudur.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Adisyon (Hesap Pusulası)",
+          "rationale": "Bu, hesap içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sipariş Fişi",
+          "rationale": "Bu, anlık siparişler içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Table d'Hote Mönü",
+          "rationale": "Bu bir mönü kartıdır, emir formu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "question": "Protokol servisi (Devlet Başkanı vb.) ile ilgili aşağıdaki kurallardan hangisi *yanlıştır*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bir garson en fazla 6-8 kişiye servis yapmalıdır.",
+          "rationale": "Bu, metinde belirtilen doğru bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Komi servis yapmaz, sadece mutfak-salon arası çalışır.",
+          "rationale": "Bu, metinde belirtilen doğru bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maitre d'Hotel servisi sadece baş işaretleriyle yönetir.",
+          "rationale": "Bu, metinde belirtilen doğru bir kuraldır (sessizlik esastır).",
+          "isCorrect": false
+        },
+        {
+          "text": "Devlet Başkanı ve eşi varsa, 1 garson sadece onlara servis yapar.",
+          "rationale": "Yanlış. Metne göre '4 garson (2 asıl, 2 yedek) aynı anda sadece onlara servis yapar.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Tüm konuklar yemeğini bitirmeden boşlar toplanmaz.",
+          "rationale": "Bu, metinde belirtilen doğru bir kuraldır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "question": "Komi'nin protokol servisindeki rolü nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Komi servis yapmaz, sadece mutfak-salon arası çalışır.",
+          "rationale": "Metne göre protokol servisinde Komi'nin rolü budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Devlet Başkanına doğrudan servis yapar.",
+          "rationale": "Yanlış, bu işi özel garsonlar yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garsonla birlikte eş zamanlı servis yapar.",
+          "rationale": "Yanlış, metin 'Komi servis yapmaz' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece içecek servisi yapar.",
+          "rationale": "Yanlış, servis yapmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maitre d'Hotel'e yardım eder.",
+          "rationale": "Yanlış, mutfak-salon arası çalışır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "question": "Hangi mönü tipi 'Karta göre servis' olarak da bilinir, konuk mönüden seçer ve her yemek ayrı fiyatlandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Table d'Hote Mönü",
+          "rationale": "Bu sabit mönüdür, tek bir fiyat vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "A'la Carte Mönü",
+          "rationale": "Metne göre 'A'la Carte Mönü: Karta göre servis. Konuk mönüden seçer... her yemek ayrı fiyatlandırılır.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Ziyafet Mönüsü",
+          "rationale": "Bu, Table d'Hote mönü özelliklerini taşır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Modern Mönü",
+          "rationale": "Bu, klasik mönünün basit halidir, fiyatlandırma şeklini belirtmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Supper Mönü",
+          "rationale": "Bu, zamana göre bir mönüdür (gece geç).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "question": "'Kahvaltı (Breakfast)' ve 'Öğle Yemeği (Lunch)' kelimelerinin birleşiminden oluşan mönü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Supper",
+          "rationale": "Bu, gece geç saatte sunulan hafif mönüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "İkindi Çayı",
+          "rationale": "Bu farklı bir öğündür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brunch",
+          "rationale": "Metne göre 'Brunch (Kahvaltı \"Breakfast\" + Öğle Yemeği \"Lunch\" birleşimi)'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Continental Kahvaltı",
+          "rationale": "Bu bir kahvaltı çeşididir, öğün birleşimi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Table d'Hote",
+          "rationale": "Bu bir mönü fiyatlandırma tipidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "question": "Gece geç saatte sunulan hafif mönüye ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Brunch",
+          "rationale": "Bu, kahvaltı ve öğle yemeği birleşimidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "A'la Carte",
+          "rationale": "Bu bir mönü tipidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Supper",
+          "rationale": "Metne göre 'Supper (Gece geç saatte hafif mönü)'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dijestif",
+          "rationale": "Bu, yemek sonrası içilen (sindirim kolaylaştırıcı) içecektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antre",
+          "rationale": "Bu, ana yemekten önceki bir ara sıcaktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "question": "Mönü tanzimi (oluşturma) sırasında aşağıdakilerden hangisi dikkate alınması gereken faktörlerden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mevsim (Mevsiminde olan ürünler)",
+          "rationale": "Metinde 'Mevsim' dikkate alınması gereken bir faktör olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Renk uyumu (Yemeklerin görsel uyumu)",
+          "rationale": "Metinde 'renk uyumu' dikkate alınması gereken bir faktör olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kıvam (Yemeklerin dokusal çeşitliliği)",
+          "rationale": "Metinde 'kıvam' dikkate alınması gereken bir faktör olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfağın kapasitesi ve pişirme usullerinin çeşitliliği",
+          "rationale": "Metinde bu faktörler dikkate alınması gerekenler arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm yemeklerin aynı pişirme usulüyle (örn: sadece kızartma) yapılması",
+          "rationale": "Bu yanlıştır. Metin 'pişirme usullerinin çeşitliliği'nin dikkate alınması gerektiğini söyler.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "question": "Konuğa servis akışında, mönü kartı nasıl takdim edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuğun solundan verilir (önce beylere).",
+          "rationale": "Yanlış, sağdan ve önce bayanlara verilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuğun sağından verilir (önce bayanlara).",
+          "rationale": "Metne göre 'Mönü kartı konuğun sağından verilir (önce bayanlara).'",
+          "isCorrect": true
+        },
+        {
+          "text": "Konuğun sağından verilir (önce beylere).",
+          "rationale": "Yanlış, önce bayanlara verilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuğun solundan verilir (önce bayanlara).",
+          "rationale": "Yanlış, sağdan verilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masa ortasına bırakılır, konuklar kendileri alır.",
+          "rationale": "Yanlış, bu kaba bir davranıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "question": "Sipariş alırken aşağıdakilerden hangisi yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuğun solundan yaklaşılır ve göz teması kurulmaz.",
+          "rationale": "Yanlış, sağından (veya en uygun yerden) yaklaşılır ve göz teması kurulur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuğun sağından (veya en uygun yerden) yaklaşılır, göz teması kurulur ve tavsiyede bulunulur.",
+          "rationale": "Bu, metinde belirtilen doğru sipariş alma yöntemidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sipariş alınırken asla tavsiyede bulunulmaz.",
+          "rationale": "Yanlış, metin 'tavsiyede bulunulur' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Siparişler hafızada tutulur, sipariş fişine yazılmaz.",
+          "rationale": "Yanlış, özel istekler (az pişmiş vb.) not edilmelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alınan sipariş tekrarlanmaz, direkt mutfağa iletilir.",
+          "rationale": "Yanlış, metin 'Alınan sipariş sözlü olarak tekrarlanır ve onay alınır' der.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "question": "Hesap pusulasına (adisyon) ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kuver",
+          "rationale": "Bu, masadaki servis takımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adisyon",
+          "rationale": "Metne göre 'Adisyon (Hesap Pusulası): Sipariş fişlerinin kaydedildiği form.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Suivant / En Suite",
+          "rationale": "Bu, ilave sipariş fişlerine yazılan nottur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ziyafet Emri",
+          "rationale": "Bu, ziyafet organizasyonu için bölümlere dağıtılan formdur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mise en Place",
+          "rationale": "Bu, ön hazırlıktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "question": "İkinci ve sonraki (ilave) sipariş fişlerine yazılan not nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Adisyon",
+          "rationale": "Adisyon, hesabın tamamıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "A'la Carte",
+          "rationale": "Bu bir mönü tipidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Suivant / En Suite",
+          "rationale": "Metne göre 'Suivant / En Suite: İkinci ve sonraki sipariş (ilave) fişlerine yazılır.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Rezerve",
+          "rationale": "Bu, masanın ayrıldığını belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mise en Place",
+          "rationale": "Bu, ön hazırlıktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "question": "Hesap (adisyon) konuğa nasıl sunulur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Açık bir şekilde konuğun soluna bırakılır.",
+          "rationale": "Yanlış, kapalı bir kapta ve sağına bırakılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uygun bir kapta (hesap klasörü) konuğun sağına bırakılır.",
+          "rationale": "Bu, metinde belirtilen doğru prosedürdür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sözlü olarak, yüksek sesle masaya bildirilir.",
+          "rationale": "Kesinlikle yanlış ve kabadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece masadan kalkarken kasaya bırakılır.",
+          "rationale": "Yanlış, konuk isteyince masaya sunulur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uygun bir kapta masanın ortasına bırakılır.",
+          "rationale": "Yanlış, genellikle hesabı isteyen konuğun (veya ev sahibinin) sağına bırakılır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "question": "Gueridon servisinde 'Flambe' ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yemeğin sosla birlikte pişirilmesi.",
+          "rationale": "Flambe'nin tanımı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alkollü içeceklerle alevlendirerek pişirme.",
+          "rationale": "Metne göre 'Flambeler: Alkollü içeceklerle alevlendirerek pişirme.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Yemeğin konuğun önünde dilimlenmesi (Tranş).",
+          "rationale": "Bu tranş işlemidir, flambe değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Salatanın sosunun masada hazırlanması.",
+          "rationale": "Bu da gueridon servisidir ancak flambe değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemeğin Reşo üzerinde sıcak tutulması.",
+          "rationale": "Bu ısıtma işlemidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "question": "Gueridon servisi (Flambe) yapılırken dikkat edilmesi gereken en önemli güvenlik kuralı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Araba her zaman çekilerek götürülmelidir.",
+          "rationale": "Yanlış. Metin 'Araba itilerek götürülür (çekilmez)' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etin pişme derecesi konuğa sorulmamalı, standart pişirilmelidir.",
+          "rationale": "Yanlış. Metin 'Etin pişme derecesi sorulur' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alevlendirme için içecek şişeden dökülmeli ve şişe ateşten uzakta tutulmalıdır.",
+          "rationale": "Bu, metinde belirtilen çok önemli bir güvenlik kuralıdır (şişenin parlamaması için).",
+          "isCorrect": true
+        },
+        {
+          "text": "Alevlendirme için içecek önce bir kaba alınıp, oradan tavaya dökülmelidir.",
+          "rationale": "Yanlış. Metin 'içecek şişeden dökülmeli' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Flambe servisi sadece Maitre d'Hotel tarafından yapılabilir.",
+          "rationale": "Metinde böyle bir kısıtlama yoktur, eğitimli garson da yapabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "question": "Sadece sıcak içecek, tereyağı, bal/reçel ve ekmek içeren hafif kahvaltı çeşidi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İngiliz Usulü",
+          "rationale": "Bu, Continental + yumurta, sosis vb. içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amerikan Usulü",
+          "rationale": "Bu, İngiliz + meyve suları, pancake içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Türk Usulü",
+          "rationale": "Bu, peynir, zeytin, domates vb. içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Continental (Kıtasal)",
+          "rationale": "Metne göre 'Continental (Kıtasal): Hafif kahvaltı. Sıcak içecek, tereyağı, bal/reçel, ekmek.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Kahvaltı Büfesi",
+          "rationale": "Bu bir sunum şeklidir, kahvaltı çeşidi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "question": "Hangi kahvaltı çeşidi, 'İngiliz Usulü' kahvaltıya ek olarak 'Meyve suları ve Pancakeler' içerir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Türk Usulü",
+          "rationale": "İçeriği farklıdır (peynir, zeytin).",
+          "isCorrect": false
+        },
+        {
+          "text": "Continental (Kıtasal)",
+          "rationale": "Bu en hafif kahvaltıdır, İngiliz usulünden daha az içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İngiliz Usulü",
+          "rationale": "Soru 'İngiliz Usulü'ne ek...' diye sormaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amerikan Usulü",
+          "rationale": "Metne göre 'Amerikan Usulü: İngiliz Usulü + Meyve suları, Pancakeler.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Brunch",
+          "rationale": "Bu bir öğün adıdır (kahvaltı + öğle yemeği).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "question": "Peynir çeşitleri, zeytin çeşitleri, salatalık, domates ve yumurta içeren kahvaltı çeşidi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İngiliz Usulü",
+          "rationale": "Yumurta, sosis, soğuk etler içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amerikan Usulü",
+          "rationale": "İngiliz usulüne ek pancake içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Türk Usulü",
+          "rationale": "Metindeki tanım 'Türk Usulü' kahvaltıyı açıklamaktadır (peynir, zeytin, domates...).",
+          "isCorrect": true
+        },
+        {
+          "text": "Continental (Kıtasal)",
+          "rationale": "Sadece ekmek, reçel, tereyağı ve sıcak içecek içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Supper",
+          "rationale": "Bu bir gece öğünüdür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "question": "Kahvaltı büfesinin 'dezavantajı' olarak metinde ne belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personel tasarrufu sağlaması.",
+          "rationale": "Bu bir avantajdır, dezavantaj değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seçeneğin çok olması.",
+          "rationale": "Bu bir avantajdır, dezavantaj değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trafik, gürültü ve israf.",
+          "rationale": "Metin, dezavantaj olarak 'trafik, gürültü, israf'ı listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece sıcak yiyeceklerin sunulması.",
+          "rationale": "Yanlış, büfede soğuk yiyecekler de bulunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece A'la Carte mönü sunulması.",
+          "rationale": "Yanlış, büfe A'la Carte değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "question": "Oda servisinde (Room Service) sipariş alma yöntemleri nelerdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece telefon ile.",
+          "rationale": "Yanlış, bir yöntem daha vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece oda kapısına asılan mönü kartı ile.",
+          "rationale": "Yanlış, bir yöntem daha vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda kapısına asılan mönü kartı ile veya telefon ile.",
+          "rationale": "Metin, bu iki yöntemi listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece lobiye inerek sipariş verilir.",
+          "rationale": "Yanlış, bu oda servisi tanımına aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyonu arayarak.",
+          "rationale": "Yanlış, doğrudan 'Oda Servisi' aranır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "question": "Oda servisi görevlisi odaya geldiğinde kapıyı çalarken ne demelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "'Garson!'",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Oda Servisi' (Room Service)",
+          "rationale": "Metne göre kapı çalınır ve 'Oda Servisi' denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "'Siparişiniz geldi!'",
+          "rationale": "Yanlış, standart prosedür 'Oda Servisi' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece kapıyı çalar ve bekler.",
+          "rationale": "Yanlış, seslenmek gerekir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuğun adıyla seslenir.",
+          "rationale": "Yanlış, bu mahremiyet ihlali olabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "question": "Oda servisinde hesap pusulası (adisyon) için yapılması gereken işlem nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuğa nakit ödemesi söylenir.",
+          "rationale": "Genellikle oda hesabına imza atılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hesap pusulası imzalatılır.",
+          "rationale": "Metne göre 'hesap pusulası imzalatılır'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hesap pusulası masaya bırakılır, konuğun sonra lobiye inmesi istenir.",
+          "rationale": "Yanlış, işlem odada tamamlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hesap alınmaz, oda hesabına otomatik eklenir.",
+          "rationale": "Yanlış, konuğun onayı (imzası) gerekir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kredi kartı ile odada tahsil edilir.",
+          "rationale": "Mümkündür ancak metindeki prosedür 'imzalatılır' şeklindedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "question": "Bira servisi için ideal servis ısısı nedir ve nasıl servis edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "0°C, buzlu bardakta.",
+          "rationale": "Yanlış, 0°C çok soğuktur ve biraya buz atılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "6-7°C, buz atılmaz, soğuk bardakta.",
+          "rationale": "Metne göre 'Servis ısısı 6-7°C. Buz atılmaz, soğuk bardakta servis edilir.'",
+          "isCorrect": true
+        },
+        {
+          "text": "14-20°C, oda sıcaklığında.",
+          "rationale": "Yanlış, bu kırmızı şarap ısısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "6-10°C, içine bir dilim limon atılarak.",
+          "rationale": "Yanlış, 6-10°C beyaz şarap ısısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "6-7°C, mutlaka buzlu bardakta.",
+          "rationale": "Yanlış, metin 'buz atılmaz' der.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "question": "Aşağıdaki içeceklerden hangisi 'Fermente (Mayalı)' bir içecek *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bira",
+          "rationale": "Bira arpa maltından fermente edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şarap",
+          "rationale": "Şarap üzüm şırasından fermente edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Votka",
+          "rationale": "Votka, tahıl veya patatesten 'damıtık' (yüksek alkollü) bir içkidir, fermente değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Beyaz Şarap",
+          "rationale": "Şarap fermente bir içkidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kırmızı Şarap",
+          "rationale": "Şarap fermente bir içkidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "question": "Pembe (Roze) şaraplar için önerilen servis ısısı aralığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "6-10°C",
+          "rationale": "Bu, beyaz şaraplar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "8-12°C",
+          "rationale": "Metne göre 'Pembe (Roze) Şaraplar: 8-12°C'.",
+          "isCorrect": true
+        },
+        {
+          "text": "14-20°C",
+          "rationale": "Bu, kırmızı şaraplar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "6-7°C",
+          "rationale": "Bu, bira içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda sıcaklığı (20-22°C)",
+          "rationale": "Bu, roze şarap için çok sıcaktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "question": "Kırmızı şaraplar için önerilen servis ısısı aralığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "6-10°C",
+          "rationale": "Bu, beyaz şaraplar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "8-12°C",
+          "rationale": "Bu, pembe (roze) şaraplar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "14-20°C",
+          "rationale": "Metne göre 'Kırmızı Şaraplar (Genel): 14-20°C'.",
+          "isCorrect": true
+        },
+        {
+          "text": "4-6°C",
+          "rationale": "Bu, şarap için çok soğuktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece 18°C",
+          "rationale": "Bu, aralığın içindedir ancak metin 14-20°C aralığını verir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "question": "Şarap servisi adımlarında, tirbuşon ile mantar açıldıktan sonra yapılması gereken ilk işlem nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Şişe temizlenir, etiket konuğa gösterilir.",
+          "rationale": "Bu işlem mantar açılmadan *önce* yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapsül bıçakla kesilir, mantar koklanır.",
+          "rationale": "Kapsül kesme açmadan öncedir. Mantar koklama ise açtıktan sonradır. Soru 'açıldıktan sonra' dediği için 'mantar koklanır' kısmı doğrudur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Siparişi veren konuğa sağından çok az miktarda tattırılır.",
+          "rationale": "Bu işlem mantarı kokladıktan ve temizledikten *sonra* yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önce bayanlara servis yapılır.",
+          "rationale": "Bu işlem tattırma ve onaydan *sonra* yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bardaklar 2/3 oranında doldurulur.",
+          "rationale": "Bu, servisin son aşamasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "question": "Şarap servisi sırasında, siparişi veren konuğa tattırma işlemi ne zaman yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tüm masaya servis yapıldıktan sonra en son.",
+          "rationale": "Yanlış, tattırma en başta yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şişe açılır açılmaz, mantar koklanmadan önce.",
+          "rationale": "Yanlış, mantar kontrolü (koklama) önce yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şişe açılıp mantar koklandıktan sonra, diğer konuklara servisten önce.",
+          "rationale": "Bu, metindeki doğru sıradır: 'mantar koklanır -> Siparişi veren konuğa... tattırılır -> Konuğun onayı alındıktan sonra... servis edilir.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Tattırma işlemi yapılmaz, direkt servis edilir.",
+          "rationale": "Yanlış, şarap servisinde tattırma (degüstasyon) önemlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece kırmızı şaraplar tattırılır, beyaz şaraplar tattırılmaz.",
+          "rationale": "Yanlış, tüm şaraplar tattırılır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "question": "Şarap servisi onay alındıktan sonra hangi sırayla yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Önce sipariş verene, sonra bayanlara, sonra beylere.",
+          "rationale": "Yanlış, sipariş veren en son tamamlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önce beylere, sonra bayanlara, en son sipariş verene.",
+          "rationale": "Yanlış, öncelik bayanlarındır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önce bayanlara, sonra beylere (saat yönünde), en son sipariş verenin bardağı tamamlanır.",
+          "rationale": "Bu, metinde belirtilen doğru servis sırasıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Saat yönünün tersine, en yaşlıdan en gence doğru.",
+          "rationale": "Yanlış, cinsiyet önceliği ve saat yönü kuralı vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece sipariş verene servis yapılır, kalanını o dağıtır.",
+          "rationale": "Kesinlikle yanlış.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "question": "Şarap kadehleri ne kadar doldurulmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tamamen (ağzına kadar)",
+          "rationale": "Yanlış, şarabın havalanması için boşluk gerekir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yarısı (1/2)",
+          "rationale": "Metindeki oran bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üçte ikisi (2/3)",
+          "rationale": "Metne göre 'Bardaklar 2/3 oranında doldurulur.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Üçte biri (1/3)",
+          "rationale": "Bu, özellikle kırmızı şaraplar için bazen uygulansa da metin 2/3 der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dörtte biri (1/4)",
+          "rationale": "Bu çok azdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "question": "Hangi yüksek alkollü içki 'Üzüm suması ve anason'dan üretilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Votka",
+          "rationale": "Tahıl veya patatesten üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cin",
+          "rationale": "Ardıç meyvesinden üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rakı",
+          "rationale": "Metne göre 'Rakı (%45-50): Üzüm suması ve anasondan.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Rom",
+          "rationale": "Şeker kamışı melasından üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konyak",
+          "rationale": "Şarabın damıtılmasıyla üretilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "question": "Hangi yüksek alkollü içki 'şeker kamışı melası'ndan üretilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rom",
+          "rationale": "Metne göre 'Rom (%40+): Şeker kamışı melasından.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Cin",
+          "rationale": "Ardıç meyvesinden üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Votka",
+          "rationale": "Tahıl veya patatesten üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tekila",
+          "rationale": "'Mezkal' bitkisinden üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Viski",
+          "rationale": "Tahıllardan üretilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "question": "Hangi yüksek alkollü içki 'ardıç meyvesi'nden üretilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rakı",
+          "rationale": "Üzüm suması ve anasondan üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cin",
+          "rationale": "Metne göre 'Cin (%40-47): Ardıç meyvesinden.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Rom",
+          "rationale": "Şeker kamışı melasından üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Votka",
+          "rationale": "Tahıl veya patatesten üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konyak",
+          "rationale": "Şarabın damıtılmasıyla üretilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "question": "Hangi yüksek alkollü içki 'koku ve tat arındırılmış saf alkol' olarak bilinir ve 'tahıl veya patates'ten üretilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Viski",
+          "rationale": "Viskinin kendine has tadı ve kokusu vardır, arındırılmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cin",
+          "rationale": "Ardıç kokusu ve tadı vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rom",
+          "rationale": "Şeker kamışı tadı vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Votka",
+          "rationale": "Metne göre 'Votka (%35-80): Tahıl veya patatesten (koku ve tat arındırılmış saf alkol).'",
+          "isCorrect": true
+        },
+        {
+          "text": "Tekila",
+          "rationale": "Mezkal bitkisinin tadı vardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "question": "Tahıllardan (arpa, mısır, çavdar) üretilen yüksek alkollü içki hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Votka",
+          "rationale": "Votka da tahıldan üretilebilir ancak 'arındırılmıştır'. Viski ise karakterini tahıldan alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Viski",
+          "rationale": "Metne göre 'Viski (%40-60): Tahıllardan (arpa, mısır, çavdar).'",
+          "isCorrect": true
+        },
+        {
+          "text": "Konyak",
+          "rationale": "Şarabın (üzümün) damıtılmasıyla üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rom",
+          "rationale": "Şeker kamışından üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cin",
+          "rationale": "Ardıç meyvesinden üretilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "question": "'Brandy' ile 'Konyak' arasındaki fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Brandy tahıldan, Konyak üzümden yapılır.",
+          "rationale": "Yanlış, ikisi de şarabın (üzümün) damıtılmasıyla elde edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konyak, sadece Fransa'nın Cognac bölgesinde üretilen Brandy'e verilen isimdir.",
+          "rationale": "Bu, metinde belirtilen doğru tanımdır. Her Konyak bir Brandy'dir, ama her Brandy bir Konyak değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brandy yemekten önce, Konyak yemekten sonra içilir.",
+          "rationale": "Yanlış, ikisi de genellikle yemekten sonra 'dijestif' olarak içilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konyak ardıçtan, Brandy şeker kamışından yapılır.",
+          "rationale": "Yanlış, bunlar Cin ve Rom'un ham maddeleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aralarında hiçbir fark yoktur, eş anlamlıdırlar.",
+          "rationale": "Yanlış, coğrafi bir fark vardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "question": "'Mezkal' bitkisinden üretilen ve genellikle tuz-limon ile servis edilen içki hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Votka",
+          "rationale": "Tahıl/patatesten üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rom",
+          "rationale": "Şeker kamışından üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cin",
+          "rationale": "Ardıçtan üretilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tekila",
+          "rationale": "Metne göre 'Tekila (%40): \"Mezkal\" bitkisinden. Tuz ve limonla.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Likör",
+          "rationale": "Meyve/bitki + alkol + şeker şurubu ile yapılır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "question": "Yemekten sonra 'dijestif' (hazmettirici) olarak içilen içkiler hangileridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konyak (Brandy) ve Likör",
+          "rationale": "Metin, hem Konyak hem de Likör için 'Yemekten sonra dijestif' ifadesini kullanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bira ve Şarap",
+          "rationale": "Bunlar fermente içkilerdir ve genellikle yemekle birlikte içilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cin ve Votka",
+          "rationale": "Bunlar genellikle yemek öncesi (aperatif) veya kokteyllerde kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rakı ve Viski",
+          "rationale": "Rakı genellikle yemekle (meze), Viski ise tek başına veya yemekten sonra içilebilir ancak metindeki 'dijestif' tanımı Konyak/Likör içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece Konyak",
+          "rationale": "Eksik, likör de dijestif olarak belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "question": "'Talaş buzla' servis edilen liköre ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dijestif",
+          "rationale": "Bu, içilme zamanıdır (yemek sonrası).",
+          "isCorrect": false
+        },
+        {
+          "text": "Frappe",
+          "rationale": "Metne göre 'Frappe: Talaş buzla servis edilen likör.'",
+          "isCorrect": true
+        },
+        {
+          "text": "On the Rocks",
+          "rationale": "Bu, küp buzla servis demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Blend",
+          "rationale": "Bu bir kokteyl yapma tekniğidir (buzla karıştırma).",
+          "isCorrect": false
+        },
+        {
+          "text": "Konyak",
+          "rationale": "Bu farklı bir içkidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "question": "Konukların görmediği, sadece restoranlara servis veren bar çeşidine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Amerikan Bar",
+          "rationale": "Konuklara açıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lobby Bar",
+          "rationale": "Konuklara açıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis Bar",
+          "rationale": "Metne göre 'Servis Bar (Konukların görmediği, restoranlara servis veren bar)'.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pool Bar (Havuz Bar)",
+          "rationale": "Konuklara açıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Snack Bar",
+          "rationale": "Konuklara açıktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "question": "Barda içki miktarını ölçmek için kullanılan aletin adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Shaker",
+          "rationale": "Çalkalama kabıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mixing Glass",
+          "rationale": "Karıştırma bardağıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Strainer (Bar Süzgeci)",
+          "rationale": "Süzmek için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Blender",
+          "rationale": "Parçalayıcı/karıştırıcıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jigger (Shut/Bar Ölçeği)",
+          "rationale": "Metne göre 'Jigger (Shut/Bar Ölçeği): İçki miktarını ölçmek için.'",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "question": "Kokteyl yapımında kullanılan 'Shaker' (Çalkalama kabı) ile 'Mixing Glass' (Karıştırma bardağı) arasındaki temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Shaker ölçüm yapar, Mixing Glass çalkalar.",
+          "rationale": "Yanlış, Jigger ölçüm yapar. Shaker çalkalar, Mixing Glass karıştırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Shaker'a zor karışan (süt, krema) malzemeler girer; Mixing Glass'a şeffaf kalması istenen içkiler (Stir) girer.",
+          "rationale": "Bu, metindeki tekniklere (Shake vs Stir) dayalı doğru bir ayrımdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Shaker metaldir, Mixing Glass camdır.",
+          "rationale": "Bu genellikle doğrudur, ancak temel fark kullanım tekniğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Shaker'da buz kullanılmaz, Mixing Glass'ta buz kullanılır.",
+          "rationale": "Yanlış, her ikisinde de buz kullanılır (çalkalama veya karıştırma).",
+          "isCorrect": false
+        },
+        {
+          "text": "Mixing Glass, Shaker'ın içine giren bir parçadır.",
+          "rationale": "Yanlış, ayrı aletlerdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "question": "Hangi kokteyl yapma tekniği, 'Mixing Glass'ta karıştırma' olarak bilinir ve genellikle şeffaf kalması istenen içkiler (örn: Martini) için kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bardağında Yapma (Build)",
+          "rationale": "Bu, doğrudan servis bardağında yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mixing Glass'ta Karıştırma (Stir)",
+          "rationale": "Metne göre 'Mixing Glass'ta Karıştırma (Stir): Şeffaf kalması istenen içkiler (örn: Martini).' için kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Shaker'da Çalkalama (Shake)",
+          "rationale": "Bu, süt, krema gibi zor karışan malzemeler içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Blender'da Yapma (Blend)",
+          "rationale": "Bu, buzlu, püre (Frozen) kıvamındaki içkiler içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Frappe",
+          "rationale": "Bu, talaş buzla likör servisidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "question": "Süt, krema, yumurta gibi zor karışan malzemeler içeren kokteyller hangi teknikle yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bardağında Yapma (Build)",
+          "rationale": "Bu malzemeler bu teknikle karışmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mixing Glass'ta Karıştırma (Stir)",
+          "rationale": "Bu malzemeler bu teknikle yeterince karışmaz (çalkalamak gerekir).",
+          "isCorrect": false
+        },
+        {
+          "text": "Shaker'da Çalkalama (Shake)",
+          "rationale": "Metne göre 'Shaker'da Çalkalama (Shake): Süt, krema, yumurta gibi zor karışan malzemeler varsa.' kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Blender'da Yapma (Blend)",
+          "rationale": "Bu teknik de karıştırır ancak 'Shake' bu malzemeler için standart tekniktir. Blend, püre kıvamı içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jigger (Ölçme)",
+          "rationale": "Bu bir teknik değil, alettir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "question": "Buzlu, püre kıvamında (Frozen) içkiler hangi kokteyl yapma tekniği ile hazırlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bardağında Yapma (Build)",
+          "rationale": "Buzu püre haline getirmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mixing Glass'ta Karıştırma (Stir)",
+          "rationale": "Buzu püre haline getirmez, sadece soğutur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Shaker'da Çalkalama (Shake)",
+          "rationale": "Buzu püre haline getirmez, sadece soğutur ve sular.",
+          "isCorrect": false
+        },
+        {
+          "text": "Blender'da Yapma (Blend)",
+          "rationale": "Metne göre 'Blender'da Yapma (Blend): Buzlu, püre kıvamında (Frozen) içkiler.' için kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Strainer (Süzme)",
+          "rationale": "Bu bir teknik değil, alettir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "question": "Doğrudan servis bardağında yapılan (örn: Cin Tonik) basit kokteyl yapma tekniği hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bardağında Yapma (Build)",
+          "rationale": "Metne göre 'Bardağında Yapma (Build): Doğrudan servis bardağında (örn: Cin Tonik).' yapılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mixing Glass'ta Karıştırma (Stir)",
+          "rationale": "Bu ayrı bir kapta karıştırmayı gerektirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Shaker'da Çalkalama (Shake)",
+          "rationale": "Bu ayrı bir kapta çalkalamayı gerektirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Blender'da Yapma (Blend)",
+          "rationale": "Bu ayrı bir cihazda parçalamayı gerektirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jigger (Ölçme)",
+          "rationale": "Bu bir teknik değil, alettir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "question": "Bar açılış hazırlıkları (Mise en Place) arasında aşağıdakilerden hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Stok kontrolü yapmak.",
+          "rationale": "Metinde 'Açılışta stok kontrolü' yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eksikleri tamamlamak (depodan malzeme çekme).",
+          "rationale": "Metinde 'eksik tamamlama' yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meyve sularını hazırlamak ve buzları doldurmak.",
+          "rationale": "Metinde 'meyve sularını hazırlama, buzları doldurma' yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kasa raporu almak ve temizlik yapmak.",
+          "rationale": "Bu, 'Kapanışta' yapılan işlemlerdir, açılışta değil.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bardakları ve aletleri parlatmak.",
+          "rationale": "Bu, 'eksik tamamlama' ve genel hazırlık kapsamındadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "question": "Bar kapanış işlemleri arasında aşağıdakilerden hangisi bulunur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Stok kontrolü yapmak ve depodan malzeme çekmek.",
+          "rationale": "Bu, açılışta yapılan işlemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik yapmak, kalan malzemeleri saklamak ve kasa raporu almak.",
+          "rationale": "Metne göre 'Kapanışta temizlik, kalan malzemelerin saklanması, kasa raporu.' işlemleri yapılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Meyve sularını hazırlamak ve buzları doldurmak.",
+          "rationale": "Bu, açılışta yapılan işlemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kokteyl reçetelerini kontrol etmek.",
+          "rationale": "Bu, açılışta veya servis sırasında yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeni kokteyller denemek.",
+          "rationale": "Bu, kapanış işlemi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 91,
+      "question": "Servis görevlisinin nitelikleri arasında hangisi *sayılmamıştır*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çalışkan, dikkatli ve dürüst olmak.",
+          "rationale": "Metinde bu nitelikler sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güler yüzlü ve iş disiplinine sahip olmak.",
+          "rationale": "Metinde bu nitelikler sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel hijyenine dikkat eden ve soğukkanlı olmak.",
+          "rationale": "Metinde bu nitelikler sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "En az bir yabancı dil bilen ve sır saklayan olmak.",
+          "rationale": "Metinde bu nitelikler sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak konusunda en az şef kadar bilgili olmak.",
+          "rationale": "Metinde böyle bir nitelik sayılmamıştır. Garsonun mönü bilgisi olmalı, ancak 'şef kadar bilgili olmak' şartı yoktur.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 92,
+      "question": "Yiyecek-İçecek Bölümü'nün 'işletme yönünden önemi' nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Beslenme, dinlenme ve eğlenme ihtiyaçlarını karşılar.",
+          "rationale": "Bu, 'Konuk Yönünden' önemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesleki bilgi ve beceri, güler yüz ve kibarlık gerektirir.",
+          "rationale": "Bu, 'Personel Yönünden' önemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odalardan sonra en fazla gelir getiren bölümdür (%25-50).",
+          "rationale": "Bu, metindeki 'İşletme Yönünden' önem tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mönüleri hazırlar ve ziyafet emirleri hakkında bilgi alır.",
+          "rationale": "Bu, 'Mutfak ile İlişkisi'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel alanların temizliğini yapar.",
+          "rationale": "Bu, 'Kat Hizmetleri ile İlişkisi'dir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 93,
+      "question": "Kat Hizmetleri bölümünün Yiyecek-İçecek bölümü ile ilişkisi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuk sayısı ve kalkış bilgilerini bildirir.",
+          "rationale": "Bu, Önbüro'nun görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mönüleri hazırlar.",
+          "rationale": "Bu, Mutfak'ın görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bina ve teçhizatın bakımını yapar.",
+          "rationale": "Bu, Teknik Servis'in görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel alanların, kumaş malzemelerin ve üniformaların temizliğini yapar.",
+          "rationale": "Bu, metindeki Kat Hizmetleri'nin F&B ile olan ilişkisinin tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Politikaları uygular ve denetler.",
+          "rationale": "Bu, F&B Müdürü'nün görevidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 94,
+      "question": "Sos servisi için kullanılan ve genellikle alt tabağıyla taşınan porselen servis kabı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turen",
+          "rationale": "Bu, kapaklı çorba potudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fayans",
+          "rationale": "Bu, mutfaktan yiyecek taşımak için kullanılan büyük tabaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konsome Fincanı",
+          "rationale": "Bu, konsome içmek içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosiyer",
+          "rationale": "Metne göre 'Sosiyerler: Sos servisi için (alt tabakla taşınır).'",
+          "isCorrect": true
+        },
+        {
+          "text": "Pot (Kapaklı)",
+          "rationale": "Bu, çay veya kahve servisi içindir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 95,
+      "question": "Metal malzemelerden olan 'Balık Çatal-Bıçağı' hangi boy takıma girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Büyük Boy (Ana Yemek)",
+          "rationale": "Büyük boy ana yemek içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Orta Boy (Antre)",
+          "rationale": "Orta boy antre içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Küçük Boy (Tatlı)",
+          "rationale": "Küçük boy tatlı içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Özel bir takım olarak (Balık Çatal-Bıçağı)",
+          "rationale": "Metin, Büyük, Orta ve Küçük boyları saydıktan sonra 'Balık Çatal-Bıçağı'nı ayrı bir kategori olarak listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Servis Takımı",
+          "rationale": "Bu bir servis takımı değil, yemek takımıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 96,
+      "question": "Tepsi ile taşıma kuralı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sağ el üzerinde, omuz hizasında, vücuda yaslanarak.",
+          "rationale": "Yanlış, sol el ile taşınır ve vücuda yaslanmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sol el üzerinde, göğüs veya omuz hizasında, vücuda yaslanmaz.",
+          "rationale": "Bu, metinde belirtilen doğru taşıma kuralıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sağ el üzerinde, bel hizasında.",
+          "rationale": "Yanlış, sol el ve göğüs/omuz hizası.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sol el üzerinde, baş hizasında.",
+          "rationale": "Yanlış, göğüs veya omuz hizasında.",
+          "isCorrect": false
+        },
+        {
+          "text": "İki el ile önde tutularak.",
+          "rationale": "Yanlış, standart servis tekniği sol el üzerindedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 97,
+      "question": "Peçete katlama işlemi nerede ve nasıl yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konuğun önünde, masada yapılmalıdır.",
+          "rationale": "Yanlış, önceden hazırlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temiz elde, temiz yerde ve hijyen açısından basit katlama şekilleri tercih edilmelidir.",
+          "rationale": "Bu, metinde belirtilen doğru prosedürdür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mutfakta, gıdaların yanında yapılmalıdır.",
+          "rationale": "Yanlış, hijyenik değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mümkün olan en karmaşık ve gösterişli şekiller tercih edilmelidir.",
+          "rationale": "Yanlış, metin 'elle çok temas edilmeyen basit katlama şekilleri' tercih edilmeli der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servant içinde, servis anında katlanmalıdır.",
+          "rationale": "Yanlış, önceden hazırlanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 98,
+      "question": "Büfe servisi ile ilgili aşağıdakilerden hangisi söylenebilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yemekler masalarda sergilenir, konuk kendi seçer ve alır.",
+          "rationale": "Bu, büfe servisinin doğru tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yemekler garson tarafından masaya servis edilir.",
+          "rationale": "Bu, İngiliz veya Tabak servisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuk yemeğini tepsisine alır ve masasına götürür.",
+          "rationale": "Bu, 'Self Servis' olarak tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece Gala Büfesi ve Brunch Büfesi olarak iki çeşidi vardır.",
+          "rationale": "Yanlış, metin 'Kahvaltı Büfesi vb.' diyerek çeşitlerin daha fazla olduğunu belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Büfe servisinde sadece soğuk yemekler bulunur.",
+          "rationale": "Yanlış, Chafing Dish ve Bain Marie gibi ısıtıcılar sıcak yemeklerin de olduğunu gösterir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 99,
+      "question": "Ziyafet mönüleri hangi mönü tipinin özelliklerini taşır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "A'la Carte Mönü",
+          "rationale": "Yanlış, A'la Carte seçmelidir, ziyafetler ise sabittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Table d'Hote Mönü",
+          "rationale": "Metne göre 'Ziyafet Mönüleri: Table d'Hote mönü özelliklerini taşır' (sabit mönü, tek fiyat).",
+          "isCorrect": true
+        },
+        {
+          "text": "Supper Mönü",
+          "rationale": "Bu, gece geç saat mönüsüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brunch Mönü",
+          "rationale": "Bu, kahvaltı+öğle yemeği mönüsüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Klasik Mönü (14 çeşit)",
+          "rationale": "Yanlış, metin ziyafet mönülerinin 'en az 4 çeşit' olduğunu söyler.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 100,
+      "question": "Konuğa servis akışında, mönü takdiminden hemen sonra garsonun sorması gereken nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tatlı siparişi.",
+          "rationale": "Yanlış, tatlı ana yemekten sonra sorulur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hesabı nasıl ödeyeceği.",
+          "rationale": "Yanlış, bu en son yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aperatif (Yemek öncesi içki).",
+          "rationale": "Metne göre mönü takdiminden sonra 'Aperatif sorulur.'",
+          "isCorrect": true
+        },
+        {
+          "text": "Kahve veya çay.",
+          "rationale": "Bu, yemekten sonra (tatlıyla veya tatlıdan sonra) sorulur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su.",
+          "rationale": "Su servisi genellikle aperatifle birlikte veya hemen öncesinde yapılır, ancak ilk 'sorulan' aperatiftir.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

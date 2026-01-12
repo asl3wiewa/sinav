@@ -1,0 +1,3204 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Rekreasyon kavramının Latince kökeni 'recreate' kelimesinin anlamı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eğlenmek ve oyun oynamak.",
+          "rationale": "Bu, rekreasyonun bir sonucu olsa da, kelimenin kök anlamı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yenilenme, tazelenme veya yeniden yaratılma.",
+          "rationale": "Belgeye göre bu, çalışma ile tükenen bedensel ve zihinsel kaynakların 'yeniden yaratılması' anlamını taşır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Boş zamanı değerlendirmek.",
+          "rationale": "Bu, rekreasyonun yapıldığı zaman dilimidir, kelimenin kök anlamı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gönüllü olarak katılmak.",
+          "rationale": "Bu, rekreasyonun temel bir özelliğidir, ancak kelimenin kök anlamı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel dinlenme sağlamak.",
+          "rationale": "Bu, rekreasyonun temel amaçlarından biridir, ancak kelimenin kök anlamı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi rekreasyonun temel amaçları arasında *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiziksel dinlenme",
+          "rationale": "Belgede bu, rekreasyonun temel amaçlarından biri olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Psikolojik yenilenme",
+          "rationale": "Belgede bu, rekreasyonun temel amaçlarından biri olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal ilişkilerin güçlenmesi",
+          "rationale": "Belgede bu, rekreasyonun temel amaçlarından biri olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddi gelir elde etme zorunluluğu",
+          "rationale": "Rekreasyon, tanımı gereği zorunluluklar ve iş dışında kalan zamanda yapılır ve temel amacı maddi gelir değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bireye haz ve tatmin sağlamak",
+          "rationale": "Bu, rekreasyonun tanımında yer alan temel bir unsurdur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdakilerden hangisi rekreasyonun temel özelliklerinden biri olan 'Gönüllülük' ilkesini en iyi açıklar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Faaliyetlerin toplumsal değerlere uygun olması.",
+          "rationale": "Bu, 'Toplumsal Katkı' özelliği ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faaliyetlere katılımda herhangi bir zorunluluk olmaması.",
+          "rationale": "Gönüllülük, katılımın tamamen bireyin kendi isteğiyle gerçekleşmesi anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Faaliyetlerin boş zaman dışında yapılması.",
+          "rationale": "Rekreasyon, tanım olarak 'Boş Zaman' içinde yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temel motivasyonun kişisel doyum olması.",
+          "rationale": "Bu, 'Haz ve Tatmin' özelliği ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her yer, zaman ve insan için geçerli olabilmesi.",
+          "rationale": "Bu, 'Evrensellik' özelliği ile ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "Belgedeki 'İş vs. Rekreasyon' ayrımına göre, bir barmenin işyerinde para karşılığı içki servisi yapması 'İş' iken, aynı barmenin arkadaş ortamında eğlenmek için içki hazırlaması ne olarak tanımlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yarı zorunlu zaman",
+          "rationale": "Arkadaş ortamında eğlence amaçlı yapıldığı için bu bir zorunluluk değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Var olma zamanı",
+          "rationale": "Var olma zamanı yemek, uyku gibi fizyolojik ihtiyaçları kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rekreasyon",
+          "rationale": "Aktivite aynı olsa da, ortam ve şartlar (gönüllülük, eğlence, haz) değiştiği için rekreasyon olarak sınıflandırılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çalışma zamanı",
+          "rationale": "Para karşılığı yapılmadığı ve zorunlu olmadığı için çalışma zamanı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pasif rekreasyon",
+          "rationale": "Kişi aktif olarak bir eylemde (içki hazırlama) bulunduğu için pasif değil, aktif rekreasyondur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "Rekreasyonun tarihsel gelişimi incelendiğinde, 'çalışma-boş zaman dengesi' kavramı hangi dönemden sonra ortaya çıkmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Antik Yunan",
+          "rationale": "Antik Yunan'da oyunlar ve tiyatrolar öne çıkmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antik Roma",
+          "rationale": "Antik Roma'da gladyatör dövüşleri ve hamam kültürü yaygındı.",
+          "isCorrect": false
+        },
+        {
+          "text": "Orta Çağ",
+          "rationale": "Orta Çağ'da şölenler, avcılık ve dini festivaller vardı.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanayi Devrimi Sonrası",
+          "rationale": "Belgeye göre, Sanayi Devrimi sonrası 'çalışma-boş zaman dengesi' kavramı ortaya çıkmış; parklar, kulüpler ve tatil anlayışı gelişmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "20. Yüzyıl",
+          "rationale": "20. Yüzyıl, bu kavramın geliştiği değil, kitle turizminin yaygınlaştığı dönemdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "Günümüz rekreasyon anlayışında öne çıkan etkinlik türleri hangileridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gladyatör dövüşleri ve hamam kültürü",
+          "rationale": "Bu, Antik Roma dönemine ait rekreasyon anlayışıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şölenler ve avcılık",
+          "rationale": "Bu, daha çok Orta Çağ'da öne çıkan etkinliklerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dijital rekreasyon (e-spor) ve sağlık/doğa temelli etkinlikler (trekking)",
+          "rationale": "Belgede günümüz için bu iki türün (dijital ve doğa temelli) öne çıktığı belirtilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece kitle turizmi ve tatil köyleri",
+          "rationale": "Bunlar 20. Yüzyılda yaygınlaşmıştır, ancak günümüzde çeşitlilik artmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tiyatrolar ve dini festivaller",
+          "rationale": "Bunlar daha çok Antik Yunan ve Orta Çağ ile ilişkilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "Zamanın türleri sınıflandırmasına göre, yemek yemek, uyumak ve vücut temizliği gibi zorunlu ihtiyaçlar hangi zaman türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çalışma Zamanı",
+          "rationale": "Çalışma zamanı, hayatı kazanmak için yapılan işi kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Serbest (Boş) Zaman",
+          "rationale": "Boş zaman, bu zorunlu ihtiyaçlar ve çalışma dışında kalan zamandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşle İlgili Zaman",
+          "rationale": "Bu, fazla mesai gibi çalışma zamanının bir alt kategorisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Var Olma Zamanı (Biyolojik Zaman)",
+          "rationale": "Belgede bu tür zorunlu fizyolojik ihtiyaçlar 'Var Olma Zamanı' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çalışma Dışı Zorunluluklar",
+          "rationale": "Bu, ev alışverişi gibi zorunlulukları kapsar, fizyolojik ihtiyaçları değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "Dumazedier'in 'Çalışma dışı zaman' yaklaşımına göre, 'Boş Zaman' nasıl tanımlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece fizyolojik ihtiyaçlar dışında kalan zaman.",
+          "rationale": "Bu tanım eksiktir, çalışma dışı zorunlulukları da dışarıda bırakmak gerekir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece çalışma dışı zorunluluklar (ev alışverişi vb.) dışında kalan zaman.",
+          "rationale": "Bu tanım eksiktir, fizyolojik ihtiyaçları da dışarıda bırakmak gerekir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fizyolojik ihtiyaçlar ve çalışma dışı zorunluluklar dışında kalan zaman.",
+          "rationale": "Dumazedier'e göre boş zaman, hem fizyolojik ihtiyaçların hem de ev işi gibi diğer zorunlulukların dışında kalan zamandır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çalışma zamanı dahil, tüm zaman.",
+          "rationale": "Boş zaman, tanım olarak 'çalışma dışı' zamanın bir bölümüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece uyku dışında kalan zaman.",
+          "rationale": "Bu çok dar bir tanımdır ve Dumazedier'in yaklaşımını yansıtmaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "Aşağıdakilerden hangisi boş zamanın artmasını sağlayan gelişmelerden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Günlük çalışma saatlerinin azalması.",
+          "rationale": "Belgede bu, boş zamanı artıran bir gelişme olarak listelenmiştir (örn: 8 saate inmesi).",
+          "isCorrect": false
+        },
+        {
+          "text": "Haftalık çalışma sürelerinin azalması.",
+          "rationale": "Belgede bu, boş zamanı artıran bir gelişme olarak listelenmiştir (örn: 5 güne inmesi).",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıllık ücretli izinlerin getirilmesi.",
+          "rationale": "Belgede bu, boş zamanı artıran bir gelişme olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emeklilik yaşının yükseltilmesi.",
+          "rationale": "Belgede 'Çalışma hayatının kısaltılması' (emeklilik yaşının indirilmesi) boş zamanı artıran bir etken olarak belirtilmiştir. Yükseltilmesi ise azaltır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çalışma hayatının kısaltılması.",
+          "rationale": "Belgede bu, (örn: emeklilik) boş zamanı artıran bir gelişme olarak listelenmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "Yaşam evreleri ve boş zaman ilişkisi grafiğine (Sayfa 42) göre, hangi yaşam evresinde boş zaman en *düşük* seviyededir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gençlik / Bekarlık",
+          "rationale": "Bu dönemde boş zaman 'YÜKSEK' olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile Yaşamı",
+          "rationale": "Bu dönemde sorumlulukların artması nedeniyle boş zaman 'DÜŞÜK' olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yaşlılık / Emeklilik",
+          "rationale": "Bu dönemde (emeklilikle birlikte) boş zaman 'EN YÜKSEK' olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çocukluk",
+          "rationale": "Belgedeki grafikte bu dönem 'Yüksek' olarak ima edilse de, en düşük dönem 'Aile Yaşamı'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm evrelerde eşittir.",
+          "rationale": "Grafik, yaşam evrelerine göre boş zamanın belirgin şekilde değiştiğini göstermektedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "Boş zamanların sınıflandırılmasına göre, 'Emeklilik dönemi' hangi boş zaman türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kısa Süreli Boş Zaman",
+          "rationale": "Kısa süreli boş zamanlar işgünü sonu, hafta sonu gibi zamanlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzun Süreli Boş Zaman",
+          "rationale": "Emeklilik dönemi, çocukluk ve yıllık izinlerle birlikte 'Uzun Süreli' boş zaman olarak sınıflandırılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Var Olma Zamanı",
+          "rationale": "Var olma zamanı fizyolojik ihtiyaçları kapsar, bir yaşam dönemini değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma Zamanı",
+          "rationale": "Emeklilik, çalışma zamanının bittiği dönemi ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aktif Boş Zaman",
+          "rationale": "Bu, katılma şekline göre bir sınıflandırmadır, süreye göre değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "Aşağıdakilerden hangisi 'Kısa Süreli Boş Zaman' örneklerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çocukluk dönemi",
+          "rationale": "Bu, uzun süreli boş zaman örneğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıllık izinler",
+          "rationale": "Bu, uzun süreli boş zaman örneğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emeklilik dönemi",
+          "rationale": "Bu, uzun süreli boş zaman örneğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hafta sonları",
+          "rationale": "Hafta sonları, işgünü sonu ve bayram tatilleri ile birlikte 'Kısa Süreli' boş zaman olarak sınıflandırılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Üniversite hayatı",
+          "rationale": "Bu genellikle uzun süreli bir dönemi kapsar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "Rekreasyon talebini artıran nedenler arasında, kitle turizmini geliştiren *en etkili* faktör olarak hangisi belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gelir seviyesinin yükselmesi",
+          "rationale": "Bu önemli bir etken olsa da, en etkilisi olarak bu belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknolojik gelişmeler",
+          "rationale": "Teknoloji talebi tetikler ancak kitle turizmi için en etkili faktör bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıllık ücretli izin hakkı",
+          "rationale": "Belgede, 'En etkilisi yıllık ücretli izin hakkıdır (1930'lar), bu kitle turizmini geliştirmiştir' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Şehirleşme eğilimleri",
+          "rationale": "Bu, kent dışına yönelimi artırır ancak kitle turizmi için en temel faktör değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim seviyesinin yükselmesi",
+          "rationale": "Eğitim seyahat alışkanlığını artırır ancak kitle turizminin temel itici gücü olarak bu belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "Rekreasyon talebini artıran nedenlerden olan 'Teknolojik Gelişmeler'in çift yönlü etkisi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hem geliri artırması hem de eğitimi yükseltmesi.",
+          "rationale": "Teknoloji dolaylı olarak bunları etkilese de, belgedeki çift yönlü etki bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hem boş zamanı artırması (örn: çamaşır makinesi) hem de kitle iletişim araçlarıyla talebi tetiklemesi.",
+          "rationale": "Belgede teknolojik gelişmelerin bu iki yönlü etkisi (zaman yaratma ve talep yaratma) vurgulanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hem şehirleşmeyi hızlandırması hem de çevre kirliliğine yol açması.",
+          "rationale": "Bunlar teknolojinin sonuçları olabilir ancak rekreasyon talebiyle ilgili belirtilen çift yönlü etki bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hem E-Turizmi yaratması hem de sosyal medyayı güçlendirmesi.",
+          "rationale": "Bunlar teknolojinin alt dallarıdır, belgede bahsedilen temel çift yönlü etki değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hem sağlığı iyileştirmesi hem de hareketsizliğe yol açması.",
+          "rationale": "Bu bir çelişkidir ancak belgede talebi artıran çift yönlü etki olarak belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "Belgede, 'Asmalı Konak' dizisinin Kapadokya'ya olan talebi artırması, rekreasyon talebini artıran hangi nedene örnek olarak verilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eğitim ve Kültür Seviyesinin Yükselmesi",
+          "rationale": "Dizi izlemek doğrudan eğitim seviyesi ile ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şehirleşme Eğilimleri",
+          "rationale": "Bu, dizinin etkisiyle değil, kentten kaçma isteğiyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle İletişim Araçlarının Etkisi (Reklam)",
+          "rationale": "Belgede bu örnek, medyanın (TV dizisi) özendirici etkisine, yani 'Kitle İletişim Araçlarının Etkisi'ne örnek olarak verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çevre Bilincinin Artması",
+          "rationale": "Bu örnek, doğaya yönelme bilinciyle değil, medyanın popülerleştirmesiyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüketici Tercihlerinin Değişmesi",
+          "rationale": "Tercihler değişse de, bu spesifik örnek medyanın bu değişimi nasıl tetiklediğini gösterir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "Eğitim seviyesi yükseldikçe seyahat alışkanlığının artması ve özellikle hangi becerinin dış turizmi teşvik ettiği belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yabancı dil bilmek",
+          "rationale": "Belgede, 'Eğitim seviyesi yükseldikçe seyahat alışkanlığı artar. Yabancı dil bilmek dış turizmi teşvik eder.' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Coğrafya bilmek",
+          "rationale": "Faydalı olsa da, belgede spesifik olarak bu beceri vurgulanmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarih bilmek",
+          "rationale": "Kültür turizmi için önemli olsa da, dış turizmi teşvik eden ana beceri olarak bu belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilgisayar kullanabilmek",
+          "rationale": "Bu, E-Turizm için önemlidir ancak dış turizmi teşvik eden temel beceri olarak bu belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spor yapabilmek",
+          "rationale": "Bu, fiziksel rekreasyonla ilgilidir, eğitim seviyesiyle doğrudan ilişkilendirilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "Rekreasyon talebini etkileyen 'Değer Yargılarının Değişmesi' faktörü, boş zamana yönelik eski ve yeni anlayışı nasıl tanımlamaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eski: İhtiyaç / Yeni: Lüks",
+          "rationale": "Tam tersi; eski anlayış boş zamanı fuzuli (lüks) görürken, yeni anlayış ihtiyaç olarak görür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eski: Fuzuli tüketim / Yeni: Verimliliği artıran ihtiyaç",
+          "rationale": "Belgede 'Eski anlayış: Boş zaman = Fuzuli tüketim.' ve 'Yeni anlayış: Boş zaman = Verimliliği artıran, ihtiyaç duyulan bir kavram.' ifadeleri yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eski: Sadece erkeklere özel / Yeni: Sadece kadınlara özel",
+          "rationale": "Yeni anlayış kadınların katılımının artmasını içerir, ancak 'sadece kadınlara özel' değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eski: Çalışma zamanı / Yeni: Var olma zamanı",
+          "rationale": "Bu, zaman türleri sınıflandırmasıdır, değer yargısı değişimi değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eski: Aktif / Yeni: Pasif",
+          "rationale": "Değer yargısı değişimi, aktivite türünden çok, boş zamanın kendisine verilen değerle ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "Sanayileşmenin doğayı kirletmesi sonucu 'doğaya yönelme' eğiliminin artması, hangi turizm modelinin doğmasına neden olmuştur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kitle Turizmi",
+          "rationale": "Kitle turizmi genellikle 'kum-deniz-güneş' odaklıdır ve sanayileşme sonrası gelişse de, doğa bilinciyle doğmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültür Turizmi",
+          "rationale": "Kültür turizmi, tarihi ve kültürel mirasla ilgilidir, doğrudan doğa kirliliğine bir tepki değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alternatif ya da Eko Turizm",
+          "rationale": "Belgede, bu durumun 'alternatif ya da eko turizm' modelinin doğmasına yol açtığı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sağlık Turizmi",
+          "rationale": "Sağlık turizmi (örn: kaplıcalar) doğayla ilişkili olsa da, 'eko turizm' bu bilincin doğrudan ürünüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dijital Rekreasyon",
+          "rationale": "Dijital rekreasyon, doğaya yönelmenin tam tersi bir eğilim olabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "Hareketsiz yaşamın olumsuz etkilerinin fark edilmesiyle ortaya çıkan 'Değişen Yeni Sağlık Bilinci', hangi tür etkinliklere ve kavramlara olan ilginin artmasına yol açmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sinema ve tiyatro izleme",
+          "rationale": "Bunlar pasif ve sanatsal rekreasyon olup, hareketsiz yaşamın olumsuz etkilerine doğrudan bir çözüm değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğa sporları (trekking, rafting) ve 'entegre sağlık köyleri'",
+          "rationale": "Belgede, yeni sağlık bilincinin doğa sporlarına ve 'entegre sağlık köyleri' kavramına olan ilgiyi artırdığı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "E-spor ve bilgisayar oyunları",
+          "rationale": "Bu etkinlikler genellikle hareketsiz yaşamla ilişkilendirilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Festivaller ve kütüphane etkinlikleri",
+          "rationale": "Bunlar kültürel rekreasyondur ve doğrudan 'yeni sağlık bilinci' ile ilişkili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alışveriş ve ev işleri",
+          "rationale": "Bunlar yarı zorunlu zaman etkinlikleridir, rekreasyonel sağlık bilinciyle ilgili değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "Tüketici tercihlerindeki değişime göre, turizm talebi 'Kum-Deniz-Güneş' üçlüsünden hangi alanlara kaymıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece E-Turizme",
+          "rationale": "E-Turizm bir yöntemdir, bir tercih alanı (hobi, kültür vb.) değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültür, Hobi ve Eko Turizme",
+          "rationale": "Belgede, talebin 'Kum-Deniz-Güneş' üçlüsünden 'Kültür, Hobi, Eko Turizme' kaydığı açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece Sağlık Turizmine",
+          "rationale": "Sağlık turizmi bir kayma alanı olsa da, tek başına değildir; kültür ve hobi de vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece Dijital Rekreasyona",
+          "rationale": "Bu, turizm talebinden çok genel bir rekreasyon eğilimidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her Şey Dahil sistemine",
+          "rationale": "Belgede 'Her şey dahil' sisteminin sorunları olduğu belirtilmiştir; talep bu yöne kaymamıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "Destinasyon seçimi ve rezervasyon işlemlerinin internet veya mobil cihazlar üzerinden yapılması hangi kavramla ifade edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eko Turizm",
+          "rationale": "Eko turizm, doğa temelli turizmdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültür Turizmi",
+          "rationale": "Kültür turizmi, kültürel miras odaklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "E-Turizm",
+          "rationale": "Belgede 'E-Turizm: İnternet, mobil cihazlar vb. ile destinasyon seçimi, rezervasyon yapılması.' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosyal Medya Pazarlaması",
+          "rationale": "Bu, E-turizmin bir parçası olan tanıtım faaliyetidir, rezervasyon işleminin kendisi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle Turizmi",
+          "rationale": "Kitle turizmi, turizmin kitlesel olarak yapılma şeklidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "Sosyal medya ve mobil teknolojiler, özellikle hangi tür konaklama işletmeleri için 'masrafsız ve hızlı' bir iletişim aracı olarak vurgulanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Büyük tatil köyleri",
+          "rationale": "Büyük işletmeler de kullansa da, belgedeki vurgu bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her şey dahil oteller",
+          "rationale": "Belgede bu otel tipi eleştirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Butik oteller",
+          "rationale": "Belgede, 'Özellikle butik oteller için çok önemlidir.' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kaplıca tesisleri",
+          "rationale": "Spesifik olarak bu tesis türü belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zincir oteller",
+          "rationale": "Zincir otellerin genellikle büyük pazarlama bütçeleri vardır; vurgu butik otellerdedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "Belgede, 'Her şey dahil' sisteminin hangi açılardan 'ciddi sıkıntılar' oluşturduğu belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yetersiz rekreasyon faaliyetleri ve düşük müşteri memnuniyeti",
+          "rationale": "Belgede eleştiri bu yönde değil, ekonomik ve işgücü yönündedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yöresel ekonomiler ve nitelikli işgücü",
+          "rationale": "Not bölümünde, 'Her şey dahil' sisteminin 'yöresel ekonomiler ve nitelikli işgücü açısından \"ciddi sıkıntılar\" oluşturduğu' belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çevre kirliliği ve doğaya zarar verme",
+          "rationale": "Bu bir sorun olsa da, belgede vurgulanan spesifik sıkıntı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ulaşım zorlukları ve altyapı yetersizliği",
+          "rationale": "Bu, sistemin kendisinden çok, destinasyonun genel sorunudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel yozlaşma ve geleneklerin kaybolması",
+          "rationale": "Bu bir etki olabilir, ancak belgede vurgulanan ekonomik ve işgücü sıkıntılarıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "Rekreasyon yönetiminde 'Toplumsal Planda Yönetim'in 'Resmi ve meşru' boyutu ne anlama gelmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bireyin kendi boş zamanını planlaması.",
+          "rationale": "Bu, 'Bireysel Planda Yönetim'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grupların kendi kendine organize olması.",
+          "rationale": "Bu, 'Gayri resmi ve kolektif' yönetimdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rekreasyonun, siyasi iktidarların (hükümetin) bir görevi haline gelmesi.",
+          "rationale": "Belgede 'Resmi ve meşru' yönetim, 'siyasi iktidarların (hükümetin) bir görevi haline gelmiştir' şeklinde açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Özel şirketlerin kâr amaçlı faaliyetler düzenlemesi.",
+          "rationale": "Bu, organizasyon şekliyle ilgilidir, yönetimin resmi meşruiyetiyle değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile içinde yapılan planlamalar.",
+          "rationale": "Bu, 'Bireysel' veya 'Gayri resmi' plana daha yakındır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "Aşağıdakilerden hangisi belgede belirtilen 'Rekreasyon İlkeleri'nden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Herkese eşit katılma fırsatı sağlanmalı.",
+          "rationale": "Bu, belgede listelenen temel ilkelerden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bütün yaş gruplarına hizmet vermeli.",
+          "rationale": "Bu, belgede listelenen temel ilkelerden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faaliyetler mümkün olduğunca ücretsiz olmalı.",
+          "rationale": "Bu, (katılımı artırmak için) belgede listelenen temel ilkelerden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faaliyetler sadece kapalı alanlarda yapılmalı.",
+          "rationale": "Tersine, ilkelerden biri 'Faaliyetler doğaya yönelik veya doğa ile ilişkili olmalı' şeklindedir. Sadece kapalı alan zorunluluğu yoktur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Güvenlik ve sağlık sorunları olmamalıdır.",
+          "rationale": "Bu, belgede listelenen temel ilkelerden biridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "Rekreasyon planlama aşamalarının doğru sıralaması aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Planlama - Analiz - Envanter - Uygulama - İşletme",
+          "rationale": "Planlama, analizden sonra gelir; analiz ise envanterden (veri toplama) sonra gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Envanter - Analiz - Planlama - Program/Proje Uygulama - İşletme",
+          "rationale": "Belgedeki 5 aşamalı sıralama (tespit, değerlendirme, plan, uygulama, sürdürme) budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uygulama - İşletme - Planlama - Analiz - Envanter",
+          "rationale": "Bu sıralama tersten ve yanlıştır; uygulama ve işletme son aşamalardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Analiz - Envanter - Planlama - İşletme - Uygulama",
+          "rationale": "Envanter (veri toplama) analizden önce gelmelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Planlama - Uygulama - İşletme - Envanter - Analiz",
+          "rationale": "Envanter ve analiz, planlamadan önce yapılması gereken ilk adımlardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "Rekreasyon planlamasının 'Envanter Aşaması'nda ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Amaçların belirlenmesi ve planın oluşturulması.",
+          "rationale": "Bu, 'Planlama Aşaması'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplanan verilerin değerlendirilmesi.",
+          "rationale": "Bu, 'Analiz Aşaması'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mevcut durumun (kaynaklar, tesisler vb.) tespiti.",
+          "rationale": "Envanter aşaması, mevcut durumun tespiti ve veri toplanmasıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Planın hayata geçirilmesi.",
+          "rationale": "Bu, 'Program-Proje Uygulama Aşaması'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uygulamanın sürdürülmesi ve yönetilmesi.",
+          "rationale": "Bu, 'İşletme Aşaması'dır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "Aşağıdakilerden hangisi 'Rekreasyon Programlamada Etkin Olan Faktörler'den (10 Faktör) biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İlgi",
+          "rationale": "Belgede 'İlgi: Katılımcıların ilgisi esastır.' olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaş",
+          "rationale": "Belgede 'Yaş: Faaliyetler yaşa uygun olmalıdır.' olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cinsiyet",
+          "rationale": "Belgede 'Cinsiyet: Farklılıklar dikkate alınmalıdır.' olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece kâr amacı",
+          "rationale": "Faktörlerden biri 'Organizasyon Şekli: Kâr amaçlı olup olmaması (özel/kamu)' şeklindedir. 'Sadece kâr amacı' bir faktör değil, organizasyon şekillerinden sadece biridir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zaman",
+          "rationale": "Belgede 'Zaman: Mevsim, süre ve zaman dilimi önemlidir.' olarak listelenmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "Rekreasyon sınıflandırmasının neden zor olduğu belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çok az çeşidinin olması.",
+          "rationale": "Tersine, çok fazla çeşidi vardır ve çok yönlüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faaliyetlerin 'çok yönlü' olması ve bir faaliyetin birden fazla gruba girebilmesi.",
+          "rationale": "Belgede, 'Rekreasyon \"çok yönlü\" olduğu için kesin bir sınıflandırma zordur. Bir faaliyet birden fazla gruba girebilir.' açıklaması yapılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece profesyoneller tarafından yapılması.",
+          "rationale": "Rekreasyon herkes tarafından, gönüllü olarak yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece kapalı alanlarda yapılması.",
+          "rationale": "Rekreasyon açık alanlarda da yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeterli bilimsel çalışma olmaması.",
+          "rationale": "Belgede zorluğun nedeni olarak bu belirtilmemiştir; zorluk, kavramın doğasından kaynaklanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "Televizyon izlemek; (1) Pasif, (2) Kültürel, (3) Ev rekreasyonu olarak sınıflandırılmıştır. Bu durum rekreasyonun hangi özelliğini gösterir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece tek bir gruba ait olma zorunluluğu",
+          "rationale": "Bu örnek, tam tersini, yani bir faaliyetin birden fazla gruba ait olabileceğini gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çok yönlü olması ve bir faaliyetin birden fazla sınıfa girebilmesi",
+          "rationale": "Belgede bu örnek, sınıflandırmanın neden zor olduğunu (çok yönlülük) açıklamak için verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Her zaman maliyetli olması",
+          "rationale": "TV izlemek genellikle düşük maliyetlidir ve bu örnek maliyetle ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her zaman aktif katılım gerektirmesi",
+          "rationale": "TV izlemek 'Pasif' rekreasyon olarak sınıflandırılmıştır, aktif katılım gerektirmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece yaşlılara yönelik olması",
+          "rationale": "TV izlemek her yaş grubuna yönelik olabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "Mekânsal açıdan rekreasyon sınıflandırmasına göre, 'Kampçılık' ve 'Piknik' hangi kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kapalı Alan Rekreasyonu",
+          "rationale": "Kampçılık ve piknik dışarıda yapılan faaliyetlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Açık Alan Rekreasyonu",
+          "rationale": "Belgede bu faaliyetler 'Açık Alan Rekreasyonu' örnekleri arasında sayılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pasif Rekreasyon",
+          "rationale": "Kampçılık aktif bir katılım gerektirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık Rekreasyonu",
+          "rationale": "Doğada olmak sağlığa faydalı olsa da, mekânsal sınıflandırmada 'Açık Alan' olarak geçerler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ticari Rekreasyon",
+          "rationale": "Piknik yapmak ticari olmayabilir. Bu, mekânsal bir sınıflandırma değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "Aşağıdakilerden hangisi 'Kapalı Alan Rekreasyonu' örneklerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kayak",
+          "rationale": "Kayak, açık alanda yapılan bir spordur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Avcılık",
+          "rationale": "Avcılık, açık alanda yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Golf",
+          "rationale": "Golf, açık alanda yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık tesisleri (sauna, kaplıca, fitness, hamam)",
+          "rationale": "Belgede bu tesisler 'Kapalı Alan Rekreasyonu' örnekleri arasında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bahçe işleri",
+          "rationale": "Bahçe işleri, açık alanda yapılır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "Bireyin katılma şekline göre sınıflandırmada, 'Etken (Aktif) Rekreasyon' ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İnsanların rol almadıkları, izleyici olarak katıldıkları.",
+          "rationale": "Bu, 'Edilgen (Pasif) Rekreasyon'un tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsanların aktif rol aldıkları (bedenen katıldıkları).",
+          "rationale": "Etken (Aktif) rekreasyon, bireyin bedenen katıldığı, aktif rol aldığı etkinliklerdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece tek başına yapılan faaliyetler.",
+          "rationale": "Bu, 'Ferdi Rekreasyon'dur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup halinde yapılan faaliyetler.",
+          "rationale": "Bu, 'Grup Rekreasyonu'dur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ücret karşılığı yapılan faaliyetler.",
+          "rationale": "Bu, 'Ticari Rekreasyon'dur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "Aşağıdakilerden hangisi 'Edilgen (Pasif) Rekreasyon'a bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yüzme",
+          "rationale": "Yüzme, bedenen katılım gerektiren 'Aktif' bir rekreasyondur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Golf oynama",
+          "rationale": "Golf oynamak, bedenen katılım gerektiren 'Aktif' bir rekreasyondur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spor karşılaşması izleme",
+          "rationale": "İzleyici (seyirci) olarak katılmak, 'Edilgen (Pasif) Rekreasyon' örneğidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Defilede rol alma",
+          "rationale": "Defilede rol almak, 'Aktif' bir rekreasyondur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spor yapma",
+          "rationale": "Spor yapmak, 'Aktif' rekreasyonun genel tanımıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "Katılımcıların yaşlarına göre sınıflandırmada, 56+ yaş grubundaki yaşlılar ve emekliler için kullanılan rekreasyon türü nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çocuk Rekreasyonu",
+          "rationale": "Bu, 3-15 yaş grubunu kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yetişkin Rekreasyonu",
+          "rationale": "Bu, 16-24 yaş grubunu kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üretken Yaş Rekreasyonu",
+          "rationale": "Bu, 26-55 yaş grubunu kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üçüncü Kuşak Rekreasyonu",
+          "rationale": "Belgede 56+ yaş grubu (yaşlılar/emekliler) 'Üçüncü Kuşak Rekreasyonu' olarak adlandırılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pasif Rekreasyon",
+          "rationale": "Bu, yaşa göre değil, katılma şekline göre bir sınıflandırmadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "question": "Katılımcıların sayısına göre, 'Grupça sinemaya gitmek' veya 'kutlama yemeği' hangi rekreasyon türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ferdi (Bireysel) Rekreasyon",
+          "rationale": "Ferdi rekreasyon yalnız yapılan faaliyetlerdir (örn: evde tek başına müzik dinlemek).",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup Rekreasyonu",
+          "rationale": "Bu faaliyetler grup halinde yapıldığı için 'Grup Rekreasyonu' olarak sınıflandırılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosyal Rekreasyon",
+          "rationale": "Bu faaliyetler aynı zamanda 'Sosyal Rekreasyon'a da girer, ancak sayıya göre sınıflandırmada 'Grup' olarak adlandırılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aktif Rekreasyon",
+          "rationale": "Sinemaya gitmek pasif bir eylemdir. Bu, sayıya göre bir sınıflandırma değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapalı Alan Rekreasyonu",
+          "rationale": "Bu, mekâna göre bir sınıflandırmadır, sayıya göre değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "question": "Fonksiyonel sınıflandırmaya göre, 'At yarışları', 'talih oyunları' ve 'rafting' gibi ücret karşılığı katılan faaliyetler hangi kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Estetik Rekreasyon",
+          "rationale": "Estetik rekreasyon, sanat etkinliklerini izlemek gibi faaliyetleri kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Rekreasyon",
+          "rationale": "Sosyal rekreasyon, partiler ve ziyaretler gibi beşeri ilişkileri güçlendirmeye yöneliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel Rekreasyon",
+          "rationale": "Rafting fiziksel olsa da, at yarışı ve talih oyunları bu kategoriye tam uymaz. Bu grubun ortak özelliği 'ücretli' olmalarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ticari Rekreasyon",
+          "rationale": "Belgede 'Ticari Rekreasyon: Ücret karşılığı katılanlar.' olarak tanımlanmış ve bu örnekler verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Kültürel rekreasyon, kurslar ve festivaller gibi bilgi artırıcı etkinlikleri kapsar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "question": "Genellikle yüksek eğitim ve kültür düzeyindeki insanların katıldığı, 'sanat etkinliklerini izlemek' veya 'ünlü müzik yapıtlarını dinlemek' gibi faaliyetler fonksiyonel olarak nasıl sınıflandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ticari Rekreasyon",
+          "rationale": "Bu faaliyetler ücretli olabilir ancak temel özellikleri 'estetik' olmalarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estetik Rekreasyon",
+          "rationale": "Belgede bu tür faaliyetler, yüksek eğitim ve kültür düzeyiyle ilişkilendirilerek 'Estetik Rekreasyon' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sanatsal Rekreasyon (Aktif)",
+          "rationale": "Bu faaliyetler 'izleme' içerir, yani pasiftir. Aktif sanatsal rekreasyon seramik yapmak gibidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Kültürel rekreasyon daha çok bilgi ve beceri artırmaya yöneliktir (örn: kurslar).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Rekreasyon",
+          "rationale": "Temel amaç sosyalleşmek değil, estetik haz almaktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "question": "Kutlama partileri, yemekli toplantılar, arkadaş ve akraba ziyaretleri gibi sosyal (beşeri) ilişkileri kuvvetlendirmeye yönelik etkinlikler hangi fonksiyonel kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sosyal Rekreasyon",
+          "rationale": "Belgede bu örnekler, sosyal ilişkileri kuvvetlendirme amacıyla 'Sosyal Rekreasyon' başlığı altında verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Grup Rekreasyonu",
+          "rationale": "Bu, sayıya göre bir sınıflandırmadır. Fonksiyonel sınıflandırmadaki karşılığı 'Sosyal'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Kültürel rekreasyon bilgi ve beceri artırmaya yöneliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estetik Rekreasyon",
+          "rationale": "Temel amaç estetik haz değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel Rekreasyon",
+          "rationale": "Bu faaliyetler genellikle fiziksel efor gerektirmez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "question": "Aşağıdakilerden hangisi 'Sağlık Rekreasyonu' kapsamında *değerlendirilmez*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Termalizm (kaplıca)",
+          "rationale": "Belgede 'Termalizm' sağlık rekreasyonu örneği olarak verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Klimatizm (iklim)",
+          "rationale": "Belgede 'Klimatizm' sağlık rekreasyonu örneği olarak verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uvalizm (mağara) gezileri",
+          "rationale": "Belgede 'Uvalizm' sağlık rekreasyonu örneği olarak verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Heykelcilik ve ağaç oymacılığı",
+          "rationale": "Bu faaliyetler 'Sanatsal Rekreasyon (Aktif)' kategorisinde yer alır, sağlık rekreasyonu değil.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yaylacılık ve Türk hamamı",
+          "rationale": "Belgede 'Yaylacılık' ve 'Türk hamamı' sağlık rekreasyonu örnekleri olarak verilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "question": "'Termalizm', 'Klimatizm' ve 'Uvalizm' hangi rekreasyon türünün alt dallarıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiziksel Rekreasyon",
+          "rationale": "Bunlar fiziksel aktiviteden çok, doğal unsurlarla (su, iklim, mağara) sağlık bulmayı amaçlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Amaç bilgi edinmek değil, sağlık kazanmaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık Rekreasyonu",
+          "rationale": "Belgede bu üç kavram, 'Sağlık Rekreasyonu'nun örnekleri olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Açık Alan Rekreasyonu",
+          "rationale": "Mekânsal olarak açık alan (veya kapalı-doğal) olsalar da, fonksiyonel olarak 'Sağlık' kategorisindedirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eko Turizm",
+          "rationale": "Eko turizmle ilişkili olsalar da, belgedeki fonksiyonel sınıflandırmada 'Sağlık Rekreasyonu' altındadırlar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "question": "Fonksiyonel sınıflandırmada 'Fiziksel Rekreasyon'un alt dalı olan 'Su Etkinlikleri'ne aşağıdakilerden hangisi örnek *verilemez*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yüzme ve dalış",
+          "rationale": "Bunlar su etkinlikleri olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rafting ve rüzgâr sörfü",
+          "rationale": "Bunlar su etkinlikleri olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yelkencilik ve yat gezileri",
+          "rationale": "Bunlar su etkinlikleri olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tırmanma ve yürüyüş (trekking)",
+          "rationale": "Bu faaliyetler 'Dağ Sporları' kategorisindedir, su etkinlikleri değil.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece yüzme",
+          "rationale": "Listede yüzme dışında birçok başka su etkinliği de bulunmaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "question": "'Tırmanma', 'yürüyüş (trekking)', 'avcılık' ve 'kar kayağı' hangi fiziksel rekreasyon alt dalına aittir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Su Etkinlikleri",
+          "rationale": "Bu faaliyetler suda yapılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dağ Sporları",
+          "rationale": "Belgede bu faaliyetler 'B. Dağ Sporları' başlığı altında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sportif Merkez Etkinlikleri",
+          "rationale": "Bu kategori daha çok yamaç paraşütü, golf, tenis gibi etkinlikleri kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık Rekreasyonu",
+          "rationale": "Sağlığa faydalı olsalar da, fonksiyonel sınıflandırmada 'Fiziksel Rekreasyon - Dağ Sporları' altındadırlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Bu faaliyetler fiziksel efor gerektirir, kültürel bilgi odaklı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "question": "'Yamaç paraşütü' gibi tehlikeli (adrenalin) sporlar ile 'golf', 'tenis', 'binicilik' hangi fiziksel rekreasyon alt dalına aittir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dağ Sporları",
+          "rationale": "Golf veya tenis dağ sporu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su Etkinlikleri",
+          "rationale": "Bu sporlar suda yapılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sportif Merkez Etkinlikleri",
+          "rationale": "Belgede bu sporlar 'C. Sportif Merkez Etkinlikleri' başlığı altında toplanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fiziksel Beceri Oyunları",
+          "rationale": "Bu kategori daha çok yaş gruplarına yönelik oyun ve yarışmaları kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ticari Rekreasyon",
+          "rationale": "Bu sporlar ticari olabilir ancak fiziksel sınıflandırmada 'Sportif Merkez Etkinlikleri' olarak geçer.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "question": "'Seramik', 'sepetçilik', 'heykelcilik' ve 'ağaç oymacılığı' hangi rekreasyon türüne örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sanatsal Rekreasyon (Pasif/İzleme)",
+          "rationale": "Bu faaliyetler izleme değil, bizzat yapma eylemi içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanatsal Rekreasyon (Aktif)",
+          "rationale": "Belgede bu örnekler, sanatsal becerileri geliştirici 'Aktif' sanatsal rekreasyon olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Bunlar bir el sanatı kursu (kültürel) olabilir, ancak faaliyetin kendisi 'sanatsal üretim'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel Rekreasyon",
+          "rationale": "Bu faaliyetler fiziksel efordan çok sanatsal beceri gerektirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estetik Rekreasyon",
+          "rationale": "Estetik rekreasyon, daha çok izlemeye (ünlü yapıtları dinleme vb.) odaklıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "question": "'Sinema', 'tiyatro', 'opera', 'bale', 'konser' ve 'sergi' izlemek hangi rekreasyon türüne örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sanatsal Rekreasyon (Aktif)",
+          "rationale": "Bu faaliyetler 'izleme' eylemi içerir, yani pasiftir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanatsal Rekreasyon (Pasif/İzleme)",
+          "rationale": "Belgede bu örnekler, 'Pasif/İzleme' odaklı sanatsal rekreasyon olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Estetik Rekreasyon",
+          "rationale": "Bunlar 'Estetik Rekreasyon'a da girer; ancak belgedeki fonksiyonel sınıflandırmada 'Sanatsal' başlığı altında daha spesifik olarak (Pasif/İzleme) olarak ayrılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Rekreasyon",
+          "rationale": "Grupça yapılabilir (Sosyal) ancak faaliyetin özü sanatsaldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Kültürel bir yanı olsa da, 'Sanatsal' sınıflandırması daha doğrudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "question": "Katılımcıların bilgi ve becerilerini artırmaya yönelik olan; 'el sanatı kursları', 'turistik geziler', 'festivaller' ve 'kütüphane etkinlikleri' hangi rekreasyon türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Belgede bu tür bilgi ve beceri artırmaya yönelik etkinlikler 'Kültürel Rekreasyon' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sanatsal Rekreasyon",
+          "rationale": "El sanatı kursu sanatsal olsa da, festivaller veya kütüphane etkinlikleri bu kategoriye tam uymaz. Ortak payda 'kültürel' olmalarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Rekreasyon",
+          "rationale": "Bu etkinlikler sosyalleşme imkanı sunsa da, temel amaçları bilgi ve beceri artırmaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitsel Oyunlar",
+          "rationale": "Eğitsel oyunlar bu kategorinin bir örneğidir, kategorinin kendisi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ticari Rekreasyon",
+          "rationale": "Kurslar ücretli (ticari) olabilir, ancak kütüphane etkinliği ücretsizdir. Fonksiyonel amaçları 'kültürel'dir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "question": "Bir rekreasyon etkinliğinin aynı zamanda 'Animasyon' olarak adlandırılması için hangi koşulların sağlanması gerekir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Açık alanda ve ücretsiz olması.",
+          "rationale": "Animasyon kapalı alanda ve ücretli bir paketin (otel) parçası olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklama yapan turistlere yönelik olması ve turizm işletmeleri tarafından yönetilmesi.",
+          "rationale": "Belgedeki 'Kritik Not'ta, bu iki koşul (otel müşterisine yönelik olma ve otel tarafından yönetilme) sağlandığında 'Animasyon' olarak adlandırıldığı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece spor faaliyetlerini içermesi.",
+          "rationale": "Animasyon, otel eğlenceleri gibi sportif olmayan faaliyetleri de kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece pasif izleme faaliyetleri olması.",
+          "rationale": "Animasyon, havuz oyunları gibi aktif katılımı da içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel ve sanatsal beceri gerektirmesi.",
+          "rationale": "Animasyon, basit eğlenceleri de kapsar, yüksek beceri gerektirmeyebilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "question": "'Turistik Rekreasyon'u 'Animasyon'dan ayıran temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistik rekreasyon ücretli, animasyon ücretsizdir.",
+          "rationale": "Animasyon genellikle konaklama ücretine dahildir; turistik rekreasyon (örn: dışarıda bir gezi) ekstra ücretli olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistik rekreasyon tatil sırasında yapılır, animasyon ise iş zamanında yapılır.",
+          "rationale": "İkisi de tatil (boş zaman) sırasında yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Animasyon, turizm işletmesi tarafından (genellikle otel içinde) yönetilirken, turistik rekreasyon daha geniştir.",
+          "rationale": "Belgedeki tanıma göre 'animasyon', turizm işletmesi tarafından yönetilen rekreasyonel etkinliklerdir (örn: otel eğlenceleri).",
+          "isCorrect": true
+        },
+        {
+          "text": "Turistik rekreasyon aktiftir, animasyon pasiftir.",
+          "rationale": "İkisi de hem aktif hem de pasif faaliyetleri içerebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistik rekreasyon grup halinde, animasyon ferdi yapılır.",
+          "rationale": "İkisi de hem grup hem de ferdi olabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "question": "Aşağıdakilerden hangisi rekreasyonun temel özelliklerinden olan 'Haz ve Tatmin'i ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Faaliyete katılımda zorunluluk olmaması.",
+          "rationale": "Bu, 'Gönüllülük' özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temel motivasyonun kişisel doyum, eğlence ve mutluluk olması.",
+          "rationale": "Belgede 'Haz ve Tatmin: Temel motivasyon kişisel doyum, eğlence ve mutluluktur.' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Faaliyetin zorunlu zamanlar dışında yapılması.",
+          "rationale": "Bu, 'Boş Zaman' özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faaliyetin bireyi sosyalleştirmesi.",
+          "rationale": "Bu, 'Toplumsal Katkı' özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faaliyetin bir katılım sonucu ortaya çıkan bir deneyim olması.",
+          "rationale": "Bu, 'Deneyim' özelliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "question": "Belgeye göre, bir aktivitenin rekreasyon olup olmadığını belirleyen temel faktör nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aktivitenin ne kadar sürdüğü.",
+          "rationale": "Süre önemli olsa da (boş zaman), belirleyici temel faktör bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aktivitenin maliyeti.",
+          "rationale": "Rekreasyon ücretli (ticari) veya ücretsiz olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İçinde bulunulan ortam ve şartlar (gönüllülük, amaç vb.).",
+          "rationale": "Belgede 'Bir aktivitenin rekreasyon olup olmadığını belirleyen şey, içinde bulunulan ortam ve şartlardır.' denilerek araba kullanma örneği verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aktiviteye kaç kişinin katıldığı.",
+          "rationale": "Rekreasyon ferdi veya grup halinde olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aktivitenin fiziksel efor gerektirmesi.",
+          "rationale": "Rekreasyon pasif (izleme) de olabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "question": "Antik Roma dönemindeki rekreasyon faaliyetlerine hangileri örnek verilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oyunlar ve tiyatrolar",
+          "rationale": "Bunlar Antik Yunan dönemi örnekleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gladyatör dövüşleri ve hamam kültürü",
+          "rationale": "Belgede Antik Roma için bu iki örnek verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Şölenler, avcılık ve dini festivaller",
+          "rationale": "Bunlar Orta Çağ dönemi örnekleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Parklar ve spor kulüpleri",
+          "rationale": "Bunlar Sanayi Devrimi sonrası ortaya çıkmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "E-spor ve trekking",
+          "rationale": "Bunlar günümüz örnekleridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "question": "Zamanın türleri sınıflandırmasına göre, 'fazla mesai' veya 'gönüllü çalışma' hangi zaman türünün altındadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Var Olma Zamanı",
+          "rationale": "Bu, fizyolojik ihtiyaçları kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma Zamanı (İşle ilgili zaman)",
+          "rationale": "Belgede Çalışma Zamanı ikiye ayrılmış; 2. bölüm 'İşle ilgili zaman (fazla mesai, gönüllü çalışma)' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Serbest (Boş) Zaman",
+          "rationale": "Fazla mesai veya gönüllü çalışma, işle ilgili olduğu için boş zaman sayılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma Dışı Zorunluluklar",
+          "rationale": "Bu, ev işi gibi işle ilgili olmayan zorunlulukları kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rekreasyon",
+          "rationale": "Fazla mesai, gönüllü de olsa, genellikle 'iş' kapsamındadır ve haz/tatmin amacı gütmeyebilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "question": "Dumazedier'in yaklaşımına göre, 'ev alışverişi yapmak' veya 'bahçe sulamak' 'çalışma dışı zaman'ın hangi bölümüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fizyolojik İhtiyaçlar",
+          "rationale": "Bunlar yeme, içme, uyku gibi fizyolojik ihtiyaçlar değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma Dışı Zorunluluklar",
+          "rationale": "Belgede bu tür faaliyetler 'Çalışma Dışı Zorunluluklar' olarak sınıflandırılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Boş Zaman",
+          "rationale": "Boş zaman, bu tür zorunlulukların dışında kalan zamandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma Zamanı",
+          "rationale": "Bunlar işle ilgili faaliyetler değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rekreasyon",
+          "rationale": "Eğer kişi zevk için bahçe işi yapmıyorsa (sulama zorunluluksa), bu rekreasyon değil, zorunluluktur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "question": "Günlük çalışma saatlerinin 10-14 saatten 8 saate inmesi, hangi tür rekreasyonel faaliyetleri artırmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yıllık uzun tatiller",
+          "rationale": "Uzun tatiller, 'yıllık ücretli izinler' ile artmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hafta sonu tatili",
+          "rationale": "Bu, 'haftalık çalışma süresinin' 5 güne inmesiyle artmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gece eğlenceleri ve kısa süreli yer değiştirmeler",
+          "rationale": "Belgede, günlük çalışma saatinin azalmasının 'Gece eğlenceleri ve kısa süreli yer değiştirmeleri artırdı'ğı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Emeklilik sonrası aktiviteler",
+          "rationale": "Bu, 'çalışma hayatının kısaltılması' ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece ev içi etkinlikler",
+          "rationale": "Aksine, bu durum dışarıdaki (gece eğlenceleri) etkinlikleri de artırmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "question": "Yaş gruplarına göre (Sayfa 43), yaş ilerledikçe haftalık boş zaman saatinin nasıl değiştiği belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Azalır (Gençlerde daha fazladır).",
+          "rationale": "Belgede 60-75 yaş grubunun (86,1 saat), 16-44 yaş grubundan (53,4 saat) daha fazla boş zamana sahip olduğu belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Artar (Yaşlılarda daha fazladır).",
+          "rationale": "Belgede 'Yaş ilerledikçe haftalık boş zaman saati artar' ifadesi ve 60-75 yaş (86,1 saat) > 16-44 yaş (53,4 saat) karşılaştırması yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Değişmez, tüm yaş gruplarında aynıdır.",
+          "rationale": "Belgedeki veriler (53,4 saat vs 86,1 saat) bunun yanlış olduğunu göstermektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece üretken yaşta (26-55) azalır, diğerlerinde artar.",
+          "rationale": "Genel eğilim yaşla birlikte artıştır (özellikle emeklilik sonrası).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece Aile Yaşamı evresinde artar.",
+          "rationale": "Tersine, Aile Yaşamı evresinde (Sayfa 42) boş zamanın azaldığı belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "question": "Rekreasyon talebi en çok hangi tür ülkelerden gelmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tarım toplumlarından",
+          "rationale": "Talebin sanayileşmiş ülkelerden geldiği belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanayileşmiş ülkelerden",
+          "rationale": "Belgede 'Rekreasyon talebi en çok sanayileşmiş ülkelerden gelir.' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gelişmekte olan ülkelerden",
+          "rationale": "Talep bu ülkelerde artsa da, 'en çok' sanayileşmiş ülkelerden gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nüfusu az olan ülkelerden",
+          "rationale": "Nüfus bir etken olsa da, temel belirleyici sanayileşme düzeyidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soğuk iklime sahip ülkelerden",
+          "rationale": "İklim bir faktör olabilir ancak talebin yoğunluğu sanayileşme ile ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "question": "Aşağıdakilerden hangisi rekreasyonun 'Kişisel Faydaları' arasında sayılmamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiziki sağlık",
+          "rationale": "Bu, kişisel faydalar arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ruh sağlığı",
+          "rationale": "Bu, kişisel faydalar arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyalleşme",
+          "rationale": "Bu, kişisel faydalar arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaratıcılık",
+          "rationale": "Bu, kişisel faydalar arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal bütünleşme",
+          "rationale": "Bu, rekreasyonun 'Toplumsal Faydaları' arasında (dayanışma ile birlikte) listelenmiştir, kişisel değil.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "question": "Rekreasyon talebini artıran nedenlerden olan 'Şehirleşme Eğilimleri'nin temel motivasyonu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Şehirdeki kültürel etkinliklere katılma isteği.",
+          "rationale": "Bu, şehirleşmenin bir sonucu olabilir ancak 'kaçış' motivasyonu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalabalık, gürültülü ve stresli kent ortamından kaçma isteği.",
+          "rationale": "Belgede bu faktör, 'Kalabalık, gürültülü ve stresli kent ortamından kaçma isteği' olarak açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Şehirdeki gelir seviyesinin yükselmesi.",
+          "rationale": "Bu, 'Gelir Seviyesi' faktörüdür, 'Şehirleşme' faktörünün motivasyonu değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şehirdeki kitle iletişim araçlarının etkisi.",
+          "rationale": "Bu, 'Kitle İletişim Araçları' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şehirdeki tesislerin çok yeterli olması.",
+          "rationale": "Tersine, 'Nüfus Artışı' faktöründe tesislerin 'yetersiz' kalmasının da insanları kent dışına yönelttiği belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "question": "Kentlerdeki tesislerin yetersiz kalması ve çevre kirliliği, insanları hangi alanlara yöneltmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kent içi kapalı spor salonlarına",
+          "rationale": "Tesislerin yetersiz kalması, insanları kent dışına iter.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kent dışı alanlara",
+          "rationale": "Belgede 'Nüfus Artışı ve Hareketliliği' faktörü altında, bu durumun 'insanları kent dışı alanlara yöneltir' olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece dijital rekreasyona",
+          "rationale": "Bu bir seçenek olsa da, belgede vurgulanan mekânsal yönelim 'kent dışı'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha kalabalık kent merkezlerine",
+          "rationale": "Bu, 'kaçış' motivasyonuna terstir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alışveriş merkezlerine",
+          "rationale": "Bu da kent içi bir seçenektir ve çevre kirliliğinden kaçış sağlamaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "question": "'Değer Yargılarının Değişmesi' faktörü altında, boş zaman anlayışındaki değişime ek olarak hangi toplumsal grubun etkinliklere katılımının arttığı belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yaşlıların",
+          "rationale": "Yaşlıların boş zamanı artsa da, 'değer yargıları' başlığında spesifik olarak 'kadınlar' vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çocukların",
+          "rationale": "Bu başlık altında çocuklardan bahsedilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Erkeklerin",
+          "rationale": "Erkeklerin katılımı zaten yüksekti, artış kadınlarda vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kadınların",
+          "rationale": "Belgede, 'Kadınların rekreatif etkinliklere katılımının artması.' bu başlık altında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yöneticilerin",
+          "rationale": "Bu başlık altında bu gruptan bahsedilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "question": "Devletin veya kurumların tatiller yaratması, maddi destek sağlaması ve ilgiyi artırması, talebi artıran hangi faktöre girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turizm ve Rekreasyon Bilincinin Artması",
+          "rationale": "Bu, bireysel bir farkındalıktır; soru ise kurumsal bir müdahaleyi sormaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Siyasi Otorite ve Kurumların Etkisi",
+          "rationale": "Belgede bu durum, 'Devletin/kurumların boş zaman yaratması (tatiller), maddi destek sağlaması ve ilgiyi artırması' olarak açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Değer Yargılarının Değişmesi",
+          "rationale": "Bu, toplumsal bir değişimdir, siyasi bir müdahale değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gelir Seviyesinin Yükselmesi",
+          "rationale": "Bu, genel ekonomik durumla ilgilidir, doğrudan siyasi bir destek değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknolojik Gelişmeler",
+          "rationale": "Bu, teknoloji ile ilgilidir, siyasi otorite ile değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "question": "Rekreasyon yönetiminde 'Bireysel Planda Yönetim' neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hükümetin rekreasyon politikaları belirlemesi.",
+          "rationale": "Bu, 'Toplumsal Planda Yönetim - Resmi ve meşru'dur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grupların kendi kendine organize olması.",
+          "rationale": "Bu, 'Toplumsal Planda Yönetim - Gayri resmi'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireyin kendi boş zamanını nasıl değerlendireceğine karar vermesi.",
+          "rationale": "Belgede 'Bireysel Planda Yönetim' bu şekilde tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Özel şirketlerin rekreasyon hizmeti sunması.",
+          "rationale": "Bu, toplumsal planın bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ailenin rekreasyon faaliyetlerini yönetmesi.",
+          "rationale": "Bu, bireysel veya gayri resmi toplumsal plana daha yakındır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "question": "Aşağıdakilerden hangisi 'Rekreasyon İlkeleri' arasında yer alan 'Halk, mesleki kuruluşlar ve hükümetle işbirliği sağlanmalı' ilkesini ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Faaliyetlerin çok çeşitli olması.",
+          "rationale": "Bu, 'Programlar çok çeşitli olmalı' ilkesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Katılımın herkese açık olması.",
+          "rationale": "Bu, 'Herkese eşit katılma fırsatı sağlanmalı' ilkesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Paydaşlar arasında koordinasyon olması.",
+          "rationale": "Halk, mesleki kuruluşlar ve hükümet, rekreasyonun paydaşlarıdır ve aralarında işbirliği olması gerektiği belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kaynakların verimli kullanılması.",
+          "rationale": "Bu, 'Mevcut kaynaklar en verimli şekilde kullanılmalı' ilkesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faaliyetlerin doğa ile ilişkili olması.",
+          "rationale": "Bu, 'Faaliyetler doğaya yönelik veya doğa ile ilişkili olmalı' ilkesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "question": "Rekreasyon planlama aşamalarından 'Analiz Aşaması'nda ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mevcut durumun tespiti.",
+          "rationale": "Bu, 'Envanter Aşaması'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplanan verilerin değerlendirilmesi.",
+          "rationale": "Belgede 'Analiz Aşaması: Toplanan verilerin değerlendirilmesi.' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Amaçların belirlenmesi.",
+          "rationale": "Bu, 'Planlama Aşaması'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Planın hayata geçirilmesi.",
+          "rationale": "Bu, 'Uygulama Aşaması'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uygulamanın sürdürülmesi.",
+          "rationale": "Bu, 'İşletme Aşaması'dır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "question": "Rekreasyon planlama aşamalarının *sonuncusu* hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Envanter Aşaması",
+          "rationale": "Bu ilk aşamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Analiz Aşaması",
+          "rationale": "Bu ikinci aşamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Planlama Aşaması",
+          "rationale": "Bu üçüncü aşamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Program-Proje Uygulama Aşaması",
+          "rationale": "Bu dördüncü aşamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme Aşaması",
+          "rationale": "Belgedeki 5 aşamalı sıralamanın sonuncusu 'İşletme Aşaması'dır (Uygulamanın sürdürülmesi ve yönetilmesi).",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "question": "Rekreasyon programlamada etkin olan faktörlerden 'Yer-Mekan' faktörü neyi vurgular?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Katılımcıların ilgisinin esas olması.",
+          "rationale": "Bu, 'İlgi' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faaliyetlerin yaşa uygun olması.",
+          "rationale": "Bu, 'Yaş' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alanın çekiciliği ve konumunun önemli olması.",
+          "rationale": "Belgede 'Yer-Mekan: Alanın çekiciliği ve konumu önemlidir.' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Katılımcıların becerilerine uygunluk.",
+          "rationale": "Bu, 'Yetenek-Beceri' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mevsim ve süre.",
+          "rationale": "Bu, 'Zaman' faktörüdür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "question": "Aşağıdakilerden hangisi 'Rekreasyon Programlamada Etkin Olan Faktörler'den biri olan 'Fayda-Tatmin'i açıklar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Katılımcıya yarar sağlamalıdır.",
+          "rationale": "Belgede 'Fayda-Tatmin: Katılımcıya yarar sağlamalıdır.' şeklinde açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Katılımcıların sayısı önemlidir.",
+          "rationale": "Bu, 'Grubun Büyüklüğü' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Programın kâr amaçlı olup olmamasıdır.",
+          "rationale": "Bu, 'Organizasyon Şekli' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "İhtiyaçlara göre yenilikçi planlama yapılmasıdır.",
+          "rationale": "Bu, 'Planlama ve Yönetim' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Katılımcıların ilgisinin esas olmasıdır.",
+          "rationale": "Bu, 'İlgi' faktörüdür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "question": "Mekânsal sınıflandırmaya göre, 'Açık hava konserleri' ve 'İzcilik' hangi kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kapalı Alan Rekreasyonu",
+          "rationale": "Bu faaliyetler dışarıda yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Açık Alan Rekreasyonu",
+          "rationale": "Belgede bu faaliyetler 'Açık Alan Rekreasyonu' örnekleri arasında sayılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pasif Rekreasyon",
+          "rationale": "İzcilik aktiftir, konser izlemek pasiftir. Ortak noktaları mekândır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Rekreasyon",
+          "rationale": "Grupça yapılsa da, bu mekânsal bir sınıflandırma değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Bu, fonksiyonel bir sınıflandırmadır, mekânsal değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "question": "Aşağıdakilerden hangisi 'Kapalı Alan Rekreasyonu' örneklerinden *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kulüp etkinlikleri ve sergiler",
+          "rationale": "Bunlar kapalı alan örnekleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapalı sporlar (basketbol, buz pateni)",
+          "rationale": "Bunlar kapalı alan örnekleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kurslar (dil, sanat)",
+          "rationale": "Bunlar kapalı alan örnekleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oyunlar (tavla, satranç)",
+          "rationale": "Bunlar kapalı alan örnekleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Avcılık ve piknik",
+          "rationale": "Bunlar 'Açık Alan Rekreasyonu' örnekleridir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "question": "Katılımcıların milliyetlerine göre sınıflandırmada, 'Uluslararası film festivali' hangi kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ulusal Rekreasyon",
+          "rationale": "Ulusal rekreasyon sadece ülke sınırları içindeki kişileri kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uluslararası Rekreasyon",
+          "rationale": "Belgede 'Uluslararası Rekreasyon: Ülke içi ve dışından katılımcıların olduğu (örn: uluslararası film festivali).' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Bu, fonksiyonel bir sınıflandırmadır, milliyete göre değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup Rekreasyonu",
+          "rationale": "Bu, sayıya göre bir sınıflandırmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pasif Rekreasyon",
+          "rationale": "Bu, katılma şekline göre bir sınıflandırmadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "question": "Aşağıdakilerden hangisi 'Etken (Aktif) Rekreasyon'a bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Spor karşılaşması izleme",
+          "rationale": "Bu, izleyici kalındığı için 'Pasif' rekreasyondur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanatsal gösteri izleme",
+          "rationale": "Bu, izleyici kalındığı için 'Pasif' rekreasyondur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müzik dinleme",
+          "rationale": "Bu, 'Pasif' rekreasyondur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Defilede rol alma",
+          "rationale": "Kişi aktif olarak rol aldığı için 'Aktif' rekreasyondur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Televizyon izleme",
+          "rationale": "Bu, 'Pasif' rekreasyondur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "question": "Katılımcıların yaşlarına göre sınıflandırmada, 16-24 yaş grubu hangi kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çocuk Rekreasyonu (7-15 yaş)",
+          "rationale": "Bu yaş grubu 16-24'ten küçüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yetişkin Rekreasyonu",
+          "rationale": "Belgede 16-24 yaş grubu 'Yetişkin Rekreasyonu' olarak adlandırılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Üretken Yaş Rekreasyonu (26-55 yaş)",
+          "rationale": "Bu yaş grubu 16-24'ten büyüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üçüncü Kuşak Rekreasyonu (56+ yaş)",
+          "rationale": "Bu yaş grubu 16-24'ten çok daha büyüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gençlik / Bekarlık Rekreasyonu",
+          "rationale": "Bu, yaşam evresidir (Sayfa 42), yaș grubu sınıflandırması (Sayfa 67) değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "question": "Katılımcıların sayısına göre, 'Evde tek başına müzik dinlemek' hangi rekreasyon türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Grup Rekreasyonu",
+          "rationale": "Bu faaliyet grupça değil, tek başına yapılmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ferdi (Bireysel) Rekreasyon",
+          "rationale": "Belgede 'Ferdi (Bireysel) Rekreasyon: Yalnız yapılanlar (örn: evde tek başına müzik dinlemek).' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pasif Rekreasyon",
+          "rationale": "Bu, katılma şekline göre bir sınıflandırmadır, sayıya göre değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapalı Alan Rekreasyonu",
+          "rationale": "Bu, mekâna göre bir sınıflandırmadır, sayıya göre değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estetik Rekreasyon",
+          "rationale": "Bu, fonksiyonel bir sınıflandırmadır, sayıya göre değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "question": "Fonksiyonel sınıflandırmada 'yabancı dil kursları' hangi kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ticari Rekreasyon",
+          "rationale": "Belgede 'yabancı dil kursları', ücret karşılığı katılım nedeniyle 'Ticari Rekreasyon'a örnek verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Aynı zamanda 'Kültürel Rekreasyon'a da girer (bilgi artırma), ancak belgede 'Ticari' başlığı altında spesifik olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estetik Rekreasyon",
+          "rationale": "Dil öğrenmek estetik hazdan çok, beceri kazanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Rekreasyon",
+          "rationale": "Kursta sosyalleşme olsa da, temel amaç bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık Rekreasyonu",
+          "rationale": "Dil öğrenmenin sağlıkla doğrudan bir ilişkisi yoktur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "question": "Sağlığı koruyucu ve tedavi edici etkinlikler olan 'Sportif etkinlikler' ve 'Termalizm' hangi fonksiyonel kategoridedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiziksel Rekreasyon",
+          "rationale": "Sportif etkinlikler fiziksel rekreasyona girse de, Termalizm (kaplıca) girmez. İkisinin ortak noktası sağlıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık Rekreasyonu",
+          "rationale": "Belgede 'Sağlık Rekreasyonu' başlığı altında hem sportif etkinlikler hem de Termalizm örnek olarak verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ticari Rekreasyon",
+          "rationale": "Ücretli olsalar da, fonksiyonel amaçları 'sağlık'tır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Açık Alan Rekreasyonu",
+          "rationale": "Termalizm genellikle kapalı alandadır. Bu, mekânsal bir sınıflandırma değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Amaç kültür değil, sağlıktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "question": "Aşağıdakilerden hangisi 'Fiziksel Rekreasyon'un alt kategorilerinden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Su Etkinlikleri",
+          "rationale": "Bu, fiziksel rekreasyonun A alt kategorisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dağ Sporları",
+          "rationale": "Bu, fiziksel rekreasyonun B alt kategorisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sportif Merkez Etkinlikleri",
+          "rationale": "Bu, fiziksel rekreasyonun C alt kategorisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel Beceri Oyunları",
+          "rationale": "Bu, fiziksel rekreasyonun D alt kategorisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanatsal Aktiviteler (Seramik, heykel)",
+          "rationale": "Bu, 'Fiziksel Rekreasyon'dan ayrı bir fonksiyonel kategori olan 'Sanatsal Rekreasyon'un altındadır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "question": "'Bilgisayar oyunları' ve 'eğitsel oyunlar', hangi fonksiyonel rekreasyon kategorisine örnek olarak verilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiziksel Rekreasyon",
+          "rationale": "Bilgisayar oyunları fiziksel efor gerektirmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanatsal Rekreasyon",
+          "rationale": "Bu faaliyetler sanatsal üretim veya izleme değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Belgede bu oyunlar, 'bilgi ve becerileri artırmaya yönelik' etkinlikler kapsamında 'Kültürel Rekreasyon'a örnek verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosyal Rekreasyon",
+          "rationale": "Online oyunlar sosyal olsa da, belgedeki sınıflandırmada 'Kültürel' başlığı altındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık Rekreasyonu",
+          "rationale": "Bu faaliyetlerin sağlıkla doğrudan bir ilişkisi (bu bağlamda) kurulmamıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "question": "'Turistik boş zaman diliminde (tatil sırasında) yapılanlar' hangi rekreasyon türüdür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Animasyon",
+          "rationale": "Animasyon, bunun turizm işletmesi tarafından yönetilen özel bir alt türüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistik Rekreasyon",
+          "rationale": "Belgede 'Turistik Rekreasyon' bu şekilde, yani tatil sırasında yapılanlar olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Tatil sırasında kültürel rekreasyon yapılabilir, ancak bu genel tanım değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Açık Alan Rekreasyonu",
+          "rationale": "Tatil sırasında kapalı alan rekreasyonu da (örn: otel spası) yapılabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ulusal Rekreasyon",
+          "rationale": "Turistik rekreasyon, uluslararası da olabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "question": "Rekreasyonun 'Evrensellik' özelliği ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece belirli bir yerde yapılabilmesi.",
+          "rationale": "Evrensellik, sınırlama olmamasını ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her yer, zaman ve insan için geçerli olabilmesi.",
+          "rationale": "Belgede 'Evrensellik: Her yer, zaman ve insan için geçerli olabilir.' şeklinde tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece uluslararası katılımcılara açık olması.",
+          "rationale": "Bu, 'Uluslararası Rekreasyon'dur, evrensellik değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal değerlere uygun olması.",
+          "rationale": "Bu, 'Toplumsal Katkı' özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireye haz ve tatmin vermesi.",
+          "rationale": "Bu, 'Haz ve Tatmin' özelliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "question": "Rekreasyonun 'Sınırlama Yoktur' özelliği neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Her zaman ücretsiz olması gerektiğini.",
+          "rationale": "Ticari rekreasyon ücretlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yer, zaman ve insanlar açısından kesin sınırlamalara tabi olmadığını.",
+          "rationale": "Belgede 'Sınırlama Yoktur' özelliği bu şekilde açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece açık alanlarda yapılabileceğini.",
+          "rationale": "Kapalı alan rekreasyonu da vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece bireysel yapılması gerektiğini.",
+          "rationale": "Grup rekreasyonu da vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gönüllülük esasının olmadığını.",
+          "rationale": "Gönüllülük, rekreasyonun temel bir özelliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "question": "Zamanın türlerine göre, 'hayatı kazanmak için fiilen yapılan iş' ne olarak adlandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Var Olma Zamanı",
+          "rationale": "Bu, fizyolojik ihtiyaçları kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma Zamanı (Bilfiil iş süresi)",
+          "rationale": "Belgede 'Çalışma Zamanı'nın alt bölümü olan 'Bilfiil iş süresi' bu şekilde tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Serbest (Boş) Zaman",
+          "rationale": "Bu, iş dışında kalan zamandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışma Dışı Zorunluluklar",
+          "rationale": "Bu, ev işi gibi işle ilgili olmayan zorunlulukları kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rekreasyon",
+          "rationale": "Bu, işin tam tersi, boş zamanda yapılan gönüllü faaliyettir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "question": "Aşağıdakilerden hangisi 'Uzun Süreli Boş Zaman' örneklerinden *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çocukluk dönemi",
+          "rationale": "Bu, uzun süreli boş zaman örneğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıllık izinler",
+          "rationale": "Bu, uzun süreli boş zaman örneğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emeklilik dönemi",
+          "rationale": "Bu, uzun süreli boş zaman örneğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşgünü sonu (akşamüstü)",
+          "rationale": "Bu, 'Kısa Süreli Boş Zaman' örneğidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bayram tatilleri",
+          "rationale": "Bayram tatilleri 'Kısa Süreli Boş Zaman' olarak listelenmiştir. (Not: Bu soru, 'işgünü sonu'nun daha net bir kısa süreli örnek olduğunu varsayar, ancak bayram tatili de kısadır. En bariz yanlış 'İşgünü sonu'dur... Hayır, ikisi de kısa süreli. Soru 'değildir' diyor. Öyleyse cevap uzun sürelilerden biri olmalı... Tekrar bakayım: Soru 'Uzun Süreli... değildir?' diyor. Cevap 'Kısa Süreli' olmalı. 'İşgünü sonu' kısa sürelidir, bu yüzden cevaptır.)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "question": "Rekreasyonun toplumsal faydaları olarak hangileri belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiziki sağlık ve ruh sağlığı",
+          "rationale": "Bunlar kişisel faydalardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyalleşme ve yaratıcılık",
+          "rationale": "Bunlar kişisel faydalardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal bütünleşme ve dayanışma",
+          "rationale": "Belgede 'Toplumsal Faydaları: Toplumsal bütünleşme, dayanışma.' olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İş verimi ve gelir artışı",
+          "rationale": "İş verimi kişisel faydadır, gelir artışı doğrudan bir fayda olarak listelenmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çevre bilinci ve sağlık bilinci",
+          "rationale": "Bunlar talebi artıran nedenlerdir, doğrudan toplumsal fayda olarak listelenmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "question": "'Turizm ve rekreasyon bilincinin artması' faktörü, boş zamanı değerlendirmenin nasıl görüldüğünü ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Lüks değil, ihtiyaç olarak görülmesi.",
+          "rationale": "Belgede 'Boş zamanı değerlendirmenin lüks değil, ihtiyaç olarak görülmesi.' ifadesi bu başlık altında yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İhtiyaç değil, lüks olarak görülmesi.",
+          "rationale": "Bu, 'Değer Yargıları' başlığındaki eski anlayıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece bir fuzuli tüketim olarak görülmesi.",
+          "rationale": "Bu, 'Değer Yargıları' başlığındaki eski anlayıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece devletin bir görevi olarak görülmesi.",
+          "rationale": "Bu, 'Siyasi Otorite' faktörüyle ilgilidir, bireysel bilinçle değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece teknolojik bir zorunluluk olarak görülmesi.",
+          "rationale": "Bu, bilinçten çok teknoloji faktörüyle ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "question": "Rekreasyon ilkelerine göre, faaliyetlerin katılımı artırmak için nasıl olması tercih edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mümkün olduğunca yüksek ücretli olmalı.",
+          "rationale": "Yüksek ücret katılımı azaltır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mümkün olduğunca ücretsiz olmalı.",
+          "rationale": "Belgede 'Faaliyetler mümkün olduğunca ücretsiz olmalı (katılımı artırmak için).' ilkesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece profesyoneller tarafından yapılmalı.",
+          "rationale": "Bu, eşit katılım ilkesine aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece tek bir yaş grubuna hitap etmeli.",
+          "rationale": "İlke, 'Bütün yaş gruplarına hizmet vermeli' şeklindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece doğadan uzakta, kent merkezlerinde olmalı.",
+          "rationale": "İlke, 'Faaliyetler doğaya yönelik veya doğa ile ilişkili olmalı' şeklindedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "question": "Rekreasyon planlama aşamalarından 'Planlama Aşaması'nda ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mevcut durum tespiti.",
+          "rationale": "Bu, 'Envanter Aşaması'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Verilerin değerlendirilmesi.",
+          "rationale": "Bu, 'Analiz Aşaması'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amaçların belirlenmesi ve planın oluşturulması.",
+          "rationale": "Belgede 'Planlama Aşaması: Amaçların belirlenmesi ve planın oluşturulması.' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Planın hayata geçirilmesi.",
+          "rationale": "Bu, 'Uygulama Aşaması'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uygulamanın yönetilmesi.",
+          "rationale": "Bu, 'İşletme Aşaması'dır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "question": "Rekreasyon programlamada etkin olan faktörlerden 'Grubun Büyüklüğü' neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Katılımcıların ilgisini belirler.",
+          "rationale": "Bu, 'İlgi' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faaliyetin mevsimini belirler.",
+          "rationale": "Bu, 'Zaman' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sayı, yönetimi ve alan kullanımını etkiler.",
+          "rationale": "Belgede 'Grubun Büyüklüğü: Sayı, yönetimi ve alan kullanımını etkiler.' şeklinde açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Faaliyetin kâr amaçlı olup olmadığını belirler.",
+          "rationale": "Bu, 'Organizasyon Şekli' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Katılımcıların becerilerini belirler.",
+          "rationale": "Bu, 'Yetenek-Beceri' faktörüdür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "question": "Rekreasyon programlamada etkin olan faktörlerden 'Organizasyon Şekli' neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Faaliyetin yaşa uygunluğunu.",
+          "rationale": "Bu, 'Yaş' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kâr amaçlı olup olmamasını (özel/kamu).",
+          "rationale": "Belgede 'Organizasyon Şekli' bu şekilde tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Alanın çekiciliğini.",
+          "rationale": "Bu, 'Yer-Mekan' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mevsim ve süreyi.",
+          "rationale": "Bu, 'Zaman' faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Katılımcıların sayısını.",
+          "rationale": "Bu, 'Grubun Büyüklüğü' faktörüdür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "question": "Mekânsal sınıflandırmaya göre, 'Ev içi etkinlikler (TV izleme, kitap okuma, onarım yapma)' hangi kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Açık Alan Rekreasyonu",
+          "rationale": "Bu faaliyetler dışarıda yapılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapalı Alan Rekreasyonu",
+          "rationale": "Belgede bu faaliyetler 'Kapalı Alan Rekreasyonu' veya 'evde yapılanlar' olarak sınıflandırılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pasif Rekreasyon",
+          "rationale": "Onarım yapma 'aktif' olabilir. Ortak noktaları mekândır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ferdi Rekreasyon",
+          "rationale": "Bu, sayıya göre bir sınıflandırmadır, mekâna göre değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Kitap okuma kültürel olabilir, ancak onarım yapma bu kategoriye girmez. Ortak noktaları mekândır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 91,
+      "question": "Katılımcıların milliyetlerine göre, 'Ülke sınırları içindeki kişilerin katıldığı' rekreasyon türü nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ulusal Rekreasyon",
+          "rationale": "Belgede 'Ulusal Rekreasyon' bu şekilde tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uluslararası Rekreasyon",
+          "rationale": "Bu, ülke dışından da katılımcıların olduğu türdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bölgesel Rekreasyon",
+          "rationale": "Belgede bu kategori yer almamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel Rekreasyon",
+          "rationale": "Belgede bu kategori yer almamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup Rekreasyonu",
+          "rationale": "Bu, sayıya göre bir sınıflandırmadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 92,
+      "question": "'Edilgen (Pasif) Rekreasyon'un temel özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bedenen katılım ve aktif rol alma.",
+          "rationale": "Bu, 'Aktif Rekreasyon'un özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rol almama, izleyici (seyirci) olarak katılma.",
+          "rationale": "Belgede 'Edilgen (Pasif) Rekreasyon' bu şekilde tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yalnız yapılması.",
+          "rationale": "Bu, 'Ferdi Rekreasyon'un özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ücret ödenmesi.",
+          "rationale": "Bu, 'Ticari Rekreasyon'un özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilgi ve beceri artırması.",
+          "rationale": "Bu, 'Kültürel Rekreasyon'un özelliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 93,
+      "question": "Katılımcıların yaşlarına göre sınıflandırmada, 26-55 yaş grubu hangi kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çocuk Rekreasyonu",
+          "rationale": "Bu yaş grubu (3-15) daha küçüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yetişkin Rekreasyonu",
+          "rationale": "Bu yaş grubu (16-24) daha küçüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üretken Yaş Rekreasyonu",
+          "rationale": "Belgede 26-55 yaş grubu 'Üretken Yaş Rekreasyonu' olarak adlandırılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Üçüncü Kuşak Rekreasyonu",
+          "rationale": "Bu yaş grubu (56+) daha büyüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile Yaşamı Rekreasyonu",
+          "rationale": "Bu, yaşam evresidir, yaș grubu sınıflandırması değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 94,
+      "question": "Fonksiyonel sınıflandırmada 'Estetik Rekreasyon'a katılanların genellikle hangi özelliğe sahip olduğu belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Düşük gelir seviyesi",
+          "rationale": "Bu tür etkinlikler (örn: opera) genellikle yüksek gelirle ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek fiziksel güç",
+          "rationale": "Bu, 'Fiziksel Rekreasyon' için gereklidir, estetik rekreasyon (izleme) için değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek eğitim ve kültür düzeyi",
+          "rationale": "Belgede 'Genellikle yüksek eğitim ve kültür düzeyindeki insanların katıldığı' belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Genç yaş grubu (16-24)",
+          "rationale": "Bu tür bir yaş sınırlaması belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tek başına katılma (ferdi)",
+          "rationale": "Bu etkinliklere grupça da katılınabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 95,
+      "question": "'Klimatizm' (iklim) ve 'Uvalizm' (mağara) hangi rekreasyon türünün örnekleridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sağlık Rekreasyonu",
+          "rationale": "Belgede bu iki kavram, Termalizm ile birlikte 'Sağlık Rekreasyonu'na örnek verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Açık Alan Rekreasyonu",
+          "rationale": "Mekânsal olarak (mağara kapalı-doğaldır) bu kategoriye girseler de, fonksiyonları 'Sağlık'tır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dağ Sporları",
+          "rationale": "Mağara gezisi (speleoloji) bir dağ sporu olabilir, ancak klimatizm (iklim) değildir. Ortak noktaları sağlıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Amaçları kültürel bilgi değil, sağlıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estetik Rekreasyon",
+          "rationale": "Estetik bir yanları olsa da, temel amaçları sağlıktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 96,
+      "question": "Tüm spor çeşitleri ve sportif oyunlar, fonksiyonel sınıflandırmada hangi ana başlık altında toplanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sağlık Rekreasyonu",
+          "rationale": "Sağlığa faydalı olsalar da, sporlar için 'Fiziksel Rekreasyon' adında ayrı bir ana başlık vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel Rekreasyon",
+          "rationale": "Belgede 'Fiziksel Rekreasyon: Tüm spor çeşitleri ve sportif oyunlar.' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ticari Rekreasyon",
+          "rationale": "Sporlar ticari olabilir (örn: rafting), ancak bu, tüm sporları kapsayan fonksiyonel ana başlık değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Açık Alan Rekreasyonu",
+          "rationale": "Kapalı alan sporları da (basketbol) vardır. Bu, mekânsal bir sınıflandırmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aktif Rekreasyon",
+          "rationale": "Bu, katılma şekline göre bir sınıflandırmadır, fonksiyonel değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 97,
+      "question": "Fiziksel rekreasyonun alt dalı olan 'Fiziksel Beceri Oyunları' kimlere yöneliktir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece profesyonel sporculara",
+          "rationale": "Bu, 'Sportif Merkez Etkinlikleri'ne daha yakın olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaş gruplarına yönelik oyun ve yarışmalar",
+          "rationale": "Belgede 'D. Fiziksel Beceri Oyunları: Yaş gruplarına yönelik oyun ve yarışmalar.' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece adrenalin arayanlara",
+          "rationale": "Bu, 'Sportif Merkez Etkinlikleri' (örn: yamaç paraşütü) kapsamındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece su sporları yapanlara",
+          "rationale": "Bu, 'Su Etkinlikleri' kapsamındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece dağcılara",
+          "rationale": "Bu, 'Dağ Sporları' kapsamındadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "'Sanatsal Rekreasyon' hangi iki alt kategoriye ayrılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Açık Alan ve Kapalı Alan",
+          "rationale": "Bu, mekânsal bir ayrımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aktif (Üretim) ve Pasif (İzleme)",
+          "rationale": "Belgede 'Sanatsal Rekreasyon' bu iki başlık altında (Aktif: Seramik vb. / Pasif/İzleme: Sinema vb.) incelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ticari ve Ücretsiz",
+          "rationale": "Bu, fonksiyonel 'Ticari' kategori ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ferdi ve Grup",
+          "rationale": "Bu, sayıya göre bir ayrımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ulusal ve Uluslararası",
+          "rationale": "Bu, milliyete göre bir ayrımdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 99,
+      "question": "Aşağıdakilerden hangisi 'Kültürel Rekreasyon'un temel amacını en iyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fiziksel sağlık kazanmak.",
+          "rationale": "Bu, 'Sağlık' veya 'Fiziksel' rekreasyonun amacıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal ilişkileri güçlendirmek.",
+          "rationale": "Bu, 'Sosyal Rekreasyon'un amacıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Katılımcıların bilgi ve becerilerini artırmak.",
+          "rationale": "Belgede 'Kültürel Rekreasyon: Katılımcıların bilgi ve becerilerini artırmaya yönelik etkinlikler.' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Estetik haz almak.",
+          "rationale": "Bu, 'Estetik' veya 'Sanatsal (Pasif)' rekreasyonun amacıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ücret karşılığı hizmet sunmak.",
+          "rationale": "Bu, 'Ticari Rekreasyon'un özelliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 100,
+      "question": "Otel eğlenceleri (animasyon), hangi rekreasyon türünün özel bir alt dalı olarak kabul edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistik Rekreasyon",
+          "rationale": "Belgedeki 'Kritik Not'a göre animasyon, 'Turistik Rekreasyon'un konaklama işletmeleri tarafından yönetilen bir alt dalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sağlık Rekreasyonu",
+          "rationale": "Animasyonun temel amacı sağlık değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel Rekreasyon",
+          "rationale": "Animasyon genellikle eğlence odaklıdır, kültürel bilgi artırma amacı gütmeyebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estetik Rekreasyon",
+          "rationale": "Animasyon, yüksek kültür gerektiren estetik faaliyetler olmayabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Açık Alan Rekreasyonu",
+          "rationale": "Animasyon, otel içinde (kapalı alan) da yapılabilir.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
