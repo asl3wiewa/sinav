@@ -161,6 +161,19 @@ const TEST_DATA = [
       { name: "Test 2 Basla", url: "quiz.html?test=turizmde-rekreasyon-2" }
     ],
     pdfUrl: "assets/pdf/vize/turizmde-rekreasyon.pdf"
+  },
+  {
+    id: "turizm-ve-cevre-final",
+    title: "Turizm ve Cevre (Final)",
+    description: "Turizm-çevre ilişkisini üç farklı final testiyle keşfet.",
+    tag: "Turizm & Cevre",
+    category: "final",
+    tests: [
+      { name: "Test 1 Basla", url: "quiz.html?test=turizm-ve-cevre-final" },
+      { name: "Test 2 Basla", url: "quiz.html?test=turizm-ve-cevre-2-final" },
+      { name: "Test 3 Basla", url: "quiz.html?test=turizm-ve-cevre-3-final" }
+    ],
+    pdfUrl: "assets/pdf/final/turizm-ve-cevre.pdf"
   }
 ];
 

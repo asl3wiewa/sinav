@@ -214,6 +214,30 @@ const TESTS = {
 
   },
 
+  "turizm-ve-cevre-final": {
+
+    title: "Turizm ve Cevre Testi 1 (Final)",
+
+    dataUrl: "final/turizm-ve-cevre.json",
+
+  },
+
+  "turizm-ve-cevre-2-final": {
+
+    title: "Turizm ve Cevre Testi 2 (Final)",
+
+    dataUrl: "final/turizm-ve-cevre-2.json",
+
+  },
+
+  "turizm-ve-cevre-3-final": {
+
+    title: "Turizm ve Cevre Testi 3 (Final)",
+
+    dataUrl: "final/turizm-ve-cevre-3.json",
+
+  },
+
 
 };
 const TEST_ALIASES = {
@@ -253,6 +277,12 @@ const TEST_ALIASES = {
   "on buro hizmetleri 2": "on-buro-hizmetleri-2",
 
   "on buro hizmetleri 3": "on-buro-hizmetleri-3",
+
+  "turizm ve cevre final": "turizm-ve-cevre-final",
+
+  "turizm ve cevre 2 final": "turizm-ve-cevre-2-final",
+
+  "turizm ve cevre 3 final": "turizm-ve-cevre-3-final",
 
   "mesleki yabanci dil i": "mesleki-yabanci-dil-1",
 
