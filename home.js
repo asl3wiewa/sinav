@@ -174,6 +174,17 @@ const TEST_DATA = [
       { name: "Test 3 Basla", url: "quiz.html?test=turizm-ve-cevre-3-final" }
     ],
     pdfUrl: "assets/pdf/final/turizm-ve-cevre.pdf"
+  },
+  {
+    id: "ziyafet-final",
+    title: "Ziyafet (Final)",
+    description: "Banket operasyonlarını final testiyle pekiştir.",
+    tag: "Ziyafet",
+    category: "final",
+    tests: [
+      { name: "Teste Basla", url: "quiz.html?test=ziyafet-final", primary: true }
+    ],
+    pdfUrl: "assets/pdf/final/ziyafet.pdf"
   }
 ];
 

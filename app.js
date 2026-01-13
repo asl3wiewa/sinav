@@ -11,6 +11,10 @@ const TESTS = {
     title: "Ziyafet Testi 2",
     dataUrl: "vize/ziyafet-2.json",
   },
+  "ziyafet-final": {
+    title: "Ziyafet Testi (Final)",
+    dataUrl: "final/ziyafet.json",
+  },
   "turizm-cografyasi-2": {
     title: "Turizm Coğrafyası II",
     dataUrl: "vize/turizm-cografyasi-2.json",
@@ -244,6 +248,7 @@ const TEST_ALIASES = {
   general: "genel-turizm",
   ziyafet1: "ziyafet",
   "ziyafet-1": "ziyafet",
+  "ziyafet final": "ziyafet-final",
   turizm: "genel-turizm",
   "turizm cografyasi ii": "turizm-cografyasi-2",
   "turizm cografyasi ii 2": "turizm-cografyasi-2-2",

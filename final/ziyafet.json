@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Ziyafet organizasyonlarında Yiyecek-İçecek Departmanı yöneticisinin planlama aşamasında yaptığı çalışmalardan biri aşağıdakilerden hangisi değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mizan plas çalışmalarının planlanması", "rationale": "Yöneticinin görevidir.", "isCorrect": false },
+        { "text": "Konukların kişisel kıyafet seçimlerinin belirlenmesi", "rationale": "Yöneticiler operasyonla ilgilenir, konukların özel kıyafet seçimine karışmazlar.", "isCorrect": true },
+        { "text": "Menünün fiyatlandırılması", "rationale": "Planlamanın parçasıdır.", "isCorrect": false },
+        { "text": "Masa ve salon düzeninin planlanması", "rationale": "Organizasyonun temelidir.", "isCorrect": false },
+        { "text": "Servis akış düzeninin belirlenmesi", "rationale": "Servis yönetimi görevidir.", "isCorrect": false }
+      ],
+      "hint": "Yöneticinin görevleri operasyoneldir, kişisel tercihlere müdahale etmez."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi 'Sübjektif Fiyatlandırma' yöntemlerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maliyet Artı Yöntemi", "rationale": "Objektiftir.", "isCorrect": false },
+        { "text": "Sezgisel Fiyat Yöntemi", "rationale": "Yöneticinin hissiyatına dayandığı için sübjektiftir.", "isCorrect": true },
+        { "text": "Başa Baş Analizi", "rationale": "Matematikseldir.", "isCorrect": false },
+        { "text": "Çarpan Yoluyla Fiyatlama", "rationale": "Hesaplamaya dayanır.", "isCorrect": false },
+        { "text": "Hedef Maliyet Yöntemi", "rationale": "Pazar verisine dayanır.", "isCorrect": false }
+      ],
+      "hint": "Bilimsel veriye değil, hislere dayanır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Rakip işletmelerin fiyatlarını baz alarak fiyat belirleme yöntemine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Lideri İzleme Fiyat Yöntemi", "rationale": "Piyasa liderini veya rakipleri taklit etme esasına dayanır.", "isCorrect": true },
+        { "text": "Taktik Fiyat Yöntemi", "rationale": "Bu müşteri çekmek içindir.", "isCorrect": false },
+        { "text": "Maliyet Artı Yöntemi", "rationale": "Maliyete odaklanır.", "isCorrect": false },
+        { "text": "Sezgisel Yöntem", "rationale": "Hislerle yapılır.", "isCorrect": false },
+        { "text": "En Yüksek Fiyat Yöntemi", "rationale": "Müşteri ödeme gücüne odaklanır.", "isCorrect": false }
+      ],
+      "hint": "Başkaları ne yapıyorsa onu yapma mantığıdır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Başa baş noktası (Break-even point) neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maksimum kâr noktasını", "rationale": "Değildir.", "isCorrect": false },
+        { "text": "Toplam gelir ile toplam giderin eşit olduğu noktayı", "rationale": "Ne kâr ne de zarar edilen denge noktasıdır.", "isCorrect": true },
+        { "text": "En düşük maliyet noktasını", "rationale": "Değildir.", "isCorrect": false },
+        { "text": "Sadece sabit giderlerin karşılandığı noktayı", "rationale": "Tüm giderleri kapsar.", "isCorrect": false },
+        { "text": "İflas noktasını", "rationale": "Tam tersi, güvenli noktadır.", "isCorrect": false }
+      ],
+      "hint": "Terazinin dengede durduğu, kârın sıfır olduğu yer."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Hedef Maliyet Yöntemi'nde hesaplama sırası nasıldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maliyet -> Fiyat", "rationale": "Klasik yöntemdir.", "isCorrect": false },
+        { "text": "Satış Fiyatı -> Hedef Maliyet", "rationale": "Piyasa fiyatından geriye doğru gidilerek maliyet hedeflenir.", "isCorrect": true },
+        { "text": "Kâr -> Maliyet", "rationale": "Yanlış sıralama.", "isCorrect": false },
+        { "text": "Gider -> Gelir", "rationale": "Muhasebe mantığıdır.", "isCorrect": false },
+        { "text": "Personel -> Ürün", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Sondan başa doğru giden bir yöntemdir."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Ziyafet salonlarının mutfak ve bar ile bağlantılı olması neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Manzara için", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "İş akışını ve servisi kolaylaştırmak için", "rationale": "Sıcak yemek ve hızlı içecek servisi için kritik öneme sahiptir.", "isCorrect": true },
+        { "text": "Müşterilerin mutfağı görmesi için", "rationale": "Genelde istenmez.", "isCorrect": false },
+        { "text": "Koku yayılması için", "rationale": "İstenmeyen bir durumdur.", "isCorrect": false },
+        { "text": "Güvenlik için", "rationale": "Ana sebep değildir.", "isCorrect": false }
+      ],
+      "hint": "Yemeğin soğumadan masaya gelmesi buna bağlıdır."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Ziyafet salonu planlarında bulunması GEREKMEYEN bilgi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Salonun ebatları", "rationale": "Gereklidir.", "isCorrect": false },
+        { "text": "Tavan yüksekliği", "rationale": "Gereklidir.", "isCorrect": false },
+        { "text": "Garsonların doğum yerleri", "rationale": "Operasyonel planla ilgisi yoktur.", "isCorrect": true },
+        { "text": "Teknik imkanlar", "rationale": "Gereklidir.", "isCorrect": false },
+        { "text": "Masa kapasiteleri", "rationale": "Gereklidir.", "isCorrect": false }
+      ],
+      "hint": "Personelin özel hayatı planın parçası değildir."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Ziyafet salonlarında renk kullanımıyla ilgili doğru ifade hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece siyah renk kullanılmalıdır", "rationale": "Kasvetli olur.", "isCorrect": false },
+        { "text": "Zıt renkler iyi ayarlanarak canlı atmosfer yaratılabilir", "rationale": "Kontrast mekana enerji verir.", "isCorrect": true },
+        { "text": "Renklerin psikolojik etkisi yoktur", "rationale": "Vardır.", "isCorrect": false },
+        { "text": "Zemin her zaman beyaz olmalıdır", "rationale": "Kir gösterir, tercih edilmez.", "isCorrect": false },
+        { "text": "Işıklandırma renkten bağımsızdır", "rationale": "Işık rengi algıyı değiştirir.", "isCorrect": false }
+      ],
+      "hint": "Zıtlıkların (kontrastın) gücü."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Banketlerde masa düzenleri hangi iki ana grupta toplanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Serbest ve Blok düzen", "rationale": "Ya dağınık masalar ya da birleşik büyük masalar kullanılır.", "isCorrect": true },
+        { "text": "Kare ve Yuvarlak", "rationale": "Şekildir.", "isCorrect": false },
+        { "text": "Ahşap ve Metal", "rationale": "Malzemedir.", "isCorrect": false },
+        { "text": "İç ve Dış", "rationale": "Mekandır.", "isCorrect": false },
+        { "text": "Sabah ve Akşam", "rationale": "Zamandır.", "isCorrect": false }
+      ],
+      "hint": "Birleşik mi yoksa ayrı ayrı mı?"
+    },
+    {
+      "questionNumber": 10,
+      "question": "Blok masa düzeninin temel özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konukların ayrı masalarda oturması", "rationale": "Serbest düzendir.", "isCorrect": false },
+        { "text": "Tüm konukların tek bir masa etrafında toplanması", "rationale": "Herkesin birbirine bağlı olduğu düzendir (U, I, E gibi).", "isCorrect": true },
+        { "text": "Ayakta yemek yenmesi", "rationale": "Kokteyldir.", "isCorrect": false },
+        { "text": "Masaların bahçede olması", "rationale": "Mekan özelliğidir.", "isCorrect": false },
+        { "text": "Sadece yuvarlak masa kullanılması", "rationale": "Blok düzen genelde dikdörtgen masalarla kurulur.", "isCorrect": false }
+      ],
+      "hint": "Birlik ve bütünlük sağlar."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Masa düzenlemesinde 'Kuver Aralığı' minimum kaç cm olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "40 cm", "rationale": "Dardır.", "isCorrect": false },
+        { "text": "50 cm", "rationale": "Dardır.", "isCorrect": false },
+        { "text": "60 cm", "rationale": "Normal yemek içindir.", "isCorrect": false },
+        { "text": "80 cm", "rationale": "Ziyafet standardında rahatlık için minimum ölçüdür.", "isCorrect": true },
+        { "text": "150 cm", "rationale": "Çok geniştir.", "isCorrect": false }
+      ],
+      "hint": "Rahat yemek yiyebilmek için 1 metreye yakın mesafe."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Servis koridorlarının genişliği en az ne kadar olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "50 cm", "rationale": "Geçilemez.", "isCorrect": false },
+        { "text": "1 metre", "rationale": "Servis personelinin elinde tepsiyle rahat geçebilmesi için gereklidir.", "isCorrect": true },
+        { "text": "2 metre", "rationale": "Yer kaybıdır.", "isCorrect": false },
+        { "text": "30 cm", "rationale": "İmkansızdır.", "isCorrect": false },
+        { "text": "5 metre", "rationale": "Gereksizdir.", "isCorrect": false }
+      ],
+      "hint": "100 cm."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Resmi yemeklerde oturma düzenini belirleyen 'Sofra Protokolü' neye dayanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Boy sırasına", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Rütbe ve unvana", "rationale": "Hiyerarşik statü esastır.", "isCorrect": true },
+        { "text": "Geliş sırasına", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Yaşa", "rationale": "Tek başına belirleyici değildir.", "isCorrect": false },
+        { "text": "Cinsiyete (Sadece)", "rationale": "Tek kriter değildir.", "isCorrect": false }
+      ],
+      "hint": "Makam ve mevki."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Uzun (I tipi) masada ev sahipleri nereye oturur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Masanın iki ucuna", "rationale": "İngiliz tarzıdır.", "isCorrect": false },
+        { "text": "Masanın uzun kenarlarının ortasına, karşılıklı", "rationale": "Protokole hakim olmak için merkezde otururlar.", "isCorrect": true },
+        { "text": "En köşeye", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Ayrı bir masaya", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Ayakta dururlar", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Merkezde ve yüz yüze."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Ev sahibi erkeğin SAĞ tarafına kim oturur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kendi eşi", "rationale": "Eşler yan yana oturmaz.", "isCorrect": false },
+        { "text": "Şeref konuğu hanım", "rationale": "Protokolde en değerli yer sağ taraftır ve karşı cinsten onur konuğu oturur.", "isCorrect": true },
+        { "text": "Çocuğu", "rationale": "Protokolde yeri yoktur.", "isCorrect": false },
+        { "text": "Yardımcısı", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "En genç misafir", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "En önemli kadın misafir."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Ziyafet servisinde 'Repetisyon' (İlave Servis) kuralı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Her yemeğin iki kez verilmesidir", "rationale": "Çok uzatır.", "isCorrect": false },
+        { "text": "Genellikle sadece ana yemeğin ikinci kez ikram edilmesidir", "rationale": "Ana yemek doyurucu olduğu için nezaketen tekrar sunulur.", "isCorrect": true },
+        { "text": "Tatlıdan sonra çorba vermektir", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "İçeceklerin tazelenmesidir", "rationale": "Bu rutin servistir, repetisyon değildir.", "isCorrect": false },
+        { "text": "Hiçbir şeyin tekrar verilmemesidir", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Ana yemeğin tekrarı."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Ziyafet sırasında konuşma yapılırken servis personeli ne yapmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Servise devam etmelidir", "rationale": "Saygısızlıktır.", "isCorrect": false },
+        { "text": "Salonu terk etmeli ve beklemelidir", "rationale": "Dikkatin dağılmaması için servis durur ve personel çıkar.", "isCorrect": true },
+        { "text": "Alkışlamalıdır", "rationale": "Profesyonel değildir.", "isCorrect": false },
+        { "text": "Masaları toplamalıdır", "rationale": "Gürültü yapar.", "isCorrect": false },
+        { "text": "Su dağıtmalıdır", "rationale": "Servis yapılmaz.", "isCorrect": false }
+      ],
+      "hint": "Sahne konuşmacınındır, garson görünmez olur."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Protokol ziyafetinde bir garson en fazla kaç kişiye yemek servisi yapar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "4", "rationale": "Az.", "isCorrect": false },
+        { "text": "6", "rationale": "Hızlı ve hatasız servis için ideal sayıdır.", "isCorrect": true },
+        { "text": "10", "rationale": "Çok.", "isCorrect": false },
+        { "text": "15", "rationale": "İmkansız.", "isCorrect": false },
+        { "text": "20", "rationale": "Restoran standardıdır.", "isCorrect": false }
+      ],
+      "hint": "Yarım düzine."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Şarap garsonu (Somaliyer) kaç kişiye bakabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "6", "rationale": "Yemek garsonu sayısıdır.", "isCorrect": false },
+        { "text": "12", "rationale": "İçecek servisi daha hızlı olduğu için yemek garsonunun iki katı sayıya bakabilir.", "isCorrect": true },
+        { "text": "18", "rationale": "Fazla.", "isCorrect": false },
+        { "text": "24", "rationale": "Çok fazla.", "isCorrect": false },
+        { "text": "30", "rationale": "Yetişemez.", "isCorrect": false }
+      ],
+      "hint": "Yemek garsonunun iki katı."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Şef Garson (Maitre d'Hotel) protokol yemeğinde ne yapar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Servis yapar", "rationale": "Fiziksel servise girmez.", "isCorrect": false },
+        { "text": "İşaretlerle servisi yönetir", "rationale": "Ekibin koordinasyonunu sağlar.", "isCorrect": true },
+        { "text": "Mutfakta durur", "rationale": "Salonda olmalıdır.", "isCorrect": false },
+        { "text": "Bulaşık yıkar", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Konuklarla yemek yer", "rationale": "Asla.", "isCorrect": false }
+      ],
+      "hint": "Orkestra şefi gibi yönetir."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Devlet başkanlarının masasında servis nasıl başlar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sırayla", "rationale": "Yetersiz.", "isCorrect": false },
+        { "text": "4 garson aynı anda Devlet Başkanları ve eşlerine servis yapar", "rationale": "En üst düzey saygı göstergesi senkronize servistir.", "isCorrect": true },
+        { "text": "Önce ev sahibine", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Önce korumalara", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Rastgele", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Dört kişi aynı anda."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Boş tabaklar ne zaman toplanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Herkes bitirince aynı anda", "rationale": "Protokolde masa düzeni bozulmaz, herkes beklenir.", "isCorrect": true },
+        { "text": "Bitireninkini hemen", "rationale": "Acele ettirmek olur.", "isCorrect": false },
+        { "text": "Yarısı bitirince", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "İsteyenin tabağını alarak", "rationale": "Restoran usulüdür.", "isCorrect": false },
+        { "text": "Toplanmaz", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Toplu hareket esastır."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Yağda eriyen vitaminler hangileridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "B ve C", "rationale": "Suda erir.", "isCorrect": false },
+        { "text": "A, D, E, K", "rationale": "Yağda çözünür ve vücutta depolanabilir.", "isCorrect": true },
+        { "text": "Sadece C", "rationale": "Suda erir.", "isCorrect": false },
+        { "text": "H ve P", "rationale": "Böyle bir grup yok.", "isCorrect": false },
+        { "text": "Demir ve Çinko", "rationale": "Mineraldir.", "isCorrect": false }
+      ],
+      "hint": "ADEK."
+    },
+    {
+      "questionNumber": 24,
+      "question": "C vitamininin özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Vücutta depolanır", "rationale": "Depolanmaz, atılır.", "isCorrect": false },
+        { "text": "Suda erir ve günlük alınmalıdır", "rationale": "Fazlası idrarla atıldığı için her gün tüketilmelidir.", "isCorrect": true },
+        { "text": "Yağda erir", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Kemikleri oluşturur", "rationale": "Kalsiyumun görevi.", "isCorrect": false },
+        { "text": "Kanı pıhtılaştırır", "rationale": "K vitamininin görevi.", "isCorrect": false }
+      ],
+      "hint": "Portakalda bulunur, her gün lazımdır."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Vücudun %4'ünü oluşturan, kemik ve diş yapısında bulunan öğe nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Vitaminler", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Mineraller", "rationale": "İnorganik yapı taşlarıdır.", "isCorrect": true },
+        { "text": "Su", "rationale": "%60'tır.", "isCorrect": false },
+        { "text": "Yağ", "rationale": "Değişkendir.", "isCorrect": false },
+        { "text": "Protein", "rationale": "Organik yapı taşıdır.", "isCorrect": false }
+      ],
+      "hint": "Kalsiyum, Fosfor vb."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Yetişkinlerde su oranı yaklaşık ne kadardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "%20", "rationale": "Az.", "isCorrect": false },
+        { "text": "%60", "rationale": "Ortalama değerdir.", "isCorrect": true },
+        { "text": "%90", "rationale": "Çok yüksek.", "isCorrect": false },
+        { "text": "%10", "rationale": "Ölümcül.", "isCorrect": false },
+        { "text": "%100", "rationale": "İmkansız.", "isCorrect": false }
+      ],
+      "hint": "Yarısından biraz fazla."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Et ve Baklagil grubunun ana besin öğesi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Karbonhidrat", "rationale": "Tahılda bulunur.", "isCorrect": false },
+        { "text": "Protein", "rationale": "Büyüme ve onarım için temeldir.", "isCorrect": true },
+        { "text": "C Vitamini", "rationale": "Sebzede bulunur.", "isCorrect": false },
+        { "text": "Su", "rationale": "Her şeyde var.", "isCorrect": false },
+        { "text": "Şeker", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Kas yapan madde."
+    },
+    {
+      "questionNumber": 28,
+      "question": "UHT süt ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çiğ süt", "rationale": "İşlemsiz.", "isCorrect": false },
+        { "text": "Uzun ömürlü, sterilize süt", "rationale": "Çok yüksek ısıda kısa süre tutularak paketlenir.", "isCorrect": true },
+        { "text": "Günlük süt", "rationale": "Pastörizedir.", "isCorrect": false },
+        { "text": "Yoğurt", "rationale": "Fermantedir.", "isCorrect": false },
+        { "text": "Ayran", "rationale": "Karışımdır.", "isCorrect": false }
+      ],
+      "hint": "Kutuda satılan, aylarca bozulmayan."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Tahılların (Ekmek, makarna) temel görevi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Enerji sağlamak", "rationale": "Vücudun yakıtıdır.", "isCorrect": true },
+        { "text": "Kemik yapmak", "rationale": "Kalsiyumun işidir.", "isCorrect": false },
+        { "text": "Görmeyi sağlamak", "rationale": "A vitamininin işidir.", "isCorrect": false },
+        { "text": "Yara iyileştirmek", "rationale": "Proteinin işidir.", "isCorrect": false },
+        { "text": "Su tutmak", "rationale": "Tuzun işidir.", "isCorrect": false }
+      ],
+      "hint": "Karbonhidrat kaynağı."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Sebze ve meyveler en çok ne içerir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yağ", "rationale": "Yoktur.", "isCorrect": false },
+        { "text": "Vitamin, mineral ve posa", "rationale": "Sağlık koruyuculardır.", "isCorrect": true },
+        { "text": "Protein", "rationale": "Azdır.", "isCorrect": false },
+        { "text": "Kolesterol", "rationale": "Yoktur.", "isCorrect": false },
+        { "text": "Tuz", "rationale": "Azdır.", "isCorrect": false }
+      ],
+      "hint": "Bağışıklık sistemi dostu."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Menüde 'Ana Yemek' (1. Yemek) ne olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Tatlı", "rationale": "Sondur.", "isCorrect": false },
+        { "text": "Et, balık veya baklagil yemeği", "rationale": "Menünün en doyurucu ve proteinli kısmı.", "isCorrect": true },
+        { "text": "Salata", "rationale": "Yandır.", "isCorrect": false },
+        { "text": "Pilav", "rationale": "İkincidir.", "isCorrect": false },
+        { "text": "Meyve", "rationale": "Sondur.", "isCorrect": false }
+      ],
+      "hint": "Assolist."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Ana yemek etli sebze ise, ikinci yemek ne olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yine sebze", "rationale": "Tekrar olur.", "isCorrect": false },
+        { "text": "Pilav veya makarna", "rationale": "Sebzeyi doyuruculukla tamamlar.", "isCorrect": true },
+        { "text": "Et", "rationale": "Ağır olur.", "isCorrect": false },
+        { "text": "Çorba", "rationale": "Baştadır.", "isCorrect": false },
+        { "text": "Su", "rationale": "Yemek değildir.", "isCorrect": false }
+      ],
+      "hint": "Sebzenin yanına karbonhidrat."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Vestiyer nerede olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mutfakta", "rationale": "Olmaz.", "isCorrect": false },
+        { "text": "Giriş-Çıkışa yakın bir yerde", "rationale": "Misafirin ilk ve son uğradığı yerdir.", "isCorrect": true },
+        { "text": "Tuvalette", "rationale": "Olmaz.", "isCorrect": false },
+        { "text": "Sahnede", "rationale": "Olmaz.", "isCorrect": false },
+        { "text": "Depoda", "rationale": "Olmaz.", "isCorrect": false }
+      ],
+      "hint": "Kapıya yakın."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Geçerli Fiyat Yöntemi'nin mantığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maliyet hesaplamak", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Yöneticinin kendini müşteri yerine koyarak fiyat biçmesi", "rationale": "Adil fiyat tahmini.", "isCorrect": true },
+        { "text": "Rakibi taklit etmek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "En yüksek fiyatı koymak", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Zararına satmak", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Empati yapmak."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Fiyatlandırmada hangisi dikkate ALINMAZ?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maliyetler", "rationale": "Alınır.", "isCorrect": false },
+        { "text": "Garsonun ayakkabı numarası", "rationale": "İlgisizdir.", "isCorrect": true },
+        { "text": "Rakip fiyatları", "rationale": "Alınır.", "isCorrect": false },
+        { "text": "İşletme hedefleri", "rationale": "Alınır.", "isCorrect": false },
+        { "text": "Talep düzeyi", "rationale": "Alınır.", "isCorrect": false }
+      ],
+      "hint": "Kişisel gereksiz detay."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Şeref konuğu masada nereye oturur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ev sahibinin sağına", "rationale": "Protokolde en kıymetli yerdir.", "isCorrect": true },
+        { "text": "Soluna", "rationale": "İkinci sıradır.", "isCorrect": false },
+        { "text": "Karşısına", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Köşeye", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Kapıya yakın", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Sağ kol."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Yumurta hangi besin grubuna daha yakındır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Süt", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Et grubu (Protein)", "rationale": "Protein kalitesi nedeniyle et grubunda sayılır.", "isCorrect": true },
+        { "text": "Tahıl", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Sebze", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Meyve", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Anne sütünden sonra en iyi protein."
+    },
+    {
+      "questionNumber": 38,
+      "question": "%10 su kaybı neye yol açar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hiçbir şeye", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Yaşamsal tehlikeye", "rationale": "Vücut fonksiyonları çöker.", "isCorrect": true },
+        { "text": "Zayıflamaya", "rationale": "Sağlıklı değildir.", "isCorrect": false },
+        { "text": "Güzelleşmeye", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Daha iyi görmeye", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Tehlike çanları."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Ziyafet salonları neden alt katlarda olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ucuz diye", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Gürültü odalara gitmesin diye", "rationale": "Ses izolasyonu ve müşteri konforu.", "isCorrect": true },
+        { "text": "Manzara kötü olsun diye", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Karanlık olsun diye", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Yer yokluğundan", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Ses yukarı çıkmasın."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Taktik Fiyat Yöntemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Her şeyi pahalı satmak", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Bazı ürünleri ucuz tutup müşteri çekmek", "rationale": "Yemleme taktiği.", "isCorrect": true },
+        { "text": "Rakipleri kötülemek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Fiyat söylememek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Dövizle satmak", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Market indirimleri gibi."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Sommelier ne iş yapar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yemek yapar", "rationale": "Aşçıdır.", "isCorrect": false },
+        { "text": "İçecek ve şarap servisi yapar", "rationale": "Uzmanlık alanıdır.", "isCorrect": true },
+        { "text": "Temizlik yapar", "rationale": "Komidir.", "isCorrect": false },
+        { "text": "Müzik yapar", "rationale": "Müzisyendir.", "isCorrect": false },
+        { "text": "Hesap alır", "rationale": "Kasiyerdir.", "isCorrect": false }
+      ],
+      "hint": "Şarap uzmanı."
+    },
+    {
+      "questionNumber": 42,
+      "question": "3. Yemek grubunda ne vardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ana yemek", "rationale": "1. gruptur.", "isCorrect": false },
+        { "text": "Salata, meyve, tatlı", "rationale": "Tamamlayıcılardır.", "isCorrect": true },
+        { "text": "Pilav", "rationale": "2. gruptur.", "isCorrect": false },
+        { "text": "Makarna", "rationale": "2. gruptur.", "isCorrect": false },
+        { "text": "Et", "rationale": "1. gruptur.", "isCorrect": false }
+      ],
+      "hint": "Final."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Protokolde garsonlar ne giyer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kot pantolon", "rationale": "Olmaz.", "isCorrect": false },
+        { "text": "Beyaz eldiven ve üniforma", "rationale": "Resmiyet gereği hijyen ve şıklık.", "isCorrect": true },
+        { "text": "Şort", "rationale": "Olmaz.", "isCorrect": false },
+        { "text": "Spor ayakkabı", "rationale": "Olmaz.", "isCorrect": false },
+        { "text": "Renkli tişört", "rationale": "Olmaz.", "isCorrect": false }
+      ],
+      "hint": "Beyaz eldiven."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Süt grubunun ana minerali nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Demir", "rationale": "Ette.", "isCorrect": false },
+        { "text": "Kalsiyum", "rationale": "Kemik dostu.", "isCorrect": true },
+        { "text": "İyot", "rationale": "Tuzda.", "isCorrect": false },
+        { "text": "Çinko", "rationale": "Tahılda.", "isCorrect": false },
+        { "text": "Bakır", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Diş ve kemik."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Dağınık masa düzeni ne zaman kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Az kişide", "rationale": "Blok masa kullanılır.", "isCorrect": false },
+        { "text": "Çok kalabalık büyük organizasyonlarda", "rationale": "Yüzlerce kişiyi tek masaya oturtamazsınız.", "isCorrect": true },
+        { "text": "Toplantıda", "rationale": "U masa.", "isCorrect": false },
+        { "text": "Protokolde", "rationale": "I veya U masa.", "isCorrect": false },
+        { "text": "Hiçbir zaman", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Düğünler."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Menü planlamada hangisi önemsizdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mutfak imkanları", "rationale": "Önemli.", "isCorrect": false },
+        { "text": "Şefin burcu", "rationale": "Astroloji planlama kriteri değildir.", "isCorrect": true },
+        { "text": "Kişi sayısı", "rationale": "Önemli.", "isCorrect": false },
+        { "text": "Bütçe", "rationale": "Önemli.", "isCorrect": false },
+        { "text": "İklim", "rationale": "Önemli.", "isCorrect": false }
+      ],
+      "hint": "Yıldız falı."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Fiyatlandırma sorumluluğu kimdedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece aşçı", "rationale": "Tek başına yapmaz.", "isCorrect": false },
+        { "text": "Yiyecek-İçecek Müdürü ve Banket Yönetimi", "rationale": "Yönetim kararıdır.", "isCorrect": true },
+        { "text": "Garson", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Müşteri", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Resepsiyon", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Yönetim ekibi."
+    },
+    {
+      "questionNumber": 48,
+      "question": "En Yüksek Fiyat Yöntemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "En ucuza satmak", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Müşterinin ödeyebileceği tavan fiyatı seçmek", "rationale": "Maksimum kâr hedefi.", "isCorrect": true },
+        { "text": "Maliyetine vermek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Bedava vermek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Zarar etmek", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Müşteriyi zorlamak."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Sabit maliyet nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Üretime göre değişen", "rationale": "Değişken maliyettir.", "isCorrect": false },
+        { "text": "Üretim olsa da olmasa da ödenen gider (Kira vb.)", "rationale": "Değişmez giderlerdir.", "isCorrect": true },
+        { "text": "Hammadde parası", "rationale": "Değişkendir.", "isCorrect": false },
+        { "text": "Elektrik faturası", "rationale": "Kısmen değişkendir.", "isCorrect": false },
+        { "text": "Bahşiş", "rationale": "Değişkendir.", "isCorrect": false }
+      ],
+      "hint": "Dükkan kapalı olsa da ödenen para."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Ziyafet salonunun 'Esnekliği' ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Zeminin yumuşaklığı", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Farklı organizasyon türlerine uyarlanabilmesi", "rationale": "Hem düğün hem toplantı yapılabilmesi.", "isCorrect": true },
+        { "text": "Duvarların rengi", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Personel sayısı", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Yemek çeşitliliği", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Çok amaçlı kullanım."
+    },
+    {
+      "questionNumber": 51,
+      "question": "A vitamini eksikliği neye yol açar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Gece körlüğü", "rationale": "Görme sorunları.", "isCorrect": true },
+        { "text": "Kansızlık", "rationale": "Demir eksikliği.", "isCorrect": false },
+        { "text": "Diş çürümesi", "rationale": "Kalsiyum eksikliği.", "isCorrect": false },
+        { "text": "Guatr", "rationale": "İyot eksikliği.", "isCorrect": false },
+        { "text": "Kanamalar", "rationale": "K vitamini eksikliği.", "isCorrect": false }
+      ],
+      "hint": "Havuç ve göz."
+    },
+    {
+      "questionNumber": 52,
+      "question": "İyot eksikliği hangi hastalığı yapar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Guatr", "rationale": "Tiroid bezi büyümesi.", "isCorrect": true },
+        { "text": "Grip", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Kellik", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Ülser", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Verem", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Tuzda bulunur."
+    },
+    {
+      "questionNumber": 53,
+      "question": "Demir minerali en çok nerede bulunur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kırmızı et ve sakatat", "rationale": "En iyi kaynaktır.", "isCorrect": true },
+        { "text": "Süt", "rationale": "Azdır.", "isCorrect": false },
+        { "text": "Ekmek", "rationale": "Azdır.", "isCorrect": false },
+        { "text": "Şeker", "rationale": "Yoktur.", "isCorrect": false },
+        { "text": "Su", "rationale": "Yoktur.", "isCorrect": false }
+      ],
+      "hint": "Kan yapıcı."
+    },
+    {
+      "questionNumber": 54,
+      "question": "Günlük sebze-meyve tüketimi kaç porsiyon olmalı?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "3-4 porsiyon", "rationale": "Sağlıklı yaşam için.", "isCorrect": true },
+        { "text": "Hiç", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "10 porsiyon", "rationale": "Çok.", "isCorrect": false },
+        { "text": "Sadece haftada bir", "rationale": "Az.", "isCorrect": false },
+        { "text": "Yılda bir", "rationale": "Az.", "isCorrect": false }
+      ],
+      "hint": "Bol bol."
+    },
+    {
+      "questionNumber": 55,
+      "question": "Pilot Masa nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Şeref konuğu ve ev sahibinin oturduğu ana masa", "rationale": "Servisin referans noktasıdır.", "isCorrect": true },
+        { "text": "Uçaktaki masa", "rationale": "İlgisiz.", "isCorrect": false },
+        { "text": "Çocuk masası", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Yedek masa", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Kırık masa", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Yönetim masası."
+    },
+    {
+      "questionNumber": 56,
+      "question": "E şeklindeki masanın özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Üç kollu olması", "rationale": "Tarak şeklindedir.", "isCorrect": true },
+        { "text": "Yuvarlak olması", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Tek kişilik olması", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Ayakta durulması", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Kapalı olması", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Harf şekli."
+    },
+    {
+      "questionNumber": 57,
+      "question": "Sandalyenin oturma genişliği ne kadar olmalı?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "45-50 cm", "rationale": "Rahatlık için standart.", "isCorrect": true },
+        { "text": "20 cm", "rationale": "Çok dar.", "isCorrect": false },
+        { "text": "100 cm", "rationale": "Koltuktur o.", "isCorrect": false },
+        { "text": "10 cm", "rationale": "İmkansız.", "isCorrect": false },
+        { "text": "1 metre", "rationale": "Geniş.", "isCorrect": false }
+      ],
+      "hint": "Yarım metre."
+    },
+    {
+      "questionNumber": 58,
+      "question": "Servis akışının 'aynı ritimde' olması ne demek?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Eş zamanlı ve düzenli servis", "rationale": "Senkronizasyon.", "isCorrect": true },
+        { "text": "Dans ederek servis", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Koşarak servis", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Şarkı söyleyerek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Rastgele", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Askeri düzen gibi."
+    },
+    {
+      "questionNumber": 59,
+      "question": "Şeref misafirinin karşısına kuver konur mu?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hayır, boş bırakılır", "rationale": "Görüş açısını kapatmamak ve saygı için.", "isCorrect": true },
+        { "text": "Evet konur", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Çift konur", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Tencere konur", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Sandalye konur", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Manzarası kapanmasın."
+    },
+    {
+      "questionNumber": 60,
+      "question": "Protokolde gürültüye izin verilir mi?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hayır, sessizlik hakimdir", "rationale": "Ciddiyet ortamı.", "isCorrect": true },
+        { "text": "Evet, bağırılabilir", "rationale": "Saygısızlık.", "isCorrect": false },
+        { "text": "Müzik çok sesli olur", "rationale": "Rahatsız eder.", "isCorrect": false },
+        { "text": "Tabak sesi serbesttir", "rationale": "Hata kabul edilir.", "isCorrect": false },
+        { "text": "Garsonlar sohbet eder", "rationale": "Yasaktır.", "isCorrect": false }
+      ],
+      "hint": "Çıt çıkmaz."
+    },
+    {
+      "questionNumber": 61,
+      "question": "Şamdanlar ne zaman yakılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafirler girmeden önce", "rationale": "Atmosfer hazır olmalı.", "isCorrect": true },
+        { "text": "Yemek bitince", "rationale": "Geç.", "isCorrect": false },
+        { "text": "Elektrik kesilince", "rationale": "Yedek değil dekordur.", "isCorrect": false },
+        { "text": "Çorba içerken", "rationale": "Geç.", "isCorrect": false },
+        { "text": "Yakılmaz", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Giriş anı."
+    },
+    {
+      "questionNumber": 62,
+      "question": "Protokolde masada içki tadımı yapılır mı?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hayır, önceden seçilmiştir", "rationale": "Masada şov yapılmaz.", "isCorrect": true },
+        { "text": "Evet, her şişe tadılır", "rationale": "Restoran usulüdür.", "isCorrect": false },
+        { "text": "Misafir tadar", "rationale": "Olmaz.", "isCorrect": false },
+        { "text": "Garson tadar", "rationale": "Olmaz.", "isCorrect": false },
+        { "text": "Komşu masa tadar", "rationale": "Olmaz.", "isCorrect": false }
+      ],
+      "hint": "Güven tamdır."
+    },
+    {
+      "questionNumber": 63,
+      "question": "Misafirler gitmeden masadan bardaklar kalkar mı?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hayır, kalkmaz", "rationale": "Kalkın gidin mesajı vermemek için.", "isCorrect": true },
+        { "text": "Evet, hemen", "rationale": "Kabalık.", "isCorrect": false },
+        { "text": "Kırılırsa kalkar", "rationale": "İstisna.", "isCorrect": false },
+        { "text": "Yarısı kalkar", "rationale": "Olmaz.", "isCorrect": false },
+        { "text": "Peçeteler kalkar", "rationale": "Olmaz.", "isCorrect": false }
+      ],
+      "hint": "Acele ettirilmez."
+    },
+    {
+      "questionNumber": 64,
+      "question": "Çıkışta personel ne yapar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uğurlar ve yardımcı olur", "rationale": "Nezaket kuralı.", "isCorrect": true },
+        { "text": "Arkasına döner", "rationale": "Ayıp.", "isCorrect": false },
+        { "text": "Temizlik yapar", "rationale": "Beklemeli.", "isCorrect": false },
+        { "text": "Bahşiş ister", "rationale": "Yasak.", "isCorrect": false },
+        { "text": "Kaçar", "rationale": "Olmaz.", "isCorrect": false }
+      ],
+      "hint": "Kapıya kadar."
+    },
+    {
+      "questionNumber": 65,
+      "question": "Maliyet Artı Yöntemi'nde ne kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Başa baş analizi", "rationale": "Bu yöntemde taban fiyat maliyet, tavan fiyat taleptir.", "isCorrect": true },
+        { "text": "Hisler", "rationale": "Sübjektiftir.", "isCorrect": false },
+        { "text": "Rakip fiyatı", "rationale": "Lideri izlemedir.", "isCorrect": false },
+        { "text": "Zar", "rationale": "Şans.", "isCorrect": false },
+        { "text": "Hava durumu", "rationale": "İlgisiz.", "isCorrect": false }
+      ],
+      "hint": "Gelir-Gider dengesi."
+    },
+    {
+      "questionNumber": 66,
+      "question": "Yarı-sabit maliyet nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Belli bir kapasiteye kadar sabit, sonra artan", "rationale": "Kademeli artan maliyetler.", "isCorrect": true },
+        { "text": "Hep sabit", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Hep değişken", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Bedava", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Bilinmeyen", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Basamaklı."
+    },
+    {
+      "questionNumber": 67,
+      "question": "Çarpan yöntemi formülü nasıldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maliyet + (Maliyet x Yüzde)", "rationale": "Maliyetin üzerine kâr yüzdesi eklenir.", "isCorrect": true },
+        { "text": "Maliyet x 2", "rationale": "Basit hesaptır.", "isCorrect": false },
+        { "text": "Fiyat / 2", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Gider - Gelir", "rationale": "Zarar.", "isCorrect": false },
+        { "text": "Maliyet + Vergi", "rationale": "Eksik.", "isCorrect": false }
+      ],
+      "hint": "Yüzde ekleme."
+    },
+    {
+      "questionNumber": 68,
+      "question": "Birim Başına Sabit Kâr Yöntemi formülü nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Fiyat = Maliyet + Kâr", "rationale": "Doğrudan maliyetin üzerine net bir kâr rakamı eklenir.", "isCorrect": true },
+        { "text": "Fiyat = Maliyet x Kâr", "rationale": "Çok yüksek çıkar.", "isCorrect": false },
+        { "text": "Fiyat = Kâr / Maliyet", "rationale": "Orandır.", "isCorrect": false },
+        { "text": "Fiyat = Kâr - Maliyet", "rationale": "Zarar.", "isCorrect": false },
+        { "text": "Fiyat = 0", "rationale": "Bedava.", "isCorrect": false }
+      ],
+      "hint": "Toplama işlemi."
+    },
+    {
+      "questionNumber": 69,
+      "question": "Ziyafet salonu girişinde neyin olması iş akışını bozar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Merdivenlerin dar olması", "rationale": "Taşımayı zorlaştırır.", "isCorrect": true },
+        { "text": "Geniş kapı", "rationale": "İyidir.", "isCorrect": false },
+        { "text": "Düz zemin", "rationale": "İyidir.", "isCorrect": false },
+        { "text": "Aydınlık ortam", "rationale": "İyidir.", "isCorrect": false },
+        { "text": "Vestiyer", "rationale": "Gereklidir.", "isCorrect": false }
+      ],
+      "hint": "Servis arabası geçemez."
+    },
+    {
+      "questionNumber": 70,
+      "question": "Ziyafet salonunda depo nereye yakın olmalı?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ziyafet salonuna", "rationale": "Malzeme temini (masa, sandalye) için.", "isCorrect": true },
+        { "text": "Çatı katına", "rationale": "Uzak.", "isCorrect": false },
+        { "text": "Bahçeye", "rationale": "Uzak.", "isCorrect": false },
+        { "text": "Otele", "rationale": "Genel ifade.", "isCorrect": false },
+        { "text": "Müdür odasına", "rationale": "Gereksiz.", "isCorrect": false }
+      ],
+      "hint": "Masa taşımak zor iştir."
+    },
+    {
+      "questionNumber": 71,
+      "question": "Aydınlatmanın ziyafet salonundaki önemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece görmek için", "rationale": "Yetersiz.", "isCorrect": false },
+        { "text": "Psikolojik etkisi ve atmosfer yaratması", "rationale": "Müşterinin ruh halini belirler.", "isCorrect": true },
+        { "text": "Isınmak için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Bitkiler için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Mikrop öldürmek için", "rationale": "UV değil.", "isCorrect": false }
+      ],
+      "hint": "Romantizm veya canlılık."
+    },
+    {
+      "questionNumber": 72,
+      "question": "U tipi masanın iç kısmına kuver konur mu?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konmaz", "rationale": "Servis personeli oradan servis yapar.", "isCorrect": true },
+        { "text": "Konur", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Sadece çocuklara konur", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Çiçek konur", "rationale": "Dekor olabilir ama kuver olmaz.", "isCorrect": false },
+        { "text": "Sandalye konur", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Servis koridoru."
+    },
+    {
+      "questionNumber": 73,
+      "question": "Masa örtüsü ile peçete ilişkisi nasıl olmalı?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uyumlu veya zıt (kontrast)", "rationale": "Estetik görünüm için.", "isCorrect": true },
+        { "text": "Alakasız", "rationale": "Kötü durur.", "isCorrect": false },
+        { "text": "Kirli", "rationale": "Olmaz.", "isCorrect": false },
+        { "text": "Kağıt", "rationale": "Ziyafette kumaş tercih edilir.", "isCorrect": false },
+        { "text": "Plastik", "rationale": "Olmaz.", "isCorrect": false }
+      ],
+      "hint": "Görsel bütünlük."
+    },
+    {
+      "questionNumber": 74,
+      "question": "ProtokoI sıralamasında 1. derece konuk eşi (kadın) nereye oturur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ev sahibi erkeğin soluna", "rationale": "Sağda onur konuğu vardır, solda 1. derece.", "isCorrect": true },
+        { "text": "Sağına", "rationale": "Orası onur konuğunun yeri.", "isCorrect": false },
+        { "text": "Karşısına", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Uzağa", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Arka masaya", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Sol kol."
+    },
+    {
+      "questionNumber": 75,
+      "question": "Ziyafet servisinde 'Yedek Garson' ne zaman devreye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Devlet başkanlarına toplu serviste", "rationale": "Senkronizasyon için sayı tamamlar.", "isCorrect": true },
+        { "text": "Biri hastalanınca", "rationale": "Sadece o zaman değil.", "isCorrect": false },
+        { "text": "Mutfakta", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Tuvalette", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Hiçbir zaman", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "4'lü servis anında."
+    },
+    {
+      "questionNumber": 76,
+      "question": "Ana yemek servisinde 2. garsonun görevi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sosu veya garnitürü servis etmek", "rationale": "Birinci garson yemeği verir, arkadaki tamamlayıcıyı verir.", "isCorrect": true },
+        { "text": "Boş toplamak", "rationale": "Servis anında değil.", "isCorrect": false },
+        { "text": "İzlemek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Sohbet etmek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Su dökmek", "rationale": "O ayrı iş.", "isCorrect": false }
+      ],
+      "hint": "Takipçi."
+    },
+    {
+      "questionNumber": 77,
+      "question": "Proteinlerin vücuttaki görevi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Büyüme, gelişme ve onarım", "rationale": "Hücre yapı taşıdır.", "isCorrect": true },
+        { "text": "Sadece enerji vermek", "rationale": "Öncelik karbonhidratta.", "isCorrect": false },
+        { "text": "Görmek", "rationale": "Vitamin.", "isCorrect": false },
+        { "text": "Isınmak", "rationale": "Yağ.", "isCorrect": false },
+        { "text": "Susamak", "rationale": "Tuz.", "isCorrect": false }
+      ],
+      "hint": "İnşaat malzemesi."
+    },
+    {
+      "questionNumber": 78,
+      "question": "Pastörizasyon kaç derecede yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "80-85 derece", "rationale": "Kısa süreli ısıtma.", "isCorrect": true },
+        { "text": "100 derece", "rationale": "Kaynatmadır.", "isCorrect": false },
+        { "text": "150 derece", "rationale": "UHT'dir.", "isCorrect": false },
+        { "text": "50 derece", "rationale": "Az.", "isCorrect": false },
+        { "text": "0 derece", "rationale": "Donma.", "isCorrect": false }
+      ],
+      "hint": "Kaynamadan hemen önce."
+    },
+    {
+      "questionNumber": 79,
+      "question": "Tahıl grubunda protein var mıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Vardır ama kalitesi düşüktür", "rationale": "Bitkisel proteindir, et kadar kaliteli değildir.", "isCorrect": true },
+        { "text": "Yoktur", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Çok kalitelidir", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Zehirlidir", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Sadece kabuğunda vardır", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Eksik protein."
+    },
+    {
+      "questionNumber": 80,
+      "question": "Yeşil yapraklı sebzeler ne kaynağıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "C vitamini ve Demir", "rationale": "Ispanak vb.", "isCorrect": true },
+        { "text": "Yağ", "rationale": "Yoktur.", "isCorrect": false },
+        { "text": "Şeker", "rationale": "Azdır.", "isCorrect": false },
+        { "text": "Protein", "rationale": "Azdır.", "isCorrect": false },
+        { "text": "Kalsiyum (En çok)", "rationale": "Sütten azdır.", "isCorrect": false }
+      ],
+      "hint": "Temel Reis."
+    },
+    {
+      "questionNumber": 81,
+      "question": "Yemek planlamada 'Birey, aile ve grubun yeterli beslenmesi' nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ana ilke", "rationale": "Planlamanın temel amacıdır.", "isCorrect": true },
+        { "text": "Gereksiz detay", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Sonuç", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Bahane", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Yasak", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Amaç."
+    },
+    {
+      "questionNumber": 82,
+      "question": "Hamur tatlısı hangi durumda menüye konmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İkinci yemek pilav/makarna (tahıl) ise", "rationale": "Karbonhidrat dengesi bozulur, çok ağır olur.", "isCorrect": true },
+        { "text": "Ana yemek et ise", "rationale": "Olabilir.", "isCorrect": false },
+        { "text": "Çorba varsa", "rationale": "Olabilir.", "isCorrect": false },
+        { "text": "Salata varsa", "rationale": "Olabilir.", "isCorrect": false },
+        { "text": "Yazın", "rationale": "Tercih meselesi.", "isCorrect": false }
+      ],
+      "hint": "İki unlu yiyecek yan yana olmaz."
+    },
+    {
+      "questionNumber": 83,
+      "question": "Peynir bir porsiyonu ne kadardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "50-60 gr (2 kibrit kutusu)", "rationale": "Standart porsiyon.", "isCorrect": true },
+        { "text": "1 kilo", "rationale": "Çok.", "isCorrect": false },
+        { "text": "1 gram", "rationale": "Az.", "isCorrect": false },
+        { "text": "1 kalıp", "rationale": "Değişken.", "isCorrect": false },
+        { "text": "Sınırsız", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Kibrit kutusu hesabı."
+    },
+    {
+      "questionNumber": 84,
+      "question": "Kuru baklagiller et yerine geçer mi?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Evet, protein kaynağıdır", "rationale": "Bitkisel proteindir, ekonomik alternatiftir.", "isCorrect": true },
+        { "text": "Hayır, sebzedir", "rationale": "Protein grubundadır.", "isCorrect": false },
+        { "text": "Sadece su verir", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Zararlıdır", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Meyvedir", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Fakir eti."
+    },
+    {
+      "questionNumber": 85,
+      "question": "Hangi vitaminler vücutta depolanmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "B ve C (Suda eriyenler)", "rationale": "İdrarla atılır.", "isCorrect": true },
+        { "text": "A ve D", "rationale": "Depolanır.", "isCorrect": false },
+        { "text": "E ve K", "rationale": "Depolanır.", "isCorrect": false },
+        { "text": "Hepsi depolanır", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Hiçbiri depolanmaz", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Her gün alınmalı."
+    },
+    {
+      "questionNumber": 86,
+      "question": "K vitamini ne işe yarar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kanın pıhtılaşması", "rationale": "Kanamayı durdurur.", "isCorrect": true },
+        { "text": "Görmek", "rationale": "A vit.", "isCorrect": false },
+        { "text": "Kemik", "rationale": "D vit.", "isCorrect": false },
+        { "text": "Enerji", "rationale": "B vit.", "isCorrect": false },
+        { "text": "Cilt", "rationale": "E vit.", "isCorrect": false }
+      ],
+      "hint": "Pıhtı."
+    },
+    {
+      "questionNumber": 87,
+      "question": "Ekmek porsiyonu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "50 gr (1-2 dilim)", "rationale": "Standart.", "isCorrect": true },
+        { "text": "1 bütün ekmek", "rationale": "Çok.", "isCorrect": false },
+        { "text": "1 kırıntı", "rationale": "Az.", "isCorrect": false },
+        { "text": "500 gr", "rationale": "Çok.", "isCorrect": false },
+        { "text": "100 gr", "rationale": "Büyük dilim.", "isCorrect": false }
+      ],
+      "hint": "İnce dilim."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Ziyafet menüsü planlarken hangisi 'Birinci Yemek' sayılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Etli Kuru Fasulye", "rationale": "Etli baklagil ana yemektir.", "isCorrect": true },
+        { "text": "Cacık", "rationale": "3. yemektir.", "isCorrect": false },
+        { "text": "Pilav", "rationale": "2. yemektir.", "isCorrect": false },
+        { "text": "Hoşaf", "rationale": "3. yemektir.", "isCorrect": false },
+        { "text": "Börek", "rationale": "2. yemektir.", "isCorrect": false }
+      ],
+      "hint": "Ana yemek."
+    },
+    {
+      "questionNumber": 89,
+      "question": "Fiyatlandırmada 'Lideri İzleme' neyin sonucudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maliyet bilgisizliğinin", "rationale": "Kendi maliyetini bilmeyen başkasını taklit eder.", "isCorrect": true },
+        { "text": "Aşırı bilginin", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Zenginliğin", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Cesaretin", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Devlet zoru", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Hazıra konmak."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Ziyafet salonu tavan yüksekliği neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ferahlık ve havalandırma için", "rationale": "Basık tavan bunaltır.", "isCorrect": true },
+        { "text": "Uçurtma uçurmak için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Boyamak zor olsun diye", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Maliyet artsın diye", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Ses yankılasın diye", "rationale": "İstenmez.", "isCorrect": false }
+      ],
+      "hint": "Havadar ortam."
+    },
+    {
+      "questionNumber": 91,
+      "question": "Masa düzeninde 'Sütunlar' neden dikkate alınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Görüşü engellememesi için", "rationale": "Kör nokta yaratır.", "isCorrect": true },
+        { "text": "Yıkılmasın diye", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Süslemek için", "rationale": "İkincil.", "isCorrect": false },
+        { "text": "Saklanmak için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Masa bağlamak için", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Kör nokta."
+    },
+    {
+      "questionNumber": 92,
+      "question": "Ziyafetlerde porsiyon kontrolü neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maliyet ve standart için", "rationale": "Herkese eşit ve kârlı ürün gitmeli.", "isCorrect": true },
+        { "text": "Cimrilik için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Aşçı yorulmasın diye", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Tabak yetmediği için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Müşteri doymasın diye", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Standart."
+    },
+    {
+      "questionNumber": 93,
+      "question": "Protokolde 'U' masa düzeninde iç kısım neden boştur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Servis ve dekorasyon için", "rationale": "Çiçek konur, garson geçer.", "isCorrect": true },
+        { "text": "Oyun alanı için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Ceza alanı", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Malzeme eksikliği", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Manzara için", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Garson yolu."
+    },
+    {
+      "questionNumber": 94,
+      "question": "Hangi renkler iştah açıcıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sıcak renkler (Kırmızı, Turuncu)", "rationale": "Psikolojik etki.", "isCorrect": true },
+        { "text": "Soğuk renkler (Mavi)", "rationale": "İştah kapatır.", "isCorrect": false },
+        { "text": "Siyah", "rationale": "Asil ama iştah açmaz.", "isCorrect": false },
+        { "text": "Gri", "rationale": "Nötr.", "isCorrect": false },
+        { "text": "Mor", "rationale": "Mistik.", "isCorrect": false }
+      ],
+      "hint": "Fast food logoları."
+    },
+    {
+      "questionNumber": 95,
+      "question": "Etin içindeki su oranı yaşlandıkça ne olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Azalır ve et sertleşir", "rationale": "Kart hayvan eti serttir.", "isCorrect": true },
+        { "text": "Artar", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Değişmez", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Süte dönüşür", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Kaybolur", "rationale": "Tamamen değil.", "isCorrect": false }
+      ],
+      "hint": "Kart et."
+    },
+    {
+      "questionNumber": 96,
+      "question": "Ziyafet planlamasında 'Zaman Çizelgesinin' amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hangi işin ne zaman yapılacağını görmek", "rationale": "Organizasyonun aksamaması için.", "isCorrect": true },
+        { "text": "Saat satmak", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Garsonları eve göndermek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Yemeği soğutmak", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Müşteriyi bekletmek", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Takvim."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Maliyetler kaça ayrılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sabit ve Değişken", "rationale": "Temel maliyet ayrımı.", "isCorrect": true },
+        { "text": "İyi ve Kötü", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Ucuz ve Pahalı", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Eski ve Yeni", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Yerli ve Yabancı", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Kira ve Gıda."
+    },
+    {
+      "questionNumber": 98,
+      "question": "Sübjektif fiyatlandırma günümüzde nerede yaygındır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Küçük ölçekli işletmelerde", "rationale": "Profesyonel olmayan yerlerde.", "isCorrect": true },
+        { "text": "Uluslararası otellerde", "rationale": "Objektif kullanırlar.", "isCorrect": false },
+        { "text": "Bankalarda", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Hastanelerde", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Havayollarında", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Esnaf lokantası mantığı."
+    },
+    {
+      "questionNumber": 99,
+      "question": "Ziyafet salonunun akustik durumu neyi etkiler?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ses kalitesini ve gürültüyü", "rationale": "Yankı ve anlaşılabilirlik.", "isCorrect": true },
+        { "text": "Yemeğin tadını", "rationale": "Etkilemez.", "isCorrect": false },
+        { "text": "Rengi", "rationale": "Etkilemez.", "isCorrect": false },
+        { "text": "Sıcaklığı", "rationale": "Etkilemez.", "isCorrect": false },
+        { "text": "Servis hızını", "rationale": "Etkilemez.", "isCorrect": false }
+      ],
+      "hint": "Yankı."
+    },
+    {
+      "questionNumber": 100,
+      "question": "Bu dersin temel amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ziyafet organizasyonunu planlamak ve yönetmek", "rationale": "Dersin özeti.", "isCorrect": true },
+        { "text": "Sadece yemek yemek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Tabak kırmak", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Gezmek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Uyumak", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Organizasyon yönetimi."
+    }
+  ]
+}
