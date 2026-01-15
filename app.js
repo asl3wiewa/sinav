@@ -3,6 +3,14 @@ const TESTS = {
     title: "Genel Turizm Testi",
     dataUrl: "vize/genel-turizm.json",
   },
+  "genel-turizm-final": {
+    title: "Genel Turizm Testi 1 (Final)",
+    dataUrl: "final/genel-turizm.json",
+  },
+  "genel-turizm-2-final": {
+    title: "Genel Turizm Testi 2 (Final)",
+    dataUrl: "final/genel-turizm-2.json",
+  },
   ziyafet: {
     title: "Ziyafet Testi 1",
     dataUrl: "vize/ziyafet.json",
@@ -22,6 +30,14 @@ const TESTS = {
   "turizm-cografyasi-2-2": {
     title: "Turizm Coğrafyası II - 2",
     dataUrl: "vize/turizm-cografyasi-2-2.json",
+  },
+  "turizm-cografyasi-2-final": {
+    title: "Turizm Coğrafyası II Testi 1 (Final)",
+    dataUrl: "final/turizm-cografyasi-2.json",
+  },
+  "turizm-cografyasi-2-2-final": {
+    title: "Turizm Coğrafyası II Testi 2 (Final)",
+    dataUrl: "final/turizm-cografyasi-2-2.json",
   },
   "turizmde-etik": {
     title: "Turizmde Etik",
@@ -246,12 +262,16 @@ const TESTS = {
 };
 const TEST_ALIASES = {
   general: "genel-turizm",
+  "genel turizm final": "genel-turizm-final",
+  "genel turizm 2 final": "genel-turizm-2-final",
   ziyafet1: "ziyafet",
   "ziyafet-1": "ziyafet",
   "ziyafet final": "ziyafet-final",
   turizm: "genel-turizm",
   "turizm cografyasi ii": "turizm-cografyasi-2",
   "turizm cografyasi ii 2": "turizm-cografyasi-2-2",
+  "turizm cografyasi ii final": "turizm-cografyasi-2-final",
+  "turizm cografyasi ii 2 final": "turizm-cografyasi-2-2-final",
   "turizmde etik": "turizmde-etik",
   "turizmde etik 2": "turizmde-etik-2",
   "turizmde etik 3": "turizmde-etik-3",

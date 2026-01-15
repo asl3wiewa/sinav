@@ -112,6 +112,54 @@ const TEST_DATA = [
     pdfUrl: "assets/pdf/final/on-buro-hizmetleri.pdf"
   },
   {
+    id: "turizm-ve-cevre-final",
+    title: "Turizm ve Cevre (Final)",
+    description: "Turizm-çevre ilişkisini üç farklı final testiyle keşfet.",
+    tag: "Turizm & Cevre",
+    category: "final",
+    tests: [
+      { name: "Test 1 Basla", url: "quiz.html?test=turizm-ve-cevre-final" },
+      { name: "Test 2 Basla", url: "quiz.html?test=turizm-ve-cevre-2-final" },
+      { name: "Test 3 Basla", url: "quiz.html?test=turizm-ve-cevre-3-final" }
+    ],
+    pdfUrl: "assets/pdf/final/turizm-ve-cevre.pdf"
+  },
+  {
+    id: "ziyafet-final",
+    title: "Ziyafet (Final)",
+    description: "Banket operasyonlarını final testiyle pekiştir.",
+    tag: "Ziyafet",
+    category: "final",
+    tests: [
+      { name: "Teste Basla", url: "quiz.html?test=ziyafet-final", primary: true }
+    ],
+    pdfUrl: "assets/pdf/final/ziyafet.pdf"
+  },
+  {
+    id: "genel-turizm-final",
+    title: "Genel Turizm (Final)",
+    description: "Turizm ve boş zaman kavramlarına dair temel kavramları iki final testiyle ölç.",
+    tag: "Genel",
+    category: "final",
+    tests: [
+      { name: "Test 1 Basla", url: "quiz.html?test=genel-turizm-final" },
+      { name: "Test 2 Basla", url: "quiz.html?test=genel-turizm-2-final" }
+    ],
+    pdfUrl: "assets/pdf/final/genel-turizm.pdf"
+  },
+  {
+    id: "turizm-cografyasi-2-final",
+    title: "Turizm Cografyasi II (Final)",
+    description: "İki farklı soru setiyle coğrafi bilgini final testleriyle test et.",
+    tag: "Turizm Cografyasi",
+    category: "final",
+    tests: [
+      { name: "Test 1 Basla", url: "quiz.html?test=turizm-cografyasi-2-final" },
+      { name: "Test 2 Basla", url: "quiz.html?test=turizm-cografyasi-2-2-final" }
+    ],
+    pdfUrl: "assets/pdf/final/turizm-cografyasi-2.pdf"
+  },
+  {
     id: "mesleki-yabanci-dil-1",
     title: "Mesleki Yabancı Dil - I",
     description: "Mesleki İngilizce bilgisini üç seviye testiyle pekiştir.",
@@ -161,30 +209,6 @@ const TEST_DATA = [
       { name: "Test 2 Basla", url: "quiz.html?test=turizmde-rekreasyon-2" }
     ],
     pdfUrl: "assets/pdf/vize/turizmde-rekreasyon.pdf"
-  },
-  {
-    id: "turizm-ve-cevre-final",
-    title: "Turizm ve Cevre (Final)",
-    description: "Turizm-çevre ilişkisini üç farklı final testiyle keşfet.",
-    tag: "Turizm & Cevre",
-    category: "final",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=turizm-ve-cevre-final" },
-      { name: "Test 2 Basla", url: "quiz.html?test=turizm-ve-cevre-2-final" },
-      { name: "Test 3 Basla", url: "quiz.html?test=turizm-ve-cevre-3-final" }
-    ],
-    pdfUrl: "assets/pdf/final/turizm-ve-cevre.pdf"
-  },
-  {
-    id: "ziyafet-final",
-    title: "Ziyafet (Final)",
-    description: "Banket operasyonlarını final testiyle pekiştir.",
-    tag: "Ziyafet",
-    category: "final",
-    tests: [
-      { name: "Teste Basla", url: "quiz.html?test=ziyafet-final", primary: true }
-    ],
-    pdfUrl: "assets/pdf/final/ziyafet.pdf"
   }
 ];
 
