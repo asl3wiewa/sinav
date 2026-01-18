@@ -160,6 +160,18 @@ const TEST_DATA = [
     pdfUrl: "assets/pdf/final/turizm-cografyasi-2.pdf"
   },
   {
+    id: "mesleki-yabanci-dil-1-final",
+    title: "Mesleki Yabancı Dil - I (Final)",
+    description: "Mesleki İngilizce bilgisini iki final testiyle pekiştir.",
+    tag: "Mesleki Yabancı Dil I",
+    category: "final",
+    tests: [
+      { name: "Test 1 Basla", url: "quiz.html?test=mesleki-yabanci-dil-1-final" },
+      { name: "Test 2 Basla", url: "quiz.html?test=mesleki-yabanci-dil-1-2-final" }
+    ],
+    pdfUrl: "assets/pdf/final/mesleki-yabanci-dil-1.pdf"
+  },
+  {
     id: "mesleki-yabanci-dil-1",
     title: "Mesleki Yabancı Dil - I",
     description: "Mesleki İngilizce bilgisini üç seviye testiyle pekiştir.",

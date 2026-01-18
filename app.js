@@ -170,6 +170,22 @@ const TESTS = {
 
   },
 
+  "mesleki-yabanci-dil-1-final": {
+
+    title: "Mesleki Yabancı Dil I Testi 1 (Final)",
+
+    dataUrl: "final/mesleki-yabanci-dil-1.json",
+
+  },
+
+  "mesleki-yabanci-dil-1-2-final": {
+
+    title: "Mesleki Yabancı Dil I Testi 2 (Final)",
+
+    dataUrl: "final/mesleki-yabanci-dil-1-2.json",
+
+  },
+
   "yiyecek-ve-icecek-servisi-1": {
 
     title: "Yiyecek ve Icecek Servisi I Testi 1",
@@ -314,6 +330,10 @@ const TEST_ALIASES = {
   "mesleki yabanci dil i 2": "mesleki-yabanci-dil-1-2",
 
   "mesleki yabanci dil i 3": "mesleki-yabanci-dil-1-3",
+
+  "mesleki yabanci dil i final": "mesleki-yabanci-dil-1-final",
+
+  "mesleki yabanci dil i 2 final": "mesleki-yabanci-dil-1-2-final",
 
   "yiyecek ve icecek servisi i": "yiyecek-ve-icecek-servisi-1",
 
