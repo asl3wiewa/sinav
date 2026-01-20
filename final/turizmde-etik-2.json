@@ -1,0 +1,1305 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi 'Dürüstlük' (Honesty) ilkesinin temel gerekliliklerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Gerçeğin sözlere uygunluğu", "rationale": "Dürüstlük, söylenenlerin gerçeği yansıtmasını gerektirir.", "isCorrect": false },
+        { "text": "Verilen söze sadık kalmak", "rationale": "Verilen sözü tutmak dürüstlüğün bir parçasıdır.", "isCorrect": false },
+        { "text": "Başkalarının hatalarından çıkar sağlamak", "rationale": "Bu davranış dürüstlüğe aykırıdır ve etik dışıdır.", "isCorrect": true },
+        { "text": "Açık sözlü olmak", "rationale": "Dürüstlük açıklığı ve netliği gerektirir.", "isCorrect": false },
+        { "text": "Kopya çekmemek", "rationale": "Kopya çekmemek dürüst davranışın bir örneğidir.", "isCorrect": false }
+      ],
+      "hint": "Dürüstlük, başkalarının zayıflıklarını kullanmayı değil, doğru ve içten olmayı gerektirir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Hizmet işletmelerinde dürüstlük ilkesinin uygulanmasını ve denetlenmesini zorlaştıran temel faktör nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hizmetin soyut (dokunulmaz) olması", "rationale": "Hizmetin fiziksel bir nesne olmaması, kalitesinin ve dürüstlüğün ölçülmesini zorlaştırır.", "isCorrect": true },
+        { "text": "Çalışan sayısının fazla olması", "rationale": "Çalışan sayısı denetimi etkilese de, temel zorluk hizmetin doğasıyla ilgilidir.", "isCorrect": false },
+        { "text": "Maliyetlerin yüksek olması", "rationale": "Maliyetler finansal bir konudur, dürüstlük denetimiyle doğrudan ana neden değildir.", "isCorrect": false },
+        { "text": "Yasal düzenlemelerin eksikliği", "rationale": "Yasalardan ziyade hizmetin yapısı bu zorluğu yaratır.", "isCorrect": false },
+        { "text": "Müşteri beklentilerinin düşük olması", "rationale": "Müşteri beklentisi düşüklüğü denetimi zorlaştırmaz, aksine toleransı artırır.", "isCorrect": false }
+      ],
+      "hint": "Hizmetin, satın alınmadan önce görülememesi veya denenememesi özelliğini düşünün."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Doğruluk (Integrity) ilkesine göre, bir bireyin doğruluktan ayrılmış sayılması için aşağıdakilerden hangisini yapması gerekir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kendi duygu ve düşüncelerini açıkça ifade etmesi", "rationale": "Bu doğrulukla çelişmez, aksine destekler.", "isCorrect": false },
+        { "text": "Kurallara ve yasalara uyması", "rationale": "Kurallara uymak doğruluğun gereğidir.", "isCorrect": false },
+        { "text": "Gerçekleri kendi yararı doğrultusunda değiştirmesi", "rationale": "Gerçeği manipüle etmek doğruluk (bütünlük) ilkesini bozar.", "isCorrect": true },
+        { "text": "Evrensel doğruluk ölçülerine göre yaşaması", "rationale": "Bu doğruluğun tanımıdır.", "isCorrect": false },
+        { "text": "İkiyüzlülükten uzak durması", "rationale": "Bu doğruluğun bir gereğidir.", "isCorrect": false }
+      ],
+      "hint": "Doğruluk, gerçeklerin kişisel çıkarlar uğruna çarpıtılmamasını gerektirir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "'Sözünde Durmak' ilkesi işletme yönetimi açısından ele alındığında, öncelikle hangi tarafa verilen sözlerin tutulması beklenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece müşterilere", "rationale": "Müşteriler önemlidir ancak iç paydaşlar önceliklidir.", "isCorrect": false },
+        { "text": "Öncelikle çalışanlara", "rationale": "İşletme önce çalışanlarına verdiği sözleri (ücret, haklar) tutmalıdır ki onlar da işlerini yapsın.", "isCorrect": true },
+        { "text": "Sadece tedarikçilere", "rationale": "Tedarikçiler de önemlidir ancak süreç çalışanla başlar.", "isCorrect": false },
+        { "text": "Sadece devlete", "rationale": "Yasal sorumluluklar ayrıdır, söz verme ilkesi karşılıklı güvenle ilgilidir.", "isCorrect": false },
+        { "text": "Rakiplere", "rationale": "Rakiplere söz verme durumu nadirdir ve öncelikli değildir.", "isCorrect": false }
+      ],
+      "hint": "Hizmeti üreten ve misafire sunan kişilerin motivasyonu için yönetimin kime karşı dürüst olması gerektiğini düşünün."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi 'Sadakat' (Bağlılık) ilkesinin örgütsel yansıması olan 'Örgütsel Bağlılık'ın sonuçlarından biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşten ayrılma eğiliminin düşmesi", "rationale": "Bağlılığı yüksek çalışanlar işten ayrılmayı daha az düşünür.", "isCorrect": false },
+        { "text": "Performansın yükselmesi", "rationale": "Bağlılık performansı olumlu etkiler.", "isCorrect": false },
+        { "text": "İş tatmin düzeylerinin artması", "rationale": "Örgütsel bağlılık iş tatminiyle doğru orantılıdır.", "isCorrect": false },
+        { "text": "Örgüt amaçları yönünde çaba harcanması", "rationale": "Sadık çalışanlar örgüt amaçlarını benimser.", "isCorrect": false },
+        { "text": "İşgörenlerin kişisel çıkarlarını örgüt çıkarlarının önüne koyması", "rationale": "Sadakat, örgüt çıkarlarını önemsemeyi gerektirir, kişisel çıkarları öne almayı değil.", "isCorrect": true }
+      ],
+      "hint": "Sadakat, bireyin kendini örgüte adamasıdır, sadece kendini düşünmesi değildir."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Adalet ilkesi çerçevesinde geliştirilen 'Denklik Kuramı'na göre işgörenin temel beklentisi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Herkesin aynı maaşı alması", "rationale": "Denklik herkesin eşit alması değil, emeğe göre adil almasıdır.", "isCorrect": false },
+        { "text": "Örgüte verdiği emekle örgütten aldığı ödemenin denk olması", "rationale": "Kuram, girdi (emek) ile çıktı (ödül) arasındaki dengeyi esas alır.", "isCorrect": true },
+        { "text": "Yöneticilerin hatalarının görmezden gelinmesi", "rationale": "Bu adaletle ilgili değil, kayırmacılıkla ilgilidir.", "isCorrect": false },
+        { "text": "Hiçbir ceza almamak", "rationale": "Adalet suç varsa cezayı da gerektirir.", "isCorrect": false },
+        { "text": "İş yükünün tamamen kaldırılması", "rationale": "Bu gerçekçi veya adil bir beklenti değildir.", "isCorrect": false }
+      ],
+      "hint": "Terazi dengesi gibi düşünün; verilen emek ile alınan karşılık arasında bir eşitlik aranır."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Başkalarına yardım etme ilkesi kapsamında, grupların bir grubun ötekine zarar vermemesine dayanan karşılıklı yardımlaşmalarına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Rekabet", "rationale": "Rekabet yarışmayı ifade eder, yardımlaşmayı değil.", "isCorrect": false },
+        { "text": "İşbirliği", "rationale": "İki veya daha fazla grubun ortak yarar için güçlerini birleştirmesi işbirliğidir.", "isCorrect": true },
+        { "text": "Çatışma", "rationale": "Çatışma anlaşmazlığı ifade eder.", "isCorrect": false },
+        { "text": "Sömürü", "rationale": "Sömürü bir tarafın diğerini kullanmasıdır.", "isCorrect": false },
+        { "text": "Asimilasyon", "rationale": "Asimilasyon kültürel bir erime sürecidir.", "isCorrect": false }
+      ],
+      "hint": "Birlikte çalışarak ortak fayda sağlama durumu."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Başkalarına saygı göstermenin temelinde yatan ve kişinin kendini karşısındakinin yerine koyabilme yeteneği olarak tanımlanan kavram nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sempati", "rationale": "Sempati duygudaşlıktır ama kendini yerine koyma şartı aramaz.", "isCorrect": false },
+        { "text": "Empati", "rationale": "Empati, olaylara başkasının bakış açısıyla bakabilme yeteneğidir ve saygının temelidir.", "isCorrect": true },
+        { "text": "Antipati", "rationale": "Antipati karşıt duygular beslemektir.", "isCorrect": false },
+        { "text": "Telepati", "rationale": "Telepati düşünce okumadır, etik bir kavram değildir.", "isCorrect": false },
+        { "text": "Apati", "rationale": "Apati duyarsızlık halidir.", "isCorrect": false }
+      ],
+      "hint": "Modern toplumda gerek duyulan, 'onun ayakkabılarını giymek' deyimiyle de anlatılan yetenek."
+    },
+    {
+      "questionNumber": 9,
+      "question": "'Mükemmeliyeti Aramak' ilkesi işletmelerde hangi sonuca ulaşmayı hedefler?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sıfır hatayla üretilmiş mal ve hizmete", "rationale": "Mükemmeliyetçilik, hatasızlık ve en yüksek kaliteyi hedefler.", "isCorrect": true },
+        { "text": "Sadece kar maksimizasyonuna", "rationale": "Kar bir sonuçtur ama mükemmellik kaliteye odaklanır.", "isCorrect": false },
+        { "text": "Rakipleri yok etmeye", "rationale": "Bu etik dışı bir rekabet anlayışı olabilir.", "isCorrect": false },
+        { "text": "Çalışan sayısını azaltmaya", "rationale": "Bu bir verimlilik hedefi olabilir ama mükemmellik ilkesinin doğrudan amacı değildir.", "isCorrect": false },
+        { "text": "Yasal boşluklardan yararlanmaya", "rationale": "Bu etik dışı bir davranıştır.", "isCorrect": false }
+      ],
+      "hint": "Bir işi en iyi şekilde, eksiksiz ve kusursuz yapma çabası."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Sorumluluk ilkesi bağlamında, işletmelerin toplumun refahı için zorunlu olmasa da yaptıkları hayırsever davranışlar hangi sorumluluk türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ekonomik Sorumluluk", "rationale": "Ekonomik sorumluluk kar elde etme ve hissedarlara kazanç sağlamayla ilgilidir.", "isCorrect": false },
+        { "text": "Yasal Sorumluluk", "rationale": "Yasal sorumluluk kanunlara uymayı gerektirir.", "isCorrect": false },
+        { "text": "Gönüllü (Hayırsever) Sorumluluk", "rationale": "Toplum yararına yapılan ve zorunluluk içermeyen yardımlar bu kapsama girer.", "isCorrect": true },
+        { "text": "Ahlaki Sorumluluk", "rationale": "Ahlaki sorumluluk yazılı olmayan normlara uymayı gerektirir, gönüllülükten farklıdır.", "isCorrect": false },
+        { "text": "Mesleki Sorumluluk", "rationale": "Mesleki standartlara uymakla ilgilidir.", "isCorrect": false }
+      ],
+      "hint": "İngilizcesi 'Philanthropic' olan, tamamen isteğe bağlı toplumsal katkılar."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Dünya Turizm Örgütü (UNWTO) tarafından kabul edilen 'Turizmde Global Etik İlkeler' kaç ana maddeden oluşmaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "5", "rationale": "5 madde eksiktir.", "isCorrect": false },
+        { "text": "8", "rationale": "8 madde eksiktir.", "isCorrect": false },
+        { "text": "10", "rationale": "Bildirge 10 ana maddeden oluşmaktadır.", "isCorrect": true },
+        { "text": "12", "rationale": "12 madde fazladır.", "isCorrect": false },
+        { "text": "15", "rationale": "15 madde fazladır.", "isCorrect": false }
+      ],
+      "hint": "Bu ilkeler 1999 yılında Santiago-Şili'de kabul edilmiştir."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Turizmde Global Etik İlkeler'in 1. maddesi olan 'Turizmin Toplumlararası Karşılıklı Anlayışa Katkısı'na göre turistlerden beklenen temel davranış nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Gittikleri yerde kendi kültürlerini yaymaları", "rationale": "Turistlerden kendi kültürlerini dayatmaları değil, gittikleri yere saygı duymaları beklenir.", "isCorrect": false },
+        { "text": "Ziyaret ettikleri yerin yasalarına ve geleneklerine saygı göstermeleri", "rationale": "Turistler ev sahibi topluma uyum sağlamalı ve saygılı olmalıdır.", "isCorrect": true },
+        { "text": "Sadece otel sınırları içinde kalmaları", "rationale": "Bu turizmin amacına aykırıdır.", "isCorrect": false },
+        { "text": "Yerel halkla iletişim kurmaktan kaçınmaları", "rationale": "Aksine, karşılıklı anlayış için iletişim önemlidir.", "isCorrect": false },
+        { "text": "Seyahat acentasının her dediğini yapmaları", "rationale": "Bu bir zorunluluktan ziyade operasyonel bir durumdur.", "isCorrect": false }
+      ],
+      "hint": "Misafir olunan evin kurallarına uymak gibi düşünülebilir."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Madde 2 (Turizmin Bireysel ve Kolektif Yönleri) uyarınca, turizmin temel amaçlarına aykırı olan ve kesinlikle yasaklanması gereken eylem nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Dini amaçlı seyahatler", "rationale": "Dini turizm teşvik edilen bir türdür.", "isCorrect": false },
+        { "text": "Dil öğrenme turları", "rationale": "Eğitim amaçlı turizm yararlıdır.", "isCorrect": false },
+        { "text": "İnsan sömürüsü, özellikle çocuklara yönelik cinsel istismar", "rationale": "Bu, turizmin etik değerlerine tamamen zıttır ve suçtur.", "isCorrect": true },
+        { "text": "Toplu grup gezileri", "rationale": "Grup gezileri normal bir turizm faaliyetidir.", "isCorrect": false },
+        { "text": "Lüks tatil harcamaları", "rationale": "Lüks tüketim kişisel bir tercihtir, etik dışı sayılmaz.", "isCorrect": false }
+      ],
+      "hint": "Turizmin en karanlık yüzü olarak kabul edilen ve savunmasız grupları hedef alan suç."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Madde 3 (Sürdürülebilir Gelişmenin Unsuru Olarak Turizm) gereği, turist akışının arttığı dönemlerde (okul tatilleri gibi) nasıl bir düzenleme yapılması önerilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Fiyatların en yüksek seviyeye çekilmesi", "rationale": "Fiyat artışı ekonomik bir sonuçtur, etik bir öneri değildir.", "isCorrect": false },
+        { "text": "Turist sayısının sınırsız bırakılması", "rationale": "Bu çevreye zarar verir.", "isCorrect": false },
+        { "text": "Turizmin çevre üzerindeki etkisini azaltacak şekilde düzenlenmesi", "rationale": "Yoğun dönemlerde çevresel baskıyı yönetmek esastır.", "isCorrect": true },
+        { "text": "Sadece yabancı turistlere öncelik verilmesi", "rationale": "Bu ayrımcılık olur.", "isCorrect": false },
+        { "text": "Tesislerin kapatılması", "rationale": "Tesis kapatmak turizmi durdurur, çözüm değildir.", "isCorrect": false }
+      ],
+      "hint": "Yükü dengelemek ve doğayı korumakla ilgili bir yaklaşım."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Madde 4'e göre, kültürel mirasın korunması bağlamında özel mülke ait tarihi yapıların durumu ne olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Halka tamamen kapatılmalıdır", "rationale": "Kültürel mirasın paylaşılması esastır.", "isCorrect": false },
+        { "text": "Devlet tarafından el konulmalıdır", "rationale": "Mülkiyet haklarına aykırıdır.", "isCorrect": false },
+        { "text": "Yıkılıp yerine otel yapılmalıdır", "rationale": "Bu kültürel mirası yok etmektir.", "isCorrect": false },
+        { "text": "Sahiplerinin izniyle halka açılması desteklenmelidir", "rationale": "Özel mülkiyet haklarına saygı duyularak mirasın topluma sunulması hedeflenir.", "isCorrect": true },
+        { "text": "Sadece zengin turistlere gösterilmelidir", "rationale": "Bu eşitsizlik yaratır.", "isCorrect": false }
+      ],
+      "hint": "Hem sahibinin hakkını koruyan hem de toplumun mirastan faydalanmasını sağlayan denge."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Madde 5 (Ülke ve Toplumların Refahını Artıran Bir Faaliyet Olarak Turizm) uyarınca, yerel işgücü ile ilgili hangi politika izlenmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Her zaman en ucuz işgücü tercih edilmelidir", "rationale": "Ucuz işgücü sömürüye yol açabilir.", "isCorrect": false },
+        { "text": "Yetenekler eşit olduğunda yerel işgücü tercih edilmelidir", "rationale": "Yerel halkın turizmden ekonomik pay alması için bu önemlidir.", "isCorrect": true },
+        { "text": "Sadece yabancı personel çalıştırılmalıdır", "rationale": "Bu yerel kalkınmayı engeller.", "isCorrect": false },
+        { "text": "Yerel halk turizmden uzak tutulmalıdır", "rationale": "Bu sosyal entegrasyonu bozar.", "isCorrect": false },
+        { "text": "İşgücü seçimi tamamen şansa bırakılmalıdır", "rationale": "Profesyonel bir yaklaşım değildir.", "isCorrect": false }
+      ],
+      "hint": "Turizmin geliri bölge insanına kalmalıdır ilkesi."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Madde 6'ya göre, turizm yöneticileri turistlere sundukları bilgiler konusunda nasıl davranmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Turisti çekmek için abartılı bilgiler vermelidir", "rationale": "Bu yanıltıcı reklamdır ve etik değildir.", "isCorrect": false },
+        { "text": "Gerçekçi ve doğru bilgiler sağlamalıdır", "rationale": "Dürüstlük ilkesi gereği bilgi doğru olmalıdır.", "isCorrect": true },
+        { "text": "Olumsuz özellikleri tamamen gizlemelidir", "rationale": "Gizlemek dürüstlüğe aykırıdır.", "isCorrect": false },
+        { "text": "Sadece görsellere önem vermelidir", "rationale": "İçerik doğruluğu da önemlidir.", "isCorrect": false },
+        { "text": "Bilgi vermekten kaçınmalıdır", "rationale": "Bilgilendirme yöneticinin sorumluluğudur.", "isCorrect": false }
+      ],
+      "hint": "Broşürde vaat edilenle gerçekte sunulanın aynı olması gerekir."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Turizmde basın ve medyanın sorumluluğu ile ilgili olarak (Madde 6), olaylar hakkında nasıl yayın yapılması istenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sansasyonel ve abartılı", "rationale": "Bu turizme haksız zarar verebilir.", "isCorrect": false },
+        { "text": "Doğru ve dengeli", "rationale": "Basın, turizm hareketlerini etkileyebileceği için objektif olmalıdır.", "isCorrect": true },
+        { "text": "Sadece reklam amaçlı", "rationale": "Haber verme sorumluluğu reklamdan farklıdır.", "isCorrect": false },
+        { "text": "Siyasi görüşe göre taraflı", "rationale": "Tarafsızlık esastır.", "isCorrect": false },
+        { "text": "Turizmi tamamen kötüleyen", "rationale": "Önyargılı kötülme etik değildir.", "isCorrect": false }
+      ],
+      "hint": "Bir kriz anında (deprem, terör vb.) medyanın kullanacağı dilin dürüstlüğü."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Madde 7 (Turizme Katılma Hakkı) bağlamında, turizm hangi evrensel hakkın bir sonucu olarak değerlendirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mülkiyet edinme hakkı", "rationale": "Turizm mülkiyetle değil deneyimle ilgilidir.", "isCorrect": false },
+        { "text": "Seçme ve seçilme hakkı", "rationale": "Siyasi haklarla doğrudan ilgisi yoktur.", "isCorrect": false },
+        { "text": "Dinlenme ve ücretli izin hakkı", "rationale": "İnsan Hakları Evrensel Bildirgesi'ndeki dinlenme hakkı turizmin temelidir.", "isCorrect": true },
+        { "text": "Eğitim hakkı", "rationale": "İlgili olabilir ama temel dayanak dinlenme hakkıdır.", "isCorrect": false },
+        { "text": "Basın özgürlüğü", "rationale": "Alakasızdır.", "isCorrect": false }
+      ],
+      "hint": "Çalışan insanların yorgunluklarını atmaları için yasalarla tanınan hak."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Madde 8 (Turizm Hareketinde Özgürlük) gereği, sınır geçişlerindeki vize ve gümrük işlemleri için ne önerilmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mümkün olduğunca zorlaştırılmalıdır", "rationale": "Zorlaştırmak seyahat özgürlüğünü kısıtlar.", "isCorrect": false },
+        { "text": "Tamamen kaldırılmalıdır", "rationale": "Güvenlik nedeniyle tamamen kaldırmak her zaman mümkün olmayabilir.", "isCorrect": false },
+        { "text": "Uluslararası anlaşmalarla basitleştirilmelidir", "rationale": "Bürokrasinin azaltılması turizmi teşvik eder.", "isCorrect": true },
+        { "text": "Sadece zenginlere kolaylık sağlanmalıdır", "rationale": "Bu eşitlik ilkesine aykırıdır.", "isCorrect": false },
+        { "text": "Her ülkenin keyfine bırakılmalıdır", "rationale": "Ortak standartlar gereklidir.", "isCorrect": false }
+      ],
+      "hint": "Turistin seyahatini kolaylaştırmak için bürokrasinin azaltılması."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Madde 9 (Turizm Sektöründe Çalışanların Hakları) kapsamında, mevsimsel çalışanların durumuyla ilgili temel vurgu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hakları yerel yönetimlerce garanti altına alınmalıdır", "rationale": "Sektörün esnek yapısı nedeniyle çalışan haklarının korunması esastır.", "isCorrect": true },
+        { "text": "Mevsimlik işçilere sigorta yapılmamalıdır", "rationale": "Bu yasalara ve etiğe aykırıdır.", "isCorrect": false },
+        { "text": "Sadece yazın çalışıp kışın maaş almamalıdırlar", "rationale": "Bu zaten mevcut durumdur, vurgu hakların korunmasıdır.", "isCorrect": false },
+        { "text": "Mevsimlik işçilerin sendikalaşması yasaklanmalıdır", "rationale": "Örgütlenme hakkı engellenemez.", "isCorrect": false },
+        { "text": "Yabancı işçiler tercih edilmelidir", "rationale": "Ayrımcılık yapılamaz.", "isCorrect": false }
+      ],
+      "hint": "Turizm işçilerinin sosyal güvenliği ve iş güvencesi."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Madde 10 (Uygulama) uyarınca, etik ilkelerin uygulanmasında ortaya çıkan sorunları çözmek için hangi organ tanınmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uluslararası Adalet Divanı", "rationale": "Genel hukuk organıdır, turizm etiği için özel değildir.", "isCorrect": false },
+        { "text": "Turizmde Etik İlkeler Dünya Komitesi", "rationale": "Bu bildirgeye özgü bağımsız denetim organıdır.", "isCorrect": true },
+        { "text": "Yerel Polis Teşkilatları", "rationale": "Adli vakalarla ilgilenir, etik yorumla değil.", "isCorrect": false },
+        { "text": "Otelciler Birliği", "rationale": "Sadece konaklama sektörünü temsil eder.", "isCorrect": false },
+        { "text": "Seyahat Acentaları Birliği", "rationale": "Sadece acenteleri temsil eder.", "isCorrect": false }
+      ],
+      "hint": "Bağımsız ve tarafsız bir arabulucu komite."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Etik dışı davranışların temel kaynaklarından biri olarak gösterilen 'bireysel algılama yanlışlıkları' neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kişinin doğru ve yanlışı kendi çıkarına göre yorumlamasını", "rationale": "Kişisel değerlerin evrensel doğruların önüne geçmesi durumudur.", "isCorrect": true },
+        { "text": "Teknolojik hataları", "rationale": "Teknolojiyle ilgili değildir.", "isCorrect": false },
+        { "text": "Yasalardaki boşlukları", "rationale": "Yasal bir durum değildir.", "isCorrect": false },
+        { "text": "Müşteri şikayetlerini", "rationale": "Müşteri davranışı değildir.", "isCorrect": false },
+        { "text": "Ekonomik krizi", "rationale": "Dışsal bir faktördür.", "isCorrect": false }
+      ],
+      "hint": "Sorunun kaynağının 'kişinin kendisinde' olması."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Yapılan araştırmalara göre, işletmelerde en sık karşılaşılan etik dışı davranışlardan biri olan 'Çıkar Çatışması' nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İki çalışanın kavga etmesi", "rationale": "Bu fiziksel çatışmadır.", "isCorrect": false },
+        { "text": "Kişisel çıkarların örgütsel çıkarların önüne geçmesi", "rationale": "Bireyin kendi menfaati için kuruma zarar verebilecek kararlar almasıdır.", "isCorrect": true },
+        { "text": "Müşterinin fiyata itiraz etmesi", "rationale": "Bu ticari bir pazarlıktır.", "isCorrect": false },
+        { "text": "Rakip firmayla rekabet etmek", "rationale": "Bu doğal bir ticari süreçtir.", "isCorrect": false },
+        { "text": "Mesai saatlerine uymamak", "rationale": "Bu disiplin suçudur.", "isCorrect": false }
+      ],
+      "hint": "Kendi cebini şirketin kasasından daha çok düşünmek."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Cinsel taciz tanımı içinde yer alan 'istenmeyen davranış' ifadesi neyi kapsamaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sözlü sarkıntılık", "rationale": "Taciz kapsamındadır.", "isCorrect": false },
+        { "text": "Israrlı bakışlar", "rationale": "Taciz kapsamındadır.", "isCorrect": false },
+        { "text": "Karşılıklı rızaya dayalı flört", "rationale": "Rıza varsa tacizden söz edilemez.", "isCorrect": true },
+        { "text": "Fiziksel temas", "rationale": "İstenmiyorsa tacizdir.", "isCorrect": false },
+        { "text": "Cinsel içerikli şakalar", "rationale": "Rahatsız ediyorsa tacizdir.", "isCorrect": false }
+      ],
+      "hint": "Tacizin temel kriteri 'zorla' veya 'rahatsızlık verici' olmasıdır."
+    },
+    {
+      "questionNumber": 26,
+      "question": "'Bencillik' (Egoizm) etik dışı davranışının turizm sektöründeki en büyük zararı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maliyetleri artırması", "rationale": "Dolaylı etkidir.", "isCorrect": false },
+        { "text": "İşbirliği ve koordinasyonu engellemesi", "rationale": "Turizm bir ekip işidir, bencillik takım oyununu bozar.", "isCorrect": true },
+        { "text": "Yasal cezalara neden olması", "rationale": "Her bencillik suç değildir.", "isCorrect": false },
+        { "text": "Teknolojiyi yavaşlatması", "rationale": "İlgisi yoktur.", "isCorrect": false },
+        { "text": "Döviz kurunu etkilemesi", "rationale": "Makroekonomik bir etkisi yoktur.", "isCorrect": false }
+      ],
+      "hint": "Turizmde hizmetin bir zincirleme reaksiyon olduğunu ve bir kişinin hatasının herkesi etkilediğini düşünün."
+    },
+    {
+      "questionNumber": 27,
+      "question": "'Mobbing' (Duygusal Zorbalık) kavramının temel amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çalışanı eğitmek", "rationale": "Eğitim yapıcıdır, mobbing yıkıcıdır.", "isCorrect": false },
+        { "text": "Bireyi yıldırarak örgütten ayrılmasını sağlamak", "rationale": "Sistematik baskıyla kişiyi istifaya zorlamaktır.", "isCorrect": true },
+        { "text": "Verimliliği artırmak", "rationale": "Mobbing verimliliği düşürür.", "isCorrect": false },
+        { "text": "Arkadaşlık kurmak", "rationale": "Düşmanca bir davranıştır.", "isCorrect": false },
+        { "text": "Maaş artışı yapmak", "rationale": "Alakasızdır.", "isCorrect": false }
+      ],
+      "hint": "Bezdiri politikası."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Aşağıdakilerden hangisi Mobbing davranışlarına bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çalışana doğum günü partisi düzenlemek", "rationale": "Olumlu bir davranıştır.", "isCorrect": false },
+        { "text": "Çalışanı görmezden gelmek ve izole etmek (Yok saymak)", "rationale": "Sosyal dışlama tipik bir mobbing yöntemidir.", "isCorrect": true },
+        { "text": "Hataları yapıcı bir dille eleştirmek", "rationale": "Bu geri bildirimdir.", "isCorrect": false },
+        { "text": "Adil görev dağılımı yapmak", "rationale": "Bu adaletli yönetimdir.", "isCorrect": false },
+        { "text": "Yıllık izin hakkını kullandırmak", "rationale": "Yasal haktır.", "isCorrect": false }
+      ],
+      "hint": "Kişiyi odada yokmuş gibi davranmak."
+    },
+    {
+      "questionNumber": 29,
+      "question": "'Bullying' (Şiddet ve Saldırganlık) ile Mobbing arasındaki temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mobbing sadece fizikseldir", "rationale": "Mobbing duygusaldır.", "isCorrect": false },
+        { "text": "Bullying daha çok fiziksel tehdit ve kaba kuvvet içerir", "rationale": "Bullying kabadayılık ve fiziksel/sözlü sert saldırganlığı ifade eder.", "isCorrect": true },
+        { "text": "Mobbing bir kez yapılır", "rationale": "Mobbing süreklilik arz eder.", "isCorrect": false },
+        { "text": "Bullying sadece yöneticiler yapar", "rationale": "Herkes yapabilir.", "isCorrect": false },
+        { "text": "Fark yoktur", "rationale": "Yöntemleri farklıdır.", "isCorrect": false }
+      ],
+      "hint": "Birinde psikolojik savaş (mobbing), diğerinde kaba kuvvet ve bağırıp çağırma (bullying) ön plandadır."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Kişisel gücün kötüye kullanılması kapsamında, yöneticinin 'sevmediği' bir çalışana haksız yere disiplin cezası vermesi hangi güç türünün kötüye kullanımıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uzmanlık gücü", "rationale": "Bilgiye dayalıdır.", "isCorrect": false },
+        { "text": "Cezalandırıcı güç", "rationale": "Yöneticinin ceza verme yetkisini keyfi kullanmasıdır.", "isCorrect": true },
+        { "text": "Ödüllendirme gücü", "rationale": "Ödül vermeyle ilgilidir.", "isCorrect": false },
+        { "text": "Karizmatik güç", "rationale": "Kişilikle ilgilidir.", "isCorrect": false },
+        { "text": "Yasal güç", "rationale": "Yasal güç yetkidir ama burada kötüye kullanım söz konusudur.", "isCorrect": false }
+      ],
+      "hint": "Yetkiyi sopa olarak kullanmak."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Ayrımcılık (Discrimination) ile Önyargı arasındaki ilişki nasıldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Önyargı eylemdir, ayrımcılık duygudur", "rationale": "Tam tersidir.", "isCorrect": false },
+        { "text": "Önyargı bir duygu/düşünce iken, ayrımcılık bunun eyleme dökülmüş halidir", "rationale": "Kafadaki yanlış düşüncenin davranışa yansıması ayrımcılıktır.", "isCorrect": true },
+        { "text": "İkisi de aynı şeydir", "rationale": "Farklı aşamalardır.", "isCorrect": false },
+        { "text": "Ayrımcılık her zaman olumludur", "rationale": "Olumsuzdur.", "isCorrect": false },
+        { "text": "Önyargı olmadan ayrımcılık olmaz", "rationale": "Kurumsal ayrımcılık bazen önyargısız sistemlerden de doğabilir ama genelde ilişkilidir.", "isCorrect": false }
+      ],
+      "hint": "Bir şeyi düşünmek (önyargı) ile onu yapmak (ayrımcılık) arasındaki fark."
+    },
+    {
+      "questionNumber": 32,
+      "question": "'Kurumsal Ayrımcılık' ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kurumun logosunun beğenilmemesi", "rationale": "Alakasızdır.", "isCorrect": false },
+        { "text": "İşletmede belirli grupların (kadınlar, azınlıklar vb.) sistematik olarak geri planda tutulması", "rationale": "Kurum kültürü veya kuralları nedeniyle oluşan görünmez engellerdir.", "isCorrect": true },
+        { "text": "Çalışanların aynı kıyafeti giymesi", "rationale": "Bu üniformadır.", "isCorrect": false },
+        { "text": "Müşterilerin otele alınmaması", "rationale": "Bu müşteri seçimidir.", "isCorrect": false },
+        { "text": "Kurumun iflas etmesi", "rationale": "Alakasızdır.", "isCorrect": false }
+      ],
+      "hint": "Cam tavan sendromu gibi, kağıt üzerinde eşitlik olsa da pratikte bazı grupların yükselememesi."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Kayırma (Nepotizm) davranışında, bir kişi işe alınırken veya terfi ettirilirken neye bakılarak karar verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Liyakat ve yeteneğe", "rationale": "Bu doğru olan yöntemdir.", "isCorrect": false },
+        { "text": "Eğitim durumuna", "rationale": "Profesyonel kriterdir.", "isCorrect": false },
+        { "text": "Akrabalık, hemşehrilik veya arkadaşlık bağlarına", "rationale": "Kayırmacılığın temelinde kan bağı veya yakınlık yatar.", "isCorrect": true },
+        { "text": "Yabancı dil bilgisine", "rationale": "Yetenektir.", "isCorrect": false },
+        { "text": "Fiziksel görünümüne", "rationale": "Bu da ayrımcılık olabilir ama nepotizm doğrudan yakınlıkla ilgilidir.", "isCorrect": false }
+      ],
+      "hint": "Dayısı olanın işi kapması."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Rüşvet ile hediye arasındaki temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hediye karşılıksızdır, rüşvet ise bir ayrıcalık veya menfaat karşılığında verilir", "rationale": "Rüşvet bir 'al gülüm ver gülüm' anlaşmasıdır ve yasa dışıdır.", "isCorrect": true },
+        { "text": "Hediye paradır, rüşvet maldır", "rationale": "İkisi de her şey olabilir.", "isCorrect": false },
+        { "text": "Hediye gizlidir, rüşvet açıktır", "rationale": "Tam tersi rüşvet gizlidir.", "isCorrect": false },
+        { "text": "Fark yoktur", "rationale": "Büyük ahlaki ve yasal fark vardır.", "isCorrect": false },
+        { "text": "Hediye sadece yöneticilere verilir", "rationale": "Herkese verilebilir.", "isCorrect": false }
+      ],
+      "hint": "Bir işi halletmek için 'çorba parası' vermek."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Türk Ceza Yasası'na göre 'İhmal' suçunun tanımı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Görevi kötüye kullanmak", "rationale": "Benzerdir ama ihmal yapmamaktır.", "isCorrect": false },
+        { "text": "Görevin geçerli bir neden olmaksızın yapılmaması veya geciktirilmesi", "rationale": "Yapması gerekeni yapmayarak zarara yol açmaktır.", "isCorrect": true },
+        { "text": "Hırsızlık yapmak", "rationale": "Aktif bir suçtur.", "isCorrect": false },
+        { "text": "Yalan söylemek", "rationale": "Etik dışıdır ama ihmal eylemsizliktir.", "isCorrect": false },
+        { "text": "Kavga etmek", "rationale": "Aktif suçtur.", "isCorrect": false }
+      ],
+      "hint": "Cankurtaranın görev yerinde uyuması veya havuz başında olmaması."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Turizmde 'Sömürü' (İstismar) kavramı çalışanlar açısından en çok nasıl karşımıza çıkar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yüksek maaş verilmesi", "rationale": "Sömürü değil ödüldür.", "isCorrect": false },
+        { "text": "Sigortasız çalıştırma, fazla mesai ücretinin ödenmemesi", "rationale": "Emek hırsızlığıdır.", "isCorrect": true },
+        { "text": "Sürekli eğitim verilmesi", "rationale": "Gelişimdir.", "isCorrect": false },
+        { "text": "Üniforma zorunluluğu", "rationale": "Kuraldır.", "isCorrect": false },
+        { "text": "Müşteri ile konuşma yasağı", "rationale": "Disiplin kuralıdır.", "isCorrect": false }
+      ],
+      "hint": "Stajyerleri ucuz işgücü olarak kullanmak."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Yolsuzluk (Corruption) kavramının genel tanımı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yol yapım çalışması", "rationale": "Kelime benzerliğidir.", "isCorrect": false },
+        { "text": "Kamusal yetkilerin yasa dışı çıkar sağlamak amacıyla kullanılması", "rationale": "Gücün kirlenmesidir.", "isCorrect": true },
+        { "text": "Trafik kurallarına uymamak", "rationale": "Alakasızdır.", "isCorrect": false },
+        { "text": "Yanlış yola girmek", "rationale": "Mecaz değildir.", "isCorrect": false },
+        { "text": "Hata yapmak", "rationale": "Yolsuzluk kasıtlıdır.", "isCorrect": false }
+      ],
+      "hint": "Devletin veya kurumun imkanlarını kendi malı gibi kullanıp menfaat sağlamak."
+    },
+    {
+      "questionNumber": 38,
+      "question": "'İşkence' kavramı iş etiğinde sadece fiziksel midir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Evet, sadece dayaktır", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Hayır, psikolojik baskı ve eziyet de işkence kapsamındadır", "rationale": "İnsana manevi olarak aşırı eziyet çektirmek de işkencedir.", "isCorrect": true },
+        { "text": "İşyerinde işkence olmaz", "rationale": "Maalesef mobbingin ileri boyutu olabilir.", "isCorrect": false },
+        { "text": "Sadece savaşta olur", "rationale": "Sivil hayatta da olur.", "isCorrect": false },
+        { "text": "Sadece hayvanlara yapılır", "rationale": "İnsanlara da yapılır.", "isCorrect": false }
+      ],
+      "hint": "Bir çalışanı istifaya zorlamak için yapılan ağır psikolojik saldırılar."
+    },
+    {
+      "questionNumber": 39,
+      "question": "'Engelleyici Olma' ve 'Yanlış Yönlendirme' davranışı genellikle hangi duygu durumundan kaynaklanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yardımseverlik", "rationale": "Tezattır.", "isCorrect": false },
+        { "text": "Gücü elinde bulundurma arzusu ve 'en iyi benim' duygusu", "rationale": "Başkalarının başarısını kıskanmak ve kontrolü kaybetmemek isteğidir.", "isCorrect": true },
+        { "text": "Bilgisizlik", "rationale": "Bazen olabilir ama genelde kasıtlıdır.", "isCorrect": false },
+        { "text": "Yorgunluk", "rationale": "Geçici bir durumdur.", "isCorrect": false },
+        { "text": "Korku", "rationale": "Korku da olabilir ama hegemonya kurma isteği daha baskındır.", "isCorrect": false }
+      ],
+      "hint": "Bilgiyi saklayarak başkasının iş yapmasını sabote etmek."
+    },
+    {
+      "questionNumber": 40,
+      "question": "İş yerinde 'Dedikodu'nun yarattığı en büyük olumsuzluk nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Zamanın çabuk geçmesi", "rationale": "Bu bir fayda değildir.", "isCorrect": false },
+        { "text": "Güven ortamının bozulması ve çatışma çıkması", "rationale": "Asılsız söylentiler insanları birbirine düşürür.", "isCorrect": true },
+        { "text": "Bilgi akışının hızlanması", "rationale": "Yanlış bilgi akışıdır.", "isCorrect": false },
+        { "text": "Yöneticilerin çalışanları tanıması", "rationale": "Yanlış tanımaya yol açar.", "isCorrect": false },
+        { "text": "Maaşların artması", "rationale": "Alakasızdır.", "isCorrect": false }
+      ],
+      "hint": "Doğruluğu bilinmeyen haberlerin kulaktan kulağa yayılması."
+    },
+    {
+      "questionNumber": 41,
+      "question": "'Dogmatik Davranma' yenilikler karşısında nasıl bir tutum sergiler?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yenilikleri hemen kabul eder", "rationale": "Dogmatiklik değişime kapalıdır.", "isCorrect": false },
+        { "text": "Eski yöntemlere körü körüne bağlı kalır ve değişimi reddeder", "rationale": "Doğruluğu kalmasa bile eskiyi savunur.", "isCorrect": true },
+        { "text": "Araştırma yapar", "rationale": "Sorgulamaz.", "isCorrect": false },
+        { "text": "Esnektir", "rationale": "Katıdır.", "isCorrect": false },
+        { "text": "Teknolojiyi sever", "rationale": "Genelde karşı çıkar.", "isCorrect": false }
+      ],
+      "hint": "Galileo'ya 'Dünya dönmüyor' diyen zihniyet."
+    },
+    {
+      "questionNumber": 42,
+      "question": "'Yobazlık - Bağnazlık' ile ilgili en belirgin özellik nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hoşgörülü olmak", "rationale": "Tam zıttıdır.", "isCorrect": false },
+        { "text": "Farklı fikirlere tahammülsüzlük ve kendi doğrusunu tek doğru sanmak", "rationale": "Başkasına hayat hakkı tanımayan katı tutumdur.", "isCorrect": true },
+        { "text": "Çok okumak", "rationale": "Genelde cahillikten beslenir.", "isCorrect": false },
+        { "text": "Seyahat etmek", "rationale": "Zihni açar, yobazlıkla çelişir.", "isCorrect": false },
+        { "text": "Bilime inanmak", "rationale": "Bilim sorgular, yobazlık reddeder.", "isCorrect": false }
+      ],
+      "hint": "Kendi düşüncesinden olmayana saldırmak."
+    },
+    {
+      "questionNumber": 43,
+      "question": "'Zimmet' ile 'Hırsızlık' arasındaki fark, zimmetin kim tarafından yapılmasıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Herhangi bir vatandaş", "rationale": "Hırsızlıktır.", "isCorrect": false },
+        { "text": "Kamu görevlisi veya yetkili personel", "rationale": "Zimmet, kendisine emanet edilen malı şahsi geçirmektir.", "isCorrect": true },
+        { "text": "Çocuklar", "rationale": "Sorumlu değildir.", "isCorrect": false },
+        { "text": "Turistler", "rationale": "Hırsızlık olur.", "isCorrect": false },
+        { "text": "Rakipler", "rationale": "Casusluk olur.", "isCorrect": false }
+      ],
+      "hint": "Kasa anahtarının emanet edildiği kişinin kasayı boşaltması."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Sürdürülebilirlik kavramı kaç temel boyuttan oluşur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "1 (Sadece Çevre)", "rationale": "Eksiktir.", "isCorrect": false },
+        { "text": "2 (Çevre ve Ekonomi)", "rationale": "Eksiktir.", "isCorrect": false },
+        { "text": "3 (Çevresel, Ekonomik, Sosyal)", "rationale": "Sürdürülebilirlik bu üç ayağın dengesidir.", "isCorrect": true },
+        { "text": "4 (Çevre, Ekonomi, Sosyal, Siyasi)", "rationale": "Siyasi boyut genelde sosyal içinde erir.", "isCorrect": false },
+        { "text": "5", "rationale": "Standart tanım 3'lüdür.", "isCorrect": false }
+      ],
+      "hint": "Sadece doğayı korumak yetmez, para kazanmalı ve insanları da mutlu etmelidir."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Ekonomik sürdürülebilirlik neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Doğayı korumayı", "rationale": "Çevresel boyuttur.", "isCorrect": false },
+        { "text": "Kaynakların verimli kullanılarak uzun vadeli istikrarın sağlanmasını", "rationale": "İsrafın önlenmesi ve karlılığın devamlılığıdır.", "isCorrect": true },
+        { "text": "Her şeyi bedava dağıtmayı", "rationale": "Sürdürülebilir değildir.", "isCorrect": false },
+        { "text": "Sadece bugünü kurtarmayı", "rationale": "Kısa vadelidir.", "isCorrect": false },
+        { "text": "Vergi kaçırmayı", "rationale": "Suçtur.", "isCorrect": false }
+      ],
+      "hint": "Altın yumurtlayan tavuğu kesmemek."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Turizmde dijitalleşmenin getirdiği 'Online Yorum Manipülasyonu' etik sorunu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İnternetin kesilmesi", "rationale": "Teknik sorundur.", "isCorrect": false },
+        { "text": "Sahte olumlu yorumlar yazmak veya olumsuzları sildirmek", "rationale": "Tüketiciyi yanıltmaktır.", "isCorrect": true },
+        { "text": "Web sitesi kurmak", "rationale": "Normal bir işlemdir.", "isCorrect": false },
+        { "text": "Online rezervasyon almak", "rationale": "Normal bir işlemdir.", "isCorrect": false },
+        { "text": "Fotoğraf yüklemek", "rationale": "Normal bir işlemdir.", "isCorrect": false }
+      ],
+      "hint": "Kendini övüp rakibi kötüleyen sahte hesaplar."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Konaklama işletmelerinde yaşanan 'Overbooking' (Fazla Rezervasyon) sorunu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Otelde hiç müşteri olmaması", "rationale": "Düşük doluluktur.", "isCorrect": false },
+        { "text": "Kapasiteden fazla rezervasyon kabul edilmesi", "rationale": "Müşterinin açıkta kalmasına neden olan etik ve operasyonel sorundur.", "isCorrect": true },
+        { "text": "Odanın çok büyük olması", "rationale": "Sorun değildir.", "isCorrect": false },
+        { "text": "Yemeğin çok fazla olması", "rationale": "İsraftır.", "isCorrect": false },
+        { "text": "Fiyatın çok yüksek olması", "rationale": "Pahalıdır.", "isCorrect": false }
+      ],
+      "hint": "Uçaklarda da olan, 100 oda varken 110 kişiye oda satmak."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Seyahat acentelerinde yaşanan 'Tur programına uymama' sorunu neden etik dışıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çünkü rehber yorulur", "rationale": "Kişisel bir durumdur.", "isCorrect": false },
+        { "text": "Müşteriye vaat edilen hizmetin (sözün) yerine getirilmemesidir", "rationale": "Dürüstlük ve sözünde durma ilkesinin ihlalidir.", "isCorrect": true },
+        { "text": "Hava durumu değişebilir", "rationale": "Mücbir sebeptir, etik dışı sayılmaz.", "isCorrect": false },
+        { "text": "Benzin tasarrufu sağlar", "rationale": "Şirket için iyi olsa da müşteri için kötüdür.", "isCorrect": false },
+        { "text": "Oteller kapanabilir", "rationale": "Dışsal faktördür.", "isCorrect": false }
+      ],
+      "hint": "Parasını ödediğiniz müze ziyaretinin 'zaman yetmedi' denerek iptal edilmesi."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Yeme-içme işletmelerinde 'Adisyona (hesaba) fazladan ürün eklemek' hangi etik dışı davranışa örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mükemmeliyetçilik", "rationale": "Alakasızdır.", "isCorrect": false },
+        { "text": "Hırsızlık ve Dürüst olmama", "rationale": "Müşterinin parasını haksız yere almaktır.", "isCorrect": true },
+        { "text": "Pazarlama stratejisi", "rationale": "Dolandırıcılıktır.", "isCorrect": false },
+        { "text": "Bahşiş alma", "rationale": "Bahşiş gönüllüdür.", "isCorrect": false },
+        { "text": "Vergi ödeme", "rationale": "Alakasızdır.", "isCorrect": false }
+      ],
+      "hint": "Yemediğiniz yemeğin parasını ödemek."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Aşağıdakilerden hangisi bir rehberin yapmaması gereken etik dışı bir davranıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Tarihi doğru anlatmak", "rationale": "Görevidir.", "isCorrect": false },
+        { "text": "Grubu güvenli yönetmek", "rationale": "Görevidir.", "isCorrect": false },
+        { "text": "Komisyon almak için turistleri zorla belirli mağazalara götürmek", "rationale": "Hanutçuluk olarak bilinir ve meslek etiğine aykırıdır.", "isCorrect": true },
+        { "text": "Güler yüzlü olmak", "rationale": "Olumludur.", "isCorrect": false },
+        { "text": "Yabancı dil konuşmak", "rationale": "Gerekliliktir.", "isCorrect": false }
+      ],
+      "hint": "Alışveriş tuzağı."
+    }
+    ,
+    {
+      "questionNumber": 51,
+      "question": "Dürüstlük ilkesi gereği, bir otel odası satılırken 'deniz manzaralı' deniyorsa ne olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Oda gerçekten denizi görmelidir", "rationale": "Söz ile gerçek uyumlu olmalıdır.", "isCorrect": true },
+        { "text": "Dürbünle deniz görünmesi yeterlidir", "rationale": "Yanıltıcıdır.", "isCorrect": false },
+        { "text": "Duvarda deniz tablosu olması yeterlidir", "rationale": "Kelime oyunudur, etik dışıdır.", "isCorrect": false },
+        { "text": "Denize 1 km uzaklıkta olması yeterlidir", "rationale": "Manzara vaadi karşılanmaz.", "isCorrect": false },
+        { "text": "Odanın maviye boyanması yeterlidir", "rationale": "Alay etmektir.", "isCorrect": false }
+      ],
+      "hint": "Vaat edilen ile sunulanın aynılığı."
+    },
+    {
+      "questionNumber": 52,
+      "question": "Doğruluk ilkesi ile ilgili 'Kişi ayıplı mal sattığını itiraf ederse dürüstlük göstermiş olur, fakat bu itiraf satıcıyı doğru bir insan yapmaz' sözü neyi anlatır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İtiraf etmek yeterlidir", "rationale": "Yetersizdir.", "isCorrect": false },
+        { "text": "Doğru olmak, baştan ayıplı mal satmamayı (doğru iş yapmayı) gerektirir", "rationale": "Doğruluk eylemin kendisinin düzgün olmasıdır, sadece sonradan özür dilemek değildir.", "isCorrect": true },
+        { "text": "Ayıplı mal satmak ticarettir", "rationale": "Etik değildir.", "isCorrect": false },
+        { "text": "Yalan söylemek daha iyidir", "rationale": "Kötüdür.", "isCorrect": false },
+        { "text": "Satıcı her zaman haklıdır", "rationale": "Yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Hırsızın suçunu itiraf etmesi onu dürüst yapar ama 'iyi insan' yapmaz."
+    },
+    {
+      "questionNumber": 53,
+      "question": "Bir işletmenin tedarikçisine ödeme yaparken söz verdiği tarihte ödeme yapması hangi ilkenin gereğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadakat", "rationale": "Sadakat bağlılıktır.", "isCorrect": false },
+        { "text": "Sözünde Durmak (Vaatlerini Yerine Getirmek)", "rationale": "Ticari itibar için verilen sözün tutulmasıdır.", "isCorrect": true },
+        { "text": "Yardımseverlik", "rationale": "Borç ödemek yardım değil zorunluluktur.", "isCorrect": false },
+        { "text": "Empati", "rationale": "Anlayıştır.", "isCorrect": false },
+        { "text": "Bencillik", "rationale": "Tersidir.", "isCorrect": false }
+      ],
+      "hint": "Çek veya senet gününe uymak."
+    },
+    {
+      "questionNumber": 54,
+      "question": "Sadakat ilkesi gereği bir çalışandan 'İşletme sırlarını' nasıl koruması beklenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Rakiplere satması beklenir", "rationale": "İhanettir.", "isCorrect": false },
+        { "text": "Sosyal medyada paylaşması beklenir", "rationale": "İfşadır.", "isCorrect": false },
+        { "text": "Saklaması ve dışarı sızdırmaması beklenir", "rationale": "Sadakat mahremiyeti korumayı gerektirir.", "isCorrect": true },
+        { "text": "Sadece arkadaşlarına anlatması beklenir", "rationale": "Sır tutamamaktır.", "isCorrect": false },
+        { "text": "Umursamaması beklenir", "rationale": "Sorumsuzluktur.", "isCorrect": false }
+      ],
+      "hint": "Kurumun gizli tarifini başkasına vermemek."
+    },
+    {
+      "questionNumber": 55,
+      "question": "Adalet ilkesi yöneticilerin terfi kararlarında nasıl davranmasını gerektirir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "En çok sevdiği kişiyi terfi ettirmelidir", "rationale": "Kayırmadır.", "isCorrect": false },
+        { "text": "Kendisine en çok hediye alanı terfi ettirmelidir", "rationale": "Rüşvettir.", "isCorrect": false },
+        { "text": "Performansı ve liyakati en yüksek olanı terfi ettirmelidir", "rationale": "Adil olan hak edene hakkını vermektir.", "isCorrect": true },
+        { "text": "En yaşlı olanı terfi ettirmelidir", "rationale": "Her zaman doğru kriter değildir.", "isCorrect": false },
+        { "text": "Kura çekmelidir", "rationale": "Ciddiyetsizdir.", "isCorrect": false }
+      ],
+      "hint": "İşi ehline vermek."
+    },
+    {
+      "questionNumber": 56,
+      "question": "Turizmde 'Sosyal Sorumluluk' projeleri (örneğin doğayı koruma kampanyaları) hangi ilkenin bir yansımasıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Başkalarına Yardım Etmek ve Sorumluluk", "rationale": "Topluma ve çevreye katkı sağlama amacıdır.", "isCorrect": true },
+        { "text": "Bencillik", "rationale": "Tersidir.", "isCorrect": false },
+        { "text": "Yolsuzluk", "rationale": "Tersidir.", "isCorrect": false },
+        { "text": "Gizlilik", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Tasarruf", "rationale": "Amaç tasarruf değil faydadır.", "isCorrect": false }
+      ],
+      "hint": "İşletmenin sadece para kazanmak değil, dünyaya iyi bir şeyler bırakmak istemesi."
+    },
+    {
+      "questionNumber": 57,
+      "question": "'Başkalarına Saygı Göstermek' ilkesi turist rehberinin farklı dini inançlara sahip bir gruba karşı tutumunda nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kendi inancını empoze etmelidir", "rationale": "Saygısızlıktır.", "isCorrect": false },
+        { "text": "Onların inançlarıyla alay etmelidir", "rationale": "Nefret suçudur.", "isCorrect": false },
+        { "text": "İnançlarına ve ritüellerine saygılı ve nazik olmalıdır", "rationale": "Profesyonel ve etik davranıştır.", "isCorrect": true },
+        { "text": "Onları görmezden gelmelidir", "rationale": "İlgisizliktir.", "isCorrect": false },
+        { "text": "Sürekli tartışma çıkarmalıdır", "rationale": "Profesyonel değildir.", "isCorrect": false }
+      ],
+      "hint": "Camiye girerken ayakkabı çıkarma kuralına saygı duymak gibi."
+    },
+    {
+      "questionNumber": 58,
+      "question": "'Mükemmeliyeti Aramak' ilkesine göre bir otel şefi yemek yaparken neye dikkat etmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Malzemeden çalmaya", "rationale": "Hırsızlıktır.", "isCorrect": false },
+        { "text": "En ucuz yemeği yapmaya", "rationale": "Kaliteyi düşürür.", "isCorrect": false },
+        { "text": "Hijyen standartlarına ve lezzete en üst düzeyde uymaya", "rationale": "İşini en iyi şekilde yapma gayretidir.", "isCorrect": true },
+        { "text": "Sadece karnını doyurmaya", "rationale": "Bencilliktir.", "isCorrect": false },
+        { "text": "Yemeği yakmaya", "rationale": "İhmaldir.", "isCorrect": false }
+      ],
+      "hint": "Masterchef gibi düşünün, en iyi tabağı çıkarma tutkusu."
+    },
+    {
+      "questionNumber": 59,
+      "question": "Sorumluluk ilkesi gereği, bir turist otobüsü şoförünün temel sorumluluğu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hızlı gitmek", "rationale": "Tehlikelidir.", "isCorrect": false },
+        { "text": "Yolcuların can güvenliğini sağlamak ve trafik kurallarına uymak", "rationale": "Mesleki ve etik sorumluluktur.", "isCorrect": true },
+        { "text": "Müzik dinlemek", "rationale": "Kişiseldir.", "isCorrect": false },
+        { "text": "Manzarayı izlemek", "rationale": "Dikkati dağıtır.", "isCorrect": false },
+        { "text": "Uyumak", "rationale": "Felakettir.", "isCorrect": false }
+      ],
+      "hint": "Direksiyon başındaki kişinin taşıdığı canlar."
+    },
+    {
+      "questionNumber": 60,
+      "question": "Turizmde Global Etik İlkeler Madde 1'e göre 'ev sahibi halkın' sorumluluğu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Turistleri kovmak", "rationale": "Misafirperverliğe aykırıdır.", "isCorrect": false },
+        { "text": "Turistlerin yaşam şekline, beklentilerine ve inançlarına saygı göstermek", "rationale": "Karşılıklı saygı esastır.", "isCorrect": true },
+        { "text": "Turistleri dolandırmak", "rationale": "Suçtur.", "isCorrect": false },
+        { "text": "Sadece kendi dilini konuşmak", "rationale": "İletişimi zorlaştırır.", "isCorrect": false },
+        { "text": "Turistlerden uzak durmak", "rationale": "Turizmi baltalar.", "isCorrect": false }
+      ],
+      "hint": "Misafire 'hoş geldin' demek ve onu anlamaya çalışmak."
+    },
+    {
+      "questionNumber": 61,
+      "question": "Madde 2'ye göre turizm 'bireysel' açıdan nasıl bir fırsattır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kendini eğitme ve diğer kültürleri öğrenme fırsatı", "rationale": "Seyahat etmek insanı geliştirir.", "isCorrect": true },
+        { "text": "Sadece para harcama fırsatı", "rationale": "Yüzeysel bir bakıştır.", "isCorrect": false },
+        { "text": "Uyumak için bir fırsat", "rationale": "Sadece dinlenmedir.", "isCorrect": false },
+        { "text": "İşten kaçma fırsatı", "rationale": "Olumsuz bir bakıştır.", "isCorrect": false },
+        { "text": "Kilo alma fırsatı", "rationale": "Sağlıksızdır.", "isCorrect": false }
+      ],
+      "hint": "Çok okuyan değil, çok gezen bilir."
+    },
+    {
+      "questionNumber": 62,
+      "question": "Sürdürülebilir turizm (Madde 3) kapsamında 'Kaynak Tasarrufu' ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Parayı bankada tutmak", "rationale": "Finansal tasarruftur.", "isCorrect": false },
+        { "text": "Su ve enerji gibi doğal kaynakları idareli kullanmak ve atıkları azaltmak", "rationale": "Çevresel sürdürülebilirliğin temelidir.", "isCorrect": true },
+        { "text": "Turiste az yemek vermek", "rationale": "Hizmet kalitesini düşürür.", "isCorrect": false },
+        { "text": "Personel maaşlarını ödememek", "rationale": "Sömürüdür.", "isCorrect": false },
+        { "text": "Oteli hiç açmamak", "rationale": "İşlevsizdir.", "isCorrect": false }
+      ],
+      "hint": "Otellerde havluların her gün değiştirilmemesi uyarısı gibi."
+    },
+    {
+      "questionNumber": 63,
+      "question": "Madde 4'e göre, 'Turizm eserleri' kimin mirası sayılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece o ülkenin", "rationale": "Dar bir bakıştır.", "isCorrect": false },
+        { "text": "Sadece zenginlerin", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "İnsanoğlunun ortak mirası", "rationale": "UNESCO Dünya Mirası mantığıdır.", "isCorrect": true },
+        { "text": "Tur şirketlerinin", "rationale": "Ticari bakıştır.", "isCorrect": false },
+        { "text": "Mimarların", "rationale": "Mesleki bakıştır.", "isCorrect": false }
+      ],
+      "hint": "Efes Antik Kenti veya Piramitler tüm insanlığa aittir."
+    },
+    {
+      "questionNumber": 64,
+      "question": "Madde 5'e göre, turizm yatırımlarında 'Şeffaflık' neyi gerektirir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Otel duvarlarının camdan yapılmasını", "rationale": "Mecazdır.", "isCorrect": false },
+        { "text": "Projelerin çevreye etkileri hakkında yerel halkın dürüstçe bilgilendirilmesini", "rationale": "Halkın katılımı ve onayı için dürüstlüktür.", "isCorrect": true },
+        { "text": "Tüm karların dağıtılmasını", "rationale": "Ticari bir karardır.", "isCorrect": false },
+        { "text": "Herkesin oteli gezebilmesini", "rationale": "Güvenlik sorunu olabilir.", "isCorrect": false },
+        { "text": "Yönetimin istifa etmesini", "rationale": "Alakasızdır.", "isCorrect": false }
+      ],
+      "hint": "Gizli kapaklı iş yapmamak, halka hesap vermek."
+    },
+    {
+      "questionNumber": 65,
+      "question": "Madde 6 uyarınca, tur düzenleyen firmanın 'iflası' durumunda ne sağlanmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Turistlerin kendi başının çaresine bakması", "rationale": "Mağduriyet yaratır.", "isCorrect": false },
+        { "text": "Turistlerin ülkelerine geri dönmelerinin garanti altına alınması (sigorta vb.)", "rationale": "Tüketici koruma ilkesidir.", "isCorrect": true },
+        { "text": "Turistlerin hapse atılması", "rationale": "Saçmadır.", "isCorrect": false },
+        { "text": "Otelin turistlere el koyması", "rationale": "Yasa dışıdır.", "isCorrect": false },
+        { "text": "Rehberin kaçması", "rationale": "Etik dışıdır.", "isCorrect": false }
+      ],
+      "hint": "Thomas Cook iflas ettiğinde turistlerin ortada kalmaması için gereken sistem."
+    },
+    {
+      "questionNumber": 66,
+      "question": "Madde 7'ye göre 'Sosyal Turizm' (aile, öğrenci, yaşlı, engelli turizmi) kim tarafından desteklenmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece özel sektör", "rationale": "Kar odaklıdır, yetersiz kalabilir.", "isCorrect": false },
+        { "text": "Kamu görevlileri ve devlet", "rationale": "Herkesin tatil hakkı için devlet desteği gerekir.", "isCorrect": true },
+        { "text": "Hiç kimse", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Turistlerin kendisi", "rationale": "Maddi güçleri yetmeyebilir.", "isCorrect": false },
+        { "text": "Yabancı ülkeler", "rationale": "Sorumluluk ulusal yönetimdedir.", "isCorrect": false }
+      ],
+      "hint": "Devletin öğrenci kampları veya emekli tatil köyleri yapması."
+    },
+    {
+      "questionNumber": 67,
+      "question": "Madde 8 uyarınca turistlerin 'kişisel bilgilerinin gizliliği' (Privacy) konusunda ne yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bilgiler herkese satılmalıdır", "rationale": "Suçtur.", "isCorrect": false },
+        { "text": "Güvence verilmeli ve korunmalıdır", "rationale": "KVKK ve etik gereğidir.", "isCorrect": true },
+        { "text": "Gazetede yayınlanmalıdır", "rationale": "İfşadır.", "isCorrect": false },
+        { "text": "Otel lobisine asılmalıdır", "rationale": "İfşadır.", "isCorrect": false },
+        { "text": "Önemsenmemelidir", "rationale": "İhmaldir.", "isCorrect": false }
+      ],
+      "hint": "Pasaport bilgilerinin veya oda numarasının başkasına verilmemesi."
+    },
+    {
+      "questionNumber": 68,
+      "question": "Madde 9'a göre, turizm çalışanlarının 'Bilgi ve Deneyim Alışverişi' yapması neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Dedikodu yapmak için", "rationale": "Etik dışıdır.", "isCorrect": false },
+        { "text": "Sektörün gelişmesine katkı sağladığı için", "rationale": "İyi örneklerin paylaşılması kaliteyi artırır.", "isCorrect": true },
+        { "text": "Rakipleri batırmak için", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Zaman öldürmek için", "rationale": "Verimsizdir.", "isCorrect": false },
+        { "text": "Maaşları düşürmek için", "rationale": "Tersidir.", "isCorrect": false }
+      ],
+      "hint": "Meslektaşların birbirine 'know-how' aktarması."
+    },
+    {
+      "questionNumber": 69,
+      "question": "Madde 10'da bahsedilen 'Kamu ve Özel Sektör İşbirliği' etik ilkelerin uygulanması için neden gereklidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Tek başına bir tarafın gücü yetmeyebilir, birlikte daha etkili denetim ve uygulama sağlanır", "rationale": "Sinerji yaratmak içindir.", "isCorrect": true },
+        { "text": "Kamu sektörü para kazanmak ister", "rationale": "Kamunun amacı kar değildir.", "isCorrect": false },
+        { "text": "Özel sektör denetlenmek istemez", "rationale": "Bu bir sorundur, çözüm işbirliğidir.", "isCorrect": false },
+        { "text": "Rekabeti artırmak için", "rationale": "Amaç etik uygulamadır.", "isCorrect": false },
+        { "text": "Turistleri korkutmak için", "rationale": "Yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Devletin yasası ile sektörün pratiğinin birleşmesi."
+    },
+    {
+      "questionNumber": 70,
+      "question": "Aşağıdakilerden hangisi bir 'Cinsel Taciz' davranışı OLABİLİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşe zamanında gelmek", "rationale": "Normaldir.", "isCorrect": false },
+        { "text": "Terfi karşılığında özel ilişki imasında bulunmak", "rationale": "Gücü kötüye kullanarak cinsel çıkar sağlamaktır.", "isCorrect": true },
+        { "text": "Toplantı düzenlemek", "rationale": "Normaldir.", "isCorrect": false },
+        { "text": "Rapor istemek", "rationale": "Normaldir.", "isCorrect": false },
+        { "text": "Mola vermek", "rationale": "Haktır.", "isCorrect": false }
+      ],
+      "hint": "'Benimle çıkarsan müdür olursun' demek."
+    },
+    {
+      "questionNumber": 71,
+      "question": "Bencil bir çalışan ekip çalışmasında genellikle nasıl davranır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş yükünü arkadaşlarıyla paylaşır", "rationale": "Adildir.", "isCorrect": false },
+        { "text": "Zor görevlerden kaçar, başarıyı tek başına sahiplenir", "rationale": "Emeği paylaşmaz ama ödülü ister.", "isCorrect": true },
+        { "text": "Herkesin fikrini alır", "rationale": "Katılımcıdır.", "isCorrect": false },
+        { "text": "Ekibi motive eder", "rationale": "Liderdir.", "isCorrect": false },
+        { "text": "Hatalarını kabul eder", "rationale": "Dürüsttür.", "isCorrect": false }
+      ],
+      "hint": "Pastayı yaparken ortada olmayan ama yerken en önde olan kişi."
+    },
+    {
+      "questionNumber": 72,
+      "question": "Mobbinge maruz kalan bir çalışanda görülen tipik sonuç nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Motivasyon ve verimlilik düşer, psikolojik sorunlar başlar", "rationale": "Mobbingin hedefi zaten kişiyi yıpratmaktır.", "isCorrect": true },
+        { "text": "Daha neşeli olur", "rationale": "İmkansızdır.", "isCorrect": false },
+        { "text": "Şirkete bağlılığı artar", "rationale": "Tam tersine nefret eder.", "isCorrect": false },
+        { "text": "Daha sağlıklı olur", "rationale": "Sağlığı bozulur.", "isCorrect": false },
+        { "text": "Terfi alır", "rationale": "Genelde işten atılır veya ayrılır.", "isCorrect": false }
+      ],
+      "hint": "İşe giderken ayaklarının geri geri gitmesi ve sürekli stres."
+    },
+    {
+      "questionNumber": 73,
+      "question": "Yöneticinin 'taraflı performans değerlendirmesi' yapması hangi etik dışı kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kişisel Gücün Kötüye Kullanılması", "rationale": "Yetkiyi adaletsiz kullanmaktır.", "isCorrect": true },
+        { "text": "Cinsel Taciz", "rationale": "Farklıdır.", "isCorrect": false },
+        { "text": "Hırsızlık", "rationale": "Maddi değildir.", "isCorrect": false },
+        { "text": "Dogmatiklik", "rationale": "Düşünce yapısıdır.", "isCorrect": false },
+        { "text": "Şiddet", "rationale": "Fiziksel değildir.", "isCorrect": false }
+      ],
+      "hint": "Hak edene düşük, sevdiğine yüksek puan vermek."
+    },
+    {
+      "questionNumber": 74,
+      "question": "İşletmelerde 'Dedikodu' (Söylenti) ile mücadele etmenin en iyi yolu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Daha çok dedikodu yapmak", "rationale": "Kaosu artırır.", "isCorrect": false },
+        { "text": "Şeffaf ve açık iletişim kurmak", "rationale": "Doğru bilgi dedikoduyu yok eder.", "isCorrect": true },
+        { "text": "Herkesi işten atmak", "rationale": "Aşırıdır.", "isCorrect": false },
+        { "text": "Kulakları tıkamak", "rationale": "Sorunu çözmez.", "isCorrect": false },
+        { "text": "Dedikoducuları ödüllendirmek", "rationale": "Teşvik eder.", "isCorrect": false }
+      ],
+      "hint": "Karanlığı (söylentiyi) aydınlatmanın yolu ışıktır (doğru bilgi)."
+    },
+    {
+      "questionNumber": 75,
+      "question": "Bir otel çalışanının 'Demirbaşları (havlu, sabun vb.) eve götürmesi' nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Tasarruf", "rationale": "Değildir.", "isCorrect": false },
+        { "text": "Hediye", "rationale": "İşletme vermemiştir.", "isCorrect": false },
+        { "text": "Zimmet / Hırsızlık", "rationale": "İşletme malını çalmaktır.", "isCorrect": true },
+        { "text": "Promosyon", "rationale": "Müşteriye verilir.", "isCorrect": false },
+        { "text": "Geri dönüşüm", "rationale": "Değildir.", "isCorrect": false }
+      ],
+      "hint": "İş yerinin malı deniz değildir."
+    },
+    {
+      "questionNumber": 76,
+      "question": "Sürdürülebilirlikte 'Gelecek nesiller' vurgusu neyi anlatır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çocuklara oyuncak almayı", "rationale": "Basittir.", "isCorrect": false },
+        { "text": "Bugünkü ihtiyaçları karşılarken, torunlarımızın ihtiyaçlarını tehlikeye atmamayı", "rationale": "Kaynakları tüketmeyip onlara da bırakmaktır.", "isCorrect": true },
+        { "text": "Okul yapmayı", "rationale": "Sadece bir kısımdır.", "isCorrect": false },
+        { "text": "Tarihi unutmayı", "rationale": "Tersidir.", "isCorrect": false },
+        { "text": "Teknoloji üretmeyi", "rationale": "Araçtır.", "isCorrect": false }
+      ],
+      "hint": "Dünyayı atalarımızdan miras almadık, çocuklarımızdan ödünç aldık."
+    },
+    {
+      "questionNumber": 77,
+      "question": "Dijitalleşme ile ortaya çıkan 'Veri Güvenliği' riski turizmde neye yol açabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Turistlerin daha hızlı gelmesine", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Siber saldırılarla misafirlerin kredi kartı ve kimlik bilgilerinin çalınmasına", "rationale": "Büyük bir etik ve yasal krizdir.", "isCorrect": true },
+        { "text": "Otelin daha temiz olmasına", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Yemeklerin lezzetlenmesine", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Personelin dinlenmesine", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Hackerların otel sistemine girmesi."
+    },
+    {
+      "questionNumber": 78,
+      "question": "Konaklama işletmelerinde 'Hijyen sorunu' (kirli çarşaf, pis havuz) hangi temel hizmet kusurudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Estetik kusur", "rationale": "Sadece görünüş değildir.", "isCorrect": false },
+        { "text": "Sağlık ve güvenlik tehdidi", "rationale": "Misafirin hastalanmasına neden olabilir, büyük bir ihmaldir.", "isCorrect": true },
+        { "text": "Lüks eksikliği", "rationale": "Temizlik temel ihtiyaçtır.", "isCorrect": false },
+        { "text": "Personel eksikliği", "rationale": "Nedendir, sonuç değildir.", "isCorrect": false },
+        { "text": "Teknoloji eksikliği", "rationale": "El ile de temizlenir.", "isCorrect": false }
+      ],
+      "hint": "Temizlik imandan ve turizmin temelinden gelir."
+    },
+    {
+      "questionNumber": 79,
+      "question": "Seyahat acentesinin 'Vize evraklarının geçersiz olması' nedeniyle müşterinin sınırda kalması hangi soruna örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hizmet kusuru ve Mesleki Yetersizlik/İhmal", "rationale": "Acentenin işini düzgün yapmamasıdır.", "isCorrect": true },
+        { "text": "Müşteri hatası", "rationale": "Acente sorumludur.", "isCorrect": false },
+        { "text": "Doğal afet", "rationale": "Değildir.", "isCorrect": false },
+        { "text": "Siyasi kriz", "rationale": "Evrak hatası operasyoneldir.", "isCorrect": false },
+        { "text": "Uçak arızası", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Profesyonel bir şirketin bürokratik hata yapması."
+    },
+    {
+      "questionNumber": 80,
+      "question": "Restoranda 'Bayat ürünlerin kullanılması' hangi etik ilkeyi İHLAL eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Tasarruf", "rationale": "Tasarruf değil cimriliktir.", "isCorrect": false },
+        { "text": "Dürüstlük ve Mükemmeliyetçilik", "rationale": "Müşteriye taze diye bayat yedirmek yalandır ve kaliteyi düşürür.", "isCorrect": true },
+        { "text": "Gizlilik", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Sadakat", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Özgürlük", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Müşterinin sağlığıyla oynamak."
+    },
+    {
+      "questionNumber": 81,
+      "question": "Turizm işletmelerinde 'Kayıt dışı istihdam' (Sigortasız işçi) devlete karşı hangi sorumluluğun ihlalidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yasal Sorumluluk", "rationale": "Vergi ve sigorta kanunlarına aykırıdır.", "isCorrect": true },
+        { "text": "Gönüllü Sorumluluk", "rationale": "Zorunludur.", "isCorrect": false },
+        { "text": "Müşteri Memnuniyeti", "rationale": "İçsel bir konudur.", "isCorrect": false },
+        { "text": "Çevre Koruma", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Reklam", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Devletten vergi kaçırmak."
+    },
+    {
+      "questionNumber": 82,
+      "question": "Bir otel personelinin, ünlü bir misafirin kaldığı odayı basına sızdırması hangi etik ilkeyi bozar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Gizlilik ve Mahremiyet (Özel Hayata Saygı)", "rationale": "Misafirin güvenliğini ve özel hayatını ihlal eder.", "isCorrect": true },
+        { "text": "Dürüstlük", "rationale": "Daha çok sadakat ve gizlilikle ilgilidir.", "isCorrect": false },
+        { "text": "Yardımseverlik", "rationale": "Değildir.", "isCorrect": false },
+        { "text": "Adalet", "rationale": "Değildir.", "isCorrect": false },
+        { "text": "Şeffaflık", "rationale": "Şeffaflık kurum içindir, kişisel sırlar için değil.", "isCorrect": false }
+      ],
+      "hint": "Paparazzilere kapıyı açmak."
+    },
+    {
+      "questionNumber": 83,
+      "question": "'Yeşil Boyama' (Greenwashing) nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Oteli yeşile boyamak", "rationale": "Gerçek anlamı bu değildir.", "isCorrect": false },
+        { "text": "Çevreci olmadığı halde çevreciymiş gibi reklam yapmak", "rationale": "Sürdürülebilirlik konusunda dürüst olmamaktır.", "isCorrect": true },
+        { "text": "Bahçe düzenlemesi yapmak", "rationale": "Gerçek bir eylemdir.", "isCorrect": false },
+        { "text": "Sebze yemeği yapmak", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Orman yakmak", "rationale": "Suçtur.", "isCorrect": false }
+      ],
+      "hint": "Doğa dostu gibi görünüp doğayı kirletmeye devam etmek."
+    },
+    {
+      "questionNumber": 84,
+      "question": "Aşağıdakilerden hangisi 'Adalet' ilkesine uygun bir davranıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Herkese eşit değil, hak ettiğine hak ettiği kadar vermek", "rationale": "Adalet her zaman eşitlik demek değildir, hakkaniyettir.", "isCorrect": true },
+        { "text": "Herkese aynı cezayı vermek", "rationale": "Suçun ağırlığına göre değişmelidir.", "isCorrect": false },
+        { "text": "Hiç kimseye ceza vermemek", "rationale": "Adaletsizliktir.", "isCorrect": false },
+        { "text": "Zengine ayrıcalık tanımak", "rationale": "Adaletsizliktir.", "isCorrect": false },
+        { "text": "Kuralları görmezden gelmek", "rationale": "Kaostur.", "isCorrect": false }
+      ],
+      "hint": "Eşitlere eşit davranmak."
+    },
+    {
+      "questionNumber": 85,
+      "question": "Bir yöneticinin çalışanlarına 'Vardiya tehdidiyle' (Seni hep gece çalıştırırım diyerek) baskı yapması ne tür bir tacizdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Cinsel Taciz", "rationale": "Cinsel içerik yoksa değildir.", "isCorrect": false },
+        { "text": "Psikolojik Taciz (Mobbing) / Gücün Kötüye Kullanımı", "rationale": "Yetkiyi baskı aracı olarak kullanmaktır.", "isCorrect": true },
+        { "text": "Fiziksel Taciz", "rationale": "Temas yoktur.", "isCorrect": false },
+        { "text": "Sözlü övgü", "rationale": "Değildir.", "isCorrect": false },
+        { "text": "Eğitim", "rationale": "Değildir.", "isCorrect": false }
+      ],
+      "hint": "Çalışma saatlerini silah olarak kullanmak."
+    },
+    {
+      "questionNumber": 86,
+      "question": "Turizmde 'Her şey dahil' sisteminde yemeklerin israf edilmesi sürdürülebilirliğin hangi boyutuna zarar verir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hem Ekonomik hem Çevresel", "rationale": "Hem kaynak boşa gider (para) hem de atık oluşur (çevre).", "isCorrect": true },
+        { "text": "Sadece Sosyal", "rationale": "Eksiktir.", "isCorrect": false },
+        { "text": "Hiçbirine", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Sadece Siyasi", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Teknolojik", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Çöpe giden tonlarca yemek."
+    },
+    {
+      "questionNumber": 87,
+      "question": "Turizm sektöründe 'Kadınların yönetici yapılmaması' sorunu neyin göstergesidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kadınların istememesinin", "rationale": "Genellemedir.", "isCorrect": false },
+        { "text": "Cinsiyet Ayrımcılığı ve Cam Tavan'ın", "rationale": "Kadınların yükselmesinin engellenmesidir.", "isCorrect": true },
+        { "text": "Yetenek eksikliğinin", "rationale": "Önyargıdır.", "isCorrect": false },
+        { "text": "Yasal zorunluluğun", "rationale": "Yasa yoktur.", "isCorrect": false },
+        { "text": "Doğal seçilimin", "rationale": "Sosyal bir sorundur.", "isCorrect": false }
+      ],
+      "hint": "Erkek egemen yönetim anlayışı."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Bir otelin engelli misafirler için rampa veya asansör yaptırmaması hangi hakkın ihlalidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çalışma hakkı", "rationale": "Misafirdir.", "isCorrect": false },
+        { "text": "Erişilebilirlik ve Turizme Katılma Hakkı", "rationale": "Engellilerin seyahat özgürlüğünün kısıtlanmasıdır.", "isCorrect": true },
+        { "text": "Mülkiyet hakkı", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Telif hakkı", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Oy kullanma hakkı", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Herkes için turizm ilkesine aykırılık."
+    },
+    {
+      "questionNumber": 89,
+      "question": "Bir turizm işletmesinin 'sahte fatura' düzenlemesi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yaratıcılık", "rationale": "Suçtur.", "isCorrect": false },
+        { "text": "Yolsuzluk ve Vergi Kaçırma", "rationale": "Mali bir suçtur ve etik dışıdır.", "isCorrect": true },
+        { "text": "Tasarruf", "rationale": "Değildir.", "isCorrect": false },
+        { "text": "Dijitalleşme", "rationale": "Değildir.", "isCorrect": false },
+        { "text": "Pazarlama", "rationale": "Değildir.", "isCorrect": false }
+      ],
+      "hint": "Naylon fatura."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Turistlere 'halı satmak için' tarihi bilgileri yanlış anlatan bir rehber ne yapmış olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İyi satış", "rationale": "Etik dışı satıştır.", "isCorrect": false },
+        { "text": "Meslek etiğini çiğnemiş ve dürüstlükten sapmış olur", "rationale": "Bilgi verme sorumluluğunu ticarete alet etmiştir.", "isCorrect": true },
+        { "text": "Kültür tanıtımı", "rationale": "Yanlış kültürdür.", "isCorrect": false },
+        { "text": "Turiste yardım", "rationale": "Kandırmacadır.", "isCorrect": false },
+        { "text": "Hikaye anlatıcılığı", "rationale": "Yalandır.", "isCorrect": false }
+      ],
+      "hint": "Tarihi çarpıtarak para kazanmaya çalışmak."
+    },
+    {
+      "questionNumber": 91,
+      "question": "Aşağıdakilerden hangisi 'etik kodların' (kuralların) işletmeye faydalarından biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çalışanların kafasını karıştırmak", "rationale": "Netlik sağlar.", "isCorrect": false },
+        { "text": "Kurumsal itibar ve güveni artırmak", "rationale": "Etik davranan işletmeye güven duyulur.", "isCorrect": true },
+        { "text": "Maliyetleri artırmak", "rationale": "Uzun vadede düşürür (cezalardan korur).", "isCorrect": false },
+        { "text": "Yavaşlatmak", "rationale": "Doğru kararı hızlandırır.", "isCorrect": false },
+        { "text": "Rekabeti bitirmek", "rationale": "Adil rekabet sağlar.", "isCorrect": false }
+      ],
+      "hint": "Adı çıkmış dokuza inmez sekize atasözünün tersi; iyi ad (itibar) kazanmak."
+    },
+    {
+      "questionNumber": 92,
+      "question": "Bir otel çalışanının, misafirin unuttuğu eşyayı kendisine alması nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Buluntu mal hakkı", "rationale": "İş yerinde geçerli değildir.", "isCorrect": false },
+        { "text": "Hırsızlık / Emanete İhanet", "rationale": "Bulunan eşya emanettir, teslim edilmelidir.", "isCorrect": true },
+        { "text": "Hediye", "rationale": "Verilmemiştir.", "isCorrect": false },
+        { "text": "Bahşiş", "rationale": "Nakit değildir.", "isCorrect": false },
+        { "text": "Geri dönüşüm", "rationale": "Değildir.", "isCorrect": false }
+      ],
+      "hint": "Cebine indirmek."
+    },
+    {
+      "questionNumber": 93,
+      "question": "Turizmde 'Çocuk İşçi' çalıştırılması konusunda Global Etik İlkelerin tavrı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Destekler", "rationale": "Asla.", "isCorrect": false },
+        { "text": "Görmezden gelir", "rationale": "Hayır.", "isCorrect": false },
+        { "text": "Kesinlikle karşı çıkar ve eğitim haklarını savunur", "rationale": "Çocuk sömürüsüne sıfır tolerans vardır.", "isCorrect": true },
+        { "text": "Sadece yazın izin verir", "rationale": "Sömürü ise yasaktır.", "isCorrect": false },
+        { "text": "Aile izni varsa karışmaz", "rationale": "Çocuk hakları evrenseldir.", "isCorrect": false }
+      ],
+      "hint": "Okulda olması gereken çocuğun otelde tabak taşıması."
+    },
+    {
+      "questionNumber": 94,
+      "question": "Bir işletmenin 'sürdürülebilirlik raporu' yayınlamasının amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kağıt israfı", "rationale": "Dijital de olabilir.", "isCorrect": false },
+        { "text": "Paydaşlara (toplum, yatırımcı) hesap vermek ve şeffaflık", "rationale": "Ne kadar çevreci ve etik olduğunu kanıtlamaktır.", "isCorrect": true },
+        { "text": "Rakipleri korkutmak", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Devleti kandırmak", "rationale": "Suçtur.", "isCorrect": false },
+        { "text": "Modaya uymak", "rationale": "Ciddi bir iş iştir.", "isCorrect": false }
+      ],
+      "hint": "Yaptıklarını kamuoyuyla paylaşmak."
+    },
+    {
+      "questionNumber": 95,
+      "question": "Aşağıdakilerden hangisi bir 'Siber Zorbalık' (Cyber Bullying) örneğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yüz yüze kavga etmek", "rationale": "Fizikseldir.", "isCorrect": false },
+        { "text": "Sosyal medyada bir çalışan veya misafir hakkında aşağılayıcı paylaşımlar yapmak", "rationale": "Dijital ortamda saldırıdır.", "isCorrect": true },
+        { "text": "Mail atmak", "rationale": "Normal iletişimdir.", "isCorrect": false },
+        { "text": "Bilgisayarı kapatmak", "rationale": "Normaldir.", "isCorrect": false },
+        { "text": "Oyun oynamak", "rationale": "Normaldir.", "isCorrect": false }
+      ],
+      "hint": "Klavye delikanlılığı yaparak insanları internette rezil etmek."
+    },
+    {
+      "questionNumber": 96,
+      "question": "Turizmde 'Kültürel Yozlaşma' riskine karşı yapılması gereken etik davranış nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Turizmi yasaklamak", "rationale": "Aşırıdır.", "isCorrect": false },
+        { "text": "Yerel kültürü olduğu gibi koruyarak ve saygı duyarak tanıtmak", "rationale": "Kültürü metalaştırmadan (bozmadan) sunmaktır.", "isCorrect": true },
+        { "text": "Kültürü turistlerin zevkine göre değiştirmek", "rationale": "Bu yozlaşmadır.", "isCorrect": false },
+        { "text": "Her yeri modernleştirmek", "rationale": "Tarihi yok eder.", "isCorrect": false },
+        { "text": "Yerel halkı bölgeden çıkarmak", "rationale": "İnsansız kültür olmaz.", "isCorrect": false }
+      ],
+      "hint": "Folklor ekibine turist sevsin diye samba yaptırmamak, kendi dansını oynatmak."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Bir otel yöneticisinin, rakip otelin müşterilerini çalmak için rakip hakkında asılsız hastalık dedikodusu yayması hangi ilkeye aykırıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Rekabet Etiği ve Dürüstlük", "rationale": "Haksız rekabettir ve yalandır.", "isCorrect": true },
+        { "text": "Tasarruf", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Mükemmeliyetçilik", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Estetik", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Hız", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Çamur at izi kalsın taktiği."
+    },
+    {
+      "questionNumber": 98,
+      "question": "'Sorumlu Turizm' (Responsible Tourism) anlayışının merkezinde kim vardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece kar", "rationale": "Eskide kaldı.", "isCorrect": false },
+        { "text": "İnsan ve Çevre (Yerel halkın refahı ve doğanın korunması)", "rationale": "Sorumluluk tüm canlılaradır.", "isCorrect": true },
+        { "text": "Sadece teknoloji", "rationale": "Araçtır.", "isCorrect": false },
+        { "text": "Sadece turist", "rationale": "Yerel halk da önemlidir.", "isCorrect": false },
+        { "text": "Sadece devlet", "rationale": "Herkesin sorumluluğudur.", "isCorrect": false }
+      ],
+      "hint": "Hem gezenin hem gezilen yerin mutlu olması."
+    },
+    {
+      "questionNumber": 99,
+      "question": "Aşağıdakilerden hangisi turizm çalışanının misafire karşı 'Nezaket ve Saygı' kurallarını ihlal etmesidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Günaydın demek", "rationale": "Nezakettir.", "isCorrect": false },
+        { "text": "Yardımcı olmak", "rationale": "Görevidir.", "isCorrect": false },
+        { "text": "Senli benli konuşmak ve laubali olmak", "rationale": "Profesyonel mesafeyi korumamak saygısızlıktır.", "isCorrect": true },
+        { "text": "Temiz giyinmek", "rationale": "Saygıdır.", "isCorrect": false },
+        { "text": "Teşekkür etmek", "rationale": "Nezakettir.", "isCorrect": false }
+      ],
+      "hint": "Resmiyet ve samimiyet dengesini kaybetmek."
+    },
+    {
+      "questionNumber": 100,
+      "question": "Sonuç olarak, 'Etik' turizm işletmeleri için neden bir lüks değil zorunluluktur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çünkü yasalar zorlar", "rationale": "Yasa her şeyi kapsamaz.", "isCorrect": false },
+        { "text": "Sürdürülebilir başarı, itibar ve uzun vadeli varoluş için", "rationale": "Etik olmayan işletmeler uzun vadede batmaya mahkumdur (güven kaybı).", "isCorrect": true },
+        { "text": "Çünkü pahalıdır", "rationale": "Etik bedava bir değerdir.", "isCorrect": false },
+        { "text": "Çünkü kimse umursamaz", "rationale": "Müşteriler umursar.", "isCorrect": false },
+        { "text": "Zorunluluk değildir", "rationale": "Zorunluluktur.", "isCorrect": false }
+      ],
+      "hint": "Güven ruh gibidir, terk ettiği bedene bir daha dönmez."
+    }
+  ]
+}

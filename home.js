@@ -172,6 +172,31 @@ const TEST_DATA = [
     pdfUrl: "assets/pdf/final/mesleki-yabanci-dil-1.pdf"
   },
   {
+    id: "turizmde-etik-final",
+    title: "Turizmde Etik (Final)",
+    description: "Etik ilkeleri iki final testiyle derinleştir.",
+    tag: "Turizmde Etik",
+    category: "final",
+    tests: [
+      { name: "Test 1 Basla", url: "quiz.html?test=turizmde-etik-final" },
+      { name: "Test 2 Basla", url: "quiz.html?test=turizmde-etik-2-final" }
+    ],
+    pdfUrl: "assets/pdf/final/turizmde-etik.pdf"
+  },
+  {
+    id: "turizmde-rekreasyon-final",
+    title: "Turizmde Rekreasyon (Final)",
+    description: "Rekreasyon yönetimi konularını üç final testiyle tekrar et.",
+    tag: "Turizmde Rekreasyon",
+    category: "final",
+    tests: [
+      { name: "Test 1 Basla", url: "quiz.html?test=turizmde-rekreasyon-final" },
+      { name: "Test 2 Basla", url: "quiz.html?test=turizmde-rekreasyon-2-final" },
+      { name: "Test 3 Basla", url: "quiz.html?test=turizmde-rekreasyon-3-final" }
+    ],
+    pdfUrl: "assets/pdf/final/turizmde-rekreasyon.pdf"
+  },
+  {
     id: "mesleki-yabanci-dil-1",
     title: "Mesleki Yabancı Dil - I",
     description: "Mesleki İngilizce bilgisini üç seviye testiyle pekiştir.",

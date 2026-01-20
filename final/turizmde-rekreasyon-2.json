@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Metne göre, konut gibi özel mekanların dışında kalan ve insanların bir araya gelebileceği her yer hangi kavramla tanımlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Özel Mülkiyet", "rationale": "Özel mülkiyet, kamusal alanın zıddı olarak bireysel kullanıma aittir.", "isCorrect": false },
+        { "text": "Kamusal Alan", "rationale": "Metinde, ev dışındaki insanların toplanabildiği alanlar 'kamusal alan' olarak tanımlanmıştır.", "isCorrect": true },
+        { "text": "Ticari Bölge", "rationale": "Ticari bölgeler kamusal alan olabilir ancak tanım daha geneldir.", "isCorrect": false },
+        { "text": "Rekreasyon Alanı", "rationale": "Her kamusal alan bir rekreasyon alanı olmayabilir.", "isCorrect": false },
+        { "text": "Sanayi Bölgesi", "rationale": "Halkın toplanması için tasarlanmamıştır.", "isCorrect": false }
+      ],
+      "hint": "Toplumun geneline açık olan ve 'özel' olmayan alanları düşünün."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Kamusal rekreasyon hizmetlerinin finansmanı temel olarak hangi kaynaklarla sağlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece bağışlar", "rationale": "Yetersiz bir kaynaktır.", "isCorrect": false },
+        { "text": "Vergiler ve devlet fonları", "rationale": "Kamusal hizmetler esas olarak vergilerle finanse edilir.", "isCorrect": true },
+        { "text": "Özel sektör yatırımları", "rationale": "Ticari rekreasyonu finanse eder.", "isCorrect": false },
+        { "text": "Giriş ücretleri", "rationale": "Yan gelirdir, temel kaynak değildir.", "isCorrect": false },
+        { "text": "Dış borçlanma", "rationale": "Temel finansman modeli değildir.", "isCorrect": false }
+      ],
+      "hint": "Devletin halka sunduğu hizmetlerin ana para kaynağı."
+    },
+    {
+      "questionNumber": 3,
+      "question": "'Dolmuş' oyununda kullanılan temel malzeme nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Deniz yatağı", "rationale": "Metinde geçmez.", "isCorrect": false },
+        { "text": "Sörf tahtası", "rationale": "Oyun açıklamasında 'Gerekli Malzeme: Sörf tahtası' belirtilmiştir.", "isCorrect": true },
+        { "text": "Simit", "rationale": "Kullanılmaz.", "isCorrect": false },
+        { "text": "Top", "rationale": "Başka oyunda kullanılır.", "isCorrect": false },
+        { "text": "Kano", "rationale": "Kullanılmaz.", "isCorrect": false }
+      ],
+      "hint": "Suyun üzerinde insan taşımaya yarayan sert yüzey."
+    },
+    {
+      "questionNumber": 4,
+      "question": "'Dolmuş' oyununda takımlar kaçar kişiden oluşur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "2", "rationale": "Yanlış sayı.", "isCorrect": false },
+        { "text": "3", "rationale": "Metinde '3 kişilik takımlar oluşturulur' yazar.", "isCorrect": true },
+        { "text": "4", "rationale": "Yanlış sayı.", "isCorrect": false },
+        { "text": "5", "rationale": "Yanlış sayı.", "isCorrect": false },
+        { "text": "6", "rationale": "Yanlış sayı.", "isCorrect": false }
+      ],
+      "hint": "Takım sayısı tektir ve az kişiden oluşur."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Kaşıkla top taşıma oyununda topu düşüren oyuncuya ne olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ceza puanı alır", "rationale": "Puan cezası yoktur.", "isCorrect": false },
+        { "text": "Başa döner", "rationale": "Zaman kaybı değil, elenme vardır.", "isCorrect": false },
+        { "text": "Elenir", "rationale": "Kurallarda 'düşüren grup elemanları elenir' yazar.", "isCorrect": true },
+        { "text": "Devam eder", "rationale": "Kural ihlalidir.", "isCorrect": false },
+        { "text": "Diskalifiye olur", "rationale": "Takım değil, oyuncu elenir.", "isCorrect": false }
+      ],
+      "hint": "Hata yapan yarışmacı oyun dışı kalır."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Kaşıkla top taşıma oyununda top aktarımı nasıl yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Elle", "rationale": "El kullanımı yasaktır.", "isCorrect": false },
+        { "text": "El kullanmadan, ağızdaki kaşıkla", "rationale": "Metinde 'elini kullanmadan topu verir' denir.", "isCorrect": true },
+        { "text": "Suya atarak", "rationale": "Top düşmemelidir.", "isCorrect": false },
+        { "text": "Ayakla", "rationale": "Ayak kullanılmaz.", "isCorrect": false },
+        { "text": "Kafayla", "rationale": "Kaşık kullanılır.", "isCorrect": false }
+      ],
+      "hint": "Ellerin kullanılmadığı, dengeye dayalı yöntem."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Aşağıdakilerden hangisi 'kamusal mekân' değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Şehir parkı", "rationale": "Kamusal alandır.", "isCorrect": false },
+        { "text": "Kent meydanı", "rationale": "Kamusal alandır.", "isCorrect": false },
+        { "text": "Evin bahçesi", "rationale": "Özel mülkiyettir, kamusal değildir.", "isCorrect": true },
+        { "text": "Halk plajı", "rationale": "Kamusal alandır.", "isCorrect": false },
+        { "text": "Devlet kütüphanesi", "rationale": "Kamusal hizmet alanıdır.", "isCorrect": false }
+      ],
+      "hint": "Sadece mülk sahibinin girebildiği yer."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Rekreasyon alanlarının gelişiminde Türkiye'de en etkili kurumlar hangileridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yabancı dernekler", "rationale": "Etkisi sınırlıdır.", "isCorrect": false },
+        { "text": "Kamu kurum ve kuruluşları", "rationale": "Devletin rolü metinde vurgulanmıştır.", "isCorrect": true },
+        { "text": "Sadece oteller", "rationale": "Sadece ticari kısmı kapsar.", "isCorrect": false },
+        { "text": "Spor salonları", "rationale": "Kısıtlı bir alandır.", "isCorrect": false },
+        { "text": "Özel şirketler", "rationale": "Kamu kurumları kadar genel etkisi yoktur.", "isCorrect": false }
+      ],
+      "hint": "Devleti temsil eden organizasyonlar."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Dolmuş oyununda güvenlik için çocuklara ne takılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kask", "rationale": "Suda kullanılmaz.", "isCorrect": false },
+        { "text": "Yüzme kolluğu", "rationale": "Metinde güvenlik için kolluk belirtilmiştir.", "isCorrect": true },
+        { "text": "Dizlik", "rationale": "Karasal spordur.", "isCorrect": false },
+        { "text": "Gözlük", "rationale": "Güvenlikten ziyade konfor içindir.", "isCorrect": false },
+        { "text": "Can yeleği", "rationale": "Metinde kolluk geçmektedir.", "isCorrect": false }
+      ],
+      "hint": "Kollara takılan şişme güvenlik aracı."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Boş zaman (Leisure) kavramı hangisini kapsamaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uyku ve yemek", "rationale": "Fizyolojik zorunluluklardır, boş zaman değildir.", "isCorrect": true },
+        { "text": "Hobiler", "rationale": "Boş zaman aktivitesidir.", "isCorrect": false },
+        { "text": "Spor", "rationale": "Boş zaman aktivitesidir.", "isCorrect": false },
+        { "text": "Sanat", "rationale": "Boş zaman aktivitesidir.", "isCorrect": false },
+        { "text": "Dinlenme", "rationale": "Boş zamanın bir parçasıdır.", "isCorrect": false }
+      ],
+      "hint": "Yaşamsal zorunlulukları düşünün."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Rekreasyonun Latince kökeni 'Recreatio' ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çalışmak", "rationale": "Zıddıdır.", "isCorrect": false },
+        { "text": "Yenilenme / Yeniden yaratılma", "rationale": "Kelime anlamı budur.", "isCorrect": true },
+        { "text": "Yorulmak", "rationale": "Tam tersidir.", "isCorrect": false },
+        { "text": "Para kazanmak", "rationale": "Ticari bir sonuçtur.", "isCorrect": false },
+        { "text": "Zaman öldürmek", "rationale": "Amaçsızlıktır, rekreasyon amaçlıdır.", "isCorrect": false }
+      ],
+      "hint": "Tükenen enerjinin tekrar kazanılması."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Kaşıkla top taşıma oyununda ödül nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Para", "rationale": "Verilmez.", "isCorrect": false },
+        { "text": "Plaket", "rationale": "Metinde 'plaket verilir' yazar.", "isCorrect": true },
+        { "text": "Madalya", "rationale": "Belirtilmemiştir.", "isCorrect": false },
+        { "text": "Kupa", "rationale": "Belirtilmemiştir.", "isCorrect": false },
+        { "text": "Sertifika", "rationale": "Belirtilmemiştir.", "isCorrect": false }
+      ],
+      "hint": "Başarıyı simgeleyen, üzerine yazı yazılan obje."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Dolmuş oyununda sörf tahtası nasıl hareket ettirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kürek ile", "rationale": "Kullanılmaz.", "isCorrect": false },
+        { "text": "Elleri kürek yaparak", "rationale": "Metinde 'ellerini kürek olarak kullanarak' geçer.", "isCorrect": true },
+        { "text": "Motorla", "rationale": "Yoktur.", "isCorrect": false },
+        { "text": "İp çekerek", "rationale": "Yoktur.", "isCorrect": false },
+        { "text": "Ayak çırparak", "rationale": "Sadece el belirtilmiştir.", "isCorrect": false }
+      ],
+      "hint": "Vücudun bir uzvu kullanılır."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Hangisi pasif rekreasyona örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Futbol", "rationale": "Aktiftir.", "isCorrect": false },
+        { "text": "TV izlemek / Müzik dinlemek", "rationale": "Fiziksel efor gerektirmez, pasiftir.", "isCorrect": true },
+        { "text": "Yüzme", "rationale": "Aktiftir.", "isCorrect": false },
+        { "text": "Koşu", "rationale": "Aktiftir.", "isCorrect": false },
+        { "text": "Dans", "rationale": "Aktiftir.", "isCorrect": false }
+      ],
+      "hint": "Hareket gerektirmeyen etkinlik."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Kamu ve özel sektör desteği toplumda neyi artırır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşsizliği", "rationale": "Artırmaz.", "isCorrect": false },
+        { "text": "Rekreasyona katılım isteğini", "rationale": "Destekler sayesinde talep artar.", "isCorrect": true },
+        { "text": "Suç oranını", "rationale": "Azaltır.", "isCorrect": false },
+        { "text": "Enflasyonu", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Trafik kazalarını", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "İnsanların etkinliklere olan talebi."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Dolmuş oyunu çocuklara kim tarafından gösterilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Müdür", "rationale": "Görev almaz.", "isCorrect": false },
+        { "text": "Animatörler", "rationale": "Uygulamayı animatörler yapar.", "isCorrect": true },
+        { "text": "Aşçılar", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Güvenlik", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Aileler", "rationale": "İzleyicidir.", "isCorrect": false }
+      ],
+      "hint": "Eğlence personelini düşünün."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Kaşıkla top taşıma oyunu nerede oynanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sahilde", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Havuzda", "rationale": "Su içinde oynanır.", "isCorrect": true },
+        { "text": "Odada", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Ormanda", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Spor salonunda", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Yapay su alanı."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Hangisi rekreasyonun özelliklerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Gönüllülük", "rationale": "Temel ilkedir.", "isCorrect": false },
+        { "text": "Haz alma", "rationale": "Temel amaçtır.", "isCorrect": false },
+        { "text": "Zorunluluk", "rationale": "Rekreasyon zorunlu yapılamaz.", "isCorrect": true },
+        { "text": "Kişisel tatmin", "rationale": "Hedeflenir.", "isCorrect": false },
+        { "text": "Boş zamanda yapılması", "rationale": "Ön koşuldur.", "isCorrect": false }
+      ],
+      "hint": "İş veya ödev gibi mecburi olmayan."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Dolmuş oyununda karşıya geçen ilk kişi ne yapar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bekleyen arkadaşını alır", "rationale": "Yolcu taşıma mantığı vardır.", "isCorrect": true },
+        { "text": "Geri döner", "rationale": "Tek başına dönmez.", "isCorrect": false },
+        { "text": "Oyunu bitirir", "rationale": "Henüz bitmez.", "isCorrect": false },
+        { "text": "Havuza atlar", "rationale": "Amaçsız atlamaz.", "isCorrect": false },
+        { "text": "Dinlenir", "rationale": "Yarışma devam eder.", "isCorrect": false }
+      ],
+      "hint": "Dolmuş şoförü ne yapar?"
+    },
+    {
+      "questionNumber": 20,
+      "question": "Rekreasyon katılımcı sayısına göre nasıl sınıflandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bireysel ve Grup", "rationale": "Kişi sayısına göre yapılan ayrımdır.", "isCorrect": true },
+        { "text": "Açık ve Kapalı", "rationale": "Mekana göredir.", "isCorrect": false },
+        { "text": "Aktif ve Pasif", "rationale": "Katılım biçimine göredir.", "isCorrect": false },
+        { "text": "Yaz ve Kış", "rationale": "Mevsime göredir.", "isCorrect": false },
+        { "text": "Ticari ve Kamu", "rationale": "Amaca göredir.", "isCorrect": false }
+      ],
+      "hint": "Tek başına mı yoksa başkalarıyla mı yapıldığına bakılır."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Bir etkinliğin rekreasyon sayılabilmesi için en temel şart nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Pahalı olması", "rationale": "Maliyet şart değildir.", "isCorrect": false },
+        { "text": "Gönüllü olması", "rationale": "Kişi kendi isteğiyle katılmalıdır.", "isCorrect": true },
+        { "text": "Yorucu olması", "rationale": "Yoruculuk şart değildir.", "isCorrect": false },
+        { "text": "Profesyonel olması", "rationale": "Amatörce de yapılabilir.", "isCorrect": false },
+        { "text": "Yarışma içermesi", "rationale": "Yarışma zorunlu değildir.", "isCorrect": false }
+      ],
+      "hint": "Zorlama olmadan yapılan eylem."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Aşağıdakilerden hangisi 'Ticari Rekreasyon' kapsamında değerlendirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Belediye parkında yürüyüş", "rationale": "Kamusal rekreasyondur.", "isCorrect": false },
+        { "text": "Tema parkına (Lunapark) giriş", "rationale": "Kâr amacı güden işletmeler ticaridir.", "isCorrect": true },
+        { "text": "Evde kitap okumak", "rationale": "Bireysel rekreasyondur.", "isCorrect": false },
+        { "text": "Devlet müzesini gezmek", "rationale": "Kamusal/Kültürel rekreasyondur.", "isCorrect": false },
+        { "text": "Okul bahçesinde oyun", "rationale": "Kurumsal/Eğitsel rekreasyondur.", "isCorrect": false }
+      ],
+      "hint": "Hizmet karşılığı ücret ödenen ve kâr amacı güden yerler."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Turizm işletmelerinde 'Animasyon' departmanının temel görevi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yemek servisi yapmak", "rationale": "F&B departmanının işidir.", "isCorrect": false },
+        { "text": "Misafirin boş zamanını değerlendirmek ve eğlendirmek", "rationale": "Animasyonun temel amacıdır.", "isCorrect": true },
+        { "text": "Oda temizliği", "rationale": "Kat hizmetlerinin işidir.", "isCorrect": false },
+        { "text": "Rezervasyon almak", "rationale": "Ön büronun işidir.", "isCorrect": false },
+        { "text": "Güvenliği sağlamak", "rationale": "Güvenlik departmanının işidir.", "isCorrect": false }
+      ],
+      "hint": "Otelin 'ruhunu' ve eğlencesini yöneten bölüm."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Aşağıdakilerden hangisi 'Açık Alan' (Outdoor) rekreasyonuna örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sinemaya gitmek", "rationale": "Kapalı alan etkinliğidir.", "isCorrect": false },
+        { "text": "Doğa yürüyüşü (Trekking)", "rationale": "Doğada, açık havada yapılır.", "isCorrect": true },
+        { "text": "Masa tenisi oynamak", "rationale": "Genelde kapalı alanda yapılır.", "isCorrect": false },
+        { "text": "Resim sergisi gezmek", "rationale": "Genelde kapalı alandadır.", "isCorrect": false },
+        { "text": "Bowling oynamak", "rationale": "Kapalı salon sporudur.", "isCorrect": false }
+      ],
+      "hint": "Bina içinde yapılmayan etkinlikler."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Rekreasyonun bireye sağladığı 'Fiziksel' faydalardan biri hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yeni arkadaşlar edinmek", "rationale": "Sosyal faydadır.", "isCorrect": false },
+        { "text": "Kas ve iskelet sisteminin güçlenmesi", "rationale": "Fiziksel sağlıkla ilgilidir.", "isCorrect": true },
+        { "text": "Özgüven artışı", "rationale": "Psikolojik faydadır.", "isCorrect": false },
+        { "text": "Kültürel birikim", "rationale": "Zihinsel faydadır.", "isCorrect": false },
+        { "text": "Liderlik becerisi", "rationale": "Sosyal/Kişisel gelişimdir.", "isCorrect": false }
+      ],
+      "hint": "Vücut sağlığı ile ilgili olan seçenek."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Maslow'un ihtiyaçlar hiyerarşisinde rekreasyon genellikle hangi basamaklarla ilişkilendirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece fizyolojik ihtiyaçlar", "rationale": "Rekreasyon temel hayatta kalma ihtiyacından fazlasıdır.", "isCorrect": false },
+        { "text": "Kendini gerçekleştirme ve saygınlık", "rationale": "Üst düzey psikolojik ihtiyaçları karşılar.", "isCorrect": true },
+        { "text": "Güvenlik ihtiyacı", "rationale": "Rekreasyon risk içerebilir, temel odak güvenlik değildir.", "isCorrect": false },
+        { "text": "Barınma ihtiyacı", "rationale": "Temel ihtiyaçtır.", "isCorrect": false },
+        { "text": "Beslenme ihtiyacı", "rationale": "Fizyolojik ihtiyaçtır.", "isCorrect": false }
+      ],
+      "hint": "Piramidin üst kısımlarındaki manevi tatmin alanları."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Sanayi Devrimi'nin rekreasyon üzerindeki en büyük etkisi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Boş zamanı tamamen yok etmesi", "rationale": "Aksine, düzenli çalışma saatleri kavramını doğurmuştur.", "isCorrect": false },
+        { "text": "Çalışma saatlerini ve boş zamanı net çizgilerle ayırması", "rationale": "Mesai kavramı ile boş zaman tanımlanabilir hale gelmiştir.", "isCorrect": true },
+        { "text": "İnsanları tembelleştirmesi", "rationale": "Böyle bir etki genellenemez.", "isCorrect": false },
+        { "text": "Sporu yasaklaması", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Turizmi bitirmesi", "rationale": "Aksine ulaşım imkanlarıyla turizmi başlatmıştır.", "isCorrect": false }
+      ],
+      "hint": "Fabrika düzeni ve 'mesai' kavramının doğuşu."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Hangi aktivite 'Kültürel Rekreasyon' sınıfına girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yüzme yarışına katılmak", "rationale": "Sportif rekreasyondur.", "isCorrect": false },
+        { "text": "Müze ve ören yeri ziyareti", "rationale": "Kültür ve tarih odaklıdır.", "isCorrect": true },
+        { "text": "Dağcılık", "rationale": "Doğa sporudur.", "isCorrect": false },
+        { "text": "Güneşlenmek", "rationale": "Dinlenme/Pasif rekreasyondur.", "isCorrect": false },
+        { "text": "Alışveriş yapmak", "rationale": "Ticari/Eğlence aktivitesidir.", "isCorrect": false }
+      ],
+      "hint": "Bilgi, tarih ve sanat içeren etkinlikler."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Animatörün sahip olması gereken özelliklerden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Dışa dönük olmak", "rationale": "İletişim için gereklidir.", "isCorrect": false },
+        { "text": "Yetenekli olmak (dans, spor vb.)", "rationale": "Gösteri ve aktivite için gereklidir.", "isCorrect": false },
+        { "text": "İnsan ilişkilerinde zayıf olmak", "rationale": "Animatör insan ilişkilerinde uzman olmalıdır.", "isCorrect": true },
+        { "text": "Enerjik olmak", "rationale": "Gereklidir.", "isCorrect": false },
+        { "text": "Yabancı dil bilmek", "rationale": "Turizmde gereklidir.", "isCorrect": false }
+      ],
+      "hint": "Sosyal iletişimi engelleyen negatif bir özellik."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Rekreasyon faaliyetlerinin planlanmasında 'çeşitlilik' neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maliyeti artırmak için", "rationale": "Amaç maliyet artışı değildir.", "isCorrect": false },
+        { "text": "Farklı yaş ve ilgi gruplarına hitap edebilmek için", "rationale": "Herkesin ilgisi farklıdır, katılımı artırır.", "isCorrect": true },
+        { "text": "Personeli yormak için", "rationale": "Amaç değildir.", "isCorrect": false },
+        { "text": "Kuralları zorlaştırmak için", "rationale": "Amaç değildir.", "isCorrect": false },
+        { "text": "Süreyi kısaltmak için", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Çocuk, genç, yaşlı herkesin katılabilmesi ilkesi."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Aşağıdakilerden hangisi 'Sportif Rekreasyon' örneğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Satranç oynamak", "rationale": "Zihinseldir, fiziksel spor sayılmaz (genelde).", "isCorrect": false },
+        { "text": "Plaj voleybolu oynamak", "rationale": "Fiziksel aktivite içeren sportif bir oyundur.", "isCorrect": true },
+        { "text": "Resim yapmak", "rationale": "Sanatsaldır.", "isCorrect": false },
+        { "text": "Kitap okumak", "rationale": "Kültüreldir.", "isCorrect": false },
+        { "text": "Konser izlemek", "rationale": "Sanatsal/Eğlencedir.", "isCorrect": false }
+      ],
+      "hint": "Fiziksel efor ve oyun kuralları içeren etkinlik."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Turistlerin gittikleri destinasyonda sadece dinlenmek değil, yeni şeyler öğrenmek istemesi hangi rekreasyon türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hedonistik Rekreasyon", "rationale": "Sadece zevk odaklıdır.", "isCorrect": false },
+        { "text": "Eğitsel / Öğrenme Amaçlı Rekreasyon", "rationale": "Bilgi ve beceri kazanma odaklıdır.", "isCorrect": true },
+        { "text": "Zorunlu Rekreasyon", "rationale": "Böyle bir tür yoktur.", "isCorrect": false },
+        { "text": "Terapötik Rekreasyon", "rationale": "Tedavi amaçlıdır.", "isCorrect": false },
+        { "text": "Endüstriyel Rekreasyon", "rationale": "İşyeri ile ilgilidir.", "isCorrect": false }
+      ],
+      "hint": "Merak giderme ve kişisel gelişim odaklı turizm."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Rekreasyon liderinin (Animatörün) grupla iletişim kurarken kullanması gereken ton nasıldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Otoriter ve sert", "rationale": "Eğlence ortamını bozar.", "isCorrect": false },
+        { "text": "Teşvik edici ve nazik", "rationale": "Katılımı artırır.", "isCorrect": true },
+        { "text": "İlgisiz", "rationale": "İletişimi koparır.", "isCorrect": false },
+        { "text": "Alaycı", "rationale": "Misafiri rencide eder.", "isCorrect": false },
+        { "text": "Sessiz", "rationale": "Liderlik yapamaz.", "isCorrect": false }
+      ],
+      "hint": "İnsanları eğlenmeye davet eden pozitif yaklaşım."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Bir otelde 'Mini Club' kimler için hazırlanmış rekreasyon alanıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yaşlılar", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Çocuklar", "rationale": "Genellikle 4-12 yaş grubu içindir.", "isCorrect": true },
+        { "text": "Gençler (Teenager)", "rationale": "Teen Club ayrıdır.", "isCorrect": false },
+        { "text": "Balayı çiftleri", "rationale": "Değil.", "isCorrect": false },
+        { "text": "İş adamları", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Küçük yaştaki misafirler."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Rekreasyonun 'toplumsal' faydalarından biri nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bireysel kas gelişimi", "rationale": "Fiziksel faydadır.", "isCorrect": false },
+        { "text": "Toplumda dayanışma ve kaynaşmayı artırması", "rationale": "İnsanları bir araya getirerek sosyal bağı güçlendirir.", "isCorrect": true },
+        { "text": "Bireysel gelir artışı", "rationale": "Ekonomik faydadır.", "isCorrect": false },
+        { "text": "Uyku düzenini sağlaması", "rationale": "Bireysel sağlık faydasıdır.", "isCorrect": false },
+        { "text": "Okuma hızını artırması", "rationale": "Eğitsel faydadır.", "isCorrect": false }
+      ],
+      "hint": "İnsanlar arası ilişkileri güçlendiren etki."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Hangi aktivite 'Sanatsal Rekreasyon' kapsamında değerlendirilebilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Futbol maçı izlemek", "rationale": "Sportif izleyiciliktir.", "isCorrect": false },
+        { "text": "Seramik veya heykel kursuna katılmak", "rationale": "Sanat üretimi içerir.", "isCorrect": true },
+        { "text": "Balık tutmak", "rationale": "Hobidir / Doğa rekreasyonudur.", "isCorrect": false },
+        { "text": "Bisiklete binmek", "rationale": "Sportiftir.", "isCorrect": false },
+        { "text": "Piknik yapmak", "rationale": "Sosyal / Doğa rekreasyonudur.", "isCorrect": false }
+      ],
+      "hint": "Yaratıcılık ve estetik içeren faaliyet."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Otellerde akşamları yapılan 'Show' ve gösteriler hangi rekreasyon kategorisine daha yakındır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Aktif Rekreasyon", "rationale": "Misafir genelde izleyicidir.", "isCorrect": false },
+        { "text": "Pasif (İzleyici) Rekreasyon", "rationale": "Misafir gösteriyi oturarak izler.", "isCorrect": true },
+        { "text": "Sportif Rekreasyon", "rationale": "Spor değildir.", "isCorrect": false },
+        { "text": "Açık Alan Rekreasyonu", "rationale": "Her zaman açık alanda olmaz (Amfi tiyatro vs).", "isCorrect": false },
+        { "text": "Terapötik Rekreasyon", "rationale": "Tedavi amacı gütmez.", "isCorrect": false }
+      ],
+      "hint": "Kişinin fiziksel olarak katılmadığı, izlediği etkinlikler."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Rekreasyonel etkinliklerde 'güvenlik' neden önceliklidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maliyeti düşürmek için", "rationale": "Güvenlik maliyetli olabilir.", "isCorrect": false },
+        { "text": "Yaralanmaları ve kazaları önlemek için", "rationale": "İnsan sağlığı her şeyden önemlidir.", "isCorrect": true },
+        { "text": "Eğlenceyi azaltmak için", "rationale": "Amaç bu değildir.", "isCorrect": false },
+        { "text": "Süreyi uzatmak için", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Kuralları karmaşıklaştırmak için", "rationale": "Amaç değildir.", "isCorrect": false }
+      ],
+      "hint": "Eğlencenin kâbusa dönüşmemesi için alınan önlemler."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Aşağıdakilerden hangisi bir 'Hobi' olarak tanımlanabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşe gitmek", "rationale": "Zorunluluktur.", "isCorrect": false },
+        { "text": "Ev temizliği yapmak", "rationale": "Genelde zorunluluktur.", "isCorrect": false },
+        { "text": "Pul koleksiyonu yapmak", "rationale": "Kişisel zevk için düzenli yapılan uğraştır.", "isCorrect": true },
+        { "text": "Diş fırçalamak", "rationale": "Kişisel bakımdır.", "isCorrect": false },
+        { "text": "Vergi ödemek", "rationale": "Vatandaşlık görevidir.", "isCorrect": false }
+      ],
+      "hint": "Boş zamanda zevk için yapılan düzenli uğraş."
+    },
+    {
+      "questionNumber": 40,
+      "question": "'Wellness' (Esenlik) turizmi ile rekreasyon arasındaki ilişki nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İlişkisi yoktur", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Wellness, rekreasyonun sağlık odaklı bir türüdür", "rationale": "Bireyin iyi hissetmesi ve yenilenmesi hedeflenir.", "isCorrect": true },
+        { "text": "Wellness sadece hastalar içindir", "rationale": "Sağlıklı yaşam içindir.", "isCorrect": false },
+        { "text": "Rekreasyon wellness'ı kapsamaz", "rationale": "Kapsayabilir.", "isCorrect": false },
+        { "text": "Wellness sadece spor demektir", "rationale": "Ruhsal dengeyi de içerir.", "isCorrect": false }
+      ],
+      "hint": "Sağlıklı yaşam ve 'iyi olma' hali."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Rekreasyon yönetiminde 'Planlama' aşaması neyi kapsar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece bütçeyi harcamayı", "rationale": "Yetersizdir.", "isCorrect": false },
+        { "text": "Hedefleri, kaynakları ve aktiviteleri belirlemeyi", "rationale": "Organizasyonun temelidir.", "isCorrect": true },
+        { "text": "Etkinlik bittikten sonra rapor yazmayı", "rationale": "Bu değerlendirme aşamasıdır.", "isCorrect": false },
+        { "text": "Personeli işten çıkarmayı", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Misafirleri karşılamayı", "rationale": "Uygulama aşamasıdır.", "isCorrect": false }
+      ],
+      "hint": "İşe başlamadan önce kağıt üzerinde yapılan hazırlık."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Aşağıdakilerden hangisi 'Kış Turizmi' rekreasyonuna örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sörf yapmak", "rationale": "Yaz sporudur.", "isCorrect": false },
+        { "text": "Kayak yapmak", "rationale": "Kar üzerinde yapılan kış sporudur.", "isCorrect": true },
+        { "text": "Plaj voleybolu", "rationale": "Yaz sporudur.", "isCorrect": false },
+        { "text": "Yat turu", "rationale": "Genelde yazın yapılır.", "isCorrect": false },
+        { "text": "Su kayağı", "rationale": "Yaz sporudur.", "isCorrect": false }
+      ],
+      "hint": "Kar ve soğuk hava gerektiren aktivite."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Rekreasyonun ekonomik katkılarından biri hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çevre kirliliği", "rationale": "Olumsuz etkidir.", "isCorrect": false },
+        { "text": "İstihdam (iş imkanı) yaratması", "rationale": "Rekreasyon sektörü çalışanlara ihtiyaç duyar.", "isCorrect": true },
+        { "text": "Nüfus artışı", "rationale": "Doğrudan ekonomik katkı değildir.", "isCorrect": false },
+        { "text": "Trafik sıkışıklığı", "rationale": "Olumsuz etkidir.", "isCorrect": false },
+        { "text": "Gürültü", "rationale": "Olumsuz etkidir.", "isCorrect": false }
+      ],
+      "hint": "Sektörün para döngüsü ve iş gücüne etkisi."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Otel animasyonlarında 'Sketch' (Skeç) ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Resim çizmek", "rationale": "Turizmde bu anlamda kullanılmaz.", "isCorrect": false },
+        { "text": "Kısa, güldürücü tiyatro oyunu", "rationale": "Animasyon şovlarının parçasıdır.", "isCorrect": true },
+        { "text": "Dans yarışması", "rationale": "Değildir.", "isCorrect": false },
+        { "text": "Havuz oyunu", "rationale": "Değildir.", "isCorrect": false },
+        { "text": "Yemek menüsü", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Komedi unsuru içeren kısa sahne gösterisi."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Bir rekreasyon etkinliğinde 'Geri Bildirim' (Feedback) neden alınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Gelecek etkinlikleri daha iyi planlamak için", "rationale": "Hataları görmek ve düzeltmek için gereklidir.", "isCorrect": true },
+        { "text": "Misafirleri yormak için", "rationale": "Amaç değildir.", "isCorrect": false },
+        { "text": "Kağıt israfı yapmak için", "rationale": "Amaç değildir.", "isCorrect": false },
+        { "text": "Personeli cezalandırmak için", "rationale": "Amaç geliştirme olmalıdır, ceza değil.", "isCorrect": false },
+        { "text": "Etkinliği iptal etmek için", "rationale": "Geri bildirim etkinlik sonrasında alınır.", "isCorrect": false }
+      ],
+      "hint": "Misafirin memnuniyetini ölçmek ve kaliteyi artırmak."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Aşağıdakilerden hangisi 'Ekstrem (Macera) Rekreasyonu' örneğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yamaç paraşütü", "rationale": "Yüksek adrenalin ve risk içerir.", "isCorrect": true },
+        { "text": "Balık tutmak", "rationale": "Sakin bir aktivitedir.", "isCorrect": false },
+        { "text": "Yürüyüş", "rationale": "Düşük risklidir.", "isCorrect": false },
+        { "text": "Masa tenisi", "rationale": "Düşük risklidir.", "isCorrect": false },
+        { "text": "Dart oynamak", "rationale": "Düşük risklidir.", "isCorrect": false }
+      ],
+      "hint": "Adrenalin ve risk içeren heyecan verici sporlar."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Oyun kurallarının katılımcılara etkinlikten ÖNCE anlatılmasının temel sebebi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Zaman öldürmek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Adil bir yarışma ve güvenliği sağlamak", "rationale": "Herkesin ne yapacağını bilmesi gerekir.", "isCorrect": true },
+        { "text": "Animatörün sesini duyurmak", "rationale": "Amaç değildir.", "isCorrect": false },
+        { "text": "Seyircileri sıkmak", "rationale": "Amaç değildir.", "isCorrect": false },
+        { "text": "Ödülü saklamak", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Karmaşayı önlemek ve eşit şartlar yaratmak."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Rekreasyonun 'çevresel' bilince katkısı nasıl olabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çevreyi kirleterek", "rationale": "Olumsuz etkidir.", "isCorrect": false },
+        { "text": "Doğa sevgisi aşılayarak ve koruma bilinci yaratarak", "rationale": "Doğa rekreasyonu insanı doğaya yaklaştırır.", "isCorrect": true },
+        { "text": "Daha çok beton bina yaparak", "rationale": "Çevreye zarardır.", "isCorrect": false },
+        { "text": "Ağaçları keserek", "rationale": "Zarardır.", "isCorrect": false },
+        { "text": "Hayvanları avlayarak", "rationale": "Bilinçli rekreasyon korumayı hedefler.", "isCorrect": false }
+      ],
+      "hint": "Doğada yapılan etkinliklerin insanda yarattığı farkındalık."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Bir otel animasyon programında 'Pool Games' (Havuz Oyunları) genellikle günün hangi saatinde yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Gece yarısı", "rationale": "Görüş ve güvenlik sorunu olur.", "isCorrect": false },
+        { "text": "Sabahın çok erken saatlerinde", "rationale": "Misafirler uyuyor olabilir.", "isCorrect": false },
+        { "text": "Öğle saatlerine doğru veya öğleden sonra", "rationale": "Güneşin ve havuzun en aktif kullanıldığı saatlerdir.", "isCorrect": true },
+        { "text": "Akşam yemeği sırasında", "rationale": "Uygun değildir.", "isCorrect": false },
+        { "text": "Sabah kahvaltısında", "rationale": "Uygun değildir.", "isCorrect": false }
+      ],
+      "hint": "Havanın sıcak, herkesin havuz başında olduğu zaman dilimi."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Rekreasyon faaliyetlerine katılımı etkileyen 'demografik' faktörlerden biri hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Havanın durumu", "rationale": "Çevresel faktördür.", "isCorrect": false },
+        { "text": "Yaş ve Cinsiyet", "rationale": "Kişinin demografik özellikleridir.", "isCorrect": true },
+        { "text": "Tesisin uzaklığı", "rationale": "Coğrafi faktördür.", "isCorrect": false },
+        { "text": "Ekipman kalitesi", "rationale": "Tesis faktörüdür.", "isCorrect": false },
+        { "text": "Reklamlar", "rationale": "Pazarlama faktörüdür.", "isCorrect": false }
+      ],
+      "hint": "Kişinin yaşı, cinsiyeti, eğitim durumu gibi özellikleri."
+    },
+    {
+      "questionNumber": 51,
+      "question": "Dolmuş oyununda takımların başlangıç dizilişi nasıldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Tüm takım aynı taraftadır.", "rationale": "Bu durumda transfer yapılamaz.", "isCorrect": false },
+        { "text": "Havuzun bir tarafında bir çocuk, oyunun başlayacağı tarafta iki çocuk bulunur.", "rationale": "Metinde 'Havuzun bir tarafında bir çocuk, oyunun başlayacağı tarafta iki çocuk olacak şekilde gruplar yerlerini alırlar' ifadesi geçer.", "isCorrect": true },
+        { "text": "Her köşede bir çocuk vardır.", "rationale": "Köşe kuralı yoktur.", "isCorrect": false },
+        { "text": "Tüm çocuklar suyun içindedir.", "rationale": "Diziliş pozisyonu kenarlara göredir.", "isCorrect": false },
+        { "text": "İki çocuk karşıda, iki çocuk beri taraftadır.", "rationale": "Takımlar 3 kişiliktir, 4 kişi değil.", "isCorrect": false }
+      ],
+      "hint": "3 kişilik ekibin havuzun iki yakasına dağılımını düşünün."
+    },
+    {
+      "questionNumber": 52,
+      "question": "Aşağıdakilerden hangisi 'Soft Animasyon' kapsamında değerlendirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Büyük sahne şovları", "rationale": "Bu Show Animasyonudur.", "isCorrect": false },
+        { "text": "Yarışmalı havuz oyunları", "rationale": "Bu Hard Animasyondur.", "isCorrect": false },
+        { "text": "Dart, Boccia veya tavla turnuvası", "rationale": "Sakin, daha az efor gerektiren ve sohbet ağırlıklı aktivitelerdir.", "isCorrect": true },
+        { "text": "Su topu maçı", "rationale": "Fiziksel temas içerir, Hard Animasyona yakındır.", "isCorrect": false },
+        { "text": "Gece kulübü dansları", "rationale": "Show/Eğlence kısmıdır.", "isCorrect": false }
+      ],
+      "hint": "Yormayan, sakin ve sohbete dayalı etkinlikler."
+    },
+    {
+      "questionNumber": 53,
+      "question": "Rekreasyon engellerinden biri olan 'İntrapersonal' (Kişi içi) engel neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Paranın olmaması", "rationale": "Yapısal engeldir.", "isCorrect": false },
+        { "text": "Ulaşım sorunu", "rationale": "Yapısal engeldir.", "isCorrect": false },
+        { "text": "Kişinin kendine güvenmemesi, depresyon veya stres durumu", "rationale": "Kişinin kendi psikolojisinden kaynaklanan engellerdir.", "isCorrect": true },
+        { "text": "Arkadaş bulamama", "rationale": "Kişilerarası (Interpersonal) engeldir.", "isCorrect": false },
+        { "text": "Havanın yağmurlu olması", "rationale": "Çevresel engeldir.", "isCorrect": false }
+      ],
+      "hint": "Bireyin kendi iç dünyasından kaynaklanan bariyerler."
+    },
+    {
+      "questionNumber": 54,
+      "question": "Kaşıkla top taşıma oyununda oyuncu değişikliği sırasında kural ihlali (topu düşürme) olursa sonuç ne olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Oyun durdurulur tekrar başlar", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Grup elemanları elenir", "rationale": "Metinde 'Topu taşırken ve değiştirirken düşüren grup elemanları elenir' yazar.", "isCorrect": true },
+        { "text": "Ceza puanı verilir", "rationale": "Puanlama değil eleme usulüdür.", "isCorrect": false },
+        { "text": "Diğer takıma puan verilir", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Süreye 10 saniye eklenir", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Hata affedilmez, takım yarış dışı kalır."
+    },
+    {
+      "questionNumber": 55,
+      "question": "Rekreasyonun 'Terapötik' (Tedavi edici) yönü en çok hangi grupta kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Profesyonel sporcular", "rationale": "Performans odaklıdırlar.", "isCorrect": false },
+        { "text": "Engelli bireyler, yaşlılar veya rehabilitasyon gören hastalar", "rationale": "Fiziksel veya ruhsal iyileşme amacı güder.", "isCorrect": true },
+        { "text": "Okul çocukları", "rationale": "Eğitsel rekreasyon daha baskındır.", "isCorrect": false },
+        { "text": "Turistler", "rationale": "Eğlence odaklıdırlar.", "isCorrect": false },
+        { "text": "Fabrika işçileri", "rationale": "Endüstriyel rekreasyon kapsamındadır.", "isCorrect": false }
+      ],
+      "hint": "Sağlık sorunları olan veya desteğe ihtiyaç duyan gruplar."
+    },
+    {
+      "questionNumber": 56,
+      "question": "Dolmuş oyununda sörf tahtasıyla ilk turda kaç kişi hareket eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "1", "rationale": "Metinde 'ilk yarışmacılar sörf tahtasına binip... karşı tarafa geçer' ifadesi tekil başlar ama dolmuş mantığı gereği tek kişi gider.", "isCorrect": true },
+        { "text": "2", "rationale": "İkinci turda 2 kişi olurlar.", "isCorrect": false },
+        { "text": "3", "rationale": "Son turda 3 kişi olurlar.", "isCorrect": false },
+        { "text": "0", "rationale": "Hareket olmaz.", "isCorrect": false },
+        { "text": "4", "rationale": "Takım 3 kişidir.", "isCorrect": false }
+      ],
+      "hint": "Şoför tek başına yola çıkar."
+    },
+    {
+      "questionNumber": 57,
+      "question": "Hangisi rekreasyonun 'sosyalleşme' işlevine örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Tek başına bulmaca çözmek", "rationale": "Bireyseldir.", "isCorrect": false },
+        { "text": "Takım sporlarına katılmak", "rationale": "Başkalarıyla etkileşim ve işbirliği gerektirir.", "isCorrect": true },
+        { "text": "Uyku uyumak", "rationale": "İletişim yoktur.", "isCorrect": false },
+        { "text": "Bireysel koşu", "rationale": "Sosyalleşme düşüktür.", "isCorrect": false },
+        { "text": "Meditasyon yapmak", "rationale": "İçseldir.", "isCorrect": false }
+      ],
+      "hint": "Başkalarıyla iletişim kurmayı gerektiren eylem."
+    },
+    {
+      "questionNumber": 58,
+      "question": "Turizmde rekreasyon faaliyetlerinin 'mevsimsellikten' etkilenmesini azaltmak için ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Oteller kışın kapatılır", "rationale": "Bu bir çözüm değil, sonuçtur.", "isCorrect": false },
+        { "text": "Kapalı alan aktiviteleri ve alternatif turizm çeşitleri geliştirilir", "rationale": "Kongre, sağlık, spa gibi aktivitelerle sezon uzatılır.", "isCorrect": true },
+        { "text": "Sadece yazın personel alınır", "rationale": "İstihdam sorunudur.", "isCorrect": false },
+        { "text": "Fiyatlar artırılır", "rationale": "Talebi düşürebilir.", "isCorrect": false },
+        { "text": "Turist kabul edilmez", "rationale": "Yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Yağmur veya soğukta da yapılabilecek etkinlikler sunmak."
+    },
+    {
+      "questionNumber": 59,
+      "question": "Kaşıkla top taşıma oyununda kazanan nasıl belirlenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "En çok topu taşıyan", "rationale": "Sayı değil süre önemlidir.", "isCorrect": false },
+        { "text": "En iyi yüzen", "rationale": "Tek kriter değildir.", "isCorrect": false },
+        { "text": "En kısa sürede düşürmeden tamamlayan", "rationale": "Hız ve hatasızlık esastır.", "isCorrect": true },
+        { "text": "En yavaş yapan", "rationale": "Yarışma mantığına terstir.", "isCorrect": false },
+        { "text": "En eğlenceli yapan", "rationale": "Öznel bir kriterdir.", "isCorrect": false }
+      ],
+      "hint": "Hız ve dikkatin birleşimi."
+    },
+    {
+      "questionNumber": 60,
+      "question": "Aşağıdakilerden hangisi 'Endüstriyel Rekreasyon'un tanımıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Fabrikaları gezmek", "rationale": "Bu endüstriyel turizmdir.", "isCorrect": false },
+        { "text": "İşverenlerin çalışanlarının verimini artırmak için düzenlediği etkinlikler", "rationale": "Şirket piknikleri, spor turnuvaları vb.", "isCorrect": true },
+        { "text": "Sanayi bölgelerinde yapılan sporlar", "rationale": "Tam tanım değildir.", "isCorrect": false },
+        { "text": "Makine üretimi", "rationale": "Rekreasyon değildir.", "isCorrect": false },
+        { "text": "İşsizler için yapılan etkinlikler", "rationale": "Sosyal rekreasyondur.", "isCorrect": false }
+      ],
+      "hint": "Şirketlerin personeli motive etmek için yaptığı organizasyonlar."
+    },
+    {
+      "questionNumber": 61,
+      "question": "Dolmuş oyununda en son turda sörf tahtasında kaç kişi olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "1", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "2", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "3", "rationale": "Takımın tamamı (3 kişi) birlikte bitişe gider.", "isCorrect": true },
+        { "text": "4", "rationale": "Takım 3 kişiliktir.", "isCorrect": false },
+        { "text": "5", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Bütün takım bitiş çizgisine gider."
+    },
+    {
+      "questionNumber": 62,
+      "question": "Modern toplumda boş zamanın artmasının nedenlerinden biri hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Teknolojik gelişmeler ve otomasyon", "rationale": "Makineler işleri hızlandırdığı için insana kalan zaman artmıştır.", "isCorrect": true },
+        { "text": "İnsan ömrünün kısalması", "rationale": "Ömür uzamıştır.", "isCorrect": false },
+        { "text": "Maaşların düşmesi", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Elektrik kesintileri", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Tarım toplumuna dönüş", "rationale": "Sanayi ve bilgi toplumuna geçilmiştir.", "isCorrect": false }
+      ],
+      "hint": "Ev işlerini ve üretimi hızlandıran aletler."
+    },
+    {
+      "questionNumber": 63,
+      "question": "Animasyon hizmetlerinin otel işletmesine sağladığı en büyük 'pazarlama' avantajı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Daha az personel çalıştırmak", "rationale": "Avantaj değildir.", "isCorrect": false },
+        { "text": "Ağızdan ağıza reklam (Word of Mouth) sağlaması", "rationale": "Eğlenen müşteri deneyimini başkalarına anlatır.", "isCorrect": true },
+        { "text": "Oda fiyatlarını düşürmek", "rationale": "Amaç kârı artırmaktır.", "isCorrect": false },
+        { "text": "Yemek maliyetini azaltmak", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Elektrik tasarrufu", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Mutlu müşterinin bedava reklam yapması."
+    },
+    {
+      "questionNumber": 64,
+      "question": "Çocuk kulüplerinde (Mini Club) yapılan etkinliklerde en önemli unsur nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Rekabet", "rationale": "Çocuklarda aşırı rekabet istenmez.", "isCorrect": false },
+        { "text": "Güvenlik ve gözetim", "rationale": "Çocukların sağlığı ve güvenliği her şeyden öndedir.", "isCorrect": true },
+        { "text": "Para kazanmak", "rationale": "Ücretsiz hizmettir.", "isCorrect": false },
+        { "text": "Sessizlik", "rationale": "Çocuklar gürültülü oynar.", "isCorrect": false },
+        { "text": "Gece geç saatlere kadar sürmesi", "rationale": "Çocuklar erken uyur.", "isCorrect": false }
+      ],
+      "hint": "Anne babaların çocuklarını emanet ederken ilk baktığı kriter."
+    },
+    {
+      "questionNumber": 65,
+      "question": "Bir animatörün 'Kostüm' giymesi hangi tür etkinliklerde daha yaygındır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sabah jimnastiği", "rationale": "Spor kıyafeti giyilir.", "isCorrect": false },
+        { "text": "Akşam şovları ve temalı geceler", "rationale": "Atmosfer yaratmak için kostüm şarttır.", "isCorrect": true },
+        { "text": "Havuz temizliği", "rationale": "Teknik servisin işidir.", "isCorrect": false },
+        { "text": "Toplantılar", "rationale": "Resmi kıyafet giyilir.", "isCorrect": false },
+        { "text": "Mola saatleri", "rationale": "Serbest kıyafet.", "isCorrect": false }
+      ],
+      "hint": "Tiyatro veya dans gösterileri."
+    },
+    {
+      "questionNumber": 66,
+      "question": "Dolmuş oyununda, sörf tahtasını itmek için ne kullanılamaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Eller", "rationale": "Kullanılır.", "isCorrect": false },
+        { "text": "Ayak paleti veya yapay kürek", "rationale": "Sadece ellerin kürek olarak kullanılması kuraldır, harici alet yasaktır.", "isCorrect": true },
+        { "text": "Kol gücü", "rationale": "Kullanılır.", "isCorrect": false },
+        { "text": "Vücut dengesi", "rationale": "Gereklidir.", "isCorrect": false },
+        { "text": "Takım arkadaşı desteği", "rationale": "Gereklidir.", "isCorrect": false }
+      ],
+      "hint": "Dışarıdan getirilen yardımcı araçlar."
+    },
+    {
+      "questionNumber": 67,
+      "question": "Hangi aktivite 'Macera (Adventure) Rekreasyonu' sayılmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Rafting", "rationale": "Maceradır.", "isCorrect": false },
+        { "text": "Bungee Jumping", "rationale": "Maceradır.", "isCorrect": false },
+        { "text": "Satranç", "rationale": "Zihinsel strateji oyunudur, macera değildir.", "isCorrect": true },
+        { "text": "Kaya tırmanışı", "rationale": "Maceradır.", "isCorrect": false },
+        { "text": "Mağaracılık", "rationale": "Maceradır.", "isCorrect": false }
+      ],
+      "hint": "Fiziksel risk ve doğa mücadelesi içermeyen."
+    },
+    {
+      "questionNumber": 68,
+      "question": "Rekreasyonun 'Ekonomik' çarpan etkisi ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Paranın kaybolması", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Rekreasyon harcamalarının başka sektörleri de (ulaşım, gıda vb.) canlandırması", "rationale": "Turist harcaması ekonomide el değiştirerek büyür.", "isCorrect": true },
+        { "text": "Sadece otellerin kazanması", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Vergilerin düşmesi", "rationale": "İlgisiz.", "isCorrect": false },
+        { "text": "Fiyatların ucuzlaması", "rationale": "İlgisiz.", "isCorrect": false }
+      ],
+      "hint": "Bir sektördeki harcamanın diğer sektörlere can suyu olması."
+    },
+    {
+      "questionNumber": 69,
+      "question": "Metne göre, halkın rekreasyon ihtiyaçlarını karşılamak devletin hangi görevi kapsamındadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sosyal Devlet anlayışı", "rationale": "Devletin vatandaşına hizmet götürme yükümlülüğüdür.", "isCorrect": true },
+        { "text": "Askeri güvenlik", "rationale": "İlgisiz.", "isCorrect": false },
+        { "text": "Dış politika", "rationale": "İlgisiz.", "isCorrect": false },
+        { "text": "Ticari kâr", "rationale": "Devlet kâr amacı gütmez.", "isCorrect": false },
+        { "text": "Yargı görevi", "rationale": "İlgisiz.", "isCorrect": false }
+      ],
+      "hint": "Vatandaşın refahını ve mutluluğunu düşünen devlet modeli."
+    },
+    {
+      "questionNumber": 70,
+      "question": "Animasyon programları hazırlanırken 'Milliyet Dağılımı' neden dikkate alınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yemekleri ayarlamak için", "rationale": "Mutfak departmanının işidir.", "isCorrect": false },
+        { "text": "Kullanılacak dili ve kültürel hassasiyetleri belirlemek için", "rationale": "Alman, Rus veya Türk misafirin eğlence anlayışı ve dili farklıdır.", "isCorrect": true },
+        { "text": "Oda numarasını vermek için", "rationale": "Resepsiyonun işidir.", "isCorrect": false },
+        { "text": "Personel maaşını belirlemek için", "rationale": "İlgisiz.", "isCorrect": false },
+        { "text": "Havuz suyunu ısıtmak için", "rationale": "İlgisiz.", "isCorrect": false }
+      ],
+      "hint": "Farklı kültürlerin farklı şakalara gülmesi veya farklı dilleri konuşması."
+    },
+    {
+      "questionNumber": 71,
+      "question": "'Oyun' kavramının rekreasyondaki en belirgin özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Para kazanma aracı olması", "rationale": "Profesyonel spordur o.", "isCorrect": false },
+        { "text": "Belirli kuralları olması ve sonuç belirsizliği", "rationale": "Oyunun sonucu önceden bilinmez ve kurallara tabidir.", "isCorrect": true },
+        { "text": "Sadece çocuklara özgü olması", "rationale": "Yetişkinler de oynar.", "isCorrect": false },
+        { "text": "Her zaman masa başında oynanması", "rationale": "Fiziksel oyunlar da vardır.", "isCorrect": false },
+        { "text": "Devlet izni gerektirmesi", "rationale": "Gerekmez.", "isCorrect": false }
+      ],
+      "hint": "Kim kazanacağının önceden belli olmaması heyecanı yaratır."
+    },
+    {
+      "questionNumber": 72,
+      "question": "Kaşıkla top taşıma oyununda kaşık nerede tutulur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Elde", "rationale": "El yasaktır.", "isCorrect": false },
+        { "text": "Ağızda", "rationale": "Metinde 'ağzına kaşığı koyar' ifadesi geçer.", "isCorrect": true },
+        { "text": "Koltuk altında", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Ayakta", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Mayoya sıkıştırılarak", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Konuşmayı engelleyen uzuv."
+    },
+    {
+      "questionNumber": 73,
+      "question": "Aşağıdakilerden hangisi 'Kırsal Rekreasyon' (Rural Recreation) örneğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "AVM gezisi", "rationale": "Kentsel rekreasyondur.", "isCorrect": false },
+        { "text": "Çiftlik turizmi veya yayla şenlikleri", "rationale": "Kırsal alanlarda yapılır.", "isCorrect": true },
+        { "text": "Sinema festivali", "rationale": "Genelde kentseldir.", "isCorrect": false },
+        { "text": "Metro ile şehir turu", "rationale": "Kentseldir.", "isCorrect": false },
+        { "text": "Stadyum konseri", "rationale": "Kentseldir.", "isCorrect": false }
+      ],
+      "hint": "Şehir gürültüsünden uzak, köy veya doğa ortamı."
+    },
+    {
+      "questionNumber": 74,
+      "question": "Otellerde 'Step-Aerobik' aktivitesi hangi animasyon kategorisindedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Show Animasyon", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Sportif / Fitness Animasyon", "rationale": "Sağlık ve spor odaklıdır.", "isCorrect": true },
+        { "text": "Çocuk Animasyonu", "rationale": "Yetişkinler içindir.", "isCorrect": false },
+        { "text": "Kültürel Animasyon", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Pasif Animasyon", "rationale": "Çok aktiftir.", "isCorrect": false }
+      ],
+      "hint": "Müzik eşliğinde yapılan tempolu egzersiz."
+    },
+    {
+      "questionNumber": 75,
+      "question": "Boş zamanın 'atıl' (kullanılmayan) zaman olmaması için ne gereklidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uyumak", "rationale": "Pasifliktir.", "isCorrect": false },
+        { "text": "Değerlendirilebilir bir aktivite ile doldurulması", "rationale": "Rekreasyonun amacı boş zamanı nitelikli kullanmaktır.", "isCorrect": true },
+        { "text": "Daha çok çalışmak", "rationale": "Boş zaman değildir.", "isCorrect": false },
+        { "text": "Hiçbir şey yapmamak", "rationale": "Atıl zamandır.", "isCorrect": false },
+        { "text": "Televizyona bakıp dalmak", "rationale": "Düşük nitelikli zamandır.", "isCorrect": false }
+      ],
+      "hint": "Zamanı 'öldürmek' yerine 'yaşamak'."
+    },
+    {
+      "questionNumber": 76,
+      "question": "Dolmuş oyununda oyunu ilk kez kim uygular (demo yapar)?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Gönüllü turistler", "rationale": "Riskli olabilir.", "isCorrect": false },
+        { "text": "Animatörler", "rationale": "Metinde 'ilk defa animatörlerce uygulanır' yazar. Böylece misafirler oyunu anlar.", "isCorrect": true },
+        { "text": "Otel müdürü", "rationale": "Yapmaz.", "isCorrect": false },
+        { "text": "Çocuklar hemen başlar", "rationale": "Önce demo yapılır.", "isCorrect": false },
+        { "text": "Hakemler", "rationale": "Sadece yönetir.", "isCorrect": false }
+      ],
+      "hint": "Oyunu tanıtmakla görevli personel."
+    },
+    {
+      "questionNumber": 77,
+      "question": "Rekreasyonun 'psikolojik' sonucu olarak ortaya çıkan 'Katarsis' ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Aşırı yorgunluk", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Ruhsal arınma ve rahatlama", "rationale": "Biriken stresi atarak rahatlama halidir.", "isCorrect": true },
+        { "text": "Para kaybı", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Kas ağrısı", "rationale": "Fiziksel sonuçtur.", "isCorrect": false },
+        { "text": "Sinirlilik hali", "rationale": "Tam tersidir.", "isCorrect": false }
+      ],
+      "hint": "İçindeki negatif enerjiyi boşaltma."
+    },
+    {
+      "questionNumber": 78,
+      "question": "Aşağıdakilerden hangisi 'Sürdürülebilir Rekreasyon' ilkesine aykırıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Doğal kaynakları korumak", "rationale": "İlkesidir.", "isCorrect": false },
+        { "text": "Yerel kültüre saygı duymak", "rationale": "İlkesidir.", "isCorrect": false },
+        { "text": "Tek kullanımlık plastikleri doğaya atmak", "rationale": "Çevreyi kirletir, sürdürülebilirliğe aykırıdır.", "isCorrect": true },
+        { "text": "Enerji tasarrufu yapmak", "rationale": "İlkesidir.", "isCorrect": false },
+        { "text": "Gelecek nesilleri düşünmek", "rationale": "İlkesidir.", "isCorrect": false }
+      ],
+      "hint": "Çevreye zarar veren davranış."
+    },
+    {
+      "questionNumber": 79,
+      "question": "Kaşıkla top taşıma oyunu hangi materyal olmadan oynanamaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Raket", "rationale": "Gerekmez.", "isCorrect": false },
+        { "text": "Kaşık ve Pinpon Topu", "rationale": "Oyunun ana malzemesidir.", "isCorrect": true },
+        { "text": "Futbol topu", "rationale": "Ağır ve büyüktür.", "isCorrect": false },
+        { "text": "File", "rationale": "Gerekmez.", "isCorrect": false },
+        { "text": "Düdük", "rationale": "Olmasa da oynanabilir.", "isCorrect": false }
+      ],
+      "hint": "Yemek yerken kullanılan alet ve küçük hafif top."
+    },
+    {
+      "questionNumber": 80,
+      "question": "Turizm animasyonunda 'Guest Contact' (Misafir İlişkileri) neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafiri tanımak ve aktiviteye davet etmek için", "rationale": "Kişisel iletişim katılımı artırır.", "isCorrect": true },
+        { "text": "Bahşiş istemek için", "rationale": "Etik değildir.", "isCorrect": false },
+        { "text": "Dedikodu yapmak için", "rationale": "Yasaktır.", "isCorrect": false },
+        { "text": "Zaman doldurmak için", "rationale": "Amaç değildir.", "isCorrect": false },
+        { "text": "Yemek tarifi vermek için", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Sıcak bir 'Merhaba' ve sohbet ile buzları eritmek."
+    },
+    {
+      "questionNumber": 81,
+      "question": "Kamusal alanlarda yapılan rekreasyonun 'Erişilebilirlik' ilkesi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece zenginlerin girebilmesi", "rationale": "Aykırıdır.", "isCorrect": false },
+        { "text": "Herkesin (engelli, yaşlı, çocuk) alanı kolayca kullanabilmesi", "rationale": "Kamusal alan herkese açık ve uygun olmalıdır.", "isCorrect": true },
+        { "text": "Kapıların kilitli olması", "rationale": "Erişimi engeller.", "isCorrect": false },
+        { "text": "Girişin çok pahalı olması", "rationale": "Ekonomik erişimi engeller.", "isCorrect": false },
+        { "text": "Sadece araçla gidilebilmesi", "rationale": "Fiziksel erişimi kısıtlar.", "isCorrect": false }
+      ],
+      "hint": "Engelsiz ve kısıtlamasız ulaşım."
+    },
+    {
+      "questionNumber": 82,
+      "question": "Rekreasyon lideri bir aktiviteyi iptal etmek zorunda kalırsa ne yapmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ortadan kaybolmalıdır", "rationale": "Profesyonel değildir.", "isCorrect": false },
+        { "text": "Misafirlere dürüstçe sebebi açıklayıp alternatif sunmalıdır", "rationale": "Güven ve memnuniyet için gereklidir.", "isCorrect": true },
+        { "text": "Yalan söylemelidir", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Misafirlere kızmalıdır", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Hiçbir şey söylememelidir", "rationale": "İletişim eksikliğidir.", "isCorrect": false }
+      ],
+      "hint": "Kriz yönetimi ve iletişim."
+    },
+    {
+      "questionNumber": 83,
+      "question": "Dolmuş oyununda kullanılan 'sörf tahtası' yerine başka ne kullanılabilir (eğer yoksa)?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Şişme yatak veya büyük strafor", "rationale": "Benzer işlevi gören yüzer cisimler alternatif olabilir.", "isCorrect": true },
+        { "text": "Taş", "rationale": "Batar.", "isCorrect": false },
+        { "text": "Kağıt", "rationale": "Eriri/Batar.", "isCorrect": false },
+        { "text": "Demir levha", "rationale": "Batar.", "isCorrect": false },
+        { "text": "Havlular", "rationale": "Suyu emer batar.", "isCorrect": false }
+      ],
+      "hint": "Suyun üzerinde insanı taşıyabilecek alternatif malzeme."
+    },
+    {
+      "questionNumber": 84,
+      "question": "Hangi etkinlik 'Zihinsel (Entelektüel) Rekreasyon' kategorisindedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Satranç, briç veya kelime oyunları oynamak", "rationale": "Zihin jimnastiği gerektirir.", "isCorrect": true },
+        { "text": "Ağırlık kaldırmak", "rationale": "Fizikseldir.", "isCorrect": false },
+        { "text": "Yemek yemek", "rationale": "Fizyolojiktir.", "isCorrect": false },
+        { "text": "Uyumak", "rationale": "Fizyolojiktir.", "isCorrect": false },
+        { "text": "Dans etmek", "rationale": "Fiziksel/Sanatsaldır.", "isCorrect": false }
+      ],
+      "hint": "Beyin gücü gerektiren oyunlar."
+    },
+    {
+      "questionNumber": 85,
+      "question": "Animasyonun 'Buz Kıran' (Ice Breaker) oyunları ne amaçla oynanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafirleri üşütmek için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Tanışmayı sağlamak ve ortamdaki gerginliği/yabancılığı atmak için", "rationale": "Grupların kaynaşması için başlangıç oyunlarıdır.", "isCorrect": true },
+        { "text": "Kavga çıkarmak için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Para toplamak için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Personeli denemek için", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Soğukluğu ve utangaçlığı kıran aktiviteler."
+    },
+    {
+      "questionNumber": 86,
+      "question": "Turizmde 'Her Şey Dahil' sisteminin rekreasyona etkisi nasıldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafirleri otel dışına iter", "rationale": "Tam tersi otel içine hapseder.", "isCorrect": false },
+        { "text": "Otel içi rekreasyon ve animasyonun önemini artırır", "rationale": "Misafir sürekli otelde olduğu için eğlenceyi otelde arar.", "isCorrect": true },
+        { "text": "Rekreasyonu gereksiz kılar", "rationale": "Tam tersi, can sıkıntısını önlemek için şarttır.", "isCorrect": false },
+        { "text": "Animatör sayısını azaltır", "rationale": "Artırır.", "isCorrect": false },
+        { "text": "Sadece yemeğe odaklanılır", "rationale": "Eğlence de büyük parçadır.", "isCorrect": false }
+      ],
+      "hint": "Turist tüm gün oteldeyse ne yapmak ister?"
+    },
+    {
+      "questionNumber": 87,
+      "question": "Dolmuş oyununda takım arkadaşları birbirine nasıl yardım eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Birbirlerini iterek düşürürler", "rationale": "Bu köstek olmaktır.", "isCorrect": false },
+        { "text": "Birlikte kürek çekerek hızı artırırlar", "rationale": "Takım çalışması ile sörf tahtası daha hızlı gider.", "isCorrect": true },
+        { "text": "Sadece izlerler", "rationale": "Pasiftir.", "isCorrect": false },
+        { "text": "Rakip takımı tutarlar", "rationale": "Kural dışıdır.", "isCorrect": false },
+        { "text": "Hakeme bağırırlar", "rationale": "Yardım değildir.", "isCorrect": false }
+      ],
+      "hint": "Birlikten kuvvet doğar."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Rekreasyon alanlarında 'Zoning' (Bölgeleme) neden yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Gürültülü aktivitelerle sessiz aktiviteleri ayırmak için", "rationale": "Kitap okuyanla voleybol oynayanın birbirini rahatsız etmemesi gerekir.", "isCorrect": true },
+        { "text": "Alanı küçültmek için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "İnsanları ayırmak için (ayrımcılık)", "rationale": "Amaç fonksiyonel ayrımdır, sosyal ayrımcılık değil.", "isCorrect": false },
+        { "text": "Ağaç dikmek için", "rationale": "Peyzajdır.", "isCorrect": false },
+        { "text": "İnşaat yapmak için", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Dinlenme alanı ile eğlence alanının karışmaması."
+    },
+    {
+      "questionNumber": 89,
+      "question": "Kaşıkla top taşıma oyununda havuzun derinliği nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çok derin (boyu geçmeli)", "rationale": "Yüzme gerektirir ama güvenlik için kontrol edilebilir olmalıdır.", "isCorrect": false },
+        { "text": "Çocukların boyunu geçmeyecek güvenli seviyede veya yüzme biliyorlarsa standart havuzda", "rationale": "Güvenlik esastır, oyun yüzerek oynansa da güvenlik ön plandadır.", "isCorrect": true },
+        { "text": "Susuz", "rationale": "Yüzme olmaz.", "isCorrect": false },
+        { "text": "Dondurulmuş", "rationale": "Buz pateni olur.", "isCorrect": false },
+        { "text": "Çamurlu", "rationale": "Hijyenik değildir.", "isCorrect": false }
+      ],
+      "hint": "Güvenlik önlemi."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Hangi etkinlik 'Uluslararası Rekreasyon' örneğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mahalle maçı", "rationale": "Yereldir.", "isCorrect": false },
+        { "text": "Olimpiyat Oyunları veya Dünya Kupası", "rationale": "Uluslararası katılımla gerçekleşen dev rekreasyon organizasyonlarıdır.", "isCorrect": true },
+        { "text": "Okul müsameresi", "rationale": "Yereldir.", "isCorrect": false },
+        { "text": "Evde parti", "rationale": "Bireyseldir.", "isCorrect": false },
+        { "text": "Şehir tiyatrosu", "rationale": "Yerel/Ulusal olabilir.", "isCorrect": false }
+      ],
+      "hint": "Dünyanın her yerinden katılımcı ve izleyicisi olan."
+    },
+    {
+      "questionNumber": 91,
+      "question": "Rekreasyon liderinin 'Laissez-faire' (Bırakınız yapsınlar) tarzı hangi durumda uygundur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Tehlikeli sporlarda", "rationale": "Otoriter kontrol gerekir.", "isCorrect": false },
+        { "text": "Yaratıcılık gerektiren ve grubun deneyimli olduğu durumlarda", "rationale": "Müdahale etmemek yaratıcılığı artırabilir.", "isCorrect": true },
+        { "text": "Çocuk oyunlarında", "rationale": "Gözetim gerekir.", "isCorrect": false },
+        { "text": "Acil durumlarda", "rationale": "Hızlı karar gerekir.", "isCorrect": false },
+        { "text": "Kuralların karmaşık olduğu oyunlarda", "rationale": "Açıklama gerekir.", "isCorrect": false }
+      ],
+      "hint": "Grubun özgür bırakıldığı yönetim tarzı."
+    },
+    {
+      "questionNumber": 92,
+      "question": "Dolmuş oyununda kullanılan 'Kolluk' ne işe yarar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Süs eşyasıdır", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Çocuğun suda batmasını önleyen can güvenliği aracıdır", "rationale": "Metinde güvenlik için takıldığı belirtilir.", "isCorrect": true },
+        { "text": "Hızlı yüzmeyi sağlar", "rationale": "Aksine yavaşlatabilir ama güvenlidir.", "isCorrect": false },
+        { "text": "Güneşten korur", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Rakibi korkutur", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Şişme güvenlik ekipmanı."
+    },
+    {
+      "questionNumber": 93,
+      "question": "Rekreasyonun 'Boş Zaman' teorilerinden 'Telafi Teorisi' neyi savunur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İnsan işinde ne yapıyorsa boş zamanında da aynısını yapar", "rationale": "Bu 'Yayılma Teorisi'dir.", "isCorrect": false },
+        { "text": "İnsan işindeki eksiklikleri ve tatminsizliği boş zamanında zıddını yaparak telafi eder", "rationale": "Örn: Masa başı çalışanın dağcılık yapması.", "isCorrect": true },
+        { "text": "Boş zaman gereksizdir", "rationale": "Teori değildir.", "isCorrect": false },
+        { "text": "İnsan sadece uyumalıdır", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Boş zaman parayla satılmalıdır", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "İş hayatındaki monotonluğun tam tersini yaparak dengelenme."
+    },
+    {
+      "questionNumber": 94,
+      "question": "Animasyon aktivitelerinde müzik seçiminin önemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Önemsizdir", "rationale": "Çok önemlidir.", "isCorrect": false },
+        { "text": "Atmosferi, ritmi ve duyguyu belirler", "rationale": "Doğru müzik motivasyonu artırır.", "isCorrect": true },
+        { "text": "Sadece gürültü yapar", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Elektrik harcar", "rationale": "İkincil detaydır.", "isCorrect": false },
+        { "text": "Misafirleri uyutur", "rationale": "Canlı müzik uyutmaz.", "isCorrect": false }
+      ],
+      "hint": "Spor yaparken hareketli, yemekte sakin melodi."
+    },
+    {
+      "questionNumber": 95,
+      "question": "Bir rekreasyon tesisi (örneğin Aqua Park) için 'Kapasite' sınırı neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Daha çok bilet satmak için", "rationale": "Kapasiteyi aşmak risktir.", "isCorrect": false },
+        { "text": "Hizmet kalitesini korumak ve güvenliği sağlamak için", "rationale": "Aşırı kalabalık kazalara ve memnuniyetsizliğe yol açar.", "isCorrect": true },
+        { "text": "Personeli boş oturtmak için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Havuzu boş bırakmak için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Suyu soğutmak için", "rationale": "İlgisiz.", "isCorrect": false }
+      ],
+      "hint": "Taşıma kapasitesinin aşılması kuyruklara ve kazalara neden olur."
+    },
+    {
+      "questionNumber": 96,
+      "question": "Kaşıkla top taşıma oyununda top suya düşerse ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yüzen kişi topu alır ve devam eder", "rationale": "Kural ihlalidir.", "isCorrect": false },
+        { "text": "Hakem topu verir", "rationale": "Kural ihlalidir.", "isCorrect": false },
+        { "text": "O oyuncu/takım elenir", "rationale": "Kural gereği düşüren elenir.", "isCorrect": true },
+        { "text": "Puan kırılır", "rationale": "Eleme usulüdür.", "isCorrect": false },
+        { "text": "Yarışma yeniden başlar", "rationale": "Başlamaz.", "isCorrect": false }
+      ],
+      "hint": "Oyunun 'Deathmatch' (Ani ölüm/eleme) kuralı."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Hangi turizm çeşidi doğrudan 'Doğa Rekreasyonu' ile ilgilidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş Turizmi", "rationale": "Kongre odaklıdır.", "isCorrect": false },
+        { "text": "Eko-Turizm", "rationale": "Doğaya duyarlı, doğa temelli turizmdir.", "isCorrect": true },
+        { "text": "Alışveriş Turizmi", "rationale": "Kent odaklıdır.", "isCorrect": false },
+        { "text": "İnanç Turizmi", "rationale": "Kültürel/Dinseldir.", "isCorrect": false },
+        { "text": "Sağlık Turizmi (Hastane)", "rationale": "Medikaldir.", "isCorrect": false }
+      ],
+      "hint": "Yeşil turizm."
+    },
+    {
+      "questionNumber": 98,
+      "question": "Rekreasyon eğitimi almış personelin 'İlk Yardım' bilmesi neden gereklidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Doktorculuk oynamak için", "rationale": "Ciddi bir iştir.", "isCorrect": false },
+        { "text": "Olası kazalarda sağlık ekipleri gelene kadar hayati müdahaleyi yapmak için", "rationale": "Spor ve aktivitede kaza riski vardır.", "isCorrect": true },
+        { "text": "Maaşını artırmak için", "rationale": "Yan faydadır.", "isCorrect": false },
+        { "text": "İlaç satmak için", "rationale": "Yasaktır.", "isCorrect": false },
+        { "text": "Hastalara teşhis koymak için", "rationale": "Doktorun işidir.", "isCorrect": false }
+      ],
+      "hint": "Hayat kurtaran ilk müdahale."
+    },
+    {
+      "questionNumber": 99,
+      "question": "Dolmuş oyununda 'Takım Ruhu' nasıl gelişir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bireysel hareket ederek", "rationale": "Takım ruhunu bozar.", "isCorrect": false },
+        { "text": "Birbirini taşıyarak ve ortak hedefe (bitiş çizgisine) birlikte giderek", "rationale": "Oyunun amacı birlikte başarmaktır.", "isCorrect": true },
+        { "text": "Birbirini eleştirerek", "rationale": "Motivasyonu düşürür.", "isCorrect": false },
+        { "text": "Oyunu terk ederek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Hile yaparak", "rationale": "Etik değildir.", "isCorrect": false }
+      ],
+      "hint": "Hepimiz birimiz, birimiz hepimiz için."
+    },
+    {
+      "questionNumber": 100,
+      "question": "Rekreasyonun nihai amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çok para harcamak", "rationale": "Araçtır.", "isCorrect": false },
+        { "text": "Bireyin yaşam kalitesini artırmak ve mutluluğunu sağlamak", "rationale": "Tüm fiziksel, sosyal ve ruhsal faydaların toplam sonucudur.", "isCorrect": true },
+        { "text": "Ülkeyi kalkındırmak", "rationale": "Dolaylı sonuçtur.", "isCorrect": false },
+        { "text": "Zamanı doldurmak", "rationale": "Yüzeysel amaçtır.", "isCorrect": false },
+        { "text": "Yorulmak", "rationale": "Sonuçtur.", "isCorrect": false }
+      ],
+      "hint": "İnsanın kendini iyi hissetmesi (Well-being)."
+    }
+  ]
+}

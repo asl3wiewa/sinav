@@ -51,6 +51,14 @@ const TESTS = {
     title: "Turizmde Etik 3",
     dataUrl: "vize/turizmde-etik-3.json",
   },
+  "turizmde-etik-final": {
+    title: "Turizmde Etik Testi 1 (Final)",
+    dataUrl: "final/turizmde-etik.json",
+  },
+  "turizmde-etik-2-final": {
+    title: "Turizmde Etik Testi 2 (Final)",
+    dataUrl: "final/turizmde-etik-2.json",
+  },
   "bagimlilik-ve-bagimlilikla-mucadele": {
     title: "Bağımlılık ve Bağımlılıkla Mücadele",
     dataUrl: "vize/bagimlilik-ve-bagimlilikla-mucadele.json",
@@ -250,6 +258,30 @@ const TESTS = {
 
   },
 
+  "turizmde-rekreasyon-final": {
+
+    title: "Turizmde Rekreasyon Testi 1 (Final)",
+
+    dataUrl: "final/turizmde-rekreasyon.json",
+
+  },
+
+  "turizmde-rekreasyon-2-final": {
+
+    title: "Turizmde Rekreasyon Testi 2 (Final)",
+
+    dataUrl: "final/turizmde-rekreasyon-2.json",
+
+  },
+
+  "turizmde-rekreasyon-3-final": {
+
+    title: "Turizmde Rekreasyon Testi 3 (Final)",
+
+    dataUrl: "final/turizmde-rekreasyon-3.json",
+
+  },
+
   "turizm-ve-cevre-final": {
 
     title: "Turizm ve Cevre Testi 1 (Final)",
@@ -291,6 +323,8 @@ const TEST_ALIASES = {
   "turizmde etik": "turizmde-etik",
   "turizmde etik 2": "turizmde-etik-2",
   "turizmde etik 3": "turizmde-etik-3",
+  "turizmde etik final": "turizmde-etik-final",
+  "turizmde etik 2 final": "turizmde-etik-2-final",
   "bagimlilik ve bagimlilikla mucadele": "bagimlilik-ve-bagimlilikla-mucadele",
   "bagimlilik ve bagimlilikla mucadele 2": "bagimlilik-ve-bagimlilikla-mucadele-2",
   "bagimlilik mucadele": "bagimlilik-ve-bagimlilikla-mucadele",
@@ -303,6 +337,12 @@ const TEST_ALIASES = {
   "turizmde rekreasyon": "turizmde-rekreasyon",
 
   "turizmde rekreasyon 2": "turizmde-rekreasyon-2",
+
+  "turizmde rekreasyon final": "turizmde-rekreasyon-final",
+
+  "turizmde rekreasyon 2 final": "turizmde-rekreasyon-2-final",
+
+  "turizmde rekreasyon 3 final": "turizmde-rekreasyon-3-final",
   "kat hizmetleri": "kat-hizmetleri",
 
   "kat hizmetleri 2": "kat-hizmetleri-2",
