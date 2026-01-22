@@ -1,0 +1,3304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Çamaşırhane departmanında 'Temiz Çamaşır Bölümü'nde raflara yerleştirme yapılırken uyulması gereken temel ergonomik ve güvenlik kuralı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "En çok kullanılan çamaşırlar en üst rafa, az kullanılanlar alt rafa konulmalıdır.",
+          "rationale": "Kullanım sıklığı bir kriter olabilir ancak fiziksel güvenlik ve düzen açısından temel kural ağırlığa göre yapılandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Renklerine göre ayırıp, en açık renkliler en alta yerleştirilmelidir.",
+          "rationale": "Renk ayrımı tasnifte önemlidir ancak raf düzeninde ağırlık prensibi esas alınır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Büyük ve ağır çamaşırlar bel hizasında ve altta, hafif ve küçük çamaşırlar üstte olmalıdır.",
+          "rationale": "Bu yöntem, personelin ergonomik çalışmasını sağlar ve düşme riskini azaltarak güvenliği artırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tüm çamaşırlar rastgele yerleştirilmeli, sadece etiketleri öne bakmalıdır.",
+          "rationale": "Rastgele yerleştirme düzeni bozar, sayımı zorlaştırır ve operasyonel verimliliği düşürür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pamuklu ürünler en üste, sentetik ürünler en alta yerleştirilmelidir.",
+          "rationale": "Kumaş cinsi yıkama için önemlidir ancak depolamada temel fiziksel kural ağırlık ve boyuttur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Raflara yerleştirme yaparken hem personelin bel sağlığını korumak hem de düşme riskini azaltmak için ağırlık merkezi prensibini düşünün."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Çamaşırhanedeki 'Dikiş-Tamir' işlemleri ile ilgili prosedürlerden hangisi kesinlikle doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tamir işlemi, çamaşırlar yıkandıktan ve ütülendikten sonra yapılmalıdır.",
+          "rationale": "Yıkama işlemi yırtığı büyütebileceğinden tamir en sona bırakılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tamir işlemleri çamaşır yıkanmadan önce yapılmalıdır.",
+          "rationale": "Yırtık çamaşır yıkanırsa yırtık büyür ve eşya kullanılamaz hale gelir, bu nedenle tamir yıkamadan önce yapılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece müşteri çamaşırları tamir edilir, otel çamaşırları atılır.",
+          "rationale": "Otel tekstili maliyetli ürünlerdir, onarılabilir olanlar tamir edilerek tekrar kullanıma kazandırılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tamir işlemi sadece kuru temizleme yapılan ürünlere uygulanır.",
+          "rationale": "Yıkanabilir tüm otel ve müşteri çamaşırları için tamir prosedürü geçerlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dikiş-tamir bölümü çamaşırhanenin dışında, housekeeping ofisinde bulunmalıdır.",
+          "rationale": "Dikiş-tamir bölümü, iş akışının bir parçası olarak çamaşırhane içinde 5 ana bölümden biridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir kumaşta küçük bir yırtık varken o kumaşı makinede döndürmek yırtığa ne yapar? Bunu düşünerek sıralamayı bulun."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdakilerden hangisi Kirli Çamaşır Bölümünde yapılan tasnif (ayırma) kriterlerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Renklerine göre",
+          "rationale": "Renklerin birbirine karışmaması için bu temel bir tasnif kriteridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cinslerine göre (ipek, yün, pamuk)",
+          "rationale": "Kumaş cinsine göre yıkama programları değiştiği için bu önemli bir kriterdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Büyüklüklerine göre",
+          "rationale": "Küçük çamaşırların büyüklerin arasında kaybolmaması için büyüklük bir kriterdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kirlilik derecelerine göre",
+          "rationale": "Çok kirli ve az kirli çamaşırlar farklı programlarda yıkandığı için ayrılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Markalarına göre",
+          "rationale": "Çamaşırın markası yıkama sürecini etkileyen bir faktör değildir, bu nedenle tasnif kriteri olamaz.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Tasnif işlemi yıkama programını ve verimliliği etkileyen faktörlere göre yapılır. Etiketteki marka yıkamayı etkiler mi?"
+    },
+    {
+      "questionNumber": 4,
+      "question": "Çamaşırhanenin genel fiziksel özelliklerinden hangisi, özellikle sıcaklık ve kimyasal kokuların tahliyesi için kritik öneme sahiptir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Zeminin kaygan olmaması",
+          "rationale": "Bu iş güvenliği için önemlidir ancak hava kalitesiyle ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tavanın alçak olması",
+          "rationale": "Tavanın yüksek olması istenir, alçak tavan havalandırmayı zorlaştırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Havalandırma tertibatının çok iyi olması",
+          "rationale": "Çamaşırhanelerdeki yoğun nem, sıcaklık ve kimyasal buharların atılması için güçlü bir havalandırma şarttır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Duvarların koyu renge boyanması",
+          "rationale": "Aydınlık olması tercih edilir, koyu renk ışığı azaltır ve güvenlik riski oluşturur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Giriş kapısının dar olması",
+          "rationale": "Çamaşır arabalarının geçişi için kapıların geniş olması gerekir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çamaşırhanede makinelerden çıkan buhar ve kullanılan deterjan kokuları düşünüldüğünde, ortamın havasını ne temizler?"
+    },
+    {
+      "questionNumber": 5,
+      "question": "Küçük otellerde çamaşırhane personel organizasyonu genellikle nasıldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ayrı bir Çamaşırhane Müdürü ve 10 alt personel bulunur.",
+          "rationale": "Bu yapı büyük oteller için geçerlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece dışarıdan hizmet alınır, personel bulunmaz.",
+          "rationale": "Küçük otellerde de temel işlemler için personel bulunabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Housekeeper'a bağlı Yıkayıcı ve Ütücü bulunur.",
+          "rationale": "Küçük işletmelerde kadro dardır ve çamaşırhane doğrudan Kat Hizmetleri yöneticisine bağlı az sayıda personelle döner.",
+          "isCorrect": true
+        },
+        {
+          "text": "Resepsiyona bağlı bir bellboy bu işi yapar.",
+          "rationale": "Çamaşırhane teknik bir iştir ve resepsiyon kadrosunun görevi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak şefine bağlı bulaşıkçılar çamaşıra bakar.",
+          "rationale": "Hijyen kuralları gereği mutfak ve çamaşırhane personeli tamamen ayrıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Küçük işletmelerde departmanlar birleştirilebilir. Çamaşır işi en çok hangi departmanla (temizlik) ilişkilidir?"
+    },
+    {
+      "questionNumber": 6,
+      "question": "Çamaşırhane Şef Yardımcısının, personelle ilgili en önemli ve spesifik görevi aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Müşteri şikayetlerini dinlemek.",
+          "rationale": "Bu genellikle Şefin veya Housekeeper'ın görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kimyasalların satın almasını yapmak.",
+          "rationale": "Bu genellikle Şefin sorumluluğundadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş kıyafetlerinin giyilmesi ve temizliğinin kontrolünden sorumlu olmak.",
+          "rationale": "Dökümana göre Şef Yardımcısının belirtilen spesifik görevi üniforma ve kılık kıyafet kontrolüdür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Makinelerin tamirini bizzat yapmak.",
+          "rationale": "Makinelerin tamiri teknik servisin görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel bütçesini hazırlamak.",
+          "rationale": "Bütçe üst yönetimin işidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Şef yardımcısı operasyonun içindedir. Personelin işe başlamadan önceki dış görünüşüyle ilgili bir görevi vardır."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Aşağıdakilerden hangisi bir 'Yıkayıcı'nın (Washer) görevlerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çamaşırları saymak ve ayırmak.",
+          "rationale": "Yıkama öncesi hazırlık yıkayıcının görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğru yıkama programını seçmek.",
+          "rationale": "Makineyi ayarlamak yıkayıcının asli görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteri fişlerini ön büroya göndermek.",
+          "rationale": "Belge akışı ve muhasebeleşme süreci genellikle Çamaşırhane Şefinin görevidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Makine temizliğini yapmak.",
+          "rationale": "Kullandığı makinenin bakımından operatör sorumludur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğru kimyasalı kullanmak.",
+          "rationale": "Yıkama kalitesi için kimyasal seçimi yıkayıcının sorumluluğundadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yıkayıcı makine başında fiziksel iş yapar. Bürokrasi ve evrak transferi daha üst bir pozisyonun işi olabilir."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Çamaşırhaneye katlardan inen kirli çamaşırların taşınmasında zaman ve iş gücünden tasarruf sağlayan 'boru/baca sistemi'ne ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Asansör",
+          "rationale": "Asansör genel taşıma aracıdır, sadece çamaşır için olan boru sistemi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konveyör",
+          "rationale": "Konveyör yatay taşıma bandıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Shotlama (Şutlama) Sistemi",
+          "rationale": "Katlardan çamaşırhaneye doğrudan atılmasını sağlayan dikey boru sistemidir (Linen Chute).",
+          "isCorrect": true
+        },
+        {
+          "text": "Vakum Sistemi",
+          "rationale": "Vakum temizlikte kullanılır, çamaşır transferinde değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Monoray",
+          "rationale": "Monoray tavan raylı taşıma sistemidir, boru sistemi değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Futbolda topa sert vurmak veya bir şeyi hızla aşağı göndermek anlamındaki kelimeyi düşünün."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Çamaşırhane iş akışında genellikle uygulanan 'Öncelik Sırası' aşağıdakilerden hangisinde doğru verilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mutfak -> Kat Hizmetleri -> Servis Departmanı",
+          "rationale": "Mutfak çamaşırları en kirli gruptur ve sona bırakılabilir, servis önceliklidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis Departmanı (Restaurant) -> Kat Hizmetleri -> Mutfak",
+          "rationale": "Restoranların öğün saatlerine yetişmesi gerektiği için servis çamaşırları genellikle ilk sıradadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kat Hizmetleri -> Mutfak -> Servis Departmanı",
+          "rationale": "Kat hizmetleri stoklu çalışabilir ancak restoran operasyonu anlıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteri Çamaşırları -> Personel Üniforması -> Otel Çamaşırı",
+          "rationale": "Burada departman bazlı bir sıralama sorulmaktadır, çamaşır türü değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rastgele",
+          "rationale": "Verimlilik için belirli bir sıra şarttır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hangi departman günde 3 öğün (kahvaltı, öğle, akşam) için sürekli temiz örtüye ihtiyaç duyar ve aciliyeti yüksektir?"
+    },
+    {
+      "questionNumber": 10,
+      "question": "Oda görevlisi (maid) tarafından 'belge karşılığı' teslim edilen çamaşır grubu hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Otel Çamaşırları (Çarşaf vb.)",
+          "rationale": "Bunlar toplu olarak şutlanır veya arabayla indirilir, tek tek belgeyle teslim edilmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuk Çamaşırları",
+          "rationale": "Müşteriye ait eşyaların karışmaması ve ücretlendirilmesi için mutlaka form/belge ile teslim alınır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Personel Üniformaları",
+          "rationale": "Personel kendi üniformasını genellikle kendisi veya toplu değişimle teslim eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Restoran Örtüleri",
+          "rationale": "Toplu olarak kirli sepetleriyle gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik Bezleri",
+          "rationale": "Bunlar belge gerektirmeyen sarf malzemeleridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hangi çamaşır grubu kaybolursa otel müşteriye tazminat ödemek zorunda kalır ve bu yüzden kayıt altına alınmalıdır?"
+    },
+    {
+      "questionNumber": 11,
+      "question": "Bir çamaşır üzerinde leke varsa, yıkama sürecindeki doğru prosedür nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Leke varsa yıkamadan ÖNCE çıkarılmalıdır.",
+          "rationale": "Yıkama işlemi, özellikle sıcak su, lekeyi pişirip sabitleyebilir veya diğer çamaşırlara bulaştırabilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lekeli çamaşır normal programda yıkanır, çıkmazsa sonra müdahale edilir.",
+          "rationale": "Leke piştikten sonra çıkarmak çok daha zordur veya imkansızdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lekeli kısım kesilip atılır.",
+          "rationale": "Bu ekonomik ve mantıklı bir yöntem değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lekeli çamaşır doğrudan kurutmaya atılır.",
+          "rationale": "Isı lekeyi tamamen sabitler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lekeli çamaşırlar müşteriye iade edilir.",
+          "rationale": "Çamaşırhanenin görevi lekeyi temizlemektir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sıcak suyla temas eden bir kan veya yağ lekesi kumaşa daha çok işler mi, yoksa çıkar mı?"
+    },
+    {
+      "questionNumber": 12,
+      "question": "Çamaşırların 'Numaralandırılması' (Markalama) işleminin temel amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çamaşırların daha güzel görünmesini sağlamak.",
+          "rationale": "Estetik bir amaç taşımaz, tamamen operasyoneldir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıkama süresini kısaltmak.",
+          "rationale": "Numaralama yıkama süresini etkilemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırların birbirine karışmasını önlemek ve takibini yapmak.",
+          "rationale": "Özellikle müşteri çamaşırlarında kime ait olduğunun bilinmesi ve karışıklığın önlenmesi için yapılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çamaşırların rengini korumak.",
+          "rationale": "Numaralamanın renk koruma ile ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ütüleme işlemini kolaylaştırmak.",
+          "rationale": "Ütülemeye fiziksel bir katkısı yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "100 odalı bir otelde 50 farklı müşterinin gömleği aynı anda yıkanırsa, hangisinin kime ait olduğunu nasıl anlarsınız?"
+    },
+    {
+      "questionNumber": 13,
+      "question": "Çamaşırhane hijyen kurallarına göre 'Hasta Çamaşırları' ile ilgili yapılması gereken işlem hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Diğer çamaşırlarla birlikte yıkanarak dezenfekte edilmelidir.",
+          "rationale": "Çapraz bulaşma riski nedeniyle asla diğerleriyle karıştırılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şut (shot) sistemiyle hızla aşağı gönderilmelidir.",
+          "rationale": "Boru sistemini kontamine edebileceği için hasta çamaşırları şutlanmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diğerlerinden ayrı taşınmalı ve asla şut sistemi kullanılmamalıdır.",
+          "rationale": "Enfeksiyon riskini önlemek için ayrı poşetlerde taşınmalı ve temas en aza indirilmelidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Güneşte kurutulmalıdır.",
+          "rationale": "Endüstriyel ortamda bu standart bir prosedür değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece soğuk suyla yıkanmalıdır.",
+          "rationale": "Dezenfeksiyon için genellikle yüksek ısı veya özel kimyasal gerekir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Enfekte olmuş bir materyali, tüm otelin çamaşırlarının geçtiği ortak bir borudan atmak güvenli midir?"
+    },
+    {
+      "questionNumber": 14,
+      "question": "Kumaşları 'Kirlilik Derecesine Göre' ayırmanın sağladığı faydalardan biri aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personelin daha fazla mola vermesini sağlar.",
+          "rationale": "Operasyonel verimlilikle ilgilidir, mola ile değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Enerji, su, deterjan ve zaman tasarrufu sağlar.",
+          "rationale": "Az kirliler için daha kısa ve ekonomik programlar kullanılarak kaynak israfı önlenir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çamaşırların renginin açılmasını sağlar.",
+          "rationale": "Renk değişimi istenen bir durum değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lekelerin kalıcı olmasını sağlar.",
+          "rationale": "Tam tersine lekelerden arındırmak amaçtır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makinelerin daha hızlı bozulmasını önler.",
+          "rationale": "Makine ömrüyle doğrudan değil, operasyon maliyetiyle ilgilidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Az kirli bir masa örtüsünü, çok kirli bir aşçı önlüğü kadar uzun süre ve çok deterjanla yıkamak mantıklı mıdır?"
+    },
+    {
+      "questionNumber": 15,
+      "question": "Par Stock (Devir Stoku) hesaplamasında dikkate alınan 5 aşamadan biri aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Müşterinin bavulundaki kıyafetler.",
+          "rationale": "Müşterinin kişisel eşyası otel stoku değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel bahçesinde kurutulanlar.",
+          "rationale": "Profesyonel süreçte bahçede kurutma aşaması yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat ofisindeki (Maid station) yedekler.",
+          "rationale": "Döngünün sürekliliği için kat ofislerinde bekleyen temiz yedekler stok hesabına dahildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Satın alınması planlanan ürünler.",
+          "rationale": "Henüz envantere girmemiş ürünler mevcut stok hesabına katılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çöpe atılmış ürünler.",
+          "rationale": "Kullanım dışı kalmış ürünler aktif döngüden düşülür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çarşaf döngüsünü düşünün: Yatakta, kirli sepetinde, çamaşırhanede, depoda ve bir de kat görevlisinin elinin altında..."
+    },
+    {
+      "questionNumber": 16,
+      "question": "100 yataklı bir tesiste çamaşırhane büyüklüğü için yatak başına düşen ideal alan ne kadardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "0.10 m²",
+          "rationale": "Bu alan yetersizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "0.35 m²",
+          "rationale": "Sınav rehberine göre 100 yataklı tesisler için standart 0.35 metrekaredir.",
+          "isCorrect": true
+        },
+        {
+          "text": "1.00 m²",
+          "rationale": "Bu çok büyük bir alandır, verimsizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "0.20 m²",
+          "rationale": "Bu oran 500'den fazla yataklı çok büyük tesisler içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "0.50 m²",
+          "rationale": "Standartların üzerindedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Tesis küçüldükçe birim başına düşen alan ihtiyacı artar. Seçeneklerdeki mantıklı oranları değerlendirin."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Otel bünyesinde çamaşırhane kurmanın (OPL - On Premise Laundry) dezavantajlarından biri hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çamaşırların kaybolma riski artar.",
+          "rationale": "Aksine, otel içinde kaldığı için kaybolma riski azalır. Bu dışarıya vermenin dezavantajıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalite kontrolü zorlaşır.",
+          "rationale": "Kendi bünyenizde olduğu için kalite kontrolü daha kolaydır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek sermaye yatırımı, bakım ve eğitim giderleri gerektirir.",
+          "rationale": "Makine parkuru kurmak, personel eğitmek ve teknik bakım ciddi bir ilk yatırım ve işletme maliyeti yaratır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çamaşırların geri dönüşü yavaşlar.",
+          "rationale": "Otel içinde olduğu için geri dönüş hızlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stok takibi imkansızlaşır.",
+          "rationale": "Stok takibi daha kolay yapılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir sistemi satın almak mı daha masraflıdır yoksa kiralamak mı? OPL sistemi otelin 'satın alıp kurduğu' sistemdir."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Dışarıdan çamaşır yıkama hizmeti satın almanın en büyük avantajı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personel maliyetinin artması.",
+          "rationale": "Bu bir avantaj değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece temizlenen parça kadar ödeme yapılması (Kullandığın kadar öde).",
+          "rationale": "Sabit yatırım maliyeti yerine, sadece işlem gören ürün için ödeme yapılır, bu da maliyet esnekliği sağlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çamaşırların otel içinde daha çok yer kaplaması.",
+          "rationale": "Dışarıya verildiği için otelde alan açılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırların daha hızlı yıkanması.",
+          "rationale": "Transfer süresi nedeniyle genellikle daha yavaştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kaliteyi %100 kontrol edebilmek.",
+          "rationale": "Dış firmaya bağlı olduğunuz için kontrol azalır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Otelin boşken bile personel maaşı ödemesi gerekirken, dışarıya iş verdiğinde sadece ne zaman ödeme yapar?"
+    },
+    {
+      "questionNumber": 19,
+      "question": "400 yataklı bir otelde, yatak başına 2 çarşaf kullanılıyorsa ve 5 aşamalı Par Stock (Devir Stoku) sistemi uygulanıyorsa, toplam çarşaf ihtiyacı kaçtır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "800",
+          "rationale": "Bu sadece tek bir setin sayısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "1600",
+          "rationale": "Yetersiz stok.",
+          "isCorrect": false
+        },
+        {
+          "text": "4000",
+          "rationale": "Hesaplama: (400 yatak x 2 çarşaf) = 800 adet bir set. 5 aşama (Par Stock) olduğu için 800 x 5 = 4000 adet.",
+          "isCorrect": true
+        },
+        {
+          "text": "2000",
+          "rationale": "Hesap hatası.",
+          "isCorrect": false
+        },
+        {
+          "text": "3200",
+          "rationale": "Hesap hatası.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Önce bir seferde oteldeki tüm yatakları sermek için kaç çarşaf lazım onu bulun (400x2). Sonra bunu 5'li döngüyle çarpın."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Çamaşırhanenin konumu seçilirken dikkat edilmesi gereken en önemli faktörlerden biri nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Manzaralı olması.",
+          "rationale": "Çamaşırhane operasyonel bir birimdir, manzara gerekmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir odalarına ve sessiz alanlara uzak olması (Gürültü ve titreşim nedeniyle).",
+          "rationale": "Makineler gürültülü ve titreşimli çalıştığı için konuk konforunu bozmayacak bir yerde olmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Resepsiyonun hemen yanında olması.",
+          "rationale": "Görüntü ve gürültü kirliliği yaratır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çatıda olması.",
+          "rationale": "Su tesisatı ve makine ağırlığı nedeniyle genellikle alt katlar veya bodrum tercih edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karanlık olması.",
+          "rationale": "İyi aydınlatma iş güvenliği ve leke kontrolü için şarttır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çamaşır makineleri çalışırken çok ses ve sarsıntı yapar. Bir müşteri odasında uyurken bunu duymak ister mi?"
+    },
+    {
+      "questionNumber": 21,
+      "question": "Ütüleme bölümünde kullanılan 'Silindir Ütü'nün temel kullanım alanı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gömlek yakalarını ütülemek.",
+          "rationale": "Gömlekler için pres veya manken ütü kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Büyük düz parçaları (çarşaf, masa örtüsü) ütülemek.",
+          "rationale": "Silindir ütüler geniş yüzeyli düz tekstilleri hızlıca ütülemek için tasarlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Personel pantolonlarını ütülemek.",
+          "rationale": "Pantolonlar pres ütüde yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Havluları kurutmak.",
+          "rationale": "Havlular ütülenmez, kurutucudan çıktığı gibi katlanır (yumuşak kalması için).",
+          "isCorrect": false
+        },
+        {
+          "text": "Çorapları ütülemek.",
+          "rationale": "Çorap ütülenmez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Silindir şeklindeki bir ütüden en kolay ne geçer? Şekilli bir kıyafet mi, yoksa dümdüz bir çarşaf mı?"
+    },
+    {
+      "questionNumber": 22,
+      "question": "Aşağıdakilerden hangisi çamaşırhanede kullanılan formlardan/raporlardan biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Malzeme Takip Formu",
+          "rationale": "Departman istekleri için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuru Temizleme Formu",
+          "rationale": "Müşteri çamaşırları için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kullanım Dışı Malzeme Takip Formu",
+          "rationale": "Zayi olan malzemeler için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyon C/in Formu",
+          "rationale": "Bu ön büronun giriş işlem formudur, çamaşırhane ile ilgisi yoktur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Makine Takip Formu",
+          "rationale": "Makine kullanımı için kullanılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Seçeneklerden hangisi otel girişinde resepsiyonist tarafından doldurulur?"
+    },
+    {
+      "questionNumber": 23,
+      "question": "Çamaşır çıkış işlemlerinde 'Son kontrol ve sayım'dan sonra gelen adım hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Paketleme/Ambalajlama",
+          "rationale": "Kontrol edilen ve sayılan temiz çamaşırlar, taşınırken kirlenmemesi için paketlenir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yıkama",
+          "rationale": "Yıkama giriş aşamasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ütüleme",
+          "rationale": "Ütüleme kontrol öncesi işlemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kirli ayırma",
+          "rationale": "Bu en baştaki işlemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteriye fatura kesme",
+          "rationale": "Bu işlem ön büroda yapılır, fiziksel çıkış adımı paketlemedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Temiz ve ütülü bir gömleği odaya götürmeden önce tozlanmaması için ne yaparsınız?"
+    },
+    {
+      "questionNumber": 24,
+      "question": "Hangi personel 'Mefruşatların (perde vb.) hangi salona ait olduğunun bilinmesini sağlar'?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yıkayıcı",
+          "rationale": "Yıkayıcı yıkama ile ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Markalayıcı",
+          "rationale": "Markalama/numaralama işlemi eşyaların kime veya hangi yere ait olduğunu belirlemek için yapılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ütücü",
+          "rationale": "Ütücü düzeltme yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuru Temizlemeci",
+          "rationale": "Leke ve özel temizlik yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şoför",
+          "rationale": "Alakasız seçenek.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir eşyanın üzerine isim veya kod yazan kişi kimdir?"
+    },
+    {
+      "questionNumber": 25,
+      "question": "Çamaşırhane zemin özelliklerinde aranması gereken en önemli nitelik nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Halı kaplı olması",
+          "rationale": "Halı su tutar ve hijyenik değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahşap parke olması",
+          "rationale": "Suya dayanıksızdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çabuk kuruyan, kir tutmayan ve kaygan olmayan özellikte olması",
+          "rationale": "Islak çalışma ortamı olduğu için güvenlik (kaymazlık) ve hijyen (kolay temizlenme) esastır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çok parlak olması",
+          "rationale": "Göz yorar ve kaygan olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Siyah renkli olması",
+          "rationale": "Kiri gösterip göstermemesi değil hijyen önemlidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sürekli suyla çalışılan bir yerde yere basarken düşmemek için zemin nasıl olmalıdır?"
+    },
+    {
+      "questionNumber": 26,
+      "question": "Aşağıdakilerden hangisi 'Çamaşırhane Donanımları' grubunda yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rotatif Yıkayıcı",
+          "rationale": "Yıkama makinesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Santrifüjlü Kurutucu",
+          "rationale": "Sıkma/kurutma makinesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bulaşık Makinesi",
+          "rationale": "Bulaşık makinesi mutfak departmanına aittir, çamaşırhanede bulunmaz.",
+          "isCorrect": true
+        },
+        {
+          "text": "Manken Ütü",
+          "rationale": "Ceket ve gömlek ütülemede kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dikiş Makinesi",
+          "rationale": "Tamir bölümünde bulunur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Seçeneklerden hangisi tabak ve bardak yıkamak içindir?"
+    },
+    {
+      "questionNumber": 27,
+      "question": "Par Stock hesaplamasında 'Makinelerin kapasitesi ve verimliliği' neden bir faktördür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Makine rengi stoku belirler.",
+          "rationale": "Alakasızdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makineler yavaş çalışırsa döngü yavaşlar, daha fazla stoğa ihtiyaç duyulur.",
+          "rationale": "Eğer makineler hızlı çeviremiyorsa, temiz çamaşırın rafa gelmesi gecikir, bu açığı kapatmak için daha fazla yedek stok gerekir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Makineler çok elektrik harcar.",
+          "rationale": "Maliyetle ilgilidir, stok adediyle değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makineler sadece pamuklu yıkar.",
+          "rationale": "Yanlış bilgi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makine sayısı personel sayısını belirler.",
+          "rationale": "Doğrudur ama stok hesabıyla doğrudan ilgili değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kirli çamaşır makineden 1 saatte mi çıkıyor, 5 saatte mi? Geç çıkarsa misafire vermek için elinizde fazladan yedek olmalı mı?"
+    },
+    {
+      "questionNumber": 28,
+      "question": "Oda görevlilerinin (maid) lekeli çamaşırları 'düğüm atarak' işaretlemesi kime ve neye yardımcı olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Resepsiyona faturayı kesmesi için.",
+          "rationale": "Leke faturayı doğrudan etkilemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırhaneye, lekeyi fark edip yıkama öncesi müdahale etmesi için.",
+          "rationale": "Binlerce çamaşır arasında lekeli olanı gözden kaçırmamak için yapılan pratik bir iletişim yöntemidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Müşteriye çamaşırını tanıması için.",
+          "rationale": "Düğüm müşteri için değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ütücüye daha hızlı ütülemesi için.",
+          "rationale": "Leke ütüyle ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satın almaya yeni ürün alması için.",
+          "rationale": "Leke çıkabilir, ürün hemen atılmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir çarşafta küçük bir leke varsa ve katlıysa çamaşırhaneci bunu göremeyebilir. Düğüm ne işe yarar?"
+    },
+    {
+      "questionNumber": 29,
+      "question": "Çamaşırhane Şefinin görevlerinden biri olan 'Stok kayıtlarını tutmak' neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personelin maaşını hesaplamak için.",
+          "rationale": "Maaş muhasebenin işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kayıp, çalıntı veya eskime durumlarını takip edip, otelin tekstil ihtiyacını belirlemek için.",
+          "rationale": "Otelin tekstil envanteri büyük bir sermayedir, eksilmelerin takibi ve yeni sipariş zamanlaması için kayıt şarttır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Müşterilere hava atmak için.",
+          "rationale": "Mantıksız seçenek.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makinelerin garantisini uzatmak için.",
+          "rationale": "İlgisizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha az deterjan kullanmak için.",
+          "rationale": "Stok kaydı tekstil üzerinedir, kimyasalla doğrudan ilgili değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Depodaki çarşaflar bitiyor mu? Kaç tanesi yırtıldı? Bunu bilmezsek ne olur?"
+    },
+    {
+      "questionNumber": 30,
+      "question": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Temiz Çamaşır Bölümü -> Raflama ve depolama",
+          "rationale": "Doğru.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kirli Çamaşır Bölümü -> Tasnif ve sayım",
+          "rationale": "Doğru.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dikiş-Tamir Bölümü -> Yıkama işlemi",
+          "rationale": "Yanlış. Dikiş bölümünde onarım yapılır, yıkama yapılmaz. Yıkama ayrı bir bölümdür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ütüleme Bölümü -> Silindir ve pres ütü kullanımı",
+          "rationale": "Doğru.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıkama Bölümü -> Kir ve lekelerden arındırma",
+          "rationale": "Doğru.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Terzinin olduğu odada çamaşır makinesi çalışır mı?"
+    },
+    {
+      "questionNumber": 31,
+      "question": "Çamaşırhanenin fiziksel planlamasında tavanın yüksek olmasının temel nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Daha fazla raf koyabilmek için.",
+          "rationale": "Raf yüksekliği personelin erişimiyle sınırlıdır, ana neden bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sıcak hava ve buharın birikmesini önleyerek ferah bir ortam sağlamak.",
+          "rationale": "Yüksek tavan, ısınan havanın yukarı çıkmasını sağlar ve havalandırma verimini artırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Daha şık görünmesi için.",
+          "rationale": "Estetik bir kaygı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ses yalıtımı sağlamak.",
+          "rationale": "Yükseklik sesi doğrudan kesmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aydınlatma maliyetini düşürmek.",
+          "rationale": "Yüksek tavan aydınlatmayı zorlaştırabilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sıcak hava fizik kurallarına göre nereye hareket eder?"
+    },
+    {
+      "questionNumber": 32,
+      "question": "Çamaşırhane personelinin işe başlamadan önceki hazırlığı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Üniformalar temiz ve ütülü olmalıdır.",
+          "rationale": "Bu doğru bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Araç ve gereçler önceden hazırlanmalıdır.",
+          "rationale": "İş akışının hızı için gereklidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şef Yardımcısı kılık kıyafet kontrolü yapar.",
+          "rationale": "Bu görev Şef Yardımcısına aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel istediği sivil kıyafetle çalışabilir.",
+          "rationale": "Hijyen ve disiplin gereği mutlaka üniforma giyilmelidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vardiya saatine uyulmalıdır.",
+          "rationale": "Temel çalışma kuralıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir otel çalışanının kot pantolon ve tişörtle çamaşırhanede çalışması kurallara uygun mudur?"
+    },
+    {
+      "questionNumber": 33,
+      "question": "150-1000 yatak kapasiteli büyük otellerde kullanılan numaralandırma (markalama) yöntemi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Manuel (Kalemle) yöntem.",
+          "rationale": "Bu yöntem küçük otellerde kullanılır, büyüklerde verimsizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makine ile etiketleme yöntemi.",
+          "rationale": "Hız ve standart sağlaması nedeniyle büyük kapasiteli otellerde tercih edilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zımba ile işaretleme.",
+          "rationale": "Kumaşa zarar verir ve pas yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Boyama yöntemi.",
+          "rationale": "Kalıcı leke bırakır ve profesyonel değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiçbir işaretleme yapılmaz.",
+          "rationale": "Karışıklık kaçınılmaz olur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Binlerce parça çamaşırın olduğu bir yerde elle yazmak mı daha hızlıdır, yoksa barkod benzeri bir makine etiketi mi?"
+    },
+    {
+      "questionNumber": 34,
+      "question": "Tasnif (ayırma) işleminin 'Büyüklüklerine Göre' yapılmasının en önemli nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Makinenin daha az su harcaması.",
+          "rationale": "Su harcaması ağırlıkla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Küçük çamaşırların büyüklerin arasında kaybolmasını veya yıpranmasını önlemek.",
+          "rationale": "Örneğin, bir yastık kılıfı nevresimin içine girip temizlenmeyebilir veya kaybolabilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Daha hızlı kuruması.",
+          "rationale": "Kuruma süresi kumaş cinsiyle daha ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Renklerin karışmaması.",
+          "rationale": "Bu renk ayrımının konusudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin sayım yapmasını kolaylaştırmak.",
+          "rationale": "Bu ikincil bir faydadır, ana neden yıkama güvenliğidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Büyük bir nevresim makinede dönerken içine küçük bir çorabı hapsederse o çorap temizlenir mi?"
+    },
+    {
+      "questionNumber": 35,
+      "question": "Çamaşırhanede 'Temiz Çamaşır Bölümü'nde bulunan dolap kapıları neden kapalı tutulmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Görüntü kirliliğini önlemek için.",
+          "rationale": "Estetik değil hijyenik bir zorunluluktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin çamaşır çalmasını önlemek için.",
+          "rationale": "Güvenlik için kilitli kapı kullanılır, kapalı tutmak ise toz içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İçeriye toz girmesini önlemek ve hijyeni korumak için.",
+          "rationale": "Yıkanmış temiz çamaşırların tekrar kirlenmemesi esastır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İçerideki nemi korumak için.",
+          "rationale": "Nem küflenmeye yol açar, istenmeyen bir durumdur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dolap kapaklarının bozulmaması için.",
+          "rationale": "Alakasızdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yeni yıkanmış bembeyaz bir çarşafın üzerine havada uçuşan tozların yapışmasını ister misiniz?"
+    },
+    {
+      "questionNumber": 36,
+      "question": "Aşağıdakilerden hangisi çamaşırhanenin 'Mutfak' departmanı için yıkadığı ürünlerden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bornoz",
+          "rationale": "Bornoz odalarda (housekeeping) kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Skört (Masa eteği)",
+          "rationale": "Restoran (servis) departmanına aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aşçı önlüğü",
+          "rationale": "Mutfak personelinin kullandığı temel tekstil ürünüdür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yastık kılıfı",
+          "rationale": "Odalarda kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masa örtüsü",
+          "rationale": "Restoran (servis) departmanına aittir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yemek pişiren personelin kıyafetini düşünün."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Par Stock hesaplamasında 'Haftalık çalışma saati' neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personel maaşlarını belirler.",
+          "rationale": "Stokla doğrudan ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırhanenin ne kadar süre aktif olduğunu ve üretim kapasitesini gösterir.",
+          "rationale": "Eğer çamaşırhane günde 8 saat çalışıyorsa, 24 saat çalışan bir otele göre daha fazla yedek stoka ihtiyaç duyar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Elektrik faturasını hesaplamak için.",
+          "rationale": "Maliyet hesabıdır, stok adedi hesabı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteri memnuniyetini artırır.",
+          "rationale": "Dolaylı etkisi vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hangi deterjanın kullanılacağını belirler.",
+          "rationale": "Çalışma saati kimyasal türünü belirlemez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çamaşırhane hafta sonu kapalıysa, otel misafirleri için hafta sonu yetecek kadar fazladan çarşafınız olması gerekmez mi?"
+    },
+    {
+      "questionNumber": 38,
+      "question": "Çamaşırhanede kullanılan 'Malzeme Giriş Formu (Çamaşır Fişi)' üzerinde aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sıra numarası",
+          "rationale": "Takip için şarttır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarih",
+          "rationale": "Kayıt tutmak için şarttır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teslim eden ve alanın imzası",
+          "rationale": "Sorumluluk belirlemek için şarttır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otelin genel müdürünün adı",
+          "rationale": "Operasyonel bir formda genel müdürün ismine gerek yoktur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çamaşırın cinsi ve adedi",
+          "rationale": "Formun ana içeriğidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Günlük binlerce çarşafın giriş çıkış yaptığı formları genel müdür tek tek kontrol eder mi?"
+    },
+    {
+      "questionNumber": 39,
+      "question": "250 yataklı bir tesis için, 100 yataklı tesise göre birim (yatak başı) metrekare ihtiyacı nasıldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Daha fazladır.",
+          "rationale": "Ölçek ekonomisi gereği tesis büyüdükçe birim alan azalır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha azdır.",
+          "rationale": "100 yataklıda 0.35 m² iken, 250 yataklıda 0.30 m²'dir. Kapasite arttıkça verimlilik artar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aynıdır.",
+          "rationale": "Değişkendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İki katıdır.",
+          "rationale": "Yanlış hesap.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hesaplanamaz.",
+          "rationale": "Standart verilerle hesaplanır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Büyük fabrikalar küçük atölyelere göre birim başına daha verimli alan kullanır mı?"
+    },
+    {
+      "questionNumber": 40,
+      "question": "Aşağıdakilerden hangisi 'Servis Departmanı'na (F&B) ait bir tekstil ürünüdür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Pike",
+          "rationale": "Yatak örtüsüdür, housekeeping ürünüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Molton (Masa koruyucu)",
+          "rationale": "Masa örtüsünün altına serilen sessizlik ve koruma sağlayan tekstildir, restorana aittir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Banyo havlusu",
+          "rationale": "Housekeeping ürünüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aşçı ceketi",
+          "rationale": "Mutfak ürünüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yastık",
+          "rationale": "Housekeeping ürünüdür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Restoranda masanın üzerine örtüden önce serilen kalın kumaşı düşünün."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Çamaşırhane personelinden 'Ütücü'nün sahip olması gereken en önemli teknik bilgi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dikiş dikebilmek.",
+          "rationale": "Terzinin görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kumaşları tanımak ve hangi ısıda ütüleneceğini bilmek.",
+          "rationale": "Yanlış ısı kumaşı yakar veya parlatır, bu nedenle kumaş bilgisi kritiktir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kimyasalları karıştırmak.",
+          "rationale": "Yıkayıcının görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fatura kesmek.",
+          "rationale": "Ön büronun işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemek yapmak.",
+          "rationale": "Alakasızdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İpek bir gömleği, pamuklu ayarında ütülerseniz ne olur?"
+    },
+    {
+      "questionNumber": 42,
+      "question": "Çamaşırhane güvenliği açısından elektrik ve su tesisatı nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Açıkta ve kolay ulaşılabilir olmalı.",
+          "rationale": "Su ve elektrik teması risklidir, açıkta olmamalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İyi izole edilmeli ve çalışma alanına uzak olmalı.",
+          "rationale": "Islak zeminlerde elektrik çarpması riskini önlemek için izolasyon şarttır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zeminin altından geçmeli.",
+          "rationale": "Arıza durumunda müdahaleyi zorlaştırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece soğuk su tesisatı olmalı.",
+          "rationale": "Sıcak su yıkama için şarttır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Plastik borular kullanılmamalı.",
+          "rationale": "Malzeme cinsi teknik detaydır, güvenlik kuralı izolasyondur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Su ve elektriğin yan yana gelmesi ölümcül olabilir. Nasıl korunuruz?"
+    },
+    {
+      "questionNumber": 43,
+      "question": "Çamaşırhanedeki 'Kirli Çamaşır Bölümü'nün ideal konumu neresidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çamaşırhanenin en sonunda.",
+          "rationale": "İş akışına terstir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Giriş bölümünde.",
+          "rationale": "Kirliler dışarıdan gelir, girişte karşılanıp ayrıştırılması iş akışının başlangıcıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ütü bölümünün yanında.",
+          "rationale": "Temiz ve kirli karışır, hijyene aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şefin odasının içinde.",
+          "rationale": "Hijyenik ve uygun değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Deponun arkasında.",
+          "rationale": "Erişimi zordur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir fabrikaya hammadde (kirli çamaşır) nereden girer?"
+    },
+    {
+      "questionNumber": 44,
+      "question": "Hasta çamaşırlarının taşınması sırasında yapılması gereken en önemli hata nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ayrı poşetlere koymak.",
+          "rationale": "Bu doğru bir uygulamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eldiven kullanmak.",
+          "rationale": "Doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırları çeneye ve koltuk altına sıkıştırarak taşımak.",
+          "rationale": "Bu hareket personelin yüzüne ve kıyafetine mikrop bulaştırır, kesinlikle yasaktır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kırmızı torba kullanmak.",
+          "rationale": "Genelde tıbbi atık/kirli için doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıkamadan önce bekletmemek.",
+          "rationale": "Doğrudur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kirli bir şeyi vücudunuza yaslayarak taşır mısınız?"
+    },
+    {
+      "questionNumber": 45,
+      "question": "Çamaşırhanenin 'Sıcak ve Soğuk Su' ihtiyacı ile ilgili kural nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece soğuk su yeterlidir.",
+          "rationale": "Hijyen ve leke çıkarma için sıcak su şarttır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su kesintilerinde taşıma su kullanılır.",
+          "rationale": "Endüstriyel makinede bu mümkün değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sıcak ve soğuk su devamlı akmalı.",
+          "rationale": "Operasyonun durmaması için kesintisiz su kaynağı şarttır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece yağmur suyu kullanılır.",
+          "rationale": "Hijyenik değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su basıncı düşük olmalı.",
+          "rationale": "Makineler yüksek basınç ister.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çamaşır makinesi çalışırken su kesilirse ne olur?"
+    },
+    {
+      "questionNumber": 46,
+      "question": "Çamaşırhaneye giriş yapan konuk çamaşırlarının listesi ile gelen ürünler uyuşmazsa ilk olarak ne yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eksik olan ürün varmış gibi kaydedilir.",
+          "rationale": "Sahtecilik olur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Farklılık derhal ilgili departmana veya misafire bildirilir.",
+          "rationale": "Sorumluluk almamak ve hatayı düzeltmek için anında geri bildirim şarttır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fazla ürün çöpe atılır.",
+          "rationale": "Etik değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eksik ürün personelin maaşından kesilir.",
+          "rationale": "Durum tespit edilmeden ceza verilmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıkama iptal edilir.",
+          "rationale": "Tüm işlemi durdurmak yerine iletişim kurulur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafir '3 gömlek verdim' diyor ama poşetten 2 gömlek çıktı. Ne yaparsınız?"
+    },
+    {
+      "questionNumber": 47,
+      "question": "Aşağıdakilerden hangisi 'Kullanım Dışı Malzeme Takip Formu'nun düzenlenme nedenidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yeni alınan malzemeleri kaydetmek.",
+          "rationale": "Bu giriş formunun işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zayi olan (yırtılan, kaybolan, lekesi çıkmayan) malzemeleri stoktan düşmek.",
+          "rationale": "Envanterin güncel kalması için kullanılamaz hale gelen ürünler bu formla kayıtlardan silinir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Müşteriye fatura kesmek.",
+          "rationale": "Farklı bir işlemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makine arızalarını not etmek.",
+          "rationale": "Makine bakım formunun işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel izinlerini takip etmek.",
+          "rationale": "İK departmanının işidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir havlu yırtıldı ve bez yapıldı. Artık 'havlu' olarak sayılmaması için hangi forma işlenir?"
+    },
+    {
+      "questionNumber": 48,
+      "question": "Çamaşırhanedeki 'Temiz Çamaşır Bölümü'nün konumu, verimlilik açısından nereye en yakın olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Otel girişine.",
+          "rationale": "Lojistik olarak uzaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıkama bölümüne en yakın yerde.",
+          "rationale": "Rehberde belirtildiği üzere temizlenen çamaşırın hemen istiflenmesi için yıkama/ütüleme çıkışına yakın olmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mutfak deposuna.",
+          "rationale": "Alakasızdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel soyunma odasına.",
+          "rationale": "İş akışıyla ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kazan dairesine.",
+          "rationale": "Kirli ve tehlikelidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yıkanan ve ütülenen çamaşırı kilometrelerce taşımak mı, yoksa hemen yanındaki rafa koymak mı daha mantıklıdır?"
+    },
+    {
+      "questionNumber": 49,
+      "question": "Çamaşırhanede 'Markalayıcı' personelin yaptığı işin operasyonel sonucu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çamaşırların daha beyaz olması.",
+          "rationale": "Yıkama kalitesiyle ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zaman kaybının ve karışıklığın önlenmesi.",
+          "rationale": "Hangi parçanın kime/nereye ait olduğu belli olduğunda dağıtım hatasız ve hızlı olur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maliyetlerin artması.",
+          "rationale": "Aksine kayıpları önleyerek maliyeti düşürür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makinelerin daha az çalışması.",
+          "rationale": "Etkilemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ütü kalitesinin artması.",
+          "rationale": "İlgisizdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir gömleğin kime ait olduğunu bulmak için 10 dakika harcamak mı, yoksa üzerindeki numaraya bakıp 10 saniyede bulmak mı?"
+    },
+    {
+      "questionNumber": 50,
+      "question": "Çamaşırhane hizmetlerinin 'İşletme Politikaları' kapsamında 'Tam Kiralama' modeli ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çamaşır makinelerinin kiralanması.",
+          "rationale": "Bu leasing modelidir, tam kiralama değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm çamaşırların (tekstil ürünlerinin) bir şirketten kiralanması, otelin satın alma yapmaması.",
+          "rationale": "Bu modelde otel çarşafın sahibi değildir, kiralar ve temizlik hizmeti de fiyata dahildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece personel üniformalarının kiralanması.",
+          "rationale": "Kısmi kiralamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırhane alanının başka bir şirkete kiraya verilmesi.",
+          "rationale": "Bu alan kiralama işlemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşterilere kıyafet kiralanması.",
+          "rationale": "Otelcilikte nadir bir hizmettir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Araba kiralamak gibidir; arabayı satın almazsınız, sadece kullandığınız gün için para ödersiniz."
+    },
+    {
+      "questionNumber": 51,
+      "question": "Çamaşırhane giderlerinde 'OPL' (Otel Bünyesinde Yıkama) sisteminin en büyük dezavantajı olan gider kalemi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kağıt kalem masrafı.",
+          "rationale": "Çok düşüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gaz, elektrik, su ve işgücü maliyetleri.",
+          "rationale": "OPL sisteminde tüm enerji ve personel giderlerini otel karşılar, bu ciddi bir yük olabilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Poşet maliyeti.",
+          "rationale": "Düşüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Taşıma maliyeti.",
+          "rationale": "Dışarıya vermeye göre daha düşüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Telefon faturası.",
+          "rationale": "İlgisizdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çamaşır makinesi evde bile faturayı şişirir. Endüstriyel boyutta elektriği ve suyu düşünün."
+    },
+    {
+      "questionNumber": 52,
+      "question": "Çamaşırhanedeki 'Ütüleme Bölümü'nde bulunan ve ceket, pantolon gibi formlu kıyafetler için kullanılan araca ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Silindir Ütü",
+          "rationale": "Düz parçalar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pres Ütü",
+          "rationale": "Genelde pantolon çizgisi ve düzleştirme için kullanılır, ceket formunu vermez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manken Ütü (Form Ütü)",
+          "rationale": "Kıyafetin içine hava/buhar üfleyerek şişiren ve formunu veren ütüdür.",
+          "isCorrect": true
+        },
+        {
+          "text": "El Ütüsü",
+          "rationale": "Detaylar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kurutma Makinesi",
+          "rationale": "Ütü değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Vitrin mankenine benzeyen ve üzerine ceket giydirilen aleti düşünün."
+    },
+    {
+      "questionNumber": 53,
+      "question": "Çamaşırhane personelinden 'Kuru Temizleme Elemanı'nın temel sorumluluğu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çarşafları yıkamak.",
+          "rationale": "Yıkayıcının işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuk çamaşırları ve hassas üniformaların (suyla yıkanamayan) temizliği.",
+          "rationale": "Yün, ipek gibi suyun zarar vereceği kumaşları kimyasal çözücülerle temizler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yeri süpürmek.",
+          "rationale": "Meydancının işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Havlu katlamak.",
+          "rationale": "Katlayıcının işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemek dağıtmak.",
+          "rationale": "Alakasızdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Takım elbise suya girerse bozulur. Onu kim temizler?"
+    },
+    {
+      "questionNumber": 54,
+      "question": "Çamaşırhane 'Temiz Çamaşır Bölümü'nde bulunan 'Banko Sistemi'nin (ikili kapı) amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hava akımını artırmak.",
+          "rationale": "Değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kayıpları önlemek için sadece görevlinin girmesine izin vermek.",
+          "rationale": "Depoya herkesin girmesini engelleyerek stok güvenliğini sağlar. Çamaşır bankodan teslim edilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Müşterilerin içeri girmesini sağlamak.",
+          "rationale": "Müşteri operasyon alanına girmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yangın çıkışını kapatmak.",
+          "rationale": "Tehlikelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ses yalıtımı yapmak.",
+          "rationale": "Ana amaç güvenliktir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Eczanelerdeki nöbetçi penceresi gibi düşünün; siz içeri girmezsiniz, ürün size verilir."
+    },
+    {
+      "questionNumber": 55,
+      "question": "Çamaşırhanedeki 'Dikiş-Tamir' bölümünde yapılan en önemli hata ne olabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İpliği kumaşa uygun renkte seçmek.",
+          "rationale": "Bu doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yırtık çamaşırı tamir etmeden yıkamaya atmak.",
+          "rationale": "Yıkama sırasında mekanik hareketle yırtık daha da büyür ve ürün çöp olur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dikiş makinesini yağlamak.",
+          "rationale": "Bakımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ütülenmiş çamaşırı katlamak.",
+          "rationale": "Doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesai saatine uymak.",
+          "rationale": "Doğrudur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sökük bir kazağı çamaşır makinesine atarsanız çıktığında sökük aynı mı kalır, büyür mü?"
+    },
+    {
+      "questionNumber": 56,
+      "question": "Çamaşırhanedeki 'Malzeme Takip Formu' kim tarafından doldurulur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece Genel Müdür.",
+          "rationale": "Operasyonel değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temiz çamaşır ihtiyacı olan departmanlar.",
+          "rationale": "Hangi departman (Kat, Servis, Mutfak) temiz ürün istiyorsa bu formu doldurup talep eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Müşteriler.",
+          "rationale": "Müşteriler form doldurmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tedarikçi firmalar.",
+          "rationale": "Fatura keserler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenlik görevlisi.",
+          "rationale": "Alakasızdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kat hizmetleri temiz çarşaf isterken bunu sözlü mü söyler, yazılı mı talep eder?"
+    },
+    {
+      "questionNumber": 57,
+      "question": "Çamaşırhanedeki 'Kirli ve Temiz Çamaşırların Asla Bir Arada Tutulmaması' kuralının temel sebebi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yer darlığı.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hijyen (Çapraz bulaşmayı önlemek).",
+          "rationale": "Temizlenen ürüne tekrar mikrop veya kir bulaşmaması için akış tek yönlüdür ve alanlar ayrıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Estetik görünüm.",
+          "rationale": "İkincildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel sohbet etmesin diye.",
+          "rationale": "Alakasızdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elektrik tasarrufu.",
+          "rationale": "İlgisizdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Temiz bir tabakla kirli bir tabağı üst üste koyar mısınız?"
+    },
+    {
+      "questionNumber": 58,
+      "question": "Par Stock hesaplamasında 'Yerine serilenler (O an kullanımda olanlar)' kalemi neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çöpe atılanları.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oteldeki tüm yatakların üzerinde serili duran temiz çarşaf sayısını.",
+          "rationale": "Otel tam dolu olmasa bile yataklar yapılı durmak zorundadır, bu da stoktan bir setin sürekli kullanımda olması demektir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yıkamadaki çarşafları.",
+          "rationale": "Ayrı bir kalemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Depodaki yedekleri.",
+          "rationale": "Ayrı bir kalemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Terzideki ürünleri.",
+          "rationale": "Ayrı bir kalemdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafir odaya girdiğinde yatağın üzerinde gördüğü çarşaf hangi stok kalemidir?"
+    },
+    {
+      "questionNumber": 59,
+      "question": "Çamaşırhane personelinden 'Şef' ile 'Şef Yardımcısı' arasındaki temel yetki farkı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Şef ütü yapar, yardımcı izler.",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şef tüm işleyişten ve bütçeden sorumluyken, yardımcı operasyonel denetim ve personel kıyafetinden sorumludur.",
+          "rationale": "Şef stratejik ve tam yetkili, yardımcı ise sahadaki uygulayıcı ve denetleyicidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yetkileri tamamen eşittir.",
+          "rationale": "Hiyerarşi vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şef sadece gece çalışır.",
+          "rationale": "Genelde gündüz çalışır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yardımcı personel alımına tek başına karar verir.",
+          "rationale": "Şefin onayı gerekir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir geminin kaptanı ve ikinci kaptanı gibi düşünün. Son sözü kim söyler?"
+    },
+    {
+      "questionNumber": 60,
+      "question": "Çamaşırhane 'Yıkama Bölümü'nde bulunan ve içine girilerek çalışılan büyük tünel tipi makinelere ne ad verilir? (Metinde geçmeyen genel kültür bilgisi ancak 'Rotatif' ile karışabilir, metne sadık kalınırsa 'Endüstriyel Otomatik' kapsamında değerlendirilir)",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ev tipi makine.",
+          "rationale": "Küçüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rotatif Yıkayıcı / Tünel Yıkama.",
+          "rationale": "Büyük otellerde kullanılan, bir uçtan kirli girip diğer uçtan temiz çıkan devasa sistemlerdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kurutma makinesi.",
+          "rationale": "Yıkayıcı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manken ütü.",
+          "rationale": "Ütüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dikiş makinesi.",
+          "rationale": "Tamirdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir tünel düşünün, çamaşırlar içinden geçerken yıkanıyor."
+    },
+    {
+      "questionNumber": 61,
+      "question": "Çamaşırhane güvenliği açısından 'Kimyasalların Depolanması' ile ilgili temel kural nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Güneş altında saklanmalıdır.",
+          "rationale": "Kimyasallar bozulabilir veya tepkimeye girebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Serin, kuru ve iyi havalandırılan bir yerde, gıdalardan uzak saklanmalıdır.",
+          "rationale": "Kimyasal buharların birikmemesi ve gıda kontaminasyonu olmaması için bu şarttır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mutfağın içinde saklanmalıdır.",
+          "rationale": "Kesinlikle yasaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ağzı açık kaplarda tutulmalıdır.",
+          "rationale": "Dökülme ve buharlaşma riski vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel dolaplarında saklanmalıdır.",
+          "rationale": "Kişisel eşyalarla karışmamalıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çamaşır suyu şişesini fırının yanına veya yemeğin yanına koyar mısınız?"
+    },
+    {
+      "questionNumber": 62,
+      "question": "Çamaşırları 'Renklerine Göre' ayırmanın (Tasnif) en kritik teknik sebebi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Makinenin daha sessiz çalışması.",
+          "rationale": "İlgisizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ağartıcıların (çamaşır suyu vb.) renkli çamaşırları bozmasını ve renklerin birbirine karışmasını önlemek.",
+          "rationale": "Beyazlar için kullanılan güçlü kimyasallar renklileri bozar, ayrıca koyu renkler açık renklileri boyayabilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Daha hızlı kuruması.",
+          "rationale": "Renk kurumayı etkilemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ütüleme kolaylığı.",
+          "rationale": "İlgisizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha az su harcaması.",
+          "rationale": "İlgisizdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kırmızı bir çorapla beyaz gömlekleri birlikte yıkarsanız ne olur?"
+    },
+    {
+      "questionNumber": 63,
+      "question": "Par Stock hesaplamasında 200 yataklı bir otel için, yatak başına 2 çarşaf ve 5 aşamalı döngüde toplam stok ne olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "400",
+          "rationale": "Sadece bir setin sayısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "1000",
+          "rationale": "Yetersizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "2000",
+          "rationale": "Hesap: (200 yatak x 2 çarşaf) = 400 adet. 400 x 5 döngü = 2000 adet.",
+          "isCorrect": true
+        },
+        {
+          "text": "5000",
+          "rationale": "Çok fazladır.",
+          "isCorrect": false
+        },
+        {
+          "text": "200",
+          "rationale": "Yatak sayısıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yatak x Çarşaf x 5 formülünü kullanın."
+    },
+    {
+      "questionNumber": 64,
+      "question": "500'den fazla yatağı olan çok büyük otellerde, çamaşırhane alanı hesaplanırken yatak başına düşen m² katsayısı kaçtır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "0.35 m²",
+          "rationale": "100 yataklı otel içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "0.30 m²",
+          "rationale": "250 yataklı otel içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "0.20 m²",
+          "rationale": "Rehbere göre 500+ yataklı en büyük tesisler için en düşük katsayıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "1.00 m²",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "0.50 m²",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Otel büyüdükçe birim alan azalır. En küçük sayıyı bulun."
+    },
+    {
+      "questionNumber": 65,
+      "question": "'Kuru Temizleme' işlemi neden su yerine kimyasal çözücülerle yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Su çok pahalı olduğu için.",
+          "rationale": "Kimyasallar sudan daha pahalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hassas kumaşların (yün, ipek) suyla temas edince çekmesi, deforme olması veya dokusunun bozulması riski olduğu için.",
+          "rationale": "Suyun mekanik ve kimyasal etkisi bazı doğal lifleri bozar, bu yüzden susuz temizlik (kuru temizleme) yapılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Daha hızlı olduğu için.",
+          "rationale": "Süreç benzerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha güzel koktuğu için.",
+          "rationale": "Kimyasal kokusu daha ağırdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lekeleri çıkarmadığı için.",
+          "rationale": "Tam tersine yağ bazlı lekeleri iyi çıkarır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yünlü kazağınızı sıcak suda yıkarsanız küçülür mü?"
+    },
+    {
+      "questionNumber": 66,
+      "question": "Çamaşırhane personel organizasyonunda 'Büyük Oteller'de bulunup küçük otellerde bulunmayan ara yönetici kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Genel Müdür",
+          "rationale": "Her otelde vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırhane Şefi",
+          "rationale": "Büyük otellerde departmanlaşma olduğu için Şef ve Şef Yardımcısı gibi kadrolar bulunur, küçüklerde Housekeeper yönetir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bellboy",
+          "rationale": "Ön bürodur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aşçı",
+          "rationale": "Mutfaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyonist",
+          "rationale": "Ön bürodur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Küçük yerde patrona doğrudan bağlısınızdır, büyük yerde arada müdürler olur."
+    },
+    {
+      "questionNumber": 67,
+      "question": "Çamaşırhane iş akışında 'Yıkama-Kurutma Bölümü'nün konumu, hangi iki bölümün arasında olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kirli Çamaşır ve Ütüleme bölümleri arasında.",
+          "rationale": "İş akışı: Kirli Giriş -> Yıkama -> Ütüleme -> Temiz Depo şeklindedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ofis ve Depo arasında.",
+          "rationale": "Operasyonel akış değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak ve Restoran arasında.",
+          "rationale": "Farklı departmanlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel girişi ve Bahçe arasında.",
+          "rationale": "İlgisizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Terzi ve Kuru Temizleme arasında.",
+          "rationale": "Yanlış sıralamadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kirliyi aldınız, yıkadınız, sonra ne yaparsınız? (Ütülersiniz)."
+    },
+    {
+      "questionNumber": 68,
+      "question": "'Shotlama' (Şutlama) sisteminde atılmaması gereken, sisteme zarar verebilecek nesneler nelerdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece pamuklular.",
+          "rationale": "Atılabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ağır, sivri, cam veya yanıcı maddeler.",
+          "rationale": "Bu maddeler boru sistemini tıkayabilir, delebilir veya yangın çıkarabilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yastık kılıfları.",
+          "rationale": "Atılabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kirli havlular.",
+          "rationale": "Atılabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çarşaflar.",
+          "rationale": "Atılabilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir borudan aşağıya cam şişe veya ağır bir demir parçası atarsanız ne olur?"
+    },
+    {
+      "questionNumber": 69,
+      "question": "Çamaşırhane formlarından 'Makine Takip Formu'nun tutulmasının teknik amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Makinenin ne kadar elektrik yaktığını anlık görmek.",
+          "rationale": "Sayaçtan bakılır, formun ana amacı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makinenin hangi programda kaç kez çalıştığını izleyerek bakım zamanını belirlemek ve arıza geçmişini tutmak.",
+          "rationale": "Periyodik bakım (örn: 1000 yıkamada bir) ve performans takibi için bu kayıtlar şarttır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Personelin kaç saat çalıştığını bulmak.",
+          "rationale": "Puantajın işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hangi deterjanın daha iyi koktuğunu anlamak.",
+          "rationale": "İlgisizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteri faturasını kesmek.",
+          "rationale": "İlgisizdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Arabanızın bakımını neye göre yaparsınız? Kilometresine göre. Makinenin kilometresi de çalışma sayısıdır."
+    },
+    {
+      "questionNumber": 70,
+      "question": "Çamaşırhanedeki 'Dikiş-Tamir' bölümünde çalışan Terzinin, otel personeli üniformaları üzerindeki sorumluluğu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Üniformaları yıkamak.",
+          "rationale": "Yıkayıcının işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üniformaları ütülemek.",
+          "rationale": "Ütücünün işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üniformaların daraltma, paça boyu ayarlama ve sökük tamir işlemlerini yapmak.",
+          "rationale": "Personelin kıyafetinin üzerine tam oturması ve düzgün görünmesi terzinin görevidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yeni üniforma satın almak.",
+          "rationale": "Satın alma departmanının işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üniforma rengine karar vermek.",
+          "rationale": "Yönetimin kararıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pantolonunuz uzun gelirse kime gidersiniz?"
+    },
+    {
+      "questionNumber": 71,
+      "question": "'Çamaşırhane Çıkış İşlemleri' sırasında 'Stok Kontrolü' (Yeterli malzeme var mı?) adımı neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Depoyu kilitlemek için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Talep edilen miktarın tamamının karşılanıp karşılanamayacağını belirlemek için.",
+          "rationale": "Eğer rafta 50 çarşaf var ama kat hizmetleri 100 tane istiyorsa, bu durumun yönetilmesi gerekir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Makineleri durdurmak için.",
+          "rationale": "İlgisiz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personeli eve göndermek için.",
+          "rationale": "İlgisiz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Işıkları kapatmak için.",
+          "rationale": "İlgisiz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Markete gittiniz, 10 ekmek istediniz ama rafta 5 tane var. Marketçi önce ne yapar? Rafa bakar."
+    },
+    {
+      "questionNumber": 72,
+      "question": "Çamaşırhanede kullanılan 'Pres Ütü' özellikle hangi kıyafet grubu için idealdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çarşaflar.",
+          "rationale": "Silindir ütü kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pantolonlar (çizgi oluşturmak için) ve düzleştirme gerektiren personel kıyafetleri.",
+          "rationale": "Pres ütü, kumaşı iki sıcak plaka arasında sıkıştırarak jilet gibi çizgi yapar.",
+          "isCorrect": true
+        },
+        {
+          "text": "İpek bluzlar.",
+          "rationale": "Ezilebilir, el ütüsü veya buhar tercih edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Perdeler.",
+          "rationale": "Çok büyüktür, asılarak veya silindirle yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ayakkabılar.",
+          "rationale": "Ütülenmez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pantolonun ütü izi (çizgisi) nasıl yapılır?"
+    },
+    {
+      "questionNumber": 73,
+      "question": "Çamaşırhane 'Kirli Çamaşır Bölümü'nde bulunan ve sayım/tasnif işlemlerinin yapıldığı mobilya/araç nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yemek masası.",
+          "rationale": "Mutfaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tasnif tezgahları ve ayıklama sepetleri.",
+          "rationale": "Kirli çamaşırların üzerine dökülüp ayrıştırıldığı geniş tezgahlardır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yatak.",
+          "rationale": "Odadadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyon bankosu.",
+          "rationale": "Lobidedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bulaşık tezgahı.",
+          "rationale": "Mutfaktadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kirli çamaşırları yere dökmek hijyenik değildir. Nerenin üzerinde ayırırız?"
+    },
+    {
+      "questionNumber": 74,
+      "question": "Aşağıdakilerden hangisi 'Kat Hizmetleri' (Housekeeping) departmanına ait bir tekstil ürünüdür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Peçete",
+          "rationale": "Restorana aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masa örtüsü",
+          "rationale": "Restorana aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pike",
+          "rationale": "Yatak örtüsü türüdür, odalarda kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aşçı şapkası",
+          "rationale": "Mutfağa aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garson önlüğü",
+          "rationale": "Servise aittir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yazın yorgan yerine üzerimize örttüğümüz ince örtü."
+    },
+    {
+      "questionNumber": 75,
+      "question": "'Dışarıda Yıkatma' (Outsourcing) sisteminin en büyük riski/dezavantajı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Daha ucuz olması.",
+          "rationale": "Bu bir avantajdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalite ve hijyen standartları üzerindeki kontrolün kaybedilmesi.",
+          "rationale": "Dış firma malzemeden çalabilir, hijyene uymayabilir ve otel bunu anlık denetleyemez.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otelin yer kazanması.",
+          "rationale": "Avantajdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel çalıştırmamak.",
+          "rationale": "Avantajdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fatura kesilmesi.",
+          "rationale": "Normal bir ticari işlemdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yemeği kendiniz yaparsanız içine ne koyduğunuzu bilirsiniz. Dışarıdan söylerseniz?"
+    },
+    {
+      "questionNumber": 76,
+      "question": "Çamaşırhanedeki 'Aydınlatma' sisteminin yetersiz olması hangi soruna yol açar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Lekelerin gözden kaçmasına ve iş kazalarına.",
+          "rationale": "Leke kontrolü için güçlü ışık şarttır, ayrıca karanlık ortam tehlikelidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Makinelerin bozulmasına.",
+          "rationale": "Etkilemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Suyun soğumasına.",
+          "rationale": "Etkilemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırların çekmesine.",
+          "rationale": "Etkilemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Deterjanın köpürmemesine.",
+          "rationale": "Etkilemez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Loş ışıkta gömlekteki küçük bir yağ lekesini görebilir misiniz?"
+    },
+    {
+      "questionNumber": 77,
+      "question": "Çamaşırhane Şef Yardımcısının 'Vekalet' görevi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Şefin banka işlerini yapmak.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırhane Şefi izinli veya raporlu olduğunda onun yetkilerini kullanarak departmanı yönetmek.",
+          "rationale": "Yönetim boşluğu olmaması için hiyerarşik yedeklemedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Şefin arabasını kullanmak.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşterilere vekaletname vermek.",
+          "rationale": "Hukuki bir terimdir, burada geçerli değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şefin kıyafetlerini giymek.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Müdür yokken yerine kim bakar?"
+    },
+    {
+      "questionNumber": 78,
+      "question": "Çamaşırhane döngüsünde 'Ana Depodaki Stoklar' ne için tutulur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Süs olsun diye.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eskimeye, yırtılmaya veya acil durumlara (beklenmedik yoğunluk) karşı sigorta olarak.",
+          "rationale": "Aktif döngüdeki bir ürün kullanılamaz hale geldiğinde hemen yerine koymak için 'buffer' (tampon) stoktur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Satmak için.",
+          "rationale": "Otel tekstil satmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel evine götürsün diye.",
+          "rationale": "Yasaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makineleri doldurmak için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Arabanızda neden yedek lastik taşırsınız?"
+    },
+    {
+      "questionNumber": 79,
+      "question": "Çamaşırhanedeki 'Kurutma' makinelerinin (Tumble Dryers) çalışma prensibi nasıldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çamaşırları dondurarak suyunu alır.",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sıcak hava üfleyerek ve tamburu döndürerek nemi buharlaştırır.",
+          "rationale": "Standart kurutma prensibidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çamaşırları sıkarak suyunu akıtır.",
+          "rationale": "Bu santrifüj/sıkma makinesidir, tam kurutma yapmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üzerine ütü basar.",
+          "rationale": "Ütüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güneş ışığı yansıtır.",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Saç kurutma makinesi saçı nasıl kurutur? Sıcak hava üfleyerek."
+    },
+    {
+      "questionNumber": 80,
+      "question": "Çamaşırhanede 'Cinsine Göre' (Pamuklu, Yünlü, Sentetik) ayırmanın temel yıkama parametresi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yıkama ücreti.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıkama sıcaklığı (derecesi) ve mekanik hareket sertliği.",
+          "rationale": "Pamuklu 90 derecede yıkanabilirken, yünlü 30 derecede yıkanmalıdır. Yanlış ısı kumaşı bozar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Makine markası.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Deterjanın rengi.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Günün saati.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hassas bir bluzu kaynar suda yıkarsanız ne olur?"
+    },
+    {
+      "questionNumber": 81,
+      "question": "Hangi belge 'Departmanların İsteklerini' belirttiği formdur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kuru Temizleme Formu",
+          "rationale": "Müşteri içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Malzeme Takip Formu / İstek Fişi",
+          "rationale": "Departmanlar ihtiyaçlarını bu forma yazar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Adisyon",
+          "rationale": "Restoran faturasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Reçete",
+          "rationale": "Doktor yazar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menü",
+          "rationale": "Yemek listesidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kat şefi, 'bana 50 havlu lazım' diye yazıp imzaladığı kağıt."
+    },
+    {
+      "questionNumber": 82,
+      "question": "Çamaşırhane personelinin kullandığı 'El Ütüsü' hangi durumlarda gereklidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tüm çarşaflar için.",
+          "rationale": "Çok yavaştır, silindir kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnce işçilik gerektiren, makinelerin giremediği detaylar (fırfır, pile, yaka detayları) için.",
+          "rationale": "Otomatik makinelerin yapamadığı hassas dokunuşlar elle yapılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Havlu kurutmak için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeri ısıtmak için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemek ısıtmak için.",
+          "rationale": "Tehlikelidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Gelinlik gibi çok detaylı bir kıyafeti büyük bir presin altına sokabilir misiniz?"
+    },
+    {
+      "questionNumber": 83,
+      "question": "Çamaşırhanedeki 'Paketleme/Ambalajlama' işlemi hangi amaçla yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çamaşırları saklamak için.",
+          "rationale": "Kısmen doğru ama asıl amaç taşımadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlenen ürünlerin katlara taşınırken tozlanmasını veya kirlenmesini önlemek için.",
+          "rationale": "Hijyen zincirinin son halkasıdır, temiz ürün kirli koridorlardan geçerken korunmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Müşteriye hediye paketi yapmak için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha az yer kaplaması için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ütünün bozulması için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Temiz gömleğinizi bavula koyarken neden poşete koyarsınız?"
+    },
+    {
+      "questionNumber": 84,
+      "question": "Çamaşırhane 'Kirli Çamaşır Bölümü'nde neden 'Sıralama' (Tasnif) önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Vakit geçirmek için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "En uygun yıkama programını belirleyip maliyetleri düşürmek ve çamaşır ömrünü uzatmak için.",
+          "rationale": "Doğru ayrıştırma (renk, cins, kir) verimliliğin temelidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Personeli yormak için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makineyi bozmak için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırları saymamak için.",
+          "rationale": "Sayım bu aşamada yapılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Her şeyi karıştırıp tek bir programda yıkarsanız ne olur? Bazıları temizlenmez, bazıları bozulur."
+    },
+    {
+      "questionNumber": 85,
+      "question": "Çamaşırhanede kullanılan 'Santrifüj' makinesinin görevi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çamaşırları ütülemek.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek devirde dönerek çamaşırın üzerindeki fazla suyu sıkmak/atmak.",
+          "rationale": "Kurutma öncesi mekanik su atma işlemidir, kurutma süresini kısaltır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çamaşırları boyamak.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırları dikmek.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırları katlamak.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çamaşır makinesinin 'sıkma' programında ne olur? Hızla döner ve su çıkar."
+    },
+    {
+      "questionNumber": 86,
+      "question": "Çamaşırhanedeki 'Dikiş-Tamir' bölümü neden 'Yıkama' bölümünden önce gelmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Terzinin canı sıkılmasın diye.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yırtık çamaşır yıkanırsa yırtık büyür ve eşya kullanılamaz hale gelir.",
+          "rationale": "Hasarın büyümemesi için onarım ilk adımdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Terzi kirli çamaşıra dokunmayı sever.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "İplik tasarrufu için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makineye sığmadığı için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Tekrar sorulan kritik bir kural: Yırtık + Dönme hareketi = ?"
+    },
+    {
+      "questionNumber": 87,
+      "question": "Çamaşırhane planlamasında 'İş Akışı' (Work Flow) neden tek yönlü olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personel kaybolmasın diye.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kirli çamaşırların temiz çamaşırlarla karşılaşıp onları kirletmesini (kontaminasyonu) önlemek için.",
+          "rationale": "Hijyenin altın kuralıdır; kirli girer, temiz çıkar, asla geri dönmez.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kapılar tek yönlü olduğu için.",
+          "rationale": "Sebep değil sonuçtur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha havalı göründüğü için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteriler izlediği için.",
+          "rationale": "Müşteri görmez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Trafikte ters yöne girerseniz kaza olur. Hijyende ters yöne girerseniz mikrop bulaşır."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Çamaşırhane çalışanlarının 'İş Güvenliği' için giymesi gereken ayakkabı nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Topuklu ayakkabı.",
+          "rationale": "Tehlikelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kaymaz tabanlı, kapalı ve koruyucu iş ayakkabısı.",
+          "rationale": "Zemin ıslak ve kimyasallı olduğu için kaymayı önleyen ve ayağı koruyan ayakkabı şarttır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Terlik.",
+          "rationale": "Kayar ve korumaz, yasaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spor ayakkabı (bez).",
+          "rationale": "Suyu emer, uygun değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sandalet.",
+          "rationale": "Açık olduğu için tehlikelidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Islak fayans üzerinde koşarken ayağınızda ne olsun istersiniz?"
+    },
+    {
+      "questionNumber": 89,
+      "question": "'Çamaşırhane Şefi'nin malzeme (kimyasal) temini konusundaki görevi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kimyasalları kendisi üretmek.",
+          "rationale": "Tehlikelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stokları kontrol edip, bitmeden satın alma talebini yapmak ve doğru ürünleri seçmek.",
+          "rationale": "Operasyonun durmaması için tedarik zincirini yönetir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kimyasalları personele satmak.",
+          "rationale": "Yasaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kimyasalları eve götürmek.",
+          "rationale": "Hırsızlıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kimyasal kullanmamak.",
+          "rationale": "Temizlik olmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Evde deterjan bitince ne yaparsınız? Bitmeden yenisini alırsınız."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Çamaşırhanede 'Ütücü'nün yapabileceği 'Küçük Tamirler' neler olabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Makine motorunu tamir etmek.",
+          "rationale": "Teknik servisin işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sökülen bir düğmeyi dikmek veya küçük bir iliği açmak.",
+          "rationale": "Terziye göndermeye değmeyecek çok basit işlemleri ütü masasında hallederek zaman kazanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Duvarı boyamak.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elektrik tesisatını onarmak.",
+          "rationale": "Tehlikelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yırtık çarşafı dikmek.",
+          "rationale": "Büyük işlem olduğu için terziye gider.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Gömleği ütülerken düğmesi koptu. Terziye gidip gelmek 20 dakika, dikmek 1 dakika. Ne yaparsınız?"
+    },
+    {
+      "questionNumber": 91,
+      "question": "'Kuru Temizleme Formu'nda bulunması gereken en kritik bilgi (fiyat haricinde) nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Müşterinin ayakkabı numarası.",
+          "rationale": "İlgisiz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ürünün cinsi, rengi ve varsa mevcut hasarları/lekeleri.",
+          "rationale": "Müşteri 'bu leke yoktu' veya 'bu yırtık yoktu' derse, teslim alırken forma yazılan notlar oteli korur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otelin kuruluş tarihi.",
+          "rationale": "İlgisiz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyonistin adı.",
+          "rationale": "İlgisiz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hava durumu.",
+          "rationale": "İlgisiz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Arabayı kiralarken çizikleri nota alırlar. Neden? Siz yapmadınız demek için."
+    },
+    {
+      "questionNumber": 92,
+      "question": "Çamaşırhanedeki 'Katlayıcı' personelin temel görevi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çamaşırları yıkamak.",
+          "rationale": "Yıkayıcının işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ütülenen ve kuruyan çamaşırları standartlara uygun şekilde katlayıp istiflemek.",
+          "rationale": "Raflarda düzenli durması ve servise hazır olması için standart katlama şarttır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çamaşırları yırtmak.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşterilerle sohbet etmek.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeri silmek.",
+          "rationale": "Meydancının işidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Havlu dolapta nasıl durur? Katlanmış halde."
+    },
+    {
+      "questionNumber": 93,
+      "question": "Çamaşırhane 'Temiz Çamaşır Bölümü'nde neden 'Sayım Tezgahları' bulunur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yemek yemek için.",
+          "rationale": "Yasak.",
+          "isCorrect": false
+        },
+        {
+          "text": "Departmanlara verilecek temiz ürünleri rahatça sayıp paketlemek için.",
+          "rationale": "Yerden yüksek, geniş yüzeyler sayım hatasını önler ve ergonomiktir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ütü yapmak için.",
+          "rationale": "Ütü masası ayrıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uyumak için.",
+          "rationale": "Yasak.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çiçek koymak için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "100 tane çarşafı kucağınızda sayabilir misiniz? Geniş bir masaya ihtiyacınız var."
+    },
+    {
+      "questionNumber": 94,
+      "question": "Çamaşırhane operasyonunda 'Zaman Çizelgesi' neden Kat Hizmetlerinden önce 'Servis Departmanı'na (Restoran) öncelik verir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Garsonlar daha sinirli olduğu için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kahvaltı, öğle ve akşam yemeği gibi belirli saatlere yetişmesi gereken operasyonel zorunluluk olduğu için.",
+          "rationale": "Oda temizliği gün boyu sürer ama kahvaltı saati bitince öğle yemeği hemen başlar, örtülerin değişmesi acildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Restoran çamaşırları daha temiz olduğu için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Restoran müdürü şefin arkadaşı olduğu için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak bezi az olduğu için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Müşteri saat 12:00'de yemeğe oturacak. Masa örtüsü yoksa yemek yiyebilir mi?"
+    },
+    {
+      "questionNumber": 95,
+      "question": "Çamaşırhanedeki 'Kirlilik Derecesine Göre' ayırmada 'Çok Kirli' çamaşırlara uygulanan işlem farkı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Daha az deterjan konur.",
+          "rationale": "Tam tersi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıkanmadan atılır.",
+          "rationale": "Ekonomik değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "3 suda (ön yıkamalı, daha yoğun) temizlenir.",
+          "rationale": "Kirin akması için daha fazla durulama ve yıkama döngüsü gerekir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Soğuk suda yıkanır.",
+          "rationale": "Sıcak gerekir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ütülenmez.",
+          "rationale": "Hijyen için ütülenir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çok çamurlu bir pantolonu kısa programda mı yıkarsınız, uzun ve ön yıkamalı programda mı?"
+    },
+    {
+      "questionNumber": 96,
+      "question": "Aşağıdakilerden hangisi 'Yıkayıcı'nın (Washer) makineye çamaşır yüklerken dikkat etmesi gereken kuraldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Makineyi ağzına kadar tıka basa doldurmak.",
+          "rationale": "Çamaşırlar dönmez ve temizlenmez, makine bozulur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapasiteye uygun (ne çok az ne çok fazla) yüklemek.",
+          "rationale": "Verimli yıkama ve mekanik hareket için tamburda boşluk kalmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tek bir çorap için makineyi çalıştırmak.",
+          "rationale": "İsraftır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makinenin kapağını açık bırakmak.",
+          "rationale": "Su taşar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Deterjanı çamaşırın üzerine dökmek.",
+          "rationale": "Leke yapabilir, deterjan gözüne konur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ağzınız doluyken çalkalayabilir misiniz? Makine de doluysa çamaşırı çalkalayamaz."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Çamaşırhanedeki 'Depo' bölümünün nem oranı nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çok nemli.",
+          "rationale": "Küf yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuru ve havadar.",
+          "rationale": "Tekstilin çürümemesi ve kokmaması için nemden uzak durulmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Islak.",
+          "rationale": "Olmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sıfır derece.",
+          "rationale": "Gerek yok.",
+          "isCorrect": false
+        },
+        {
+          "text": "Buharlı.",
+          "rationale": "Olmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Dolabınızdaki kıyafetlerin küflenmemesi için ortamın nasıl olması gerekir?"
+    },
+    {
+      "questionNumber": 98,
+      "question": "Çamaşırhanede 'Ütü' bölümünde çalışan personelin en sık karşılaştığı meslek hastalığı riski nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Soğuk algınlığı.",
+          "rationale": "Ortam sıcaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ayakta durmaya bağlı varis ve bel ağrıları.",
+          "rationale": "Sürekli ayakta ve sabit pozisyonda çalışmak iskelet sistemini zorlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Güneş çarpması.",
+          "rationale": "Kapalı ortamdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Donma.",
+          "rationale": "İmkansız.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uyku apnesi.",
+          "rationale": "İlgisiz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Günde 8 saat ayakta ütü yaparsanız akşam nereleriniz ağrır?"
+    },
+    {
+      "questionNumber": 99,
+      "question": "Çamaşırhane Şefinin 'Ön Büro' (Front Office) ile olan en önemli evrak ilişkisi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Personel izin kağıtları.",
+          "rationale": "İK ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteri çamaşır fişlerinin (fiyatlarının) misafir hesabına işlenmesi için gönderilmesi.",
+          "rationale": "Yıkanan gömleğin parasının tahsil edilmesi için fişin resepsiyona/kasiyere gitmesi gerekir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oda anahtarları.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kahvaltı listesi.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gazete dağıtımı.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Otelden çıkarken 'Laundry' ücretini faturada görürsünüz. O bilgi oraya nasıl gider?"
+    },
+    {
+      "questionNumber": 100,
+      "question": "Çamaşırhanenin 'Genel Fiziksel Özellikleri' arasında 'Aydınlık ve ışıklandırma' neden yeterli olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fotoğraf çekmek için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lekeleri görebilmek, renkleri ayırt edebilmek ve iş güvenliğini sağlamak için.",
+          "rationale": "Karanlıkta leke görülmez, renkler karışır ve makine kullanımı tehlikeli olur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Elektrik faturasını artırmak için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamaşırları kurutmak için.",
+          "rationale": "Işık kurutmaz, ısı kurutur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşterilerin dikkatini çekmek için.",
+          "rationale": "Değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Güneş ışığına tutmadan bir lekenin çıkıp çıkmadığını anlayabilir misiniz?"
+    }
+  ]
+}

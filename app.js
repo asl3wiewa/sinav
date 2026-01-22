@@ -114,6 +114,14 @@ const TESTS = {
 
   },
 
+  "camasirhane-kontrolu-final": {
+
+    title: "Camasirhane Kontrolu Testi (Final)",
+
+    dataUrl: "final/camasirhane-kontrolu.json",
+
+  },
+
   "on-buro-hizmetleri": {
 
     title: "On Buro Hizmetleri Testi 1 (Final)",
@@ -215,6 +223,38 @@ const TESTS = {
     title: "Yiyecek ve Icecek Servisi I Testi 3",
 
     dataUrl: "vize/yiyecek-ve-icecek-servisi-1-3.json",
+
+  },
+
+  "yiyecek-ve-icecek-servisi-1-final": {
+
+    title: "Yiyecek ve Icecek Servisi I Testi 1 (Final)",
+
+    dataUrl: "final/yiyecek-ve-icecek-servisi-1.json",
+
+  },
+
+  "yiyecek-ve-icecek-servisi-1-2-final": {
+
+    title: "Yiyecek ve Icecek Servisi I Testi 2 (Final)",
+
+    dataUrl: "final/yiyecek-ve-icecek-servisi-1-2.json",
+
+  },
+
+  "yiyecek-ve-icecek-servisi-1-3-final": {
+
+    title: "Yiyecek ve Icecek Servisi I Testi 3 (Final)",
+
+    dataUrl: "final/yiyecek-ve-icecek-servisi-1-3.json",
+
+  },
+
+  "yiyecek-ve-icecek-servisi-1-4-final": {
+
+    title: "Yiyecek ve Icecek Servisi I Testi 4 (Final)",
+
+    dataUrl: "final/yiyecek-ve-icecek-servisi-1-4.json",
 
   },
 
@@ -353,6 +393,8 @@ const TEST_ALIASES = {
   "camasirhane kontrolu 2": "camasirhane-kontrolu-2",
 
   "camasirhane kontrolu 3": "camasirhane-kontrolu-3",
+
+  "camasirhane kontrolu final": "camasirhane-kontrolu-final",
   "on buro hizmetleri": "on-buro-hizmetleri",
 
   "on buro hizmetleri 2": "on-buro-hizmetleri-2",
@@ -380,6 +422,14 @@ const TEST_ALIASES = {
   "yiyecek ve icecek servisi i 2": "yiyecek-ve-icecek-servisi-1-2",
 
   "yiyecek ve icecek servisi i 3": "yiyecek-ve-icecek-servisi-1-3",
+
+  "yiyecek ve icecek servisi i final": "yiyecek-ve-icecek-servisi-1-final",
+
+  "yiyecek ve icecek servisi i 2 final": "yiyecek-ve-icecek-servisi-1-2-final",
+
+  "yiyecek ve icecek servisi i 3 final": "yiyecek-ve-icecek-servisi-1-3-final",
+
+  "yiyecek ve icecek servisi i 4 final": "yiyecek-ve-icecek-servisi-1-4-final",
 
 
 

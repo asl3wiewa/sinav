@@ -197,6 +197,31 @@ const TEST_DATA = [
     pdfUrl: "assets/pdf/final/turizmde-rekreasyon.pdf"
   },
   {
+    id: "yiyecek-ve-icecek-servisi-1-final",
+    title: "Yiyecek ve Icecek Servisi I (Final)",
+    description: "Servis prosedürlerini dört final testiyle gözden geçir.",
+    tag: "Yiyecek & Icecek",
+    category: "final",
+    tests: [
+      { name: "Test 1 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-final" },
+      { name: "Test 2 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-2-final" },
+      { name: "Test 3 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-3-final" },
+      { name: "Test 4 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-4-final" }
+    ],
+    pdfUrl: "assets/pdf/final/yiyecek-ve-icecek-servisi-1.pdf"
+  },
+  {
+    id: "camasirhane-kontrolu-final",
+    title: "Camasirhane Kontrolu (Final)",
+    description: "Çamaşırhane operasyonlarını final testiyle pekiştir.",
+    tag: "Camasirhane Kontrolu",
+    category: "final",
+    tests: [
+      { name: "Teste Basla", url: "quiz.html?test=camasirhane-kontrolu-final", primary: true }
+    ],
+    pdfUrl: "assets/pdf/final/camasirhane-kontrolu.pdf"
+  },
+  {
     id: "mesleki-yabanci-dil-1",
     title: "Mesleki Yabancı Dil - I",
     description: "Mesleki İngilizce bilgisini üç seviye testiyle pekiştir.",
