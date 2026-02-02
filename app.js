@@ -90,6 +90,22 @@ const TESTS = {
     dataUrl: "vize/kat-hizmetleri-3.json",
 
   },
+
+  "kat-hizmetleri-final": {
+
+    title: "Kat Hizmetleri Testi 1 (Final)",
+
+    dataUrl: "final/kat-hizmetleri.json",
+
+  },
+
+  "kat-hizmetleri-2-final": {
+
+    title: "Kat Hizmetleri Testi 2 (Final)",
+
+    dataUrl: "final/kat-hizmetleri-2.json",
+
+  },
   "camasirhane-kontrolu": {
 
     title: "Camasirhane Kontrolu Testi 1",
@@ -388,6 +404,10 @@ const TEST_ALIASES = {
   "kat hizmetleri 2": "kat-hizmetleri-2",
 
   "kat hizmetleri 3": "kat-hizmetleri-3",
+
+  "kat hizmetleri final": "kat-hizmetleri-final",
+
+  "kat hizmetleri 2 final": "kat-hizmetleri-2-final",
   "camasirhane kontrolu": "camasirhane-kontrolu",
 
   "camasirhane kontrolu 2": "camasirhane-kontrolu-2",

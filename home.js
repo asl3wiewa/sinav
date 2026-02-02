@@ -222,6 +222,18 @@ const TEST_DATA = [
     pdfUrl: "assets/pdf/final/camasirhane-kontrolu.pdf"
   },
   {
+    id: "kat-hizmetleri-final",
+    title: "Kat Hizmetleri (Final)",
+    description: "Oda ve kat operasyonlarını iki final testiyle çalış.",
+    tag: "Kat Hizmetleri",
+    category: "final",
+    tests: [
+      { name: "Test 1 Basla", url: "quiz.html?test=kat-hizmetleri-final" },
+      { name: "Test 2 Basla", url: "quiz.html?test=kat-hizmetleri-2-final" }
+    ],
+    pdfUrl: "assets/pdf/final/kat-hizmetleri.pdf"
+  },
+  {
     id: "mesleki-yabanci-dil-1",
     title: "Mesleki Yabancı Dil - I",
     description: "Mesleki İngilizce bilgisini üç seviye testiyle pekiştir.",
