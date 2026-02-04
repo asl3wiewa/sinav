@@ -67,6 +67,14 @@ const TESTS = {
     title: "Bağımlılık ve Bağımlılıkla Mücadele 2",
     dataUrl: "vize/bagimlilik-ve-bagimlilikla-mucadele-2.json",
   },
+  "bagimlilik-ve-bagimlilikla-mucadele-final": {
+    title: "Bağımlılık ve Bağımlılıkla Mücadele Testi 1 (Final)",
+    dataUrl: "final/bagimlilik-ve-bagimlilikla-mucadele.json",
+  },
+  "bagimlilik-ve-bagimlilikla-mucadele-2-final": {
+    title: "Bağımlılık ve Bağımlılıkla Mücadele Testi 2 (Final)",
+    dataUrl: "final/bagimlilik-ve-bagimlilikla-mucadele-2.json",
+  },
   "kat-hizmetleri": {
 
     title: "Kat Hizmetleri Testi 1",
@@ -384,6 +392,8 @@ const TEST_ALIASES = {
   "bagimlilik ve bagimlilikla mucadele": "bagimlilik-ve-bagimlilikla-mucadele",
   "bagimlilik ve bagimlilikla mucadele 2": "bagimlilik-ve-bagimlilikla-mucadele-2",
   "bagimlilik mucadele": "bagimlilik-ve-bagimlilikla-mucadele",
+  "bagimlilik ve bagimlilikla mucadele final": "bagimlilik-ve-bagimlilikla-mucadele-final",
+  "bagimlilik ve bagimlilikla mucadele 2 final": "bagimlilik-ve-bagimlilikla-mucadele-2-final",
   "turizm ve cevre": "turizm-ve-cevre",
 
   "turizm ve cevre 2": "turizm-ve-cevre-2",

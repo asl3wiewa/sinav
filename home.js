@@ -234,6 +234,18 @@ const TEST_DATA = [
     pdfUrl: "assets/pdf/final/kat-hizmetleri.pdf"
   },
   {
+    id: "bagimlilik-ve-bagimlilikla-mucadele-final",
+    title: "Bagimlilik ve Mucadele (Final)",
+    description: "Bağımlılık türlerini iki final testiyle çalış.",
+    tag: "Bagimlilik",
+    category: "final",
+    tests: [
+      { name: "Test 1 Basla", url: "quiz.html?test=bagimlilik-ve-bagimlilikla-mucadele-final" },
+      { name: "Test 2 Basla", url: "quiz.html?test=bagimlilik-ve-bagimlilikla-mucadele-2-final" }
+    ],
+    pdfUrl: "assets/pdf/final/bagimlilik-ve-bagimlilikla-mucadele.pdf"
+  },
+  {
     id: "mesleki-yabanci-dil-1",
     title: "Mesleki Yabancı Dil - I",
     description: "Mesleki İngilizce bilgisini üç seviye testiyle pekiştir.",
