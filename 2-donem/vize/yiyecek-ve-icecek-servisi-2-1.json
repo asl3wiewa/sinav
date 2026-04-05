@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Bir F&B işletmesinin başarılı olması için gerekli olan iki temel unsur metne göre nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Dekorasyon ve Müzik", "rationale": "Metinde bunlar geçmez.", "isCorrect": false},
+        {"text": "Fiyat ve Konum", "rationale": "Başarı için belirtilen unsurlar bunlar değildir.", "isCorrect": false},
+        {"text": "Servis ve Yemek", "rationale": "İşletmenin başarısı için birinci unsur servis, ikincisi yemektir.", "isCorrect": true},
+        {"text": "Reklam ve Personel", "rationale": "Yanlış bir ifadedir.", "isCorrect": false},
+        {"text": "Hijyen ve Hız", "rationale": "Dolaylı etkendir ama ana 2 unsur olarak metinde geçmez.", "isCorrect": false}
+      ],
+      "hint": "İşletmenin misafire sunduğu somut ürün ve sunum şeklini düşünün."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Servis personelinin misafire yaklaşma kurallarına göre ayak pozisyonu nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Daima sağ ayak önde olmalıdır.", "rationale": "Yaklaşım yönüne göre değişir.", "isCorrect": false},
+        {"text": "Sağ taraftan yaklaşırken sağ ayak, soldan yaklaşırken sol ayak ilerde olmalıdır.", "rationale": "Konuğa rahatsızlık vermemek için doğru ayak pozisyonudur.", "isCorrect": true},
+        {"text": "Daima sol ayak önde olmalıdır.", "rationale": "Yanlış bir kuraldır.", "isCorrect": false},
+        {"text": "Ayakların bitişik olması zorunludur.", "rationale": "Böyle bir kural metinde yoktur.", "isCorrect": false},
+        {"text": "Sağ taraftan sol ayak, soldan sağ ayak ilerde olmalıdır.", "rationale": "Dengeyi bozan, yanlış bir duruştur.", "isCorrect": false}
+      ],
+      "hint": "Yaklaştığınız taraftaki ayağınızın konuğa daha yakın olması prensibi."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Yan yana sohbet eden misafirlerin arasına girme konusunda metindeki kural nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Servis hızını kesmemek için doğrudan araya girilebilir.", "rationale": "Nezaketsiz bir harekettir.", "isCorrect": false},
+        {"text": "Kural dahi olsa aralarına girilmemeli, çok gerekliyse izin alınmalıdır.", "rationale": "Sohbeti bölmemek için uyulması gereken doğru kuraldır.", "isCorrect": true},
+        {"text": "Sadece içecek servisi yapılıyorsa aralarına girilebilir.", "rationale": "İçecek veya yiyecek fark etmez, kural geçerlidir.", "isCorrect": false},
+        {"text": "Misafirler uyarılmalı ve alan açmaları istenmelidir.", "rationale": "Misafiri rahatsız edici bir yaklaşımdır.", "isCorrect": false},
+        {"text": "Aralarına girmek profesyonelliğin bir göstergesidir.", "rationale": "Tam tersine amatörce bir davranıştır.", "isCorrect": false}
+      ],
+      "hint": "Konukların özel alanına ve sohbetine saygı gösterilmelidir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Yenilen yemeğin kalitesinin misafir cephesinden en büyük tamamlayıcısı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yemeğin porsiyon büyüklüğü", "rationale": "Boyut değil hissiyat önemlidir.", "isCorrect": false},
+        {"text": "Restoranın manzarası", "rationale": "Atmosfer etkilidir ancak metinde geçen tamamlayıcı bu değildir.", "isCorrect": false},
+        {"text": "Misafirin psikolojik tatmini", "rationale": "Yemeğin kalitesi, psikolojik tatmin ile birleştiğinde gerçek anlamını bulur.", "isCorrect": true},
+        {"text": "Yemeğin uygun fiyatlı olması", "rationale": "Fiyat kalite dengesi metindeki ana vurgu değildir.", "isCorrect": false},
+        {"text": "Müzik seçimi", "rationale": "Yanlış seçenektir.", "isCorrect": false}
+      ],
+      "hint": "Konuğun zihinsel ve duygusal olarak nasıl hissettiği ile ilgilidir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi bir Yiyecek & İçecek departmanının üç temel amacından biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Konukların psikolojik/sosyolojik durumlarına göre hareket etmek", "rationale": "Bu temel amaçlardan biridir.", "isCorrect": false},
+        {"text": "Konukların arzularını belirli kurallar içerisinde sunmak", "rationale": "Bu da metinde geçen amaçlardan biridir.", "isCorrect": false},
+        {"text": "İşletmeye en yüksek karı sağlamak", "rationale": "Sonuç odaklı temel bir amaçtır.", "isCorrect": false},
+        {"text": "Personel maliyetlerini sıfıra indirmek", "rationale": "Böyle bir amaç belirtilmemiştir.", "isCorrect": true},
+        {"text": "Kurallar dâhilinde konuğu memnun etmek", "rationale": "İkinci amacın farklı bir söylenişidir.", "isCorrect": false}
+      ],
+      "hint": "Gerçekçi olmayan ve işleyişe ters düşen seçeneği bulun."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Tuz, biber, zeytinyağı, sirke ve ketçap gibi tatlandırıcı ve sosların tamamına servis terminolojisinde ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kuver", "rationale": "Kuver genel masa takımlarının adıdır.", "isCorrect": false},
+        {"text": "Gueridon", "rationale": "Servis sehpasıdır.", "isCorrect": false},
+        {"text": "Menaj", "rationale": "Tüm bu sos ve baharatların genel terminolojik adıdır.", "isCorrect": true},
+        {"text": "Molton", "rationale": "Masa örtüsü altlığıdır.", "isCorrect": false},
+        {"text": "Reşo", "rationale": "Yemek ısıtıcısıdır.", "isCorrect": false}
+      ],
+      "hint": "Masada lezzet artırmak için duran küçük kapların genel ismi."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Servantların (Servis İstasyonları) hazırlanmasında uyulması gereken kurallardan hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Her garson servantını kendi zevkine göre düzenlemelidir.", "rationale": "Karmaşa yaratır.", "isCorrect": false},
+        {"text": "Servantlarda yerleşim düzeni her zaman aynı olmalıdır.", "rationale": "Personelin her aradığını hızla bulabilmesi için standart olmalıdır.", "isCorrect": true},
+        {"text": "Servantlar misafir masalarından çok uzakta olmalıdır.", "rationale": "Hız kaybına yol açar.", "isCorrect": false},
+        {"text": "Servantların salon dekorasyonuyla uyumlu olmasına gerek yoktur.", "rationale": "Uyumlu olmalı ve göze hoş gelmelidir.", "isCorrect": false},
+        {"text": "Servantlar sadece kirli tabakları toplamak içindir.", "rationale": "Hazırlık dolabıdır.", "isCorrect": false}
+      ],
+      "hint": "Ekip çalışmasında standardizasyon hız getirir."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Servis arabalarının (Gueridon vb.) kullanımıyla ilgili hangisi metinde vurgulanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Salonda her zaman çekerek götürülmelidir.", "rationale": "Tam tersi kural vardır.", "isCorrect": false},
+        {"text": "Götürülecekleri yere çekerek değil, iterek götürülmelidir.", "rationale": "Kontrolün sağlanması ve kaza olmaması için itilmelidir.", "isCorrect": true},
+        {"text": "Üzerlerine asla sıcak su konulmamalıdır.", "rationale": "Sıcak küvet taşınacaksa sıcak su konulmalıdır.", "isCorrect": false},
+        {"text": "Temizlikleri sadece gün sonunda yapılır.", "rationale": "Servise hazırlanırken de çok iyi temizlenmelidir.", "isCorrect": false},
+        {"text": "Sadece İngiliz servisinde kullanılırlar.", "rationale": "Genel kullanım alanları vardır.", "isCorrect": false}
+      ],
+      "hint": "Bir aracı arkanızdan sürüklemek yerine önünüzden kontrol etmeyi tercih edersiniz."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Restoranlarda masa yerleşim planlaması yapılırken hangisi dikkate alınmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Personelin özel araçlarının park yeri", "rationale": "Masa yerleşimiyle tamamen ilgisiz bir konudur.", "isCorrect": true},
+        {"text": "Grupların sayıları ve grup yapıları", "rationale": "Rezervasyon yerleşiminde dikkate alınır.", "isCorrect": false},
+        {"text": "Girişler, kolonlar ve servis yolları", "rationale": "Mimari zorunluluklardır, hesaba katılır.", "isCorrect": false},
+        {"text": "Kişilere ayrılan alanın yeterliliği", "rationale": "Konfor için şarttır.", "isCorrect": false},
+        {"text": "Masaların birbirleriyle simetrik yerleştirilmesi", "rationale": "Estetik için gereklidir.", "isCorrect": false}
+      ],
+      "hint": "Masa yerleşimi tamamen restoran içi bir fiziki planlamadır."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Masa yerleşiminde sandalyelerle ilgili özel kural nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sandalyeler masadan çok uzakta durmalıdır.", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Sandalyeler birbirine yapışık olmalıdır.", "rationale": "Misafir rahatsız olur.", "isCorrect": false},
+        {"text": "Sandalyeler masa ayaklarına denk getirilmemelidir.", "rationale": "Misafirin ayaklarının masaya çarpmaması için bu kurala uyulur.", "isCorrect": true},
+        {"text": "Sandalyeler çapraz yerleştirilmelidir.", "rationale": "Simetriyi bozar.", "isCorrect": false},
+        {"text": "Sadece kolçaklı sandalye kullanılmalıdır.", "rationale": "Böyle bir zorunluluk metinde yoktur.", "isCorrect": false}
+      ],
+      "hint": "Masaya oturduğunuzda dizlerinizin sert bir şeye çarpmasını istemezsiniz."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Masa örtüleri servise hazırlık amacıyla hangi sırayla katlanmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Rastgele katlanabilir.", "rationale": "Sistemli olmalıdır.", "isCorrect": false},
+        {"text": "Enlemesine, boylamasına, enlemesine", "rationale": "Sıralama hatalıdır.", "isCorrect": false},
+        {"text": "Boylamasına 2 kez, enlemesine 2 kez katlanmalıdır.", "rationale": "Önce boy, sonra en üzerinden ikişer kez katlanarak küçültülür.", "isCorrect": true},
+        {"text": "Sadece köşelerinden tutulup dörde katlanır.", "rationale": "Profesyonel metoda uymaz.", "isCorrect": false},
+        {"text": "Sürekli enlemesine rulo yapılır.", "rationale": "Rulo katlama metodu değildir.", "isCorrect": false}
+      ],
+      "hint": "Önce uzun kenarlar daraltılır, sonra kısa kenarlar üzerinden küçültülür."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Kuver malzemeleri arasında 'olmayan', sadece masaya artı değer kazandıran dekoratif obje aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Ekmek tabağı", "rationale": "Kuver malzemesidir.", "isCorrect": false},
+        {"text": "Çatal ve Bıçak", "rationale": "Kuverin temelidir.", "isCorrect": false},
+        {"text": "Su bardağı", "rationale": "Kuvere dâhildir.", "isCorrect": false},
+        {"text": "Şamdan", "rationale": "Vazo ve küllük gibi şamdan da kuver dışı atmosfer malzemesidir.", "isCorrect": true},
+        {"text": "Peçete", "rationale": "Zorunlu kuver malzemesidir.", "isCorrect": false}
+      ],
+      "hint": "Yemek yemek için fiziksel olarak kullanılmayan, aydınlatma amaçlı nesne."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Kuver açmanın işletme ve servise sağladığı faydalardan biri aşağıdakilerden hangisi değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Restorana güzel bir görünüm kazandırır.", "rationale": "Faydalardan biridir.", "isCorrect": false},
+        {"text": "Servise hazır masalar önceden belirlenmiş olur.", "rationale": "Personel için bir kolaylıktır.", "isCorrect": false},
+        {"text": "Menü fiyatlarının artmasını sağlar.", "rationale": "Kuver atılması fiyatları doğrudan belirlemez.", "isCorrect": true},
+        {"text": "Konuklar oturduktan sonra rahatsız edilmemiş olur.", "rationale": "Servis önceden hazırlandığı için misafir konforu sağlar.", "isCorrect": false},
+        {"text": "Servis elemanlarına kolaylık sağlar.", "rationale": "Hızlı servise zemin hazırlar.", "isCorrect": false}
+      ],
+      "hint": "Kuver bir hazırlık aşamasıdır, finansal bir değerleme aracı değildir."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Amerikan literatüründe 'Kuver açmak' deyimi hangi terimle ifade edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Take away", "rationale": "Paket servis anlamına gelir.", "isCorrect": false},
+        {"text": "Gueridon", "rationale": "Servis sehpasıdır.", "isCorrect": false},
+        {"text": "Set-up", "rationale": "Amerika'daki kuver atma işlemine verilen isimdir.", "isCorrect": true},
+        {"text": "Silver service", "rationale": "Fransız servisinin diğer adıdır.", "isCorrect": false},
+        {"text": "Table d'hote", "rationale": "Sabit menü anlamına gelir.", "isCorrect": false}
+      ],
+      "hint": "Masanın 'kurulumu' veya 'ayarlanması' anlamına gelen İngilizce kelime."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Kuver açılırken takımlar (çatal, bıçak) masaya nasıl yerleştirilir ve nasıl kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Dışarıdan içeri dizilir, dışarıdan içeri kullanılır.", "rationale": "Dizilim hatalıdır.", "isCorrect": false},
+        {"text": "İçerden dışarıya dizilir, dışarıdan içeriye kullanılır.", "rationale": "Doğru dizilim ve kullanım kuralı budur. İlk yenecek takım en dıştadır.", "isCorrect": true},
+        {"text": "Dışarıdan içeri dizilir, içeriden dışarı kullanılır.", "rationale": "Tamamen ters bir kuraldır.", "isCorrect": false},
+        {"text": "Boyutlarına göre küçükten büyüğe dizilir.", "rationale": "Boyut değil, yeme sırası önemlidir.", "isCorrect": false},
+        {"text": "Karışık şekilde masaya bırakılır.", "rationale": "Profesyonelliğe aykırıdır.", "isCorrect": false}
+      ],
+      "hint": "Masayı hazırlarken tabağın yanından başlar dışa gidersiniz, yemek yerken dıştaki takımdan başlar tabağa yaklaşırsınız."
+    },
+    {
+      "questionNumber": 16,
+      "question": "İki parça takımla yenen yemeklerde (örneğin et) kuver yerleşimi nasıldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "İki takım da sağa konur.", "rationale": "Yanlış yerleşimdir.", "isCorrect": false},
+        {"text": "İki takım da sola konur.", "rationale": "Yanlış yerleşimdir.", "isCorrect": false},
+        {"text": "Çatal sağa, bıçak sola yerleştirilir.", "rationale": "Ters yerleşimdir.", "isCorrect": false},
+        {"text": "Çatal sola, bıçak sağa yerleştirilir.", "rationale": "Genel anatomiye (sağ el dominant) en uygun evrensel kuraldır.", "isCorrect": true},
+        {"text": "Takımlar tabağın üstüne konur.", "rationale": "Tatlı takımlarının yeridir.", "isCorrect": false}
+      ],
+      "hint": "Bıçağı hangi elinizle tuttuğunuzu düşünün."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Ekmek ve salata tabakları kuver düzeninde neden sol tarafa konulur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sağ tarafta içki bardakları olması ve ana yemek yerken çatalın sol elde olması nedeniyle.", "rationale": "Hem alan tasarrufu hem de ergonomi açısından doğru cevaptır.", "isCorrect": true},
+        {"text": "Sadece estetik bir kural olduğu için.", "rationale": "Pratik bir nedeni vardır.", "isCorrect": false},
+        {"text": "Ekmek sadece sol elle yenildiği için.", "rationale": "Böyle bir kural yoktur.", "isCorrect": false},
+        {"text": "Masa örtüsünün simetrisini sağlamak için.", "rationale": "Ana neden ergonomidir.", "isCorrect": false},
+        {"text": "Sağ tarafa tatlı takımları konulduğu için.", "rationale": "Tatlı takımları üsttedir.", "isCorrect": false}
+      ],
+      "hint": "Masada sağ tarafın halihazırda hangi nesnelerle dolu olduğunu düşünün."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Tatlı takımlarının kuverdeki konumu neresidir ve masaya nasıl durmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sol tarafta, masaya dik", "rationale": "Yanlış konum.", "isCorrect": false},
+        {"text": "Sağ tarafta, masaya paralel", "rationale": "Yanlış konum.", "isCorrect": false},
+        {"text": "Kuver tabağının üst tarafında, masa kenarına paralel", "rationale": "Tatlı takımlarının doğru ve standart konumudur.", "isCorrect": true},
+        {"text": "Tabağın altında gizli olarak", "rationale": "Böyle bir servis yoktur.", "isCorrect": false},
+        {"text": "Kuver tabağının içinde, çapraz şekilde", "rationale": "Yanlış bir yerleşimdir.", "isCorrect": false}
+      ],
+      "hint": "Tabağın saat 12 yönünde dururlar."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Kuver açılırken uygulanması gereken standart '2 cm kuralı' neleri kapsar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece sandalyelerin masaya uzaklığını.", "rationale": "Sandalyelerle ilgili değildir.", "isCorrect": false},
+        {"text": "Tabağın masa kenarına uzaklığını ve takımların kendi aralarındaki mesafeyi.", "rationale": "Metne göre takım aralıkları ve tabağın kenar payı 2 cm'yi geçmemelidir.", "isCorrect": true},
+        {"text": "Garsonun misafire olan uzaklığını.", "rationale": "Böyle bir kural metinde yoktur.", "isCorrect": false},
+        {"text": "Bardakların birbirine mesafesini.", "rationale": "Sadece bardakları kapsamaz.", "isCorrect": false},
+        {"text": "Masaların birbirine uzaklığını.", "rationale": "Masa aralıkları 2 cm olamaz.", "isCorrect": false}
+      ],
+      "hint": "Masa üzerindeki aletlerin nizami dizilim ölçüsüdür."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Su bardağı kuver düzeninde tam olarak nereye yerleştirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kuver tabağının sol üstüne", "rationale": "Sol tarafta ekmek tabağı bulunur.", "isCorrect": false},
+        {"text": "Çatalların hemen yanına", "rationale": "Çatallar soldadır, bardaklar sağda.", "isCorrect": false},
+        {"text": "Ana yemek bıçağının 2-3 cm karşısına", "rationale": "Su bardağının standart kılavuz noktası ana yemek bıçağının ucudur.", "isCorrect": true},
+        {"text": "Tatlı kaşığının arkasına", "rationale": "Yanlış bir hizalamadır.", "isCorrect": false},
+        {"text": "Masanın tam ortasına", "rationale": "Kişisel kuverin bir parçasıdır, ortaya konmaz.", "isCorrect": false}
+      ],
+      "hint": "Sağ elinizle en sık uzandığınız bıçağın hemen ilerisini düşünün."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Kuver açma kurallarına göre kuver tabağının solunda en fazla kaç takım bulunmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "En fazla 2 takım", "rationale": "Daha fazla konulabilir.", "isCorrect": false},
+        {"text": "En fazla 3 takım", "rationale": "Sol tarafta (çatalların olduğu yer) kargaşayı önlemek için max sınır 3'tür.", "isCorrect": true},
+        {"text": "En fazla 4 takım", "rationale": "4 takım sağ taraf içindir.", "isCorrect": false},
+        {"text": "En fazla 5 takım", "rationale": "Çok fazladır.", "isCorrect": false},
+        {"text": "Sınır yoktur.", "rationale": "Standart kurallarda net bir sınır vardır.", "isCorrect": false}
+      ],
+      "hint": "Bıçakların olduğu taraftan bir eksiktir."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Kuver açma kurallarına göre kuver tabağının sağında en fazla kaç takım bulunmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "En fazla 2 takım", "rationale": "Eksiktir.", "isCorrect": false},
+        {"text": "En fazla 3 takım", "rationale": "Bu sol tarafın sınırıdır.", "isCorrect": false},
+        {"text": "En fazla 4 takım", "rationale": "Kaşık ve bıçakların yer aldığı sağ tarafta maksimum sınır 4'tür.", "isCorrect": true},
+        {"text": "En fazla 5 takım", "rationale": "Standart dışıdır.", "isCorrect": false},
+        {"text": "Sınır yoktur.", "rationale": "Sınır vardır.", "isCorrect": false}
+      ],
+      "hint": "Sol taraf takım sınırından bir fazladır."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Kuver tabağının sağında masaya dizilebilecek bardak sayısı en fazla kaçtır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "2 bardak", "rationale": "Daha fazla konabilir.", "isCorrect": false},
+        {"text": "3 bardak", "rationale": "Genelde 3 olsa da maksimum sınır bu değildir.", "isCorrect": false},
+        {"text": "4 bardak", "rationale": "Metne göre kuver sağında en fazla 4 bardak yer alabilir.", "isCorrect": true},
+        {"text": "5 bardak", "rationale": "Masayı çok kalabalık gösterir.", "isCorrect": false},
+        {"text": "Sınır yoktur.", "rationale": "Bardaklarda da sınır vardır.", "isCorrect": false}
+      ],
+      "hint": "Sağ taraftaki takım sayısının maksimum limiti ile aynıdır."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Aşağıdakilerden hangisi 'Basit Kuver' malzemeleri arasında yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Molton ve masa örtüsü", "rationale": "Basit kuverin zeminidir.", "isCorrect": false},
+        {"text": "Büyük boy çatal, kaşık ve bıçak", "rationale": "Temel yeme araçlarıdır.", "isCorrect": false},
+        {"text": "Havyar takımı", "rationale": "Bu özel bir servis takımıdır, basit kuverde bulunmaz.", "isCorrect": true},
+        {"text": "Su bardağı", "rationale": "Zorunlu içecek kabıdır.", "isCorrect": false},
+        {"text": "Tuz ve biberlik", "rationale": "Basit menaj ürünüdür, kuverde hazır bulunur.", "isCorrect": false}
+      ],
+      "hint": "Lüks ve özel bir menüye ait olan seçeneği bulun."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Basit kuver hazırlığında masaya doğrudan bırakılan, diğer takımların ise misafir isterse getirildiği baharat seti nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Ketçap ve Hardal", "rationale": "Masada standart bırakılmaz.", "isCorrect": false},
+        {"text": "Soya Sosu", "rationale": "Özel menü sosudur.", "isCorrect": false},
+        {"text": "Tuzluk ve Biberlik", "rationale": "Her masada temel tatlandırıcı olarak hazır bırakılır.", "isCorrect": true},
+        {"text": "Zeytinyağı ve Sirke", "rationale": "Lüks veya özellikli restoranlarda önden konabilir ama basit kuver standardı tuz ve biberdir.", "isCorrect": false},
+        {"text": "Acı Sos", "rationale": "Müşteri isteğine bağlıdır.", "isCorrect": false}
+      ],
+      "hint": "En temel siyah ve beyaz baharat ikilisi."
+    },
+    {
+      "questionNumber": 26,
+      "question": "1950'li yıllarda peçetelerin sanatsal katlanmasından vazgeçilip jelatinle sunulmasının sebebi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Jelatinin daha ucuz olması", "rationale": "Maliyetle ilgili değildir.", "isCorrect": false},
+        {"text": "Sağlık (hijyen) açısından sakıncalı olabileceği görüşü", "rationale": "Personelin peçeteye çok dokunması hijyenik bulunmamıştır.", "isCorrect": true},
+        {"text": "Sanatsal katlamayı bilen personel kalmaması", "rationale": "Personel yeteneğiyle ilgisi yoktur.", "isCorrect": false},
+        {"text": "Masa örtülerine zarar vermesi", "rationale": "Yanlış ifadedir.", "isCorrect": false},
+        {"text": "Kağıt peçete kullanımına geçilmesi", "rationale": "Kumaş peçeteler jelatinlenmiştir.", "isCorrect": false}
+      ],
+      "hint": "Elle temasın yaratabileceği mikrobiyal endişeleri düşünün."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Peçete katlamanın yeniden moda haline geldiği dönem hangi yıllardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1960'lar", "rationale": "Yanlış dönem.", "isCorrect": false},
+        {"text": "1970'ler", "rationale": "Yanlış dönem.", "isCorrect": false},
+        {"text": "1980'li yıllardan itibaren", "rationale": "Metne göre 1980'lerde sanat tekrar masalara dönmüştür.", "isCorrect": true},
+        {"text": "2000'li yıllar", "rationale": "Daha geç bir tarihtir.", "isCorrect": false},
+        {"text": "Hiçbir zaman tekrar moda olmamıştır.", "rationale": "Günümüzde hala uygulanmaktadır.", "isCorrect": false}
+      ],
+      "hint": "Disko çağının bitişi ve lüks tüketimin arttığı on yıllık dönem."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Aşağıdakilerden hangisi 'Özel Servis Takımları' kategorisinde yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Istakoz pensi ve çatalı", "rationale": "Özel takımdır.", "isCorrect": false},
+        {"text": "Salyangoz takımı", "rationale": "Özel takımdır.", "isCorrect": false},
+        {"text": "Kuşkonmaz maşası", "rationale": "Özel takımdır.", "isCorrect": false},
+        {"text": "Havyar takımı", "rationale": "Özel takımdır.", "isCorrect": false},
+        {"text": "Çorba kaşığı", "rationale": "Çorba kaşığı basit kuverin standart ve temel bir parçasıdır, özel takım değildir.", "isCorrect": true}
+      ],
+      "hint": "Herkesin evinde bulunan, günlük bir yeme aracını bulun."
+    },
+    {
+      "questionNumber": 29,
+      "question": "De Luxe restoranlarda uygulanan, misafirin yemeğini tabağına kendisinin aldığı servis şekli hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Rus Servisi", "rationale": "Rus servisi gösterişlidir ama misafir kendi almaz.", "isCorrect": false},
+        {"text": "İngiliz Servisi", "rationale": "Garson masada porsiyonlar.", "isCorrect": false},
+        {"text": "Fransız Servisi", "rationale": "Kendi yemeklerini kendileri alma mantığına dayanan elit servis türüdür.", "isCorrect": true},
+        {"text": "Amerikan Servisi", "rationale": "Tabak mutfakta hazırlanır gelir.", "isCorrect": false},
+        {"text": "Türk Usulü Servis", "rationale": "Başlangıçlar ortadan alınır ama genel De Luxe tanımı Fransız servisi içindir.", "isCorrect": false}
+      ],
+      "hint": "Mutfak kültürüyle övünen, 'Silver Service' olarak da bilinen yöntem."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Fransız servisinin dünya gastronomisindeki diğer bilinen (İngilizce) adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Golden service", "rationale": "Yanlış isimlendirme.", "isCorrect": false},
+        {"text": "Bronze service", "rationale": "Yanlış isimlendirme.", "isCorrect": false},
+        {"text": "Silver service", "rationale": "Metinde Fransız servisinin dünyada 'silver service' olarak bilindiği geçer.", "isCorrect": true},
+        {"text": "Diamond service", "rationale": "Yanlış isimlendirme.", "isCorrect": false},
+        {"text": "Royal service", "rationale": "Yanlış isimlendirme.", "isCorrect": false}
+      ],
+      "hint": "Gümüş kelimesinin İngilizce karşılığını içerir."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Fransız servisinde su servisinden hemen sonra mideyi alıştırmak için ilk ne servis edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Çorba (Konsome)", "rationale": "Sonraki aşamadır.", "isCorrect": false},
+        {"text": "Tereyağı ve kızarmış ekmek", "rationale": "Misafiri yemeğe hazırlayan ve oyalanmasını sağlayan karakteristik Fransız girişidir.", "isCorrect": true},
+        {"text": "Havyar", "rationale": "Özel bir sipariştir.", "isCorrect": false},
+        {"text": "Zeytinyağı ve zeytin", "rationale": "Daha çok Akdeniz/Türk usulü atıştırmalıktır.", "isCorrect": false},
+        {"text": "Peynir tabağı", "rationale": "Genellikle yemek sonrasıdır.", "isCorrect": false}
+      ],
+      "hint": "Sıcak bir karbonhidrat ve eriyen bir hayvansal yağ."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Fransız servisinde servis personeli yemeği misafire sunarken kayığın içindeki maşalar nasıl durmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sapları misafire doğru olarak ters şekilde", "rationale": "Misafirin yemeği kendisinin alabilmesi için maşanın sapı konuğa bakmalıdır.", "isCorrect": true},
+        {"text": "Sapları garsona doğru olarak", "rationale": "Garson servis yapmayacağı için yanlıştır.", "isCorrect": false},
+        {"text": "Maşalar yemeğin yanına masaya bırakılır", "rationale": "Hijyenik ve pratik değildir.", "isCorrect": false},
+        {"text": "Maşalar yemeğin altına saklanır", "rationale": "Kullanımı engeller.", "isCorrect": false},
+        {"text": "Sadece kaşık kullanılır, maşa kullanılmaz", "rationale": "Metne göre maşa bulundurulur.", "isCorrect": false}
+      ],
+      "hint": "Kişinin aracı kolayca kavrayabilmesi için sapın yönünü düşünün."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Fransız servisinde masanın etrafında yemek servisi hangi yönde ilerler?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Saat yönünün tersine", "rationale": "Yanlış yöndür.", "isCorrect": false},
+        {"text": "Rastgele, misafir isteğine göre", "rationale": "Kuralsızdır.", "isCorrect": false},
+        {"text": "Saat yönünde", "rationale": "Standart servis ilerleyiş yönü metinde saat yönü olarak belirtilmiştir.", "isCorrect": true},
+        {"text": "Sadece sağdan sola", "rationale": "Eksik ifadedir.", "isCorrect": false},
+        {"text": "Önce yaşlılardan başlanarak zikzak çizilir", "rationale": "Zikzak çizmek servisi aksatır.", "isCorrect": false}
+      ],
+      "hint": "Akrep ve yelkovanın ilerleyişi gibidir."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Lüks restoranlarda yemekleri mutfaktan salona taşıyan komi pozisyonundaki personele ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Chef de Rang", "rationale": "Ana yemeği sunan şeftir.", "isCorrect": false},
+        {"text": "Demi Chef de Rang", "rationale": "Sosları servis eden yardımcı şeftir.", "isCorrect": false},
+        {"text": "Commis de Rang", "rationale": "Metne göre yemekleri salona getiren taşıyıcı personeldir.", "isCorrect": true},
+        {"text": "Head Waiter", "rationale": "Oda servis veya salon şefidir.", "isCorrect": false},
+        {"text": "Order taker", "rationale": "Sipariş alan kişidir.", "isCorrect": false}
+      ],
+      "hint": "Komi kelimesinin Fransızca kökenli yazılışını içerir."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Konsomenin (berrak çorba) servis edilmek üzere içine koyulduğu büyük porselen kaba ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Closh", "rationale": "Tabağın üzerini kapatan kapaktır.", "isCorrect": false},
+        {"text": "Reşo", "rationale": "Isıtıcıdır.", "isCorrect": false},
+        {"text": "Tureen", "rationale": "Çorba servisinde kullanılan özel porselen kabın adıdır.", "isCorrect": true},
+        {"text": "Molton", "rationale": "Örtü altlığıdır.", "isCorrect": false},
+        {"text": "Gueridon", "rationale": "Servis arabasıdır.", "isCorrect": false}
+      ],
+      "hint": "Genellikle kapaklı ve kulplu, derin bir kâse çeşididir."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Fransız çorba servisinde, kendisi çorbayı almak istemeyen kimlere servis personeli özel olarak servis yapar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece kadınlara", "rationale": "Cinsiyet ayrımı belirtilmemiştir.", "isCorrect": false},
+        {"text": "Sadece hesap ödeyen kişiye", "rationale": "Yanlış bir kuraldır.", "isCorrect": false},
+        {"text": "Çocuklara ve yaşlılara", "rationale": "Dökülme riskine karşı yardıma ihtiyacı olan gruplardır.", "isCorrect": true},
+        {"text": "Sadece gençlere", "rationale": "Tam tersi yardıma ihtiyaç duymayan gruptur.", "isCorrect": false},
+        {"text": "Hiç kimseye yardım edilmez", "rationale": "İstisnai durumlar mevcuttur.", "isCorrect": false}
+      ],
+      "hint": "Fiziksel becerileri kısıtlı olabilecek iki yaş grubudur."
+    },
+    {
+      "questionNumber": 37,
+      "question": "İngiliz servisinin çıkış noktası (temeli) aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kraliyet ailesinin hızlı yemek yeme isteği", "rationale": "Yanlış bir varsayımdır.", "isCorrect": false},
+        {"text": "Aile reisinin yemekleri hane halkına paylaştırması", "rationale": "İngiliz aile kültüründen gelen paylaştırma geleneği bu servisin temelidir.", "isCorrect": true},
+        {"text": "Savaş dönemindeki kıtlık nedeniyle porsiyonlama yapılması", "rationale": "Metinde böyle bir tarihi bilgi yoktur.", "isCorrect": false},
+        {"text": "İngiliz garsonlarının mutfağa girmesinin yasak olması", "rationale": "Yanlış bir ifadedir.", "isCorrect": false},
+        {"text": "Gösteriş amaçlı kılıçla kesim yapılması", "rationale": "Gösteriş daha çok Rus servisinde vardır.", "isCorrect": false}
+      ],
+      "hint": "Evdeki babanın veya liderin masadakilere yemeği dağıtma adeti."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Mutfakta bütün halde hazırlanan yemeklerin salonda 'gueridon' üzerinde tabaklanarak misafire sunulduğu servis hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Rus Servisi", "rationale": "Gueridonda tabaklama İngiliz servisine aittir.", "isCorrect": false},
+        {"text": "Fransız Servisi", "rationale": "Misafir tabağına yemeği kendi alır.", "isCorrect": false},
+        {"text": "Amerikan Servisi", "rationale": "Tabaklar mutfakta hazırlanır.", "isCorrect": false},
+        {"text": "İngiliz Servisi", "rationale": "Gueridonda (servis masası) porsiyonlama İngiliz servisinin belirgin özelliğidir.", "isCorrect": true},
+        {"text": "Oda Servisi", "rationale": "Tepsi veya arabayla hazır gider.", "isCorrect": false}
+      ],
+      "hint": "Paylaştırma mantığına dayanan servis türü."
+    },
+    {
+      "questionNumber": 39,
+      "question": "İngiliz servisinde yemeği gueridon üzerinde tabağa yerleştirirken uygulanan kurallardan hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Karbonhidratlı garnitürler misafire en yakın yere konur.", "rationale": "Misafire yakın olan ana yemektir.", "isCorrect": false},
+        {"text": "Ana yemek misafire yakın, karbonhidrat karşıda, iri sebze sağda, küçük sebze solda yer alır.", "rationale": "İngiliz servisinde tabağın nizami yerleşim kuralı tam olarak budur.", "isCorrect": true},
+        {"text": "Bütün sebzeler karışık olarak etin üzerine dökülür.", "rationale": "Göze hoş gelmez, kurallara aykırıdır.", "isCorrect": false},
+        {"text": "Küçük taneli sebzeler sağda, büyükler solda olmalıdır.", "rationale": "Metindeki kuralın tam tersidir.", "isCorrect": false},
+        {"text": "Sadece et tabağa konur, garnitür ayrı kasede verilir.", "rationale": "Hepsi aynı tabağa yerleştirilir.", "isCorrect": false}
+      ],
+      "hint": "Tabağın saat yönlerine göre belirli gıdalarla doldurulması şablonu."
+    },
+    {
+      "questionNumber": 40,
+      "question": "İngiliz servisi yapılırken servis personelinin masada birbirleriyle çakışmaması için aralarında en az kaç konuk olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "En az bir konuk", "rationale": "Yeterli mesafe sağlamaz.", "isCorrect": false},
+        {"text": "En az iki konuk", "rationale": "Çarpışmayı önlemek ve rahat çalışmak için metinde belirtilen kuraldır.", "isCorrect": true},
+        {"text": "En az üç konuk", "rationale": "Gereğinden fazla bir mesafedir.", "isCorrect": false},
+        {"text": "Aralarında mesafe bırakmaya gerek yoktur", "rationale": "Kazalara yol açabilir.", "isCorrect": false},
+        {"text": "Aynı anda iki personel servis yapamaz", "rationale": "Büyük masalarda yapabilirler.", "isCorrect": false}
+      ],
+      "hint": "İki sandalyelik bir güvenlik boşluğu."
+    },
+    {
+      "questionNumber": 41,
+      "question": "İngiliz usulü çorba servisinde tureen gueridonun neresinde yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sol tarafında", "rationale": "Sol tarafta sıcak kaseler durur.", "isCorrect": false},
+        {"text": "Sağ tarafında", "rationale": "Tureen (çorba kabı) gueridonun sağ tarafında yer alır.", "isCorrect": true},
+        {"text": "Tam ortasında", "rationale": "Orta alan çalışmak (kepçe kullanımı) içindir.", "isCorrect": false},
+        {"text": "Gueridonda yer almaz, masaya konur", "rationale": "İngiliz servisinde gueridon kullanılır.", "isCorrect": false},
+        {"text": "Reşonun altında saklanır", "rationale": "Görünür olmalıdır.", "isCorrect": false}
+      ],
+      "hint": "Kepçeyi genelde sağ elinizle tutarsınız, kap da o taraftadır."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Karakteristik özelliği yemeklerin önceden güzelce dekore edilerek masaya yerleştirilmesi olan ve 'gösterişin' ön planda olduğu servis şekli hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Amerikan Servisi", "rationale": "Gösterişsiz ve hızlıdır.", "isCorrect": false},
+        {"text": "Rus Servisi", "rationale": "Saraydan çıktığı için yabancı misafirlere zenginliği empoze etmeyi amaçlayan gösterişli servistir.", "isCorrect": true},
+        {"text": "Fransız Servisi", "rationale": "Kendi yemeğini kendi alma felsefesidir.", "isCorrect": false},
+        {"text": "İngiliz Servisi", "rationale": "Ailesel paylaştırma felsefesidir.", "isCorrect": false},
+        {"text": "Oda Servisi", "rationale": "Odalara özeldir.", "isCorrect": false}
+      ],
+      "hint": "Çarların ve sarayların şatafatlı ziyafetlerini düşünün."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Rus servisinde sıcak yemekler salona nasıl getirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sessizce ve hızlıca", "rationale": "Rus servisi yavaş ve şov amaçlıdır.", "isCorrect": false},
+        {"text": "Kapaklı tabaklarda (closh) gizlenerek", "rationale": "Gösterişli sunuma aykırıdır.", "isCorrect": false},
+        {"text": "Orkestra eşliğinde tüm misafirlere gösterilerek", "rationale": "Zenginliği ve ihtişamı vurgulamak için şov yapılarak getirilir.", "isCorrect": true},
+        {"text": "Sadece servis arabasıyla", "rationale": "Eksik bir ifadedir.", "isCorrect": false},
+        {"text": "Misafirler mutfağa giderek alır", "rationale": "Hiçbir lüks servis türünde yoktur.", "isCorrect": false}
+      ],
+      "hint": "Müzikli ve görsel bir şölen eşliğinde."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Başlangıç yemeklerinin masadaki kişi sayısına göre tabaklarda veya kayıklarda getirilip masaya bırakıldığı servis şekli hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Türk Usulü Servis", "rationale": "Mezelerin ve başlangıçların ortaya konduğu geleneksel kültürümüze ait servistir.", "isCorrect": true},
+        {"text": "Fransız Servisi", "rationale": "Benzerlik gösterse de adlandırma Türk usulüdür.", "isCorrect": false},
+        {"text": "Amerikan Servisi", "rationale": "Herkesin kendi tabağı mutfaktan gelir.", "isCorrect": false},
+        {"text": "İngiliz Servisi", "rationale": "Garson porsiyonlar.", "isCorrect": false},
+        {"text": "Rus Servisi", "rationale": "Sıcak yemek sunumu farklıdır.", "isCorrect": false}
+      ],
+      "hint": "Meyhanelerde veya geleneksel ziyafetlerde mezelerin ortaya dizilmesi mantığıdır."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Türk usulü servisin servis personelini zorlayan en büyük dezavantajı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Tabakların çok ağır olması", "rationale": "Bu fiziksel bir zorluktur, yönetimsel değil.", "isCorrect": false},
+        {"text": "Müzik sesinden siparişlerin duyulmaması", "rationale": "Rus servisinde orkestra vardır.", "isCorrect": false},
+        {"text": "Başlangıçlar masada kaldığı için ana yemeğin ne zaman marşlanacağının bilinememesi", "rationale": "Misafirlerin başlangıçları yeme hızı değiştiği için zamanlama sorunu yaratır.", "isCorrect": true},
+        {"text": "Gueridon kullanımının çok zor olması", "rationale": "Gueridon ağırlıklı kullanılmaz.", "isCorrect": false},
+        {"text": "Misafirlerin kendi servislerini yapamaması", "rationale": "Tam tersine kendileri alırlar.", "isCorrect": false}
+      ],
+      "hint": "Sıcak yemeğin mutfakta pişme emrinin zamanlaması ile ilgilidir."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Türk usulü serviste ana yemek zamanlaması problemini çözmek için uygulanacak en garanti yöntem nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Saat tutarak standart 30 dakika beklemek", "rationale": "Her masanın yeme hızı farklıdır.", "isCorrect": false},
+        {"text": "Misafirle sürekli irtibat halinde olup onayını almak", "rationale": "İletişim kurarak zamanlamayı yönetmek en profesyonel çözümdür.", "isCorrect": true},
+        {"text": "Ana yemeği iptal etmek", "rationale": "Müşteri memnuniyetsizliği yaratır.", "isCorrect": false},
+        {"text": "Başlangıçları zorla masadan toplamak", "rationale": "Kaba bir davranıştır.", "isCorrect": false},
+        {"text": "Mutfak şefinin kararına bırakmak", "rationale": "Salonun durumunu şef bilemez.", "isCorrect": false}
+      ],
+      "hint": "İletişim kurmak ve teyit almak."
+    },
+    {
+      "questionNumber": 47,
+      "question": "İkinci Dünya Savaşı'ndan sonra dünyaya yayılan, iş hayatının hızlanmasıyla popüler olan hızlı servis şekli hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Amerikan Servisi", "rationale": "Mutfaktan tabağın hazır gelmesi sayesinde çok hızlı bir servistir.", "isCorrect": true},
+        {"text": "Fransız Servisi", "rationale": "Yavaştır.", "isCorrect": false},
+        {"text": "İngiliz Servisi", "rationale": "Tabaklama zaman alır.", "isCorrect": false},
+        {"text": "Rus Servisi", "rationale": "Şovlar nedeniyle çok yavaştır.", "isCorrect": false},
+        {"text": "Türk Usulü", "rationale": "Uzun oturulan sofralar içindir.", "isCorrect": false}
+      ],
+      "hint": "Fast-food kültürünü de yaratan ülkenin adını taşıyan servistir."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Amerikan servisi için aşağıdakilerden hangisi yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Çok donanımlı personele ihtiyaç duymaz.", "rationale": "Doğrudur, tabak taşıma ağırlıklıdır.", "isCorrect": false},
+        {"text": "Diğer servislere göre daha hızlı gerçekleşir.", "rationale": "Mutfakta hazırlandığı için hızlıdır.", "isCorrect": false},
+        {"text": "Masaya atılan kuver daha basittir.", "rationale": "Doğrudur, az parça kullanılır.", "isCorrect": false},
+        {"text": "Yemekler salonda gueridon üzerinde tabaklanır.", "rationale": "Gueridon kullanılmaz, her şey mutfakta tabaklanıp gelir.", "isCorrect": true},
+        {"text": "Amacı insanların hemen işlerine dönmelerine olanak sağlamaktır.", "rationale": "Pratikliğinin temel amacı budur.", "isCorrect": false}
+      ],
+      "hint": "Bu serviste masanın yanında seyyar bir istasyon kurulmasına gerek yoktur."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Hızlı bir servis amaçlandığı için orijinal Amerikan kuverinde bulunup da ülkemizde genelde bulunmayan malzeme nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kahve servisi için gerekli malzemeler", "rationale": "Amerikalılar yemeğin hemen ardına veya yemeğe eşlik eden kahve tükettiklerinden set-upta fincan bulunur.", "isCorrect": true},
+        {"text": "Su bardağı", "rationale": "Her yerde vardır.", "isCorrect": false},
+        {"text": "Tatlı kaşığı", "rationale": "Türkiye'de de kullanılır.", "isCorrect": false},
+        {"text": "Tuzluk", "rationale": "Temel menajdır.", "isCorrect": false},
+        {"text": "Ekmek tabağı", "rationale": "Her kültürde yeri vardır.", "isCorrect": false}
+      ],
+      "hint": "Sabah uyanınca sıkça tüketilen kafeinli sıcak içecek takımı."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Tepsileri taşımak için salona getirilen ve tepsi bırakıldıktan sonra tekrar salondan çıkartılan portatif eşyalara ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Gueridon", "rationale": "Sabit servis sehpasıdır.", "isCorrect": false},
+        {"text": "Reşo", "rationale": "Isıtıcıdır.", "isCorrect": false},
+        {"text": "Tray Jack", "rationale": "Amerikan servisinde kullanılan, katlanabilir 'tepsi eşeği' olarak bilinen aparattır.", "isCorrect": true},
+        {"text": "Closh", "rationale": "Tabak kapağıdır.", "isCorrect": false},
+        {"text": "Tureen", "rationale": "Çorba kabıdır.", "isCorrect": false}
+      ],
+      "hint": "İngilizce 'tepsi' (tray) kelimesiyle başlar."
+    },
+    {
+      "questionNumber": 51,
+      "question": "Amerikan servisinde masaya getirilen tabakların üzerinde 'Closh' (kapak) varsa, servis misafirin hangi yönünden yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sağdan", "rationale": "Closh yoksa sağdan yapılır.", "isCorrect": false},
+        {"text": "Soldan", "rationale": "Metne göre tabaklarda closh (kapak) varsa servis misafirin solundan yapılır.", "isCorrect": true},
+        {"text": "Karşıdan", "rationale": "Yanlış bir servis yönüdür.", "isCorrect": false},
+        {"text": "Misafir tabağı kendisi alır", "rationale": "Bu Fransız servisinde geçerlidir.", "isCorrect": false},
+        {"text": "Fark etmez", "rationale": "Standart bir kuralı vardır.", "isCorrect": false}
+      ],
+      "hint": "Kapağı açarken misafiri rahatsız etmemek adına kapaklı sunumlarda kullanılan yön."
+    },
+    {
+      "questionNumber": 52,
+      "question": "Amerikan servisinde tabaklarda 'Closh' yoksa servis hangi yönden yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Soldan", "rationale": "Closh varsa soldan yapılır.", "isCorrect": false},
+        {"text": "Sağdan", "rationale": "Tabaklar kapaksızsa (closh yoksa) standart olarak misafirin sağından servis edilir.", "isCorrect": true},
+        {"text": "Baştan", "rationale": "Yanlış yöndür.", "isCorrect": false},
+        {"text": "Misafir nereden isterse", "rationale": "Kurallara aykırıdır.", "isCorrect": false},
+        {"text": "Gueridon üzerinden", "rationale": "Amerikan servisinde gueridon kullanılmaz.", "isCorrect": false}
+      ],
+      "hint": "İçecek servisiyle aynı taraftan yapılır."
+    },
+    {
+      "questionNumber": 53,
+      "question": "Amerikan servisinde boş tabaklar toplanırken hangi kurala uyulur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sol taraftan sağ kol üzerine alınır.", "rationale": "Yön ve kol yanlıştır.", "isCorrect": false},
+        {"text": "Sağ taraftan sol kol üzerine alınır.", "rationale": "Metinde tabakların sağ taraftan sol kol üzerine koyulmak suretiyle toplandığı belirtilmiştir.", "isCorrect": true},
+        {"text": "İki el kullanılarak kucaklanır.", "rationale": "Profesyonel değildir.", "isCorrect": false},
+        {"text": "Tepsi ile masanın ortasından toplanır.", "rationale": "Boşlar masa ortasında birleştirilmez.", "isCorrect": false},
+        {"text": "Müşteri tabağı garsona uzatır.", "rationale": "Müşteriye iş yaptırılmaz.", "isCorrect": false}
+      ],
+      "hint": "Toplama işlemi genelde sağ taraftan başlar ve boşta kalan sol kola istiflenir."
+    },
+    {
+      "questionNumber": 54,
+      "question": "Boşları toplarken garsonun tabakları aldıktan sonra masadan biraz geri çekilmesinin nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Dengede durabilmek için.", "rationale": "Sebep fiziksel denge değildir.", "isCorrect": false},
+        {"text": "Diğer garsonlara yol vermek için.", "rationale": "Asıl amaç bu değildir.", "isCorrect": false},
+        {"text": "Misafirle göz teması kurmamak için.", "rationale": "Yanlış bir ifadedir.", "isCorrect": false},
+        {"text": "Tabağın sıyrılması sırasında misafiri rahatsız etmemek için.", "rationale": "Artıkları sıyırma işlemi göze ve mideye hitap etmediği için bir adım geride yapılır.", "isCorrect": true},
+        {"text": "Bahşiş beklediğini belli etmek için.", "rationale": "Tamamen yanlıştır.", "isCorrect": false}
+      ],
+      "hint": "Yemek artıklarının misafirin burnunun dibinde toplanmasının hoş bir görüntü olmamasını düşünün."
+    },
+    {
+      "questionNumber": 55,
+      "question": "Amerikan usulü serviste salon ile mutfağın birbirine yakın olması neden çok önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Maliyetleri düşürmek için.", "rationale": "Doğrudan maliyetle ilgili değildir.", "isCorrect": false},
+        {"text": "Hazırlanan tabakları çok kısa sürede masaya ulaştırmak ve yemeği soğutmamak için.", "rationale": "Tüm tabaklamanın mutfakta yapılıp getirilmesi hız gerektirdiğinden aradaki mesafenin kısa olması şarttır.", "isCorrect": true},
+        {"text": "Personelin mutfakta dinlenebilmesi için.", "rationale": "Personel dinlenmesi için değildir.", "isCorrect": false},
+        {"text": "Misafirlerin mutfağı görebilmesi için.", "rationale": "Böyle bir amaç belirtilmemiştir.", "isCorrect": false},
+        {"text": "Müzik sesinin mutfağa ulaşması için.", "rationale": "Yanlış bir ifadedir.", "isCorrect": false}
+      ],
+      "hint": "Sıcak yemeğin mutfaktan çıkıp misafirin önüne gelene kadar geçirdiği süreyi düşünün."
+    },
+    {
+      "questionNumber": 56,
+      "question": "Metne göre aşağıdakilerden hangisi Amerikan servisinin önemli bir özelliğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Masa yanında 'gueridon' (masa servantı) kullanılması.", "rationale": "Amerikan servisinde kullanılmaz.", "isCorrect": false},
+        {"text": "Gösterişin ön planda olması.", "rationale": "Rus servisine aittir.", "isCorrect": false},
+        {"text": "Misafirin yemeğini kendisinin alması.", "rationale": "Fransız servisine aittir.", "isCorrect": false},
+        {"text": "Masaya yakın konuşlanmış bir servis masasına (gueridon) ihtiyaç duyulmaması.", "rationale": "Mutfakta tamamen hazırlanan tabaklar direkt masaya geldiği için gueridona ihtiyaç yoktur.", "isCorrect": true},
+        {"text": "Sadece akşam yemeklerinde uygulanması.", "rationale": "Her öğün uygulanabilir.", "isCorrect": false}
+      ],
+      "hint": "Salonda ekstra bir çalışma istasyonuna yer ayrılmaz."
+    },
+    {
+      "questionNumber": 57,
+      "question": "İşletmede restoran varken bazıları tarafından lüzumsuz görünse de, metne göre 'Oda Servisi'nin vazgeçilmez olmasının temel nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Çok yüksek kar marjı sağlaması.", "rationale": "Metne göre oda servisinin kar marjı düşüktür.", "isCorrect": false},
+        {"text": "Hasta, yaşlı veya dini inançlarından dolayı toplum içinde yemek istemeyen konukların varlığı.", "rationale": "Özel duruma sahip konuklar için odaya hizmet götürmek otelcilikte vazgeçilmezdir.", "isCorrect": true},
+        {"text": "Otel personelinin antrenman yapmasını sağlaması.", "rationale": "Yanlış bir ifadedir.", "isCorrect": false},
+        {"text": "Restorandaki yoğunluğu azaltmak için uydurulmuş olması.", "rationale": "Tamamlayıcıdır ama temel sebebi bu değildir.", "isCorrect": false},
+        {"text": "Daha ucuza yemek sunabilmek.", "rationale": "Oda servisi daha pahalıdır.", "isCorrect": false}
+      ],
+      "hint": "Ortak alanlarda yemek yiyemeyecek veya yemek istemeyecek durumdaki misafirleri düşünün."
+    },
+    {
+      "questionNumber": 58,
+      "question": "Oda servisinde çalışan personelin diğer servis personellerinden ayrılan en önemli farkı ne olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Daha genç olmaları.", "rationale": "Yaşla doğrudan ilgisi metinde bu şekilde vurgulanmaz.", "isCorrect": false},
+        {"text": "Sadece yabancı dil bilmeleri.", "rationale": "Dil önemlidir ancak ana ayırt edici fark bu değildir.", "isCorrect": false},
+        {"text": "Daha deneyimli ve daha güvenilir olmaları.", "rationale": "Oda gibi mahrem bir alanda tek başlarına çalıştıkları için deneyim ve güvenilirlik şarttır.", "isCorrect": true},
+        {"text": "Mutfak eğitimi almış olmaları.", "rationale": "Mutfak eğitimi şart değildir.", "isCorrect": false},
+        {"text": "Sadece erkeklerden oluşmaları.", "rationale": "Böyle bir kural yoktur.", "isCorrect": false}
+      ],
+      "hint": "Müşterinin özel ve kilitli alanına (odasına) girebilen kişide aranan ilk özellik."
+    },
+    {
+      "questionNumber": 59,
+      "question": "Oda servisi departmanının çalışma saatleri ve vardiya sistemi nasıldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece akşamları çalışır, 1 vardiyadır.", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sabah ve akşam olmak üzere 2 vardiyadır.", "rationale": "Eksiktir.", "isCorrect": false},
+        {"text": "24 saat hizmet verir ve 3 vardiya halinde çalışılır.", "rationale": "Misafirin her an ihtiyacı olabileceği için 24 saat aktif olan 3 vardiyalı bir bölümdür.", "isCorrect": true},
+        {"text": "Sadece kahvaltıda çalışır.", "rationale": "En çok kahvaltıda çalışsa da diğer öğünlerde de açıktır.", "isCorrect": false},
+        {"text": "Gece yarısından sabaha kadar kapalıdır.", "rationale": "24 saat hizmet verir.", "isCorrect": false}
+      ],
+      "hint": "Bir otelde misafir gece yarısı da acıkabilir."
+    },
+    {
+      "questionNumber": 60,
+      "question": "Oda servisinin en yoğun çalıştığı öğün hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Öğle yemeği", "rationale": "Misafirler genelde otel dışındadır.", "isCorrect": false},
+        {"text": "Akşam yemeği", "rationale": "Akşam yemeği restoranlarda tercih edilir.", "isCorrect": false},
+        {"text": "Gece yarısı atıştırması", "rationale": "Yoğundur ama en yoğun değildir.", "isCorrect": false},
+        {"text": "İkindi çayı", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Kahvaltı saatleri", "rationale": "Konuklar genellikle uyanır uyanmaz odalarına kahvaltı istedikleri için en yoğun vakittir.", "isCorrect": true}
+      ],
+      "hint": "Günün ilk öğünü."
+    },
+    {
+      "questionNumber": 61,
+      "question": "Kahvaltı saatlerindeki yoğunluk sebebiyle otel yönetimi tarafından oda servisine özel olarak ne tahsis edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Ekstra bahşiş", "rationale": "Yönetim bahşiş tahsis etmez.", "isCorrect": false},
+        {"text": "Özel otopark alanı", "rationale": "Servisle ilgisi yoktur.", "isCorrect": false},
+        {"text": "Servis asansörleri", "rationale": "Hızlı hareket edebilmeleri için servis asansörleri kahvaltı saatinde bu bölüme tahsis edilir.", "isCorrect": true},
+        {"text": "Yeni mutfak şefleri", "rationale": "Personel tahsisi değil altyapı tahsisidir.", "isCorrect": false},
+        {"text": "Golf arabaları", "rationale": "Otel içi servis asansörle yapılır.", "isCorrect": false}
+      ],
+      "hint": "Katlar arası hızlı ulaşım aracı."
+    },
+    {
+      "questionNumber": 62,
+      "question": "Oda servisindeki fiyatlandırma ve kâr oranı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Fiyatlar diğer departmanlara göre ucuzdur, kâr oranı yüksektir.", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fiyatlar aynıdır, kâr oranı aynıdır.", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fiyatlar diğer departmanlara göre daha pahalıdır, buna rağmen kâr oranı düşüktür.", "rationale": "Odaya hizmet götürmenin operasyonel maliyeti (zaman, tepsi, porsiyonlama) kârı düşürür.", "isCorrect": true},
+        {"text": "Fiyatlar pahalıdır, kâr oranı işletmedeki en yüksek orandır.", "rationale": "Kâr oranı düşüktür.", "isCorrect": false},
+        {"text": "Fiyatlar ucuzdur, kâr oranı da düşüktür.", "rationale": "Fiyatlar ucuz değildir.", "isCorrect": false}
+      ],
+      "hint": "Hizmet bedeli eklenmesine rağmen operasyonel maliyetin çok olduğu bir sistemdir."
+    },
+    {
+      "questionNumber": 63,
+      "question": "Oda Servis Şefi (Head Waiter) kime karşı sorumludur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Resepsiyon Müdürüne", "rationale": "Departmanlar farklıdır.", "isCorrect": false},
+        {"text": "Kat Hizmetleri (Housekeeping) Müdürüne", "rationale": "Odalarla ilgili olsa da F&B departmanına bağlıdır.", "isCorrect": false},
+        {"text": "Yiyecek ve İçecek (F&B) Müdürüne", "rationale": "Oda servisi bir yeme-içme ünitesi olduğundan F&B Müdürüne bağlı çalışır.", "isCorrect": true},
+        {"text": "Genel Müdüre", "rationale": "Doğrudan genel müdüre bağlı değildir, arada F&B müdürü vardır.", "isCorrect": false},
+        {"text": "Müşteri İlişkileri Müdürüne", "rationale": "Yanlıştır.", "isCorrect": false}
+      ],
+      "hint": "Departmanın en üst düzey yiyecek/içecek yöneticisi."
+    },
+    {
+      "questionNumber": 64,
+      "question": "Oda Servis Şefi (Head Waiter) genellikle hangi vardiyada görev yapar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Gece vardiyasında", "rationale": "Gece asıl şef bulunmaz.", "isCorrect": false},
+        {"text": "Akşam vardiyasında", "rationale": "Akşam asistanı bulunur.", "isCorrect": false},
+        {"text": "Sabah vardiyasında", "rationale": "En yoğun an olan kahvaltıyı yönetmek ve gündüz düzenini kurmak için genelde sabah çalışır.", "isCorrect": true},
+        {"text": "Sadece hafta sonları", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sadece öğle yemeklerinde", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "İşlerin ve yoğunluğun en çok olduğu, yeni günün başladığı saatler."
+    },
+    {
+      "questionNumber": 65,
+      "question": "Oda servisinin gece vardiyasında yönetimi genellikle kim devralır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Oda Servis Şefi", "rationale": "Sabah çalışır.", "isCorrect": false},
+        {"text": "Asistan Şef", "rationale": "Akşam çalışır.", "isCorrect": false},
+        {"text": "F&B Müdürü", "rationale": "Müdür ofis saatlerinde çalışır.", "isCorrect": false},
+        {"text": "En kıdemli garson", "rationale": "Gece vardiyasında yönetici pozisyonunu departmandaki en kıdemli garson üstlenir.", "isCorrect": true},
+        {"text": "Güvenlik amiri", "rationale": "Servisle ilgisi yoktur.", "isCorrect": false}
+      ],
+      "hint": "Yöneticilerin olmadığı saatlerde, tecrübesiyle ekibe liderlik edebilecek kişi."
+    },
+    {
+      "questionNumber": 66,
+      "question": "Oda servisinde yaşanan bir hatanın veya eksikliğin diğer restoranlara göre en büyük dezavantajı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Müşterinin hemen oteli terk etmesi.", "rationale": "Abartılı bir sonuçtur.", "isCorrect": false},
+        {"text": "Hataları düzeltmenin ve eksiklikleri tamamlamanın dakikalar sürmesi.", "rationale": "Oda uzak olduğu için en küçük bir tuzluk eksiğini bile tamamlamak asansör bekleme vs. yüzünden uzun sürer.", "isCorrect": true},
+        {"text": "Personelin maaşından kesilmesi.", "rationale": "Kurumsal bir otelcilik kuralı değildir.", "isCorrect": false},
+        {"text": "Odanın ücretsiz verilmesi.", "rationale": "Her hatada oda ücretsiz verilmez.", "isCorrect": false},
+        {"text": "Hatanın telafisinin imkansız olması.", "rationale": "İmkansız değildir ama çok zaman alır.", "isCorrect": false}
+      ],
+      "hint": "Mutfak ile konuk odası arasındaki fiziksel mesafe."
+    },
+    {
+      "questionNumber": 67,
+      "question": "Metne göre oda servisi personelinde aranması gereken üç temel özellik nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Uzun boylu, yabancı dil bilen, genç", "rationale": "Fiziksel özellik vurgulanmamıştır.", "isCorrect": false},
+        {"text": "Pratik zekalı, dürüst, çalışkan", "rationale": "Zamanla yarışılan, güven gerektiren bu bölümde aranan en temel özelliklerdir.", "isCorrect": true},
+        {"text": "Aşçıbaşı, sessiz, yavaş", "rationale": "Yanlış özellikler.", "isCorrect": false},
+        {"text": "Sertifikalı, tecrübesiz, komik", "rationale": "Tecrübesiz olunmamalıdır.", "isCorrect": false},
+        {"text": "Erkek, evli, yabancı uyruklu", "rationale": "Ayrımcı ve yanlış bir ifadedir.", "isCorrect": false}
+      ],
+      "hint": "Çözüm odaklı, güvenilir ve efor sarf edebilen."
+    },
+    {
+      "questionNumber": 68,
+      "question": "Oda servisi ofisinde telefonla gelen siparişleri alan ve zamanında ulaştırılmasını koordine eden personelin unvanı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Chef D'etage", "rationale": "Odaya servisi götüren garsondur.", "isCorrect": false},
+        {"text": "Order Taker", "rationale": "İngilizce 'Sipariş Alıcı' anlamına gelen bu pozisyon telefon trafiğini ve siparişi yönetir.", "isCorrect": true},
+        {"text": "Commis", "rationale": "Komidir, tepsileri taşır.", "isCorrect": false},
+        {"text": "Head Waiter", "rationale": "Şeftir.", "isCorrect": false},
+        {"text": "Bellboy", "rationale": "Bagajları taşır.", "isCorrect": false}
+      ],
+      "hint": "İngilizce 'sipariş alan' kelimelerinin karşılığıdır."
+    },
+    {
+      "questionNumber": 69,
+      "question": "Aşağıdakilerden hangisi bir 'Order Taker'da aranan özelliklerden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Zamanı iyi kullanmak", "rationale": "Zaman yönetimi siparişler için şarttır.", "isCorrect": false},
+        {"text": "Güzel konuşabilmek", "rationale": "Telefonda ilk intiba için şarttır.", "isCorrect": false},
+        {"text": "En az iki yabancı dil bilmek", "rationale": "Uluslararası otellerde sipariş alabilmek için gereklidir.", "isCorrect": false},
+        {"text": "Yemekleri bizzat pişirebilmek", "rationale": "Aşçı olmadığı için pişirme becerisi aranmaz; sadece hazırlanış süresini bilmesi yeterlidir.", "isCorrect": true},
+        {"text": "İkna kabiliyetine sahip olmak", "rationale": "Satış (up-sell) yapabilmek için ikna kabiliyeti şarttır.", "isCorrect": false}
+      ],
+      "hint": "Bu kişi mutfakta görevli değildir, masa başında iletişim merkezindedir."
+    },
+    {
+      "questionNumber": 70,
+      "question": "Konuk odalarında yiyecek içecek servisini bizzat yapan 'Chef de Rang' ayarındaki servis elemanına oda servisinde ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Order taker", "rationale": "Siparişi alan kişidir.", "isCorrect": false},
+        {"text": "Chef D'etage", "rationale": "Kat garsonu (oda servis garsonu) anlamına gelen terminolojik unvandır.", "isCorrect": true},
+        {"text": "Komi", "rationale": "Tecrübesiz yardımcıdır.", "isCorrect": false},
+        {"text": "Maître d'hôtel", "rationale": "Salon müdürüdür.", "isCorrect": false},
+        {"text": "Sommelier", "rationale": "Şarap uzmanıdır.", "isCorrect": false}
+      ],
+      "hint": "Fransızca 'Kat Şefi' veya 'Kat Garsonu' anlamına gelir."
+    },
+    {
+      "questionNumber": 71,
+      "question": "Oda servisinde çalışan tecrübesiz, genç servis elemanına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Oda Servis Komisi", "rationale": "Metne göre tecrübesiz ve genç olanlar komi pozisyonundadır.", "isCorrect": true},
+        {"text": "Chef D'etage", "rationale": "Tecrübeli garsondur.", "isCorrect": false},
+        {"text": "Head Waiter", "rationale": "Şeftir.", "isCorrect": false},
+        {"text": "Order Taker", "rationale": "Sipariş alıcıdır, tecrübe gerektirir.", "isCorrect": false},
+        {"text": "Housekeeper", "rationale": "Kat temizlik görevlisidir.", "isCorrect": false}
+      ],
+      "hint": "Garsonun çırağı/yardımcısı pozisyonundadır."
+    },
+    {
+      "questionNumber": 72,
+      "question": "Konukların oda servisinden sipariş verme yöntemleri metne göre nelerdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece restorana inerek", "rationale": "Oda servisi odadan sipariş almayı gerektirir.", "isCorrect": false},
+        {"text": "Garsonu koridorda çevirip söyleyerek", "rationale": "Metne göre doğrudan garsona söyleme olanağı yoktur.", "isCorrect": false},
+        {"text": "Sadece televizyon ekranından", "rationale": "Modern olsa da metinde geçen yöntemler bu değildir.", "isCorrect": false},
+        {"text": "Telefonla veya kahvaltı kapı kartıyla (door knob)", "rationale": "Misafirler siparişi telefon arayarak veya gece kapı koluna asılan form ile verirler.", "isCorrect": true},
+        {"text": "Sadece WhatsApp üzerinden", "rationale": "Dokümanda yer almaz.", "isCorrect": false}
+      ],
+      "hint": "Birini tuşlayarak aramak veya kapı koluna bir şey asmak."
+    },
+    {
+      "questionNumber": 73,
+      "question": "Oda servis garsonunun (Chef D'etage) odaya çıktığında karşılaştığı durum aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yanında her zaman bir asistanı bulunur.", "rationale": "Metne göre yalnız çalışır.", "isCorrect": false},
+        {"text": "Tamamen yalnızdır ve kimseden yardım almadan servisi hatasız yapmalıdır.", "rationale": "Oda servisi garsonunun zorluğu, kapı arkasında tek başına mükemmel hizmet vermesidir.", "isCorrect": true},
+        {"text": "Mutfak şefiyle birlikte çıkar.", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Oda servisinde servis sadece kapıdan içeri bırakılır, garson girmez.", "rationale": "Oda içinde uygun masaya servis açılır.", "isCorrect": false},
+        {"text": "Sadece içecek bırakır.", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Kapalı kapılar ardında profesyonelliğini tek başına sergilemek zorundadır."
+    },
+    {
+      "questionNumber": 74,
+      "question": "Telefonda sipariş alınması işlemi bittikten hemen sonra hata oranını sıfıra indirmek için Order Taker ne yapmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Telefonu hemen kapatmalıdır.", "rationale": "Kaba ve risklidir.", "isCorrect": false},
+        {"text": "Kaydedilen siparişleri sözlü olarak tekrarlayıp konuğun onayını almalıdır.", "rationale": "Yanlış anlaşılmaların telafisi zor olduğundan onay almak (cross-check) zorunludur.", "isCorrect": true},
+        {"text": "Siparişi mutfağa faks çekmelidir.", "rationale": "İşlem bu olsa da müşteriye yapılması gereken farklıdır.", "isCorrect": false},
+        {"text": "Konuğa hesap sormalıdır.", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Kendi zevkine göre yemeği değiştirmelidir.", "rationale": "Yanlıştır.", "isCorrect": false}
+      ],
+      "hint": "Duyduklarının doğruluğunu teyit etme eylemi."
+    },
+    {
+      "questionNumber": 75,
+      "question": "Çalan telefona cevap veren personelin ilk uyması gereken teknik kural nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Müzik açmak.", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Ahizeyi kaldırırken başkasıyla yapılan konuşmanın bitmiş olması.", "rationale": "Ahize kalktığı an konuğun arka plandaki personelin sohbetini duyması amatörlüktür.", "isCorrect": true},
+        {"text": "Üçüncü çalıştan önce kesinlikle açmamak.", "rationale": "En kısa sürede açılmalıdır.", "isCorrect": false},
+        {"text": "Önce adını ve soyadını uzun uzun söylemek.", "rationale": "Standart selamlama yapılır ama kural bu değildir.", "isCorrect": false},
+        {"text": "Telefonu hoparlöre almak.", "rationale": "Kişisel veriler için risklidir.", "isCorrect": false}
+      ],
+      "hint": "Ahizeyi kaldırdığınız an mikrofonun açık olduğunu unutmamak."
+    },
+    {
+      "questionNumber": 76,
+      "question": "İş yoğunluğu sebebiyle telefona hemen cevap verilemediyse personelin ilk cümlesi ne olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Çok yoğunuz, çabuk sipariş verin.", "rationale": "Çok kabadır.", "isCorrect": false},
+        {"text": "Konuktan beklettiği için özür dilenmelidir.", "rationale": "Nezaket gereği gecikme için özür dilenmelidir.", "isCorrect": true},
+        {"text": "Telefonun bozuk olduğunu söylemelidir.", "rationale": "Yalan söylenmemelidir.", "isCorrect": false},
+        {"text": "Gecikme hiç olmamış gibi davranmalıdır.", "rationale": "Profesyonel değildir.", "isCorrect": false},
+        {"text": "Bekletme müziği dinletmelidir.", "rationale": "Zaten beklemiş olan konuğu daha fazla kızdırır.", "isCorrect": false}
+      ],
+      "hint": "Gecikme kaynaklı memnuniyetsizliği gidermenin en basit ve nazik yolu."
+    },
+    {
+      "questionNumber": 77,
+      "question": "Modern santral sistemlerinde telefon eden odanın numarası göründüğünde personelin hangi davranışı konuğun hoşuna gider?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Listeden adını bulup konuğa adıyla hitap etmek.", "rationale": "Kişiselleştirilmiş hizmet (isimle hitap) her zaman şaşırtır ve memnun eder.", "isCorrect": true},
+        {"text": "Oda numarasını yüzüne söylemek.", "rationale": "Büyüsü kaçar.", "isCorrect": false},
+        {"text": "Kim olduğunu sormak.", "rationale": "Sistemde görünüyorsa sormak gereksizdir.", "isCorrect": false},
+        {"text": "Hiçbir şey söylemeden telefonu kapatmak.", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Hangi ülkeden geldiğini tahmin etmek.", "rationale": "Gereksiz risktir.", "isCorrect": false}
+      ],
+      "hint": "İnsanlar kendilerine isimleriyle hitap edilmesinden hoşlanırlar."
+    },
+    {
+      "questionNumber": 78,
+      "question": "Konuk ne sipariş edeceğine karar veremediğinde Order Taker nasıl bir yol izlemelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Konuğu karar verene kadar beklemeye almalıdır.", "rationale": "Hizmet kalitesini düşürür.", "isCorrect": false},
+        {"text": "Telefonu kapatıp sonra aramasını söylemelidir.", "rationale": "Siparişi kaybettirir.", "isCorrect": false},
+        {"text": "Sadece en pahalı yemekleri önermelidir.", "rationale": "Güven kırıcıdır.", "isCorrect": false},
+        {"text": "Daha önce istediğine uygun olarak tamamlayıcı yemekler önermelidir.", "rationale": "Profesyonel yönlendirme misafire yardımcı olur.", "isCorrect": true},
+        {"text": "Karar veremediği için siparişi iptal etmelidir.", "rationale": "Yanlıştır.", "isCorrect": false}
+      ],
+      "hint": "Bir uzman olarak misafirin damak tadına uygun tavsiyelerde bulunmak."
+    },
+    {
+      "questionNumber": 79,
+      "question": "Metinde verilen örneğe göre, konuğa 'Tatlı alır mısınız?' diye sormak satış oranını yüzde kaçta bırakır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "%10", "rationale": "Yanlış istatistik.", "isCorrect": false},
+        {"text": "%25", "rationale": "Yanlış istatistik.", "isCorrect": false},
+        {"text": "%50", "rationale": "Evet veya hayır cevabı ihtimali %50'dir.", "isCorrect": true},
+        {"text": "%85", "rationale": "Bu başka bir sorunun cevabıdır.", "isCorrect": false},
+        {"text": "%100", "rationale": "Kesinlik yoktur.", "isCorrect": false}
+      ],
+      "hint": "Yarı yarıya bir şanstır."
+    },
+    {
+      "questionNumber": 80,
+      "question": "Satış tekniği olarak konuğa 'Tatlı olarak ne almak istersiniz?' diye sorup tatlı isimleri sayıldığında satış başarısı yüzde kaça çıkar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "%50", "rationale": "Bu basit sorunun oranıdır.", "isCorrect": false},
+        {"text": "%60", "rationale": "Yanlış oran.", "isCorrect": false},
+        {"text": "%75", "rationale": "Yanlış oran.", "isCorrect": false},
+        {"text": "%85", "rationale": "Metne göre seçenek sunarak yönlendirme yapmak satış oranını %85'e çıkarır.", "isCorrect": true},
+        {"text": "%100", "rationale": "Herkes almaz.", "isCorrect": false}
+      ],
+      "hint": "Açık uçlu ve yönlendirici sorular başarıyı büyük ölçüde artırır."
+    },
+    {
+      "questionNumber": 81,
+      "question": "Dokümanda vurgulanan 'En iyi servis elemanı...' cümlesinin devamı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "En hızlı koşandır.", "rationale": "Hız tek başına yeterli değildir.", "isCorrect": false},
+        {"text": "En çok bahşiş alandır.", "rationale": "Bahşiş bir sonuçtur.", "isCorrect": false},
+        {"text": "Servis bilgisinin yanı sıra en çok satandır.", "rationale": "Oda servisinde satış personelin kalitesini gösterir.", "isCorrect": true},
+        {"text": "En az konuşandır.", "rationale": "Order taker konuşmalıdır.", "isCorrect": false},
+        {"text": "En iyi dil bilendir.", "rationale": "Dil araçtır, amaç satıştır.", "isCorrect": false}
+      ],
+      "hint": "İşletmenin temel amacı olan 'kâr' elde etmeye en çok katkı sağlayan kişidir."
+    },
+    {
+      "questionNumber": 82,
+      "question": "Konaklama tesislerinde 'Door Knob' terimi neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Oda temizliği uyarı kartı (Rahatsız etmeyin).", "rationale": "Door knob menü formuyla ilgilidir.", "isCorrect": false},
+        {"text": "Kahvaltı kapı kartı (Sipariş formu).", "rationale": "Gece yatmadan önce kapı koluna asılarak sipariş verilen formun adıdır.", "isCorrect": true},
+        {"text": "Kapı kilidi.", "rationale": "Kelime anlamı kapı kolu olsa da otelcilikte formdur.", "isCorrect": false},
+        {"text": "Hesap pusulası.", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Oda anahtarı.", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "İçine çarpı atarak sabah yumurtanızı nasıl istediğinizi seçtiğiniz ve kapı koluna astığınız kağıt."
+    },
+    {
+      "questionNumber": 83,
+      "question": "Aşağıdakilerden hangisi bir Door Knob (Kahvaltı kapı kartı) üzerinde bulunan bilgilerden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Oda numarası", "rationale": "Bulunması zorunludur.", "isCorrect": false},
+        {"text": "Kahvaltının istenildiği saat", "rationale": "Servis zamanlaması için şarttır.", "isCorrect": false},
+        {"text": "Konuk sayısı", "rationale": "Porsiyon miktarı için şarttır.", "isCorrect": false},
+        {"text": "Konuğun kredi kartı şifresi", "rationale": "Böyle bir bilgi hiçbir otel formunda istenemez.", "isCorrect": true},
+        {"text": "Kahvaltının çeşitleri ve fiyatları", "rationale": "Seçim yapılması için yer alır.", "isCorrect": false}
+      ],
+      "hint": "Son derece gizli ve kişisel bir finansal veri."
+    },
+    {
+      "questionNumber": 84,
+      "question": "Door Knob üzerindeki 'Ayrıca istekleriniz' bölümü neden gereklidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Konuğun adresini yazması için.", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Menüde yer almayan özel taleplerin (örneğin alerji durumu) belirtilebilmesi için.", "rationale": "Standart liste dışında konuğun özel arzularını iletebileceği boş bir alandır.", "isCorrect": true},
+        {"text": "Oda temizlik saatinin yazılması için.", "rationale": "Housekeepingin işidir.", "isCorrect": false},
+        {"text": "Şikayetlerin yazılması için.", "rationale": "Şikayet formu ayrıdır.", "isCorrect": false},
+        {"text": "Bahşiş miktarının yazılması için.", "rationale": "Bahşiş yazılmaz.", "isCorrect": false}
+      ],
+      "hint": "Hazır listeye uymayan, konuğa has özel durumları belirtmek için ayrılan boş satırlar."
+    },
+    {
+      "questionNumber": 85,
+      "question": "Odaya özel bir meyve sepeti veya şarap ikram edilecekse, garson bu işlem için öncelikle kimden onay/form almalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Oda Servis Şefinden", "rationale": "İkramların kontrolsüz çıkmaması için oda servis şefi 'Oda İkram Formu' düzenler.", "isCorrect": true},
+        {"text": "Resepsiyonistten", "rationale": "Departman dışıdır.", "isCorrect": false},
+        {"text": "Aşçıbaşıdan", "rationale": "Aşçıbaşı onayı tek başına yeterli değildir, evrak işini servis şefi yapar.", "isCorrect": false},
+        {"text": "Doğrudan otel sahibinden", "rationale": "Operasyonel hiyerarşide bu şefin işidir.", "isCorrect": false},
+        {"text": "Forma gerek yoktur.", "rationale": "İkramlar kayıt altına alınmalıdır.", "isCorrect": false}
+      ],
+      "hint": "Oda servisi bölümünün yöneticisi olan kişi."
+    },
+    {
+      "questionNumber": 86,
+      "question": "İkram yiyecek veya içecek konuk odasına bırakıldığında, servis personelinin odadan çıkmadan önce yapması gereken zorunlu işlem nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Para tahsil etmek.", "rationale": "İkram olduğu için para alınmaz.", "isCorrect": false},
+        {"text": "Konuğa şarkı söylemek.", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Konuğa ikram formunu imzalattırmak.", "rationale": "İkramın doğru kişiye teslim edildiğini kanıtlamak için adisyona imza alınır.", "isCorrect": true},
+        {"text": "Hemen kaçarak çıkmak.", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "İkramı konukla beraber yemek.", "rationale": "Kesinlikle yasaktır.", "isCorrect": false}
+      ],
+      "hint": "Teslimatın gerçekleştiğini belgelemek için müşteriden istenen şey."
+    },
+    {
+      "questionNumber": 87,
+      "question": "Oda servisinde 'Tepsilerin ve arabaların hazırlanması' hangi öğünler için yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece Kahvaltı", "rationale": "Eksiktir.", "isCorrect": false},
+        {"text": "Sadece Gece", "rationale": "Eksiktir.", "isCorrect": false},
+        {"text": "Kahvaltı - Öğlen - Akşam", "rationale": "Tüm ana öğünler için ön hazırlık (set-up) tepsilerde ve arabalarda yapılır.", "isCorrect": true},
+        {"text": "Sadece Öğlen", "rationale": "Eksiktir.", "isCorrect": false},
+        {"text": "Öğlen - Akşam", "rationale": "Kahvaltı da olmalıdır.", "isCorrect": false}
+      ],
+      "hint": "Günün tüm ana öğünlerini kapsar."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Oda servis istasyonunda 'Table out' işlemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yeni masa satın almak.", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Masanın dışarıya atılması.", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Boşların, tepsilerin ve arabaların odadan koridora veya ofise geri çıkarılması işlemi.", "rationale": "Servis sonrası kirli toplama döngüsünün parçasıdır.", "isCorrect": true},
+        {"text": "Konuğun masaya çıkması.", "rationale": "Anlamsızdır.", "isCorrect": false},
+        {"text": "Masa örtüsünün yıkanması.", "rationale": "Yıkama çamaşırhanenin işidir.", "isCorrect": false}
+      ],
+      "hint": "İngilizce 'masayı dışarı çıkarma' teriminin departmandaki kullanımı."
+    },
+    {
+      "questionNumber": 89,
+      "question": "Aşağıdaki servis türlerinden hangisi misafir yatak odasında özel bir masada veya tepside gerçekleştirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "İngiliz Servisi", "rationale": "Salonda yapılır.", "isCorrect": false},
+        {"text": "Rus Servisi", "rationale": "Salonda yapılır.", "isCorrect": false},
+        {"text": "Oda Servisi (Room Service)", "rationale": "Adı üzerinde odalarda yapılan servistir.", "isCorrect": true},
+        {"text": "Fransız Servisi", "rationale": "Salonda yapılır.", "isCorrect": false},
+        {"text": "Türk Usulü Servis", "rationale": "Salonda yapılır.", "isCorrect": false}
+      ],
+      "hint": "Konaklama tesislerinin misafirlerin yattıkları yerlere verdikleri isim."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Oda servisi garsonlarının (Chef D'etage) çalışırken neden 'kimseden yardım almadan servisi hatasız yapmaları' beklenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yardımcı personel işe alınmadığı için.", "rationale": "Yardımcıları (komi) vardır.", "isCorrect": false},
+        {"text": "Oda kapısından içeri girdiklerinde misafirle tamamen baş başa ve yalnız oldukları için.", "rationale": "Restoranın aksine arkada bir şef veya müdür bulunmaz, inisiyatif garsonun kendisindedir.", "isCorrect": true},
+        {"text": "Çok yüksek maaş aldıkları için.", "rationale": "Sebep maaş değildir.", "isCorrect": false},
+        {"text": "Odalara birden fazla kişinin girmesi yasak olduğu için.", "rationale": "Yasak değildir ama genellikle tek personel gönderilir.", "isCorrect": false},
+        {"text": "Diğer personel işi bilmediği için.", "rationale": "Yanlış bir yargıdır.", "isCorrect": false}
+      ],
+      "hint": "Sahnede tek başlarına kalmaları."
+    },
+    {
+      "questionNumber": 91,
+      "question": "Order Taker'ın mutfaktaki 'yiyeceklerin hazırlanış sürelerini bilmesi' konuk açısından neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Konuğa doğru bir bekleme süresi verebilmek ve siparişi buna göre yönlendirebilmek için.", "rationale": "Örneğin uçağına yetişecek bir misafire 45 dakikada pişen bir et önermemek gerekir.", "isCorrect": true},
+        {"text": "Aşçılara talimat verebilmek için.", "rationale": "Order taker aşçıya talimat vermez.", "isCorrect": false},
+        {"text": "Yemeği kendisinin pişirebilmesi için.", "rationale": "Yemeği o pişirmez.", "isCorrect": false},
+        {"text": "Telefonda konuğa hava atmak için.", "rationale": "Profesyonel değildir.", "isCorrect": false},
+        {"text": "Komiye eğitim vermek için.", "rationale": "Ana görev bu değildir.", "isCorrect": false}
+      ],
+      "hint": "Misafirin zamanı kısıtlı olabilir, gerçekçi bir teslimat süresi vaat etmek gerekir."
+    },
+    {
+      "questionNumber": 92,
+      "question": "Oda servisinde konuğa bırakılan 'Door Knob' formu genellikle günün hangi saatinde toplanarak Order Taker tarafından sıraya dizilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sabah", "rationale": "Sabah işleme konmuş olmalıdır.", "isCorrect": false},
+        {"text": "Öğle", "rationale": "Yanlış zaman.", "isCorrect": false},
+        {"text": "Gece", "rationale": "Metne göre gece toplanan sipariş formları sıraya konur ki sabah zamanında servis edilebilsin.", "isCorrect": true},
+        {"text": "İkindi", "rationale": "Yanlış zaman.", "isCorrect": false},
+        {"text": "Müşteri ne zaman isterse", "rationale": "Belli bir toplanma döngüsü vardır.", "isCorrect": false}
+      ],
+      "hint": "Kahvaltıdan önceki karanlık saatler."
+    },
+    {
+      "questionNumber": 93,
+      "question": "Aşağıdakilerden hangisi Amerikan servisindeki boş tabağın masadan uzaklaştırılma aşamasını doğru tarif eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Misafirin solundan alınır.", "rationale": "Sağdan alınır.", "isCorrect": false},
+        {"text": "Misafirin sağından alınır, hemen misafirin burnunun dibinde yemek artıkları sıyrılır.", "rationale": "Misafirin önünde sıyırmak büyük kabalıktır.", "isCorrect": false},
+        {"text": "Tabak misafirin önünden sağ taraftan alındıktan sonra biraz geri çekilinir ve sol kol üzerine konulur.", "rationale": "Hem doğru yönü hem de misafiri rahatsız etmeme kuralını içerir.", "isCorrect": true},
+        {"text": "Tabak ortadan alınır ve masanın altına saklanır.", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Komi tabağı kapıdan alır.", "rationale": "Masadan alınmalıdır.", "isCorrect": false}
+      ],
+      "hint": "İşlemi bir adım uzakta ve sol elde biriktirerek yapmak."
+    },
+    {
+      "questionNumber": 94,
+      "question": "Oda servisinde konuk odasında bulunan genel menü kartı ile Door Knob (Kahvaltı kartı) arasındaki temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Biri pahalı, diğeri ucuz menüdür.", "rationale": "Fiyat farkı ana ayrım değildir.", "isCorrect": false},
+        {"text": "Biri sadece içecekleri, diğeri sadece yiyecekleri gösterir.", "rationale": "Genel menüde ikisi de vardır.", "isCorrect": false},
+        {"text": "Genel menü telefonla sipariş içindir, Door Knob ise sadece kahvaltı için kapıya asılan formdur.", "rationale": "Kullanım amaçları ve yöntemleri farklıdır.", "isCorrect": true},
+        {"text": "Biri İngilizce, diğeri Türkçedir.", "rationale": "İkisi de çift dilli olabilir.", "isCorrect": false},
+        {"text": "İkisi arasında hiçbir fark yoktur.", "rationale": "Biri form, diğeri kitapçıktır.", "isCorrect": false}
+      ],
+      "hint": "Biri gün boyu el altında duran bir kitapçık, diğeri gece dışarı asılan bir formdur."
+    },
+    {
+      "questionNumber": 95,
+      "question": "Servis personeli konuğa yaklaşırken her iki taraftan da girme şansı bulamıyorsa veya yol kapalıysa nasıl davranmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Zorla aradan geçmelidir.", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Masaya tabağı fırlatmalıdır.", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Sessizce geri dönmeli ve servis yapmamalıdır.", "rationale": "Servis yapılmak zorundadır.", "isCorrect": false},
+        {"text": "Mutlaka izin istemeli ve konuğun alan açmasını rica etmelidir.", "rationale": "Hiçbir yer müsait değilse izin alınmalıdır kuralı geçerlidir.", "isCorrect": true},
+        {"text": "Masanın altından servis yapmalıdır.", "rationale": "Saçmadır.", "isCorrect": false}
+      ],
+      "hint": "Kibarlıkla durumu çözmek için iletişim kurmak."
+    },
+    {
+      "questionNumber": 96,
+      "question": "Fransız, İngiliz, Rus ve Amerikan servislerinden hangisinde servis işleminin hızı maksimum düzeydedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Fransız", "rationale": "Yavaştır.", "isCorrect": false},
+        {"text": "İngiliz", "rationale": "Porsiyonlama yavaştır.", "isCorrect": false},
+        {"text": "Rus", "rationale": "En yavaşlardan biridir.", "isCorrect": false},
+        {"text": "Amerikan", "rationale": "Mutfakta hazırlanıp geldiği için iş dünyasına hitap eden en hızlı servistir.", "isCorrect": true},
+        {"text": "Hepsi aynı hızdadır", "rationale": "Yanlıştır.", "isCorrect": false}
+      ],
+      "hint": "Fast food kültürüne yakın olan servis stili."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Oda servisinde bir kominin, Chef D'etage seviyesine yükselebilmesi için temel olarak hangi süreci geçirmesi gerekir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Tecrübesizliği atıp deneyim ve güvenilirlik kazanması.", "rationale": "Komi tecrübesiz elemandır, odaya yalnız çıkacak seviyeye gelmesi için deneyim şarttır.", "isCorrect": true},
+        {"text": "Sadece yabancı dil öğrenmesi.", "rationale": "Yeterli değildir.", "isCorrect": false},
+        {"text": "Otel sahibinin akrabası olması.", "rationale": "Profesyonellik dışıdır.", "isCorrect": false},
+        {"text": "Şef garsonu işten çıkarması.", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Daha hızlı yürümesi.", "rationale": "Yeterli değildir.", "isCorrect": false}
+      ],
+      "hint": "Usta-çırak ilişkisinde çırağın pişmesi süreci."
+    },
+    {
+      "questionNumber": 98,
+      "question": "Yiyecek-içecek bölümünün temel amaçlarından biri olan 'İşletmeye en yüksek kârı sağlamak' hedefi, aşağıdaki personellerden hangisinin satış kabiliyetiyle doğrudan ölçülür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Komi", "rationale": "Komi satış yapmaz, destek verir.", "isCorrect": false},
+        {"text": "Bulaşıkçı", "rationale": "Satışla ilgisi yoktur.", "isCorrect": false},
+        {"text": "Order Taker", "rationale": "Telefondaki satış (up-sell) taktikleriyle kârı doğrudan artırır.", "isCorrect": true},
+        {"text": "Güvenlik", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Housekeeper", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Siparişleri alan ve konuğa tatlı önerebilen kişi."
+    },
+    {
+      "questionNumber": 99,
+      "question": "Dokümandaki 'Kötü yemek + İyi servis = Kurtarılabilir, İyi yemek + Kötü servis = Felaket' mantığı hangi genel yargıyı doğrular?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Servisin yemekten daha önemsiz olduğunu.", "rationale": "Tam tersi.", "isCorrect": false},
+        {"text": "Sadece yemeğin kalitesinin yeterli olduğunu.", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "F&B başarısında servisin sunum ve psikolojik etkisinin çok kritik bir rolde olduğunu.", "rationale": "Servisin yemeği tamamladığı ve hatayı örtebildiği gerçeğini anlatır.", "isCorrect": true},
+        {"text": "Aşçıların garsonlardan daha iyi maaş alması gerektiğini.", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Restoran dekorasyonunun her şeyden önemli olduğunu.", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Mükemmel bir yemeğin, somurtkan ve kaba bir garson tarafından masaya fırlatıldığını düşünün."
+    },
+    {
+      "questionNumber": 100,
+      "question": "Genel anlamıyla 'Servis' kavramı metinde nasıl tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece tabak taşımak.", "rationale": "Çok dar bir tanımdır.", "isCorrect": false},
+        {"text": "Müşteriden para almak.", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Yemek pişirmek.", "rationale": "Mutfağın işidir.", "isCorrect": false},
+        {"text": "Sadece masaları silmek.", "rationale": "Temizliktir.", "isCorrect": false},
+        {"text": "Konuklara yiyecek içecekleri uygun takımlarla, belirli metodlarla, psikolojik durumlarına göre davranarak sunma sanatı ve mesleği.", "rationale": "Dokümanın birinci sayfasındaki eksiksiz genel tanımlamadır.", "isCorrect": true}
+      ],
+      "hint": "Hem bir hizmet, hem bir meslek hem de sosyolojik bir sanattır."
+    }
+  ]
+}

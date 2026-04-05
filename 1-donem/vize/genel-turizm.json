@@ -1,0 +1,3304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi 'Boş Zaman' (Leisure Time) kavramının tanımına girmez?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişinin iş zamanı dışında kalan zaman.",
+          "rationale": "Bu, tanımın bir parçasıdır ancak eksiktir; fizyolojik ihtiyaçları da dışarıda bırakmak gerekir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fizyolojik ihtiyaçlar (yeme, içme, uyku) için harcanan zaman.",
+          "rationale": "Tanıma göre, boş zaman fizyolojik ihtiyaçların karşılandığı zamanın dışında kalan zamandır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tamamen kişinin tasavvuruna ve tercihine kalmış zaman.",
+          "rationale": "Bu, boş zamanın özgürce kullanıldığını belirten doğru bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel veya grup halinde özgürce yapılan faaliyetlere ayrılan zaman.",
+          "rationale": "Bu, boş zaman aktivitelerinin nasıl yapıldığını açıklayan doğru bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitap okumak veya spor yapmak için ayrılan zaman.",
+          "rationale": "Bunlar, boş zaman faaliyetlerine birer örnektir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Boş zaman tanımı, hangi zaman dilimlerini 'dışarıda' bıraktığını net olarak belirtir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi PDF'te listelenen boş zaman faaliyetlerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Balık tutmak",
+          "rationale": "Balık tutmak, metinde listelenen boş zaman faaliyetlerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turizme katılmak",
+          "rationale": "Turizme katılmak, metinde açıkça listelenen boş zaman faaliyetlerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zorunlu mesai yapmak",
+          "rationale": "Mesai, 'iş zamanı' kapsamındadır ve boş zamanın tanımının dışındadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pikniğe gitmek",
+          "rationale": "Pikniğe gitmek, metinde listelenen boş zaman faaliyetlerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alışveriş yapmak",
+          "rationale": "Alışveriş, metinde listelenen boş zaman faaliyetlerinden biridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Boş zaman, 'iş zamanı' dışında kalan zamandır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Boş zaman tanımına göre, bu zaman aralığı aşağıdakilerden hangisini kapsamaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişinin kendi tercihine kalmış faaliyetleri",
+          "rationale": "Boş zaman, kişinin özgür tercihlerine dayalı faaliyetleri içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel olarak yapılan aktiviteleri",
+          "rationale": "Faaliyetler bireysel olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup halinde yapılan aktiviteleri",
+          "rationale": "Faaliyetler grup halinde de olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fizyolojik ihtiyaçların karşılandığı zamanı",
+          "rationale": "Boş zaman, tanım gereği fizyolojik ihtiyaçların (yeme, içme, uyku) karşılandığı zamanın dışındadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İş zamanı dışında kalan zamanı",
+          "rationale": "Boş zaman, iş zamanı dışında kalır ancak tek başına bu tanım yeterli değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Tanım, boş zamanı hem iş zamanından hem de başka bir zorunlu zaman diliminden ayırır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Turizm kavramının Latince kökeni olan 'tornus' kelimesinin anlamı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eğlence ve zevk",
+          "rationale": "Bu anlam, 'touring' deyimi ile daha yakından ilişkilidir, köken kelimenin doğrudan anlamı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dönme hareketi",
+          "rationale": "Metne göre 'tornus', Latince'de dönme hareketini ifade eder ve turizmin 'başlangıç yerine geri dönüş' fikrinin temelini oluşturur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kültürel seyahat",
+          "rationale": "Bu, turizmin bir sonucu veya türüdür, kelimenin köken anlamı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yer değiştirme",
+          "rationale": "Bu, 'tour' deyiminin bir parçasıdır ancak 'tornus'un temel anlamı daha spesifiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ziyaret etmek",
+          "rationale": "Bu genel bir eylemdir, 'tornus'un kökündeki mekanik hareketi tam karşılamaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kelimenin kökeni, dairesel bir eylemi ifade eder."
+    },
+    {
+      "questionNumber": 5,
+      "question": "İngilizce'deki 'touring' deyimi, 'tour' deyiminden farklı olarak ne tür seyahatler için kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İş amacıyla yapılan yer değiştirmeler",
+          "rationale": "'Tour' deyimi iş ve eğlence amaçlı yer değiştirmeyi kapsar, 'touring' ise daha spesifiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dairesel bir hareket ve bazı yörelerin ziyareti",
+          "rationale": "Bu, 'tour' deyiminin tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Başlangıç yerine dönme şartı olan seyahatler",
+          "rationale": "Bu, 'tour' kökünün genel anlamıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zevk için yapılan, eğitsel ve kültürel özellik gösteren seyahatler",
+          "rationale": "Metin, 'touring' deyimini zevk, eğitsel ve kültürel amaçlı seyahatler olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gelir sağlayıcı uğraşılarda bulunulan seyahatler",
+          "rationale": "Bu, turizm tanımının tamamen dışındadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "'Touring' daha çok seyahatin motivasyonu ve niteliği üzerine odaklanır."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Türkçe'de 'turist' deyiminin karşılığı olarak kullanılan kelime nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gezgin",
+          "rationale": "Gezgin (explorer) bir turist tipidir ancak 'turist' kelimesinin doğrudan eski Türkçe karşılığı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyyah",
+          "rationale": "Metinde, 'Seyyah' kelimesinin 'turist' deyiminin Türkçe karşılığı olduğu belirtilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ziyaretçi",
+          "rationale": "Ziyaretçi, turisti de günübirlikçiyi de kapsayan daha genel bir terimdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Günübirlikçi",
+          "rationale": "Günübirlikçi, 24 saatten az kalan ziyaretçidir ve turistten farklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yolcu",
+          "rationale": "Yolcu, sadece ulaşım eylemini gerçekleştiren kişidir, turizm daha fazlasını kapsar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu kelime, seyahat eden kişi anlamına gelir ve metinde açıkça belirtilmiştir."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Bir seyahatin turizm olayı sayılabilmesi için gereken iki temel unsur nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Seyahat ve gelir elde etme",
+          "rationale": "Gelir elde etmemek, turizmin temel şartlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklama ve sürekli kalış",
+          "rationale": "Sürekli kalışa dönüşmemesi, turizmin temel şartlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyahat ve Konaklama",
+          "rationale": "Metin, seyahati birinci dinamik unsur, konaklamayı ise ikinci önemli unsur olarak belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kültürel etkileşim ve alışveriş",
+          "rationale": "Bunlar turizmin sonuçları veya faaliyetleri olabilir ancak temel unsurları değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dinlenme ve eğlenme",
+          "rationale": "Bunlar turizme katılım motivasyonlarıdır, olayın temel unsurları değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Metin, bu iki unsuru 'dinamik' ve 'önemli' olarak nitelendirir."
+    },
+    {
+      "questionNumber": 8,
+      "question": "AIEST'in 1981 yılındaki turizm tanımına göre aşağıdakilerden hangisi turizm kapsamı dışında kalmaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kongre ve iş seyahatleri",
+          "rationale": "AIEST tanımına göre kongre ve iş seyahatleri turizm olayı içinde sayılmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık turizmine giren seyahatler",
+          "rationale": "AIEST tanımına göre sağlık turizmi seyahatleri turizm olayı içinde sayılmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sayfiye yerlerinde ikinci evlerdeki konaklamalar",
+          "rationale": "AIEST tanımına göre ikinci evlerdeki konaklamalar turizm olayı içinde sayılmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş arama amaçlı seyahatler ve konaklamalar",
+          "rationale": "AIEST tanımına göre iş arama ve devamlı yerleşme amaçlı seyahatler turizm kapsamı dışındadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kısa süreli seyahatler",
+          "rationale": "AIEST tanımına göre kısa süreli seyahatler turizm olayı içinde sayılmaktadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Turizm tanımı, gelir elde etme veya kalıcı yerleşme amacını dışlar."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Özet olarak bir seyahatin turizm olayı sayılabilmesi için gereken ölçütlerden biri aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Seyahatin en az 1 ay sürmesi",
+          "rationale": "Turist tanımı 24 saatten fazla ve 1 yıldan az süreyi belirtir, 1 ay gibi net bir alt sınır yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklamanın daimi ikamet edilen yerde yapılması",
+          "rationale": "Tam tersine, seyahatin devamlı ikamet edilen yerin 'dışında' yapılması gerekir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyahatin gelir elde etmek amacıyla yapılması",
+          "rationale": "Turizmin temel şartı, seyahatin gelir elde etmek amacıyla 'yapılmamasıdır'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklamanın geçici olması",
+          "rationale": "Metindeki dört ölçütten biri, konaklamanın geçici olması ve sürekli kalışa dönüşmemesidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece kamuya ait tesislerin talep edilmesi",
+          "rationale": "Ölçüt, 'genellikle turizm işletmelerinin ürettiği mal ve hizmetlerin' talep edilmesidir, kamuya ait olma şartı yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Turizm, 'sürekli kalışa dönüşmemek' koşulu ile tanımlanır."
+    },
+    {
+      "questionNumber": 10,
+      "question": "AIEST (Uluslararası Bilimsel Turizm Uzmanları Birliği) turizm tanımını hangi yıl yeniden düzenlemiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "1972",
+          "rationale": "1972, Cohen'in turist tipolojisini yaptığı yıldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "1977",
+          "rationale": "1977, Plog'un turist tipolojisini yaptığı yıldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "1981",
+          "rationale": "Metin, AIEST'in 1981 yılında turizm tanımını yeniden düzenlediğini belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "1989",
+          "rationale": "1989, Smith'in turist tipolojisini yaptığı yıldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "1841",
+          "rationale": "1841, Thomas Cook'un ilk turunu düzenlediği yıldır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu tanım, kongre ve ikinci konutları da turizm içine dahil etmiştir."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Turist ile günübirlikçi arasındaki temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turist para harcar, günübirlikçi harcamaz.",
+          "rationale": "Her ikisi de tüketim yapar; fark harcanan para miktarı değil, kalış süresidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turist en az bir gece konaklar, günübirlikçi geceleme yapmaz.",
+          "rationale": "Tanıma göre turist 24 saatten fazla, günübirlikçi 24 saatten az kalır. Temel ayrım 'geceleme' yapmaktır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turist yurt dışına çıkar, günübirlikçi ülke içinde kalır.",
+          "rationale": "Hem turist (iç turizm) hem de günübirlikçi ülke içinde veya dışında olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turist eğlence amaçlı, günübirlikçi iş amaçlı seyahat eder.",
+          "rationale": "Her ikisi de farklı amaçlarla (iş, eğlence, sağlık vb.) seyahat edebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turist 1 yıldan fazla kalır, günübirlikçi 1 yıldan az kalır.",
+          "rationale": "Turist 1 yıldan 'az' kalır. 1 yıldan fazla kalış genellikle turizm sayılmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ayrım, 24 saatlik süre ve 'geceleme' eylemi ile yapılır."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Aşağıdakilerden hangisi 'turist' olarak kabul edilmez?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Deniz gezisi (kurvaziyer) ile gelip 24 saatten az kalan yolcu",
+          "rationale": "Metinde 'kurvaziyerler'in 24 saatten az kalsalar bile turist kabul edildikleri özel olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zevk ve ailevi nedenlerle yolculuk edenler",
+          "rationale": "Bu grup, 'turist olarak kabul edilenler' listesinin ilk maddesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilimsel bir toplantıya katılmak amacıyla yolculuk edenler",
+          "rationale": "Bu grup, 'turist olarak kabul edilenler' listesinde yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir ülkede durmaksızın transit geçenler",
+          "rationale": "Metin, bir ülkede durmaksızın transit geçenlerin, seyahatleri 24 saati aşsa dahi turist kabul 'edilmediklerini' belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ticari nedenlerle yolculuk edenler",
+          "rationale": "Bu grup, 'turist olarak kabul edilenler' listesinde yer alır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Turist sayılmayanlar listesi, belirli bir amaçla ülkeye gelen veya ülkede durmayan kişileri kapsar."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Aşağıdakilerden hangisi 'turist' tanımının içinde yer alan bir koşul değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Para kazanma amacı olmaması",
+          "rationale": "Bu, turist tanımının en temel koşullarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oturduğu yer dışına geçici olarak çıkması",
+          "rationale": "Bu, seyahatin mekan değiştirmesi ve geçici olması gerektiğini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüketici olarak seyahat etmesi",
+          "rationale": "Turist, gittiği yerde mal ve hizmet talep eden bir tüketicidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutlaka bir tur operatörü ile seyahat etmesi",
+          "rationale": "Turist bireysel olarak da seyahat edebilir, bir tur operatörü şartı yoktur. Bu sadece bir seyahat biçimidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "24 saatten fazla 1 yıldan az kalması",
+          "rationale": "Bu, turistin kalış süresini tanımlayan temel zaman kısıtlamasıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Turist tanımı, seyahatin nasıl organize edildiğiyle değil, amacıyla ve süresiyle ilgilenir."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Aşağıdakilerden hangisi 'turist olarak kabul edilmeyenler' kategorisindedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sağlık amacıyla yolculuk edenler",
+          "rationale": "Sağlık (sıhhi) nedenlerle seyahat edenler turist kabul edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sportif nedenlerle toplantıya katılanlar",
+          "rationale": "Sportif nedenlerle seyahat edenler turist kabul edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ülkeye bir iş sözleşmesi ile çalışmak için gelenler",
+          "rationale": "Metne göre, bir iş yapmak veya çalışmak için gelenler turist kabul edilmezler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Deniz gezileri ile gelenler",
+          "rationale": "Kurvaziyerler, kısa kalsalar bile turist sayılırlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dini amaçla yolculuk edenler",
+          "rationale": "Dini nedenlerle seyahat edenler turist kabul edilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Turist tanımı, 'para kazanma amacı olmaksızın' yapılan seyahatleri kapsar."
+    },
+    {
+      "questionNumber": 15,
+      "question": "'Günübirlikçi' (Excursionist) için doğru tanım aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ziyaret edilen ülkede 24 saatten fazla kalan ziyaretçi",
+          "rationale": "Bu, turist tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ziyaret edilen ülkede 24 saatten az kalan ziyaretçi",
+          "rationale": "Metin, günübirlikçiyi 'ziyaret edilen ülkede 24 saatten az kalan ziyaretçi' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ziyaret edilen ülkede en az bir gece konaklayan ziyaretçi",
+          "rationale": "Bu, turist tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece iş amacıyla seyahat eden ziyaretçi",
+          "rationale": "Günübirlikçi de turist gibi farklı amaçlarla seyahat edebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ülkeden transit geçen ziyaretçi",
+          "rationale": "Transit yolcular genellikle ne turist ne de günübirlikçi sayılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Günübirlikçi ve turist arasındaki farkı belirleyen temel zaman sınırı nedir?"
+    },
+    {
+      "questionNumber": 16,
+      "question": "Turizmin 'ödemeler dengesine etkisi' ve 'milli gelire etkisi' gibi konular, turizmin en çok hangi bilim dalı ile olan ilişkisini gösterir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sosyoloji",
+          "rationale": "Sosyoloji, toplumsal etkileşimler ve değişimler ile ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomi",
+          "rationale": "İstihdam, milli gelir, ödemeler dengesi, ihracat gibi kavramlar doğrudan ekonomi biliminin inceleme alanına girer.",
+          "isCorrect": true
+        },
+        {
+          "text": "Coğrafya",
+          "rationale": "Coğrafya, mekan, bölge ve doğal faktörler ile ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Psikoloji",
+          "rationale": "Psikoloji, motivasyon ve davranışlar ile ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Hukuk, yasal düzenlemeler ve kurallar ile ilgilenir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Milli gelir ve ödemeler dengesi hangi bilimin temel konularıdır?"
+    },
+    {
+      "questionNumber": 17,
+      "question": "Bölgelerin iklim durumu, doğal faktörleri ve arazinin kullanım kapasitesinin belirlenmesi, turizmin hangi bilim dalı ile ilişkili olduğunu gösterir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Coğrafya",
+          "rationale": "İklim, doğal faktörler, arazi kullanımı ve mekana yayılış, 'turizm coğrafyası' alt disiplininin konularıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tarih",
+          "rationale": "Tarih, geçmişteki olaylar ve olgularla ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antropoloji",
+          "rationale": "Antropoloji, ilkel kültürler ve insan bilimi ile ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme",
+          "rationale": "İşletme, finansman, pazarlama gibi fonksiyonlarla ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomi",
+          "rationale": "Ekonomi, arz, talep ve parasal etkilerle ilgilenir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hangi bilim dalı yeryüzünü, iklimi ve doğal kaynakları inceler?"
+    },
+    {
+      "questionNumber": 18,
+      "question": "Konaklama, yeme-içme, seyahat acenteleri gibi işletmelerin finansman, pazarlama ve insan kaynakları fonksiyonlarını yürütmesi, turizmin hangi bilimle ilişkisini ortaya koyar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sosyoloji",
+          "rationale": "Sosyoloji, toplumsal olaylarla ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Hukuk, yasal düzenlemelerle ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Psikoloji",
+          "rationale": "Psikoloji, bireysel davranışlarla ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme",
+          "rationale": "Finansman, muhasebe, yönetim, pazarlama ve insan kaynakları, 'turizm işletmeciliği' alt disiplininin de temelini oluşturan işletme fonksiyonlarıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Coğrafya",
+          "rationale": "Coğrafya, mekan ve yer ile ilgilenir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pazarlama, finansman, yönetim gibi kavramlar hangi bilimin temel taşlarıdır?"
+    },
+    {
+      "questionNumber": 19,
+      "question": "'Turizm sosyolojisi' aşağıdakilerden hangisini incelemez?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistlerin yabancı oldukları çevre ile sosyal ve kültürel etkileşimi",
+          "rationale": "Bu, turizm sosyolojisinin temel konularından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerli toplumun turizmin gelişme sürecinden nasıl etkilendiği",
+          "rationale": "Bu, turizm sosyolojisinin temel konularından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistlerin bir grup içindeki ve grup halindeki davranışları",
+          "rationale": "Bu, turizm sosyolojisinin temel konularından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turizm işletmelerinin muhasebe ve finansman yöntemleri",
+          "rationale": "Bu konu, turizm işletmeciliği ve ekonomi biliminin alanına girer.",
+          "isCorrect": true
+        },
+        {
+          "text": "Toplumsal ahlak ve davranış kalıplarındaki değişim",
+          "rationale": "Turizmin toplumsal etkilerini incelemek sosyolojinin alanıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sosyoloji, toplumsal etkileşimlerle ilgilenir; işletmelerin iç fonksiyonlarıyla değil."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Bireylerin seyahat beklentileri, seyahat sürecindeki tutum ve davranışları, kalite ve memnuniyet algıları turizmin hangi bilim dalıyla ilişkili olduğunu gösterir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Psikoloji",
+          "rationale": "Beklenti, tutum, davranış, algı ve 'psikolojik tatmin' gibi bireysel ve zihinsel süreçler psikoloji biliminin inceleme alanıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ekonomi",
+          "rationale": "Ekonomi, daha çok parasal ve makro düzeydeki etkilerle ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarih",
+          "rationale": "Tarih, geçmiş olaylarla ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Hukuk, kurallar ve yasal düzenlemelerle ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antropoloji",
+          "rationale": "Antropoloji, daha çok kültürel ve toplumsal yapılarla ilgilenir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hangi bilim dalı insanın zihinsel süreçlerini ve davranışlarının nedenlerini inceler?"
+    },
+    {
+      "questionNumber": 21,
+      "question": "İlkel kültürlerin, kabilelerin veya toplumların hayat tarzını inceleyen ve 'insan bilimi' olarak adlandırılan bilim dalı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sosyoloji",
+          "rationale": "Sosyoloji, genel olarak toplum bilimiyken, bu tanım daha spesifik bir alana işaret etmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arkeoloji",
+          "rationale": "Arkeoloji, kazı bilimidir ve maddi kalıntıları inceler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antropoloji",
+          "rationale": "Metin, antropolojiyi 'ilkel kültürlerin... hayat tarzını inceleyen, kısaca insan bilimi' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tarih",
+          "rationale": "Tarih, geçmiş olayları yer ve zaman göstererek inceler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Psikoloji",
+          "rationale": "Psikoloji, bireyin davranışlarını ve zihinsel süreçlerini inceler.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu bilim dalı, turizmin yok olmaya yüz tutmuş kültürel gelenekleri koruma potansiyeliyle ilgilenir."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Kazı vb. yöntemlerle ortaya çıkarılan tarihi yapıtları, kültürel ve sanatsal yönden inceleyen bilim dalı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tarih",
+          "rationale": "Tarih, bu yapıtların ait olduğu dönemin olaylarını inceler, ancak kazı ve maddi kalıntı analizi başka bir bilimin işidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antropoloji",
+          "rationale": "Antropoloji, bu yapıtlardan çok o dönemdeki insanı ve kültürünü inceler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyoloji",
+          "rationale": "Sosyoloji, o dönemdeki toplumsal yapıyı inceler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Coğrafya",
+          "rationale": "Coğrafya, o yapıtın bulunduğu mekanın özelliklerini inceler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arkeoloji",
+          "rationale": "Tanım, doğrudan 'kazı' yönteminden bahsederek arkeolojiyi işaret etmektedir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Bu bilim dalı, turizmin ana çekicilik unsurlarını (örn. Efes, Göbeklitepe) ortaya çıkarır."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Tüketici koruma, iş hukuku, ticaret hukuku ve kıyı kanunu gibi düzenlemeler, turizmin hangi bilim dalı ile olan ilişkisini gösterir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ekonomi",
+          "rationale": "Ekonomi, bu kanunların ekonomik etkilerini inceler ama kanunları oluşturmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Siyasal Bilimler",
+          "rationale": "Siyaset, bu kanunların yapılma sürecini etkiler ama kanunların içeriği bu bilim dalına aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Tüm bu kanunlar ve yasal düzenlemeler, toplum düzenini sağlayan hukuk biliminin kapsamındadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosyoloji",
+          "rationale": "Sosyoloji, bu kanunların toplumsal etkilerini inceler.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme",
+          "rationale": "İşletmeler bu hukuk kurallarına uymak zorundadır, ancak kuralların kendisi hukuk bilimidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kanunlar, yönetmelikler ve yasal düzenlemeler hangi bilimin konusudur?"
+    },
+    {
+      "questionNumber": 24,
+      "question": "Ulaşım araçlarındaki hız, güvenlik ve konforun artması ile konaklama işletmelerindeki özgün tasarımlar, turizmin hangi alanlarla ilişkisini gösterir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tarih ve Arkeoloji",
+          "rationale": "Bu alanlar geçmişle ilgilidir, modern teknoloji ve tasarımla değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mühendislik ve Mimarlık",
+          "rationale": "Ulaşım araçlarındaki gelişmeler mühendislik, özgün işletme tasarımları ise mimarlık alanının konusudur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Psikoloji ve Sosyoloji",
+          "rationale": "Bu alanlar, bu gelişmelerin insan ve toplum üzerindeki etkilerini inceler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomi ve İşletme",
+          "rationale": "Bu alanlar, bu gelişmelerin maliyetini ve yönetimini inceler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tıp ve Eğitim",
+          "rationale": "Bu alanların konuyla doğrudan bir ilgisi yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Biri araçların ve sistemlerin, diğeri binaların tasarımıyla ilgilidir."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Turizmin ancak barışçıl ortamlarda, karşılıklı anlayış ve hoşgörü ile gelişebilmesi, onun hangi bilim dalıyla olan yakın ilişkisini vurgular?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tıp",
+          "rationale": "Tıp, sağlıkla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Hukuk, iç düzenlemelerle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Siyasal Bilimler",
+          "rationale": "Barış, hoşgörü, uluslararası ilişkiler ve ülkelerin birbirleriyle olan siyaseti, siyasal bilimlerin konusudur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eğitim",
+          "rationale": "Eğitim, insan gücü yetiştirmekle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Coğrafya",
+          "rationale": "Coğrafya, mekanla ilgilidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ülkeler arası ilişkileri, barış ve savaş durumlarını inceleyen bilim dalı hangisidir?"
+    },
+    {
+      "questionNumber": 26,
+      "question": "Alternatif turizm türleri altında gelişen estetik cerrahi, organ nakli ve diş tedavisi gibi motivasyonlar, turizmin hangi bilimle ilişkisini güçlendirmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Psikoloji",
+          "rationale": "Bu motivasyonların psikolojik temelleri olsa da, eylemin kendisi başka bir bilim dalıyla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyoloji",
+          "rationale": "Bu, sosyolojiden çok bireysel bir sağlık ihtiyacıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antropoloji",
+          "rationale": "Antropoloji, kültürle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tıp",
+          "rationale": "Sağlık turizmi, medikal turizm, termal turizm, cerrahi operasyonlar ve tedaviler doğrudan tıp biliminin alanındadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ekonomi",
+          "rationale": "Bu, tıp turizminin ekonomik boyutudur, ancak eylemin kökeni tıp bilimindedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Medikal turizm ve sağlık turizmi hangi bilimsel alanı temel alır?"
+    },
+    {
+      "questionNumber": 27,
+      "question": "Turizm endüstrisinin bölgesel ve ülkesel boyutta uygun şekilde geliştirilmesi ve hizmet kalitesinin artırılması için 'nitelikli insan gücü'ne ihtiyaç duyulması, turizmin hangi alanla ilişkisini vurgular?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eğitim",
+          "rationale": "Nitelikli insan gücünün yetiştirilmesi, 'belirli bilgi ve becerilerin verilmesi' süreci olan eğitim ile mümkündür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hukuk",
+          "rationale": "Hukuk, bu personelin yasal haklarını düzenler ama onları yetiştirmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tıp",
+          "rationale": "Tıp, sağlıkla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Siyasal Bilimler",
+          "rationale": "Siyaset, eğitim politikalarını belirleyebilir ancak eylemin kendisi eğitimdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarih",
+          "rationale": "Tarih, geçmişle ilgilidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hizmet kalitesini ayrıştıracak en önemli nokta, çalışanların sahip olduğu bilgi ve becerilerdir."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Cohen'in (1972) turist tipolojisine göre, esneklik taşımayan, önceden belirlenmiş programlara bağlı kalan ve grupla hareket eden turist tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gezgin (Explorer)",
+          "rationale": "Gezginler tamamen bağımsız hareket eder ve planlarını kendileri yaparlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Başıboş turist (Drifter)",
+          "rationale": "Başıboş turistler, plansız hareket eder ve yerel topluma karışmaya çalışırlar; formal turizme en uzak tiptir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel kitle turisti (Individual mass tourist)",
+          "rationale": "Bu tip, paket turu tercih etse de programda bir nebze özgürlük ve esneklik bekler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Örgütlü kitle turisti (Organized mass tourist)",
+          "rationale": "Bu tanım, 'esneklik taşımayan, önceden belirlenmiş programlar' ve 'grupla hareket etme' özellikleriyle örgütlü kitle turistini tam olarak karşılar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dışadönük (Allosentrik) turist",
+          "rationale": "Bu, Plog'un tipolojisindendir ve macerayı seven, bağımsız tipleri tanımlar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu turist tipi, en az esnekliğe sahip olan ve paket tura en bağımlı olan tiptir."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Cohen'e (1972) göre, seyahat planını tamamen kendisi hazırlayan, diğer turistlerden kaçınan ancak belirli bir rahatlık ve güvenlik beklentisi olan turist tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Örgütlü kitle turisti",
+          "rationale": "Bu tip, planı kendi yapmaz ve grupla hareket eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel kitle turisti",
+          "rationale": "Bu tip, yine de bir paket tura bağlıdır, tamamen bağımsız değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gezgin (Explorer)",
+          "rationale": "Bu tanım, 'tamamen bağımsız hareket ederler', 'planı kendileri yaparlar' ve 'belirli bir düzeyde rahatlık ve güvenlik beklentisine sahiptirler' ifadeleriyle Gezgin tipini tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Başıboş turist (Drifter)",
+          "rationale": "Başıboş turist, rahatlık ve güvenlik beklentisi daha düşük olan ve plan yapmayan tiptir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İçedönük (Psikosentrik) turist",
+          "rationale": "Bu, Plog'un tipolojisindendir ve bağımsız hareket etmekten çok bilinen yerleri tercih eder.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu tip, bağımsızdır ancak 'Başıboş' turist kadar da konforundan ödün vermez."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Cohen'in (1972) tipolojisinde, kendini geçici bir süreliğine yerel toplumun bir parçası olarak kabul ettirme eğiliminde olan ve formal turizm endüstrisine en uzak olan tip hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gezgin",
+          "rationale": "Gezgin, yerel insanlarla tanışır ama kendini toplumun bir parçası yapmaya çalışmaz ve güvenlik beklentisi vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Başıboş turist (Drifter)",
+          "rationale": "Metin, bu tipi 'kendini yerel toplumun bir parçası olarak kabul ettirme eğiliminde' ve 'Formal turizm endüstrisine en uzak turist tipi' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bireysel kitle turisti",
+          "rationale": "Bu tip, formal turizm endüstrisinin bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Örgütlü kitle turisti",
+          "rationale": "Bu tip, formal turizm endüstrisine tamamen bağımlıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Araştırıcı (Smith)",
+          "rationale": "Bu, Smith'in tipolojisindendir, Cohen'in değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu turist tipi, önceden plan yapmaz ve en maceracı olanıdır."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Plog'un (1977) tipolojisine göre, bilinen, popüler destinasyonları tercih eden ve maceraperestlik özelliği taşımayan turist tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İçedönük (Psikosentrik) turist",
+          "rationale": "Metin, içedönük (psikosentrik) turistleri 'bilinen, popüler destinasyonları tercih ederler' ve 'maceraperestlik özelliği taşımazlar' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dışadönük (Allosentrik) turist",
+          "rationale": "Dışadönük (allosentrik) turistler, tam tersine, macerayı ve egzotik yerleri severler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Orta merkezli turist",
+          "rationale": "Bu, Plog'un iki uç noktası arasında yer alan bir ara kategoridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Örgütlü kitle turisti (Cohen)",
+          "rationale": "Bu, Cohen'in tipolojisindendir ve Plog'un içedönük tipine benzese de, Plog'un terminolojisi farklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle turisti (Smith)",
+          "rationale": "Bu, Smith'in tipolojisindendir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu turist tipi, risk almayı sevmez ve güvenli, tanıdık yerleri seçer."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Plog'a (1977) göre, macerayı ve risk almayı seven, egzotik destinasyonları ve bireysel seyahatleri tercih eden turist tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İçedönük (Psikosentrik) turist",
+          "rationale": "İçedönük turistler maceradan kaçınır ve popüler yerleri tercih eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dışadönük (Allosentrik) turist",
+          "rationale": "Metin, dışadönük (allosentrik) turistleri 'macerayı ve risk almayı seven, egzotik destinasyonları... tercih eden' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Orta merkezli turist",
+          "rationale": "Bu, iki uç arasında yer alan, dengeli bir tiptir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Başıboş turist (Cohen)",
+          "rationale": "Bu, Cohen'in tipolojisindendir ve Plog'un dışadönük tipine benzese de, Plog'un terminolojisi farklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gezgin (Cohen)",
+          "rationale": "Bu, Cohen'in tipolojisindendir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu turist tipi, psikosentrik tipin tam zıttıdır."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Plog'un (1977) turist tipolojisi temel olarak hangi iki zıt kişilik yapısına dayanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Örgütlü ve Başıboş",
+          "rationale": "Bu, Cohen'in tipolojisindeki iki uç noktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel ve Kitle",
+          "rationale": "Bu, Cohen'in tipolojisinde kullanılan bir ayrımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seçkin ve Kitle",
+          "rationale": "Bu, Smith'in tipolojisinde kullanılan terimlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Araştırıcı ve Gezgin",
+          "rationale": "Bunlar farklı tipolojilerdeki benzer ama farklı terimlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İçedönük (Psikosentrik) ve Dışadönük (Allosentrik)",
+          "rationale": "Plog'un çalışması, bu iki zıt kişilik yapısı (içe dönük/riski sevmeyen ve dışa dönük/maceracı) üzerine kuruludur.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Bu tipoloji, turistlerin psikolojik yapılarını merkeze alır."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Smith'in (1989) tipolojisine göre, yeni bilgi ve bulgular arayan, giyinme, barınma ve beslenme konusunda yerel geleneklere tam uyum sağlayan turist tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Araştırıcı (Explorer)",
+          "rationale": "Metin, 'araştırıcı' turisti 'yeni bilgi ve bulgular arar' ve 'yerel geleneklere uyumludur' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Seçkin (Elite)",
+          "rationale": "Seçkin turist de yerel halkla uyumludur ancak tanımı 'bilgilerini arttırma, değişiklik' üzerinedir, tam uyumdan ziyade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garip (Off-beat)",
+          "rationale": "Garip turist, sade donanım tercih eder ve kalabalıktan uzaklaşmak ister.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitlemsi (Incipient mass)",
+          "rationale": "Kitlemsi turistler, kitle turizminin başlangıç aşamasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Başıboş (Drifter - Cohen)",
+          "rationale": "Bu, Cohen'in tipolojisindedir ve Smith'in 'Araştırıcı' tipine benzer özellikler gösterir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu, Smith'in tipolojisindeki en maceracı ve yerel kültüre en çok adapte olan tiptir."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Smith'e (1989) göre, organize turları tercih eden ve yerel kültüre az ilgi duyan turist tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Araştırıcı",
+          "rationale": "Araştırıcı, yerel kültüre tam uyum sağlar ve organize turlardan kaçınır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seçkin",
+          "rationale": "Seçkin, yerel halk ile uyumludur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garip",
+          "rationale": "Garip, kalabalıktan ve organize turlardan uzaklaşmak ister.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olağandışı (Unusual)",
+          "rationale": "Metin, 'olağandışı' turisti 'Organize turlar tercih ederler. Yerel kültüre az ilgi duyarlar' şeklinde tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kitlemsi",
+          "rationale": "Kitlemsi turistler bireysel ya da küçük gruplar halinde seyahat edebilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu turist tipi, kitle turizmine yakındır ancak 'kitle' veya 'kapsamlı' kadar yoğun değildir."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Smith'in (1989) tipolojisinde 'Kitlemsi' (Incipient mass) turistler nasıl tanımlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yerel geleneklere tam uyum sağlayanlar",
+          "rationale": "Bu, 'Araştırıcı' turistlerin özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece organize turları tercih edenler",
+          "rationale": "Bu, 'Olağandışı' turistlerin özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalabalıktan tamamen uzaklaşmak isteyenler",
+          "rationale": "Bu, 'Garip' turistlerin özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel ya da küçük gruplar halinde seyahat eden ve kitle turizminin başlangıcında olanlar",
+          "rationale": "Metin, kitlemsi turistleri 'Bireysel ya da küçük gruplar halinde seyahat eden... başlangıç aşamasında olan kitle turistleri' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bilgilerini artırma ve hoş vakit geçirme amacında olanlar",
+          "rationale": "Bu, 'Seçkin' turistlerin özelliğidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu tip, 'kitle' turizmine geçiş aşamasında olan bir grubu ifade eder."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Farklı doğal özellikleri veya çekicilikleri olan ve ziyaretçilerin ilgisini çeken yer' olarak tanımlanan kavram nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistik Yöre",
+          "rationale": "Turistik yöre, turizm varlıkları nedeniyle önemli boyutta turizm hareketlerine hedef olan yer olarak tanımlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Destinasyon",
+          "rationale": "Metin, destinasyonu 'farklı doğal özellikleri veya çekicilikleri olan ve ziyaretçilerin ilgisini çeken yer' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çekim Elemanı",
+          "rationale": "Çekim elemanı, bir destinasyonun içinde yer alan spesifik bir ilgi noktasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistik Donanım",
+          "rationale": "Turistik donanım, turistik yöredeki altyapı ve tesislerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistik Alan",
+          "rationale": "Turistik alan, turistik yöre ile benzer bir anlamda kullanılır ancak 'destinasyon' tanımı daha spesifik olarak verilmiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu kavram, ziyaretçileri cezbeden geçici konaklama yerlerini ifade eder."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Turizm bakımından güçlü çekim elemanlarına ve turistik donanımlara sahip olan ve önemli boyutta turizm hareketlerine hedef olan yer'e ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Destinasyon",
+          "rationale": "Destinasyon, ziyaretçilerin ilgisini çeken yer olarak daha genel tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistik Alan / Turistik Yöre",
+          "rationale": "Metin, 'Turistik alan ya da turistik yöre'yi tam olarak bu şekilde 'güçlü çekim elemanlarına, turistik donanımlara sahip... hedef olan yer' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çekim Merkezi",
+          "rationale": "Bu, turistik alanla eş anlamlı kullanılabilir ancak metindeki spesifik tanım budur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistik Ürün",
+          "rationale": "Turistik ürün, bu alanda sunulan mal ve hizmetlerin bütünüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turizm Arzı",
+          "rationale": "Turizm arzı, bu donanımların ve çekiciliklerin toplamıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu kavram, hem çekicilikleri hem de altyapıyı (donanım) içeren bir bölgeyi ifade eder."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Aşağıdakilerden hangisi bir 'Destinasyon' örneği olarak kabul edilebilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bir otel odası",
+          "rationale": "Bu, destinasyon içindeki bir konaklama birimidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir tur operatörü",
+          "rationale": "Bu, turizm endüstrisindeki bir aracı kuruluştur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Paris şehri",
+          "rationale": "Paris, kendine has çekicilikleri (Eyfel, müzeler vb.) olan ve ziyaretçilerin ilgisini çeken bir 'yer' olarak destinasyon tanımına uyar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bir uçak bileti",
+          "rationale": "Bu, destinasyona ulaşmak için gereken bir hizmettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir restoran menüsü",
+          "rationale": "Bu, destinasyondaki bir yeme-içme işletmesinin sunduğu bir üründür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Destinasyon, coğrafi bir 'yer'i ifade eder."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Aşağıdakilerden hangisi 'Turist Özellikleri' analizinde dikkate alınan unsurlardan biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sosyo-Ekonomik Özellikler (Gelir düzeyi, meslek vb.)",
+          "rationale": "Bu, metinde 'Turistlerin özellikleri' başlığı altında listelenen ana kategorilerden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kullanım Düzeyleri (Ziyaretçi sayısı, yoğunluğu vb.)",
+          "rationale": "Bu, metinde 'Turistlerin özellikleri' başlığı altında listelenen ana kategorilerden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ziyaretçilerin kalış süreleri",
+          "rationale": "Bu, metinde 'Turistlerin özellikleri' başlığı altında listelenen ana kategorilerden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistik faaliyet türleri (Katıldığı etkinlikler vb.)",
+          "rationale": "Bu, metinde 'Turistlerin özellikleri' başlığı altında listelenen ana kategorilerden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistik alanın mimari yapısı",
+          "rationale": "Bu, turistin bir özelliği değil, 'turistik alanın' bir özelliğidir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Soru, turistin kendisinin özelliklerini sormaktadır, ziyaret ettiği yerin değil."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Turistlerin ziyaret ettikleri yörede kalış sürelerinin uzaması, öncelikle neyin artmasına neden olabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Destinasyonun doğal güzelliklerinin",
+          "rationale": "Kalış süresi doğal güzellikleri etkilemez, ancak bu güzellikler kalış süresini etkileyebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turist ve yerel halk arasındaki sosyal etkileşimin",
+          "rationale": "Metne göre, 'kalış süreleri uzadıkça, doğal olarak yerel halk ile kurulacak temas artabilir' ve bu durum sosyal etkileşimi artırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turistin gelir düzeyinin",
+          "rationale": "Turistin gelir düzeyi kalış süresini belirler, kalış süresi turistin gelir düzeyini artırmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Destinasyonun imajının mutlaka olumsuzlaşmasının",
+          "rationale": "Etkileşim artar ancak bu imajı olumlu ya da olumsuz etkileyebilir, 'mutlaka olumsuzlaşır' denemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistin harcama yapmasının tamamen durmasının",
+          "rationale": "Tam tersine, kalış süresi uzadıkça toplam harcama artar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Daha uzun süre aynı yerde kalmak, o yerin insanlarıyla olan teması nasıl etkiler?"
+    },
+    {
+      "questionNumber": 42,
+      "question": "Bir yöreye 'yenilik ve merak güdüsü' ile giden bir turistin, 'tedavi ve sağlık amacıyla' giden bir turiste göre yerel halkla etkileşimi nasıl olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Daha az olur.",
+          "rationale": "Tam tersi beklenir; merak eden turist çevreyi keşfetmek ister.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha fazla olur.",
+          "rationale": "Metin, 'yenilik ve merak güdüsü ile giden bir turist grubunun yerel halk ile olan etkileşimi fazla olurken', sağlık amaçlı gidenin 'daha sınırlı olacaktır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aynı düzeyde olur.",
+          "rationale": "İki farklı motivasyonun etkileşim düzeyi de farklı olacaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etkileşimi hiç olmaz.",
+          "rationale": "'Daha fazla' olması 'hiç olmaz'dan farklıdır; sağlık amaçlı gidenin bile sınırlı da olsa etkileşimi olur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece ekonomik etkileşim olur.",
+          "rationale": "Merak güdüsü, ekonomik etkileşimin ötesinde sosyal etkileşime de yol açar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hangi turist tipi (meraklı mı, tedavi olan mı) çevresini keşfetmeye daha açıktır?"
+    },
+    {
+      "questionNumber": 43,
+      "question": "Ziyaretçilerin sosyo-ekonomik özellikleri arasında aşağıdakilerden hangisi sayılmamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gelir düzeyleri ve meslek",
+          "rationale": "Bu, metinde sayılan sosyo-ekonomik özelliklerdendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Din ve dini uygulamaları",
+          "rationale": "Bu, metinde sayılan sosyo-ekonomik özelliklerdendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tutumlar ve beklentiler",
+          "rationale": "Bu, metinde sayılan sosyo-ekonomik özelliklerdendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ziyaretçi yoğunluğu ve mekânsal dağılım",
+          "rationale": "Bu, sosyo-ekonomik özellikler değil, 'Kullanım Düzeyleri' başlığı altındaki özelliklerdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Önceki seyahat deneyimleri",
+          "rationale": "Bu, metinde sayılan sosyo-ekonomik özelliklerdendir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Soru, bireyin kişisel özelliklerini (meslek, gelir, tutum) sormaktadır; gruba ait özellikleri (yoğunluk, dağılım) değil."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Turistlerin tatillerinden tatmin olmaları (memnun kalmaları) neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tatmin olan turistler daha az para harcar.",
+          "rationale": "Tatmin olan turistlerin tekrar gelme ve daha fazla harcama yapma olasılığı yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yöre halkı ile daha iyi iletişim kurarlar ve yörenin imajını etkilerler.",
+          "rationale": "Metin, 'tatmin olmuş ziyaretçiler yöre halkı ile daha iyi iletişim kurmaya çalışırlar' ve 'Bu aynı zamanda yörenin imajının tespitinde... belirleyici olacaktır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tatmin olan turistler yörede daha kısa kalır.",
+          "rationale": "Tatmin olan bir turistin kalış süresini uzatması veya tekrar gelmesi daha olasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece tatmin olan turistler yerel kültüre ilgi duyar.",
+          "rationale": "Tatmin olmasa da yerel kültüre ilgi duyan turistler olabilir (örn. araştırmacılar).",
+          "isCorrect": false
+        },
+        {
+          "text": "Tatmin olan turistler bir daha o yöreye gelmezler.",
+          "rationale": "Tam tersine, tatmin düzeyi tekrar ziyaret etme niyetini doğrudan etkiler.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Memnuniyet, turistin hem yerel halkla ilişkisini hem de o yer hakkındaki gelecekteki düşüncelerini etkiler."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Bir birey veya grubun belli bir nesne veya alanla ilgili sahip oldukları bilgi, izlenimler, önyargılar ve hissi düşünceler' olarak tanımlanan kavram nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İmaj",
+          "rationale": "Metin, 'İmaj'ı tam olarak bu şekilde tanımlamaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Memnuniyet",
+          "rationale": "Memnuniyet, beklentilerin karşılanma düzeyidir; imaj ise o beklentiyi oluşturan izlenimdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Motivasyon",
+          "rationale": "Motivasyon, seyahat etme dürtüsüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Algı",
+          "rationale": "İmaj, algılamalar sonucu oluşur ancak tanım daha çok 'izlenimler bütünü'nü ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tutum",
+          "rationale": "Tutum, bir nesneye yönelik eğilimdir; imaj ise o nesnenin zihindeki resmidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu kavram, bir yerin zihnimizdeki 'resmi' veya 'izlenimi'dir."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Metne göre, İsviçre hangi tatil anlayışı ile özdeşleşmiş durumdadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ucuz paket tatiller",
+          "rationale": "Bu, İspanya ile özdeşleştirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Egzotik tatiller",
+          "rationale": "Bu, Tayland ile özdeşleştirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kayak ve dağcılık tatilleri",
+          "rationale": "Metin, 'İsviçre kayak ve dağcılık tatilleri ile özdeşleşmiş durumdadır' demektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tarihi ve otantik değerler",
+          "rationale": "Bu, İngiltere ile özdeşleştirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültür ve sanat tatilleri",
+          "rationale": "Bu metinde spesifik bir ülke ile eşleştirilmemiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu ülkenin coğrafi yapısı (dağlar) imajını belirlemiştir."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Bir turistik alanın 'imajı' ile 'gerçek durum' arasındaki farkın büyük olması, muhtemelen neye yol açar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistlerin memnuniyetinin artmasına",
+          "rationale": "Beklentiler (imaj) ile deneyimler (gerçek durum) arasındaki fark, memnuniyetsizliğe yol açar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistlerin memnuniyetsizliğinin artmasına",
+          "rationale": "Metin, 'İmaj ve gerçek durum arasındaki fark... ne kadar büyükse muhtemelen turistlerin memnuniyetsizliği de bir o kadar büyük olacaktır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turist sayısının artmasına",
+          "rationale": "Memnuniyetsizlik, turist sayısını uzun vadede azaltır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tur operatörlerinin kârının artmasına",
+          "rationale": "Memnuniyetsizlik, tur operatörleri için de uzun vadede olumsuzdur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel halkın turistlere olan sevgisinin artmasına",
+          "rationale": "Memnuniyetsiz turistler ile yerel halk arasındaki ilişkiler de olumsuz etkilenebilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Beklentileriniz (imaj) karşılanmazsa (gerçek durum) ne hissedersiniz?"
+    },
+    {
+      "questionNumber": 48,
+      "question": "Kimler arasında 'turistik ürünü en iyi satabileceğini düşündüğü imaj' ile 'resmi yönetimin hedeflediği turistik imaj' arasında bir çatışma olabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistler ve yerel halk",
+          "rationale": "Çatışma, imajı 'yaratanlar' ve 'pazarlayanlar' arasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kamu yönetimi ve tur operatörleri",
+          "rationale": "Metin, 'resmi yönetimin hedeflediği... imaj' ile 'bir tur operatörünün hedefleri' arasında çatışma olabileceğini belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tur operatörleri ve otel işletmeleri",
+          "rationale": "Metin, bu iki grup arasındaki çatışmadan değil, kamu ve özel sektör arasındaki çatışmadan bahseder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistler ve tur operatörleri",
+          "rationale": "Turistler imajı tüketir, tur operatörleri pazarlar; çatışma pazarlamacılar ile düzenleyiciler arasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kamu yönetimi ve yerel halk",
+          "rationale": "Bu iki grubun hedefleri çatışabilir ancak metin, imaj pazarlaması konusunda spesifik olarak tur operatörlerinden bahseder.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çatışma, bölgenin imajını 'resmi' olarak belirleyenler ile onu 'satanlar' arasındadır."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Aşağıdakilerden hangisi metinde belirtilen 'turistlere karşı işlenen suçlar'dan biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Cinsel Saldırı",
+          "rationale": "Bu, metindeki listede yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapkaççılık",
+          "rationale": "Bu, metindeki listede yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dolandırıcılık",
+          "rationale": "Bu, metindeki listede yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistlerin yerel halka trafik kurallarıyla ilgili yaptığı uyarılar",
+          "rationale": "Bu bir suç değildir, bir etkileşim biçimidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turistlere yönelik terörist eylemler",
+          "rationale": "Bu, metindeki listede yer almaktadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Soru, turistlere 'karşı' işlenen suçları sormaktadır. Seçeneklerden biri bir suç eylemi değildir."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Yapılan araştırmalara göre, İstanbul'a gelen yabancı turistlerin en fazla müşteki olduğu (şikayetçi olduğu) suç türü nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fuhuş",
+          "rationale": "Araştırmaya göre bu oran %1.9'dur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ölüm ve gasp",
+          "rationale": "Araştırmaya göre bu oran %2.2'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hırsızlık",
+          "rationale": "Araştırmaya göre %52.9 ile en yüksek oran hırsızlığa aittir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dolandırıcılık",
+          "rationale": "Dolandırıcılık listede olsa da, İstanbul araştırmasında en yüksek oran olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Terörist eylemler",
+          "rationale": "Bu, İstanbul araştırmasının sonuçlarında spesifik bir yüzde ile verilmemiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Şikayetlerin yarısından fazlasını oluşturan suç türü hangisidir?"
+    },
+    {
+      "questionNumber": 51,
+      "question": "Aşağıdakilerden hangisi metinde belirtilen 'Turistler Arasındaki Çatışma' türlerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İlgi çatışması",
+          "rationale": "Bu, metindeki listede (gezi güzergahı örneği ile) yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişilik farklılıkları",
+          "rationale": "Bu, metindeki listede (alıngan, inatçı vb. örnekleriyle) yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik çatışma (Gelir düzeyi farkı)",
+          "rationale": "Listede 'konum ve kültür farklılıkları' vardır ancak 'ekonomik çatışma' bu başlık altında spesifik olarak listelenmemiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aile çatışmaları",
+          "rationale": "Bu, metindeki listede (çiftlerin sürekli bir arada olması örneği ile) yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çıkar çatışması",
+          "rationale": "Bu, metindeki listede (otobüste oturma yeri örneği ile) yer almaktadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Metindeki çatışma türleri listesini gözden geçirin. Hangisi bu listede yer almıyor?"
+    },
+    {
+      "questionNumber": 52,
+      "question": "Gezi esnasında yol güzergahında bir yeri ziyaret etmenin kimileri için cazip, kimileri için zaman kaybı olarak görülmesi, hangi tür turist çatışmasına örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çıkar çatışması",
+          "rationale": "Çıkar çatışması, otobüste yer kapma gibi bireysel çıkarlarla ilgili örneklenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişilik farklılıkları",
+          "rationale": "Bu durum kişilikten çok, o anki tercihlerle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Davranış çatışması",
+          "rationale": "Davranış çatışması, pis kokma veya müstehcen fıkralar gibi kişisel davranışlarla örneklenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İlgi çatışması",
+          "rationale": "Metin, 'ilgi çatışması'nı tam olarak bu 'yol güzergahında bir yeri ziyaret' etme örneği ile açıklar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Cinsel çatışmalar",
+          "rationale": "Bu durumun cinsel çatışmalarla bir ilgisi yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu çatışma, grubun ne yapmak 'istediği' (ilgi alanı) ile ilgilidir."
+    },
+    {
+      "questionNumber": 53,
+      "question": "Turistlerin bazılarının otobüste en önde ya da cam kenarında oturma isteği hangi çatışma türüne girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İlgi çatışması",
+          "rationale": "İlgi çatışması, yapılacak aktiviteyle (örn. müze ziyareti) ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çıkar çatışması",
+          "rationale": "Metin, 'çıkar çatışması'nı 'otobüste en önde ya da cam kenarında oturma' örneği ile açıklar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aile çatışmaları",
+          "rationale": "Bu durumun aile içi ilişkilerle doğrudan bir ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Davranış çatışması",
+          "rationale": "Bu bir davranış bozukluğundan çok, kişisel bir avantaj (çıkar) elde etme isteğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konum ve kültür farklılıkları",
+          "rationale": "Bu durum, statüden çok o anki kişisel bir tercihle ilgilidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu durum, kişisel bir avantaj veya 'çıkar' elde etme isteğinden kaynaklanır."
+    },
+    {
+      "questionNumber": 54,
+      "question": "Turist grubundaki bir kişinin çok pis kokması veya müstehcen fıkralar anlatması hangi çatışma türüne örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Davranış çatışması",
+          "rationale": "Metin, 'davranış çatışması'nı 'gruptaki bir kişinin çok pis kokması, müstehcen fıkralar anlatması' örneği ile açıklar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişilik farklılıkları",
+          "rationale": "Bu durum kişilikten kaynaklansa da, metin bunu spesifik olarak 'davranış' çatışması olarak sınıflandırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İlgi çatışması",
+          "rationale": "Bu, yapılacak bir aktiviteyle ilgili bir tercih farkı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çıkar çatışması",
+          "rationale": "Bu, bir avantaj elde etme durumu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile çatışmaları",
+          "rationale": "Bu, aile içi bir sorun değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu çatışma, bir bireyin kişisel 'eylemleri' ve 'tavırları' ile ilgilidir."
+    },
+    {
+      "questionNumber": 55,
+      "question": "Turizmin başlangıcı olarak kabul edilen, yazıyı ve tekerleği ilk bulan ve ticari ilişkilerde parayı ilk kullanan medeniyet hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Romalılar",
+          "rationale": "Romalılar, yol ve güvenlik sistemiyle turizmi geliştirmiştir ancak başlangıcı değillerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fenikeliler",
+          "rationale": "Fenikeliler, Amber Yolu ile ilk gezginler olarak düşünülür, ancak tekerlek ve yazı onlardan öncedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sümerler",
+          "rationale": "Metin, turizmin başlangıcını M.Ö. 4000'lerde 'yazıyı ve tekerleği ilk bulan ve kullanan Sümerlere' dayandırmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eski Yunanlılar",
+          "rationale": "Eski Yunanlılar, Olimpiyat oyunları ile spor turizmini başlatmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çinliler",
+          "rationale": "Çinliler, İpek Yolu ile önemli ticaret gezileri yapmışlardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu medeniyet, Mezopotamya'da M.Ö. 4000'lerde yaşamıştır."
+    },
+    {
+      "questionNumber": 56,
+      "question": "İlk Çağ'da Akdeniz ülkelerinde düzenlenen 'Olimpiyat oyunları' günümüzdeki hangi turizm türünün ilk örneklerini oluşturmuştur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sağlık turizmi",
+          "rationale": "Sağlık turizmi daha çok kaplıcalar ve tedavi amaçlı seyahatlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültür turizmi",
+          "rationale": "Olimpiyatlar kültürel bir boyut taşısa da, temel amacı 'oyunlar'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spor turizmi",
+          "rationale": "Metin, 'Olimpiyat oyunları'nı 'bugünkü spor turizminin oluşmasını sağlamışlardır' diyerek açıkça belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ticaret turizmi",
+          "rationale": "Ticaret turizmi, Sümerler ve Fenikeliler ile ilişkilendirilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dinî turizm",
+          "rationale": "Olimpiyatların temelinde dinsel inanışlar olsa da, ortaya çıkan turizm türü 'spor' odaklıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Olimpiyatlar ne tür bir etkinliktir?"
+    },
+    {
+      "questionNumber": 57,
+      "question": "Anadolu'nun birçok yerini gezerek İlyada ve Odysseia'yı yazan ve İlk Çağ'daki önemli seyyahlardan olan bilgin kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Heredot",
+          "rationale": "Heredot, gezdiği yerlerin geleneklerini yazan 'ilk turizm yazarı' olarak kabul edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pausanias",
+          "rationale": "Pausanias, 'Yunanistan'ın Yol Rehberi'ni yazmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Büyük İskender",
+          "rationale": "Büyük İskender, Efes'i kuran bir liderdir, bir seyyah-yazar değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Homeros",
+          "rationale": "Metin, 'İlyada ve Odysseia'yı yazan' kişinin Homeros olduğunu belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Marco Polo",
+          "rationale": "Marco Polo, Orta Çağ'da yaşamış bir seyyahdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu yazar, iki ünlü destanın yaratıcısıdır."
+    },
+    {
+      "questionNumber": 58,
+      "question": "Orta Çağ'da seyahat yoğunluğunun azalmasının temel nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Roma İmparatorluğu'nun çöküşü, feodal düzen ve güvensizlik ortamı",
+          "rationale": "Metin, Roma'nın çöküşü, derebeylikler, 'sürekli savaşlar, istilalar ve güvensizlik ortamı'nın seyahat yoğunluğunun azalmasına neden olduğunu belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dinî turizm hareketlerinin tamamen durması",
+          "rationale": "Tam tersine, Orta Çağ'da hac turizmi (Kudüs, Mekke) devam etmiş ve önemli bir seyahat nedeni olmuştur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kaplıcalara olan ilginin tamamen bitmesi",
+          "rationale": "Metin, 'Roma'daki ölçüde olmamakla birlikte kaplıcalara yönelik seyahatler devam etmiştir' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Marco Polo'nun kağıt parayı Avrupa'ya getirmesi",
+          "rationale": "Bu, Orta Çağ'ın sonlarına doğru gerçekleşen ve ticareti kolaylaştıran bir gelişmedir, seyahati azaltmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kervansarayların ve hanların inşa edilmesi",
+          "rationale": "Bu yapılar, seyahati azaltan değil, tam tersine kolaylaştıran unsurlardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Roma'nın sağladığı güvenlik ortamı (Pax Romana) ortadan kalkınca ne oldu?"
+    },
+    {
+      "questionNumber": 59,
+      "question": "Marco Polo'nun Çin seyahatinin en önemli hizmeti olarak belirtilen gelişme nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Asya'yı Avrupa'ya tanıtan ilk yayını yapması",
+          "rationale": "Bu önemli bir hizmetidir ancak metin 'en önemli hizmeti' olarak başka bir şeyi vurgular.",
+          "isCorrect": false
+        },
+        {
+          "text": "Haçlı seferlerini başlatması",
+          "rationale": "Haçlı seferleri, Marco Polo'dan çok önce başlamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anadolu'daki kervansarayları inşa etmesi",
+          "rationale": "Kervansaraylar, Türkler (Selçuklular, Osmanlılar) tarafından inşa edilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Uçan para' olarak adlandırılan kağıt parayı Çin'den Avrupa'ya getirmesi",
+          "rationale": "Metin, 'en önemli hizmeti'nin 'uçan para' olarak adlandırılan kağıt parayı getirmesi olduğunu belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İpek Yolu'nu tek başına keşfetmesi",
+          "rationale": "İpek Yolu, Marco Polo'dan yüzyıllar önce de var olan bir ticaret yoluydu.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu buluş, günümüz para sisteminin temelini oluşturmuştur."
+    },
+    {
+      "questionNumber": 60,
+      "question": "Orta Çağ'da Türklerde ticaret yolu üzerindeki kervanların korunması ve konaklaması için yapılan tesislere ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Han",
+          "rationale": "Hanlar, daha çok 'şehir ve kasaba içinde' bulunan ticari işletmelerdir (Örn: Koza Han).",
+          "isCorrect": false
+        },
+        {
+          "text": "Kervansaray",
+          "rationale": "Metin, 'eski ticaret yolu üzerindeki kervanların korunması ve konaklaması için' kervansarayların yapıldığını belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kaplıca",
+          "rationale": "Kaplıcalar, sağlık amaçlı tesislerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Katedral",
+          "rationale": "Katedraller, dini (Hristiyan) yapılardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olimpiyat",
+          "rationale": "Bu, bir spor etkinliğidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu yapılar, kervanların seyahat güzergahları üzerinde yer alırdı."
+    },
+    {
+      "questionNumber": 61,
+      "question": "Rönesans Dönemi'nde turistik hareketlerin yoğun olarak hangi ülkeye ve şehre yönelik bir kültür turizmi şeklinde geliştiği belirtilmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yunanistan - Atina",
+          "rationale": "Yunanistan 'Grand Tour'un bir parçası olsa da, Rönesans'ın merkezi ve turizmin odak noktası değildi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mısır - Kahire",
+          "rationale": "Mısır 'Grand Tour'un bir parçası olsa da, Rönesans'ın merkezi ve turizmin odak noktası değildi.",
+          "isCorrect": false
+        },
+        {
+          "text": "İtalya - Roma",
+          "rationale": "Metin, 'bütün turistik hareketlerin İtalya'ya ve özellikle Roma'ya yönelik bir kültür turizmi' olduğunu belirtir, çünkü güzel sanatlar ve bilim burada gelişmişti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Anadolu - Efes",
+          "rationale": "Efes, İlk Çağ'da önemli bir merkezdi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çin - Pekin",
+          "rationale": "Çin, Marco Polo tarafından ziyaret edilmiştir ancak Rönesans'taki kültür turizminin merkezi değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu dönemde güzel sanatların ve bilimin merkezi neresiydi?"
+    },
+    {
+      "questionNumber": 62,
+      "question": "17. ve 18. yüzyıllarda aristokrat ailelerin çocuklarını gönderdikleri, bir ila üç yıl süren iyi planlanmış eğitim seyahatlerine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Haçlı Seferi",
+          "rationale": "Bu, Orta Çağ'da yapılan dini/askeri bir hareketti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grand Tour",
+          "rationale": "Metin, '17. ve 18. yüzyıllarda aristokrat sınıfında yer alan aileler çocuklarını... eğitim seyahatlerine gönderirlerdi. Bu seyahatlere... 'Grand Tour' adı verilmiştir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "İpek Yolu Seyahati",
+          "rationale": "Bu, İlk ve Orta Çağ'daki bir ticaret yoluydu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olimpiyat",
+          "rationale": "Bu, İlk Çağ'daki bir spor etkinliğiydi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hac",
+          "rationale": "Bu, dini amaçlı bir seyahattir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu seyahatler, Rönesans sonrası dönemin elit gençlerinin eğitimi için yapılırdı."
+    },
+    {
+      "questionNumber": 63,
+      "question": "16. yüzyıl başlarında yaptığı geziler ve haritaları içeren 'Kitab-ı Bahriye' adlı eseriyle tanınan ünlü Türk denizcisi kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Evliya Çelebi",
+          "rationale": "Evliya Çelebi, 17. yüzyılda yaşamıştır ve eseri 'Seyahatnâme'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İbni Batuta",
+          "rationale": "İbni Batuta, 14. yüzyılda yaşamış bir Arap seyyahdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Piri Reis",
+          "rationale": "Metin, 'Piri Reis'in XVI. yüzyıl başlarında... 'Kitab-ı Bahriye' adlı eseri' olduğunu belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Marco Polo",
+          "rationale": "Marco Polo, 13-14. yüzyılda yaşamış bir İtalyan seyyahdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vasco da Gama",
+          "rationale": "Vasco da Gama, Portekizli bir kaşiftir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu denizci, aynı zamanda ünlü bir haritacıdır."
+    },
+    {
+      "questionNumber": 64,
+      "question": "17. yüzyılda gezip gördüğü yerleri 10 ciltlik 'Seyahatnâme' adlı eserinde anlatan ünlü Türk seyyahı kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Piri Reis",
+          "rationale": "Piri Reis, 16. yüzyılda yaşamıştır ve eseri 'Kitab-ı Bahriye'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Evliya Çelebi",
+          "rationale": "Metin, 'XVII. yüzyılda ünlü Türk seyyahlarından Evliya Çelebi'nin... 10 ciltlik Seyahatnâmesi' olduğunu belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Homeros",
+          "rationale": "Homeros, İlk Çağ'da yaşamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Heredot",
+          "rationale": "Heredot, İlk Çağ'da yaşamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İbni Batuta",
+          "rationale": "İbni Batuta, 14. yüzyılda yaşamış bir seyyahdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu seyyah, 'Seyahat ya Resulallah' diyerek yola çıktığı rivayet edilen kişidir."
+    },
+    {
+      "questionNumber": 65,
+      "question": "Aşağıdakilerden hangisi 'Modern Öncesi Turizm Anlayışları'nın sosyal yapısının bir özelliği değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sınıfsal farklılıklara dayalı sosyal yapı",
+          "rationale": "Bu, modern öncesi dönemin bir özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turizm bilincinin eksikliği",
+          "rationale": "Bu, modern öncesi dönemin bir özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Boş zaman ve seyahat hakkının üst sınıfa özgü olması",
+          "rationale": "Bu, modern öncesi dönemin bir özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Standartlaşmış, kitle üretimine dayalı üretim biçimleri",
+          "rationale": "Bu, modern öncesi değil, Endüstri Devrimi 'sonrası' dönemin bir özelliğidir. Modern öncesi dönemde 'standartlaşmamış, zanaatkârlığa dayalı' üretim vardı.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kölelik",
+          "rationale": "Bu, modern öncesi dönemin sosyal yapısının bir parçasıydı.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Modern öncesi dönemde üretim 'zanaatkârlığa' dayalıydı."
+    },
+    {
+      "questionNumber": 66,
+      "question": "Aşağıdakilerden hangisi Endüstri Devrimi sonrasında toplum yapısında meydana gelen değişikliklerden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kırsal kesimden kente göçün başlaması",
+          "rationale": "Makineleşme ve fabrikalar nedeniyle kentlere göç başlamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitimin soyluların tekelinden kurtularak yaygınlık kazanması",
+          "rationale": "Bu, Endüstri Devrimi sonrası sosyal değişimlerden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapitalizme geçiş sürecinin başlaması",
+          "rationale": "Akan servet ve ticari faaliyetler kapitalizmi başlatmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal sınıflar hiyerarşisinin aristokratların lehine güçlenmesi",
+          "rationale": "Tam tersine, metin 'sosyal sınıflar hiyerarşisi aristokratların aleyhine bozulmuştur' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kitlesel iletişim ağının hızla kurulması",
+          "rationale": "Bu, Endüstri Devrimi sonrası gelişmelerden biridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Endüstri Devrimi, eski soylu sınıfın gücünü nasıl etkilemiştir?"
+    },
+    {
+      "questionNumber": 67,
+      "question": "Endüstri Devrimi'nin insanlar üzerindeki etkilerinden hangisi, turizme ayrılan payın artmasına doğrudan zemin hazırlamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çalışma süresinin düzenli olarak azalması",
+          "rationale": "Bu, 'boş zamanı' artırmıştır, ancak harcayacak parayı değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Düzenli olarak artan gelir ile birlikte satın alma gücünün artması",
+          "rationale": "Metin, 'insanların satın alma gücü artış göstermiştir' ve 'turizme ayrılan pay da artmıştır' diyerek bu ilişkiyi kurar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tüketim alışkanlıklarındaki değişiklikler",
+          "rationale": "Bu, artan gelirin bir sonucudur; temel neden gelirin artmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışanlara ücretli tatil hakkının verilmesi",
+          "rationale": "Bu, 'boş zamanı' yasal bir hak haline getirmiştir, ancak bu zamanı dolduracak 'parayı' değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Köyden kente göçün artması",
+          "rationale": "Bu, kentleşme sorununu yaratmış ve kaçış isteğini doğurmuştur, ancak turizme 'pay ayırabilmeyi' sağlamamıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Turizme katılmak için boş zamana ek olarak neye ihtiyaç vardır?"
+    },
+    {
+      "questionNumber": 68,
+      "question": "Aşağıdakilerden hangisi 'Turizmin Gelişmesine Etki Eden Nedenler' arasında sayılmamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Boş zamanın artması ve ücretli tatil hakkı",
+          "rationale": "Bu iki neden, metinde ilk sıralarda ve temel önkoşullar olarak sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknolojik gelişmeler (ulaşım, iletişim)",
+          "rationale": "Bu neden, metinde detaylıca (gemi, tren, uçak, otomobil, tv, internet) açıklanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gelir düzeyinin artması",
+          "rationale": "Bu neden, 'gelir olmadan turizmden söz etmek olanaksızdır' denilerek vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültür ve eğitim düzeyinin artması",
+          "rationale": "Bu neden, metinde 'eğitim düzeyi ile turizme katılma arasında yakın ilişkiler' olduğu belirtilerek sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kırsal nüfusun artması ve kentleşmenin azalması",
+          "rationale": "Tam tersine, metin 'Kentleşme ve Nüfus Artışı'nı (kirlilikten kaçma isteği) turizmi geliştiren bir neden olarak saymıştır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Turizmi geliştiren nedenler, insanların neden seyahat etme 'ihtiyacı' duyduğunu da açıklar."
+    },
+    {
+      "questionNumber": 69,
+      "question": "İnsan ömrünün uzaması, turizm açısından hangi spesifik turizm türünü gündeme getirmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gençlik turizmi",
+          "rationale": "Bu, genç nüfusla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üçüncü yaş turizmi",
+          "rationale": "Metin, 'insan ömrünün uzaması... artan emeklilik süresi de, turizm açısından üçüncü yaş turizmini gündeme getirmiştir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sağlık turizmi",
+          "rationale": "İnsan ömrünün uzaması sağlık turizmini etkiler ancak metnin spesifik olarak belirttiği turizm türü bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültür turizmi",
+          "rationale": "Emekliler kültür turizmine katılsa da, bu grubu tanımlayan ana kategori yaşlarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Macera turizmi",
+          "rationale": "Bu, genellikle üçüncü yaş turizmi ile özdeşleştirilmez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu turizm türü, emeklilik dönemindeki bireyleri hedefler."
+    },
+    {
+      "questionNumber": 70,
+      "question": "Kişinin geçici veya sürekli olarak çalışmasına engel bir durum nedeniyle ücretinin kesilmesinin önüne geçen ve 'yarını güvence altına almak' anlamına gelen sistem nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ücretli tatil hakkı",
+          "rationale": "Bu, çalışırken tatil yapma hakkıdır; çalışamama durumunu kapsamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyahat özgürlüğü",
+          "rationale": "Bu, seyahat edebilme hakkıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal güvenlik",
+          "rationale": "Metin, 'Sosyal güvenlik'i 'yarını güvence altına almak' ve çalışamama durumunda yaşamı tehlikeye atmamak olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turizm bilinci",
+          "rationale": "Bu, turizmin önemini kavramaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Avrupa Birliği hibeleri",
+          "rationale": "Bu, bir teşvik yöntemidir; bireysel bir hak sistemi değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu sistem olmadan insanların geleceğe güvenle bakıp tatil planı yapması zordur."
+    },
+    {
+      "questionNumber": 71,
+      "question": "İnsan Hakları Evrensel Beyannamesi'nin 13. maddesi tüm insanlara hangi hakkı tanımıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ücretli tatil hakkı",
+          "rationale": "Bu, genellikle ulusal iş hukuklarının bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Özgürce seyahat hakkı",
+          "rationale": "Metin, 'İnsan Hakları Evrensel Beyannamesi'nin 13. maddesi tüm insanlara özgürce seyahat hakkını tanımıştır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosyal güvenlik hakkı",
+          "rationale": "Bu da bir insan hakkıdır ancak 13. madde spesifik olarak seyahat ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim hakkı",
+          "rationale": "Eğitim düzeyi turizmi etkiler ancak 13. madde bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık hakkı",
+          "rationale": "Bu, tıp ve turizm ilişkisiyle ilgilidir ancak 13. madde bu değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu hak, turizmin temel eylemi olan 'yer değiştirme' ile ilgilidir."
+    },
+    {
+      "questionNumber": 72,
+      "question": "Metne göre, 'eğitim düzeyi' ile 'turizme katılma' arasında nasıl bir ilişki vardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eğitim düzeyi yükseldikçe turizme katılma azalır.",
+          "rationale": "Metin, tam tersini savunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim düzeyi ile turizme katılma arasında bir ilişki yoktur.",
+          "rationale": "Metin, 'yakın ilişkiler bulunduğunu' belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim düzeyi yükseldikçe bireyler daha fazla seyahat etmektedirler.",
+          "rationale": "Metin, 'Eğitim düzeyinin yükselmesi ile birlikte bireyler daha fazla seyahat etmektedirler' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece dil öğrenme amaçlı eğitim turizmi vardır, başka bir etkisi yoktur.",
+          "rationale": "Metin, dil öğrenmenin yanı sıra, eğitimi yükselen bireylerin dünyayı 'görmek ve incelemek amacıyla' da seyahat ettiğini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim düzeyi sadece iç turizmi etkiler, dış turizmi etkilemez.",
+          "rationale": "Eğitimi yükselen bireylerin 'dünyanın çeşitli bölgelerini' görmek istemesi dış turizmi de etkilediğini gösterir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Eğitim, insanların dünyaya olan merakını (kültür, tarih) nasıl etkiler?"
+    },
+    {
+      "questionNumber": 73,
+      "question": "Modern anlamda ilk turizm hareketini başlatan ve 'tur organizatörü' mesleğini yaratan kişi kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Evliya Çelebi",
+          "rationale": "Evliya Çelebi, bir seyyah ve yazardır; tur organizatörü değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Piri Reis",
+          "rationale": "Piri Reis, bir denizci ve haritacıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Thomas Cook",
+          "rationale": "Metin, Thomas Cook'un 1841'deki 571 kişilik turu ile 'modern anlamda ilk turizm hareketini başlattığını' ve 'ilk tur düzenleyen kişi' olduğunu belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Marco Polo",
+          "rationale": "Marco Polo, Orta Çağ'da yaşamış bir kaşiftir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Heredot",
+          "rationale": "Heredot, İlk Çağ'da yaşamış bir tarihçi ve yazardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu kişi, 1841 yılında Leicester'dan bir festivale trenle grup götürmüştür."
+    },
+    {
+      "questionNumber": 74,
+      "question": "Thomas Cook'un 1841 yılında düzenlediği ilk turun özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İskoçya'ya düzenlenen ilk yurtdışı turu olması",
+          "rationale": "İskoçya turu, onun ilk yurtdışı turudur, ancak 1841'deki ilk turu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "571 kişilik bir kafileyi bir festivale götürmesi ve hiç kar etmemesi",
+          "rationale": "Metin, 1841'deki turu '571 kişilik bir turist kafilesini' kapsadığını ve '1 şiline düzenlediği bu turdan hiç kar elde edememiş' olduğunu belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "'Thomas Cook Travel' adıyla açtığı ilk seyahat şirketi olması",
+          "rationale": "Şirketini 1860 yılında açmıştır, 1841'de değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amerika kıtasına düzenlenen ilk tur olması",
+          "rationale": "Bu tur İngiltere içinde (Leicester'a 20 km uzaklıkta) bir yere yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece gemi kullanılarak yapılan ilk deniz gezisi olması",
+          "rationale": "İlk yurtdışı turunda gemi ve treni birlikte kullanmıştır; ilk turu ise muhtemelen trenledir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu ilk tur, 500'den fazla kişiyi kapsıyordu ve sembolik bir ücrete sahipti."
+    },
+    {
+      "questionNumber": 75,
+      "question": "Turizm personelinin 'emir komuta ilişkisine göre' gruplandırılması aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yerli personel - Yabancı personel",
+          "rationale": "Bu, 'vatandaşlıklarına göre' yapılan gruplandırmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kadrolu personel - Geçici personel",
+          "rationale": "Bu, 'kadrolarına göre' yapılan gruplandırmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yönetici personel - Yönetilen personel",
+          "rationale": "Metin, 'emir komuta ilişkisine göre' yapılan gruplandırmayı 'Yönetici' ve 'Yönetilen' olarak ayırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kalifiye personel - Niteliksiz personel",
+          "rationale": "Bu, 'niteliklerine göre' yapılan gruplandırmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konaklama işletmesi personeli - Seyahat acentesi personeli",
+          "rationale": "Bu, 'çalıştıkları kurumlara göre' yapılan gruplandırmadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu sınıflandırma, hiyerarşide kimin emir verdiğini ve kimin uyguladığını temel alır."
+    },
+    {
+      "questionNumber": 76,
+      "question": "Şef garson, 'niteliklerine göre' nasıl bir personel olarak sınıflandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yönetici personel",
+          "rationale": "Şef garson yönetici özellikleri taşısa da, bu 'emir komuta' sınıflandırmasıdır. Soru 'nitelik' sınıflandırmasını sorar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geçici personel",
+          "rationale": "Bu, 'kadro' sınıflandırmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yabancı personel",
+          "rationale": "Bu, 'vatandaşlık' sınıflandırmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Niteliksiz personel",
+          "rationale": "Metin, genel temizlikçiyi niteliksiz personele örnek verir; şef garson ise belli bir uzmanlık gerektirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalifiye personel",
+          "rationale": "Metin, 'niteliklerine göre' sınıflandırmada 'Kalifiye personel ( şef garson vb. )' örneğini verir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Bu personel, özel bir beceri ve eğitim gerektiren bir iş yapar."
+    },
+    {
+      "questionNumber": 77,
+      "question": "Turist rehberleri hangi yasal düzenlemeye göre çalışırlar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Seyahat Acenteleri ve Seyahat Acenteleri Birliği Kanunu",
+          "rationale": "Bu kanun, seyahat acentesi sahipleri ve personelini kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Profesyonel Turist Rehberleri Yönetmeliği",
+          "rationale": "Metin, 'Turist rehberleri “Profesyonel Turist Rehberleri Yönetmeliği” çerçevesinde çalışırlar' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turizm Bakanlığı Teşkilat Kanunu",
+          "rationale": "Bu kanun, kamu kurumlarında (Bakanlık) çalışanları kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş Hukuku Kanunu",
+          "rationale": "Bu genel bir kanundur; rehberlerin kendilerine özel, mesleki bir düzenlemesi vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kıyı Kanunu",
+          "rationale": "Bu, turizmin hukukla ilişkisinde yer alan, mekanla ilgili bir kanundur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu personelin mesleki düzenlemesi, adında 'rehber' kelimesini içerir."
+    },
+    {
+      "questionNumber": 78,
+      "question": "Aşağıdakilerden hangisi bir 'turizm polisi'nde bulunması gereken niteliklerden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turistlerle anlaşabilecek düzeyde yabancı dil bilmek",
+          "rationale": "Bu, listedeki ilk niteliklerdendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güler yüzlü, kibar ve görgülü olmak",
+          "rationale": "Bu, listedeki niteliklerdendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel turizm konusunda yeterli bilgiye sahip olmak",
+          "rationale": "Bu, listedeki niteliklerdendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece güvenlik konusunda deneyimli olmak, psikoloji bilmesi gerekmemek",
+          "rationale": "Metin, 'güvenlik konusunda yeterli bilgi ve deneyime sahip olmak, sosyoloji ve psikolojiyi çok iyi bilmek' gerektiğini belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İnsanları sevmek ve yardım etmek",
+          "rationale": "Bu, listedeki niteliklerdendir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Turizm polisi, sadece asayişi sağlamaz, aynı zamanda insan ilişkilerinde de başarılı olmalıdır."
+    },
+    {
+      "questionNumber": 79,
+      "question": "Otel müdürünün 'planlama yapmak, işletmenin politikasını belirlemek' gibi becerileri, hangi tür beceri kapsamına girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kavramsal beceriler",
+          "rationale": "Metin, 'Kavramsal beceriler'i '( planlama yapmak, işletmenin politikasını belirlemek.)' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Beşeri beceriler",
+          "rationale": "Beşeri beceriler, 'insanlarla iyi ilişkiler kurmak' olarak tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknik beceriler",
+          "rationale": "Teknik beceriler, 'yiyecek ve içecek servisi, mutfak' gibi spesifik iş bilgisi olarak tanımlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yönetsel beceriler",
+          "rationale": "Bu genel bir terimdir; metin, becerileri üç spesifik kategoriye ayırmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuki beceriler",
+          "rationale": "Bu, metinde belirtilen üç beceri türünden biri değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu beceriler, işin 'nasıl yapılacağı' (teknik) veya 'kiminle yapılacağı' (beşeri) değil, 'ne yapılacağı ve neden' (politika, plan) ile ilgilidir."
+    },
+    {
+      "questionNumber": 80,
+      "question": "Otelde konukları karşılayan, uğurlayan ve onlarla ilgili işlemleri yapan personel grubu hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kat Hizmetleri Personeli",
+          "rationale": "Bu personel, odaların temizliği ve hazırlanması ile ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yiyecek, İçecek Servis Personeli",
+          "rationale": "Bu personel, restoran ve barlarda servis yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyon Personeli",
+          "rationale": "Metin, 'Resepsiyon Personeli'ni 'Konukları karşılayan, uğurlayan, gelen ve giden konuklarla ilgili işlemleri yapan' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Halkla İlişkiler Personeli",
+          "rationale": "Bu personel, işletme ile çevre arasındaki genel ilişkilerle ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenlik Personeli",
+          "rationale": "Bu personel, asayiş ve güvenlikle ilgilenir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Otele ilk girdiğinizde sizi kim karşılar?"
+    },
+    {
+      "questionNumber": 81,
+      "question": "Misafirlerin geceleyecekleri odaların hazırlanması, genel mekanların temizliği ve dekorasyonu ile görevli elemanlar kimlerdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Resepsiyon Personeli",
+          "rationale": "Bu personel, giriş-çıkış işlemleriyle ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak Personeli",
+          "rationale": "Bu personel, yiyecek hazırlama ile ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Halkla İlişkiler Personeli",
+          "rationale": "Bu personel, işletme imajı ve iletişimiyle ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat Hizmetleri Personeli",
+          "rationale": "Metin, 'Kat Hizmetleri Personeli'ni 'odaların hazırlanması, genel mekanların... temizliği... ve dekorasyonu' ile görevli olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Güvenlik Personeli",
+          "rationale": "Bu personel, güvenlikle ilgilenir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Odaların temizliğinden ve düzeninden sorumlu departman hangisidir?"
+    },
+    {
+      "questionNumber": 82,
+      "question": "İşletme ile çevre (halk, basın, kamu kurumları vb.) arasında olumlu ilişkilerin kurulması ve sürdürülmesinden sorumlu personel hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Otel Müdürü",
+          "rationale": "Otel müdürü bundan sorumlu olsa da, bu işi yürüten spesifik bir departman vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyon Personeli",
+          "rationale": "Resepsiyon, misafirlerle doğrudan ilişki kurar ancak 'basın, kamu kurumları' gibi çevrelerle ilgilenmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Halkla İlişkiler Personeli",
+          "rationale": "Metin, 'Halkla İlişkiler'i 'işletme ile çevre arasında... olumlu ilişkilerin kurulması' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Güvenlik Personeli",
+          "rationale": "Güvenlik, olumsuz durumlarla (kavga, hırsızlık) ilgilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat Hizmetleri Personeli",
+          "rationale": "Bu personel, odalar ve temizlikle ilgilenir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu departman, işletmenin 'imajı' ve 'iletişimi' ile ilgilenir."
+    },
+    {
+      "questionNumber": 83,
+      "question": "Aşağıdakilerden hangisi Halkla İlişkiler personelinin 'işletme içinde' yaptığı faaliyetlerden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Basında işletme hakkında çıkan yazıları takip etmek",
+          "rationale": "Bu, 'İşletme Dışında Halkla İlişkiler' görevidir (Basın).",
+          "isCorrect": false
+        },
+        {
+          "text": "Tur operatörleri ve seyahat acenteleri ile iyi ilişkiler kurmak",
+          "rationale": "Bu, 'İşletme Dışında Halkla İlişkiler' görevidir (Çevre).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal yardımlar düzenlemek (örn. Çocuk Esirgeme Kurumuna gece)",
+          "rationale": "Bu, 'İşletme Dışında Halkla İlişkiler' görevidir (Sosyal yardım).",
+          "isCorrect": false
+        },
+        {
+          "text": "Ayın personelini seçmek ve ödüllendirmek",
+          "rationale": "Metin, 'Ayın personeli seçilerek ödüllendirilir' faaliyetini 'işletme içindeki kişiler ilgili görevleri' başlığı altında listeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "İşletmeyi basın yayın araçlarıyla çevreye tanıtmak",
+          "rationale": "Bu, 'İşletme Dışında Halkla İlişkiler' görevidir (Tanıtım).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu faaliyet, 'çevre'ye değil, 'çalışanlara' yöneliktir."
+    },
+    {
+      "questionNumber": 84,
+      "question": "Yangın, kaza, hırsızlık, kavga gibi olaylara karşı tedbir alan ve uygulayan personel hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turizm Polisi",
+          "rationale": "Turizm polisi, genel turistik yörede görev yapar; bu tanım ise işletme içindeki personeli sorar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel Müdürü",
+          "rationale": "Otel müdürü genel sorumludur, ancak bu işi yapan spesifik bir personel vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Halkla İlişkiler Personeli",
+          "rationale": "Halkla ilişkiler, bu olayların 'sonrası' iletişim krizini yönetebilir ama olaylara müdahale etmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyon Personeli",
+          "rationale": "Resepsiyon, bu tür durumları ilgili birime bildirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenlik Personeli",
+          "rationale": "Metin, 'Güvenlik Personeli'ni 'Yangın, ölüm, kaza, hırsızlık... kavga gibi olaylara karşı gerekli tedbirleri alan' olarak tanımlar.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Bu personel, otelin asayişinden ve emniyetinden sorumludur."
+    },
+    {
+      "questionNumber": 85,
+      "question": "Turizm faaliyetlerinin 'katılan kişi sayısına göre' sınıflandırılması aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İç turizm, Dış turizm",
+          "rationale": "Bu, 'ziyaret edilen yere göre' yapılan sınıflandırmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gençlik, Yetişkin, Üçüncü yaş turizmi",
+          "rationale": "Bu, 'katılanların yaşlarına göre' yapılan sınıflandırmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal turizm, Lüks turizm",
+          "rationale": "Bu, 'katılanların sosyo-ekonomik durumlarına göre' yapılan sınıflandırmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel, Kitle, Grup turizmi",
+          "rationale": "Metin, 'katılan kişi sayısına göre' sınıflandırmayı Bireysel (tek kişi), Kitle (büyük gruplar) ve Grup (küçük, belirli gruplar) olarak ayırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aktif turizm, Pasif turizm",
+          "rationale": "Bu, dış turizmin (döviz getirici/götürücü) alt sınıflandırmasıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu sınıflandırma, seyahate 'kaç kişinin' katıldığına odaklanır."
+    },
+    {
+      "questionNumber": 86,
+      "question": "Paket turları tercih eden, katılan kişi sayısı yönüyle üstün olan ve grupların süreklilik arz ettiği turizm çeşidi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bireysel turizm",
+          "rationale": "Bireysel turizm, tek kişinin katıldığı ve genellikle paket tur tercih etmediği bir türdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup turizmi",
+          "rationale": "Grup turizmi, 11-16 kişi gibi sınırlı sayılardan oluşur ve 'devamlılık arz etmemesi' yönüyle kitle turizminden ayrılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle turizmi",
+          "rationale": "Metin, kitle turizmini 'en tipik özelliği, insanların daha çok paket turları tercih etmesi' ve 'grupların sürekliliği' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosyal turizm",
+          "rationale": "Sosyal turizm, sosyo-ekonomik duruma göre bir sınıflandırmadır, kişi sayısına göre değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lüks turizm",
+          "rationale": "Lüks turizm, genellikle kitle turizminin zıttı olarak daha bireysel ve özel hizmetlere dayanır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu, turizmin en 'yaygın' ve 'organize' biçimidir."
+    },
+    {
+      "questionNumber": 87,
+      "question": "Dernek üyeleri, öğrenci grupları gibi 11-16 kişi arasında olan ve devamlılık arz etmeyen turizm çeşidi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kitle turizmi",
+          "rationale": "Kitle turizmi, çok daha büyük grupları ve sürekliliği ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel turizm",
+          "rationale": "Bu, tek kişiyi ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup turizmi",
+          "rationale": "Metin, 'grup turizmi'ni 'kişi sayısı 11 ile 16 arasındadır' ve 'devamlılık arz etmemesi yönüyle kitle turizminden farklılık gösterir' şeklinde tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gençlik turizmi",
+          "rationale": "Bu, 'yaş'a göre bir sınıflandırmadır. Öğrenci grubu aynı zamanda gençlik turizmi olabilir, ancak 11-16 kişi tanımı 'grup turizmi'ne aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İç turizm",
+          "rationale": "Bu, 'yere' göre bir sınıflandırmadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu, 'kitle'den küçük, 'bireysel'den büyük olan turizm şeklidir."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Bir ülkenin vatandaşlarının kendi ülke sınırları içinde turizm faaliyetine katılmalarına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dış turizm",
+          "rationale": "Dış turizm, ülke sınırları dışına çıkmayı gerektirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İç turizm",
+          "rationale": "Metin, 'İç turizm'i 'Bir ülkenin vatandaşlarının kendi ülke sınırları içinde turizm faaliyetine katılmaları' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dış pasif turizm",
+          "rationale": "Bu, ülke vatandaşlarının başka bir ülkeye gitmesidir (döviz çıkışı).",
+          "isCorrect": false
+        },
+        {
+          "text": "Dış aktif turizm",
+          "rationale": "Bu, yabancıların ülkeye gelmesidir (döviz girişi).",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle turizmi",
+          "rationale": "Bu, kişi sayısına göre bir sınıflandırmadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu turizm türü, pasaport veya vize gerektirmez."
+    },
+    {
+      "questionNumber": 89,
+      "question": "Aşağıdakilerden hangisi iç turizmin özelliklerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ekonomiye döviz getirici etkisi vardır.",
+          "rationale": "Metin, iç turizmin 'ekonomiye döviz getirici etkisi yoktur' der.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pasaport, vize ve döviz işlemleri gerektirir.",
+          "rationale": "Metin, iç turizmin bu işlemleri 'gerektirmediğini' belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ulusal gelirin bölgeler arasında dengeli dağılımına katkı sağlar.",
+          "rationale": "Metin, 'iç turizm, ulusal gelirin bölgeler arasında dengeli dağılımında önemli katkılarda bulunur' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece yabancıların katılabileceği bir turizm türüdür.",
+          "rationale": "Tam tersine, 'ülke vatandaşlarının' katıldığı bir türdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "İthalat etkisi yaratır.",
+          "rationale": "İthalat etkisi (döviz çıkışı) yaratan 'dış pasif turizm'dir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İç turizm, bir ülkenin kendi vatandaşlarının, örneğin İstanbul'dan Antalya'ya gitmesi gibi, ekonomik etkilerini düşünün."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Bir ülke vatandaşlarının başka bir ülkeye seyahat etmeleri (döviz çıkışı) ne olarak adlandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dış aktif turizm",
+          "rationale": "Aktif turizm, ülkeye döviz girişini (yabancıların gelmesi) ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dış pasif turizm",
+          "rationale": "Metin, 'Dış pasif turizm'i 'bir ülke vatandaşlarının başka bir ülkeye seyahatleri' olarak tanımlar ve 'döviz çıkışı ya da ithalat etkisi' yaptığını belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İç turizm",
+          "rationale": "İç turizm, ülke sınırları içinde kalır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lüks turizm",
+          "rationale": "Bu, sosyo-ekonomik bir sınıflandırmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal turizm",
+          "rationale": "Bu, sosyo-ekonomik bir sınıflandırmadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ülke dışına para çıkaran 'pasif' bir ekonomik etki düşünün."
+    },
+    {
+      "questionNumber": 91,
+      "question": "Yabancıların bir ülkeye seyahat etmeleri (döviz girişi) ne olarak adlandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dış aktif turizm",
+          "rationale": "Metin, 'Dış aktif turizm'in 'döviz kazandırıcı yönde etki' ettiğini ve 'ihracat etkisi' yaptığını belirtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dış pasif turizm",
+          "rationale": "Pasif turizm, ülke dışına döviz çıkışını ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "İç turizm",
+          "rationale": "İç turizm, ülke sınırları içindedir ve döviz etkisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup turizmi",
+          "rationale": "Bu, kişi sayısına göre bir sınıflandırmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Transit turizm",
+          "rationale": "Transit geçiş, genellikle turizmden sayılmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ülkeye döviz kazandıran 'aktif' bir ekonomik etki düşünün."
+    },
+    {
+      "questionNumber": 92,
+      "question": "15-24 yaş grubundaki bireylerin aile yakınları olmaksızın turizme katılmalarına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bireysel turizm",
+          "rationale": "Bu, kişi sayısına göre bir sınıflandırmadır; yaşa göre değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gençlik turizmi",
+          "rationale": "Metin, 'Gençlik turizmi'ni '15-24 yaş grupları arasındaki bireylerin... turizme katılmaları' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yetişkin turizmi",
+          "rationale": "Yetişkin turizmi, 25-60 yaş arasını kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üçüncü yaş turizmi",
+          "rationale": "Üçüncü yaş turizmi, 60 yaş ve üzerini kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal turizm",
+          "rationale": "Gençler sosyal turizm kapsamında olabilir ancak bu tanım 'yaş' grubuna odaklanmıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu sınıflandırma, katılımcıların 'yaş'ına göredir."
+    },
+    {
+      "questionNumber": 93,
+      "question": "Gençlik turizmine katılanların genellikle tercih ettiği konaklama türleri arasında hangisi sayılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Beş yıldızlı lüks oteller",
+          "rationale": "Bu, lüks turizm segmentine girer; gençlik turizmi genellikle daha düşük bütçelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hostel, pansiyon ve çadır",
+          "rationale": "Metin, 'dağcılık, kampçılık ve spor gibi amaçlarla seyahat eden gençler hostel, pansiyon ve çadırda konaklamayı tercih etmektedirler' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "İkinci konutlar (Yazlık evler)",
+          "rationale": "Bu, iç turizmde belirtilen bir türdür ve genellikle ailelere aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kervansaraylar",
+          "rationale": "Kervansaraylar, Orta Çağ'daki konaklama tesisleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece öğrenci yurtları",
+          "rationale": "Öğrenci yurtları sosyal turizm kapsamında bir örnektir ancak gençler sadece orayı değil, hostel ve çadırı da tercih eder.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu turizm türü, genellikle daha düşük bütçeli ve daha esnek konaklama seçeneklerini tercih eder."
+    },
+    {
+      "questionNumber": 94,
+      "question": "25-60 arası yaş grubunda yer alan ve gezi zamanları genellikle yaz aylarında yoğunlaşan turizm çeşidi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gençlik turizmi",
+          "rationale": "Bu, 15-24 yaş arasını kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üçüncü yaş turizmi",
+          "rationale": "Bu, 60 yaş üzerini kapsar ve bu grup genellikle sezon dışı (yaz ayları dışı) seyahat edebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yetişkin (Orta Yaş) turizmi",
+          "rationale": "Metin, 'Yetişkin turizmi'ni '25-60 arası yaş grubu' olarak tanımlar ve 'çalışma koşullarından etkilenmekte... genellikle yaz aylarında yoğunlaşmaktadır' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosyal turizm",
+          "rationale": "Bu, sosyo-ekonomik bir sınıflandırmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle turizmi",
+          "rationale": "Yetişkin turizmi genellikle kitle turizmi şeklinde yapılır ancak bu tanım 'yaş' grubuna odaklanmıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu grup, genellikle 'çalışan' ve 'aile sahibi' olan gruptur."
+    },
+    {
+      "questionNumber": 95,
+      "question": "60 ve üzeri yaş grubunda yer alan insanların gerçekleştirdikleri turizm etkinliklerine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yetişkin turizmi",
+          "rationale": "Bu, 25-60 yaş arasını kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık turizmi",
+          "rationale": "Bu grup sağlık turizmine çok katılsa da, grubu tanımlayan genel 'yaş' kategorisi bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emekli turizmi",
+          "rationale": "Bu, doğru bir ifade olsa da metinde kullanılan spesifik terminoloji farklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üçüncü yaş turizmi",
+          "rationale": "Metin, '60 ve üzeri yaş grubunda yer alan insanların... turizm etkinliklerine üçüncü yaş turizmi adı verilmektedir' der.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lüks turizm",
+          "rationale": "Bu, gelire göre bir sınıflandırmadır; her 60 yaş üstü birey lüks turizme katılmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu, en 'yaşlı' turist grubunu tanımlayan terimdir."
+    },
+    {
+      "questionNumber": 96,
+      "question": "Ekonomik bakımdan zayıf olan kitlelerin (işçiler, memurlar, emekliler, gençler vb.) özel teşviklerle turizme katılmalarını sağlayan turizm türü nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Lüks turizm",
+          "rationale": "Bu, tam tersine, ekonomik bakımdan en güçlü olan kitleye yöneliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal turizm",
+          "rationale": "Metin, 'Sosyal turizm'i 'ekonomik bakımdan zayıf olan kitlelerin... teşvik uygulamaları yolu ile turizm etkinliklerine katılmaları' olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kitle turizmi",
+          "rationale": "Kitle turizmi, 'herkesi' kapsayabilir ancak 'sosyal turizm' özellikle 'ekonomik açıdan zayıf' olanlara odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İç turizm",
+          "rationale": "Sosyal turizm genellikle iç turizm şeklinde olsa da, bu tanım 'sosyo-ekonomik' duruma odaklanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grup turizmi",
+          "rationale": "Bu, kişi sayısına göre bir sınıflandırmadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu turizm türünün amacı, seyahat hakkını herkes için erişilebilir kılmaktır."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Aşağıdakilerden hangisi sosyal turizmin amaçlarından biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kendi ülke insanlarını tanıma olanağı sağlamak",
+          "rationale": "Bu, metinde sayılan sosyal turizm amaçlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diğer ulusların insanları ile yakınlaşma ve dostluk duygularını geliştirmek",
+          "rationale": "Bu, metinde sayılan sosyal turizm amaçlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsanların, özellikle çalışan kitlelerin düşünce ve değer yargılarını genişletmek",
+          "rationale": "Bu, metinde sayılan sosyal turizm amaçlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece yüksek gelir grubunun seyahat etmesini sağlamak",
+          "rationale": "Bu, 'lüks turizm'in bir sonucudur; sosyal turizm ise tam tersini (düşük gelir grubunu) amaçlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Toplumsal kaynaşma alışkanlığının kazandırılması",
+          "rationale": "Bu, metinde sayılan sosyal turizm amaçlarından biridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sosyal turizm, 'sosyal eşitlik' ve 'fırsat' kavramlarıyla ilgilidir."
+    },
+    {
+      "questionNumber": 98,
+      "question": "Aşağıdakilerden hangisi sosyal turizmin geliştirilmesi amacıyla çeşitli ülkelerde uygulanan yöntemlerden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tatil kredileri ve taksitle tatil olanağı",
+          "rationale": "Bu, metinde sayılan uygulamalardandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ulaştırma araçlarında indirimli fiyatlar",
+          "rationale": "Bu, metinde sayılan uygulamalardandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Özel seyahat ya da tatil çeki kullanımı",
+          "rationale": "Bu, metinde sayılan uygulamalardandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kamu kamplarının ve öğrenci yurtlarının kullanılması",
+          "rationale": "Bu, metinde sayılan uygulamalardandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lüks otellere ek vergiler getirilmesi",
+          "rationale": "Bu, lüks turizmi caydırabilecek bir maliye politikasıdır ancak sosyal turizmi 'geliştirmek' için uygulanan bir yöntem olarak metinde listelenmemiştir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Sosyal turizmi geliştirme yöntemleri, katılımı 'kolaylaştıran' ve 'ucuzlatan' teşviklerdir."
+    },
+    {
+      "questionNumber": 99,
+      "question": "Yüksek gelir grubunda yer alan, ekonomik gücü yüksek bireylere özgü olan turizm biçimi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sosyal turizm",
+          "rationale": "Bu, tam tersine, düşük gelir grubuna yöneliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle turizmi",
+          "rationale": "Kitle turizmi, genellikle orta gelir grubuna ve standart paketlere yöneliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lüks turizm",
+          "rationale": "Metin, 'Lüks turizmi' 'Yüksek gelir grubunda yer alan bireylere özgü' ve 'ekonomik gücü ve geliri yüksek olan' kesimlerin turizmi olarak tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bireysel turizm",
+          "rationale": "Lüks turizm genellikle bireyseldir ancak her bireysel turizm lüks değildir (örn. sırt çantalı gezgin).",
+          "isCorrect": false
+        },
+        {
+          "text": "Yetişkin turizmi",
+          "rationale": "Bu, yaşa göre bir sınıflandırmadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu turizm türü, 'sosyal turizm'in tam zıttıdır."
+    },
+    {
+      "questionNumber": 100,
+      "question": "Lüks turizm grubuna giren turistlerin en fazla itibar ettikleri turizm türleri arasında aşağıdakilerden hangisi sayılmamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Av turizmi",
+          "rationale": "Bu, metinde lüks turizm türleri arasında sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Golf turizmi",
+          "rationale": "Bu, metinde lüks turizm türleri arasında sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kruvaziyer turizmi",
+          "rationale": "Bu, metinde lüks turizm türleri arasında sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kumar turizmi",
+          "rationale": "Bu, metinde lüks turizm türleri arasında sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hostel ve çadır konaklamalı kampçılık",
+          "rationale": "Bu, lüks turizmin değil, tam tersine 'gençlik turizmi'nin tercih ettiği düşük bütçeli bir konaklama şeklidir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Lüks turizm, yüksek maliyetli ve özel ilgi alanlarına yönelik aktiviteleri kapsar."
+    }
+  ]
+}

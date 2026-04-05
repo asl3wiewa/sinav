@@ -1,315 +1,325 @@
-// Test verileri - vize ve final kategorileri
-const TEST_DATA = [
-  {
-    id: "genel-turizm",
-    title: "Genel Turizm Testi",
-    description: "Turizm ve bos zaman kavramlarina dair temel kavramlari olcen 100 soruluk test.",
-    tag: "Genel",
-    category: "vize",
-    tests: [
-      { name: "Teste Basla", url: "quiz.html?test=genel-turizm", primary: true }
+const TEST_DATA = {
+  "1": {
+    vize: [
+      {
+        id: "genel-turizm",
+        title: "Genel Turizm Testi",
+        description: "Turizm ve bos zaman kavramlarina dair temel kavramlari olcen 100 soruluk test.",
+        tag: "Genel",
+        tests: [
+          { name: "Teste Basla", url: "quiz.html?test=genel-turizm", primary: true }
+        ],
+        pdfUrl: "assets/pdf/1-donem/vize/genel-turizm.pdf"
+      },
+      {
+        id: "ziyafet",
+        title: "Ziyafet",
+        description: "Banket operasyonlarini iki farkli oturumla pekistir.",
+        tag: "Ziyafet",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=ziyafet" },
+          { name: "Test 2 Basla", url: "quiz.html?test=ziyafet2" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/vize/ziyafet.pdf"
+      },
+      {
+        id: "turizm-cografyasi-2",
+        title: "Turizm Cografyasi II",
+        description: "Iki farkli soru setiyle cografi bilgini test et.",
+        tag: "Turizm Cografyasi",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=turizm-cografyasi-2" },
+          { name: "Test 2 Basla", url: "quiz.html?test=turizm-cografyasi-2-2" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/vize/turizm-cografyasi-2.pdf"
+      },
+      {
+        id: "turizmde-etik",
+        title: "Turizmde Etik",
+        description: "Etik ilkeleri ardil uc testle derinlestir.",
+        tag: "Turizmde Etik",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=turizmde-etik" },
+          { name: "Test 2 Basla", url: "quiz.html?test=turizmde-etik-2" },
+          { name: "Test 3 Basla", url: "quiz.html?test=turizmde-etik-3" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/vize/turizmde-etik.pdf"
+      },
+      {
+        id: "bagimlilik-ve-bagimlilikla-mucadele",
+        title: "Bagimlilik ve Mucadele",
+        description: "Bagimlilik turlerini iki oturumluk setle calis.",
+        tag: "Bagimlilik",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=bagimlilik-ve-bagimlilikla-mucadele" },
+          { name: "Test 2 Basla", url: "quiz.html?test=bagimlilik-ve-bagimlilikla-mucadele-2" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/vize/bagimlilik-ve-bagimlilikla-mucadele.pdf"
+      },
+      {
+        id: "kat-hizmetleri",
+        title: "Kat Hizmetleri",
+        description: "Oda ve kat operasyonlarini uc ayri testle calisin.",
+        tag: "Kat Hizmetleri",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=kat-hizmetleri" },
+          { name: "Test 2 Basla", url: "quiz.html?test=kat-hizmetleri-2" },
+          { name: "Test 3 Basla", url: "quiz.html?test=kat-hizmetleri-3" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/vize/kat-hizmetleri.pdf"
+      },
+      {
+        id: "camasirhane-kontrolu",
+        title: "Camasirhane Kontrolu",
+        description: "Camasirhane operasyonlarini uc farkli testle pekistir.",
+        tag: "Camasirhane Kontrolu",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=camasirhane-kontrolu" },
+          { name: "Test 2 Basla", url: "quiz.html?test=camasirhane-kontrolu-2" },
+          { name: "Test 3 Basla", url: "quiz.html?test=camasirhane-kontrolu-3" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/vize/camasirhane-kontrolu.pdf"
+      },
+      {
+        id: "on-buro-hizmetleri-vize",
+        title: "On Buro Hizmetleri (Vize)",
+        description: "On buro operasyonlarini iki testlik setle calisin.",
+        tag: "On Buro",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=on-buro-hizmetleri-vize" },
+          { name: "Test 2 Basla", url: "quiz.html?test=on-buro-hizmetleri-2-vize" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/vize/on-buro-hizmetleri.pdf"
+      },
+      {
+        id: "mesleki-yabanci-dil-1",
+        title: "Mesleki Yabanci Dil - I",
+        description: "Mesleki Ingilizce bilgisini uc seviye testiyle pekistir.",
+        tag: "Mesleki Yabanci Dil I",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=mesleki-yabanci-dil-1" },
+          { name: "Test 2 Basla", url: "quiz.html?test=mesleki-yabanci-dil-1-2" },
+          { name: "Test 3 Basla", url: "quiz.html?test=mesleki-yabanci-dil-1-3" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/vize/mesleki-yabanci-dil-1.pdf"
+      },
+      {
+        id: "yiyecek-ve-icecek-servisi-1",
+        title: "Yiyecek ve Icecek Servisi I",
+        description: "Servis prosedurlerini uc testlik paketle gozden gecir.",
+        tag: "Yiyecek & Icecek",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1" },
+          { name: "Test 2 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-2" },
+          { name: "Test 3 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-3" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/vize/yiyecek-ve-icecek-servisi-1.pdf"
+      },
+      {
+        id: "turizm-ve-cevre",
+        title: "Turizm ve Cevre",
+        description: "Turizm-cevre iliskisini uc farkli testle kesfet.",
+        tag: "Turizm & Cevre",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=turizm-ve-cevre" },
+          { name: "Test 2 Basla", url: "quiz.html?test=turizm-ve-cevre-2" },
+          { name: "Test 3 Basla", url: "quiz.html?test=turizm-ve-cevre-3" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/vize/turizm-ve-cevre.pdf"
+      },
+      {
+        id: "turizmde-rekreasyon",
+        title: "Turizmde Rekreasyon",
+        description: "Rekreasyon yonetimi konularini iki testle tekrar et.",
+        tag: "Turizmde Rekreasyon",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=turizmde-rekreasyon" },
+          { name: "Test 2 Basla", url: "quiz.html?test=turizmde-rekreasyon-2" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/vize/turizmde-rekreasyon.pdf"
+      }
     ],
-    pdfUrl: "assets/pdf/vize/genel-turizm.pdf"
+    final: [
+      {
+        id: "on-buro-hizmetleri-final",
+        title: "On Buro Hizmetleri (Final)",
+        description: "On buro operasyonlarini uc testlik setle calisin.",
+        tag: "On Buro",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=on-buro-hizmetleri" },
+          { name: "Test 2 Basla", url: "quiz.html?test=on-buro-hizmetleri-2" },
+          { name: "Test 3 Basla", url: "quiz.html?test=on-buro-hizmetleri-3" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/final/on-buro-hizmetleri.pdf"
+      },
+      {
+        id: "turizm-ve-cevre-final",
+        title: "Turizm ve Cevre (Final)",
+        description: "Turizm-cevre iliskisini uc farkli final testiyle kesfet.",
+        tag: "Turizm & Cevre",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=turizm-ve-cevre-final" },
+          { name: "Test 2 Basla", url: "quiz.html?test=turizm-ve-cevre-2-final" },
+          { name: "Test 3 Basla", url: "quiz.html?test=turizm-ve-cevre-3-final" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/final/turizm-ve-cevre.pdf"
+      },
+      {
+        id: "ziyafet-final",
+        title: "Ziyafet (Final)",
+        description: "Banket operasyonlarini final testiyle pekistir.",
+        tag: "Ziyafet",
+        tests: [
+          { name: "Teste Basla", url: "quiz.html?test=ziyafet-final", primary: true }
+        ],
+        pdfUrl: "assets/pdf/1-donem/final/ziyafet.pdf"
+      },
+      {
+        id: "genel-turizm-final",
+        title: "Genel Turizm (Final)",
+        description: "Turizm ve bos zaman kavramlarina dair temel kavramlari iki final testiyle olc.",
+        tag: "Genel",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=genel-turizm-final" },
+          { name: "Test 2 Basla", url: "quiz.html?test=genel-turizm-2-final" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/final/genel-turizm.pdf"
+      },
+      {
+        id: "turizm-cografyasi-2-final",
+        title: "Turizm Cografyasi II (Final)",
+        description: "Iki farkli soru setiyle cografi bilgini final testleriyle test et.",
+        tag: "Turizm Cografyasi",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=turizm-cografyasi-2-final" },
+          { name: "Test 2 Basla", url: "quiz.html?test=turizm-cografyasi-2-2-final" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/final/turizm-cografyasi-2.pdf"
+      },
+      {
+        id: "mesleki-yabanci-dil-1-final",
+        title: "Mesleki Yabanci Dil - I (Final)",
+        description: "Mesleki Ingilizce bilgisini iki final testiyle pekistir.",
+        tag: "Mesleki Yabanci Dil I",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=mesleki-yabanci-dil-1-final" },
+          { name: "Test 2 Basla", url: "quiz.html?test=mesleki-yabanci-dil-1-2-final" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/final/mesleki-yabanci-dil-1.pdf"
+      },
+      {
+        id: "turizmde-etik-final",
+        title: "Turizmde Etik (Final)",
+        description: "Etik ilkeleri iki final testiyle derinlestir.",
+        tag: "Turizmde Etik",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=turizmde-etik-final" },
+          { name: "Test 2 Basla", url: "quiz.html?test=turizmde-etik-2-final" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/final/turizmde-etik.pdf"
+      },
+      {
+        id: "turizmde-rekreasyon-final",
+        title: "Turizmde Rekreasyon (Final)",
+        description: "Rekreasyon yonetimi konularini uc final testiyle tekrar et.",
+        tag: "Turizmde Rekreasyon",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=turizmde-rekreasyon-final" },
+          { name: "Test 2 Basla", url: "quiz.html?test=turizmde-rekreasyon-2-final" },
+          { name: "Test 3 Basla", url: "quiz.html?test=turizmde-rekreasyon-3-final" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/final/turizmde-rekreasyon.pdf"
+      },
+      {
+        id: "yiyecek-ve-icecek-servisi-1-final",
+        title: "Yiyecek ve Icecek Servisi I (Final)",
+        description: "Servis prosedurlerini dort final testiyle gozden gecir.",
+        tag: "Yiyecek & Icecek",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-final" },
+          { name: "Test 2 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-2-final" },
+          { name: "Test 3 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-3-final" },
+          { name: "Test 4 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-4-final" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/final/yiyecek-ve-icecek-servisi-1.pdf"
+      },
+      {
+        id: "camasirhane-kontrolu-final",
+        title: "Camasirhane Kontrolu (Final)",
+        description: "Camasirhane operasyonlarini final testiyle pekistir.",
+        tag: "Camasirhane Kontrolu",
+        tests: [
+          { name: "Teste Basla", url: "quiz.html?test=camasirhane-kontrolu-final", primary: true }
+        ],
+        pdfUrl: "assets/pdf/1-donem/final/camasirhane-kontrolu.pdf"
+      },
+      {
+        id: "kat-hizmetleri-final",
+        title: "Kat Hizmetleri (Final)",
+        description: "Oda ve kat operasyonlarini iki final testiyle calis.",
+        tag: "Kat Hizmetleri",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=kat-hizmetleri-final" },
+          { name: "Test 2 Basla", url: "quiz.html?test=kat-hizmetleri-2-final" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/final/kat-hizmetleri.pdf"
+      },
+      {
+        id: "bagimlilik-ve-bagimlilikla-mucadele-final",
+        title: "Bagimlilik ve Mucadele (Final)",
+        description: "Bagimlilik turlerini iki final testiyle calis.",
+        tag: "Bagimlilik",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=bagimlilik-ve-bagimlilikla-mucadele-final" },
+          { name: "Test 2 Basla", url: "quiz.html?test=bagimlilik-ve-bagimlilikla-mucadele-2-final" }
+        ],
+        pdfUrl: "assets/pdf/1-donem/final/bagimlilik-ve-bagimlilikla-mucadele.pdf"
+      }
+    ]
   },
-  {
-    id: "ziyafet",
-    title: "Ziyafet",
-    description: "Banket operasyonlarini iki farkli oturumla pekistir.",
-    tag: "Ziyafet",
-    category: "vize",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=ziyafet" },
-      { name: "Test 2 Basla", url: "quiz.html?test=ziyafet2" }
+  "2": {
+    vize: [
+      {
+        id: "yiyecek-ve-icecek-servisi-2",
+        title: "Yiyecek ve Icecek Servisi II",
+        description: "Ikinci donem vize konularini uc ayri testle calis.",
+        tag: "Yiyecek & Icecek",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-2-1" },
+          { name: "Test 2 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-2-2" },
+          { name: "Test 3 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-2-3" }
+        ],
+        pdfUrl: "assets/pdf/2-donem/vize/yiyecek-ve-icecek-servisi-2.pdf"
+      }
     ],
-    pdfUrl: "assets/pdf/vize/ziyafet.pdf"
-  },
-  {
-    id: "turizm-cografyasi-2",
-    title: "Turizm Cografyasi II",
-    description: "Iki farkli soru setiyle cografi bilgini test et.",
-    tag: "Turizm Cografyasi",
-    category: "vize",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=turizm-cografyasi-2" },
-      { name: "Test 2 Basla", url: "quiz.html?test=turizm-cografyasi-2-2" }
-    ],
-    pdfUrl: "assets/pdf/vize/turizm-cografyasi-2.pdf"
-  },
-  {
-    id: "turizmde-etik",
-    title: "Turizmde Etik",
-    description: "Etik ilkeleri ardil uc testle derinlestir.",
-    tag: "Turizmde Etik",
-    category: "vize",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=turizmde-etik" },
-      { name: "Test 2 Basla", url: "quiz.html?test=turizmde-etik-2" },
-      { name: "Test 3 Basla", url: "quiz.html?test=turizmde-etik-3" }
-    ],
-    pdfUrl: "assets/pdf/vize/turizmde-etik.pdf"
-  },
-  {
-    id: "bagimlilik-ve-bagimlilikla-mucadele",
-    title: "Bagimlilik ve Mucadele",
-    description: "Bagimlilik turlerini iki oturumluk setle calis.",
-    tag: "Bagimlilik",
-    category: "vize",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=bagimlilik-ve-bagimlilikla-mucadele" },
-      { name: "Test 2 Basla", url: "quiz.html?test=bagimlilik-ve-bagimlilikla-mucadele-2" }
-    ],
-    pdfUrl: "assets/pdf/vize/bagimlilik-ve-bagimlilikla-mucadele.pdf"
-  },
-  {
-    id: "kat-hizmetleri",
-    title: "Kat Hizmetleri",
-    description: "Oda ve kat operasyonlarini uc ayri testle calisin.",
-    tag: "Kat Hizmetleri",
-    category: "vize",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=kat-hizmetleri" },
-      { name: "Test 2 Basla", url: "quiz.html?test=kat-hizmetleri-2" },
-      { name: "Test 3 Basla", url: "quiz.html?test=kat-hizmetleri-3" }
-    ],
-    pdfUrl: "assets/pdf/vize/kat-hizmetleri.pdf"
-  },
-  {
-    id: "camasirhane-kontrolu",
-    title: "Camasirhane Kontrolu",
-    description: "Çamaşırhane operasyonlarini uc farkli testle pekistir.",
-    tag: "Camasirhane Kontrolu",
-    category: "vize",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=camasirhane-kontrolu" },
-      { name: "Test 2 Basla", url: "quiz.html?test=camasirhane-kontrolu-2" },
-      { name: "Test 3 Basla", url: "quiz.html?test=camasirhane-kontrolu-3" }
-    ],
-    pdfUrl: "assets/pdf/vize/camasirhane-kontrolu.pdf"
-  },
-  {
-    id: "on-buro-hizmetleri-vize",
-    title: "On Buro Hizmetleri (Vize)",
-    description: "Ön büro operasyonlarini iki testlik setle calisin.",
-    tag: "On Buro",
-    category: "vize",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=on-buro-hizmetleri-vize" },
-      { name: "Test 2 Basla", url: "quiz.html?test=on-buro-hizmetleri-2-vize" }
-    ],
-    pdfUrl: "assets/pdf/vize/on-buro-hizmetleri.pdf"
-  },
-  {
-    id: "on-buro-hizmetleri-final",
-    title: "On Buro Hizmetleri (Final)",
-    description: "Ön büro operasyonlarini üç testlik setle calisin.",
-    tag: "On Buro",
-    category: "final",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=on-buro-hizmetleri" },
-      { name: "Test 2 Basla", url: "quiz.html?test=on-buro-hizmetleri-2" },
-      { name: "Test 3 Basla", url: "quiz.html?test=on-buro-hizmetleri-3" }
-    ],
-    pdfUrl: "assets/pdf/final/on-buro-hizmetleri.pdf"
-  },
-  {
-    id: "turizm-ve-cevre-final",
-    title: "Turizm ve Cevre (Final)",
-    description: "Turizm-çevre ilişkisini üç farklı final testiyle keşfet.",
-    tag: "Turizm & Cevre",
-    category: "final",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=turizm-ve-cevre-final" },
-      { name: "Test 2 Basla", url: "quiz.html?test=turizm-ve-cevre-2-final" },
-      { name: "Test 3 Basla", url: "quiz.html?test=turizm-ve-cevre-3-final" }
-    ],
-    pdfUrl: "assets/pdf/final/turizm-ve-cevre.pdf"
-  },
-  {
-    id: "ziyafet-final",
-    title: "Ziyafet (Final)",
-    description: "Banket operasyonlarını final testiyle pekiştir.",
-    tag: "Ziyafet",
-    category: "final",
-    tests: [
-      { name: "Teste Basla", url: "quiz.html?test=ziyafet-final", primary: true }
-    ],
-    pdfUrl: "assets/pdf/final/ziyafet.pdf"
-  },
-  {
-    id: "genel-turizm-final",
-    title: "Genel Turizm (Final)",
-    description: "Turizm ve boş zaman kavramlarına dair temel kavramları iki final testiyle ölç.",
-    tag: "Genel",
-    category: "final",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=genel-turizm-final" },
-      { name: "Test 2 Basla", url: "quiz.html?test=genel-turizm-2-final" }
-    ],
-    pdfUrl: "assets/pdf/final/genel-turizm.pdf"
-  },
-  {
-    id: "turizm-cografyasi-2-final",
-    title: "Turizm Cografyasi II (Final)",
-    description: "İki farklı soru setiyle coğrafi bilgini final testleriyle test et.",
-    tag: "Turizm Cografyasi",
-    category: "final",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=turizm-cografyasi-2-final" },
-      { name: "Test 2 Basla", url: "quiz.html?test=turizm-cografyasi-2-2-final" }
-    ],
-    pdfUrl: "assets/pdf/final/turizm-cografyasi-2.pdf"
-  },
-  {
-    id: "mesleki-yabanci-dil-1-final",
-    title: "Mesleki Yabancı Dil - I (Final)",
-    description: "Mesleki İngilizce bilgisini iki final testiyle pekiştir.",
-    tag: "Mesleki Yabancı Dil I",
-    category: "final",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=mesleki-yabanci-dil-1-final" },
-      { name: "Test 2 Basla", url: "quiz.html?test=mesleki-yabanci-dil-1-2-final" }
-    ],
-    pdfUrl: "assets/pdf/final/mesleki-yabanci-dil-1.pdf"
-  },
-  {
-    id: "turizmde-etik-final",
-    title: "Turizmde Etik (Final)",
-    description: "Etik ilkeleri iki final testiyle derinleştir.",
-    tag: "Turizmde Etik",
-    category: "final",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=turizmde-etik-final" },
-      { name: "Test 2 Basla", url: "quiz.html?test=turizmde-etik-2-final" }
-    ],
-    pdfUrl: "assets/pdf/final/turizmde-etik.pdf"
-  },
-  {
-    id: "turizmde-rekreasyon-final",
-    title: "Turizmde Rekreasyon (Final)",
-    description: "Rekreasyon yönetimi konularını üç final testiyle tekrar et.",
-    tag: "Turizmde Rekreasyon",
-    category: "final",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=turizmde-rekreasyon-final" },
-      { name: "Test 2 Basla", url: "quiz.html?test=turizmde-rekreasyon-2-final" },
-      { name: "Test 3 Basla", url: "quiz.html?test=turizmde-rekreasyon-3-final" }
-    ],
-    pdfUrl: "assets/pdf/final/turizmde-rekreasyon.pdf"
-  },
-  {
-    id: "yiyecek-ve-icecek-servisi-1-final",
-    title: "Yiyecek ve Icecek Servisi I (Final)",
-    description: "Servis prosedürlerini dört final testiyle gözden geçir.",
-    tag: "Yiyecek & Icecek",
-    category: "final",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-final" },
-      { name: "Test 2 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-2-final" },
-      { name: "Test 3 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-3-final" },
-      { name: "Test 4 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-4-final" }
-    ],
-    pdfUrl: "assets/pdf/final/yiyecek-ve-icecek-servisi-1.pdf"
-  },
-  {
-    id: "camasirhane-kontrolu-final",
-    title: "Camasirhane Kontrolu (Final)",
-    description: "Çamaşırhane operasyonlarını final testiyle pekiştir.",
-    tag: "Camasirhane Kontrolu",
-    category: "final",
-    tests: [
-      { name: "Teste Basla", url: "quiz.html?test=camasirhane-kontrolu-final", primary: true }
-    ],
-    pdfUrl: "assets/pdf/final/camasirhane-kontrolu.pdf"
-  },
-  {
-    id: "kat-hizmetleri-final",
-    title: "Kat Hizmetleri (Final)",
-    description: "Oda ve kat operasyonlarını iki final testiyle çalış.",
-    tag: "Kat Hizmetleri",
-    category: "final",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=kat-hizmetleri-final" },
-      { name: "Test 2 Basla", url: "quiz.html?test=kat-hizmetleri-2-final" }
-    ],
-    pdfUrl: "assets/pdf/final/kat-hizmetleri.pdf"
-  },
-  {
-    id: "bagimlilik-ve-bagimlilikla-mucadele-final",
-    title: "Bagimlilik ve Mucadele (Final)",
-    description: "Bağımlılık türlerini iki final testiyle çalış.",
-    tag: "Bagimlilik",
-    category: "final",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=bagimlilik-ve-bagimlilikla-mucadele-final" },
-      { name: "Test 2 Basla", url: "quiz.html?test=bagimlilik-ve-bagimlilikla-mucadele-2-final" }
-    ],
-    pdfUrl: "assets/pdf/final/bagimlilik-ve-bagimlilikla-mucadele.pdf"
-  },
-  {
-    id: "mesleki-yabanci-dil-1",
-    title: "Mesleki Yabancı Dil - I",
-    description: "Mesleki İngilizce bilgisini üç seviye testiyle pekiştir.",
-    tag: "Mesleki Yabancı Dil I",
-    category: "vize",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=mesleki-yabanci-dil-1" },
-      { name: "Test 2 Basla", url: "quiz.html?test=mesleki-yabanci-dil-1-2" },
-      { name: "Test 3 Basla", url: "quiz.html?test=mesleki-yabanci-dil-1-3" }
-    ],
-    pdfUrl: "assets/pdf/vize/mesleki-yabanci-dil-1.pdf"
-  },
-  {
-    id: "yiyecek-ve-icecek-servisi-1",
-    title: "Yiyecek ve Icecek Servisi I",
-    description: "Servis prosedürlerini üç testlik paketle gözden geçir.",
-    tag: "Yiyecek & Icecek",
-    category: "vize",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1" },
-      { name: "Test 2 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-2" },
-      { name: "Test 3 Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-1-3" }
-    ],
-    pdfUrl: "assets/pdf/vize/yiyecek-ve-icecek-servisi-1.pdf"
-  },
-  {
-    id: "turizm-ve-cevre",
-    title: "Turizm ve Cevre",
-    description: "Turizm-çevre ilişkisini üç farklı testle keşfet.",
-    tag: "Turizm & Cevre",
-    category: "vize",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=turizm-ve-cevre" },
-      { name: "Test 2 Basla", url: "quiz.html?test=turizm-ve-cevre-2" },
-      { name: "Test 3 Basla", url: "quiz.html?test=turizm-ve-cevre-3" }
-    ],
-    pdfUrl: "assets/pdf/vize/turizm-ve-cevre.pdf"
-  },
-  {
-    id: "turizmde-rekreasyon",
-    title: "Turizmde Rekreasyon",
-    description: "Rekreasyon yönetimi konularını iki testle tekrar et.",
-    tag: "Turizmde Rekreasyon",
-    category: "vize",
-    tests: [
-      { name: "Test 1 Basla", url: "quiz.html?test=turizmde-rekreasyon" },
-      { name: "Test 2 Basla", url: "quiz.html?test=turizmde-rekreasyon-2" }
-    ],
-    pdfUrl: "assets/pdf/vize/turizmde-rekreasyon.pdf"
+    final: []
   }
-];
+};
 
-let currentFilter = 'all';
+let currentFilter = "vize";
+let currentSemester = "2";
 
-// Test kartı oluştur
+function getTestsForSemester(semester, filter = "all") {
+  const semesterData = TEST_DATA[semester];
+  if (!semesterData) {
+    return [];
+  }
+
+  if (filter === "all") {
+    return [...semesterData.vize, ...semesterData.final];
+  }
+
+  return semesterData[filter] || [];
+}
+
 function createTestCard(test) {
-  const article = document.createElement('article');
-  article.className = 'test-card';
-  article.dataset.category = test.category;
+  const article = document.createElement("article");
+  article.className = "test-card";
 
   const testButtons = test.tests.map(testItem => {
-    const btnClass = testItem.primary ? 'btn primary' : 'btn secondary';
+    const btnClass = testItem.primary ? "btn primary" : "btn secondary";
     return `<a class="${btnClass}" href="${testItem.url}">${testItem.name}</a>`;
-  }).join('');
+  }).join("");
 
   article.innerHTML = `
     <div class="test-card__body">
@@ -328,41 +338,78 @@ function createTestCard(test) {
   return article;
 }
 
-// Testleri render et
-function renderTests(filter = 'all') {
-  const testsContainer = document.getElementById('tests');
-  testsContainer.innerHTML = '';
+function renderTests(filter = "all") {
+  const testsContainer = document.querySelector(`[data-tests-container="${currentSemester}"]`);
+  const emptyState = document.querySelector(`[data-empty-state="${currentSemester}"]`);
+  if (!testsContainer) {
+    return;
+  }
 
-  const filteredTests = filter === 'all' 
-    ? TEST_DATA 
-    : TEST_DATA.filter(test => test.category === filter);
+  testsContainer.innerHTML = "";
 
-  filteredTests.forEach(test => {
-    const card = createTestCard(test);
-    testsContainer.appendChild(card);
+  const tests = getTestsForSemester(currentSemester, filter);
+  const hasTests = tests.length > 0;
+
+  testsContainer.classList.toggle("hidden", !hasTests);
+  if (emptyState) {
+    emptyState.classList.toggle("hidden", hasTests);
+  }
+
+  tests.forEach(test => {
+    testsContainer.appendChild(createTestCard(test));
   });
 }
 
-// Filtre butonlarına event listener ekle
 function setupFilterButtons() {
-  const filterButtons = document.querySelectorAll('.filter-btn');
-  
+  const filterButtons = document.querySelectorAll(".filter-btn");
+
   filterButtons.forEach(button => {
-    button.addEventListener('click', () => {
-      // Aktif butonu güncelle
-      filterButtons.forEach(btn => btn.classList.remove('active'));
-      button.classList.add('active');
-      
-      // Filtreyi uygula
-      const filter = button.dataset.filter;
-      currentFilter = filter;
-      renderTests(filter);
+    button.addEventListener("click", () => {
+      currentFilter = button.dataset.filter || "all";
+      filterButtons.forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.filter === currentFilter);
+      });
+      renderTests(currentFilter);
     });
   });
 }
 
-// Sayfa yüklendiğinde çalıştır
-document.addEventListener('DOMContentLoaded', () => {
-  renderTests();
+function setActiveSemester(semester) {
+  currentSemester = semester;
+
+  const semesterTabs = document.querySelectorAll(".semester-tab");
+  const semesterPanels = document.querySelectorAll(".semester-panel");
+
+  semesterTabs.forEach(tab => {
+    const isActive = tab.dataset.semester === semester;
+    tab.classList.toggle("active", isActive);
+    tab.setAttribute("aria-selected", isActive ? "true" : "false");
+  });
+
+  semesterPanels.forEach(panel => {
+    const isActive = panel.dataset.semesterPanel === semester;
+    panel.classList.toggle("active", isActive);
+    panel.hidden = !isActive;
+  });
+
+  if (semester === "1") {
+    renderTests(currentFilter);
+  }
+}
+
+function setupSemesterTabs() {
+  const semesterTabs = document.querySelectorAll(".semester-tab");
+
+  semesterTabs.forEach(tab => {
+    tab.addEventListener("click", () => {
+      setActiveSemester(tab.dataset.semester || "1");
+    });
+  });
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  renderTests(currentFilter);
   setupFilterButtons();
+  setupSemesterTabs();
+  setActiveSemester(currentSemester);
 });

@@ -1,0 +1,3204 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi 'Psikoaktif Madde' tanımına en uygun ifadedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece yasa dışı olan ve bağımlılık yapan maddelerdir.",
+          "rationale": "Psikoaktif maddeler yasal (alkol, kafein) veya yasa dışı olabilir; tanım bu ayrıma dayanmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Merkezi sinir sistemini etkileyerek beynin fonksiyonlarını (algı, duygu, davranış) değiştiren kimyasal maddelerdir.",
+          "rationale": "Bu, belgedeki psikoaktif madde tanımıyla tam olarak eşleşmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vücuda alındığında sadece fiziksel bağımlılığa yol açan maddelerdir.",
+          "rationale": "Psikoaktif maddeler hem fiziksel hem de psikolojik bağımlılığa yol açabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vücudun bağışıklık sistemini güçlendiren kimyasal takviyelerdir.",
+          "rationale": "Psikoaktif maddeler beynin fonksiyonlarını değiştirir, bağışıklık sistemini güçlendirmez; aksine, bağımlılık bağışıklığı zayıflatır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece tıbbi amaçlarla kullanılan ve reçeteyle satılan ilaçlardır.",
+          "rationale": "Bazı psikoaktif maddeler ilaçtır, ancak tanım tütün, alkol, esrar gibi maddeleri de kapsar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "Belgeye göre 'Madde Bağımlılığı'nın temel özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Maddeyi sadece merak ettiği için ara sıra denemek.",
+          "rationale": "Ara sıra denemek kullanım bozukluğunun başlangıcı olabilir ancak 'bırakamama' durumunu içeren bağımlılık tanımını karşılamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddenin sosyal ortamlarda ve kontrollü bir şekilde kullanılması.",
+          "rationale": "Bağımlılık, genellikle kontrol kaybını içerir; kontrollü kullanım bağımlılıkla çelişir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vücudun işlevlerini olumsuz etkilemesine ve zarar görülmesine rağmen madde kullanımının bırakılamaması.",
+          "rationale": "Bu, belgedeki 'Madde Bağımlılığı' tanımının (zarar görmeye rağmen bırakamama) tam karşılığıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maddeyi kullanınca sadece psikolojik bir rahatlama hissetmek.",
+          "rationale": "Bu, psikolojik bağımlılığın bir yönü olabilir ancak 'zarara rağmen bırakamama' olan temel tanımı eksik bırakır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddenin sadece yasalara aykırı bir şekilde temin edilmesi.",
+          "rationale": "Bağımlılık, maddenin yasal (alkol, tütün) veya yasa dışı olmasına bakılmaksızın gelişebilen tıbbi bir hastalıktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "Belgeye göre madde bağımlılığından korunmada en iyi yol aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece güvenilir kaynaklardan madde temin etmek.",
+          "rationale": "Kaynağın güvenilir olması, maddenin bağımlılık yapıcı özelliğini veya zararlarını ortadan kaldırmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Madde kullanımını haftada bir ile sınırlandırmak.",
+          "rationale": "Miktar veya sıklık kısıtlaması bir kontrol çabasıdır ancak en iyi korunma yolu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağımlılık yapıcı maddelere hiç başlamamak.",
+          "rationale": "Belgede 'En iyi korunma yolu hiç başlamamaktır' ifadesi net bir şekilde yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece 'olgusal' bağımlılıklardan uzak durmak.",
+          "rationale": "Maddesel bağımlılıklar da ciddi bir risk oluşturur; sadece olgusal olanlardan kaçınmak yeterli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağımlılığın nörobiyolojisini detaylıca öğrenmek.",
+          "rationale": "Bilgi sahibi olmak koruyucu bir faktör olsa da, 'en iyi yol' olarak belirtilen 'hiç başlamamaktır'.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi 'Psikolojik Bağımlılık' için doğru bir ifadedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Madde alınmadığında mutlaka titreme, terleme ve ağrı gibi bedensel belirtiler görülür.",
+          "rationale": "Bu belirtiler (titreme, terleme, ağrı) fiziksel bağımlılığın yoksunluk belirtileridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kullanılan madde miktarının sürekli artırılması (tolerans) zorunludur.",
+          "rationale": "Tolerans, fiziksel bağımlılığın bir göstergesidir. Psikolojik bağımlılık, miktar artırılmadan da görülebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişinin, maddeyi yeniden alma yönünde aşırı ve güçlü bir istek duymasıdır.",
+          "rationale": "Bu, belgedeki psikolojik bağımlılık tanımının (güçlü istek) tam karşılığıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece kumar, internet gibi davranışsal durumlarda görülür, maddelerde görülmez.",
+          "rationale": "Psikolojik bağımlılık, hem maddesel (alkol, tütün) hem de olgusal (kumar) bağımlılıklarda görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bedenin maddenin etkisine alışması durumudur.",
+          "rationale": "Bedenin alışması (Tolerans), fiziksel bağımlılığın bir parçasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "Fiziksel bağımlılıkta görülen 'Tolerans' kavramı aşağıdakilerden hangisini ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Maddeyi bırakma yönünde güçlü bir istek duyma.",
+          "rationale": "Bu, psikolojik bağımlılıkla (craving) daha çok ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bedenin maddenin etkisine alışması ve aynı etki için daha fazla maddeye ihtiyaç duyması.",
+          "rationale": "Bu, belgedeki 'Tolerans' (bedenin alışması) tanımıyla ve DSM-5 kriterlerindeki 'artan doz ihtiyacı' ile örtüşmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Madde alınmadığında ortaya çıkan huzursuzluk ve sinirlilik hali.",
+          "rationale": "Bu durum, fiziksel veya ruhsal 'yoksunluk' belirtisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Madde kullanımını sosyal ortamlarda hoş görme.",
+          "rationale": "Bu sosyal bir tutumdur, bağımlılığın tıbbi bir belirtisi olan tolerans değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddenin yasalara aykırı olmasına aldırış etmeme.",
+          "rationale": "Bu yasal bir sorundur, bedenin maddeye verdiği fizyolojik bir tepki olan tolerans değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "Fiziksel (Fizyolojik) bağımlılıkta madde alınmadığında veya azaltıldığında ortaya çıkan titreme, terleme, uykusuzluk ve ağrılar gibi belirtilere ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tolerans",
+          "rationale": "Tolerans, aynı etki için daha fazla maddeye ihtiyaç duymaktır; bu ise madde kesildiğindeki tepkidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Psikoz",
+          "rationale": "Psikoz, gerçeklikle bağın koptuğu ciddi bir ruhsal durumdur; bu belirtiler ise fizyolojik tepkilerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Craving (Aşerme)",
+          "rationale": "Craving, maddeye karşı duyulan güçlü kullanma isteğidir; bu belirtiler ise bedenin madde yokluğuna verdiği tepkidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yoksunluk Belirtileri",
+          "rationale": "Belgede bu belirtiler (titreme, terleme, uykusuzluk, ağrılar) net olarak 'yoksunluk belirtileri' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Flashback",
+          "rationale": "Flashback, genellikle halüsinojen kullanımından sonra maddenin etkisi olmadan yaşanan sanrılardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "Aşağıdakilerden hangisi 'Maddesel Bağımlılıklar' sınıflandırmasına girmez?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Alkol",
+          "rationale": "Alkol, belgeye göre maddesel bağımlılıklar listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nikotin",
+          "rationale": "Nikotin (Tütün), belgeye göre maddesel bağımlılıklar listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opiat",
+          "rationale": "Opiat (Eroin, Morfin), belgeye göre maddesel bağımlılıklar listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kumar",
+          "rationale": "Kumar, bir madde kullanımını içermez; belgeye göre 'Olgusal (Davranışsal)' bağımlılıklar sınıfındadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bonzai",
+          "rationale": "Bonzai, belgeye göre maddesel bağımlılıklar listesinde yer almaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "İnternet/Sanal Ortam bağımlılığı, belgedeki sınıflandırmaya göre hangi kategoriye girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Maddesel Bağımlılıklar",
+          "rationale": "İnternet bağımlılığı, vücuda alınan kimyasal bir maddeye değil, bir davranışa bağlıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olgusal (Davranışsal) Bağımlılıklar",
+          "rationale": "Belgede İnternet/Sanal Ortam, Kumar ve Yeme ile birlikte 'Olgusal (Davranışsal)' bağımlılıklar altında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fiziksel Bağımlılıklar",
+          "rationale": "Bu bir bağımlılık türüdür (fiziksel/psikolojik), sınıflandırma kategorisi (maddesel/olgusal) değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hipnosedatif Bağımlılıklar",
+          "rationale": "Hipnosedatifler (sakinleştiriciler), maddesel bağımlılıkların bir alt kümesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uyarıcı Bağımlılıklar",
+          "rationale": "Uyarıcılar (kokain, amfetamin), maddesel bağımlılıkların bir alt kümesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "Aşağıdakilerden hangisi belgede belirtilen madde kullanım nedenleri (risk faktörleri) arasında sayılmamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Merak",
+          "rationale": "Merak, belgedeki risk faktörleri listesinin en başında yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir gruba ait olma çabası",
+          "rationale": "Bu, belgedeki risk faktörleri listesinde yer alan önemli bir sosyal nedendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stres ile baş etmeyi bilmeme",
+          "rationale": "Bu, belgedeki risk faktörleri listesinde yer alan önemli bir psikolojik nedendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genetik yatkınlık ve nörobiyolojik etkenler",
+          "rationale": "Bu faktörler (örn: ailede ruhsal sorun) Bölüm 2'de (Nörobiyoloji) risk faktörü olarak belirtilmiştir, ancak Bölüm 1'deki 'Madde Kullanım Nedenleri' listesinde spesifik olarak bu ifade yer almaz.",
+          "isCorrect": true
+        },
+        {
+          "text": "Büyüdüğünü ispatlama çabası",
+          "rationale": "Bu, belgedeki risk faktörleri listesinde yer alan nedenlerden biridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "Bağımlılık Döngüsünde 'Korku ve Merak' aşamasından sonra gelen ilk düşünce hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ben Bağımlı Olmam",
+          "rationale": "Bu (İnkar), döngünün daha ileri bir aşamasıdır (4. adım).",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir Kereden Bir Şey Olmaz",
+          "rationale": "Döngüye göre 1. 'Belki Kullanabilirim (Korku ve Merak)' adımından sonra 2. 'Bir Kereden Bir Şey Olmaz' adımı gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bir Daha Asla",
+          "rationale": "Bu (Bırakma denemesi), 'Bir Kereden Bir Şey Olmaz' adımından sonra gelir (3. adım).",
+          "isCorrect": false
+        },
+        {
+          "text": "İstesem Bırakırım",
+          "rationale": "Bu (Kontrol yanılsaması), döngünün 5. adımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bu Meret Bırakılmaz",
+          "rationale": "Bu (Çaresizlik), döngünün 6. adımıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "Bağımlılık Döngüsünde yer alan 'Ben Bağımlı Olmam' ifadesi, hangi psikolojik savunma mekanizmasını temsil eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çaresizlik",
+          "rationale": "Çaresizlik, 'Bu Meret Bırakılmaz' aşamasında hissedilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kontrol Yanılsaması",
+          "rationale": "Kontrol yanılsaması, 'İstesem Bırakırım' aşamasına karşılık gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Merak",
+          "rationale": "Merak, döngünün ilk aşamasıdır ('Belki Kullanabilirim').",
+          "isCorrect": false
+        },
+        {
+          "text": "İnkar",
+          "rationale": "Belgede 'Ben Bağımlı Olmam' adımı parantez içinde 'İnkar' olarak etiketlenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yüzleşme",
+          "rationale": "Yüzleşme, 'Bırakmak Zorundayım' aşamasına (7. adım) daha yakındır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "Bağımlılık Döngüsündeki 'İstesem Bırakırım' aşaması hangi kavramla açıklanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İnkar",
+          "rationale": "İnkar, 'Ben Bağımlı Olmam' aşamasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çaresizlik",
+          "rationale": "Çaresizlik, 'Bu Meret Bırakılmaz' aşamasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kontrol Yanılsaması",
+          "rationale": "Belgede 5. adım olan 'İstesem Bırakırım' parantez içinde 'Kontrol yanılsaması' olarak açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Karar",
+          "rationale": "Karar, 'Artık Bırakacağım' aşamasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Merak",
+          "rationale": "Merak, döngünün ilk aşamasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "Aşağıdakilerden hangisi bağımlılığın belirtilerinden biri olan 'Tolerans'ı (DSM-5 tanımına göre) ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Maddeyi bulmak ve kullanmak için çok fazla zaman harcama.",
+          "rationale": "Bu, bağımlılığın bir belirtisidir ancak tolerans değil, zaman harcama kriteridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kullanılan madde miktarında belirgin bir artış olması veya aynı miktarın belirgin olarak daha az etki göstermesi.",
+          "rationale": "Bu, hem Bölüm 1'deki tolerans tanımıyla hem de Bölüm 3'teki DSM-5 'Tolerans' kriteriyle (10. kriter) tam olarak örtüşür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Madde kullanımı için dayanılmaz bir istek duyma.",
+          "rationale": "Bu, 'Craving' (Aşerme) olarak adlandırılan belirtidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Madde alınmadığında ortaya çıkan titreme, terleme, huzursuzluk.",
+          "rationale": "Bu, 'Yoksunluk' olarak adlandırılan belirtidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Madde kullanımı yüzünden aile ve sosyal ilişkilerin bozulması.",
+          "rationale": "Bu, bağımlılığın sosyal sonuçlarıyla ilgili bir belirtidir, fizyolojik tolerans değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "Bağımlılığın belirtileri arasında yer alan 'Dayanılmaz kullanım isteği' hangi terimle ifade edilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tolerans",
+          "rationale": "Tolerans, artan doz ihtiyacıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yoksunluk",
+          "rationale": "Yoksunluk, madde kesildiğinde ortaya çıkan bedensel/ruhsal belirtilerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Relapse",
+          "rationale": "Relapse, bırakma sonrası yeniden başlama (tekrarlama) durumudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Craving (Aşerme)",
+          "rationale": "Belgede 'Dayanılmaz kullanım isteği' parantez içinde 'Craving / Aşerme' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Paranoya",
+          "rationale": "Paranoya, bağımlılığın psikolojik/sosyal zararlarından biridir, kullanım isteği değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "Bağımlılık belirtilerinden olan 'Ruhsal Yoksunluk Belirtileri'ne aşağıdakilerden hangisi örnek olarak verilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Titreme",
+          "rationale": "Titreme, belgede 'Fiziksel Yoksunluk Belirtileri' altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Terleme",
+          "rationale": "Terleme, belgede 'Fiziksel Yoksunluk Belirtileri' altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ağrılar",
+          "rationale": "Ağrılar, belgede 'Fiziksel Yoksunluk Belirtileri' altında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uykusuzluk",
+          "rationale": "Uykusuzluk, belgede hem 'Fiziksel Yoksunluk' hem de Nikotin Yoksunluğu'nda geçse de, 'Ruhsal Yoksunluk' listesinde 'Huzursuzluk, sinirlilik, tedirginlik' yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Huzursuzluk, sinirlilik, tedirginlik",
+          "rationale": "Bu üç belirti, belgede 'Ruhsal Yoksunluk Belirtileri' başlığı altında tam olarak listelenmiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "Aşağıdakilerden hangisi belgede 'Fiziksel Yoksunluk Belirtileri' arasında sayılmamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Titreme",
+          "rationale": "Titreme, 'Fiziksel Yoksunluk Belirtileri' listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Terleme",
+          "rationale": "Terleme, 'Fiziksel Yoksunluk Belirtileri' listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uykusuzluk",
+          "rationale": "Uykusuzluk, 'Fiziksel Yoksunluk Belirtileri' listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ağrılar",
+          "rationale": "Ağrılar, 'Fiziksel Yoksunluk Belirtileri' listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Paranoya",
+          "rationale": "Paranoya, 'Fiziksel Yoksunluk' listesinde değil, 'Psikolojik/Sosyal' zararlar listesinde yer almaktadır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "Aşağıdakilerden hangisi bağımlılığın 'Psikolojik/Sosyal' zararları arasında gösterilmemiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Özgüven azalması",
+          "rationale": "Özgüven azalması, belgede psikolojik/sosyal zararlar listesinde yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kontrol zayıflaması",
+          "rationale": "Kontrol zayıflaması, belgede psikolojik/sosyal zararlar listesinde yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Paranoya",
+          "rationale": "Paranoya, belgede psikolojik/sosyal zararlar listesinde yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsani değerlerin yok olması",
+          "rationale": "İnsani değerlerin yok olması, belgede psikolojik/sosyal zararlar listesinde yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağışıklık sisteminin çökmesi",
+          "rationale": "Bağışıklık sisteminin çökmesi, belgede 'Fiziksel' zararlar başlığı altında yer almaktadır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "Bağımlılığın 'Fiziksel' zararlarıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece dış görünüşte bozulmalara yol açar.",
+          "rationale": "Dış görünüş (solgun cilt, zayıflama) etkilenir ancak tek zarar bu değildir; iç organlar ve sistemler de çöker.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağışıklık sistemini güçlendirerek hastalıklara karşı direnci artırır.",
+          "rationale": "Belgede tam tersi belirtilmiştir: 'Bağışıklık sistemi çöker, savunma mekanizmaları yok olur.'",
+          "isCorrect": false
+        },
+        {
+          "text": "Hafıza kaybı, nefes darlığı ve kalp krizi gibi riskleri beraberinde getirir.",
+          "rationale": "Bu belirtiler (Hafıza kaybı, nefes darlığı, kalp krizi), 'Fiziksel' zararlar listesinde açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece psikolojik sorunlara yol açar, bedensel bir etkisi yoktur.",
+          "rationale": "Bağımlılığın hem psikolojik hem de ciddi fiziksel zararları (kanser, kangren, organ yetmezliği) vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Özgüven azalması ve paranoya gibi durumlara neden olur.",
+          "rationale": "Bu belirtiler (özgüven azalması, paranoya) 'Fiziksel' değil, 'Psikolojik/Sosyal' zararlar listesindedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "Belgeye göre, bağımlılık sonucu artan hastalık riskleri arasında hangileri sayılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Frengi, Verem, AIDS, Kanser, Kangren, Hepatit B/C",
+          "rationale": "Bu hastalıkların tümü, belgedeki 'Fiziksel' zararlar altındaki 'Hastalık Riski' listesinde tam olarak yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Diyabet, Hipertansiyon ve Obezite",
+          "rationale": "Bu hastalıklar bağımlılıkla ilişkili olabilir ancak belgedeki spesifik listede yer almamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alzheimer ve Parkinson",
+          "rationale": "Bu nörodejeneratif hastalıklar, belgedeki spesifik risk listesinde (Frengi, Verem, AIDS vb.) sayılmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece ağız ve diş çürümeleri",
+          "rationale": "Diş çürümesi bir risktir ancak liste AIDS, Kanser, Hepatit gibi çok daha ciddi sistemik hastalıkları da içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Astım ve Alerjik Rinit",
+          "rationale": "Bu solunum yolu hastalıkları, belgedeki spesifik 'Hastalık Riski' listesinde (Frengi, Verem vb.) yer almamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "Bağımlılık tedavisiyle ilgili olarak belgede vurgulanan en büyük risk aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tedavi masraflarının çok yüksek olması.",
+          "rationale": "Belgede tedavi masraflarından bahsedilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tedavinin ömür boyu sürmesi.",
+          "rationale": "Tedavinin süresinden ziyade, bırakma sonrası risk vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tekrara başlama (Relapse).",
+          "rationale": "Belgede 'En büyük risk tekrara başlamaktır (Relapse). Bıraktıktan sonra BİR KEZ bile kullanılmamalıdır.' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tedavi kurumlarının (AMATEM vb.) yetersiz kalması.",
+          "rationale": "Belgede bu kurumlar destek yeri olarak belirtilmiş, yetersiz olduklarına dair bir risk vurgulanmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tedavide kullanılan ilaçların yan etkileri.",
+          "rationale": "Belgede ilaç tedavilerinden (Bölüm 4) bahsedilmiştir ancak 'en büyük risk' olarak bu belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "Belgede bağımlılık tedavisi için destek alınabilecek kurumlar olarak hangileri belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece özel hastaneler",
+          "rationale": "Belgede spesifik olarak kamu destekli kurumlar adlandırılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "YEDAM ve AMATEM",
+          "rationale": "Belgede 'Destek Kurumları: YEDAM (Yeşilay Danışmanlık Merkezi), AMATEM.' ifadesi açıkça yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Polis ve Jandarma",
+          "rationale": "Bu kurumlar yasal yaptırım uygular, belgede tedavi destek kurumu olarak belirtilmemişlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile Sağlığı Merkezleri",
+          "rationale": "Aile Sağlığı Merkezleri genel sağlık hizmeti verir ancak belgede bağımlılık için spesifik destek kurumu olarak YEDAM ve AMATEM sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nörobiyoloji Enstitüleri",
+          "rationale": "Bu kurumlar araştırma yapar, belgede doğrudan danışmanlık ve tedavi destek kurumu olarak listelenmemişlerdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "Türk Ceza Kanunu'na (TCK) göre uyuşturucu veya uyarıcı maddelerin 'İmal, İthal veya İhraç' edilmesinin cezası nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "2-5 yıl hapis",
+          "rationale": "2-5 yıl hapis, 'Kullanmak için Satın Alma, Kabul Etme, Bulundurma veya Kullanma' suçunun cezasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "10 yıldan az olmamak üzere hapis",
+          "rationale": "Bu, 'Satış, Sevk, Depolama, Bulundurma (Ticari)' suçunun cezasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece para cezası",
+          "rationale": "Belgede bu suç için para cezası değil, çok ağır hapis cezaları belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "20-30 yıl hapis",
+          "rationale": "Belgede TCK bölümünde 'İmal, İthal, İhraç: 20-30 yıl hapis' ifadesi net olarak yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Denetimli serbestlik",
+          "rationale": "Bu, 'kullanma' suçunda uygulanabilen bir tedbirdir, 'imalat/ithalat' gibi ağır suçların doğrudan cezası değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "TCK'ya göre 'Kullanmak için Satın Alma, Kabul Etme, Bulundurma veya Kullanma' suçunun cezası nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "20-30 yıl hapis",
+          "rationale": "Bu ceza, 'İmal, İthal, İhraç' suçları içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "10 yıldan az olmamak üzere hapis",
+          "rationale": "Bu ceza, ticari amaçlı 'Satış, Sevk, Depolama' içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "2-5 yıl hapis",
+          "rationale": "Belgede 'Kullanmak için Satın Alma, Kabul Etme, Bulundurma veya Kullanma: 2-5 yıl hapis' olarak açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece AMATEM'de tedavi görme zorunluluğu",
+          "rationale": "Tedavi bir tedbir olabilir ancak belgede bu suç için belirlenen yasal ceza 2-5 yıl hapistir.",
+          "isCorrect": false
+        },
+        {
+          "text": "5-10 yıl hapis",
+          "rationale": "Belgede 5-10 yıl aralığında bir ceza tanımı bulunmamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "TCK'ya göre ticari amaçla 'Satış, Sevk, Depolama veya Bulundurma' suçunun cezası nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "2-5 yıl hapis",
+          "rationale": "Bu ceza, 'kullanmak için' bulundurma suçuna aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "20-30 yıl hapis",
+          "rationale": "Bu ceza, 'imalat, ithalat, ihracat' suçlarına aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece YEDAM'a bildirilme",
+          "rationale": "YEDAM bir destek kurumudur, yasal bir ceza mekanizması değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "10 yıldan az olmamak üzere hapis",
+          "rationale": "Belgede 'Satış, Sevk, Depolama, Bulundurma (Ticari): 10 yıldan az olmamak üzere hapis' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "5-7 yıl hapis",
+          "rationale": "Belgede 5-7 yıl aralığında bir ceza tanımı bulunmamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "Aşağıdakilerden hangisi 'Sinaps'ı tanımlar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sinir hücresinin kendisidir.",
+          "rationale": "Sinir hücresinin kendisi 'Nöron' olarak adlandırılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nöronlar arası kimyasal habercidir.",
+          "rationale": "Kimyasal haberci 'Nörotransmiter' (örn: Dopamin) olarak adlandırılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nörotransmiterin bağlandığı alıcı noktadır.",
+          "rationale": "Alıcı nokta 'Reseptör' olarak adlandırılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nöronlar arası bağlantı (yaklaşma) yeridir.",
+          "rationale": "Bu, belgedeki 'Sinaps' tanımıyla (nöronlar arası bağlantı yeri) tam olarak eşleşmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Beynin ödül sisteminin başlangıç noktasıdır.",
+          "rationale": "Ödül sisteminin başlangıç noktası 'Ventral Tegmental Alan (VTA)'dır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "Nöronlar arasında kimyasal haberci olarak görev yapan ve Dopamin'in de bir örneği olduğu maddelere ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nöron",
+          "rationale": "Nöron, sinir hücresinin kendisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sinaps",
+          "rationale": "Sinaps, nöronlar arası bağlantı yeridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nörotransmiter",
+          "rationale": "Belgede 'Nörotransmiter: Nöronlar arası kimyasal haberciler (örn: Dopamin)' tanımı yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Reseptör",
+          "rationale": "Reseptör, bu habercilerin bağlandığı alıcı noktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amigdala",
+          "rationale": "Amigdala, beynin duygusal hafızayla ilgili bir bölgesidir, kimyasal haberci değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "Bağımlılığın nörobiyolojisinde merkezi bir rol oynayan beyin ödül sisteminin diğer adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Prefrontal Korteks Yolağı",
+          "rationale": "Prefrontal Korteks bu sistemin bir parçasıdır ancak yolak 'Mezokortikolimbik' olarak adlandırılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amigdala-Hipokampüs Yolağı",
+          "rationale": "Amigdala ve Hipokampüs bu sistemle ilişkilidir ancak yolağın adı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mezokortikolimbik Yolak",
+          "rationale": "Belgede 'Beynin Ödül Sistemi (Mezokortikolimbik Yolak)' ifadesi net olarak yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dopamin Reseptör Yolağı",
+          "rationale": "Dopamin bu yolda kullanılan nörotransmiterdir ancak yolağın anatomik adı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ventral Tegmental Yolak",
+          "rationale": "VTA bu yolağın başlangıç noktasıdır ancak yolağın tam adı Mezokortikolimbik'tir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "Beynin ödül sisteminin (Mezokortikolimbik Yolak) başlangıç noktası olan beyin bölgesi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Prefrontal Korteks",
+          "rationale": "Prefrontal Korteks, VTA'dan uzantı alır; odaklanma ve planlama merkezidir, başlangıç noktası değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ventral Tegmental Alan (VTA / Ön Tavan Bölge)",
+          "rationale": "Belgede 'Ventral Tegmental Alan (VTA / Ön Tavan Bölge): Ödül sisteminin başlangıç noktasıdır' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nucleus Accumbens (NAcc)",
+          "rationale": "NAcc, VTA'dan uzantı alır; ödül ve motivasyonun kilit noktasıdır, başlangıç noktası değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amigdala",
+          "rationale": "Amigdala, duygusal hafıza ve tepkilerle ilgilidir, ödül sisteminin başlangıç noktası değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hipokampüs",
+          "rationale": "Hipokampüs, hafıza merkezidir, ödül sisteminin başlangıç noktası değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "Beynin odaklanma, dikkat ve planlama merkezi olan ve VTA'dan uzantı alan bölge hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hipokampüs",
+          "rationale": "Hipokampüs, hafıza merkezidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amigdala",
+          "rationale": "Amigdala, duygusal hafıza ve tepkilerle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nucleus Accumbens (NAcc)",
+          "rationale": "NAcc, ödül ve motivasyonun kilit noktasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ventral Tegmental Alan (VTA)",
+          "rationale": "VTA, ödül sisteminin başlangıç noktasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prefrontal Korteks",
+          "rationale": "Belgede 'Prefrontal Korteks: VTA'dan uzantı alır. Odaklanma, dikkat ve planlama merkezidir' tanımı yer almaktadır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "Ödül sisteminde 'ödül ve motivasyonun kilit noktası' olarak tanımlanan ve VTA'dan uzantı alan bölge hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Prefrontal Korteks",
+          "rationale": "Prefrontal Korteks, odaklanma, dikkat ve planlama merkezidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hipokampüs",
+          "rationale": "Hipokampüs, hafıza merkezidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nucleus Accumbens (NAcc)",
+          "rationale": "Belgede 'Nucleus Accumbens (NAcc): VTA'dan uzantı alan diğer bölgedir. Ödül ve motivasyonun kilit noktasıdır' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Amigdala",
+          "rationale": "Amigdala, duygusal hafıza ve tepkilerle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sinaps",
+          "rationale": "Sinaps, bir beyin bölgesi değil, nöronlar arası bağlantı yeridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "Duygusal hafıza ve duygusal tepkilerden sorumlu olan beyin bölgesi aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Amigdala",
+          "rationale": "Belgede 'Amigdala: Duygusal hafıza ve duygusal tepkiler' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hipokampüs",
+          "rationale": "Hipokampüs, genel hafıza merkezidir (kısa süreli -> uzun süreli).",
+          "isCorrect": false
+        },
+        {
+          "text": "Prefrontal Korteks",
+          "rationale": "Prefrontal Korteks, planlama ve dikkat merkezidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nucleus Accumbens (NAcc)",
+          "rationale": "NAcc, ödül ve motivasyon merkezidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ventral Tegmental Alan (VTA)",
+          "rationale": "VTA, ödül sisteminin başlangıç noktasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "Beynin hafıza merkezi olan ve kısa süreli hafızayı uzun süreliye çeviren bölge hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Amigdala",
+          "rationale": "Amigdala, duygusal hafıza ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nucleus Accumbens (NAcc)",
+          "rationale": "NAcc, ödül ve motivasyon ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prefrontal Korteks",
+          "rationale": "Prefrontal Korteks, planlama ve dikkat ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hipokampüs",
+          "rationale": "Belgede 'Hipokampüs: Hafıza merkezi (Kısa süreli -> Uzun süreli)' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ventral Tegmental Alan (VTA)",
+          "rationale": "VTA, ödül sisteminin başlangıç noktasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "Beynin ödül sisteminde kullanılan anahtar nörotransmiter hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Serotonin",
+          "rationale": "Serotonin ruh haliyle ilgili önemli bir nörotransmiterdir ancak belgede ödül sistemi için 'Dopamin' vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Asetilkolin",
+          "rationale": "Asetilkolin hafıza ve kas fonksiyonları için önemlidir ancak ödül sisteminin 'anahtar' nörotransmiteri olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "GABA",
+          "rationale": "GABA, genellikle sakinleştirici (inhibitör) bir nörotransmiterdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dopamin",
+          "rationale": "Belgede 'DOPAMİN: Ödül sisteminde kullanılan anahtar nörotransmiterdir' ifadesi açıkça yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Adrenalin (Epinefrin)",
+          "rationale": "Adrenalin 'savaş ya da kaç' tepkisiyle ilgilidir, ödül sisteminin anahtarı olarak belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "Dopamin eksikliği aşağıdakilerden hangisine yol açar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Madde kullanımına karşı ilgisizlik ve tiksinme.",
+          "rationale": "Belgeye göre Dopamin eksikliği tam tersine 'madde arayışına' yol açar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hafıza merkezinin (Hipokampüs) aşırı aktif hale gelmesi.",
+          "rationale": "Dopamin eksikliği hafızayı etkileyebilir ancak belgedeki spesifik sonuç bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Duygusal tepkilerin (Amigdala) tamamen kaybolması.",
+          "rationale": "Dopamin eksikliği motivasyonu etkiler, duygusal tepkilerin tamamen kaybolmasına neden olmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Planlama yeteneğinin (Prefrontal Korteks) artması.",
+          "rationale": "Dopamin eksikliği genellikle bilişsel fonksiyonları ve motivasyonu olumsuz etkiler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Madde arayışı ve yoksunluk krizleri.",
+          "rationale": "Belgede 'Dopamin eksikliği; madde arayışı ve yoksunluk krizlerine yol açar' ifadesi yer almaktadır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "Aşağıdakilerden hangisi nörobiyoloji eksenli 'Risk Faktörleri' arasında sayılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Güçlü ve pozitif aile bağları.",
+          "rationale": "Bu, belgede 'Koruyucu Etkenler' arasında sayılmıştır, risk faktörü değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ebeveynlerin çocuklarının hayatına ilgili olması.",
+          "rationale": "Bu, belgede 'Koruyucu Etkenler' arasında sayılmıştır, risk faktörü değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Okulda başarılı olma ve kurumlara güçlü bağ.",
+          "rationale": "Bu, belgede 'Koruyucu Etkenler' arasında sayılmıştır, risk faktörü değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ailede ruhsal sorun veya bağımlılık varlığı.",
+          "rationale": "Bu, belgedeki nörobiyoloji eksenli 'Risk Faktörleri' listesinin ilk sırasında yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Açık aile kuralları.",
+          "rationale": "Bu, belgede 'Koruyucu Etkenler' arasında sayılmıştır, risk faktörü değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "question": "Aşağıdakilerden hangisi nörobiyoloji eksenli 'Koruyucu Etkenler' arasında sayılmamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Güçlü ve pozitif aile bağları.",
+          "rationale": "Bu, 'Koruyucu Etkenler' listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Açık aile kuralları.",
+          "rationale": "Bu, 'Koruyucu Etkenler' listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Okulda başarılı olma.",
+          "rationale": "Bu, 'Koruyucu Etkenler' listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ebeveyn-çocuk arası bağlanma ve ilgi eksikliği.",
+          "rationale": "Bu, 'Koruyucu Etkenler' değil, 'Risk Faktörleri' listesinde yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ebeveynlerin çocuklarının arkadaşlarını tanıması.",
+          "rationale": "Bu ('Ebeveynlerin çocuklarının hayatına ilgili olması, arkadaşlarını tanıması') 'Koruyucu Etkenler' listesinde yer almaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "question": "Duygularını tanıyamama ve anlamlandıramama, nörobiyoloji eksenli sınıflandırmada hangi grupta yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Koruyucu Etkenler",
+          "rationale": "Duygularını tanımak koruyucu olabilir ancak tanıyamamak bir risktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Risk Faktörleri",
+          "rationale": "Belgede 'Duygularını tanıyamama ve anlamlandıramama' 'Risk Faktörleri' altında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bağımlılık Belirtileri",
+          "rationale": "Bu durum bağımlılığa zemin hazırlayan bir risk faktörüdür, bağımlılığın kendisinin bir belirtisi olarak listelenmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ruhsal Yoksunluk Belirtileri",
+          "rationale": "Ruhsal yoksunluk belirtileri sinirlilik, huzursuzluk gibi durumlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tedavi Yöntemleri",
+          "rationale": "Bu, tedavi edilmesi gereken bir eksiklik olabilir ancak bir tedavi yöntemi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "question": "DSM-5'e göre 'Madde Kullanım Bozukluğu' tanısı konulabilmesi için bir yıl içinde en az kaç kriterin görülmesi gerekir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "1",
+          "rationale": "Tek bir kriter tanı için yeterli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "2",
+          "rationale": "Belgede 'Bir yıl içinde en az 2 tanesinin görülmesi gerekir' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "4",
+          "rationale": "4-5 kriter 'Orta' şiddet seviyesini gösterir, ancak tanı için 2 kriter yeterlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "6",
+          "rationale": "6 veya daha fazla kriter 'Şiddetli' seviyeyi gösterir, ancak tanı için 2 kriter yeterlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "11",
+          "rationale": "Toplam 11 kriter vardır, ancak tanı için hepsinin görülmesi gerekmez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "question": "DSM-5 Madde Kullanım Bozukluğu şiddet derecelendirmesine göre 'Hafif' şiddet düzeyi için kaç kriter gereklidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece 1 Kriter",
+          "rationale": "Tanı için en az 2 kriter gerekir, 1 kriter tanı için yetersizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "2-3 Kriter",
+          "rationale": "Belgede 'Şiddet Dereceleri: 2-3 Kriter = Hafif' olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "4-5 Kriter",
+          "rationale": "4-5 Kriter, 'Orta' şiddet düzeyini gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "6+ Kriter",
+          "rationale": "6 ve üzeri kriter, 'Şiddetli' şiddet düzeyini gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "10-11 Kriter",
+          "rationale": "Bu 'Şiddetli' kategoriye girer; 'Hafif' için 2-3 kriter yeterlidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "question": "DSM-5'e göre 'Şiddetli' Madde Kullanım Bozukluğu tanısı için kaç kriter gereklidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "2-3 Kriter",
+          "rationale": "2-3 Kriter, 'Hafif' şiddet düzeyini gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "4-5 Kriter",
+          "rationale": "4-5 Kriter, 'Orta' şiddet düzeyini gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece 5 Kriter",
+          "rationale": "5 Kriter, 'Orta' şiddet düzeyine dahildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "6 veya daha fazla Kriter",
+          "rationale": "Belgede '6+ Kriter = Şiddetli' olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tüm 11 Kriterin tamamı",
+          "rationale": "Tümünün görülmesi şart değildir, 6 veya daha fazlası 'Şiddetli' tanı için yeterlidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "question": "DSM-5 Madde Kullanım Bozukluğu kriterlerinden olan 'Tolerans' nasıl tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sorumlulukları (iş, okul, ev) yerine getirememe.",
+          "rationale": "Bu 5. kriterdir, tolerans değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Madde kullanımı için çok büyük istek (Craving).",
+          "rationale": "Bu 4. kriterdir (Craving), tolerans değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "a. Artan doz ihtiyacı, b. Aynı dozun etkinin azalması.",
+          "rationale": "Bu, belgedeki 10. kriter olan 'Tolerans Gelişmesi'nin tam tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bırakmak/kontrol etmek için sonuç vermeyen çabalar.",
+          "rationale": "Bu 2. kriterdir, tolerans değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olumsuz bedensel/ruhsal etkileri bilinmesine rağmen sürdürme.",
+          "rationale": "Bu 9. kriterdir, tolerans değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "question": "DSM-5 kriterleri arasında yer alan 'Madde kullanımı için çok büyük istek' hangi terimle ifade edilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tolerans (Kriter 10)",
+          "rationale": "Tolerans, artan doz ihtiyacıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yoksunluk (Kriter 11)",
+          "rationale": "Yoksunluk, madde kesilince çıkan belirtilerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Craving (Kriter 4)",
+          "rationale": "Belgede 4. kriter 'Madde kullanımı için çok büyük istek (Craving)' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kontrol Kaybı (Kriter 1)",
+          "rationale": "Kriter 1 'İstendiğinden fazla/uzun süreli kullanım' olarak tanımlanmıştır, 'büyük istek' (craving) değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Bozulma (Kriter 6)",
+          "rationale": "Kriter 6 'Olumsuz sosyal/kişiler arası etkilere rağmen kullanıma devam'dır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "question": "DSM-5 Madde Kullanım Bozukluğu kriterlerine göre 'Sorumlulukları (iş, okul, ev) yerine getirememe' durumu kaçıncı kriterdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kriter 1",
+          "rationale": "Kriter 1: İstendiğinden fazla/uzun süreli kullanım.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kriter 3",
+          "rationale": "Kriter 3: Maddeyi elde etmek/kullanmak/kurtulmak için çok zaman ayırma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kriter 5",
+          "rationale": "Belgede 5. kriter 'Sorumlulukları (iş, okul, ev) yerine getirememe' olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kriter 7",
+          "rationale": "Kriter 7: Günlük etkinliklerin (iş, eğlence) bırakılması/azaltılması.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kriter 9",
+          "rationale": "Kriter 9: Olumsuz bedensel/ruhsal etkileri bilinmesine rağmen sürdürme.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "question": "Aşağıdakilerden hangisi DSM-5'te tanımlanan 10 madde kümesinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Alkol",
+          "rationale": "Alkol, DSM-5 madde kümeleri listesinde 1. sırada yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kafein",
+          "rationale": "Kafein, DSM-5 madde kümeleri listesinde 2. sırada yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnternet",
+          "rationale": "İnternet, DSM-5 madde kümelerinde değil, 'Olgusal (Davranışsal)' bağımlılıklar altında sınıflandırılır (Bölüm 1).",
+          "isCorrect": true
+        },
+        {
+          "text": "Tütün",
+          "rationale": "Tütün, DSM-5 madde kümeleri listesinde 9. sırada yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uçucular (Tiner, Bali vb.)",
+          "rationale": "Uçucular, DSM-5 madde kümeleri listesinde 5. sırada yer alır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "question": "LSD ve Fensiklidin, DSM-5 madde kümelerinden hangisine aittir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Opiyatlar",
+          "rationale": "Opiyatlar morfin, eroin gibi maddelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uyarıcılar",
+          "rationale": "Uyarıcılar amfetamin, kokain gibi maddelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Halüsinojenler",
+          "rationale": "Belgede 'Halüsinojenler (LSD, Fensiklidin vb.)' ifadesi 4. küme olarak yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hipnosedatifler (Sakinleştirici, Uyutucu)",
+          "rationale": "Bu grup benzodiazepinler gibi maddeleri içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kenevir (Esrar)",
+          "rationale": "Kenevir ayrı bir kümedir (3. küme).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "question": "Tiner ve Bali, DSM-5 madde kümelerinden hangisine aittir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Uçucular",
+          "rationale": "Belgede 5. küme 'Uçucular (Tiner, Bali vb.)' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uyarıcılar",
+          "rationale": "Uyarıcılar amfetamin, kokain gibi maddelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Halüsinojenler",
+          "rationale": "Halüsinojenler LSD gibi maddelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opiyatlar",
+          "rationale": "Opiyatlar morfin, eroin gibi maddelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diğer",
+          "rationale": "Tiner ve Bali, 'Uçucular' olarak spesifik bir kümede sınıflandırılmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "question": "Morfin, Eroin ve Metadon, DSM-5 madde kümelerinden hangisine aittir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sakinleştirici, Uyutucu, Kaygı Gidericiler",
+          "rationale": "Bu grup (Hipnosedatifler) farklı bir kategoridir (7. küme).",
+          "isCorrect": false
+        },
+        {
+          "text": "Opiyatlar",
+          "rationale": "Belgede 6. küme 'Opiyatlar (Morfin, Eroin, Metadon vb.)' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uyarıcılar",
+          "rationale": "Bu maddeler uyarıcı değil, genellikle yatıştırıcı ve ağrı kesici etkiye sahiptir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Halüsinojenler",
+          "rationale": "Bu maddeler öncelikli olarak halüsinojenik etki göstermez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kenevir (Esrar)",
+          "rationale": "Kenevir ayrı bir maddedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "question": "Amfetamin, Ekstazi ve Kokain, DSM-5 madde kümelerinden hangisine aittir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Opiyatlar",
+          "rationale": "Opiyatlar morfin, eroin gibi maddelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Halüsinojenler",
+          "rationale": "Ekstazi halüsinojenik etkiler gösterebilse de, bu üç madde 'Uyarıcılar' kümesinde sınıflandırılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sakinleştirici, Uyutucu, Kaygı Gidericiler (Hipnosedatifler)",
+          "rationale": "Bu maddeler sakinleştirici değil, tam tersine canlandırıcı etkiye sahiptir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uyarıcılar",
+          "rationale": "Belgede 8. küme 'Uyarıcılar (Amfetamin, Ekstazi, Kokain)' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uçucular",
+          "rationale": "Uçucular tiner, bali gibi maddelerdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "question": "Alkolün 'kısa dönem etkileri' arasında aşağıdakilerden hangisi yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Depresyon",
+          "rationale": "Depresyon, belgedeki tabloda alkolün 'uzun dönem etkileri' arasında sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karaciğer fonksiyon bozukluğu",
+          "rationale": "Karaciğer hasarı, alkolün 'uzun dönem etkileri' arasında sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anksiyete ve titreme",
+          "rationale": "Anksiyete ve titreme, alkolün 'yoksunluk belirtileri' arasında sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Az dozda rahatlama, çok dozda koordinasyon kaybı ve konuşma bozukluğu.",
+          "rationale": "Bu ifadeler, belgedeki tabloda alkolün 'kısa dönem etkileri' olarak tam listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kalp ve kan hastalıkları",
+          "rationale": "Kalp ve kan hastalıkları, alkolün 'uzun dönem etkileri' arasında sayılmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "question": "Aşağıdakilerden hangisi Alkolün 'uzun dönem etkilerinden' biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rahatlama (az doz)",
+          "rationale": "Bu, 'kısa dönem' etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kusma ve koordinasyon kaybı (çok doz)",
+          "rationale": "Bunlar, 'kısa dönem' etkileridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anksiyete, titreme, kasılma (nöbet)",
+          "rationale": "Bunlar, 'yoksunluk belirtileri'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Depresyon ve Karaciğer fonksiyon bozukluğu",
+          "rationale": "Bu iki durum, belgedeki tabloda alkolün 'uzun dönem etkileri' olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Duyuları harekete geçirme",
+          "rationale": "Bu, Nikotin'in kısa dönem etkisidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "question": "Opiyatların (Eroin, Morfin) 'kısa dönem etkileri' arasında hangisi bulunur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Acıyı azaltma, hayal görme (öfori) ve uyuşukluk.",
+          "rationale": "Bu ifadeler, belgedeki tabloda Opiyatların 'kısa dönem etkileri' olarak tam listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Doz aşımı ölümcüllüğü ve damar içi kullanım riskleri (AIDS, Hepatit).",
+          "rationale": "Bunlar, Opiyatların 'uzun dönem etkileri' ve riskleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anksiyete, uykusuzluk, kas kasılmaları, kusma.",
+          "rationale": "Bunlar, Opiyatların 'yoksunluk belirtileri'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bedeni ve ruhu canlandırma, enerjik hissetme.",
+          "rationale": "Bu, Opiyatların (genellikle yatıştırıcı) değil, Uyarıcıların (Amfetamin, Kokain) etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ruh halini değiştirme, renkleri 'görme'.",
+          "rationale": "Bu, Halüsinojenlerin (LSD) etkisidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "question": "Aşağıdakilerden hangisi Opiyatların (Eroin, Morfin) 'yoksunluk belirtileri'nden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Acıyı azaltma ve öfori (hayal görme).",
+          "rationale": "Bunlar, Opiyatların 'kısa dönem etkileri'dir, yoksunluk belirtisi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doz aşımı ve AIDS/Hepatit riski.",
+          "rationale": "Bunlar, Opiyatların 'uzun dönem etkileri' ve riskleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anksiyete, uykusuzluk, kas kasılmaları, kusma, terleme, ishal, ağrı.",
+          "rationale": "Bu belirtilerin tümü, belgedeki tabloda Opiyatların 'yoksunluk belirtileri' olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Belirgin fiziksel semptom yok, duygusal bağımlılık.",
+          "rationale": "Bu, Halüsinojenlerin yoksunluk profili olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yorgunluk, ağrı, intihar düşünceleri, paranoya.",
+          "rationale": "Bu, Uyarıcıların (Amfetamin, Kokain) yoksunluk belirtileridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "question": "Halüsinojenlerin (LSD) 'uzun dönem etkileri' arasında belirtilen ve maddenin etkisi geçtikten sonra yaşanan sanrılara ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Öfori",
+          "rationale": "Öfori, Opiyatların kısa dönem etkisidir (yoğun mutluluk hali).",
+          "isCorrect": false
+        },
+        {
+          "text": "Paranoya",
+          "rationale": "Paranoya Esrar ve Uyarıcıların etkilerinde belirtilmiştir, ancak bu spesifik tanım Flashback'e aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Flashback",
+          "rationale": "Belgede Halüsinojenlerin uzun dönem etkileri arasında 'Hafıza zararı, ruh sağlığı bozulması (Flashback)' yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Konfüzyon",
+          "rationale": "Konfüzyon (kafa karışıklığı), Esrar'ın yüksek dozda kısa dönem etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yoksunluk",
+          "rationale": "Bu bir yoksunluk belirtisi değil, maddenin geçmişteki etkisinin tekrarlamasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "question": "Belgedeki tabloya göre Esrarın (Hint Keneviri) sınıfı ve kısa dönem etkisi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Uyarıcıdır; bedeni ve ruhu canlandırır.",
+          "rationale": "Esrar 'Depresan' olarak sınıflandırılmış ve canlandırıcı değil, rahatlatıcı etkisi belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Depresandır; rahatlatıcı ve sakinleştiricidir.",
+          "rationale": "Belgedeki tabloda Esrar için 'Depresan, rahatlatıcı, sakinleştirici' ifadeleri yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Halüsinojendir; renkleri 'görülür' hale getirir.",
+          "rationale": "Bu, LSD'nin etkisidir. Esrar yüksek dozda halüsinasyona neden olabilir ancak temel sınıfı 'Depresan' olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opiyattır; acıyı azaltır ve öfori yapar.",
+          "rationale": "Bu, Eroin ve Morfin'in etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hipnosedatiftir; düşünce ve eylemleri yavaşlatır.",
+          "rationale": "Bu tanım Hipnosedatiflere (Benzodiazepin) aittir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "question": "Aşağıdakilerden hangisi Uyarıcıların (Amfetamin, Kokain, Ekstazi) 'kısa dönem etkilerinden' biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Düşünce ve eylemleri yavaşlatma.",
+          "rationale": "Bu, Hipnosedatiflerin etkisidir; uyarıcılar ise tam tersini yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Depresan etki, rahatlama ve sakinleşme.",
+          "rationale": "Bu, Esrarın etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Acıyı azaltma ve uyuşukluk.",
+          "rationale": "Bu, Opiyatların etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bedeni/ruhu canlandırma, enerjik hissetme ve açlık hissinin azalması.",
+          "rationale": "Bu ifadeler, belgedeki tabloda Uyarıcıların 'kısa dönem etkileri' olarak tam listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ruh halini değiştirme ve renkleri 'görme'.",
+          "rationale": "Bu, Halüsinojenlerin (LSD) etkisidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "question": "Uyarıcıların (Amfetamin, Kokain) 'yoksunluk belirtileri' arasında aşağıdakilerden hangisi yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Anksiyete, uykusuzluk, kas kasılmaları.",
+          "rationale": "Bu, Opiyatların yoksunluk belirtileridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sinirlilik, uykusuzluk, kramplar, titremeler.",
+          "rationale": "Bu, Hipnosedatiflerin yoksunluk belirtileridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anksiyete, titreme, kasılma (nöbet).",
+          "rationale": "Bu, Alkolün yoksunluk belirtileridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yorgunluk, ağrı, intihar düşünceleri, paranoya, öfke.",
+          "rationale": "Bu ifadeler, belgedeki tabloda Uyarıcıların 'yoksunluk belirtileri' olarak tam listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uyku bozukluğu, baş ağrısı, öksürük, sinirlilik.",
+          "rationale": "Bu, Nikotinin yoksunluk belirtileridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "question": "Barbitüratların aşırı dozunun ölümcül olabildiği madde sınıfı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Opiyatlar",
+          "rationale": "Opiyatların da aşırı dozu ölümcüldür ancak 'Barbitürat' vurgusu Hipnosedatifler sınıfındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hipnosedatifler (Benzodiazepin, Barbitürat)",
+          "rationale": "Belgedeki tabloda Hipnosedatifler için 'Barbitüratların aşırı dozu ölümcüldür' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uyarıcılar",
+          "rationale": "Uyarıcıların aşırı dozu da tehlikelidir ancak Barbitürat bu sınıfta değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Halüsinojenler",
+          "rationale": "Halüsinojenler için bu riskten ziyade 'Flashback' vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uçucu Maddeler",
+          "rationale": "Uçucu maddelerin beyin, böbrek ve akciğer hasarı yaptığı belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "question": "Uçucu Maddelerin (Bali, Tiner) 'uzun dönem etkileri' arasında aşağıdakilerden hangisi sayılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mutluluk, rahatlama, uyku hali.",
+          "rationale": "Bunlar, Uçucu Maddelerin 'kısa dönem etkileri'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akciğer ve kalp hastalıkları, kanser.",
+          "rationale": "Bu, Nikotinin uzun dönem etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İştahsızlık, motivasyonsuzluk, beyin, böbrek ve akciğer hasarı.",
+          "rationale": "Bu ifadeler, belgedeki tabloda Uçucu Maddelerin 'uzun dönem etkileri' olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hafıza zararı ve 'Flashback'.",
+          "rationale": "Bu, Halüsinojenlerin uzun dönem etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Depresyon, Karaciğer fonksiyon bozukluğu.",
+          "rationale": "Bu, Alkolün uzun dönem etkisidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "question": "Uçucu maddelerle ilgili olarak, 'geri dönülmez beyin hasarı' yapabilen maddeye hangisi örnek verilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tiner",
+          "rationale": "Tinerin beyin hasarı yaptığı belirtilmiştir ancak 'geri dönülmez' vurgusu Kurşun için yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bali",
+          "rationale": "Balinin beyin hasarı yaptığı belirtilmiştir ancak 'geri dönülmez' vurgusu Kurşun için yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uhu",
+          "rationale": "Uhu da bir uçucudur ancak 'geri dönülmez' vurgusu Kurşun için yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kurşun",
+          "rationale": "Belgede Uçucu Maddeler bölümünde 'Bazı maddeler (örn: kurşun) geri dönülmez beyin hasarı yapabilir' notu bulunmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Amfetamin",
+          "rationale": "Amfetamin bir uyarıcıdır, uçucu madde değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "question": "Nikotinin 'uzun dönem etkileri' arasında aşağıdakilerden hangisi yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Uyarıcı etki, duyuları harekete geçirme ve rahatlatma.",
+          "rationale": "Bunlar, Nikotinin 'kısa dönem etkileri'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akciğer ve kalp hastalıkları, kanser.",
+          "rationale": "Bu ifadeler, belgedeki tabloda Nikotinin 'uzun dönem etkileri' olarak tam listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uyku bozukluğu, baş ağrısı, öksürük, sinirlilik.",
+          "rationale": "Bunlar, Nikotinin 'yoksunluk belirtileri'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Acıyı azaltma ve öfori.",
+          "rationale": "Bu, Opiyatların etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Depresyon ve Karaciğer fonksiyon bozukluğu.",
+          "rationale": "Bu, Alkolün uzun dönem etkisidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "question": "Dünya Sağlık Örgütü (DSÖ) 2023 verilerine göre dünyada her yıl sigaradan kaç kişi ölmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "1 milyon kişi",
+          "rationale": "Belgedeki rakam çok daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "65 bin çocuk",
+          "rationale": "65 bin çocuk, sigaradan değil, 'pasif içicilikten' ölenlerin sayısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "22 bin kişi",
+          "rationale": "22 bin kişi, 'günde' ölen kişi sayısıdır, yıllık değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "8 milyon kişi",
+          "rationale": "Belgede 'Dünyada her yıl 8 milyon kişi (günde 22 bin kişi) sigaradan ölmektedir (DSÖ 2023)' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "100 bin kişi",
+          "rationale": "Belgedeki rakam 8 milyondur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "question": "Fagerström Nikotin Bağımlılık Ölçeği'ne göre 'Uyandıktan sonraki ilk 5 dakika içinde' sigara içmek kaç puandır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "0 Puan",
+          "rationale": "0 puan genellikle en düşük riskli cevaptır; bu ise en yüksek riskli davranıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "1 Puan",
+          "rationale": "1 puan 'sabah ilk içilen' sigaradan vazgeçememek veya 'sigara içilmeyen yerlerde zorlanmak' içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "2 Puan",
+          "rationale": "2 puan 'günde 21-30 sigara içmek' içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "3 Puan",
+          "rationale": "Belgede 1. soru için '(İlk 5 dk = 3 puan)' ifadesi net olarak yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "5 Puan",
+          "rationale": "Ölçekte tek bir soru için 5 puanlık bir değer bulunmamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "question": "Fagerström Ölçeği'ne göre 'Günde 31 veya daha fazla' sigara içmek kaç puandır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "0 Puan",
+          "rationale": "0 puan '10 az' sigara içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "1 Puan",
+          "rationale": "1 puan '11-20' sigara içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "2 Puan",
+          "rationale": "2 puan '21-30' sigara içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "3 Puan",
+          "rationale": "Belgede 4. soru için '(31+ = 3 puan)' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "4 Puan",
+          "rationale": "Ölçekte bu soru için 4 puanlık bir değer bulunmamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "question": "Fagerström Ölçeği'ne göre toplamda 8-10 puan almak ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Düşük düzeyde bağımlılık",
+          "rationale": "Düşük düzey, '0-2' puan aralığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Orta düzeyde bağımlılık",
+          "rationale": "Orta düzey, '3-7' puan aralığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek düzeyde bağımlılık",
+          "rationale": "Belgedeki puanlamada '8-10 = Yüksek düzeyde bağımlılık' olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bağımlılık yok",
+          "rationale": "0 puan bile düşük düzeyi gösterir, 8-10 puan kesinlikle bağımlılık olduğunu gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ölçek dışı, geçersiz puan",
+          "rationale": "8-10 puan, ölçeğin en yüksek kategorisidir ve geçerlidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "question": "Fagerström Ölçeği'ne göre 'Orta' düzeyde bağımlılık hangi puan aralığıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "0-2 Puan",
+          "rationale": "Bu, 'Düşük' düzeydir.",
+          "isCorrect": false
+        },
+        {
+          "text": "3-7 Puan",
+          "rationale": "Belgedeki puanlamada '3-7 = Orta' düzeyde bağımlılık olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "8-10 Puan",
+          "rationale": "Bu, 'Yüksek' düzeydir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece 5 Puan",
+          "rationale": "5 puan bu aralıktadır ancak aralığın tamamı 3-7'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "10+ Puan",
+          "rationale": "Ölçeğin maksimum puanı 10'dur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "question": "Nikotin Yoksunluk Sendromu, nikotin alınmadığında yaklaşık ne kadar süre içinde başlar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "10-15 dakika",
+          "rationale": "Belgedeki süre daha uzundur.",
+          "isCorrect": false
+        },
+        {
+          "text": "8 saat",
+          "rationale": "8 saat, kandaki oksijenin normale dönme süresidir, yoksunluğun başlama süresi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "24 saat",
+          "rationale": "24 saat, CO'nun atılma süresidir. Yoksunluk 'ilk gün en üst düzeye çıkar' ama daha erken başlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "48 saat",
+          "rationale": "48 saat, tat ve koku duyusunun normale dönme süresidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "90-120 dakika",
+          "rationale": "Belgede 'Nikotin alınmadığında 90-120 dakika içinde başlar' ifadesi yer almaktadır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "question": "Aşağıdakilerden hangisi belgede sayılan 'Nikotin Yoksunluk Sendromu' belirtilerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sinirlilik, gerginlik, öfke",
+          "rationale": "Bu, yoksunluk belirtileri listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konsantrasyon güçlüğü",
+          "rationale": "Bu, yoksunluk belirtileri listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Artmış iştah / kilo alımı",
+          "rationale": "Bu, yoksunluk belirtileri listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tansiyon yükselmesi",
+          "rationale": "Listede 'tansiyon düşmesi' belirtilmiştir, yükselmesi değil. (Sigara içmek kısa vadede tansiyonu yükseltir, ancak yoksunlukta düşme görülebilir).",
+          "isCorrect": true
+        },
+        {
+          "text": "Uykusuzluk ve baş dönmesi",
+          "rationale": "Bu, yoksunluk belirtileri listesinde yer almaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "question": "Sigaranın içinde bulunan ve kansere yol açan temel madde hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nikotin",
+          "rationale": "Nikotin, öncelikli olarak 'bağımlılık' yapan maddedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karbonmonoksit (CO)",
+          "rationale": "Karbonmonoksit, kandaki oksijeni azaltan zehirli bir gazdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Katran",
+          "rationale": "Belgede 'Katran (Kanser)' olarak açıkça belirtilmiştir. Akciğer kanserinin de Katran ile ilişkili olduğu (Bölüm 4, Kısım 7) ifade edilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Amonyak",
+          "rationale": "Amonyak, sigaradaki zehirli kimyasallardan biridir ancak kanserin birincil nedeni olarak Katran belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Radon",
+          "rationale": "Radon da sigarada bulunan zehirli bir maddedir, ancak kanserle ilişkilendirilen ana madde Katran'dır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "question": "Sigaranın içinde bulunan ve kandaki oksijeni (O2) azaltan zehirli gaz hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nikotin",
+          "rationale": "Nikotin bağımlılık yapar, oksijeni doğrudan azaltan gaz değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Katran",
+          "rationale": "Katran kansere yol açan yapışkan maddedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Benzen",
+          "rationale": "Benzen zehirli bir kimyasaldır ancak oksijeni azaltan gaz olarak CO belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karbonmonoksit (CO)",
+          "rationale": "Belgede 'Karbonmonoksit (Kandaki O2'yi azaltır)' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arsenik",
+          "rationale": "Arsenik (fare zehri) katı bir zehirdir, gaz değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "question": "Aşağıdakilerden hangisi sigaranın 'içer içmez (kısa dönem)' ortaya çıkan etkilerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kalp atışının hızlanması",
+          "rationale": "Bu, 'İçer İçmez' listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kan basıncının artması",
+          "rationale": "Bu, 'İçer İçmez' listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mide asidinin artması",
+          "rationale": "Bu, 'İçer İçmez' listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Koku ve tat alma duyularının zayıflaması",
+          "rationale": "Bu, 'İçer İçmez' listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dişlerde sarı/siyah lekeler oluşması",
+          "rationale": "Bu, 'Uzun Dönem Etkiler' listesinde yer almaktadır; içer içmez oluşmaz.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "question": "Aşağıdakilerden hangisi sigaranın 'uzun dönem' etkilerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kalp atışının hızlanması",
+          "rationale": "Bu, 'kısa dönem (içer içmez)' etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mide asidinin artması",
+          "rationale": "Bu, 'kısa dönem (içer içmez)' etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Beyindeki kan akışının yavaşlaması",
+          "rationale": "Bu, 'kısa dönem (içer içmez)' etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "El/ayak parmaklarına kan akışının zayıflaması",
+          "rationale": "Bu, 'kısa dönem (içer içmez)' etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kırışık/kuru cilt (erken yaşlanma) ve kısırlık riski",
+          "rationale": "Bu iki durum da belgede 'Uzun Dönem Etkiler' başlığı altında listelenmiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "question": "Belgeye göre akciğer kanserlerinin yüzde kaçı tütün kaynaklıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "%10-20'si",
+          "rationale": "Belgedeki oran çok daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%30-40'ı",
+          "rationale": "Belgedeki oran çok daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%50-60'ı",
+          "rationale": "Belgedeki oran daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%80-90'ı",
+          "rationale": "Belgede 'Kanserler: Akciğer kanserlerinin %80-90'ı tütün kaynaklıdır' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "%100'ü",
+          "rationale": "Çok büyük bir çoğunluğu tütün kaynaklı olsa da, başka nedenleri (asbest, hava kirliliği) de olabileceğinden %100 denmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "question": "Sigara kullanımı, aşağıdakilerden hangisinin kanser riskini '2 kat artırır'?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Akciğer",
+          "rationale": "Akciğer kanserlerinin %80-90'ının nedenidir, bu 2 kattan çok daha fazladır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pankreas",
+          "rationale": "Pankreas kanseri riski yaratır ancak '2 kat' vurgusu Mesane için yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gırtlak",
+          "rationale": "Gırtlak kanseri riski yaratır ancak '2 kat' vurgusu Mesane için yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesane",
+          "rationale": "Belgede 'Kanserler' bölümünde 'Mesane (riski 2 kat artırır)' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mide",
+          "rationale": "Mide kanseri riski yaratır ancak '2 kat' vurgusu Mesane için yapılmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "question": "Aşağıdakilerden hangisi sigaranın tetiklediği 'Kalp-Damar' hastalıklarından biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kronik bronşit",
+          "rationale": "Kronik bronşit, 'Solunum' hastalıkları kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zatürre",
+          "rationale": "Zatürre, 'Solunum' hastalıkları kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mide ülseri",
+          "rationale": "Mide ülseri, 'Diğer' hastalıklar kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Koroner kalp hastalığı (Kalp krizi)",
+          "rationale": "Belgede 'Kalp-Damar' başlığı altında 'Kalp krizi (Koroner kalp hastalığı)' listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pankreas Kanseri",
+          "rationale": "Pankreas Kanseri, 'Kanserler' kategorisindedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "question": "Aşağıdakilerden hangisi sigaranın tetiklediği 'Solunum' hastalıklarından biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kronik bronşit ve Astım",
+          "rationale": "Bu iki hastalık da belgede 'Solunum' başlığı altında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Damar tıkanıklıkları",
+          "rationale": "Damar tıkanıklıkları, 'Kalp-Damar' hastalıkları kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Felç (İnme)",
+          "rationale": "Felç (İnme), 'Diğer' hastalıklar kategorisindedir (ve damar sistemiyle ilgilidir).",
+          "isCorrect": false
+        },
+        {
+          "text": "İktidarsızlık",
+          "rationale": "İktidarsızlık, 'Diğer' hastalıklar kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesane Kanseri",
+          "rationale": "Mesane Kanseri, 'Kanserler' kategorisindedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "question": "Sigara içilmeyen ortamdaki dumanı solumaya ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aktif İçicilik",
+          "rationale": "Aktif içicilik, kişinin sigarayı kendisinin içmesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pasif İçicilik",
+          "rationale": "Belgede 'Pasif İçicilik: Sigara içilmeyen ortamdaki dumanı solumak' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Elektronik Sigara Kullanımı",
+          "rationale": "Elektronik sigara, farklı bir tütün ürünüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nargile Kullanımı",
+          "rationale": "Nargile, farklı bir tütün ürünüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nikotin Yerine Koyma Tedavisi (NRT)",
+          "rationale": "NRT, sigarayı bırakmak için kullanılan bir tedavi yöntemidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "question": "Belgeye göre 1 Nargile, yaklaşık kaç sigara zararına eşittir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "1 Sigara",
+          "rationale": "Nargile masum değildir ve zararı 1 sigaradan çok daha fazladır.",
+          "isCorrect": false
+        },
+        {
+          "text": "5 Sigara",
+          "rationale": "Belgedeki rakam daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "10 Sigara",
+          "rationale": "Belgedeki rakam daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "25 Sigara",
+          "rationale": "Belgedeki rakam daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "50 Sigara",
+          "rationale": "Belgede '1 Nargile = 50 Sigara zararına eşittir' ifadesi yer almaktadır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "question": "Elektronik Sigara (E-Sigara) ile ilgili olarak belgede hangi bilgi verilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sigarayı bırakmada en etkili yardımcı yöntemdir.",
+          "rationale": "Belgede tam tersi 'Sigarayı bırakmada yardımcı değildir' denilmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nikotin bağımlılığını sürdürür ve bırakma davranışını engeller.",
+          "rationale": "Bu, belgedeki E-Sigara ile ilgili ifadelerle tam olarak örtüşmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İçeriğinde nikotin bulunmaz, tamamen zararsızdır.",
+          "rationale": "Belgede 'Nikotin bağımlılığını sürdürür' denilerek nikotin içerdiği ve zararlı olduğu belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece pasif içicilik riski yaratır, kullanıcıya zararı yoktur.",
+          "rationale": "E-sigara hem kullanıcıya hem de çevresine zarar verir ve bağımlılığı sürdürür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nargileden daha zararlıdır.",
+          "rationale": "Belgede E-sigara ile Nargile arasında doğrudan bir zarar kıyaslaması yapılmamıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "question": "Aşağıdakilerden hangisi 'Nikotin Yerine Koyma Tedavisi (NRT)' yöntemlerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bupropion",
+          "rationale": "Bupropion, NRT değil, 'Farmakoterapi' (reçeteli ilaç) yöntemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vareniklin",
+          "rationale": "Vareniklin, NRT değil, 'Farmakoterapi' (reçeteli ilaç) yöntemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sakız, bant, sprey",
+          "rationale": "Belgede 'Nikotin Yerine Koyma Tedavisi (NRT): Sakız, bant, sprey' olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Davranışsal Terapi",
+          "rationale": "Davranışsal terapi bir yöntemdir ancak 'nikotin yerine koyma' (NRT) değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elektronik Sigara",
+          "rationale": "E-sigara bir tedavi yöntemi değildir, bağımlılığı sürdürür.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "question": "Bupropion ve Vareniklin, tütün bırakma tedavisinde hangi kategoride yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nikotin Yerine Koyma Tedavisi (NRT)",
+          "rationale": "NRT; sakız, bant, sprey gibi yöntemlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Farmakoterapi (Reçeteli ilaçlar)",
+          "rationale": "Belgede 'Farmakoterapi: Bupropion, Vareniklin (Reçeteli ilaçlar)' olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Davranışsal Terapi",
+          "rationale": "Bu, danışmanlık ve destek gruplarını içeren psikolojik bir yaklaşımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Motivasyonel Destek",
+          "rationale": "Bu, tedavinin bir parçasıdır ancak bu iki ilacın kategorisi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alternatif Tütün Ürünleri",
+          "rationale": "Bunlar ilaçtır, tütün ürünü değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "question": "Sigarayı bıraktıktan ne kadar süre sonra kandaki Karbonmonoksit (CO) vücuttan atılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "20 dakika",
+          "rationale": "20 dakika sonra nabız ve solunum normale döner.",
+          "isCorrect": false
+        },
+        {
+          "text": "8 saat",
+          "rationale": "8 saat sonra kandaki Oksijen düzeyi normale döner.",
+          "isCorrect": false
+        },
+        {
+          "text": "24 saat",
+          "rationale": "Belgedeki iyileşme zaman çizelgesinde '24 saat: Karbonmonoksit (CO) vücuttan atılır' yazar.",
+          "isCorrect": true
+        },
+        {
+          "text": "48 saat",
+          "rationale": "48 saat sonra azalan tat ve koku duyusu normale döner.",
+          "isCorrect": false
+        },
+        {
+          "text": "72 saat",
+          "rationale": "72 saat sonra soluk alıp verme kolaylaşır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "question": "Sigarayı bıraktıktan ne kadar süre sonra azalan tat ve koku duyusu normale döner?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "8 saat",
+          "rationale": "8 saat sonra kandaki Oksijen düzeyi normale döner.",
+          "isCorrect": false
+        },
+        {
+          "text": "24 saat",
+          "rationale": "24 saat sonra Karbonmonoksit (CO) vücuttan atılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "48 saat",
+          "rationale": "Belgedeki iyileşme zaman çizelgesinde '48 saat: Azalan tat ve koku duyusu normale döner' yazar.",
+          "isCorrect": true
+        },
+        {
+          "text": "72 saat",
+          "rationale": "72 saat sonra soluk alıp verme kolaylaşır.",
+          "isCorrect": false
+        },
+        {
+          "text": "2-12 hafta",
+          "rationale": "2-12 hafta içinde dolaşım düzelir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "question": "Sigarayı bıraktıktan ne kadar süre sonra soluk alıp verme kolaylaşır ve enerji düzeyi artar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "24 saat",
+          "rationale": "24 saat sonra Karbonmonoksit (CO) vücuttan atılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "48 saat",
+          "rationale": "48 saat sonra tat ve koku duyusu normale döner.",
+          "isCorrect": false
+        },
+        {
+          "text": "72 saat",
+          "rationale": "Belgedeki iyileşme zaman çizelgesinde '72 saat: Soluk alıp verme kolaylaşır, enerji düzeyi artar' yazar.",
+          "isCorrect": true
+        },
+        {
+          "text": "2-12 hafta",
+          "rationale": "2-12 hafta içinde dolaşım düzelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "3-9 ay",
+          "rationale": "3-9 ay içinde akciğer performansı artar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "question": "Sigarayı bıraktıktan ne kadar süre sonra akciğer performansı %5-10 artar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "72 saat",
+          "rationale": "72 saat sonra soluk alıp verme kolaylaşır.",
+          "isCorrect": false
+        },
+        {
+          "text": "2-12 hafta",
+          "rationale": "2-12 hafta içinde dolaşım düzelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "3-9 ay",
+          "rationale": "Belgedeki iyileşme zaman çizelgesinde '3-9 ay: Akciğer performansı %5-10 artar' yazar.",
+          "isCorrect": true
+        },
+        {
+          "text": "1 YIL",
+          "rationale": "1 yıl sonra kalp hastalığı riski %50 azalır.",
+          "isCorrect": false
+        },
+        {
+          "text": "5 YIL",
+          "rationale": "5 yıl sonra kalp krizi ve solunum yolu kanser riski %50 azalır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "question": "Sigarayı bıraktıktan ne kadar süre sonra kalp hastalığı riski %50 azalır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "72 saat",
+          "rationale": "72 saat sonra soluk alıp verme kolaylaşır.",
+          "isCorrect": false
+        },
+        {
+          "text": "3-9 ay",
+          "rationale": "3-9 ay içinde akciğer performansı artar.",
+          "isCorrect": false
+        },
+        {
+          "text": "1 YIL",
+          "rationale": "Belgedeki iyileşme zaman çizelgesinde '1 YIL: Kalp hastalığı riski %50 azalır' yazar.",
+          "isCorrect": true
+        },
+        {
+          "text": "5 YIL",
+          "rationale": "5 yıl sonra kalp krizi ve solunum yolu kanser riski %50 azalır. 'Kalp hastalığı' riski 1 yılda yarıya iner.",
+          "isCorrect": false
+        },
+        {
+          "text": "10-15 YIL",
+          "rationale": "10-15 yıl sonra kalp krizi geçirme olasılığı içmeyenlerle aynı seviyeye iner.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "question": "Sigarayı bıraktıktan 5 YIL sonra hangi olumlu gelişme yaşanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kandaki Oksijen düzeyi normale döner.",
+          "rationale": "Bu, 8 saat içinde gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dolaşım düzelir, yürümede tıkanma azalır.",
+          "rationale": "Bu, 2-12 hafta içinde gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalp hastalığı riski %50 azalır.",
+          "rationale": "Bu, 1 YIL içinde gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalp krizi ve solunum yolu kanser riski %50 azalır.",
+          "rationale": "Belgedeki iyileşme zaman çizelgesinde '5 YIL: Kalp krizi ve solunum yolu kanser riski %50 azalır' yazar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kalp krizi geçirme olasılığı içmeyenlerle aynı seviyeye iner.",
+          "rationale": "Bu, 10-15 YIL içinde gerçekleşir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "question": "Sigarayı bıraktıktan ne kadar süre sonra kalp krizi geçirme olasılığı hiç içmeyenlerle aynı seviyeye iner?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "1 YIL",
+          "rationale": "1 yıl sonra kalp hastalığı riski %50 azalır.",
+          "isCorrect": false
+        },
+        {
+          "text": "3 YIL",
+          "rationale": "Belgede 3 yıl için spesifik bir bilgi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "5 YIL",
+          "rationale": "5 yıl sonra kalp krizi riski %50 azalır.",
+          "isCorrect": false
+        },
+        {
+          "text": "10-15 YIL",
+          "rationale": "Belgedeki iyileşme zaman çizelgesinde '10-15 YIL: Kalp krizi geçirme olasılığı içmeyenlerle aynı seviyeye iner' yazar.",
+          "isCorrect": true
+        },
+        {
+          "text": "20 YIL",
+          "rationale": "Belgedeki zaman çizelgesi 10-15 yıl ile sonlanmaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "question": "Bağımlılık döngüsünde, bırakma kararından (Artık Bırakacağım) ve temiz kalma sürecinden (Bıraktım, Bir Daha Başlamam) sonra döngüyü yeniden başlatan olay nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çaresizlik (Bu Meret Bırakılmaz)",
+          "rationale": "Çaresizlik, bırakma kararından önceki bir aşamadır (6. adım).",
+          "isCorrect": false
+        },
+        {
+          "text": "İnkar (Ben Bağımlı Olmam)",
+          "rationale": "İnkar, döngünün başlarındaki bir aşamadır (4. adım).",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir Tetikleyici ve ardından 'Bir Kereden Bir Şey Olmaz' düşüncesi.",
+          "rationale": "Belgedeki döngü şeması 9. adımdan sonra '(Tetikleyici ile) -> Bir Kereden Bir Şey Olmaz' (2. adıma dönüş) şeklinde gösterilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yasal sorunlarla karşılaşma (TCK).",
+          "rationale": "Yasal sorunlar 'Bırakmak Zorundayım' (7. adım) aşamasını tetikleyebilir, ancak temizlendikten sonra 'yeniden başlatan' olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "AMATEM'e başvurma.",
+          "rationale": "AMATEM'e başvurmak tedavinin bir parçasıdır, döngüyü yeniden başlatan bir tetikleyici değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "question": "Belgeye göre 'Olgusal (Davranışsal)' bağımlılıklara hangisi örnek verilemez?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kumar",
+          "rationale": "Kumar, Olgusal (Davranışsal) bağımlılıklar listesindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeme",
+          "rationale": "Yeme, Olgusal (Davranışsal) bağımlılıklar listesindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seks",
+          "rationale": "Seks, Olgusal (Davranışsal) bağımlılıklar listesindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnternet/Sanal Ortam",
+          "rationale": "İnternet/Sanal Ortam, Olgusal (Davranışsal) bağımlılıklar listesindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kafein",
+          "rationale": "Kafein, vücuda alınan bir maddedir ve 'Maddesel Bağımlılıklar' listesindedir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "question": "Nörobiyoloji bölümüne göre, sinir hücresine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nöron",
+          "rationale": "Belgede 'Nöron: Sinir hücresi' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sinaps",
+          "rationale": "Sinaps, nöronlar arası bağlantı yeridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nörotransmiter",
+          "rationale": "Nörotransmiter, kimyasal habercidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Reseptör",
+          "rationale": "Reseptör, alıcı noktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dopamin",
+          "rationale": "Dopamin, bir nörotransmiter örneğidir, sinir hücresinin kendisi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 91,
+      "question": "Dopamin'in işlevi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece hafızayı (Hipokampüs) güçlendirmek.",
+          "rationale": "Dopamin motivasyonla ilgilidir; hafıza Hipokampüs'ün işidir ancak Dopamin'in ana işlevi bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Duygusal tepkileri (Amigdala) bastırmak.",
+          "rationale": "Dopamin zevk ve motivasyonla ilgilidir, duygusal tepkileri bastırmakla görevli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ödül, zevk ve motivasyon duygularını oluşturmak.",
+          "rationale": "Belgede Dopamin için 'Ödül, zevk, motivasyon duygularını oluşturur' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Planlama (Prefrontal Korteks) yeteneğini yavaşlatmak.",
+          "rationale": "Dopamin eksikliği planlamayı bozabilir ancak Dopamin'in kendisi motivasyon ve odaklanma için gereklidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "VTA'yı (Ön Tavan Bölge) inhibe etmek (durdurmak).",
+          "rationale": "VTA, dopaminin salgılandığı yerdir; Dopamin VTA'yı durdurmaz, VTA dopamini ödül yoluna salar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 92,
+      "question": "DSM-5 Madde Kullanım Bozukluğu kriterlerinden 'Tehlikeli durumlarda dahi kullanma' kaçıncı kriterdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kriter 2",
+          "rationale": "Kriter 2: Bırakmak/kontrol etmek için sonuç vermeyen çabalar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kriter 4",
+          "rationale": "Kriter 4: Madde kullanımı için çok büyük istek (Craving).",
+          "isCorrect": false
+        },
+        {
+          "text": "Kriter 6",
+          "rationale": "Kriter 6: Olumsuz sosyal/kişiler arası etkilere rağmen kullanıma devam.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kriter 8",
+          "rationale": "Belgede 8. kriter 'Tehlikeli durumlarda dahi kullanma' olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kriter 10",
+          "rationale": "Kriter 10: Tolerans Gelişmesi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 93,
+      "question": "DSM-5 Madde Kullanım Bozukluğu kriterlerinden 'Günlük etkinliklerin (iş, eğlence) bırakılması/azaltılması' kaçıncı kriterdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kriter 3",
+          "rationale": "Kriter 3: Maddeyi elde etmek/kullanmak/kurtulmak için çok zaman ayırma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kriter 5",
+          "rationale": "Kriter 5: Sorumlulukları (iş, okul, ev) yerine getirememe.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kriter 7",
+          "rationale": "Belgede 7. kriter 'Günlük etkinliklerin (iş, eğlence) bırakılması/azaltılması' olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kriter 9",
+          "rationale": "Kriter 9: Olumsuz bedensel/ruhsal etkileri bilinmesine rağmen sürdürme.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kriter 11",
+          "rationale": "Kriter 11: Yoksunluk Belirtileri.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 94,
+      "question": "Belgedeki tabloya göre hangi madde sınıfının yoksunluk belirtileri için 'Belirgin fiziksel semptom yok, duygusal bağımlılık' ifadesi kullanılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Alkol",
+          "rationale": "Alkolün yoksunluk belirtileri (titreme, nöbet) belirgin şekilde fizikseldir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opiyatlar (Eroin, Morfin)",
+          "rationale": "Opiyatların yoksunluk belirtileri (kusma, ishal, ağrı) çok şiddetli ve fizikseldir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hipnosedatifler (Benzodiazepin, Barbitürat)",
+          "rationale": "Hipnosedatiflerin yoksunluk belirtileri (kramplar, titremeler) ağırdır ve fizikseldir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Halüsinojenler (LSD)",
+          "rationale": "Belgedeki tabloda Halüsinojenlerin yoksunluk belirtileri için 'Belirgin fiziksel semptom yok, duygusal bağımlılık, değişken ruh hali' yazmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nikotin",
+          "rationale": "Nikotin yoksunluğunun (baş ağrısı, öksürük) fiziksel semptomları vardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 95,
+      "question": "Belgedeki tabloya göre Esrarın (Hint Keneviri) 'uzun dönem etkileri' arasında hangisi sayılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Depresan, rahatlatıcı, sakinleştirici.",
+          "rationale": "Bunlar, Esrarın 'kısa dönem etkileri'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anksiyete, sinirlilik.",
+          "rationale": "Bunlar, Esrarın 'yoksunluk belirtileri'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kontrol/konsantrasyon kaybı, iştah artışı, solunum problemleri, paranoya.",
+          "rationale": "Bu ifadeler, belgedeki tabloda Esrarın 'uzun dönem etkileri' olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hafıza zararı, ruh sağlığı bozulması (Flashback).",
+          "rationale": "Bu, Halüsinojenlerin uzun dönem etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ruhsal sorunlar (depresyon, psikoz), sinirlilik, deri hastalıkları.",
+          "rationale": "Bu, Uyarıcıların uzun dönem etkisidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 96,
+      "question": "Aşağıdakilerden hangisi sigaranın 'içer içmez (kısa dönem)' ortaya çıkan etkilerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sık nefes darlığı ve öksürük.",
+          "rationale": "Bunlar, 'Uzun Dönem Etkiler' listesindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dişlerde sarı/siyah lekeler.",
+          "rationale": "Bu, 'Uzun Dönem Etkiler' listesindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kırışık/kuru cilt (erken yaşlanma).",
+          "rationale": "Bu, 'Uzun Dönem Etkiler' listesindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kemiklerde kırılma riski.",
+          "rationale": "Bu, 'Uzun Dönem Etkiler' listesindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mide asidinin artması ve kan basıncının artması.",
+          "rationale": "Bu iki durum da belgede 'İçer İçmez (Kısa Dönem)' başlığı altında listelenmiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 97,
+      "question": "Aşağıdakilerden hangisi sigaranın tetiklediği 'Kanserler' listesinde yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Akciğer",
+          "rationale": "Akciğer kanseri listenin başındadır (%80-90'ı tütün kaynaklıdır).",
+          "isCorrect": false
+        },
+        {
+          "text": "Böbrek",
+          "rationale": "Böbrek kanseri, belgedeki kanser listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pankreas",
+          "rationale": "Pankreas kanseri, belgedeki kanser listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gırtlak",
+          "rationale": "Gırtlak kanseri, belgedeki kanser listesinde yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karaciğer",
+          "rationale": "Karaciğer fonksiyon bozukluğu 'Alkol'ün uzun dönem etkilerinde belirtilmiştir, ancak 'Tütün'ün tetiklediği kanserler listesinde (Akciğer, Böbrek, Pankreas, Gırtlak, Mesane, Rahim, Mide) Karaciğer kanseri sayılmamıştır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 98,
+      "question": "Aşağıdakilerden hangisi sigaranın tetiklediği 'Diğer' hastalıklar kategorisinde yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kronik bronşit",
+          "rationale": "Kronik bronşit, 'Solunum' hastalıkları kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Damar tıkanıklıkları",
+          "rationale": "Damar tıkanıklıkları, 'Kalp-Damar' hastalıkları kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mide Kanseri",
+          "rationale": "Mide Kanseri, 'Kanserler' kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Felç (İnme) ve İktidarsızlık",
+          "rationale": "Bu iki durum da belgede 'Diğer' hastalıklar başlığı altında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Astım",
+          "rationale": "Astım, 'Solunum' hastalıkları kategorisindedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 99,
+      "question": "DSÖ verilerine göre yılda 65 bin çocuğun ölümüne neden olan durum nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nargile kullanımı",
+          "rationale": "Nargile zararlıdır ancak bu spesifik rakam Nargile için verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elektronik sigara kullanımı",
+          "rationale": "E-sigara zararlıdır ancak bu spesifik rakam E-sigara için verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kaçak/Sahte sigara kullanımı",
+          "rationale": "Kaçak sigara zararlıdır ancak bu spesifik rakam onun için verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pasif İçicilik",
+          "rationale": "Belgede 'Pasif İçicilik: ... (DSÖ: Yılda 65 bin çocuk bu yüzden ölüyor)' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uçucu madde kullanımı",
+          "rationale": "Uçucu maddeler tehlikelidir ancak bu spesifik DSÖ verisi Pasif İçicilik içindir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 100,
+      "question": "Sigarayı bıraktıktan 20 dakika sonra vücutta gerçekleşen ilk olumlu değişiklik nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kandaki Oksijen düzeyi normale döner.",
+          "rationale": "Bu, 8 saat sonra gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karbonmonoksit (CO) vücuttan atılır.",
+          "rationale": "Bu, 24 saat sonra gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tat ve koku duyusu normale döner.",
+          "rationale": "Bu, 48 saat sonra gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nabız ve solunum normale döner.",
+          "rationale": "Belgedeki iyileşme zaman çizelgesinin ilk maddesi '20 dakika: Nabız ve solunum normale döner' şeklindedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dolaşım düzelir.",
+          "rationale": "Bu, 2-12 hafta sonra gerçekleşir.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

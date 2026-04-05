@@ -1,0 +1,3204 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "İngilizcede 'olmak / bulunmak' anlamına gelen ve özneye göre 'am', 'is', 'are' şeklinde kullanılan fiil hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Have",
+          "rationale": "'Have' fiili 'sahip olmak' anlamına gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Do",
+          "rationale": "'Do' fiili 'yapmak' anlamına gelir veya yardımcı fiil olarak kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Be",
+          "rationale": "Slayt 2'ye göre, 'Be' fiili 'olmak / bulunmak' anlamındadır ve 'am, is, are' olarak çekimlenir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Work",
+          "rationale": "'Work' fiili 'çalışmak' anlamına gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Go",
+          "rationale": "'Go' fiili 'gitmek' anlamına gelir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "'I' (Ben) öznesi ile 'Be' fiilinin olumlu çekimi aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "is",
+          "rationale": "'is', 'He/She/It' özneleri ile kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "are",
+          "rationale": "'are', 'You/We/They' özneleri ile kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "am",
+          "rationale": "Slayt 2 ve 3'e göre, 'I' öznesi ile 'am' kullanılır. (I am a student.)",
+          "isCorrect": true
+        },
+        {
+          "text": "be",
+          "rationale": "'be', fiilin yalın halidir, 'I' öznesi ile bu şekilde kullanılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "am not",
+          "rationale": "Bu olumsuz çekimdir, soru olumlu çekimi sormaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "'He/She/It' (O) özneleri ile 'Be' fiilinin olumlu çekimi aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "am",
+          "rationale": "'am', 'I' öznesi ile kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "is",
+          "rationale": "Slayt 2 ve 3'e göre, 'He/She/It' özneleri ile 'is' kullanılır. (He is a waiter.)",
+          "isCorrect": true
+        },
+        {
+          "text": "are",
+          "rationale": "'are', 'You/We/They' özneleri ile kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "isn't",
+          "rationale": "Bu olumsuz çekimdir, soru olumlu çekimi sormaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "be",
+          "rationale": "'be', fiilin yalın halidir, bu öznelerle bu şekilde kullanılmaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "'You/We/They' (Sen/Biz/Onlar) özneleri ile 'Be' fiilinin olumlu çekimi aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "is",
+          "rationale": "'is', 'He/She/It' özneleri ile kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "am",
+          "rationale": "'am', 'I' öznesi ile kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "are",
+          "rationale": "Slayt 2 ve 3'e göre, 'You/We/They' özneleri ile 'are' kullanılır. (They are tourists.)",
+          "isCorrect": true
+        },
+        {
+          "text": "aren't",
+          "rationale": "Bu olumsuz çekimdir, soru olumlu çekimi sormaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "be",
+          "rationale": "'be', fiilin yalın halidir, bu öznelerle bu şekilde kullanılmaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdaki 'Be' fiili kısaltmalarından hangisi yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "I am -> I'm",
+          "rationale": "Slayt 3'e göre bu doğru bir kısaltmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "You are -> You're",
+          "rationale": "Slayt 3'e göre bu doğru bir kısaltmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "He is -> He's",
+          "rationale": "Slayt 3'e göre bu doğru bir kısaltmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "is not -> isn't",
+          "rationale": "Slayt 4'e göre bu doğru bir kısaltmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "am not -> amn't",
+          "rationale": "'am not' için yaygın bir kısaltma yoktur ('aren't' bazı soru yapılarında kullanılsa da 'amn't' standart değildir). Slayt 4'te de böyle bir kısaltma gösterilmemiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "'We are not students.' cümlesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Biz öğrenciyiz.",
+          "rationale": "Bu, 'We are students.' cümlesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Onlar öğrenci değil.",
+          "rationale": "Bu, 'They are not students.' cümlesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Biz öğrenci değiliz.",
+          "rationale": "Slayt 4'e göre, 'We are not (aren't)' yapısı 'Biz ... değiliz' anlamındadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Siz öğrenci misiniz?",
+          "rationale": "Bu, 'Are you students?' cümlesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ben öğrenci değilim.",
+          "rationale": "Bu, 'I am not a student.' cümlesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "'Are you from Turkey?' sorusuna verilebilecek olumlu kısa cevap hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yes, I am.",
+          "rationale": "Slayt 5'e göre, 'Are you...?' sorusuna 'Yes, I am.' şeklinde olumlu kısa cevap verilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yes, I are.",
+          "rationale": "'I' öznesi ile 'are' kullanılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yes, you are.",
+          "rationale": "Soru size ('you') sorulduğu için cevap 'I' (ben) ile olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "No, I'm not.",
+          "rationale": "Bu olumsuz bir cevaptır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yes, he is.",
+          "rationale": "Soru 'you' (sen) hakkında, 'he' (o) hakkında değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "'Is he a chef?' sorusuna verilebilecek olumsuz kısa cevap hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yes, he is.",
+          "rationale": "Bu olumlu bir cevaptır.",
+          "isCorrect": false
+        },
+        {
+          "text": "No, he's not.",
+          "rationale": "Bu 'No, he isn't.' ile aynı anlama gelir ve Slayt 5'teki örneğe göre doğru bir olumsuz kısa cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "No, he am not.",
+          "rationale": "'he' öznesi ile 'am not' kullanılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "No, I'm not.",
+          "rationale": "Soru 'he' (o) hakkında, 'I' (ben) hakkında değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yes, he am.",
+          "rationale": "Bu hem olumlu hem de dil bilgisi açısından yanlıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "İngilizcede temel cümle yapısı (Subject + Verb + Object + Adverbial) için aşağıdakilerden hangisi yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Subject (Özne) cümlenin başında gelir.",
+          "rationale": "Slayt 7 ve 8'e göre bu doğrudur. (I work in a hotel.)",
+          "isCorrect": false
+        },
+        {
+          "text": "Verb (Fiil) özneden sonra gelir.",
+          "rationale": "Slayt 7'ye göre bu doğrudur. (S+V...)",
+          "isCorrect": false
+        },
+        {
+          "text": "Object (Nesne) eylemden etkilenen kişi/şeydir.",
+          "rationale": "Slayt 7'deki tanıma göre bu doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiil (Verb) her zaman cümlenin sonunda yer alır.",
+          "rationale": "Slayt 8'de 'Türkçedeki gibi fiil sonda olmaz.' uyarısı bulunmaktadır. Bu ifade yanlıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Adverbial (Zarf Tümleci) zaman, yer veya durum bildirir.",
+          "rationale": "Slayt 7'deki tanıma göre bu doğrudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "'She cleans the rooms.' cümlesindeki 'Object' (Nesne) nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "She",
+          "rationale": "'She' cümlenin öznesidir (Subject).",
+          "isCorrect": false
+        },
+        {
+          "text": "cleans",
+          "rationale": "'cleans' cümlenin fiilidir (Verb).",
+          "isCorrect": false
+        },
+        {
+          "text": "the rooms",
+          "rationale": "Slayt 7'ye göre 'Object' (Nesne) eylemden etkilenen şeydir. 'Ne'yi temizler? 'Odaları' (the rooms).",
+          "isCorrect": true
+        },
+        {
+          "text": "She cleans",
+          "rationale": "Bu, özne ve fiilden oluşan bir yapıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bu cümlede nesne yoktur.",
+          "rationale": "Cümlede 'the rooms' bir nesnedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "'surname / last name' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "isim",
+          "rationale": "Bu, 'name' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "yaş",
+          "rationale": "Bu, 'age' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "soyisim",
+          "rationale": "Slayt 9'a göre 'surname / last name' soyisim anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "milliyet",
+          "rationale": "Bu, 'nationality' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "adres",
+          "rationale": "Bu, 'address' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "'nationality' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "ülke",
+          "rationale": "Bu, 'country' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "milliyet",
+          "rationale": "Slayt 9'a göre 'nationality' milliyet anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "doğum yeri",
+          "rationale": "Bu, 'place of birth' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "şehir",
+          "rationale": "Bu, 'city' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "meslek",
+          "rationale": "Bu, 'job/occupation' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "'job/occupation' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "meslek",
+          "rationale": "Slayt 10'a göre 'job/occupation' meslek anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "imza",
+          "rationale": "Bu, 'signature' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "cinsiyet",
+          "rationale": "Bu, 'gender' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "doğum tarihi",
+          "rationale": "Bu, 'date of birth' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "medeni durum",
+          "rationale": "Bu, 'marital status' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "'marital status' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "doğum yeri",
+          "rationale": "Bu, 'place of birth' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "e-posta adresi",
+          "rationale": "Bu, 'email address' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "telefon numarası",
+          "rationale": "Bu, 'phone number' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "medeni durum",
+          "rationale": "Slayt 10'a göre 'marital status' medeni durum anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "kimlik kartı",
+          "rationale": "Bu, 'ID card' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "'signature' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "cinsiyet",
+          "rationale": "Bu, 'gender' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "pasaport",
+          "rationale": "Bu, 'passport' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "imza",
+          "rationale": "Slayt 10'a göre 'signature' imza anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "adres",
+          "rationale": "Bu, 'address' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "soyisim",
+          "rationale": "Bu, 'surname' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "'Turkey' (ülke) için doğru 'Nationality' (milliyet) hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turkish",
+          "rationale": "Slayt 12'ye göre, 'Turkey' ülkesinin milliyeti 'Turkish'dir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tukish",
+          "rationale": "Bu yanlış bir yazımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turkeyan",
+          "rationale": "Bu yanlış bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turk",
+          "rationale": "'Turk' (Türk) kişiyi belirtir, 'Turkish' (Türk) ise sıfat halidir (milliyet). Slaytlarda 'Turkish' kullanılmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turkic",
+          "rationale": "Bu, 'Türk' dillerini veya halklarını belirten daha geniş bir terimdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "'Germany' (ülke) için doğru 'Nationality' (milliyet) hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Germanish",
+          "rationale": "Bu yanlış bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "German",
+          "rationale": "Slayt 12'ye göre, 'Germany' ülkesinin milliyeti 'German'dır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Germany",
+          "rationale": "Bu, ülkenin kendi adıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dutch",
+          "rationale": "Bu, Hollanda (Netherlands) için kullanılan milliyettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Deutsch",
+          "rationale": "Bu, kelimenin Almanca yazılışıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "'Spain' (ülke) için doğru 'Nationality' (milliyet) hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Spaniard",
+          "rationale": "Bu 'İspanyol' (kişi) anlamına gelir, ancak milliyet sıfatı 'Spanish'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spanian",
+          "rationale": "Bu yanlış bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spanish",
+          "rationale": "Slayt 12'ye göre, 'Spain' ülkesinin milliyeti 'Spanish'dir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Spainese",
+          "rationale": "Bu yanlış bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Portugeese",
+          "rationale": "Bu, Portekiz (Portugal) ile ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "'Japan' (ülke) için doğru 'Nationality' (milliyet) hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Japane",
+          "rationale": "Bu yanlış bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Japanian",
+          "rationale": "Bu yanlış bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Chinese",
+          "rationale": "Bu, Çin (China) için kullanılan milliyettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Japanese",
+          "rationale": "Slayt 12'ye göre, 'Japan' ülkesinin milliyeti 'Japanese'dir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Japon",
+          "rationale": "Bu, kelimenin Türkçe yazılışıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "'France' (ülke) için doğru 'Nationality' (milliyet) hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Franch",
+          "rationale": "Bu yanlış bir yazımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "French",
+          "rationale": "Slayt 12'ye göre, 'France' ülkesinin milliyeti 'French'dir.",
+          "isCorrect": true
+        },
+        {
+          "text": "France",
+          "rationale": "Bu, ülkenin kendi adıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Francian",
+          "rationale": "Bu yanlış bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Parisian",
+          "rationale": "Bu, 'Parisli' anlamına gelir, tüm ülkeyi kapsamaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "'Egypt' (ülke) için doğru 'Nationality' (milliyet) hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Egypt",
+          "rationale": "Bu, ülkenin kendi adıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arabic",
+          "rationale": "Bu, bir dil veya etnik gruptur, 'Mısırlı' milliyetini tam karşılamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Egyptian",
+          "rationale": "Slayt 12'ye göre, 'Egypt' ülkesinin milliyeti 'Egyptian'dır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Egypse",
+          "rationale": "Bu yanlış bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Greek",
+          "rationale": "Bu, Yunanistan (Greece) için kullanılan milliyettir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "'How old are you?' sorusunun Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nerede yaşıyorsun?",
+          "rationale": "Bu, 'Where do you live?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nerelisiniz?",
+          "rationale": "Bu, 'Where are you from?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kaç yaşındasınız?",
+          "rationale": "Slayt 11 ve 13'e göre, 'How old are you?' yaş sormak için kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mesleğiniz nedir?",
+          "rationale": "Bu, 'What do you do?' veya 'What's your job?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adınız nedir?",
+          "rationale": "Bu, 'What's your name?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "'What do you do?' sorusunun Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ne yapıyorsun? (Şu anda)",
+          "rationale": "Bu genellikle 'What are you doing?' ile sorulur. 'What do you do?' genellikle meslek sorar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesleğiniz nedir?",
+          "rationale": "Slayt 13'e göre, 'What do you do?' meslek sormak için kullanılır. (Cevap: I'm a student.)",
+          "isCorrect": true
+        },
+        {
+          "text": "Nereden geliyorsunuz?",
+          "rationale": "Bu, 'Where are you from?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nasıl gidiyor?",
+          "rationale": "Bu, 'How is it going?' veya 'How are you doing?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne istersiniz?",
+          "rationale": "Bu, 'What would you like?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "'Where do you live?' sorusunun Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nerelisiniz?",
+          "rationale": "Bu, 'Where are you from?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nerede çalışıyorsunuz?",
+          "rationale": "Bu, 'Where do you work?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nerede yaşıyorsunuz / ikamet ediyorsunuz?",
+          "rationale": "Slayt 11 ve 13'e göre, 'live' fiili 'yaşamak/ikamet etmek' anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Doğum yeriniz neresi?",
+          "rationale": "Bu, 'What is your place of birth?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nereye gidiyorsunuz?",
+          "rationale": "Bu, 'Where are you going?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "Bir otel misafirinden check-in sırasında kimlik/pasaport isterken hangi ifade kullanılabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Please sign here.",
+          "rationale": "Bu 'Lütfen burayı imzalayın.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Enjoy your stay!",
+          "rationale": "Bu 'İyi konaklamalar!' demektir ve check-in sonunda söylenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Can I have your passport, please?",
+          "rationale": "Slayt 13'te bu ifade bir örnek olarak verilmiştir ve kibarca pasaport istemek için kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "What is your job?",
+          "rationale": "Bu 'Mesleğiniz nedir?' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Are you from Turkey?",
+          "rationale": "Bu 'Türkiye'den misiniz?' demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "Aşağıdaki cümlelerden hangisi Slayt 8'de belirtilen İngilizce cümle yapısına (Özne başta) uygun değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "I am from Turkey.",
+          "rationale": "Bu, Slayt 8'de 'Doğru' olarak gösterilen örnektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "She works in a restaurant.",
+          "rationale": "Bu, Slayt 8'de 'Doğru' olarak gösterilen örnektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "From Turkey I am.",
+          "rationale": "Slayt 8'de bu cümlenin 'Yanlış' olduğu açıkça belirtilmiştir, çünkü özne (I) başta değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "They are tourists.",
+          "rationale": "Bu cümlede özne (They) baştadır, yapı doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "We are friends.",
+          "rationale": "Bu cümlede özne (We) baştadır, yapı doğrudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "Present Simple Tense (Geniş Zaman) genellikle hangi durumları anlatmak için kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece şu anda olan eylemler",
+          "rationale": "Bu, Present Continuous Tense'in (Şimdiki Zaman) kullanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geçmişte tamamlanmış eylemler",
+          "rationale": "Bu, Past Simple Tense'in (Geçmiş Zaman) kullanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rutinler, alışkanlıklar ve genel gerçekler",
+          "rationale": "Slayt 16'ya göre, Present Simple Tense rutinleri, alışkanlıkları ve genel gerçekleri anlatmak için kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gelecekte yapılması planlanan eylemler",
+          "rationale": "Bu 'going to' veya Present Continuous Tense ile ifade edilebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuşma anından önce başlamış ve hala devam eden eylemler",
+          "rationale": "Bu, Present Perfect Continuous Tense'in kullanımıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "Present Simple Tense'de 'He/She/It' özneleriyle olumlu cümlede fiil sonu hangi ekleri alabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "-ing",
+          "rationale": "'-ing' eki Present Continuous Tense'de (Şimdiki Zaman) kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "-ed",
+          "rationale": "'-ed' eki Past Simple Tense'de (Geçmiş Zaman) düzenli fiillerde kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "-s / -es / -ies",
+          "rationale": "Slayt 17'ye göre, 'He/She/It' özneleriyle fiil '-s, -es, -ies' eklerinden uygun olanı alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "don't / doesn't",
+          "rationale": "Bunlar olumsuz cümle yapmak için kullanılan yardımcı fiillerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiçbir ek almaz, yalın kalır.",
+          "rationale": "Fiil, 'I/You/We/They' özneleriyle yalın kalır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "Aşağıdaki fiillerden hangisi 'He/She/It' ile kullanıldığında sonuna '-es' eki alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "work",
+          "rationale": "'work' fiili 'works' olur (Slayt 17).",
+          "isCorrect": false
+        },
+        {
+          "text": "study",
+          "rationale": "'study' fiili 'studies' olur (Slayt 17).",
+          "isCorrect": false
+        },
+        {
+          "text": "clean",
+          "rationale": "'clean' fiili 'cleans' olur (Slayt 17).",
+          "isCorrect": false
+        },
+        {
+          "text": "watch",
+          "rationale": "Slayt 17'ye göre, fiil '-ch' ile biterse '-es' eki alır. (watch -> watches).",
+          "isCorrect": true
+        },
+        {
+          "text": "live",
+          "rationale": "'live' fiili 'lives' olur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "'study' fiili 'He/She/It' özneleriyle Present Simple Tense'de nasıl çekimlenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "studys",
+          "rationale": "Fiil '-y' ile bittiği ve öncesi sessiz harf olduğu için 'y' düşer.",
+          "isCorrect": false
+        },
+        {
+          "text": "study",
+          "rationale": "Bu yalın halidir, 'I/You/We/They' ile kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "studies",
+          "rationale": "Slayt 17'ye göre, fiil '-y' ile biterse ve öncesi sessizse 'y' düşer, '-ies' eki gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "studyies",
+          "rationale": "Bu yanlış bir yazımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "studes",
+          "rationale": "Bu yanlış bir çekimdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "Present Simple Tense'de 'I/You/We/They' özneleriyle olumsuz cümle yapmak için hangi yardımcı fiil kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "isn't",
+          "rationale": "Bu 'Be' fiilinin olumsuzudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "don't",
+          "rationale": "Slayt 18'e göre, 'I/You/We/They' özneleriyle 'don't' kullanılır. (I don't work...)",
+          "isCorrect": true
+        },
+        {
+          "text": "doesn't",
+          "rationale": "Bu, 'He/She/It' özneleriyle kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "am not",
+          "rationale": "Bu 'Be' fiilinin olumsuzudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "aren't",
+          "rationale": "Bu 'Be' fiilinin olumsuzudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "Present Simple Tense'de 'He/She/It' özneleriyle olumsuz cümle yapmak için hangi yardımcı fiil kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "don't",
+          "rationale": "Bu, 'I/You/We/They' özneleriyle kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "isn't",
+          "rationale": "Bu 'Be' fiilinin olumsuzudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "doesn't",
+          "rationale": "Slayt 18'e göre, 'He/She/It' özneleriyle 'doesn't' kullanılır. (She doesn't start...)",
+          "isCorrect": true
+        },
+        {
+          "text": "am not",
+          "rationale": "Bu 'Be' fiilinin olumsuzudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "aren't",
+          "rationale": "Bu 'Be' fiilinin olumsuzudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "Aşağıdaki cümlelerden hangisi dil bilgisi açısından yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "He doesn't work.",
+          "rationale": "Bu cümle doğrudur. 'doesn't' kullanıldığı için fiil yalındır.",
+          "isCorrect": false
+        },
+        {
+          "text": "He doesn't works.",
+          "rationale": "Slayt 18'de bu cümlenin yanlış olduğu açıkça belirtilmiştir. 'doesn't' kullanıldığında fiil '-s' eki almaz.",
+          "isCorrect": true
+        },
+        {
+          "text": "She works at 9.",
+          "rationale": "Bu olumlu cümle dil bilgisi açısından doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "I don't work.",
+          "rationale": "Bu olumsuz cümle dil bilgisi açısından doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "They work on Sundays.",
+          "rationale": "Bu olumlu cümle dil bilgisi açısından doğrudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "'Do you work in tourism?' sorusunun Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "O otelde mi çalışıyor?",
+          "rationale": "Bu, 'Does he work in a hotel?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turizmde mi çalışıyorsun/çalışıyorsunuz?",
+          "rationale": "Slayt 19'a göre, 'Do you work in tourism?' bu anlama gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turizmde çalışmıyorsun.",
+          "rationale": "Bu, 'You don't work in tourism.' cümlesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turizmde çalışmayı sever misin?",
+          "rationale": "Bu, 'Do you like working in tourism?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neden turizmde çalışıyorsun?",
+          "rationale": "Bu, 'Why do you work in tourism?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "'Does he work in a hotel?' sorusuna verilebilecek olumlu kısa cevap hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yes, I do.",
+          "rationale": "Soru 'he' (o) hakkında, 'I' (ben) hakkında değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yes, he work.",
+          "rationale": "Kısa cevapta ana fiil (work) kullanılmaz, yardımcı fiil (does) kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yes, he does.",
+          "rationale": "Slayt 19'a göre, 'Does he...?' sorusuna 'Yes, he does.' şeklinde olumlu kısa cevap verilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "No, he doesn't.",
+          "rationale": "Bu olumsuz bir cevaptır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yes, he is.",
+          "rationale": "Soruda 'Be' fiili (is) değil, 'Do' (does) yardımcı fiili kullanılmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "question": "'Do you work in tourism?' sorusuna verilebilecek olumsuz kısa cevap hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yes, I do.",
+          "rationale": "Bu olumlu bir cevaptır.",
+          "isCorrect": false
+        },
+        {
+          "text": "No, I don't.",
+          "rationale": "Slayt 19'a göre, 'Do you...?' sorusuna 'No, I don't.' şeklinde olumsuz kısa cevap verilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "No, I doesn't.",
+          "rationale": "'I' öznesi ile 'doesn't' kullanılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "No, you don't.",
+          "rationale": "Soru 'you' (sen) olarak sorulduğunda cevap 'I' (ben) ile verilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "No, I'm not.",
+          "rationale": "Soruda 'Be' fiili (am) değil, 'Do' yardımcı fiili kullanılmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "question": "'always' sıklık zarfının Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "genellikle",
+          "rationale": "Bu, 'usually' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "bazen",
+          "rationale": "Bu, 'sometimes' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "asla",
+          "rationale": "Bu, 'never' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "her zaman",
+          "rationale": "Slayt 20 ve 21'e göre, 'always' her zaman anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "nadiren",
+          "rationale": "Bu, 'rarely' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "question": "'never' sıklık zarfının Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "her zaman",
+          "rationale": "Bu, 'always' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "sık sık",
+          "rationale": "Bu, 'often' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "bazen",
+          "rationale": "Bu, 'sometimes' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "genellikle",
+          "rationale": "Bu, 'usually' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "asla / hiçbir zaman",
+          "rationale": "Slayt 20 ve 21'e göre, 'never' asla anlamına gelir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "question": "'rarely' sıklık zarfının Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "nadiren",
+          "rationale": "Slayt 20 ve 21'e göre, 'rarely' nadiren anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "sık sık",
+          "rationale": "Bu, 'often' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "her zaman",
+          "rationale": "Bu, 'always' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "bazen",
+          "rationale": "Bu, 'sometimes' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "genellikle",
+          "rationale": "Bu, 'usually' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "question": "Sıklık zarfları ('always', 'usually', 'never' vb.) 'to be' (am, is, are) fiili ile kullanıldığında cümlenin neresinde yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Her zaman cümlenin en başında.",
+          "rationale": "Bu genellikle soru sormak veya vurgu yapmak içindir, standart yeri değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her zaman cümlenin en sonunda.",
+          "rationale": "Bu da standart yeri değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Özne ile 'to be' fiili arasında.",
+          "rationale": "Tam tersi, 'to be' fiilinden sonra gelirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "'to be' (am, is, are) fiilinden sonra.",
+          "rationale": "Slayt 20'ye göre, 'She is always polite.' veya 'They are usually late.' örneklerinde olduğu gibi 'to be' fiilinden sonra gelirler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ana fiilden önce.",
+          "rationale": "Bu kural 'to be' dışındaki fiiller için geçerlidir. (I always start...)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "question": "Aşağıdaki cümlelerden hangisinde sıklık zarfının yeri yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "I always start work at 8.",
+          "rationale": "Slayt 20'ye göre bu kullanım doğrudur (Özne ile fiil arasında).",
+          "isCorrect": false
+        },
+        {
+          "text": "She is always polite.",
+          "rationale": "Slayt 20'ye göre bu kullanım doğrudur ('Be' fiilinden sonra).",
+          "isCorrect": false
+        },
+        {
+          "text": "They are usually late.",
+          "rationale": "Slayt 20'ye göre bu kullanım doğrudur ('Be' fiilinden sonra).",
+          "isCorrect": false
+        },
+        {
+          "text": "We never work on Sundays.",
+          "rationale": "Slayt 20'ye göre bu kullanım doğrudur (Özne ile fiil arasında).",
+          "isCorrect": false
+        },
+        {
+          "text": "He always is hard-working.",
+          "rationale": "Slayt 20'deki kurala göre ('to be' fiilinden sonra) 'He is always hard-working.' olmalıdır. Bu kullanım yanlıştır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "question": "'every day' zaman ifadesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "her sabah",
+          "rationale": "Bu, 'every morning' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "her gün",
+          "rationale": "Slayt 22'ye göre, 'every day' her gün anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "hafta sonları",
+          "rationale": "Bu, 'on weekends' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "gece",
+          "rationale": "Bu, 'at night' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "her yaz",
+          "rationale": "Bu, 'every summer' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "question": "'on weekends' zaman ifadesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "hafta içi",
+          "rationale": "Bu, 'on weekdays' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "her gün",
+          "rationale": "Bu, 'every day' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "hafta sonları",
+          "rationale": "Slayt 22'ye göre, 'on weekends' hafta sonları anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "öğleden sonra",
+          "rationale": "Bu, 'in the afternoon' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "ayda bir kez",
+          "rationale": "Bu, 'once a month' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "question": "'twice a week' zaman ifadesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "haftada bir kez",
+          "rationale": "Bu, 'once a week' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "haftada iki kez",
+          "rationale": "Slayt 22'ye göre, 'twice a week' haftada iki kez anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "iki hafta",
+          "rationale": "Bu, 'two weeks' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "her hafta",
+          "rationale": "Bu, 'every week' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "haftada üç kez",
+          "rationale": "Bu, 'three times a week' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "question": "'once a month' zaman ifadesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "her ay",
+          "rationale": "Bu, 'every month' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "ayda iki kez",
+          "rationale": "Bu, 'twice a month' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "ayda bir kez",
+          "rationale": "Slayt 22'ye göre, 'once a month' ayda bir kez anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "bir ay",
+          "rationale": "Bu, 'one month' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "geçen ay",
+          "rationale": "Bu, 'last month' ifadesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "question": "Otelde misafirleri karşılayan ve rezervasyonları kontrol eden kişiye ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Chef",
+          "rationale": "'Chef' (Aşçı) yemekleri hazırlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Housekeeper",
+          "rationale": "'Housekeeper' (Temizlik görevlisi) odaları temizler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bellboy",
+          "rationale": "'Bellboy' (Taşıyıcı) bagajlara yardım eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Receptionist",
+          "rationale": "Slayt 23'e göre, 'Receptionist' (Resepsiyonist) misafirleri karşılar ve rezervasyonları kontrol eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lifeguard",
+          "rationale": "'Lifeguard' (Cankurtaran) havuzu izler.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "question": "'Chef / Cook' mesleğinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Garson",
+          "rationale": "Bu, 'Waiter/Waitress' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aşçı",
+          "rationale": "Slayt 23'e göre, 'Chef/Cook' aşçı anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Temizlik görevlisi",
+          "rationale": "Bu, 'Cleaner / Housekeeper' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otel müdürü",
+          "rationale": "Bu, 'Hotel Manager' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turist rehberi",
+          "rationale": "Bu, 'Tour Guide' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "question": "Misafirlerin bagajlarına yardım eden otel görevlisine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Waiter",
+          "rationale": "'Waiter' (Garson) yemek servisi yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Concierge",
+          "rationale": "'Concierge' (Müşteri danışmanı) restoran vb. hakkında bilgi verir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Valet",
+          "rationale": "'Valet' (Vale) arabaları park eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bellboy / Porter",
+          "rationale": "Slayt 23'e göre, 'Bellboy / Porter' (Taşıyıcı) misafirlere bagajları konusunda yardım eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Receptionist",
+          "rationale": "'Receptionist' (Resepsiyonist) misafirleri karşılar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "question": "'Tour Guide' mesleğinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Seyahat acentası çalışanı",
+          "rationale": "Bu, 'Travel Agent' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turist rehberi",
+          "rationale": "Slayt 23'e göre, 'Tour Guide' turist rehberi anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Taşıyıcı",
+          "rationale": "Bu, 'Bellboy / Porter' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğlence görevlisi",
+          "rationale": "Bu, 'Animator' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyon görevlisi",
+          "rationale": "Bu, 'Front Desk Clerk' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "question": "'Cleaner / Housekeeper' mesleğinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aşçı",
+          "rationale": "Bu, 'Chef/Cook' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garson",
+          "rationale": "Bu, 'Waiter/Waitress' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik görevlisi",
+          "rationale": "Slayt 23'e göre, 'Cleaner / Housekeeper' temizlik görevlisi anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Cankurtaran",
+          "rationale": "Bu, 'Lifeguard' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teknik görevli",
+          "rationale": "Bu, 'Maintenance Worker' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "question": "'Travel Agent' mesleğinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turist rehberi",
+          "rationale": "Bu, 'Tour Guide' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyahat acentası çalışanı",
+          "rationale": "Slayt 23'e göre, 'Travel Agent' seyahat acentası çalışanı anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Otel müdürü",
+          "rationale": "Bu, 'Hotel Manager' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resepsiyonist",
+          "rationale": "Bu, 'Receptionist' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteri danışmanı",
+          "rationale": "Bu, 'Concierge' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "question": "Havuzu izleyen otel görevlisine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bartender",
+          "rationale": "'Bartender' (Barmen) barda kokteyl yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Animator",
+          "rationale": "'Animator' (Eğlence görevlisi) şovlar düzenler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lifeguard",
+          "rationale": "Slayt 24'e göre, 'Lifeguard' (Cankurtaran) havuzu izler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Valet",
+          "rationale": "'Valet' (Vale) arabaları park eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Concierge",
+          "rationale": "'Concierge' (Müşteri danışmanı) bilgi verir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "question": "Barda kokteyl yapan otel görevlisine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Waiter",
+          "rationale": "'Waiter' (Garson) yemek servisi yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bartender",
+          "rationale": "Slayt 24'e göre, 'Bartender' (Barmen) barda kokteyl yapar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Chef",
+          "rationale": "'Chef' (Aşçı) yemekleri hazırlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lifeguard",
+          "rationale": "'Lifeguard' (Cankurtaran) havuzu izler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bellboy",
+          "rationale": "'Bellboy' (Taşıyıcı) bagajlara yardım eder.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "question": "Misafirlere restoranlar ve taksiler hakkında bilgi veren görevliye ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Concierge",
+          "rationale": "Slayt 24'e göre, 'Concierge' (Müşteri danışmanı) restoranlar ve taksiler hakkında bilgi verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tour Guide",
+          "rationale": "'Tour Guide' (Turist rehberi) şehrin tarihini anlatır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Travel Agent",
+          "rationale": "'Travel Agent' (Seyahat acentası) tur paketleri satar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Front Desk Clerk",
+          "rationale": "'Front Desk Clerk' (Resepsiyon görevlisi) telefonlara bakar ve misafirleri karşılar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hotel Manager",
+          "rationale": "'Hotel Manager' (Otel müdürü) otel servislerini kontrol eder.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "question": "Misafirlerin arabalarını park eden görevliye ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bellboy",
+          "rationale": "'Bellboy' (Taşıyıcı) bagajlara yardım eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maintenance Worker",
+          "rationale": "'Maintenance Worker' (Teknik görevli) tamirat yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Driver",
+          "rationale": "Slaytlarda 'Driver' (Şoför) listelenmemiştir, 'Valet' özel bir terimdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Valet",
+          "rationale": "Slayt 24'e göre, 'Valet' (Vale) misafirlerin arabalarını park eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Security Guard",
+          "rationale": "Güvenlik görevlisi (Slayt 22'de örneği var) güvenlikten sorumludur, park etmekten değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "question": "Klima gibi ekipmanları tamir eden görevliye ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Housekeeper",
+          "rationale": "'Housekeeper' (Temizlik görevlisi) odaları temizler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Valet",
+          "rationale": "'Valet' (Vale) arabaları park eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maintenance Worker",
+          "rationale": "Slayt 24'e göre, 'Maintenance Worker' (Teknik görevli) klimaları tamir eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Animator",
+          "rationale": "'Animator' (Eğlence görevlisi) şovlar düzenler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Concierge",
+          "rationale": "'Concierge' (Müşteri danışmanı) bilgi verir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "question": "Otel misafirleri için şovlar düzenleyen görevliye ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Animator",
+          "rationale": "Slayt 24'e göre, 'Animator' (Eğlence görevlisi) otel misafirleri için şovlar düzenler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tour Guide",
+          "rationale": "'Tour Guide' (Turist rehberi) şehir turları düzenler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bartender",
+          "rationale": "'Bartender' (Barmen) kokteyl yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hotel Manager",
+          "rationale": "'Hotel Manager' (Otel müdürü) otel servislerini kontrol eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lifeguard",
+          "rationale": "'Lifeguard' (Cankurtaran) havuzu izler.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "question": "'serve' fiilinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "temizlemek",
+          "rationale": "Bu, 'clean' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "servis etmek",
+          "rationale": "Slayt 25'e göre, 'serve' servis etmek anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "kontrol etmek",
+          "rationale": "Bu, 'check' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "hazırlamak",
+          "rationale": "Bu, 'prepare' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "yardım etmek",
+          "rationale": "Bu, 'help' fiilinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "question": "'check' fiilinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "cevaplamak",
+          "rationale": "Bu, 'answer' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "karşılamak",
+          "rationale": "Bu, 'welcome' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "kontrol etmek",
+          "rationale": "Slayt 25'e göre, 'check' kontrol etmek anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "temizlemek",
+          "rationale": "Bu, 'clean' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "servis etmek",
+          "rationale": "Bu, 'serve' fiilinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "question": "'prepare' fiilinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "hazırlamak",
+          "rationale": "Slayt 25'e göre, 'prepare' hazırlamak anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "yardım etmek",
+          "rationale": "Bu, 'help' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "düzenlemek",
+          "rationale": "Bu, 'organize' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "rezervasyon yapmak",
+          "rationale": "Bu, 'book' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "tamir etmek",
+          "rationale": "Bu, 'repair' fiilinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "question": "'welcome' fiilinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "cevaplamak",
+          "rationale": "Bu, 'answer' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "kontrol etmek",
+          "rationale": "Bu, 'check' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "servis etmek",
+          "rationale": "Bu, 'serve' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "karşılamak",
+          "rationale": "Slayt 25'e göre, 'welcome' karşılamak anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "temizlemek",
+          "rationale": "Bu, 'clean' fiilinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "question": "'book' fiilinin turizm bağlamındaki Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "kitap",
+          "rationale": "'book' isim olarak 'kitap' anlamına gelse de, fiil olarak turizmde farklı bir anlamı vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "rezervasyon yapmak",
+          "rationale": "Slayt 25'e göre, 'book' fiili (Örnek: I book hotel rooms online.) rezervasyon yapmak anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "kontrol etmek",
+          "rationale": "Bu, 'check' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "düzenlemek",
+          "rationale": "Bu, 'organize' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "yardım etmek",
+          "rationale": "Bu, 'help' fiilinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "question": "'repair' fiilinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "hazırlamak",
+          "rationale": "Bu, 'prepare' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "temizlemek",
+          "rationale": "Bu, 'clean' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "tamir etmek",
+          "rationale": "Slayt 25'e göre, 'repair' tamir etmek anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "cevaplamak",
+          "rationale": "Bu, 'answer' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "servis etmek",
+          "rationale": "Bu, 'serve' fiilinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "question": "'The chef ___ lunch at noon.' cümlesinde boşluğa gelmesi gereken doğru fiil çekimi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "prepare",
+          "rationale": "Özne 'The chef' (He/She) olduğu için fiil '-s' eki almalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "prepares",
+          "rationale": "Slayt 26'daki örneğe göre ve Present Simple Tense kurallarına göre (Özne: He/She), fiil '-s' eki alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "is preparing",
+          "rationale": "Bu şimdiki zaman (Present Continuous) yapısıdır, 'at noon' (öğlenleri) ifadesi genellikle bir rutini (Present Simple) belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "don't prepare",
+          "rationale": "Bu olumsuz bir yapıdır ve 'The chef' öznesi ile 'don't' kullanılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "doesn't prepare",
+          "rationale": "Bu olumsuz bir yapıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "question": "'The bellboy ___ the bags upstairs.' cümlesinde boşluğa gelmesi gereken doğru fiil çekimi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "carry",
+          "rationale": "Özne 'The bellboy' (He) olduğu için fiil '-ies' eki almalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "carries",
+          "rationale": "Slayt 26'daki örneğe göre ve Present Simple Tense kurallarına göre ('y' düşer, '-ies' gelir), bu doğru çekimdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "carrys",
+          "rationale": "Bu yanlış bir çekimdir, 'y' düşmelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "is carrying",
+          "rationale": "Bu şimdiki zaman yapısıdır, slayttaki örnek geniş zaman (rutin) anlamındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "doesn't carry",
+          "rationale": "Bu olumsuz bir yapıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "question": "Aşağıdakilerden hangisi misafirden kibarca bir şey istemek (istek) için kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Can I help you?",
+          "rationale": "Bu bir teklif (yardım teklifi) ifadesidir, istek değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Would you like some water?",
+          "rationale": "Bu bir teklif ifadesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Could I have your passport, please?",
+          "rationale": "Slayt 29'a göre, 'Could I...' yapısı kibar bir istekte bulunmak için kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Please sign here.",
+          "rationale": "Bu bir yönerge (talimat) ifadesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Enjoy your stay!",
+          "rationale": "Bu bir temenni ifadesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "question": "Aşağıdaki izin isteme yapılarından hangisi en kibar ve resmi olanıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Can I...",
+          "rationale": "Slayt 29'a göre bu 'günlük, samimi' bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Could I...",
+          "rationale": "Slayt 29'a göre bu 'daha kibar' bir ifadedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "May I...",
+          "rationale": "Slayt 29'a göre, 'May I...' en kibar, resmi izin ifadesidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Do I...",
+          "rationale": "Bu bir izin isteme yapısı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Would I...",
+          "rationale": "Bu yaygın bir izin isteme yapısı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "question": "Misafire kibarca bir şey teklif etmek için (örn: 'Su ister misiniz?') hangi yapı kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Do you want water?",
+          "rationale": "Bu 'ister misin' demektir ancak 'Would you like' kadar kibar değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Can I have water?",
+          "rationale": "Bu 'Su alabilir miyim?' demektir (istek).",
+          "isCorrect": false
+        },
+        {
+          "text": "Would you like some water?",
+          "rationale": "Slayt 30'a göre, 'Would you like + noun' yapısı kibar tekliflerde kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Please take water.",
+          "rationale": "Bu 'Lütfen su alın.' demektir (yönerge).",
+          "isCorrect": false
+        },
+        {
+          "text": "You must drink water.",
+          "rationale": "Bu bir zorunluluk ifadesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "question": "'Would you like ___ (sit) down?' cümlesinde boşluğa gelmesi gereken doğru yapı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "sit",
+          "rationale": "'Would you like' bir fiil ile kullanıldığında 'to' mastar eki almalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "to sit",
+          "rationale": "Slayt 30'a göre, 'Would you like to + V1' yapısı kullanılır. (Would you like to sit down?)",
+          "isCorrect": true
+        },
+        {
+          "text": "sitting",
+          "rationale": "Bu yapı 'Would you like' ile kullanılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "sat",
+          "rationale": "Bu fiilin geçmiş zaman halidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "sits",
+          "rationale": "Bu fiilin geniş zaman 3. tekil şahıs halidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "question": "Misafire kibarca bir yönerge (talimat) vermek için hangi ifade kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Can you sign here?",
+          "rationale": "Bu bir soru/istektir, doğrudan bir yönerge değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Would you like to sign here?",
+          "rationale": "Bu 'İmzalamak ister misiniz?' diye sorar, bir yönerge değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Please sign here.",
+          "rationale": "Slayt 31'e göre, 'Please + verb' yapısı kibar bir yönerge vermek için kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "You must sign here.",
+          "rationale": "Bu 'İmzalamak zorundasınız' demektir, 'Please' kadar kibar değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "May I sign here?",
+          "rationale": "Bu 'İmzalayabilir miyim?' diye izin ister.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "question": "Aşağıdakilerden hangisi 'Lütfen burada sigara içmeyin.' anlamına gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Please smoke here.",
+          "rationale": "Bu 'Lütfen burada sigara için.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Can I smoke here?",
+          "rationale": "Bu 'Burada sigara içebilir miyim?' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Don't smoke, please.",
+          "rationale": "Bu 'Please don't smoke here.' ile aynı anlama gelir ve kibar bir uyarıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Would you like to smoke?",
+          "rationale": "Bu 'Sigara içmek ister misiniz?' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "You aren't smoking here.",
+          "rationale": "Bu 'Burada sigara içmiyorsunuz.' (bir tespit) anlamına gelir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "question": "'Please' kelimesinin cümle içindeki yeri için aşağıdakilerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece cümlenin başında kullanılabilir.",
+          "rationale": "Slayt 31'e göre sonda da kullanılabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece cümlenin sonunda kullanılabilir.",
+          "rationale": "Slayt 31'e göre başta da kullanılabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hem cümlenin başında hem de sonunda kullanılabilir.",
+          "rationale": "Slayt 31'deki nota göre, 'Please sign here.' veya 'Sign here, please.' (İkisi de doğru.)",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece cümlenin ortasında, özneden sonra kullanılır.",
+          "rationale": "Bu Imperative (Emir) cümlelerde genellikle bir özne olmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "'Please' kelimesi resmi dilde hiç kullanılmaz.",
+          "rationale": "Tam tersine, turizm İngilizcesinde profesyonellik göstergesidir (Slayt 36).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "question": "'reservation' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "misafir",
+          "rationale": "Bu, 'guest' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "resepsiyon",
+          "rationale": "Bu, 'reception' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "rezervasyon",
+          "rationale": "Slayt 32'ye göre, 'reservation' rezervasyon anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "oda kartı",
+          "rationale": "Bu, 'key card' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "bagaj",
+          "rationale": "Bu, 'luggage' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "question": "'guest' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "misafir",
+          "rationale": "Slayt 32'ye göre, 'guest' misafir anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "otel",
+          "rationale": "Bu, 'hotel' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "resepsiyonist",
+          "rationale": "Bu, 'receptionist' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "bagaj",
+          "rationale": "Bu, 'luggage' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "asansör",
+          "rationale": "Bu, 'elevator / lift' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "question": "'key card' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "oda numarası",
+          "rationale": "Bu, 'room number' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "anahtar",
+          "rationale": "Bu 'key' olabilir, ancak 'key card' daha spesifiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "oda kartı",
+          "rationale": "Slayt 32'ye göre, 'key card' oda kartı anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "kimlik kartı",
+          "rationale": "Bu, 'ID card' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "rezervasyon formu",
+          "rationale": "Bu, 'booking form' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "question": "'luggage' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "asansör",
+          "rationale": "Bu, 'elevator / lift' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "bagaj",
+          "rationale": "Slayt 32'ye göre, 'luggage' bagaj anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "misafir",
+          "rationale": "Bu, 'guest' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "danışma",
+          "rationale": "Bu, 'front desk' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "kahvaltı",
+          "rationale": "Bu, 'breakfast' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "question": "'elevator / lift' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "bagaj",
+          "rationale": "Bu, 'luggage' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "resepsiyon",
+          "rationale": "Bu, 'reception' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "oda kartı",
+          "rationale": "Bu, 'key card' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "asansör",
+          "rationale": "Slayt 32'ye göre, 'elevator / lift' asansör anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "oda numarası",
+          "rationale": "Bu, 'room number' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "question": "'room number' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "oda kartı",
+          "rationale": "Bu, 'key card' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "oda numarası",
+          "rationale": "Slayt 32'ye göre, 'room number' oda numarası anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "tek kişilik oda",
+          "rationale": "Bu, 'single room' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "çift kişilik oda",
+          "rationale": "Bu, 'double room' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "oda servisi",
+          "rationale": "Bu, 'room service' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "question": "'check-in' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "çıkış işlemi",
+          "rationale": "Bu, 'check-out' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "giriş işlemi",
+          "rationale": "Slayt 33'e göre, 'check-in' giriş işlemi anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "kontrol etmek",
+          "rationale": "Bu, 'check' fiilinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "rezervasyon",
+          "rationale": "Bu, 'reservation' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "tesis hizmetleri",
+          "rationale": "Bu, 'facilities' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "question": "'check-out' kelimesinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "giriş işlemi",
+          "rationale": "Bu, 'check-in' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "çıkış işlemi",
+          "rationale": "Slayt 33'e göre, 'check-out' çıkış işlemi anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "dışarıda kontrol",
+          "rationale": "Bu kelimenin birebir çevirisidir ancak terim anlamı 'çıkış işlemi'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "rezervasyon formu",
+          "rationale": "Bu, 'booking form' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "oda numarası",
+          "rationale": "Bu, 'room number' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "question": "'double room' ne tür bir odadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "tek kişilik oda",
+          "rationale": "Bu, 'single room' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "iki ayrı yataklı oda",
+          "rationale": "Bu, 'twin room' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "çift kişilik oda",
+          "rationale": "Slayt 33'e göre, 'double room' çift kişilik oda anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "süit oda",
+          "rationale": "Bu, 'suite' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "iki katlı oda",
+          "rationale": "Bu 'duplex room' olabilir, slaytlarda geçmemektedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "question": "'single room' ne tür bir odadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "tek kişilik oda",
+          "rationale": "Slayt 33'e göre, 'single room' tek kişilik oda anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "iki ayrı yataklı oda",
+          "rationale": "Bu, 'twin room' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "çift kişilik oda",
+          "rationale": "Bu, 'double room' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "süit oda",
+          "rationale": "Bu, 'suite' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "sadece bir oda",
+          "rationale": "Bu 'only one room' anlamına gelir, oda tipi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "question": "'twin room' ne tür bir odadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "tek kişilik oda",
+          "rationale": "Bu, 'single room' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "iki ayrı yataklı oda",
+          "rationale": "Slayt 33'e göre, 'twin room' iki ayrı yataklı oda anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "çift kişilik oda (tek büyük yatak)",
+          "rationale": "Bu, 'double room' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "süit oda",
+          "rationale": "Bu, 'suite' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "ikiz odalar",
+          "rationale": "Bu 'yan yana iki oda' (connecting rooms) anlamına gelebilir, 'twin room' ise oda içindeki yatak tipini belirtir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "question": "'suite' ne tür bir odadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "tek kişilik oda",
+          "rationale": "Bu, 'single room' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "iki ayrı yataklı oda",
+          "rationale": "Bu, 'twin room' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "çift kişilik oda",
+          "rationale": "Bu, 'double room' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "süit oda",
+          "rationale": "Slayt 33'e göre, 'suite' süit oda anlamına gelir (genellikle daha büyük ve lüks).",
+          "isCorrect": true
+        },
+        {
+          "text": "tatlı oda",
+          "rationale": "Bu 'sweet' kelimesi ile karıştırılmıştır. 'Sweet' tatlı demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "question": "'facilities' kelimesinin otel bağlamındaki Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "rezervasyon formu",
+          "rationale": "Bu, 'booking form' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "tesis hizmetleri / olanaklar",
+          "rationale": "Slayt 33'e göre, 'facilities' (Örnek: The hotel has great facilities.) tesis hizmetleri veya olanaklar anlamına gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "oda tipleri",
+          "rationale": "Bu 'room types' anlamına gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "fakülteler",
+          "rationale": "Bu kelime akademik bağlamda 'fakülte' anlamına gelse de, otel bağlamında anlamı farklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "çıkış işlemi",
+          "rationale": "Bu, 'check-out' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "question": "Otele gelen misafiri karşılarken 'Otelimize hoş geldiniz!' anlamında hangi ifade kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "How can I help you?",
+          "rationale": "Bu 'Size nasıl yardımcı olabilirim?' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Enjoy your stay!",
+          "rationale": "Bu 'İyi konaklamalar!' demektir ve check-in sonunda söylenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Welcome to our hotel!",
+          "rationale": "Slayt 35'e göre, 'Welcome to our hotel!' misafiri karşılarken kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Here you are.",
+          "rationale": "Bu 'Buyurun.' demektir (bir şey verirken).",
+          "isCorrect": false
+        },
+        {
+          "text": "One moment, please.",
+          "rationale": "Bu 'Bir dakika lütfen.' demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "question": "Misafire hizmet sunmaya başlarken 'Size nasıl yardımcı olabilirim?' anlamında hangi ifade kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Welcome to our hotel!",
+          "rationale": "Bu 'Otelimize hoş geldiniz!' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "How can I help you?",
+          "rationale": "Slayt 35'e göre, 'How can I help you?' hizmet başlangıcında kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "What do you want?",
+          "rationale": "Bu 'Ne istiyorsunuz?' demektir ve 'How can I help you?' kadar kibar değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Please fill in this form.",
+          "rationale": "Bu 'Lütfen bu formu doldurun.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "You're welcome.",
+          "rationale": "Bu 'Rica ederim.' demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "question": "Misafire pasaport veya oda kartı gibi bir şey uzatırken 'Buyurun.' anlamında hangi ifade kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "You're welcome.",
+          "rationale": "Bu 'Rica ederim.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Here you are.",
+          "rationale": "Slayt 35'e göre, 'Here you are.' bir şey verirken kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Thank you.",
+          "rationale": "Bu 'Teşekkür ederim.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Please take a seat.",
+          "rationale": "Bu 'Lütfen oturun.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "How can I help you?",
+          "rationale": "Bu 'Size nasıl yardımcı olabilirim?' demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "question": "Misafir 'Thank you.' (Teşekkür ederim.) dediğinde, 'Rica ederim.' anlamında hangi karşılık verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Here you are.",
+          "rationale": "Bu 'Buyurun.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Enjoy your stay!",
+          "rationale": "Bu 'İyi konaklamalar!' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "You're welcome.",
+          "rationale": "Slayt 35'e göre, 'You're welcome.' teşekkür yanıtı olarak kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Please.",
+          "rationale": "Bu 'Lütfen.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Good morning.",
+          "rationale": "Bu 'Günaydın.' demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "question": "Check-in işlemi tamamlandığında misafire 'İyi konaklamalar!' anlamında hangi ifade kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Have a nice day!",
+          "rationale": "Bu 'İyi günler!' demektir, genellikle vedalaşırken kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Enjoy your stay!",
+          "rationale": "Slayt 35'e göre, 'Enjoy your stay!' check-in sonunda kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Welcome to our hotel!",
+          "rationale": "Bu 'Hoş geldiniz!' demektir ve check-in başında kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Thank you for waiting.",
+          "rationale": "Bu 'Beklediğiniz için teşekkür ederim.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "One moment, please.",
+          "rationale": "Bu 'Bir dakika lütfen.' demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 91,
+      "question": "Bir sorun veya gecikme yaşandığında misafirden 'Rahatsızlık için özür dilerim.' anlamında nasıl özür dilenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "I'm sorry for the inconvenience.",
+          "rationale": "Slayt 35'e göre, 'I'm sorry for the inconvenience.' sorun yaşandığında kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Thank you for your patience.",
+          "rationale": "Bu 'Sabrınız için teşekkür ederim.' demektir, genellikle sorun çözüldükten sonra söylenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Please take a seat.",
+          "rationale": "Bu 'Lütfen oturun.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Enjoy your stay!",
+          "rationale": "Bu 'İyi konaklamalar!' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "It's not my fault.",
+          "rationale": "Bu 'Benim suçum değil.' demektir ve profesyonel bir ifade değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 92,
+      "question": "Misafiri kısa bir süre bekletmek gerektiğinde 'Bir dakika lütfen.' anlamında ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Here you are.",
+          "rationale": "Bu 'Buyurun.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "One moment, please.",
+          "rationale": "Slayt 35'e göre, 'One moment, please.' yoğunlukta veya bekletirken kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Have a nice day!",
+          "rationale": "Bu 'İyi günler!' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "You're welcome.",
+          "rationale": "Bu 'Rica ederim.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Wait.",
+          "rationale": "Bu 'Bekle.' demektir, 'One moment, please.' kadar kibar değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 93,
+      "question": "Misafirden check-in sırasında bir formu doldurmasını isterken 'Lütfen bu formu doldurun.' anlamında ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Please sign here.",
+          "rationale": "Bu 'Lütfen burayı imzalayın.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Please take a seat.",
+          "rationale": "Bu 'Lütfen oturun.' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Could I have your passport?",
+          "rationale": "Bu 'Pasaportunuzu alabilir miyim?' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Please fill in this form.",
+          "rationale": "Slayt 35'e göre, 'Please fill in this form.' check-in sırasında kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "What is this form?",
+          "rationale": "Bu 'Bu form nedir?' demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 94,
+      "question": "'What time is breakfast?' sorusunun Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kahvaltı nerede?",
+          "rationale": "Bu, 'Where is breakfast?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kahvaltı dahil mi?",
+          "rationale": "Bu, 'Is breakfast included?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kahvaltı saat kaçta?",
+          "rationale": "Slayt 34'teki diyalogda, 'What time is breakfast?' sorusu 'Kahvaltı saat kaçta?' anlamında kullanılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kahvaltıda ne var?",
+          "rationale": "Bu, 'What is for breakfast?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kahvaltı ister misiniz?",
+          "rationale": "Bu, 'Would you like breakfast?' sorusunun karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 95,
+      "question": "Slayt 34'teki diyalogda, resepsiyonist misafirden pasaportunu isterken hangi kibar ifadeyi kullanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Can I see your passport?",
+          "rationale": "Diyalogda 'Can I' değil, daha kibar bir yapı kullanılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Could I see your passport, please?",
+          "rationale": "Slayt 34'teki diyalogda 'Could I see your passport, please?' ifadesi geçmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "May I see your passport?",
+          "rationale": "Diyalogda bu ifade geçmemektedir, 'Could I' kullanılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Give me your passport.",
+          "rationale": "Bu kaba bir ifadedir ve diyalogda geçmemektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Where is your passport?",
+          "rationale": "Bu 'Pasaportunuz nerede?' demektir, istemek için kullanılmamıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 96,
+      "question": "Slayt 34'teki diyalogda, kahvaltının hangi saatler arasında olduğu belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "7'den 10'a kadar (From 7 to 10 a.m.)",
+          "rationale": "Slayt 34'teki diyalogda 'From 7 to 10 a.m.' ifadesi geçmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "8'den 11'e kadar (From 8 to 11 a.m.)",
+          "rationale": "Diyalogda bu saat aralığı belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece 7'de (Only at 7 a.m.)",
+          "rationale": "Diyalogda bir saat aralığı belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "10'dan 12'ye kadar (From 10 to 12 a.m.)",
+          "rationale": "Diyalogda bu saat aralığı belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kahvaltı dahil değildir (Breakfast is not included.)",
+          "rationale": "Diyalogda 'Breakfast is included.' (Kahvaltı dahildir.) denilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 97,
+      "question": "Turizm İngilizcesinde 'please' ve 'thank you' ifadelerinin kullanımıyla ilgili kültürel notta ne belirtilmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece çok resmi durumlarda kullanılır.",
+          "rationale": "Slayt 36'daki nota göre bu doğru değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece nezaket değil, profesyonellik göstergesidir.",
+          "rationale": "Slayt 36'daki kültürel notta 'sadece nezaket değil, profesyonellik göstergesidir' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çok sık kullanılmamalıdır, samimiyetsiz durur.",
+          "rationale": "Slayt 36'daki not bunun tersini önermektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece misafirlerin kullanması gereken ifadelerdir.",
+          "rationale": "Not, özellikle çalışanların (resepsiyonist vb.) kullanması gerektiğini ima etmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bu ifadeler misafir memnuniyetini düşürür.",
+          "rationale": "Slayt 36'daki not 'misafir memnuniyetini artırır' demektedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 98,
+      "question": "Slayt 36'daki nota göre misafir memnuniyetini artıran iletişim şekli hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Uzun ve karmaşık cümleler kurmak.",
+          "rationale": "Slayt 36'daki not 'Kısa ve yumuşak cümlelerle iletişim kurmak' gerektiğini belirtir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kısa ve yumuşak cümlelerle iletişim kurmak.",
+          "rationale": "Slayt 36'daki kültürel notta 'Kısa ve yumuşak cümlelerle iletişim kurmak misafir memnuniyetini artırır.' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece resmi ve mesafeli bir dil kullanmak.",
+          "rationale": "Not 'yumuşak cümleler' (sıcak bir ton) önermektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mümkün olduğunca az konuşmak.",
+          "rationale": "Bu, yardımcı olmamak anlamına gelebilir; not, iletişimin *şekli* hakkında bir öneridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece teknik terimler kullanmak.",
+          "rationale": "Bu, misafirin anlamamasına yol açabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 99,
+      "question": "Aşağıdakilerden hangisi bir 'Job Title' (Meslek Adı) değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Receptionist",
+          "rationale": "Slayt 23'e göre bu bir meslek adıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Chef",
+          "rationale": "Slayt 23'e göre bu bir meslek adıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lifeguard",
+          "rationale": "Slayt 24'e göre bu bir meslek adıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Serve",
+          "rationale": "Slayt 25'e göre 'serve' bir fiildir (servis etmek), meslek adı değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Animator",
+          "rationale": "Slayt 24'e göre bu bir meslek adıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 100,
+      "question": "Aşağıdakilerden hangisi bir 'Time Expression' (Zaman İfadesi) değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "every day",
+          "rationale": "Slayt 22'ye göre bu bir zaman ifadesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "on weekends",
+          "rationale": "Slayt 22'ye göre bu bir zaman ifadesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "after work",
+          "rationale": "Slayt 22'ye göre bu bir zaman ifadesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "twice a week",
+          "rationale": "Slayt 22'ye göre bu bir zaman ifadesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Receptionist",
+          "rationale": "Slayt 23'e göre bu bir meslek adıdır (Job Title), zaman ifadesi değildir.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

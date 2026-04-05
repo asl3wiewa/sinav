@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi garnitürün tanımı ve amaçları arasında yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yiyeceğin lezzetini ve besin değerini artırmak.", "rationale": "Garnitürün temel amaçlarından biridir.", "isCorrect": false },
+        { "text": "Tabağın görünüşünü güzelleştirerek satışa katkı sağlamak.", "rationale": "Görsel çekicilik garnitürün önemli bir işlevidir.", "isCorrect": false },
+        { "text": "Porsiyon zenginliği sağlamak.", "rationale": "Tabağı dolu ve zengin göstermek amaçlardan biridir.", "isCorrect": false },
+        { "text": "Ana yemeğin lezzetini tamamen bastırmak.", "rationale": "Garnitür tamamlayıcı olmalıdır, ana yemeğin önüne geçmemelidir.", "isCorrect": true },
+        { "text": "Yemeği süsleyici ve tamamlayıcı bir unsur olmak.", "rationale": "Tanımın temel parçasıdır.", "isCorrect": false }
+      ],
+      "hint": "Garnitür 'tamamlayıcı' bir unsur olmalıdır, baskın değil."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Garnitür hazırlarken dikkat edilmesi gereken 4 temel noktadan biri olan 'Uyum' neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ana yemeğin yanında mutlaka pilav olması gerektiğini.", "rationale": "Bu 'Denge' kuralı ile ilgilidir, uyum ile değil.", "isCorrect": false },
+        { "text": "Garnitürün ana yemekle renk, lezzet ve besin değeri açısından uyumlu olmasını.", "rationale": "Uyum kuralının tam tanımı budur.", "isCorrect": true },
+        { "text": "Sadece mevsim sebzelerinin kullanılmasını.", "rationale": "Mevsimsellik önemlidir ama 'Uyum' kuralının tanımı değildir.", "isCorrect": false },
+        { "text": "Garnitürün ana yemekten daha pahalı olmasını.", "rationale": "Maliyetle ilgili bir kural değildir.", "isCorrect": false },
+        { "text": "Garnitürün her zaman sıcak servis edilmesini.", "rationale": "Servis kuralıdır, uyum prensibi değildir.", "isCorrect": false }
+      ],
+      "hint": "Renk, lezzet ve besin değeri dengesini düşünün."
+    },
+    {
+      "questionNumber": 3,
+      "question": "'Pommes Pont-Neuf' hangi patates garnitürü kategorisine girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Püre Cinsi", "rationale": "Püreler ezilerek hazırlanır.", "isCorrect": false },
+        { "text": "Bol Yağda Kızaranlar", "rationale": "Pont-Neuf, kalın parmak patates şeklinde bol yağda kızartılır.", "isCorrect": true },
+        { "text": "Haşlanarak Hazırlananlar", "rationale": "Haşlama grubunda değildir.", "isCorrect": false },
+        { "text": "Kroket Cinsi", "rationale": "Şekil verilip panelenen grup değildir.", "isCorrect": false },
+        { "text": "Sote Edilenler", "rationale": "Tavada az yağda çevrilenlerden değildir.", "isCorrect": false }
+      ],
+      "hint": "Frittes ve Soufflés ile aynı gruptadır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki patates çeşitlerinden hangisi 'Kroket (Croquette) Cinsi' patatesler grubunda yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Pommes Frites", "rationale": "Kızartma grubundadır.", "isCorrect": false },
+        { "text": "Pommes Williams", "rationale": "Armut şekli verilip kızartılan bir kroket çeşididir.", "isCorrect": true },
+        { "text": "Pommes Lyonnaise", "rationale": "Sote grubundadır (soğanlı).", "isCorrect": false },
+        { "text": "Pommes Nature", "rationale": "Haşlama grubundadır.", "isCorrect": false },
+        { "text": "Pommes Mousseline", "rationale": "Püre grubundadır.", "isCorrect": false }
+      ],
+      "hint": "Armut şekli verilen patatesi hatırlayın."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Pilav yapımında kullanılan 'Firik' nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bir pirinç çeşididir.", "rationale": "Pirinç değildir.", "isCorrect": false },
+        { "text": "İri taneli bulgurdur.", "rationale": "Bulgurdan farklıdır.", "isCorrect": false },
+        { "text": "Yeşil körpe kavrulmuş buğdaydır.", "rationale": "Firik buğdayının tanımı budur.", "isCorrect": true },
+        { "text": "Arpa şehriyenin diğer adıdır.", "rationale": "Şehriye değildir.", "isCorrect": false },
+        { "text": "Bir kuskus türüdür.", "rationale": "Kuskus değildir.", "isCorrect": false }
+      ],
+      "hint": "Olgunlaşmadan toplanıp tütsülenen/kavrilan buğdayı düşünün."
+    },
+    {
+      "questionNumber": 6,
+      "question": "İki sıvının birbiriyle kalıcı olarak birleşmesini sağlayan üçüncü maddeye ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Emülsiyon", "rationale": "Emülsiyon karışımın kendisidir.", "isCorrect": false },
+        { "text": "Roux", "rationale": "Roux bir bağlayıcıdır ama emülgatör tanımı farklıdır.", "isCorrect": false },
+        { "text": "Emülgatör", "rationale": "Emülsiyonu sağlayan aracı maddedir (örn: yumurta sarısı).", "isCorrect": true },
+        { "text": "Liaison", "rationale": "Bağlayıcı karışımdır.", "isCorrect": false },
+        { "text": "Buket Garni", "rationale": "Lezzet verici ot demetidir.", "isCorrect": false }
+      ],
+      "hint": "Yumurta sarısı soslarda en sık kullanılan örneğidir."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Aşağıdakilerden hangisi 'Kalıcı Emülsiyon' soslara örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hollandez Sos", "rationale": "Yarı kalıcı emülsiyondur.", "isCorrect": false },
+        { "text": "Vinaigrette Sos", "rationale": "Geçici emülsiyondur, bekleyince ayrışır.", "isCorrect": false },
+        { "text": "Mayonez Sos", "rationale": "Yumurta sarısı ile yağın kalıcı olarak birleşmesiyle oluşur.", "isCorrect": true },
+        { "text": "Beşamel Sos", "rationale": "Emülsiyon sos değil, sütlü sostur.", "isCorrect": false },
+        { "text": "Demi-Glass Sos", "rationale": "Kahverengi stok bazlı sostur.", "isCorrect": false }
+      ],
+      "hint": "Soğuk mutfağın temel sosudur."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Hollandez (Hollandaise) sosun teknik özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Süt ve unun kavrulmasıyla yapılır.", "rationale": "Bu beşameldir.", "isCorrect": false },
+        { "text": "Domates ve mire poix karışımıdır.", "rationale": "Bu domates sostur.", "isCorrect": false },
+        { "text": "Yumurta sarısı içine tereyağının emülsiye edilmesidir.", "rationale": "Hollandezin temel tekniğidir (Yarı kalıcı).", "isCorrect": true },
+        { "text": "Kemik suyunun çektirilmesiyle yapılır.", "rationale": "Bu demi-glass veya stock işlemidir.", "isCorrect": false },
+        { "text": "Zeytinyağı ve sirkenin çırpılmasıdır.", "rationale": "Bu vinaigrette'tir.", "isCorrect": false }
+      ],
+      "hint": "Ilık servis edilen, tereyağı bazlı bir sostur."
+    },
+    {
+      "questionNumber": 9,
+      "question": "İyi bir Beşamel (Béchamel) sosun özelliği aşağıdakilerden hangisi olamaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Pütürsüz olmalı.", "rationale": "İstenen bir özelliktir.", "isCorrect": false },
+        { "text": "Beyaz renkli olmalı.", "rationale": "Temel beyaz sostur.", "isCorrect": false },
+        { "text": "Yanık veya çiğ un kokmamalı.", "rationale": "Unun kokusu iyi ayarlanmalıdır.", "isCorrect": false },
+        { "text": "Kaşığın tersine 4-5 mm sıvanmalı.", "rationale": "Doğru kıvam ölçüsüdür.", "isCorrect": false },
+        { "text": "Koyu kahverengi ve çok yoğun olmalı.", "rationale": "Beşamel beyaz bir sostur, kahverengi olamaz.", "isCorrect": true }
+      ],
+      "hint": "Bu sos 'Temel Beyaz Sos' olarak bilinir."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Velute (Velouté) sos hazırlanırken süt yerine ne kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Domates püresi", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Fond (Et/Tavuk/Balık suyu)", "rationale": "Velute, beyaz roux ile fondun birleşimidir.", "isCorrect": true },
+        { "text": "Saf zeytinyağı", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Sirke", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Krema", "rationale": "Krema sonradan eklenebilir ama temel sıvı fonddur.", "isCorrect": false }
+      ],
+      "hint": "Tavuklu versiyonu için tavuk suyu kullanılır."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Stock (Et/Kemik suyu) hazırlarken kullanılan Mire Poix oranı yaklaşık ne kadar olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "%50", "rationale": "%50 kemik oranıdır.", "isCorrect": false },
+        { "text": "%10", "rationale": "Standart reçetede %10 mire poix kullanılır.", "isCorrect": true },
+        { "text": "%100", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "%25", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "%1", "rationale": "Çok azdır.", "isCorrect": false }
+      ],
+      "hint": "Kemiklerin beşte biri kadar."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Stock yapımına neden soğuk su ile başlanmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Daha hızlı kaynaması için.", "rationale": "Sıcak su daha hızlı kaynar.", "isCorrect": false },
+        { "text": "Kan ve partiküllerin pıhtılaşarak yüzeye çıkmasını sağlamak için.", "rationale": "Soğuk su, albüminin yavaşça pıhtılaşıp yüzeye çıkmasını sağlar, berraklık verir.", "isCorrect": true },
+        { "text": "Sebzelerin erimesini engellemek için.", "rationale": "Temel neden bu değildir.", "isCorrect": false },
+        { "text": "Tasarruf sağlamak için.", "rationale": "Alakasızdır.", "isCorrect": false },
+        { "text": "Kemiklerin rengini koyulaştırmak için.", "rationale": "Berraklık içindir, renk için değil.", "isCorrect": false }
+      ],
+      "hint": "Berrak bir et suyu elde etmek için 'kef'in (köpüğün) toplanması gerekir."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Aşağıdakilerden hangisi profesyonel stock yapımında kullanılmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Genç hayvan kemikleri", "rationale": "Jelatin için tercih edilir.", "isCorrect": false },
+        { "text": "Mire Poix", "rationale": "Lezzet için kullanılır.", "isCorrect": false },
+        { "text": "Bouquet Garni", "rationale": "Aroma için kullanılır.", "isCorrect": false },
+        { "text": "Karnabahar veya Brokoli", "rationale": "Sülfürlü sebzeler stock'a acı tat ve kötü koku verir, kullanılmaz.", "isCorrect": true },
+        { "text": "Soğuk su", "rationale": "Kullanılması şarttır.", "isCorrect": false }
+      ],
+      "hint": "Keskin kokulu, sülfürlü sebzelerden kaçınılır."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Sığır (Beef) stock için ideal pişirme süresi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "30-45 dakika", "rationale": "Balık stock süresidir.", "isCorrect": false },
+        { "text": "1-2 saat", "rationale": "Yetersizdir.", "isCorrect": false },
+        { "text": "2-4 saat", "rationale": "Tavuk stock süresidir.", "isCorrect": false },
+        { "text": "8-10 saat", "rationale": "Sığır kemiklerinden jelatini almak için gereken süredir.", "isCorrect": true },
+        { "text": "24 saat", "rationale": "Genelde 8-10 saat yeterlidir.", "isCorrect": false }
+      ],
+      "hint": "En sert kemikler olduğu için en uzun süre pişer."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Balık stocklarında bulanıklığı ve acı tadı önlemek için ne yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bol yağ eklenmelidir.", "rationale": "Yağ bulanıklık yapar.", "isCorrect": false },
+        { "text": "Solungaç ve iç organlar mutlaka temizlenmelidir.", "rationale": "Bunlar acılık ve bulanıklık verir.", "isCorrect": true },
+        { "text": "Sıcak su ile başlanmalıdır.", "rationale": "Soğuk su kuraldır.", "isCorrect": false },
+        { "text": "En az 5 saat kaynatılmalıdır.", "rationale": "Balık stock en fazla 45 dk kaynar, yoksa bozulur.", "isCorrect": false },
+        { "text": "Patates eklenmelidir.", "rationale": "Patates nişastası suyu bulandırır.", "isCorrect": false }
+      ],
+      "hint": "Balığın temizliğinde en dikkat edilmesi gereken kısımlardır."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Sıcak soslar ve bunların garnitürlerinden (balık ve tatlı hariç) sorumlu olan kısım şefi kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Chef Potager", "rationale": "Çorbalardan sorumludur.", "isCorrect": false },
+        { "text": "Chef Saucier (Sosiyer)", "rationale": "Soslar ve soslu et yemeklerinden sorumludur.", "isCorrect": true },
+        { "text": "Chef Rotisseur", "rationale": "Izgara ve kızartmalardan sorumludur.", "isCorrect": false },
+        { "text": "Chef Entremettier", "rationale": "Sebze ve yumurtalardan sorumludur.", "isCorrect": false },
+        { "text": "Larder Chef", "rationale": "Soğuk mutfaktan sorumludur.", "isCorrect": false }
+      ],
+      "hint": "Fransızca 'Saus' kelimesinden gelir."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Chef Rotisseur'ün görev alanı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Soğuk mezeleri hazırlamak.", "rationale": "Larder şefin işidir.", "isCorrect": false },
+        { "text": "Çorbaları hazırlamak.", "rationale": "Potager'in işidir.", "isCorrect": false },
+        { "text": "Fırında (rosto), ızgarada ve tavada pişen etleri hazırlamak.", "rationale": "Rotisseur (Kızartmacı) tanımıdır.", "isCorrect": true },
+        { "text": "Tüm balık yemeklerini yapmak.", "rationale": "Poissonier'in işidir (Izgara hariç).", "isCorrect": false },
+        { "text": "Sebze garnitürlerini hazırlamak.", "rationale": "Entremettier'in işidir.", "isCorrect": false }
+      ],
+      "hint": "Izgara ve fırın etleri bu şefin uzmanlığıdır."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Tava ve ızgara hariç tüm sebzeler, yumurta ve makarna yemeklerinden sorumlu şef kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Chef Entremettier", "rationale": "Sebzeci şef olarak bilinir.", "isCorrect": true },
+        { "text": "Chef Poissonier", "rationale": "Balıkçıdır.", "isCorrect": false },
+        { "text": "Sous Chef", "rationale": "Şefin yardımcısıdır.", "isCorrect": false },
+        { "text": "Chef Saucier", "rationale": "Sosçudur.", "isCorrect": false },
+        { "text": "Aboyeur", "rationale": "Mutfak duyurucusudur.", "isCorrect": false }
+      ],
+      "hint": "Sebze garnitürleri ve makarnalar onun işidir."
+    },
+    {
+      "questionNumber": 19,
+      "question": "'Depouillage' işlemi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Eti mühürlemek.", "rationale": "Searing işlemidir.", "isCorrect": false },
+        { "text": "Stok yüzeyine çıkan köpük ve partikülleri (kef) almak.", "rationale": "Depouillage kef alma işlemidir.", "isCorrect": true },
+        { "text": "Sosu bağlamak.", "rationale": "Liaison işlemidir.", "isCorrect": false },
+        { "text": "Sebzeleri doğramak.", "rationale": "Chopping işlemidir.", "isCorrect": false },
+        { "text": "Yemeği fırınlamak.", "rationale": "Baking/Roasting işlemidir.", "isCorrect": false }
+      ],
+      "hint": "Berrak bir su elde etmek için kaşık veya kepçe ile yapılır."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Klasik menü sıralamasında 'Sorbet' (Şerbet) hangi aşamada servis edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yemeğin en başında.", "rationale": "Başta ordövr verilir.", "isCorrect": false },
+        { "text": "Tatlıdan hemen sonra.", "rationale": "Tatlı sondadır.", "isCorrect": false },
+        { "text": "Ana yemekten (Roti) hemen önce.", "rationale": "Mideyi rahatlatmak ve ana yemeğe hazırlamak için verilir.", "isCorrect": true },
+        { "text": "Çorbadan önce.", "rationale": "Çorba başlardadır.", "isCorrect": false },
+        { "text": "Kahvaltıda.", "rationale": "Kahvaltı ürünü değildir.", "isCorrect": false }
+      ],
+      "hint": "Mideyi nötralize etmek için ana yemek öncesi verilir."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Aşağıdakilerden hangisi 'Table d'Hote' menünün özelliğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Günün her saati her şey sipariş edilebilir.", "rationale": "Bu California menüdür.", "isCorrect": false },
+        { "text": "Her tabağın fiyatı ayrıdır.", "rationale": "Bu A'la Carte menüdür.", "isCorrect": false },
+        { "text": "Sabit fiyatlıdır ve sınırlı seçenek sunar.", "rationale": "Table d'Hote tanımıdır.", "isCorrect": true },
+        { "text": "Sipariş üzerine taze hazırlanır, ön hazırlık azdır.", "rationale": "Bu A'la Carte özelliğidir.", "isCorrect": false },
+        { "text": "Sadece tatlılardan oluşur.", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Seçeneğin az olduğu, fiks menü türüdür."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Hangi kahvaltı türü en zengin içeriğe sahiptir ve jambon, sosis, yumurta çeşitlerini içerir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Continental Kahvaltı", "rationale": "En sade kahvaltısıdır.", "isCorrect": false },
+        { "text": "Amerikan Kahvaltısı", "rationale": "Oldukça zengindir; et ürünleri ve yumurta içerir.", "isCorrect": true },
+        { "text": "Viyana Kahvaltısı", "rationale": "Continental'e benzer.", "isCorrect": false },
+        { "text": "Fransız Kahvaltısı", "rationale": "Kruvasan ve kahve ağırlıklıdır, sadedir.", "isCorrect": false },
+        { "text": "Diyet Kahvaltı", "rationale": "Hafiftir.", "isCorrect": false }
+      ],
+      "hint": "Bu ülke kahvaltıyı 'esas öğün' olarak sayar."
+    },
+    {
+      "questionNumber": 23,
+      "question": "'Brunch' hangi saatler arasında servis edilen bir öğündür?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "07:00 - 09:00", "rationale": "Bu kahvaltı saatidir.", "isCorrect": false },
+        { "text": "10:00 - 14:00", "rationale": "Kahvaltı ve öğle yemeği birleşimidir.", "isCorrect": true },
+        { "text": "18:00 - 20:00", "rationale": "Akşam yemeği saatidir.", "isCorrect": false },
+        { "text": "22:00 - 24:00", "rationale": "Gece yemeği saatidir.", "isCorrect": false },
+        { "text": "05:00 - 07:00", "rationale": "Erken kahvaltıdır.", "isCorrect": false }
+      ],
+      "hint": "Breakfast ve Lunch kelimelerinin birleşimidir."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Blanching (Ağartma) işleminin yağda yapılması durumunda ideal sıcaklık ve süre nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "180°C'de 5 dakika", "rationale": "Bu tam kızartmadır.", "isCorrect": false },
+        { "text": "130°C'de 1 dakika", "rationale": "Gözenekleri kapatmak için doğru ön pişirme derecesidir.", "isCorrect": true },
+        { "text": "100°C'de 10 dakika", "rationale": "Yağ için düşüktür.", "isCorrect": false },
+        { "text": "200°C'de 30 saniye", "rationale": "Çok sıcaktır, yakabilir.", "isCorrect": false },
+        { "text": "150°C'de 3 dakika", "rationale": "Pişmeye yakın olur.", "isCorrect": false }
+      ],
+      "hint": "Amacı pişirmek değil, gözenekleri kapatmaktır."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Simmering (Tıkırdatma) tekniğinin sıcaklık aralığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "100°C", "rationale": "Bu Boiling (Kaynama) derecesidir.", "isCorrect": false },
+        { "text": "65-80°C", "rationale": "Bu Poaching derecesidir.", "isCorrect": false },
+        { "text": "85-95°C", "rationale": "Kaynama noktasının hemen altıdır, tıkırdatmadır.", "isCorrect": true },
+        { "text": "130°C", "rationale": "Su bu derecede buhar olur.", "isCorrect": false },
+        { "text": "200°C", "rationale": "Fırın derecesidir.", "isCorrect": false }
+      ],
+      "hint": "Et suları ve soslar bu ısıda pişer, fokurdamaz."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Poaching (Hafif Haşlama) yöntemi hangi ürünler için uygundur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bütün sığır eti", "rationale": "Sert ettir, uzun pişme ister.", "isCorrect": false },
+        { "text": "Kuru bakliyatlar", "rationale": "Kaynatma ister.", "isCorrect": false },
+        { "text": "Balık ve yumurta gibi hassas ürünler", "rationale": "Dağılmamaları için düşük ısıda (65-80°C) pişirilir.", "isCorrect": true },
+        { "text": "Patates kızartması", "rationale": "Yağda olur.", "isCorrect": false },
+        { "text": "Kemik suyu", "rationale": "Simmering tekniği kullanılır.", "isCorrect": false }
+      ],
+      "hint": "Kaynar suyun hareketi bu ürünleri parçalayabilir."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Broiling ve Grilling arasındaki temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Biri suda, biri yağda pişirilir.", "rationale": "İkisi de ızgara türevidir.", "isCorrect": false },
+        { "text": "Broiling üstten ısıtmalı, Grilling alttan ısıtmalı ızgaradır.", "rationale": "Doğru teknik ayrımı budur.", "isCorrect": true },
+        { "text": "Broiling sebzeler, Grilling etler içindir.", "rationale": "Ürün ayrımı yoktur.", "isCorrect": false },
+        { "text": "Grilling fırında yapılır.", "rationale": "Grilling ızgaradır, fırın Roasting'dir.", "isCorrect": false },
+        { "text": "Hiçbir fark yoktur.", "rationale": "Isı kaynağının yönü farklıdır.", "isCorrect": false }
+      ],
+      "hint": "Isı kaynağının yönüne (alttan/üstten) dikkat edin."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Braising (Breze) pişirme yönteminin özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bol yağda kızartmadır.", "rationale": "Frying'dir.", "isCorrect": false },
+        { "text": "Sadece buharda pişirmedir.", "rationale": "Steaming'dir.", "isCorrect": false },
+        { "text": "Önce mühürleyip, sonra az sıvı ile kapağı kapalı fırında/ocakta pişirmektir.", "rationale": "Kombine bir yöntemdir (Kuru+Sulu).", "isCorrect": true },
+        { "text": "Izgarada pişirmektir.", "rationale": "Grilling'dir.", "isCorrect": false },
+        { "text": "Çiğ servis etmektir.", "rationale": "Pişirme değildir.", "isCorrect": false }
+      ],
+      "hint": "Hem kızartma hem haşlama tekniğinin birleşimidir, sos kıvamlı olur."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Fırında Et (Roasting) pişirilirken etin yağlı tarafı neden üste getirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Görüntüsü daha güzel olsun diye.", "rationale": "İkincil sebeptir.", "isCorrect": false },
+        { "text": "Erimeyen yağların eti koruması için.", "rationale": "Yağ eriyerek eti beslemelidir.", "isCorrect": false },
+        { "text": "Eriyen yağların etin içine işleyerek kurumasını önlemesi ve lezzet vermesi için.", "rationale": "Temel teknik sebeptir (Basting etkisi).", "isCorrect": true },
+        { "text": "Tepsiye yapışmaması için.", "rationale": "Altına sebze konur.", "isCorrect": false },
+        { "text": "Daha çabuk pişmesi için.", "rationale": "Süreyle doğrudan ilgili değildir.", "isCorrect": false }
+      ],
+      "hint": "Yer çekimi etkisiyle yağın ete nüfuz etmesi sağlanır."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Aşağıdakilerden hangisi yiyecekleri pişirme nedenlerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Lezzeti artırmak.", "rationale": "Pişirme nedenidir.", "isCorrect": false },
+        { "text": "Hazmı kolaylaştırmak.", "rationale": "Pişirme nedenidir.", "isCorrect": false },
+        { "text": "Zararlı mikroorganizmaları yok etmek.", "rationale": "Pişirme nedenidir.", "isCorrect": false },
+        { "text": "Besin değerini tamamen yok etmek.", "rationale": "Amaç besin değerini korumaktır, yok etmek değil.", "isCorrect": true },
+        { "text": "Yiyeceği yenebilir hale getirmek.", "rationale": "Pişirme nedenidir.", "isCorrect": false }
+      ],
+      "hint": "Pişirme işlemi besini 'öldürmek' için değil, faydalanmak için yapılır."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Pommes Frittes, Pommes Soufflés ve Pommes Pont-Neuf hangi pişirme kategorisine girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Püre Cinsi", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Haşlananlar", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Bol Yağda Kızaranlar", "rationale": "Bunların hepsi derin yağda kızartılır.", "isCorrect": true },
+        { "text": "Sote Edilenler", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Fırınlananlar", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Patates kızartması grubudur."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Domates sos yapımında salça kullanılacaksa oranı ne olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Domatesle eşit miktarda.", "rationale": "Çok yoğun olur.", "isCorrect": false },
+        { "text": "Domates miktarının iki katı.", "rationale": "Aşırı yoğun olur.", "isCorrect": false },
+        { "text": "Domates miktarının yarısı kadar.", "rationale": "Dengeyi sağlamak için doğru orandır.", "isCorrect": true },
+        { "text": "Hiç kullanılmamalıdır.", "rationale": "Kullanılabilir.", "isCorrect": false },
+        { "text": "%1 oranında.", "rationale": "Etkisi az olur.", "isCorrect": false }
+      ],
+      "hint": "Salça yoğunluk verir, bu yüzden domatesten az olmalıdır."
+    },
+    {
+      "questionNumber": 33,
+      "question": "'Remouillage' terimi neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sosu süzme işlemi.", "rationale": "Straining'dir.", "isCorrect": false },
+        { "text": "Malzemelerin ikinci kez kullanılmasıyla elde edilen zayıf stock.", "rationale": "Remouillage 'tekrar ıslatma' demektir.", "isCorrect": true },
+        { "text": "Sebzeleri doğrama şekli.", "rationale": "Kesim tekniğidir.", "isCorrect": false },
+        { "text": "Eti marine etme.", "rationale": "Marinasyondur.", "isCorrect": false },
+        { "text": "Çorba bağlama.", "rationale": "Liaison'dur.", "isCorrect": false }
+      ],
+      "hint": "Birinci stock yapıldıktan sonra kemikler atılmaz, tekrar kaynatılır."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Demi-Glass sosun temel malzemeleri nelerdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Süt, un, tereyağı.", "rationale": "Beşamel malzemesidir.", "isCorrect": false },
+        { "text": "Kırılmış dana kemikleri, mire poix, salça, kahverengi fond.", "rationale": "Demi-Glass'ın doğru içeriğidir.", "isCorrect": true },
+        { "text": "Yumurta sarısı, sıvı yağ, limon.", "rationale": "Mayonez malzemesidir.", "isCorrect": false },
+        { "text": "Domates, soğan, sarımsak.", "rationale": "Domates sos malzemesidir.", "isCorrect": false },
+        { "text": "Balık suyu, krema.", "rationale": "Balık velute malzemesidir.", "isCorrect": false }
+      ],
+      "hint": "Kahverengi bir sos olduğu için kemik ve salça içerir."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Menü kelimesinin kökeni olan Latince 'minutus' ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Büyük, zengin", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Lezzetli", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Küçük, az", "rationale": "Kelime anlamı budur.", "isCorrect": true },
+        { "text": "Liste", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Yemek", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Eskiden seçeneklerin azlığını ifade ederdi."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Aşağıdakilerden hangisi bir 'Soğuk Antre' örneğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sufle", "rationale": "Sıcak antredir.", "isCorrect": false },
+        { "text": "Tavuk Mus (Mousse)", "rationale": "Soğuk servis edilen bir başlangıçtır.", "isCorrect": true },
+        { "text": "Kuzu Roti", "rationale": "Ana yemektir.", "isCorrect": false },
+        { "text": "Sebze Çorbası", "rationale": "Çorbadır.", "isCorrect": false },
+        { "text": "Krep", "rationale": "Genelde sıcak antre veya tatlıdır.", "isCorrect": false }
+      ],
+      "hint": "Pate ve Galantin ile aynı gruptadır."
+    },
+    {
+      "questionNumber": 37,
+      "question": "California Menü'nün en belirgin özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece vejetaryen yemekleri vardır.", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Günün her saati kahvaltı dahil menüdeki her şey sipariş edilebilir.", "rationale": "Esnekliği ile bilinir.", "isCorrect": true },
+        { "text": "Sadece akşam yemeği servisi vardır.", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Yemekler önceden pişirilip bekletilir.", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Fiyatlar çok yüksektir.", "rationale": "Özellik değildir.", "isCorrect": false }
+      ],
+      "hint": "Zaman kısıtlaması olmayan menüdür."
+    },
+    {
+      "questionNumber": 38,
+      "question": "'Supper' öğünü ne zaman yenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Öğle yemeğinde.", "rationale": "Lunch'tır.", "isCorrect": false },
+        { "text": "İkindi çayında.", "rationale": "Tea time'dır.", "isCorrect": false },
+        { "text": "Gece geç saatte.", "rationale": "Uykuyu bölmemesi için hafif yenir.", "isCorrect": true },
+        { "text": "Sabah erkenden.", "rationale": "Breakfast'tır.", "isCorrect": false },
+        { "text": "Öğle ile akşam arası.", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Gece acıkıldığında yenen hafif yemektir."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Steaming (Buharda Pişirme) yönteminin en önemli avantajı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yemeğe isli bir tat vermesi.", "rationale": "Tütsüleme değildir.", "isCorrect": false },
+        { "text": "Yiyeceğin çok kızarması.", "rationale": "Kızarmaz.", "isCorrect": false },
+        { "text": "Besin değerini en iyi koruyan yöntemlerden biri olması.", "rationale": "Suya temas etmediği için vitamin kaybı azdır.", "isCorrect": true },
+        { "text": "Çok yağlı olması.", "rationale": "Yağsızdır.", "isCorrect": false },
+        { "text": "Çok hızlı olması.", "rationale": "Hızdan ziyade sağlık ön plandadır.", "isCorrect": false }
+      ],
+      "hint": "Diyet yemekleri için sıkça tercih edilir."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Deep Frying (Derin Yağda Kızartma) için ideal sıcaklık aralığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "100-120°C", "rationale": "Yağ çeker.", "isCorrect": false },
+        { "text": "160-180°C", "rationale": "İdeal kızartma derecesidir.", "isCorrect": true },
+        { "text": "220-250°C", "rationale": "Yağ yanar.", "isCorrect": false },
+        { "text": "80-90°C", "rationale": "Haşlama derecesidir.", "isCorrect": false },
+        { "text": "300°C", "rationale": "Çok tehlikelidir.", "isCorrect": false }
+      ],
+      "hint": "Patates kızartmasının çıtır olması için gereken ısıdır."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Sote (Sauteing) tekniğinin özellikleri nelerdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Düşük ısı, bol yağ, uzun süre.", "rationale": "Bu confit benzeri olur.", "isCorrect": false },
+        { "text": "Yüksek ısı, az yağ, kısa süre ve tava hareketi.", "rationale": "Sotelemenin tanımı budur.", "isCorrect": true },
+        { "text": "Fırında susuz pişirme.", "rationale": "Roasting.", "isCorrect": false },
+        { "text": "Suda haşlama.", "rationale": "Boiling.", "isCorrect": false },
+        { "text": "Izgarada pişirme.", "rationale": "Grilling.", "isCorrect": false }
+      ],
+      "hint": "Fransızca 'zıplatmak' kelimesinden gelir."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Pommes Nature nasıl bir patates garnitürüdür?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kızartılmış.", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Kabuksuz haşlanmış.", "rationale": "Sade haşlanmış patatestir.", "isCorrect": true },
+        { "text": "Püre haline getirilmiş.", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Sote edilmiş.", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Fırınlanmış.", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "En sade, doğal hali."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Yumurta sarısı ve yağ kullanılarak yapılan, soğuk mutfağın temel sosu hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Beşamel", "rationale": "Sıcak sostur.", "isCorrect": false },
+        { "text": "Demi-Glass", "rationale": "Sıcak sostur.", "isCorrect": false },
+        { "text": "Mayonez", "rationale": "Soğuk ve emülsiyon sostur.", "isCorrect": true },
+        { "text": "Domates Sos", "rationale": "Pişirilen sostur.", "isCorrect": false },
+        { "text": "Velute", "rationale": "Sıcak sostur.", "isCorrect": false }
+      ],
+      "hint": "İçindeki lesitin sayesinde kıvam alır."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Hangi sos 'Balık Velute' (Velouté de Poisson) olarak adlandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Süt ile yapılan.", "rationale": "Beşamel.", "isCorrect": false },
+        { "text": "Tavuk suyu ile yapılan.", "rationale": "Velouté de Volaille.", "isCorrect": false },
+        { "text": "Balık fondu ile yapılan.", "rationale": "Doğru eşleşmedir.", "isCorrect": true },
+        { "text": "Domates suyu ile yapılan.", "rationale": "Domates sos.", "isCorrect": false },
+        { "text": "Et suyu ile yapılan.", "rationale": "Velouté de Veau.", "isCorrect": false }
+      ],
+      "hint": "Kullanılan sıvı sosun adını belirler."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Stewing (Yahni) tekniği hangi ürünler için daha uygundur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bütün tavuk.", "rationale": "Roasting veya Poaching yapılır.", "isCorrect": false },
+        { "text": "Küçük parça ürünler.", "rationale": "Küçük doğranmış etler bol sıvı ile pişer.", "isCorrect": true },
+        { "text": "Bütün balık.", "rationale": "Dağılır.", "isCorrect": false },
+        { "text": "Biftek.", "rationale": "Grilling yapılır.", "isCorrect": false },
+        { "text": "Yumurta.", "rationale": "Poaching yapılır.", "isCorrect": false }
+      ],
+      "hint": "Tas kebabı veya türlü gibi yemekleri düşünün."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Mutfakta 'Executive Chef'in temel görevi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece yemek pişirmek.", "rationale": "Yönetici pozisyonundadır.", "isCorrect": false },
+        { "text": "Bulaşıkları yıkamak.", "rationale": "Steward'ın görevidir.", "isCorrect": false },
+        { "text": "Yönetim, menü planlama ve standart reçete hazırlama.", "rationale": "Mutfak şefinin idari görevleridir.", "isCorrect": true },
+        { "text": "Servis yapmak.", "rationale": "Garsonun görevidir.", "isCorrect": false },
+        { "text": "Sebze soymak.", "rationale": "Çırağın görevidir.", "isCorrect": false }
+      ],
+      "hint": "Mutfağın beyni ve yöneticisidir."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Klasik menüde 'Savoriler' ne zaman servis edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çorbadan önce.", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Ana yemekle beraber.", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Tatlıdan sonra.", "rationale": "Mideyi bastırmak için tatlı üzerine peynirli/baharatlı olarak verilir.", "isCorrect": true },
+        { "text": "Kahvaltıda.", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Salatadan önce.", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Tatlı krizini dengeleyen tuzlu kapanışlardır."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Cycle (Dönüşümlü) Menü nerelerde kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Lüks restoranlarda.", "rationale": "A'la carte kullanırlar.", "isCorrect": false },
+        { "text": "Fast food zincirlerinde.", "rationale": "Standart menü kullanırlar.", "isCorrect": false },
+        { "text": "Okul, hastane ve fabrikalarda.", "rationale": "Belirli periyotlarla (örneğin 1 aylık) değişen menülerdir.", "isCorrect": true },
+        { "text": "Kafelerde.", "rationale": "Genelde sabit menü vardır.", "isCorrect": false },
+        { "text": "Barlarda.", "rationale": "Snack menü vardır.", "isCorrect": false }
+      ],
+      "hint": "Sürekli aynı kitleye yemek çıkan yerleri düşünün."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Stock yapımında patates neden kullanılmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Pahalı olduğu için.", "rationale": "Ucuzdur.", "isCorrect": false },
+        { "text": "Nişastası suyu bulandırdığı için.", "rationale": "Berraklığı bozar.", "isCorrect": true },
+        { "text": "Tadı çok baskın olduğu için.", "rationale": "Tadı nötrdür.", "isCorrect": false },
+        { "text": "Rengi kırmızı yaptığı için.", "rationale": "Rengi etkilemez.", "isCorrect": false },
+        { "text": "Çok geç piştiği için.", "rationale": "Erken pişer ve dağılır.", "isCorrect": false }
+      ],
+      "hint": "Berraklık stock kalitesinin en önemli göstergesidir."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Sebzeleri haşlarken (Blanching - Kaynar Suda) rengini korumak için işlemden sonra ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Fırına atılır.", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Hemen buzlu suya alınır (Şoklama).", "rationale": "Pişmeyi durdurur ve rengi sabitler (Klorofil korunur).", "isCorrect": true },
+        { "text": "Tencerenin kapağı kapatılır.", "rationale": "Renk solar.", "isCorrect": false },
+        { "text": "Yağda kızartılır.", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "Oda sıcaklığında bekletilir.", "rationale": "Rengi solar.", "isCorrect": false }
+      ],
+      "hint": "Pişirme sürecini aniden durdurmak gerekir."
+    },
+    {
+        "questionNumber": 51,
+        "question": "Pilav pişirilirken kullanılan 'Salma Tekniği'nin özelliği nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Pirincin yağda kavrulması.", "rationale": "Bu kavurma tekniğidir.", "isCorrect": false },
+            { "text": "Pirincin kaynayan suya atılarak pişirilmesi.", "rationale": "Salma tekniğinin tanımıdır, su çektirme usulüdür.", "isCorrect": true },
+            { "text": "Pirincin bol suda haşlanıp süzülmesi.", "rationale": "Bu haşlama tekniğidir.", "isCorrect": false },
+            { "text": "Pirincin fırınlanması.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Pirincin buharda pişmesi.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Su kaynadıktan sonra pirinç içine 'salınır'."
+    },
+    {
+        "questionNumber": 52,
+        "question": "Geçici emülsiyon soslara en iyi örnek hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Mayonez", "rationale": "Kalıcıdır.", "isCorrect": false },
+            { "text": "Vinaigrette", "rationale": "Yağ ve sirke çalkalanır ama durunca ayrışır, emülgatörsüzdür.", "isCorrect": true },
+            { "text": "Hollandez", "rationale": "Yarı kalıcıdır.", "isCorrect": false },
+            { "text": "Demi-Glass", "rationale": "Emülsiyon değildir.", "isCorrect": false },
+            { "text": "Beşamel", "rationale": "Emülsiyon değildir.", "isCorrect": false }
+        ],
+        "hint": "Salata sosu olarak bilinir, kullanmadan önce çalkalamak gerekir."
+    },
+    {
+        "questionNumber": 53,
+        "question": "Stock yaparken oluşan köpük (kef) alınmazsa ne olur?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Stock daha lezzetli olur.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Stock bulanık olur ve tadı bozulur.", "rationale": "Kef, kan ve kir içerir, suyu bozar.", "isCorrect": true },
+            { "text": "Stock jelleşmez.", "rationale": "Jelleşme kemikle ilgilidir.", "isCorrect": false },
+            { "text": "Rengi çok açık olur.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Daha çabuk pişer.", "rationale": "Süreyle ilgisi yoktur.", "isCorrect": false }
+        ],
+        "hint": "Berraklık profesyonel mutfakta kalite kriteridir."
+    },
+    {
+        "questionNumber": 54,
+        "question": "Tavuk stock için önerilen pişirme süresi nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "30 dakika", "rationale": "Azdır.", "isCorrect": false },
+            { "text": "2-4 saat", "rationale": "Tavuk kemikleri için ideal süredir.", "isCorrect": true },
+            { "text": "8-10 saat", "rationale": "Kemikler dağılır ve su bulanır.", "isCorrect": false },
+            { "text": "24 saat", "rationale": "Çok fazladır.", "isCorrect": false },
+            { "text": "15 dakika", "rationale": "Yetersizdir.", "isCorrect": false }
+        ],
+        "hint": "Sığırdan kısa, balıktan uzun sürer."
+    },
+    {
+        "questionNumber": 55,
+        "question": "Klasik menüde 'Roti' (Kızartma) nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Kızarmış ekmek.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Fırında veya makinede pişen bütün etler.", "rationale": "Menünün ana unsurlarından biridir (örn: Piliç Roti).", "isCorrect": true },
+            { "text": "Tava yemekleri.", "rationale": "Genelde bütün parçalar roti sayılır.", "isCorrect": false },
+            { "text": "Sebze kızartması.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Izgara balık.", "rationale": "Genelde kırmızı/beyaz et için kullanılır.", "isCorrect": false }
+        ],
+        "hint": "Menünün en ağır ve gösterişli et yemeği aşamasıdır."
+    },
+    {
+        "questionNumber": 56,
+        "question": "Sığır stock pişirme süresinin (8-10 saat) bu kadar uzun olmasının temel nedeni nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Mikropları öldürmek.", "rationale": "Kısa sürede de ölürler.", "isCorrect": false },
+            { "text": "Suyun buharlaşmasını sağlamak.", "rationale": "Amaç değildir.", "isCorrect": false },
+            { "text": "Kemiklerdeki kolajeni (jelatini) tam olarak çözüp suya geçirmek.", "rationale": "Sığır kemikleri sert ve kalındır, jelatin geç çıkar.", "isCorrect": true },
+            { "text": "Sebzeleri eritmek.", "rationale": "Sebzeler daha erken erir.", "isCorrect": false },
+            { "text": "Etin rengini açmak.", "rationale": "İlgisizdir.", "isCorrect": false }
+        ],
+        "hint": "Soğuduğunda jöle kıvamı almasını sağlayan maddeyi düşünün."
+    },
+    {
+        "questionNumber": 57,
+        "question": "Aşağıdakilerden hangisi bir 'Sıcak Antre' örneğidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Zeytinyağı enginar.", "rationale": "Soğuk ordövr veya sebze yemeğidir.", "isCorrect": false },
+            { "text": "Makarnalar ve Börekler.", "rationale": "Ana yemek öncesi sıcak ara sıcaktır.", "isCorrect": true },
+            { "text": "Peynir tabağı.", "rationale": "Dessert veya savori olabilir.", "isCorrect": false },
+            { "text": "Meyve salatası.", "rationale": "Tatlı/Dessert.", "isCorrect": false },
+            { "text": "Havyar.", "rationale": "Soğuk ordövr.", "isCorrect": false }
+        ],
+        "hint": "Ana yemekten önce gelen hamur işi veya hafif sıcak yemekler."
+    },
+    {
+        "questionNumber": 58,
+        "question": "Continental Kahvaltı'nın içeriği nasıldır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Çok çeşitlidir; sosis, yumurta vardır.", "rationale": "Amerikan kahvaltısıdır.", "isCorrect": false },
+            { "text": "En sade kahvaltıdır; ekmek, tereyağı, reçel ve içecekten oluşur.", "rationale": "Avrupa tipi hafif kahvaltıdır.", "isCorrect": true },
+            { "text": "Balık ürünleri içerir.", "rationale": "İskandinav kahvaltısı olabilir.", "isCorrect": false },
+            { "text": "Çorba ile yapılır.", "rationale": "Anadolu kültürüdür.", "isCorrect": false },
+            { "text": "Sadece meyve vardır.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Fransa ve Türkiye otellerinde standart olan hafif başlangıç."
+    },
+    {
+        "questionNumber": 59,
+        "question": "Baking (Fırında Hamur/Sebze) pişirme yöntemi için hangi sıcaklık aralığı kullanılır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "100°C altı.", "rationale": "Kurutma yapar.", "isCorrect": false },
+            { "text": "140-250°C", "rationale": "Hamur işleri ve sebzeler (patates) için uygun aralıktır.", "isCorrect": true },
+            { "text": "300°C üzeri.", "rationale": "Yakabilir.", "isCorrect": false },
+            { "text": "Sadece 100°C.", "rationale": "Haşlama derecesidir.", "isCorrect": false },
+            { "text": "50-60°C.", "rationale": "Mayalama derecesidir.", "isCorrect": false }
+        ],
+        "hint": "Ekmek ve kek pişirme derecelerini düşünün."
+    },
+    {
+        "questionNumber": 60,
+        "question": "Emülgatör olarak soslarda en sık kullanılan malzeme hangisidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Un", "rationale": "Bağlayıcıdır (roux).", "isCorrect": false },
+            { "text": "Yumurta Sarısı", "rationale": "Lesitin içerdiği için en güçlü doğal emülgatördür.", "isCorrect": true },
+            { "text": "Şeker", "rationale": "Tatlandırıcıdır.", "isCorrect": false },
+            { "text": "Tuz", "rationale": "Lezzet vericidir.", "isCorrect": false },
+            { "text": "Sirke", "rationale": "Asittir.", "isCorrect": false }
+        ],
+        "hint": "Mayonez ve Hollandez sosun kilit malzemesidir."
+    },
+    {
+        "questionNumber": 61,
+        "question": "Pommes Croquette hazırlanırken patatese ne yapılır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Küp küp doğranır.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Haşlanıp ezilir, şekil verilir ve kızartılır.", "rationale": "Kroket yapım tekniğidir.", "isCorrect": true },
+            { "text": "Çiğden rendelenir.", "rationale": "Rösti benzeri olur.", "isCorrect": false },
+            { "text": "Kabuklu fırınlanır.", "rationale": "Kumpir benzeri olur.", "isCorrect": false },
+            { "text": "Sadece haşlanır.", "rationale": "Püre olur.", "isCorrect": false }
+        ],
+        "hint": "Dışı çıtır, içi yumuşak silindir şeklindeki patates."
+    },
+    {
+        "questionNumber": 62,
+        "question": "Hangi sos 'Kahverengi Sos' grubuna girer?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Beşamel", "rationale": "Beyazdır.", "isCorrect": false },
+            { "text": "Velute", "rationale": "Beyazdır.", "isCorrect": false },
+            { "text": "Demi-Glass", "rationale": "Kahverengi stock ve salça içerir, koyu renklidir.", "isCorrect": true },
+            { "text": "Hollandez", "rationale": "Sarıdır.", "isCorrect": false },
+            { "text": "Mayonez", "rationale": "Beyaz/Sarıdır.", "isCorrect": false }
+        ],
+        "hint": "Et yemeklerinin vazgeçilmez sosudur."
+    },
+    {
+        "questionNumber": 63,
+        "question": "Stock hazırlarken 'Bouquet Garni' ne amaçla kullanılır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Kıvam vermek için.", "rationale": "Un veya nişasta değildir.", "isCorrect": false },
+            { "text": "Aroma ve lezzet vermek için.", "rationale": "Ot ve baharat demetidir.", "isCorrect": true },
+            { "text": "Rengi koyulaştırmak için.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Mikropları öldürmek için.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Yağı emmek için.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Kekik, defne yaprağı ve maydanoz sapı demetidir."
+    },
+    {
+        "questionNumber": 64,
+        "question": "Larder Chef (Soğuk Şefi) aşağıdakilerden hangisinden sorumlu değildir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Etlerin parçalanması (Butcher).", "rationale": "Sorumluluğundadır.", "isCorrect": false },
+            { "text": "Sıcak sosların yapımı.", "rationale": "Saucier'in işidir.", "isCorrect": true },
+            { "text": "Soğuk büfe hazırlığı.", "rationale": "Sorumluluğundadır.", "isCorrect": false },
+            { "text": "Kanepe ve sandviçler.", "rationale": "Sorumluluğundadır.", "isCorrect": false },
+            { "text": "Salatalar.", "rationale": "Sorumluluğundadır.", "isCorrect": false }
+        ],
+        "hint": "Adı üzerinde 'Soğuk' mutfak şefidir, sıcakla uğraşmaz."
+    },
+    {
+        "questionNumber": 65,
+        "question": "Sous Chef'in mutfaktaki konumu nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "En alt kademe aşçıdır.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Bulaşıkçıdır.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Executive Chef'in yardımcısı ve operasyonel yöneticidir.", "rationale": "Doğru hiyerarşik konumdur.", "isCorrect": true },
+            { "text": "Sadece soslardan sorumludur.", "rationale": "Saucier'dir.", "isCorrect": false },
+            { "text": "Pastane şefidir.", "rationale": "Patissier'dir.", "isCorrect": false }
+        ],
+        "hint": "Şefin sağ koludur."
+    },
+    {
+        "questionNumber": 66,
+        "question": "Klasik menüde Çorbaların işlevi nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Karnı tamamen doyurmak.", "rationale": "Başlangıç yemeğidir.", "isCorrect": false },
+            { "text": "Tatlı isteğini bastırmak.", "rationale": "İlgisiz.", "isCorrect": false },
+            { "text": "Mideyi fiziken ve ruhen yemeğe hazırlamak.", "rationale": "Sıcaklığı ile mideyi rahatlatır, iştah açar.", "isCorrect": true },
+            { "text": "Susuzluğu gidermek.", "rationale": "Su içilir.", "isCorrect": false },
+            { "text": "Yemeği sonlandırmak.", "rationale": "Giriş yemeğidir.", "isCorrect": false }
+        ],
+        "hint": "Midenin ısınmasını sağlar."
+    },
+    {
+        "questionNumber": 67,
+        "question": "A'la Carte kahvaltının özelliği nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Hazır tabakta gelir, seçme şansı yoktur.", "rationale": "Table d'hote veya Set menü özelliğidir.", "isCorrect": false },
+            { "text": "Özel istek üzerine, siparişe göre hazırlanır.", "rationale": "Kişi ne isterse o pişirilir.", "isCorrect": true },
+            { "text": "Sadece açık büfedir.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Sadece kahve verilir.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Ücretsizdir.", "rationale": "Genelde ücretlidir.", "isCorrect": false }
+        ],
+        "hint": "Müşterinin tercihine göre omlet vb. yapılır."
+    },
+    {
+        "questionNumber": 68,
+        "question": "Shallow Fat Frying ne demektir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Derin yağda kızartma.", "rationale": "Deep frying.", "isCorrect": false },
+            { "text": "Az yağda kızartma.", "rationale": "Tavanın dibini kaplayacak kadar yağda pişirme.", "isCorrect": true },
+            { "text": "Yağsız kızartma.", "rationale": "Mümkün değil (Airfryer hariç).", "isCorrect": false },
+            { "text": "Haşlama.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Buharda pişirme.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Şnitzel gibi ürünler bu yöntemle pişirilir."
+    },
+    {
+        "questionNumber": 69,
+        "question": "Sebzeleri kaynar suya atıp kısa süre sonra buzlu suya alma işlemine ne ad verilir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Braising", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Roasting", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Blanching (Şoklama)", "rationale": "Tekniğin adıdır.", "isCorrect": true },
+            { "text": "Grilling", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Sautéing", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Renk ve diriliği korumak için yapılır."
+    },
+    {
+        "questionNumber": 70,
+        "question": "Pommes Mousseline nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Patates kızartması.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Patates püresi (Krema/tereyağı ile zenginleştirilmiş).", "rationale": "Muslin kumaşı gibi pürüzsüz püre.", "isCorrect": true },
+            { "text": "Patates salatası.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Haşlanmış bütün patates.", "rationale": "Nature.", "isCorrect": false },
+            { "text": "Patates cipsi.", "rationale": "Chips.", "isCorrect": false }
+        ],
+        "hint": "Püre grubunun en narin üyesidir."
+    },
+    {
+        "questionNumber": 71,
+        "question": "Garnitür tabağında dengeyi sağlamak için genelde hangi ikili kullanılır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "İki çeşit pilav.", "rationale": "Karbonhidrat dengesizliği olur.", "isCorrect": false },
+            { "text": "İki çeşit sebze.", "rationale": "Doyuruculuk azalabilir.", "isCorrect": false },
+            { "text": "Bir nişastalı (patates/pilav) ve bir sebze garnitürü.", "rationale": "İdeal denge kuralıdır.", "isCorrect": true },
+            { "text": "Sadece et.", "rationale": "Garnitür değildir.", "isCorrect": false },
+            { "text": "Meyve ve tatlı.", "rationale": "Ana yemek tabağı değildir.", "isCorrect": false }
+        ],
+        "hint": "Hem doyurucu hem sağlıklı olması için."
+    },
+    {
+        "questionNumber": 72,
+        "question": "Pilav pişirme tekniklerinden 'Kavurma Tekniği' nasıldır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Pirinç yağda kavrulur, sonra sıcak su eklenir.", "rationale": "En yaygın pilav yapım tekniğidir.", "isCorrect": true },
+            { "text": "Pirinç suya salınır.", "rationale": "Salma tekniğidir.", "isCorrect": false },
+            { "text": "Pirinç haşlanıp süzülür.", "rationale": "Haşlama tekniğidir.", "isCorrect": false },
+            { "text": "Pirinç fırınlanır.", "rationale": "Fırın pilavdır ama temel teknik değildir.", "isCorrect": false },
+            { "text": "Pirinç çiğ servis edilir.", "rationale": "Yenmez.", "isCorrect": false }
+        ],
+        "hint": "Pirincin şeffaflaşana kadar yağda çevrilmesi işlemidir."
+    },
+    {
+        "questionNumber": 73,
+        "question": "Beşamel sosun ana malzemeleri nelerdir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Et suyu ve un.", "rationale": "Velute veya Espagnole (kahverengi) olur.", "isCorrect": false },
+            { "text": "Süt, tereyağı, un, soğan, baharatlar.", "rationale": "Beşamel'in tam reçetesidir.", "isCorrect": true },
+            { "text": "Domates ve yağ.", "rationale": "Domates sos.", "isCorrect": false },
+            { "text": "Yumurta ve yağ.", "rationale": "Mayonez.", "isCorrect": false },
+            { "text": "Su ve nişasta.", "rationale": "Pelte olur.", "isCorrect": false }
+        ],
+        "hint": "Lazanya ve fırın makarnanın vazgeçilmez sosudur."
+    },
+    {
+        "questionNumber": 74,
+        "question": "Tavuk yemekleri için kullanılan beyaz sosa ne ad verilir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Velouté de Veau", "rationale": "Dana velutedir.", "isCorrect": false },
+            { "text": "Velouté de Poisson", "rationale": "Balık velutedir.", "isCorrect": false },
+            { "text": "Velouté de Volaille", "rationale": "Tavuk velutedir (Volaille = Kümes hayvanı).", "isCorrect": true },
+            { "text": "Beşamel", "rationale": "Sütlüdür.", "isCorrect": false },
+            { "text": "Hollandez", "rationale": "Yumurtalıdır.", "isCorrect": false }
+        ],
+        "hint": "Fransızca kümes hayvanı 'Volaille' kelimesinden gelir."
+    },
+    {
+        "questionNumber": 75,
+        "question": "Stock yapımında kullanılan kemiklerin boyutu neden 6-8 cm olmalıdır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Tencereye sığması için.", "rationale": "Yan sebep olabilir.", "isCorrect": false },
+            { "text": "Jelatinin ve aromanın daha çabuk suya geçmesi için.", "rationale": "Yüzey alanı artırılır.", "isCorrect": true },
+            { "text": "Daha geç pişmesi için.", "rationale": "Aksine hızlı pişmesi istenir.", "isCorrect": false },
+            { "text": "Görüntü için.", "rationale": "Süzüleceği için önemsizdir.", "isCorrect": false },
+            { "text": "Kemik iliğini saklamak için.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Bütün kemikten özü çıkarmak zordur."
+    },
+    {
+        "questionNumber": 76,
+        "question": "Mutfak organizasyonunda 'Chef Poissonier' ne iş yapar?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Sadece tatlı yapar.", "rationale": "Patissier.", "isCorrect": false },
+            { "text": "Tava/ızgara dışındaki sıcak balık yemeklerini ve soslarını yapar.", "rationale": "Balık şefinin görevidir.", "isCorrect": true },
+            { "text": "Et kızartır.", "rationale": "Rotisseur.", "isCorrect": false },
+            { "text": "Çorba yapar.", "rationale": "Potager.", "isCorrect": false },
+            { "text": "Soğuk meze yapar.", "rationale": "Larder.", "isCorrect": false }
+        ],
+        "hint": "Balıkların pişirilmesinden sorumludur."
+    },
+    {
+        "questionNumber": 77,
+        "question": "Modern menü kaç çeşitten oluşur?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "12-15 çeşit.", "rationale": "Klasik menüdür.", "isCorrect": false },
+            { "text": "1-2 çeşit.", "rationale": "Çok azdır.", "isCorrect": false },
+            { "text": "5-8 çeşit.", "rationale": "Klasik menünün sadeleşmiş halidir.", "isCorrect": true },
+            { "text": "20 çeşit.", "rationale": "Tadım menüsü olabilir ama standart değildir.", "isCorrect": false },
+            { "text": "Sınırsız.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Klasik menüye göre daha sade ve ekonomiktir."
+    },
+    {
+        "questionNumber": 78,
+        "question": "Hollanda kahvaltısının karakteristik özelliği nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Havyar bulunması.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Yulaf ezmesi ve ballı kek içermesi.", "rationale": "Hollanda'ya özgü detaydır.", "isCorrect": true },
+            { "text": "Sadece kahve içilmesi.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Bol baharatlı olması.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Akşam yenmesi.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Tatlı ve tahıl ağırlıklıdır."
+    },
+    {
+        "questionNumber": 79,
+        "question": "Pişirme yöntemlerinden 'Grilling'de mühürleme kaç derecede yapılır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "100°C", "rationale": "Düşüktür.", "isCorrect": false },
+            { "text": "150°C", "rationale": "Düşüktür.", "isCorrect": false },
+            { "text": "220-250°C", "rationale": "Eti şoklamak ve suyunu hapsetmek için yüksek ısı gerekir.", "isCorrect": true },
+            { "text": "300°C", "rationale": "Çok yüksek, yakabilir.", "isCorrect": false },
+            { "text": "500°C", "rationale": "Endüstriyel fırın ısısıdır, ızgara için çoktur.", "isCorrect": false }
+        ],
+        "hint": "Etin yüzeyinin hızla karamelize olması gerekir."
+    },
+    {
+        "questionNumber": 80,
+        "question": "Mire Poix karışımı hangi sebzelerden oluşur?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Domates, biber, patlıcan.", "rationale": "Türlü malzemesidir.", "isCorrect": false },
+            { "text": "Soğukluk, roka, tere.", "rationale": "Salata malzemesidir.", "isCorrect": false },
+            { "text": "Eşit miktarda havuç, kereviz, soğan, pırasa.", "rationale": "Klasik mire poix formülüdür.", "isCorrect": true },
+            { "text": "Patates, soğan, sarımsak.", "rationale": "Patates kullanılmaz.", "isCorrect": false },
+            { "text": "Lahana, karnabahar, brokoli.", "rationale": "Koku yapar, kullanılmaz.", "isCorrect": false }
+        ],
+        "hint": "Stock ve soslara lezzet veren temel sebze grubudur."
+    },
+    {
+        "questionNumber": 81,
+        "question": "Aşağıdakilerden hangisi garnitürün satışa katkısını açıklar?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Yemeği daha ucuza mal etmesi.", "rationale": "Maliyeti artırabilir.", "isCorrect": false },
+            { "text": "Görünüşü güzelleştirerek iştah açması ve müşteriyi cezbetmesi.", "rationale": "Görsel sunum pazarlamanın bir parçasıdır.", "isCorrect": true },
+            { "text": "Yemeği soğutması.", "rationale": "İstenmez.", "isCorrect": false },
+            { "text": "Porsiyonu küçültmesi.", "rationale": "Porsiyonu zenginleştirir.", "isCorrect": false },
+            { "text": "Aşçının işini zorlaştırması.", "rationale": "Satışla ilgili değildir.", "isCorrect": false }
+        ],
+        "hint": "Gözü doyan müşterinin sipariş verme ihtimali artar."
+    },
+    {
+        "questionNumber": 82,
+        "question": "Pommes Sautées a'cru nasıl hazırlanır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Çiğ patatesin tavada sotelenmesiyle.", "rationale": "'Cru' çiğ demektir.", "isCorrect": true },
+            { "text": "Haşlanmış patatesin sotelenmesiyle.", "rationale": "Farklı bir isim alır.", "isCorrect": false },
+            { "text": "Fırınlanarak.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Püre yapılarak.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Kızartılarak.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "'Cru' kelimesi Fransızca 'Çiğ' anlamına gelir."
+    },
+    {
+        "questionNumber": 83,
+        "question": "Pilav yapımında kullanılan 'Kuskus' nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Bir pirinç türüdür.", "rationale": "Değildir.", "isCorrect": false },
+            { "text": "İrmikten yapılan küçük makarna toplarıdır.", "rationale": "Kuskusun tanımıdır.", "isCorrect": true },
+            { "text": "Bulgur çeşididir.", "rationale": "Buğday kırığı değildir.", "isCorrect": false },
+            { "text": "Sebze kurusudur.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Baharat karışımıdır.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Genelde Kuzey Afrika mutfağıyla özdeşleşmiştir."
+    },
+    {
+        "questionNumber": 84,
+        "question": "Mayonez yaparken dikkat edilmesi gereken en önemli kural nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Yağın hepsini birden dökmek.", "rationale": "Sos kesilir.", "isCorrect": false },
+            { "text": "Yağı ip gibi ince ince akıtarak sürekli çırpmak.", "rationale": "Emülsiyonun oluşması için şarttır.", "isCorrect": true },
+            { "text": "Sıcak yağ kullanmak.", "rationale": "Yumurta pişer, mayonez olmaz.", "isCorrect": false },
+            { "text": "Hiç karıştırmamak.", "rationale": "Karışmaz.", "isCorrect": false },
+            { "text": "Su eklemek.", "rationale": "Kıvamı bozar.", "isCorrect": false }
+        ],
+        "hint": "Yağ ve yumurtanın bütünleşmesi sabır ister."
+    },
+    {
+        "questionNumber": 85,
+        "question": "Aşağıdakilerden hangisi Hollandez sosun kesilme sebeplerinden biri olabilir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Tereyağının çok sıcak eklenmesi.", "rationale": "Yumurtayı pişirir ve sos kesilir.", "isCorrect": true },
+            { "text": "Yumurtanın taze olması.", "rationale": "İyi bir şeydir.", "isCorrect": false },
+            { "text": "Benmari usulü pişirilmesi.", "rationale": "Doğru tekniktir.", "isCorrect": false },
+            { "text": "Limon suyu konulması.", "rationale": "Gereklidir.", "isCorrect": false },
+            { "text": "Tuz atılması.", "rationale": "Etkilemez.", "isCorrect": false }
+        ],
+        "hint": "Isı dengesi çok hassastır."
+    },
+    {
+        "questionNumber": 86,
+        "question": "Balık stocklarında neden soğuk su kullanılır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Daha hızlı pişmesi için.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Balığın kokusunu artırmak için.", "rationale": "İstenmez.", "isCorrect": false },
+            { "text": "Albüminlerin yavaşça pıhtılaşıp yüzeye çıkması ve suyun berrak olması için.", "rationale": "Tüm stocklar için geçerli kuraldır.", "isCorrect": true },
+            { "text": "Balığın erimesini sağlamak için.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Tuzunu almak için.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Bulanık bir balık suyu (Fumet) istenmez."
+    },
+    {
+        "questionNumber": 87,
+        "question": "Mutfakta 'Chef Potager'in görevi nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Patates soymak.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Sıcak çorbaları ve garnitürlerini hazırlamak.", "rationale": "Potager = Çorbacı.", "isCorrect": true },
+            { "text": "Tencere yıkamak.", "rationale": "Steward.", "isCorrect": false },
+            { "text": "Pide yapmak.", "rationale": "Fırıncı.", "isCorrect": false },
+            { "text": "Izgara yapmak.", "rationale": "Rotisseur.", "isCorrect": false }
+        ],
+        "hint": "'Pot' tencere demektir, tencere yemekleri/çorbalar ondan sorulur."
+    },
+    {
+        "questionNumber": 88,
+        "question": "Carte du Jour ne demektir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "İçecek menüsü.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Tatlı kartı.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Günün yemeği / Günün kartı.", "rationale": "O güne özel çıkan menüdür.", "isCorrect": true },
+            { "text": "Çocuk menüsü.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Hesap fişi.", "rationale": "Addition.", "isCorrect": false }
+        ],
+        "hint": "Restoranlarda şefin o günkü özel tavsiyesidir."
+    },
+    {
+        "questionNumber": 89,
+        "question": "Suda Haşlama (Boiling) derecesi kaçtır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "80°C", "rationale": "Simmering altı.", "isCorrect": false },
+            { "text": "90°C", "rationale": "Simmering.", "isCorrect": false },
+            { "text": "100°C", "rationale": "Suyun kaynama noktasıdır.", "isCorrect": true },
+            { "text": "120°C", "rationale": "Normal basınçta su buharlaşır.", "isCorrect": false },
+            { "text": "150°C", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Fokurdayan suyun derecesidir."
+    },
+    {
+        "questionNumber": 90,
+        "question": "Hangi patates garnitürü 'Haşlanarak Hazırlananlar' grubuna girer?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Pommes Frites", "rationale": "Kızartma.", "isCorrect": false },
+            { "text": "Pommes A'l'anglaise", "rationale": "Şekil verilip haşlanan patatestir.", "isCorrect": true },
+            { "text": "Pommes Croquette", "rationale": "Kroket.", "isCorrect": false },
+            { "text": "Pommes Soufflés", "rationale": "Kızartma.", "isCorrect": false },
+            { "text": "Pommes Lyonnaise", "rationale": "Sote.", "isCorrect": false }
+        ],
+        "hint": "İngiliz usulü haşlama."
+    },
+    {
+        "questionNumber": 91,
+        "question": "Beşamel sosta 'Garnish Onion' (Defneli Soğan) neden kullanılır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Sosu koyulaştırmak için.", "rationale": "Un yapar.", "isCorrect": false },
+            { "text": "Rengini sarartmak için.", "rationale": "İstenmez.", "isCorrect": false },
+            { "text": "Aroma ve lezzet vermek için.", "rationale": "Süte lezzet katar.", "isCorrect": true },
+            { "text": "Sütü kesmek için.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Acılık vermek için.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Soğana karanfil saplanarak sütün içine atılır."
+    },
+    {
+        "questionNumber": 92,
+        "question": "Remouillage (İkinci Stock) genelde nerelerde kullanılır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Doğrudan müşteri çorbasında.", "rationale": "Lezzeti zayıftır.", "isCorrect": false },
+            { "text": "Bir sonraki stock yapımında su yerine.", "rationale": "Lezzeti artırmak için kullanılır.", "isCorrect": true },
+            { "text": "Tatlı yapımında.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Bulaşık yıkarken.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Çiçek sularken.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Zayıf olduğu için tek başına kullanılmaz, güçlendirilir."
+    },
+    {
+        "questionNumber": 93,
+        "question": "Mutfak personelinden 'Aboyeur' ne iş yapar?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Yemek pişirir.", "rationale": "Aşçıdır.", "isCorrect": false },
+            { "text": "Servis ve mutfak arasındaki iletişimi sağlar, siparişleri bağırarak duyurur.", "rationale": "Eskiden 'havlayan' anlamına gelen duyurucudur.", "isCorrect": true },
+            { "text": "Temizlik yapar.", "rationale": "Steward.", "isCorrect": false },
+            { "text": "Satın alma yapar.", "rationale": "Şef veya satın almacı.", "isCorrect": false },
+            { "text": "Müşteri karşılar.", "rationale": "Hostess.", "isCorrect": false }
+        ],
+        "hint": "Sipariş fişlerini okuyan kişidir."
+    },
+    {
+        "questionNumber": 94,
+        "question": "Klasik menüde 'Soğuk Ordövrler' neden ilk sırada yer alır?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Mideyi yormadan iştah açmak için.", "rationale": "Hafif başlangıçlardır.", "isCorrect": true },
+            { "text": "En pahalı oldukları için.", "rationale": "Her zaman değil.", "isCorrect": false },
+            { "text": "Sıcak yemekler hazır olmadığı için.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Garsonların işini kolaylaştırmak için.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Tatlı gibi oldukları için.", "rationale": "Tuzludurlar.", "isCorrect": false }
+        ],
+        "hint": "Zeytinyağlılar veya füme etler gibi iştah açıcılar."
+    },
+    {
+        "questionNumber": 95,
+        "question": "Danimarka kahvaltısında ne tür yiyecekler öne çıkar?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Sadece meyve.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Balık ve soğuk etler.", "rationale": "Kuzey ülkesi özelliğidir.", "isCorrect": true },
+            { "text": "Sıcak çorba.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Bol baharatlı yemekler.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Pirinç lapası.", "rationale": "Asya kahvaltısı.", "isCorrect": false }
+        ],
+        "hint": "İskandinav mutfağı soğuk deniz ürünlerini sever."
+    },
+    {
+        "questionNumber": 96,
+        "question": "Kemik/etleri soğuk suda kaynama noktasına getirme işlemine ne denir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Blanching (Soğuk Suda).", "rationale": "Kan ve kef temizliği için yapılır.", "isCorrect": true },
+            { "text": "Frying.", "rationale": "Kızartma.", "isCorrect": false },
+            { "text": "Grilling.", "rationale": "Izgara.", "isCorrect": false },
+            { "text": "Roasting.", "rationale": "Fırınlama.", "isCorrect": false },
+            { "text": "Sauteing.", "rationale": "Soteleme.", "isCorrect": false }
+        ],
+        "hint": "Stock yapımının ön hazırlık aşamasıdır."
+    },
+    {
+        "questionNumber": 97,
+        "question": "Pommes Williams hangi şekle sahiptir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Küp.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Parmak.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Armut.", "rationale": "Kroket hamuruna armut şekli verilir.", "isCorrect": true },
+            { "text": "Top.", "rationale": "Pommes Noisette.", "isCorrect": false },
+            { "text": "Halka.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Adını bir armut çeşidinden alır."
+    },
+    {
+        "questionNumber": 98,
+        "question": "Emülsiyon nedir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Birbiriyle karışmayan iki sıvının birleşmesi.", "rationale": "Yağ ve su gibi.", "isCorrect": true },
+            { "text": "Katı ve sıvının karışması.", "rationale": "Süspansiyon veya çözelti olabilir.", "isCorrect": false },
+            { "text": "Sadece yağların karışması.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Sütün kaynatılması.", "rationale": "Yanlış.", "isCorrect": false },
+            { "text": "Etin mühürlenmesi.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Mayonez bunun en iyi örneğidir."
+    },
+    {
+        "questionNumber": 99,
+        "question": "Aşağıdakilerden hangisi bir 'Sote' patates çeşididir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Pommes Lyonnaise", "rationale": "Soğanla sote edilmiş patatestir.", "isCorrect": true },
+            { "text": "Pommes Puree", "rationale": "Püre.", "isCorrect": false },
+            { "text": "Pommes Duchesse", "rationale": "Kroket/Püre sıkma.", "isCorrect": false },
+            { "text": "Pommes Pont-Neuf", "rationale": "Kızartma.", "isCorrect": false },
+            { "text": "Pommes Natur", "rationale": "Haşlama.", "isCorrect": false }
+        ],
+        "hint": "Lyon usulü, yani soğanlı."
+    },
+    {
+        "questionNumber": 100,
+        "question": "Mutfak sınavında başarılı olmak için bu özetteki hangi bilgiye dikkat edilmelidir?",
+        "imageUrl": null,
+        "answerOptions": [
+            { "text": "Sadece patates isimlerine.", "rationale": "Yetersiz.", "isCorrect": false },
+            { "text": "Sadece pişirme derecelerine.", "rationale": "Yetersiz.", "isCorrect": false },
+            { "text": "Tüm konulara, tanımlara, sınıflandırmalara ve teknik detaylara.", "rationale": "Özetin başında belirtilen kapsamdır.", "isCorrect": true },
+            { "text": "Sadece menü sıralamasına.", "rationale": "Yetersiz.", "isCorrect": false },
+            { "text": "Hiçbirine.", "rationale": "Yanlış.", "isCorrect": false }
+        ],
+        "hint": "Kapsamlı bir çalışma gerektirir."
+    }
+  ]
+}

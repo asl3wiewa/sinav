@@ -1,85 +1,85 @@
 const TESTS = {
   "genel-turizm": {
     title: "Genel Turizm Testi",
-    dataUrl: "vize/genel-turizm.json",
+    dataUrl: "1-donem/vize/genel-turizm.json",
   },
   "genel-turizm-final": {
     title: "Genel Turizm Testi 1 (Final)",
-    dataUrl: "final/genel-turizm.json",
+    dataUrl: "1-donem/final/genel-turizm.json",
   },
   "genel-turizm-2-final": {
     title: "Genel Turizm Testi 2 (Final)",
-    dataUrl: "final/genel-turizm-2.json",
+    dataUrl: "1-donem/final/genel-turizm-2.json",
   },
   ziyafet: {
     title: "Ziyafet Testi 1",
-    dataUrl: "vize/ziyafet.json",
+    dataUrl: "1-donem/vize/ziyafet.json",
   },
   ziyafet2: {
     title: "Ziyafet Testi 2",
-    dataUrl: "vize/ziyafet-2.json",
+    dataUrl: "1-donem/vize/ziyafet-2.json",
   },
   "ziyafet-final": {
     title: "Ziyafet Testi (Final)",
-    dataUrl: "final/ziyafet.json",
+    dataUrl: "1-donem/final/ziyafet.json",
   },
   "turizm-cografyasi-2": {
     title: "Turizm Coğrafyası II",
-    dataUrl: "vize/turizm-cografyasi-2.json",
+    dataUrl: "1-donem/vize/turizm-cografyasi-2.json",
   },
   "turizm-cografyasi-2-2": {
     title: "Turizm Coğrafyası II - 2",
-    dataUrl: "vize/turizm-cografyasi-2-2.json",
+    dataUrl: "1-donem/vize/turizm-cografyasi-2-2.json",
   },
   "turizm-cografyasi-2-final": {
     title: "Turizm Coğrafyası II Testi 1 (Final)",
-    dataUrl: "final/turizm-cografyasi-2.json",
+    dataUrl: "1-donem/final/turizm-cografyasi-2.json",
   },
   "turizm-cografyasi-2-2-final": {
     title: "Turizm Coğrafyası II Testi 2 (Final)",
-    dataUrl: "final/turizm-cografyasi-2-2.json",
+    dataUrl: "1-donem/final/turizm-cografyasi-2-2.json",
   },
   "turizmde-etik": {
     title: "Turizmde Etik",
-    dataUrl: "vize/turizmde-etik.json",
+    dataUrl: "1-donem/vize/turizmde-etik.json",
   },
   "turizmde-etik-2": {
     title: "Turizmde Etik 2",
-    dataUrl: "vize/turizmde-etik-2.json",
+    dataUrl: "1-donem/vize/turizmde-etik-2.json",
   },
   "turizmde-etik-3": {
     title: "Turizmde Etik 3",
-    dataUrl: "vize/turizmde-etik-3.json",
+    dataUrl: "1-donem/vize/turizmde-etik-3.json",
   },
   "turizmde-etik-final": {
     title: "Turizmde Etik Testi 1 (Final)",
-    dataUrl: "final/turizmde-etik.json",
+    dataUrl: "1-donem/final/turizmde-etik.json",
   },
   "turizmde-etik-2-final": {
     title: "Turizmde Etik Testi 2 (Final)",
-    dataUrl: "final/turizmde-etik-2.json",
+    dataUrl: "1-donem/final/turizmde-etik-2.json",
   },
   "bagimlilik-ve-bagimlilikla-mucadele": {
     title: "Bağımlılık ve Bağımlılıkla Mücadele",
-    dataUrl: "vize/bagimlilik-ve-bagimlilikla-mucadele.json",
+    dataUrl: "1-donem/vize/bagimlilik-ve-bagimlilikla-mucadele.json",
   },
   "bagimlilik-ve-bagimlilikla-mucadele-2": {
     title: "Bağımlılık ve Bağımlılıkla Mücadele 2",
-    dataUrl: "vize/bagimlilik-ve-bagimlilikla-mucadele-2.json",
+    dataUrl: "1-donem/vize/bagimlilik-ve-bagimlilikla-mucadele-2.json",
   },
   "bagimlilik-ve-bagimlilikla-mucadele-final": {
     title: "Bağımlılık ve Bağımlılıkla Mücadele Testi 1 (Final)",
-    dataUrl: "final/bagimlilik-ve-bagimlilikla-mucadele.json",
+    dataUrl: "1-donem/final/bagimlilik-ve-bagimlilikla-mucadele.json",
   },
   "bagimlilik-ve-bagimlilikla-mucadele-2-final": {
     title: "Bağımlılık ve Bağımlılıkla Mücadele Testi 2 (Final)",
-    dataUrl: "final/bagimlilik-ve-bagimlilikla-mucadele-2.json",
+    dataUrl: "1-donem/final/bagimlilik-ve-bagimlilikla-mucadele-2.json",
   },
   "kat-hizmetleri": {
 
     title: "Kat Hizmetleri Testi 1",
 
-    dataUrl: "vize/kat-hizmetleri.json",
+    dataUrl: "1-donem/vize/kat-hizmetleri.json",
 
   },
 
@@ -87,7 +87,7 @@ const TESTS = {
 
     title: "Kat Hizmetleri Testi 2",
 
-    dataUrl: "vize/kat-hizmetleri-2.json",
+    dataUrl: "1-donem/vize/kat-hizmetleri-2.json",
 
   },
 
@@ -95,7 +95,7 @@ const TESTS = {
 
     title: "Kat Hizmetleri Testi 3",
 
-    dataUrl: "vize/kat-hizmetleri-3.json",
+    dataUrl: "1-donem/vize/kat-hizmetleri-3.json",
 
   },
 
@@ -103,7 +103,7 @@ const TESTS = {
 
     title: "Kat Hizmetleri Testi 1 (Final)",
 
-    dataUrl: "final/kat-hizmetleri.json",
+    dataUrl: "1-donem/final/kat-hizmetleri.json",
 
   },
 
@@ -111,14 +111,14 @@ const TESTS = {
 
     title: "Kat Hizmetleri Testi 2 (Final)",
 
-    dataUrl: "final/kat-hizmetleri-2.json",
+    dataUrl: "1-donem/final/kat-hizmetleri-2.json",
 
   },
   "camasirhane-kontrolu": {
 
     title: "Camasirhane Kontrolu Testi 1",
 
-    dataUrl: "vize/camasirhane-kontrolu.json",
+    dataUrl: "1-donem/vize/camasirhane-kontrolu.json",
 
   },
 
@@ -126,7 +126,7 @@ const TESTS = {
 
     title: "Camasirhane Kontrolu Testi 2",
 
-    dataUrl: "vize/camasirhane-kontrolu-2.json",
+    dataUrl: "1-donem/vize/camasirhane-kontrolu-2.json",
 
   },
 
@@ -134,7 +134,7 @@ const TESTS = {
 
     title: "Camasirhane Kontrolu Testi 3",
 
-    dataUrl: "vize/camasirhane-kontrolu-3.json",
+    dataUrl: "1-donem/vize/camasirhane-kontrolu-3.json",
 
   },
 
@@ -142,7 +142,7 @@ const TESTS = {
 
     title: "Camasirhane Kontrolu Testi (Final)",
 
-    dataUrl: "final/camasirhane-kontrolu.json",
+    dataUrl: "1-donem/final/camasirhane-kontrolu.json",
 
   },
 
@@ -150,7 +150,7 @@ const TESTS = {
 
     title: "On Buro Hizmetleri Testi 1 (Final)",
 
-    dataUrl: "final/on-buro-hizmetleri.json",
+    dataUrl: "1-donem/final/on-buro-hizmetleri.json",
 
   },
 
@@ -158,7 +158,7 @@ const TESTS = {
 
     title: "On Buro Hizmetleri Testi 2 (Final)",
 
-    dataUrl: "final/on-buro-hizmetleri-2.json",
+    dataUrl: "1-donem/final/on-buro-hizmetleri-2.json",
 
   },
 
@@ -166,7 +166,7 @@ const TESTS = {
 
     title: "On Buro Hizmetleri Testi 3 (Final)",
 
-    dataUrl: "final/on-buro-hizmetleri-3.json",
+    dataUrl: "1-donem/final/on-buro-hizmetleri-3.json",
 
   },
 
@@ -174,7 +174,7 @@ const TESTS = {
 
     title: "On Buro Hizmetleri Testi 1 (Vize)",
 
-    dataUrl: "vize/on-buro-hizmetleri.json",
+    dataUrl: "1-donem/vize/on-buro-hizmetleri.json",
 
   },
 
@@ -182,7 +182,7 @@ const TESTS = {
 
     title: "On Buro Hizmetleri Testi 2 (Vize)",
 
-    dataUrl: "vize/on-buro-hizmetleri-2.json",
+    dataUrl: "1-donem/vize/on-buro-hizmetleri-2.json",
 
   },
 
@@ -190,7 +190,7 @@ const TESTS = {
 
     title: "Mesleki Yabancı Dil I Testi 1",
 
-    dataUrl: "vize/mesleki-yabanci-dil-1.json",
+    dataUrl: "1-donem/vize/mesleki-yabanci-dil-1.json",
 
   },
 
@@ -198,7 +198,7 @@ const TESTS = {
 
     title: "Mesleki Yabancı Dil I Testi 2",
 
-    dataUrl: "vize/mesleki-yabanci-dil-1-2.json",
+    dataUrl: "1-donem/vize/mesleki-yabanci-dil-1-2.json",
 
   },
 
@@ -206,7 +206,7 @@ const TESTS = {
 
     title: "Mesleki Yabancı Dil I Testi 3",
 
-    dataUrl: "vize/mesleki-yabanci-dil-1-3.json",
+    dataUrl: "1-donem/vize/mesleki-yabanci-dil-1-3.json",
 
   },
 
@@ -214,7 +214,7 @@ const TESTS = {
 
     title: "Mesleki Yabancı Dil I Testi 1 (Final)",
 
-    dataUrl: "final/mesleki-yabanci-dil-1.json",
+    dataUrl: "1-donem/final/mesleki-yabanci-dil-1.json",
 
   },
 
@@ -222,7 +222,7 @@ const TESTS = {
 
     title: "Mesleki Yabancı Dil I Testi 2 (Final)",
 
-    dataUrl: "final/mesleki-yabanci-dil-1-2.json",
+    dataUrl: "1-donem/final/mesleki-yabanci-dil-1-2.json",
 
   },
 
@@ -230,7 +230,7 @@ const TESTS = {
 
     title: "Yiyecek ve Icecek Servisi I Testi 1",
 
-    dataUrl: "vize/yiyecek-ve-icecek-servisi-1.json",
+    dataUrl: "1-donem/vize/yiyecek-ve-icecek-servisi-1.json",
 
   },
 
@@ -238,7 +238,7 @@ const TESTS = {
 
     title: "Yiyecek ve Icecek Servisi I Testi 2",
 
-    dataUrl: "vize/yiyecek-ve-icecek-servisi-1-2.json",
+    dataUrl: "1-donem/vize/yiyecek-ve-icecek-servisi-1-2.json",
 
   },
 
@@ -246,7 +246,7 @@ const TESTS = {
 
     title: "Yiyecek ve Icecek Servisi I Testi 3",
 
-    dataUrl: "vize/yiyecek-ve-icecek-servisi-1-3.json",
+    dataUrl: "1-donem/vize/yiyecek-ve-icecek-servisi-1-3.json",
 
   },
 
@@ -254,7 +254,7 @@ const TESTS = {
 
     title: "Yiyecek ve Icecek Servisi I Testi 1 (Final)",
 
-    dataUrl: "final/yiyecek-ve-icecek-servisi-1.json",
+    dataUrl: "1-donem/final/yiyecek-ve-icecek-servisi-1.json",
 
   },
 
@@ -262,7 +262,7 @@ const TESTS = {
 
     title: "Yiyecek ve Icecek Servisi I Testi 2 (Final)",
 
-    dataUrl: "final/yiyecek-ve-icecek-servisi-1-2.json",
+    dataUrl: "1-donem/final/yiyecek-ve-icecek-servisi-1-2.json",
 
   },
 
@@ -270,23 +270,47 @@ const TESTS = {
 
     title: "Yiyecek ve Icecek Servisi I Testi 3 (Final)",
 
-    dataUrl: "final/yiyecek-ve-icecek-servisi-1-3.json",
+    dataUrl: "1-donem/final/yiyecek-ve-icecek-servisi-1-3.json",
 
   },
 
   "yiyecek-ve-icecek-servisi-1-4-final": {
-
+ 
     title: "Yiyecek ve Icecek Servisi I Testi 4 (Final)",
+ 
+    dataUrl: "1-donem/final/yiyecek-ve-icecek-servisi-1-4.json",
+ 
+  },
 
-    dataUrl: "final/yiyecek-ve-icecek-servisi-1-4.json",
+  "yiyecek-ve-icecek-servisi-2-1": {
+
+    title: "Yiyecek ve Icecek Servisi II Testi 1",
+
+    dataUrl: "2-donem/vize/yiyecek-ve-icecek-servisi-2-1.json",
 
   },
 
+  "yiyecek-ve-icecek-servisi-2-2": {
+
+    title: "Yiyecek ve Icecek Servisi II Testi 2",
+
+    dataUrl: "2-donem/vize/yiyecek-ve-icecek-servisi-2-2.json",
+
+  },
+
+  "yiyecek-ve-icecek-servisi-2-3": {
+
+    title: "Yiyecek ve Icecek Servisi II Testi 3",
+
+    dataUrl: "2-donem/vize/yiyecek-ve-icecek-servisi-2-3.json",
+
+  },
+ 
   "turizm-ve-cevre": {
 
     title: "Turizm ve Cevre Testi 1",
 
-    dataUrl: "vize/turizm-ve-cevre.json",
+    dataUrl: "1-donem/vize/turizm-ve-cevre.json",
 
   },
 
@@ -294,7 +318,7 @@ const TESTS = {
 
     title: "Turizm ve Cevre Testi 2",
 
-    dataUrl: "vize/turizm-ve-cevre-2.json",
+    dataUrl: "1-donem/vize/turizm-ve-cevre-2.json",
 
   },
 
@@ -302,7 +326,7 @@ const TESTS = {
 
     title: "Turizm ve Cevre Testi 3",
 
-    dataUrl: "vize/turizm-ve-cevre-3.json",
+    dataUrl: "1-donem/vize/turizm-ve-cevre-3.json",
 
   },
 
@@ -310,7 +334,7 @@ const TESTS = {
 
     title: "Turizmde Rekreasyon Testi 1",
 
-    dataUrl: "vize/turizmde-rekreasyon.json",
+    dataUrl: "1-donem/vize/turizmde-rekreasyon.json",
 
   },
 
@@ -318,7 +342,7 @@ const TESTS = {
 
     title: "Turizmde Rekreasyon Testi 2",
 
-    dataUrl: "vize/turizmde-rekreasyon-2.json",
+    dataUrl: "1-donem/vize/turizmde-rekreasyon-2.json",
 
   },
 
@@ -326,7 +350,7 @@ const TESTS = {
 
     title: "Turizmde Rekreasyon Testi 1 (Final)",
 
-    dataUrl: "final/turizmde-rekreasyon.json",
+    dataUrl: "1-donem/final/turizmde-rekreasyon.json",
 
   },
 
@@ -334,7 +358,7 @@ const TESTS = {
 
     title: "Turizmde Rekreasyon Testi 2 (Final)",
 
-    dataUrl: "final/turizmde-rekreasyon-2.json",
+    dataUrl: "1-donem/final/turizmde-rekreasyon-2.json",
 
   },
 
@@ -342,7 +366,7 @@ const TESTS = {
 
     title: "Turizmde Rekreasyon Testi 3 (Final)",
 
-    dataUrl: "final/turizmde-rekreasyon-3.json",
+    dataUrl: "1-donem/final/turizmde-rekreasyon-3.json",
 
   },
 
@@ -350,7 +374,7 @@ const TESTS = {
 
     title: "Turizm ve Cevre Testi 1 (Final)",
 
-    dataUrl: "final/turizm-ve-cevre.json",
+    dataUrl: "1-donem/final/turizm-ve-cevre.json",
 
   },
 
@@ -358,7 +382,7 @@ const TESTS = {
 
     title: "Turizm ve Cevre Testi 2 (Final)",
 
-    dataUrl: "final/turizm-ve-cevre-2.json",
+    dataUrl: "1-donem/final/turizm-ve-cevre-2.json",
 
   },
 
@@ -366,7 +390,7 @@ const TESTS = {
 
     title: "Turizm ve Cevre Testi 3 (Final)",
 
-    dataUrl: "final/turizm-ve-cevre-3.json",
+    dataUrl: "1-donem/final/turizm-ve-cevre-3.json",
 
   },
 
@@ -458,11 +482,17 @@ const TEST_ALIASES = {
   "yiyecek ve icecek servisi i 2 final": "yiyecek-ve-icecek-servisi-1-2-final",
 
   "yiyecek ve icecek servisi i 3 final": "yiyecek-ve-icecek-servisi-1-3-final",
-
+ 
   "yiyecek ve icecek servisi i 4 final": "yiyecek-ve-icecek-servisi-1-4-final",
 
+  "yiyecek ve icecek servisi ii 1": "yiyecek-ve-icecek-servisi-2-1",
 
+  "yiyecek ve icecek servisi ii 2": "yiyecek-ve-icecek-servisi-2-2",
 
+  "yiyecek ve icecek servisi ii 3": "yiyecek-ve-icecek-servisi-2-3",
+ 
+ 
+ 
 
 };
 const DEFAULT_TEST = "genel-turizm";
@@ -1202,3 +1232,4 @@ function updateReviewUI() {
     elements.finishBtn.classList.toggle("hidden", state.summaryVisible);
   }
 }
+

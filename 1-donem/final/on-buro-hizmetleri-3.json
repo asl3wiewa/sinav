@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "İşin özelliklerini, sorumluluklarını ve diğer işlerle ilişkisini belirleyen yazılı belgeye ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş Analizi", "rationale": "İş analizi belgenin kendisi değil, araştırma sürecidir.", "isCorrect": false },
+        { "text": "İş Tanımı", "rationale": "İş tanımı, analiz sonucu ortaya çıkan yazılı belgedir.", "isCorrect": true },
+        { "text": "İş Gerekleri", "rationale": "İş gerekleri personelde aranan niteliklerdir.", "isCorrect": false },
+        { "text": "Performans Raporu", "rationale": "Bu, personelin değerlendirilmesiyle ilgilidir.", "isCorrect": false },
+        { "text": "Görev Dağılım Çizelgesi", "rationale": "Bu sadece kimin ne yapacağını gösterir, işin içeriğini tanımlamaz.", "isCorrect": false }
+      ],
+      "hint": "Analiz sürecinin 'çıktısı' olan belgeyi düşünün."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Önbüro yöneticisi organizasyon şemasında kime bağlı olarak çalışır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Muhasebe Müdürü", "rationale": "Önbüro finansla ilgili olsa da muhasebeye bağlı değildir.", "isCorrect": false },
+        { "text": "Genel Müdür", "rationale": "Önbüro yöneticisi doğrudan Genel Müdür'e rapor verir.", "isCorrect": true },
+        { "text": "Satış Pazarlama Müdürü", "rationale": "Bu departmanla eşgüdüm içindedir ancak ona bağlı değildir.", "isCorrect": false },
+        { "text": "İnsan Kaynakları Müdürü", "rationale": "Personel işlemleri haricinde bağlılık yoktur.", "isCorrect": false },
+        { "text": "Operasyon Müdürü", "rationale": "Genellikle otel müdürü veya genel müdür yardımcısı seviyesindedir.", "isCorrect": false }
+      ],
+      "hint": "Otelin en tepe yöneticisini düşünün."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdakilerden hangisi yönetim işlevlerinden biri olan 'Yöneltme'nin kapsamına girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bütçe hazırlamak", "rationale": "Bu planlama işlevidir.", "isCorrect": false },
+        { "text": "İş tanımlarını hazırlamak", "rationale": "Bu örgütleme işlevidir.", "isCorrect": false },
+        { "text": "Motivasyon ve emir verme", "rationale": "Çalışanları harekete geçirme, motive etme ve emir verme yöneltme işlevidir.", "isCorrect": true },
+        { "text": "Performans kontrolü", "rationale": "Bu denetim işlevidir.", "isCorrect": false },
+        { "text": "Amaç belirleme", "rationale": "Bu planlama işlevidir.", "isCorrect": false }
+      ],
+      "hint": "Personeli 'harekete geçirmek' için ne yaparsınız?"
+    },
+    {
+      "questionNumber": 4,
+      "question": "Garantili rezervasyon türleri arasında aşağıdakilerden hangisi sayılamaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sözlü teyit", "rationale": "Sözlü beyanlar finansal garanti oluşturmaz, garantisizdir.", "isCorrect": true },
+        { "text": "Kredi kartı ile ön ödeme", "rationale": "Kesin bir garantidir.", "isCorrect": false },
+        { "text": "Seyahat acentesi voucher'ı", "rationale": "Acentenin ödeme taahhüdüdür.", "isCorrect": false },
+        { "text": "Şirket garantisi", "rationale": "Kurumsal anlaşma kapsamında garantilidir.", "isCorrect": false },
+        { "text": "Depozito", "rationale": "Nakit veya havale ile yapılan ön ödemedir.", "isCorrect": false }
+      ],
+      "hint": "Yazılı veya parasal karşılığı olmayan seçeneği bulun."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Rezervasyon sürecinde 'Information' (Bilgi Girişi) aşamasında hangi bilgi sisteme girilmez?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafirin ayakkabı numarası", "rationale": "Bu bilgi otelcilik işlemleri için gerekli değildir.", "isCorrect": true },
+        { "text": "Giriş-çıkış tarihleri", "rationale": "Rezervasyonun temelidir.", "isCorrect": false },
+        { "text": "Misafir tipi", "rationale": "VIP, Repeat vb. bilgisi önemlidir.", "isCorrect": false },
+        { "text": "Ödeme şekli", "rationale": "Tahsilat için gereklidir.", "isCorrect": false },
+        { "text": "Pansiyon durumu", "rationale": "Yemek düzeni sisteme girilmelidir.", "isCorrect": false }
+      ],
+      "hint": "Operasyonel olarak hiçbir işe yaramayan kişisel veriyi bulun."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Çıkış işlemlerinde (Departure List) ne zaman hazırlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafir geldiği gün", "rationale": "Çok erkendir.", "isCorrect": false },
+        { "text": "Misafir çıkış yaptıktan sonra", "rationale": "Liste işlevini yitirmiş olur.", "isCorrect": false },
+        { "text": "Çıkıştan bir gün önce", "rationale": "Hazırlıkların yapılabilmesi için bir gün önce hazırlanır.", "isCorrect": true },
+        { "text": "Hafta başında", "rationale": "Değişiklikler olabileceği için erkendir.", "isCorrect": false },
+        { "text": "Ay sonunda", "rationale": "Günlük operasyon için uygun değildir.", "isCorrect": false }
+      ],
+      "hint": "Resepsiyonun ertesi günün planını yapması için ne zaman listeyi alması gerekir?"
+    },
+    {
+      "questionNumber": 7,
+      "question": "'Tatil Misafiri'nin (Leisure Guest) özellikleri arasında hangisi yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kalış süresi kısadır", "rationale": "Tatil misafirleri genellikle uzun kalır.", "isCorrect": false },
+        { "text": "Fiyat duyarlılığı düşüktür", "rationale": "Kendi cebinden ödediği için fiyat duyarlılığı yüksektir.", "isCorrect": false },
+        { "text": "Son dakika rezervasyon yapar", "rationale": "Genellikle aylar öncesinden planlar.", "isCorrect": false },
+        { "text": "Konum esnekliği vardır", "rationale": "Belirli bir iş yeri zorunluluğu olmadığı için konumu esnektir.", "isCorrect": true },
+        { "text": "Önceliği iş prestijidir", "rationale": "Önceliği dinlenme ve eğlencedir.", "isCorrect": false }
+      ],
+      "hint": "İş zorunluluğu olmayan birini düşünün, otelin yeri konusunda ne kadar rahattır?"
+    },
+    {
+      "questionNumber": 8,
+      "question": "Housekeeping tarafından yapılan son kontrollerde tespit edilen 'late charge' (geç harcama) öncelikle kime bildirilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Genel Müdüre", "rationale": "Operasyonel bir detaydır.", "isCorrect": false },
+        { "text": "Muhasebeye", "rationale": "Anlık işlem için geç kalabilir.", "isCorrect": false },
+        { "text": "Önbüroya (Resepsiyon)", "rationale": "Misafir çıkmadan hesaba eklenmesi için hemen resepsiyona bildirilmelidir.", "isCorrect": true },
+        { "text": "Güvenliğe", "rationale": "Suç unsuru yoksa gerek yoktur.", "isCorrect": false },
+        { "text": "Teknik servise", "rationale": "Arıza durumu değildir.", "isCorrect": false }
+      ],
+      "hint": "Hesabı kapatmak üzere olan kişi kimdir?"
+    },
+    {
+      "questionNumber": 9,
+      "question": "Acentenin otel adına ödeme yapacağını taahhüt ettiği belgeye ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Folio", "rationale": "Hesap cetvelidir.", "isCorrect": false },
+        { "text": "Voucher", "rationale": "Acentenin düzenlediği ve hizmet karşılığı ödeme taahhüdü içeren belgedir.", "isCorrect": true },
+        { "text": "Registration Card", "rationale": "Kayıt kartıdır.", "isCorrect": false },
+        { "text": "Ledger", "rationale": "Defteri kebirdir.", "isCorrect": false },
+        { "text": "Invoice", "rationale": "Faturadır.", "isCorrect": false }
+      ],
+      "hint": "Turizmde 'kupon' veya 'hizmet belgesi' olarak da bilinir."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Şikayet yönetiminde müşterinin hatayı kabul edebileceği sınıra ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hoşgörü Bölgesi", "rationale": "Müşterinin tolere edebileceği hizmet aksaması aralığıdır.", "isCorrect": true },
+        { "text": "Kriz Bölgesi", "rationale": "Böyle bir terim yoktur.", "isCorrect": false },
+        { "text": "Şikayet Hattı", "rationale": "İletişim kanalıdır.", "isCorrect": false },
+        { "text": "Çözüm Alanı", "rationale": "Süreç adımıdır.", "isCorrect": false },
+        { "text": "Risk Sınırı", "rationale": "Genel bir ifadedir.", "isCorrect": false }
+      ],
+      "hint": "İnsanın hataları 'tolere' edebildiği aralık."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Telefonda bekletme süresi en fazla ne kadar olmalı ve bu sürede ne yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "1 dakika, müzik dinletilmelidir", "rationale": "Çok uzundur.", "isCorrect": false },
+        { "text": "30 saniye, bilgi verilmelidir", "rationale": "Her 30 saniyede bir hatta dönüp misafire bilgi verilmelidir.", "isCorrect": true },
+        { "text": "10 saniye, kapatılmalıdır", "rationale": "Çok kısadır.", "isCorrect": false },
+        { "text": "Süre sınırı yoktur", "rationale": "Profesyonel değildir.", "isCorrect": false },
+        { "text": "45 saniye, reklam dinletilmelidir", "rationale": "Reklam değil, ilgi gösterilmesi gerekir.", "isCorrect": false }
+      ],
+      "hint": "Yarım dakikayı geçen sessizlikler misafiri endişelendirir."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Aşağıdakilerden hangisi bir satış artırma tekniği olan 'Upselling' örneğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafire akşam yemeği satmak", "rationale": "Bu cross-selling örneğidir.", "isCorrect": false },
+        { "text": "Standart oda yerine Suite oda satmak", "rationale": "Mevcut ürünün daha üst versiyonunu satmak upselling'dir.", "isCorrect": true },
+        { "text": "Odayı indirimli vermek", "rationale": "Bu gelir kaybıdır.", "isCorrect": false },
+        { "text": "Spa paketi önermek", "rationale": "Bu cross-selling örneğidir.", "isCorrect": false },
+        { "text": "Havalimanı transferi satmak", "rationale": "Bu cross-selling örneğidir.", "isCorrect": false }
+      ],
+      "hint": "Aynı ürünün 'daha iyisini' vermeyi teklif etmek."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Gelen misafir listesi (Arrival List) hangi belgeden hazırlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Fatura", "rationale": "İşlem sonundadır.", "isCorrect": false },
+        { "text": "Polis kayıtları", "rationale": "Girişten sonradır.", "isCorrect": false },
+        { "text": "Rezervasyon formları", "rationale": "Gelecek misafir bilgisi rezervasyon kayıtlarından alınır.", "isCorrect": true },
+        { "text": "Şikayet formları", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Menü kartları", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Otelin elindeki 'gelecek kişi' bilgisinin kaynağı nedir?"
+    },
+    {
+      "questionNumber": 14,
+      "question": "Oda blokajında 'VIP' misafirler için dikkat edilmesi gereken temel kural nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Girişten sonra oda belirlenir", "rationale": "VIP misafir bekletilmez.", "isCorrect": false },
+        { "text": "En ucuz oda verilir", "rationale": "VIP statüsüne aykırıdır.", "isCorrect": false },
+        { "text": "Tercih edilen odalar önceden bloke edilir", "rationale": "VIP'lerin özel isteklerine uygun odalar girişten önce ayrılmalıdır.", "isCorrect": true },
+        { "text": "Zemin kat verilir", "rationale": "Güvenlik veya manzara tercihi yoksa standart bir kural değildir.", "isCorrect": false },
+        { "text": "Rastgele oda verilir", "rationale": "Kabul edilemez.", "isCorrect": false }
+      ],
+      "hint": "Önemli misafir 'beklemeyi' ve 'sürprizleri' sevmez."
+    },
+    {
+      "questionNumber": 15,
+      "question": "'Incognito' misafir ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çok para harcayan misafir", "rationale": "Bu 'High Spender' olabilir.", "isCorrect": false },
+        { "text": "Kimliğinin gizli kalmasını isteyen ünlü veya önemli kişi", "rationale": "Incognito, otelde olduğunu kimsenin bilmesini istemeyen VIP türüdür.", "isCorrect": true },
+        { "text": "Sorun çıkaran misafir", "rationale": "Bu 'Problem Guest'tir.", "isCorrect": false },
+        { "text": "Acente yetkilisi", "rationale": "Bu CIP kategorisindedir.", "isCorrect": false },
+        { "text": "Hasta misafir", "rationale": "Bu SPATT kategorisindedir.", "isCorrect": false }
+      ],
+      "hint": "Gizli, tanınmak istemeyen."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Kayıt sırasında personelin doldurması gereken kısım hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafirin imzası", "rationale": "Misafir atar.", "isCorrect": false },
+        { "text": "Doğum yeri", "rationale": "Misafir yazar.", "isCorrect": false },
+        { "text": "Oda numarası ve ücret", "rationale": "Bu operasyonel bilgiyi resepsiyonist doldurur.", "isCorrect": true },
+        { "text": "Meslek", "rationale": "Misafir yazar.", "isCorrect": false },
+        { "text": "Ev adresi", "rationale": "Misafir yazar.", "isCorrect": false }
+      ],
+      "hint": "Misafir otelde hangi odada kalacağını kendisi yazamaz."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Otelin kapasitesinin üzerinde rezervasyon kabul etmesi durumuna ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Double Booking", "rationale": "Aynı odayı iki kişiye satmak hatadır, strateji değildir.", "isCorrect": false },
+        { "text": "Overbooking", "rationale": "İptaller olacağı varsayılarak kapasite üzeri satış yapılmasıdır.", "isCorrect": true },
+        { "text": "No-Show", "rationale": "Gelmeyen misafirdir.", "isCorrect": false },
+        { "text": "Full House", "rationale": "Otelin %100 dolu olmasıdır.", "isCorrect": false },
+        { "text": "Waitlist", "rationale": "Bekleme listesidir.", "isCorrect": false }
+      ],
+      "hint": "Over 'üzeri', Booking 'rezervasyon'."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Beden dilinin iletişimdeki etki oranı kaçtır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "%7", "rationale": "Kelimelerin oranıdır.", "isCorrect": false },
+        { "text": "%38", "rationale": "Ses tonunun oranıdır.", "isCorrect": false },
+        { "text": "%55", "rationale": "Beden dili iletişimde en büyük etkiye sahiptir.", "isCorrect": true },
+        { "text": "%70", "rationale": "Çok yüksektir.", "isCorrect": false },
+        { "text": "%20", "rationale": "Çok düşüktür.", "isCorrect": false }
+      ],
+      "hint": "Yarısından fazlası."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Acentelere kontenjan verilirken 'Dini ve Milli Bayramlar' neden dikkate alınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Personel izne çıktığı için", "rationale": "Otel kapanmaz.", "isCorrect": false },
+        { "text": "Talep çok arttığı için kontenjan stratejisi değişir", "rationale": "Yüksek talep dönemlerinde otel odaları daha değerlidir, kontenjan kısıtlanabilir.", "isCorrect": true },
+        { "text": "Acenteler tatil yaptığı için", "rationale": "Acenteler de çalışır.", "isCorrect": false },
+        { "text": "Resmi daireler kapalı olduğu için", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Yemek menüsü değiştiği için", "rationale": "Oda satışıyla doğrudan ilgisi yoktur.", "isCorrect": false }
+      ],
+      "hint": "Bayramda herkes tatile gitmek isterse otel ne yapar?"
+    },
+    {
+      "questionNumber": 20,
+      "question": "Minibar kontrolleri ne zaman yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafir uyurken", "rationale": "Rahatsız edilmez.", "isCorrect": false },
+        { "text": "Misafir otele giriş yaparken", "rationale": "Zaten doludur.", "isCorrect": false },
+        { "text": "Check-out sırasında hızlıca", "rationale": "Misafir gitmeden tüketimi tespit etmek için çıkış anında yapılır.", "isCorrect": true },
+        { "text": "Haftada bir", "rationale": "Günlük kontrol gerekir.", "isCorrect": false },
+        { "text": "Sadece şikayet olursa", "rationale": "Rutin bir işlemdir.", "isCorrect": false }
+      ],
+      "hint": "Misafir resepsiyonda faturayı beklerken o sırada odada neye bakılır?"
+    },
+    {
+      "questionNumber": 21,
+      "question": "'Night Auditor' (Gece Denetçisi) hangi departmana bağlıdır veya hangi saatlerde çalışır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Güvenlik departmanıdır", "rationale": "Muhasebe/Önbüro kökenlidir.", "isCorrect": false },
+        { "text": "Sadece hafta sonu çalışır", "rationale": "Her gece çalışır.", "isCorrect": false },
+        { "text": "Gündüz çalışır", "rationale": "Adı üzerinde 'gece' denetçisidir.", "isCorrect": false },
+        { "text": "Gece vardiyasında çalışır ve gün sonu kapanışını yapar", "rationale": "Tüm mali hesapları denetler ve günü kapatır.", "isCorrect": true },
+        { "text": "Mutfakta çalışır", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Günü 'kapatan' kişi."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Kara Liste (Black List) kontrolü rezervasyonun hangi aşamasında yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafir odaya girdikten sonra", "rationale": "Çok geçtir.", "isCorrect": false },
+        { "text": "Çıkış yaparken", "rationale": "İş işten geçmiştir.", "isCorrect": false },
+        { "text": "Talep alınıp soruşturma yapılırken", "rationale": "Rezervasyonu kabul etmeden önce ilk bakılması gereken yerdir.", "isCorrect": true },
+        { "text": "Fatura kesilirken", "rationale": "Geçtir.", "isCorrect": false },
+        { "text": "Kahvaltıda", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "İstenmeyen misafiri kapıdan içeri almadan önce."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Aşağıdakilerden hangisi 'Yönetim İşlevleri'nden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Planlama", "rationale": "Temel işlevdir.", "isCorrect": false },
+        { "text": "Pazarlama", "rationale": "Pazarlama bir işletme fonksiyonudur ancak temel 'yönetim süreci' işlevleri (PODSC) arasında sayılmaz.", "isCorrect": true },
+        { "text": "Örgütleme", "rationale": "Temel işlevdir.", "isCorrect": false },
+        { "text": "Eşgüdüm (Koordinasyon)", "rationale": "Temel işlevdir.", "isCorrect": false },
+        { "text": "Denetim", "rationale": "Temel işlevdir.", "isCorrect": false }
+      ],
+      "hint": "Klasik yönetim teorisindeki 5 adımdan (Planlama, Org, Yön, Eş, Den) olmayanı bulun."
+    },
+    {
+      "questionNumber": 24,
+      "question": "'Day Use' ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Gündüz temizliği", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Geceleme yapmadan günübirlik oda kullanımı", "rationale": "Sadece gündüz saatlerinde odayı kullanıp akşam ayrılmaktır.", "isCorrect": true },
+        { "text": "Günlük gazete servisi", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Günlük personel", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Gün ışığından yararlanma", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Yatılı kalmıyor, sadece gündüz kullanıyor."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Şikayet eden misafirlerin yüzde kaçı, sorun çözülmezse alışverişi tamamen keser?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "%5", "rationale": "PDF verisine göre tamamen alışverişi kesen kitle %5'tir (sessiz çoğunluk hariç).", "isCorrect": true },
+        { "text": "%50", "rationale": "Bu olumsuz konuşanların oranıdır.", "isCorrect": false },
+        { "text": "%90", "rationale": "Çok yüksektir.", "isCorrect": false },
+        { "text": "%20", "rationale": "Yanlış orandır.", "isCorrect": false },
+        { "text": "%76", "rationale": "Bu adil davranıldığına inananların oranıdır.", "isCorrect": false }
+      ],
+      "hint": "Oran küçük görünebilir ama sadık müşteri kaybı önemlidir."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Ana Folio (Main Folio) genellikle kimin harcamalarını kapsar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafirin kişisel harcamaları", "rationale": "Bu Extra Folio'dur.", "isCorrect": false },
+        { "text": "Acentenin ödeyeceği oda bedeli", "rationale": "Ana kalem olan oda ücreti Main Folio'da takip edilir.", "isCorrect": true },
+        { "text": "Personel yemek giderleri", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Minibar harcamaları", "rationale": "Genellikle ekstradır.", "isCorrect": false },
+        { "text": "Telefon görüşmeleri", "rationale": "Genellikle ekstradır.", "isCorrect": false }
+      ],
+      "hint": "Faturanın 'baba' kısmı, yani konaklama ücreti."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Şikayet yönetiminde 'Empati kurmak' ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Müşteriye hak vermemek", "rationale": "Zıddıdır.", "isCorrect": false },
+        { "text": "Kendini müşterinin yerine koyarak duygusunu anlamak", "rationale": "Olaylara onun penceresinden bakabilmektir.", "isCorrect": true },
+        { "text": "Müşteriye para vermek", "rationale": "Bu tazminattır.", "isCorrect": false },
+        { "text": "Müşteriyi polise şikayet etmek", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Müşteriyi dinlememek", "rationale": "Yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Onun ayakkabılarını giymek."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Check-in saatinden önce gelen misafire oda verme zorunluluğu var mıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Evet, her zaman vardır", "rationale": "Otel müsait olmayabilir.", "isCorrect": false },
+        { "text": "Hayır, otel saatinden önce odayı vermekle yükümlü değildir", "rationale": "Oda hazırsa jest yapılabilir ama yasal bir zorunluluk değildir.", "isCorrect": true },
+        { "text": "Sadece VIP ise vardır", "rationale": "Kural geneldir.", "isCorrect": false },
+        { "text": "Ekstra para verirse zorunludur", "rationale": "Zorunluluk değil, satış olur.", "isCorrect": false },
+        { "text": "Acente ararsa zorunludur", "rationale": "Kural değişmez.", "isCorrect": false }
+      ],
+      "hint": "Resmi giriş saati 14:00 ise, sabah 09:00'da gelen hak iddia edebilir mi?"
+    },
+    {
+      "questionNumber": 29,
+      "question": "Aşağıdakilerden hangisi bir 'Önbüro Yöneticisi'nin operasyonel sorumluluğudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Otel inşaatını denetlemek", "rationale": "Teknik veya mühendislik işidir.", "isCorrect": false },
+        { "text": "Personel denetimi ve standartlara uyum", "rationale": "Ekibin işleyişini ve kurallara uymasını sağlamak operasyonel görevdir.", "isCorrect": true },
+        { "text": "Yemek pişirmek", "rationale": "Mutfak görevidir.", "isCorrect": false },
+        { "text": "Banka kredisi çekmek", "rationale": "Finans departmanının veya yatırımcının işidir.", "isCorrect": false },
+        { "text": "Bahçe düzenlemesi", "rationale": "Peyzaj işidir.", "isCorrect": false }
+      ],
+      "hint": "Kendi ekibini yönetmekle ilgili olan şıkkı seçin."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Pazarlama aşamalarından 'Konumlandırma' neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Otelin haritadaki yeri", "rationale": "Fiziksel konumdur.", "isCorrect": false },
+        { "text": "Ürünün müşterinin zihnindeki yeri ve algısı", "rationale": "Markanın rakiplere göre nasıl algılandığını belirleme sürecidir.", "isCorrect": true },
+        { "text": "Personelin duracağı yer", "rationale": "Operasyoneldir.", "isCorrect": false },
+        { "text": "Masaların düzeni", "rationale": "Dekorasyondur.", "isCorrect": false },
+        { "text": "Otoparkın yeri", "rationale": "Fizikseldir.", "isCorrect": false }
+      ],
+      "hint": "Müşteri 'bu otel lükstür' veya 'bu otel ekonomiktir' diye düşünüyorsa bu nedir?"
+    },
+    {
+      "questionNumber": 31,
+      "question": "Misafir profillerine göre 'Karakteristik Tatil Misafiri' rezervasyonunu ne zaman yapar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Son dakika", "rationale": "İş misafiri özelliğidir.", "isCorrect": false },
+        { "text": "Giriş anında", "rationale": "Walk-in özelliğidir.", "isCorrect": false },
+        { "text": "Erken (aylar öncesi)", "rationale": "Tatil planları genellikle uzun vadeye yayılır.", "isCorrect": true },
+        { "text": "Çıkış yaparken", "rationale": "Nadir bir durumdur.", "isCorrect": false },
+        { "text": "Uçaktayken", "rationale": "Son dakikadır.", "isCorrect": false }
+      ],
+      "hint": "Yaz tatilini kıştan planlayanları düşünün."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Connection (Bağlantılı) odaların en belirgin özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İki katlı olması", "rationale": "Bu dubleks odadır.", "isCorrect": false },
+        { "text": "Arada geçiş kapısı olması", "rationale": "İki odayı birbirine bağlayan iç kapı vardır.", "isCorrect": true },
+        { "text": "Balkonlu olması", "rationale": "Her odada olabilir.", "isCorrect": false },
+        { "text": "Mutfaklı olması", "rationale": "Bu suit veya stüdyo odadır.", "isCorrect": false },
+        { "text": "Havuzlu olması", "rationale": "Bu villa veya swim-up odadır.", "isCorrect": false }
+      ],
+      "hint": "Koridora çıkmadan diğer odaya geçebilmek."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Aşağıdakilerden hangisi 'Garantisiz Rezervasyon' örneğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mail-order formu gönderilmiş rezervasyon", "rationale": "Garantilidir.", "isCorrect": false },
+        { "text": "Acente tarafından teyit edilmiş rezervasyon", "rationale": "Garantilidir.", "isCorrect": false },
+        { "text": "Telefonda 'kesin geleceğim' denilen rezervasyon", "rationale": "Sözlü beyan garanti sayılmaz, saat 18:00'e kadar opsiyonludur.", "isCorrect": true },
+        { "text": "Depozitosu yatmış rezervasyon", "rationale": "Garantilidir.", "isCorrect": false },
+        { "text": "Şirket onay yazısı olan rezervasyon", "rationale": "Garantilidir.", "isCorrect": false }
+      ],
+      "hint": "Para veya imza yoksa garanti yoktur."
+    },
+    {
+      "questionNumber": 34,
+      "question": "SPATT (Special Attention) misafir grubuna kimler girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çok zenginler", "rationale": "VIP olabilir.", "isCorrect": false },
+        { "text": "Gazeteciler", "rationale": "CIP olabilir.", "isCorrect": false },
+        { "text": "Yaşlı, hasta, engelli veya balayı çiftleri", "rationale": "Özel ilgi ve hassasiyet gerektiren misafirlerdir.", "isCorrect": true },
+        { "text": "Günübirlikçiler", "rationale": "Day Use misafirleridir.", "isCorrect": false },
+        { "text": "Personel yakınları", "rationale": "House Use olabilir.", "isCorrect": false }
+      ],
+      "hint": "Normal prosedürün dışında 'özel ilgi' ve yardım gerekenler."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Önbüronun iletişim ağında aşağıdakilerden hangisi yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafirler", "rationale": "Merkezdedir.", "isCorrect": false },
+        { "text": "Diğer departmanlar", "rationale": "Sürekli iletişim halindedir.", "isCorrect": false },
+        { "text": "Rakip otellerin temizlikçileri", "rationale": "Profesyonel iletişim ağında yer almaz.", "isCorrect": true },
+        { "text": "Seyahat acenteleri", "rationale": "Satış kanalıdır.", "isCorrect": false },
+        { "text": "Satıcılar ve tedarikçiler", "rationale": "Dış iletişim ağıdır.", "isCorrect": false }
+      ],
+      "hint": "Mantıksız olan seçeneği bulun."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Erken çıkış (Early Departure) durumunda otelin uygulayabileceği işlem nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafire para ödülü vermek", "rationale": "Mantıksızdır.", "isCorrect": false },
+        { "text": "Hiçbir şey yapamaz", "rationale": "Zararı tazmin hakkı vardır.", "isCorrect": false },
+        { "text": "Kalan günlerin ücretini veya no-show ücretini talep etmek", "rationale": "Yüksek sezonda odayı boş bıraktığı için otel kalan ücreti isteyebilir.", "isCorrect": true },
+        { "text": "Misafiri polise vermek", "rationale": "Suç değildir.", "isCorrect": false },
+        { "text": "Bir sonraki tatili bedava yapmak", "rationale": "Ticari değildir.", "isCorrect": false }
+      ],
+      "hint": "Rezerve edilen odayı erken boşaltmak otele para kaybettirir."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Şikayet sonrası davranışlarda müşterilerin %42'si ne yapar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mahkemeye verir", "rationale": "Düşük bir orandır.", "isCorrect": false },
+        { "text": "Yeniden satın alır", "rationale": "Şikayeti çözülmese bile alışkanlıktan veya zorunluluktan %42'si tekrar gelir.", "isCorrect": true },
+        { "text": "Otel camlarını kırar", "rationale": "Aşırı bir tepkidir.", "isCorrect": false },
+        { "text": "Sosyal medyada yazar", "rationale": "Oran farklıdır.", "isCorrect": false },
+        { "text": "Hiçbir şey yapmaz", "rationale": "Oran farklıdır.", "isCorrect": false }
+      ],
+      "hint": "İlginç bir şekilde, şikayet etseler bile büyük bir kısmı geri dönüyor."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Aşağıdakilerden hangisi 'Show Room' tekniğinin amacıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Odayı temizlemek", "rationale": "Housekeeping işidir.", "isCorrect": false },
+        { "text": "Odayı havalandırmak", "rationale": "Temizlik aşamasıdır.", "isCorrect": false },
+        { "text": "Odayı müşteriye fiziksel olarak gösterip ikna etmek", "rationale": "Görerek satış yapma tekniğidir.", "isCorrect": true },
+        { "text": "Odayı boyamak", "rationale": "Teknik servisin işidir.", "isCorrect": false },
+        { "text": "Odayı kilitlemek", "rationale": "Güvenlik işidir.", "isCorrect": false }
+      ],
+      "hint": "Görmek inanmaktır."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Önbüronun iki temel amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yemek yapmak ve servis etmek", "rationale": "F&B amacıdır.", "isCorrect": false },
+        { "text": "Misafiri memnun etmek ve oda satmak", "rationale": "Hem hizmet kalitesi hem de ticari gelir önbüronun varlık sebebidir.", "isCorrect": true },
+        { "text": "Bahçe sulamak ve havuz temizlemek", "rationale": "Teknik/Meydancı işidir.", "isCorrect": false },
+        { "text": "Personel eğitmek ve işten çıkarmak", "rationale": "İK işidir.", "isCorrect": false },
+        { "text": "Malzeme almak ve depolamak", "rationale": "Satınalma işidir.", "isCorrect": false }
+      ],
+      "hint": "Bir elinde 'güleryüz', diğer elinde 'fatura' vardır."
+    },
+    {
+      "questionNumber": 40,
+      "question": "'Turn Away' işlemi sırasında masrafları (taksi, telefon, fark ücreti) kim karşılar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafir", "rationale": "Hata otelindir, misafir ödemez.", "isCorrect": false },
+        { "text": "Acente", "rationale": "Otel overbook yaptıysa acente ödemez.", "isCorrect": false },
+        { "text": "Otel", "rationale": "Misafiri mağdur eden otel, telafi için masrafları öder.", "isCorrect": true },
+        { "text": "Belediye", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Taksici", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Hatayı kim yaptıysa faturayı o öder."
+    },
+    {
+      "questionNumber": 41,
+      "question": "İş analizi süreci sonunda ortaya çıkan, işin 'nasıl' yapılacağını değil 'ne' olduğunu anlatan belge hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş Tanımı", "rationale": "İşin kimliğini ve sınırlarını belirler.", "isCorrect": true },
+        { "text": "Prosedür", "rationale": "Nasıl yapılacağını anlatır.", "isCorrect": false },
+        { "text": "Talimat", "rationale": "Adım adım yapılışı anlatır.", "isCorrect": false },
+        { "text": "Vardiya Listesi", "rationale": "Zamanlamayı anlatır.", "isCorrect": false },
+        { "text": "Bütçe", "rationale": "Parayı anlatır.", "isCorrect": false }
+      ],
+      "hint": "Job Description."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Önbüro yöneticisi finansal hedeflerine ulaşmak için ortalama oda fiyatını nasıl etkileyebilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Tüm odaları bedava vererek", "rationale": "Fiyatı sıfırlar.", "isCorrect": false },
+        { "text": "Upselling tekniklerini teşvik ederek", "rationale": "Daha pahalı odaları satarak ortalamayı yükseltir.", "isCorrect": true },
+        { "text": "Personel sayısını azaltarak", "rationale": "Gideri azaltır ama fiyatı etkilemez.", "isCorrect": false },
+        { "text": "Kahvaltıyı kaldırarak", "rationale": "Hizmet kalitesini düşürür.", "isCorrect": false },
+        { "text": "Odayı temizlemeyerek", "rationale": "Memnuniyetsizlik yaratır.", "isCorrect": false }
+      ],
+      "hint": "Misafire '50 lira farkla deniz manzaralı oda ister misiniz?' demek."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Yönetim işlevlerinden 'Denetim'in temel amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ceza vermek", "rationale": "Araçtır, amaç değildir.", "isCorrect": false },
+        { "text": "Planlanan ile gerçekleşen arasındaki farkı ölçmek ve düzeltmek", "rationale": "Hedeflere ulaşılıp ulaşılmadığını kontrol etmektir.", "isCorrect": true },
+        { "text": "Toplantı yapmak", "rationale": "Yöntemdir.", "isCorrect": false },
+        { "text": "Parti düzenlemek", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Yeni bina yapmak", "rationale": "Yatırımdır.", "isCorrect": false }
+      ],
+      "hint": "Rotadan sapıp sapmadığımızı kontrol etmek."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Kredi kartı ile garantili rezervasyonda 'Mail-Order' formu ne işe yarar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafirin resmini görmeye", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Misafirin imzasını ve kart bilgilerini alarak tahsilat yetkisi almaya", "rationale": "Uzaktan çekim yapabilmek için yasal dayanak sağlar.", "isCorrect": true },
+        { "text": "Misafire mektup yazmaya", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Odayı temizletmeye", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Yemek siparişi vermeye", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Kart fiziksel olarak orada yoksa, parayı nasıl çekersiniz?"
+    },
+    {
+      "questionNumber": 45,
+      "question": "Rezervasyon onay mektubu (Confirmation Letter) ne zaman gönderilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşlem tamamlanıp kesinleştikten sonra", "rationale": "Misafire rezervasyon detaylarını bildirmek için son adımda gönderilir.", "isCorrect": true },
+        { "text": "Misafir otele gelince", "rationale": "Gerek kalmaz.", "isCorrect": false },
+        { "text": "Talep ilk geldiğinde", "rationale": "Henüz onaylanmamıştır.", "isCorrect": false },
+        { "text": "Misafir çıkış yaparken", "rationale": "Fatura verilir.", "isCorrect": false },
+        { "text": "Hiç gönderilmez", "rationale": "Profesyonel değildir.", "isCorrect": false }
+      ],
+      "hint": "Söz uçar, yazı kalır; anlaşmayı belgelemek gerekir."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Geç çıkış (Late Check-out) talebinde bulunan misafirden genellikle ne talep edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Pasaportu", "rationale": "Zaten kayıtlıdır.", "isCorrect": false },
+        { "text": "Ek ücret (Genellikle günlük oda fiyatının %50'si)", "rationale": "Odayı meşgul ettiği süre için ücret alınır.", "isCorrect": true },
+        { "text": "Teşekkür mektubu", "rationale": "Ticari değildir.", "isCorrect": false },
+        { "text": "Odayı temizlemesi", "rationale": "Misafirin görevi değildir.", "isCorrect": false },
+        { "text": "Yemek ısmarlaması", "rationale": "Profesyonel değildir.", "isCorrect": false }
+      ],
+      "hint": "Saat 12:00'den sonra kalmak istiyorsa bedeli olmalıdır."
+    },
+    {
+      "questionNumber": 47,
+      "question": "İş misafirlerinin otel seçiminde 'konum' neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Manzarayı sevmezler", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Toplantı yerine veya iş merkezlerine yakın olmak zorundadırlar", "rationale": "Zamanla yarışan iş insanı için ulaşım hayati önem taşır.", "isCorrect": true },
+        { "text": "Yürümeyi severler", "rationale": "Genelleme yapılamaz.", "isCorrect": false },
+        { "text": "Şehir dışını severler", "rationale": "Tam tersi, merkeze yakın olmak isterler.", "isCorrect": false },
+        { "text": "Ucuz olsun isterler", "rationale": "Şirket ödediği için fiyat ikinci plandadır.", "isCorrect": false }
+      ],
+      "hint": "Trafikte vakit kaybetmek istemeyen iş insanı."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Grup hesaplarının takibi için kullanılan Master Folio'da bireysel harcamalar yer alır mı?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Evet, her şey oraya yazılır", "rationale": "Grup anlaşması dışındaki kişisel harcamalar oraya yazılmaz.", "isCorrect": false },
+        { "text": "Hayır, genellikle sadece anlaşmaya dahil olan ortak giderler (oda, kahvaltı vb.) yer alır", "rationale": "Kişisel ekstralar misafirin kendi Extra Folio'suna işlenir.", "isCorrect": true },
+        { "text": "Sadece içki harcamaları yer alır", "rationale": "Özel durumdur.", "isCorrect": false },
+        { "text": "Sadece telefon harcamaları yer alır", "rationale": "Özel durumdur.", "isCorrect": false },
+        { "text": "Folio kullanılmaz", "rationale": "Yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Şirket çalışanının yediği ekstra çikolatayı şirket ödemek istemeyebilir."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Şikayet yönetiminde 'Teşekkür etmek' neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kibarlık olsun diye", "rationale": "Sadece kibarlık değil, stratejidir.", "isCorrect": false },
+        { "text": "Müşteriye hatayı bildirdiği ve düzeltme şansı verdiği için", "rationale": "Şikayet bir hediyedir, işletmeyi geliştirmeyi sağlar.", "isCorrect": true },
+        { "text": "Müşteriyi susturmak için", "rationale": "Yanlış yaklaşımdır.", "isCorrect": false },
+        { "text": "Prosedür gereği", "rationale": "Samimiyet gerekir.", "isCorrect": false },
+        { "text": "Zaman kazanmak için", "rationale": "Yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Bize hatamızı söyleyen kişi aslında bize iyilik yapıyordur."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Telefon görüşmelerinde 'Gülümseme' neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Karşı taraf görür", "rationale": "Görüntülü değilse göremez.", "isCorrect": false },
+        { "text": "Ses tonuna yansır ve pozitif enerji verir", "rationale": "Telefonda beden dili ses tonuyla iletilir.", "isCorrect": true },
+        { "text": "Çene kaslarını gevşetir", "rationale": "Fizyolojiktir ama iletişim amacı bu değildir.", "isCorrect": false },
+        { "text": "Yönetici emrettiği için", "rationale": "İçselleştirilmelidir.", "isCorrect": false },
+        { "text": "Daha hızlı konuşmayı sağlar", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Telefonun diğer ucundaki kişi gülümsemeyi 'duyabilir'."
+    },
+    {
+      "questionNumber": 51,
+      "question": "Pazarlamada 'Hedef Pazar' seçimi neye göre yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Rastgele", "rationale": "Bilimsel değildir.", "isCorrect": false },
+        { "text": "Otelin kapasitesine, konumuna ve hizmetlerine en uygun kitleye göre", "rationale": "Her ürünün bir alıcısı vardır, doğru eşleşme gerekir.", "isCorrect": true },
+        { "text": "Sadece zenginlere göre", "rationale": "Ekonomik oteller de vardır.", "isCorrect": false },
+        { "text": "Sadece yerlilere göre", "rationale": "Turistler de hedeftir.", "isCorrect": false },
+        { "text": "Personelin isteğine göre", "rationale": "Yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Herkes müşteriniz olamaz, kimin için en iyisisiniz?"
+    },
+    {
+      "questionNumber": 52,
+      "question": "Blokaj sırasında ailelere oda verirken nelere dikkat edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Farklı katlarda olmasına", "rationale": "Aileler ayrılmak istemez.", "isCorrect": false },
+        { "text": "Yan yana veya bağlantılı (connection) oda olmasına", "rationale": "Çocukların kontrolü ve aile bütünlüğü için yakındaki odalar tercih edilir.", "isCorrect": true },
+        { "text": "En uzak odaya", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Asansöre en uzak odaya", "rationale": "Bebek arabası vb. için zorluktur.", "isCorrect": false },
+        { "text": "Karanlık odaya", "rationale": "Yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Anne-baba ve çocuklar birbirinden uzak kalmak istemez."
+    },
+    {
+      "questionNumber": 53,
+      "question": "Sürekli gelen misafir (Repeat Guest) için genellikle hangi işlem yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kara listeye alınır", "rationale": "Tam tersi, ödüllendirilir.", "isCorrect": false },
+        { "text": "History Card (Misafir Tarihçesi) açılır ve tercihleri kaydedilir", "rationale": "Sadakati artırmak için alışkanlıkları takip edilir.", "isCorrect": true },
+        { "text": "Fiyat artırılır", "rationale": "Sadık müşteriye zam yapılmaz, indirim yapılır.", "isCorrect": false },
+        { "text": "Bekletilir", "rationale": "Öncelik verilir.", "isCorrect": false },
+        { "text": "Kimlik sorulmaz", "rationale": "Güvenlik prosedürü her zaman uygulanır.", "isCorrect": false }
+      ],
+      "hint": "Sizi tanıyan bir esnafın 'yine aynısından mı abi?' demesi gibi."
+    },
+    {
+      "questionNumber": 54,
+      "question": "Kayıt kartındaki (Registration Card) 'Paraf' bölümü ne işe yarar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Süs içindir", "rationale": "Resmi belgedir.", "isCorrect": false },
+        { "text": "İşlemi yapan personelin kim olduğunu belirler", "rationale": "Sorumluluğun kime ait olduğunu gösterir.", "isCorrect": true },
+        { "text": "Misafirin imzasıdır", "rationale": "İmza ayrı bir yerdedir.", "isCorrect": false },
+        { "text": "Odanın temiz olduğunu gösterir", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Yemeğin yendiğini gösterir", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Hatayı veya işlemi kimin yaptığını bulmak için atılan kısa imza."
+    },
+    {
+      "questionNumber": 55,
+      "question": "Check-out saatini geçiren misafirden ücret talep etme hakkı ne zaman doğar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Saat 12:00 (veya belirlenen çıkış saati) geçildiğinde", "rationale": "Otel kuralları gereği yeni bir gün başlamış sayılır veya gecikme bedeli uygulanır.", "isCorrect": true },
+        { "text": "Saat 10:00'da", "rationale": "Erkendir.", "isCorrect": false },
+        { "text": "Akşam yemeğinde", "rationale": "Çok geçtir.", "isCorrect": false },
+        { "text": "Ertesi sabah", "rationale": "Bir gün geçmiş olur.", "isCorrect": false },
+        { "text": "Hiçbir zaman doğmaz", "rationale": "Ticari işletmedir.", "isCorrect": false }
+      ],
+      "hint": "Otelin belirlediği o 'sihirli saat' geçtiğinde."
+    },
+    {
+      "questionNumber": 56,
+      "question": "Aşağıdakilerden hangisi bir 'Sözsüz İletişim' ögesidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "E-mail", "rationale": "Yazılı iletişimdir.", "isCorrect": false },
+        { "text": "Telefon konuşması", "rationale": "Sözlü iletişimdir.", "isCorrect": false },
+        { "text": "Göz teması ve duruş", "rationale": "Beden dilidir, sözsüzdür.", "isCorrect": true },
+        { "text": "Mektup", "rationale": "Yazılı iletişimdir.", "isCorrect": false },
+        { "text": "Anons", "rationale": "Sözlü iletişimdir.", "isCorrect": false }
+      ],
+      "hint": "Konuşmadan anlaşmak."
+    },
+    {
+      "questionNumber": 57,
+      "question": "Minibar tüketim fişini kim düzenler?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafir", "rationale": "Beyan edebilir ama fişi personel keser.", "isCorrect": false },
+        { "text": "Kat görevlisi veya minibar sorumlusu", "rationale": "Odayı kontrol eden personel düzenler.", "isCorrect": true },
+        { "text": "Aşçı", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Güvenlik", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Bahçıvan", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Odaya girip şişeleri sayan kişi."
+    },
+    {
+      "questionNumber": 58,
+      "question": "'Extra Self' uygulamasında acente neyi ödemez?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Oda ücretini", "rationale": "Acente sadece bunu öder.", "isCorrect": false },
+        { "text": "Minibar, telefon, restoran gibi ekstra harcamaları", "rationale": "Bunlar misafirin kendisine aittir.", "isCorrect": true },
+        { "text": "Havalimanı transferini", "rationale": "Pakete dahil olabilir.", "isCorrect": false },
+        { "text": "KDV'yi", "rationale": "Fiyata dahildir.", "isCorrect": false },
+        { "text": "Acente komisyonunu", "rationale": "Otel ile acente arasındadır.", "isCorrect": false }
+      ],
+      "hint": "Adı üzerinde 'ekstra'ları kim öder?"
+    },
+    {
+      "questionNumber": 59,
+      "question": "Complimentary Room (Comp) kime verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Her gelene", "rationale": "Otel batar.", "isCorrect": false },
+        { "text": "Promosyon amaçlı davetlilere, otel sahibinin misafirlerine veya acente yetkililerine", "rationale": "Ücretsiz konaklama hakkı özel kişilere tanınır.", "isCorrect": true },
+        { "text": "Sadece kadınlara", "rationale": "Cinsiyet ayrımı yoktur.", "isCorrect": false },
+        { "text": "Sadece öğrencilere", "rationale": "Genel kural değildir.", "isCorrect": false },
+        { "text": "Kara listedekilere", "rationale": "Otele alınmazlar.", "isCorrect": false }
+      ],
+      "hint": "Otelin 'ikram' ettiği oda."
+    },
+    {
+      "questionNumber": 60,
+      "question": "5N 1K kuralındaki 'Kim?' sorusu şikayette neyi belirler?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Şikayeti kimin çözdüğünü veya kiminle muhatap olunduğunu", "rationale": "Sorumlu veya tanık kişileri belirler.", "isCorrect": true },
+        { "text": "Otelin sahibini", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Başbakanı", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Rakip oteli", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Hava durumunu", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Olayın kahramanları."
+    },
+    {
+      "questionNumber": 61,
+      "question": "Acentenin 'güvenilirliği' neden kontenjan verirken önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sohbet etmek için", "rationale": "Ticari değildir.", "isCorrect": false },
+        { "text": "Ödemelerin zamanında yapılması riskini yönetmek için", "rationale": "Parasını alamayacağı odayı satmak istemez.", "isCorrect": true },
+        { "text": "Acente sahibini sevmek için", "rationale": "Duygusal değildir.", "isCorrect": false },
+        { "text": "Ofisinin güzel olması için", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Katalog rengi için", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Odayı sattı ama parayı gönderdi mi?"
+    },
+    {
+      "questionNumber": 62,
+      "question": "Şikayet sürecinde 'Aksiyon almak' ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Film izlemek", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Sorunu gidermek için somut bir adım atmak (tamir etmek, oda değiştirmek vb.)", "rationale": "Sözde kalmayıp icraat yapmaktır.", "isCorrect": true },
+        { "text": "Müşteriye bağırmak", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Kaçmak", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Not almakla yetinmek", "rationale": "Yetersizdir.", "isCorrect": false }
+      ],
+      "hint": "Lafla peynir gemisi yürümez, iş yapmak gerekir."
+    },
+    {
+      "questionNumber": 63,
+      "question": "'Walk-in' misafir kime denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yürüyerek gelen", "rationale": "Kelime anlamı budur ama terim anlamı farklıdır.", "isCorrect": false },
+        { "text": "Rezervasyonsuz kapıdan gelen misafir", "rationale": "Önceden yer ayırtmadan otele gelen müşteridir.", "isCorrect": true },
+        { "text": "Koşarak gelen", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Acente ile gelen", "rationale": "Rezervasyonludur.", "isCorrect": false },
+        { "text": "Davetli gelen", "rationale": "Rezervasyonludur.", "isCorrect": false }
+      ],
+      "hint": "Randevusuz gelen müşteri."
+    },
+    {
+      "questionNumber": 64,
+      "question": "'Advance Payment' ile 'Advance Deposit' arasındaki fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Fark yoktur", "rationale": "Vardır.", "isCorrect": false },
+        { "text": "Deposit girişten önce (kapora), Payment giriş anında (peşin) alınır", "rationale": "Zamanlama farkı vardır.", "isCorrect": true },
+        { "text": "Payment çıkışta alınır", "rationale": "Advance 'ön' demektir.", "isCorrect": false },
+        { "text": "Deposit geri verilmez, Payment verilir", "rationale": "Hizmet karşılığı ikisi de alınır.", "isCorrect": false },
+        { "text": "Deposit kredi kartıyla alınmaz", "rationale": "Alınabilir.", "isCorrect": false }
+      ],
+      "hint": "Biri gelmeden önce garantilemek için, diğeri resepsiyonda anahtarı alırken."
+    },
+    {
+      "questionNumber": 65,
+      "question": "Turn Down hizmetinde yatağın üzerine genellikle ne bırakılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Fatura", "rationale": "Hoş değildir.", "isCorrect": false },
+        { "text": "İyi geceler notu veya çikolata", "rationale": "Misafiri şımartmak için küçük bir jesttir.", "isCorrect": true },
+        { "text": "Terlik", "rationale": "Yere konur.", "isCorrect": false },
+        { "text": "Gazete", "rationale": "Sabah verilir.", "isCorrect": false },
+        { "text": "Anahtar", "rationale": "Misafirde olur.", "isCorrect": false }
+      ],
+      "hint": "Tatlı rüyalar için tatlı bir şey."
+    },
+    {
+      "questionNumber": 66,
+      "question": "Memorandum (Bilgi Notu) grup gelmeden kaç gün önce dağıtılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "1 gün", "rationale": "Geçtir.", "isCorrect": false },
+        { "text": "En az 5 gün", "rationale": "Hazırlık süresi için idealdir.", "isCorrect": true },
+        { "text": "1 ay", "rationale": "Çok erkendir.", "isCorrect": false },
+        { "text": "Grup geldikten sonra", "rationale": "Anlamsızdır.", "isCorrect": false },
+        { "text": "3 saat önce", "rationale": "Yetersizdir.", "isCorrect": false }
+      ],
+      "hint": "Mutfak malzemeyi sipariş etsin, kat personeli planlansın diye."
+    },
+    {
+      "questionNumber": 67,
+      "question": "Misafir şikayetlerinin çözümünde 'Takip etmek' (Follow-up) neden gereklidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafiri rahatsız etmek için", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Çözümün işe yarayıp yaramadığını ve misafirin memnun olup olmadığını teyit etmek için", "rationale": "İşi şansa bırakmamak gerekir.", "isCorrect": true },
+        { "text": "Personeli gözetlemek için", "rationale": "Yan amaçtır.", "isCorrect": false },
+        { "text": "Ekstra ücret almak için", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Vakit geçirmek için", "rationale": "Yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Doktorun 'ilacı kullan, haftaya kontrole gel' demesi gibi."
+    },
+    {
+      "questionNumber": 68,
+      "question": "İş tanımında aşağıdakilerden hangisi yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşin adı", "rationale": "Yer alır.", "isCorrect": false },
+        { "text": "Bağlı olduğu yönetici", "rationale": "Yer alır.", "isCorrect": false },
+        { "text": "Personelin ev adresi", "rationale": "Kişisel bilgidir, iş tanımında değil özlük dosyasında olur.", "isCorrect": true },
+        { "text": "Görev ve sorumluluklar", "rationale": "Temel içeriktir.", "isCorrect": false },
+        { "text": "Çalışma koşulları", "rationale": "Yer alır.", "isCorrect": false }
+      ],
+      "hint": "İşi tanımlıyoruz, kişiyi değil."
+    },
+    {
+      "questionNumber": 69,
+      "question": "Önbüro yöneticisi ortalama oda fiyatını artırmak için hangi dönemlerde fiyatları yükseltir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Talebin düşük olduğu dönemlerde", "rationale": "Fiyat düşürülür.", "isCorrect": false },
+        { "text": "Talebin yüksek olduğu (Yüksek Sezon) dönemlerde", "rationale": "Talep çoksa fiyat artar (Yield Management).", "isCorrect": true },
+        { "text": "Otelin boş olduğu zamanlarda", "rationale": "Müşteri çekmek için fiyat kırılır.", "isCorrect": false },
+        { "text": "Gece yarısı", "rationale": "Standarttır.", "isCorrect": false },
+        { "text": "Hiçbir zaman", "rationale": "Sabit fiyat karı sınırlar.", "isCorrect": false }
+      ],
+      "hint": "Arz talep dengesi."
+    },
+    {
+      "questionNumber": 70,
+      "question": "Aşağıdakilerden hangisi 'Yöneltme' işlevinin araçlarından biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Motivasyon", "rationale": "Araçtır.", "isCorrect": false },
+        { "text": "Liderlik", "rationale": "Araçtır.", "isCorrect": false },
+        { "text": "Disiplin", "rationale": "Araçtır.", "isCorrect": false },
+        { "text": "Emir verme", "rationale": "Araçtır.", "isCorrect": false },
+        { "text": "Muhasebe kaydı", "rationale": "Bu bir teknik işlemdir, yöneltme aracı değildir.", "isCorrect": true }
+      ],
+      "hint": "İnsanları yönetmekle ilgili olmayanı seçin."
+    },
+    {
+      "questionNumber": 71,
+      "question": "Garantili rezervasyonda misafir gelmezse (No-Show) ne olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Otel ücret alamaz", "rationale": "Garanti bunun içindir.", "isCorrect": false },
+        { "text": "Bir gecelik ücret veya tamamı (anlaşmaya göre) tahsil edilir", "rationale": "Oda boş tutulduğu için ücret hakkı doğar.", "isCorrect": true },
+        { "text": "Misafir ödüllendirilir", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Acente kapatılır", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Polis çağrılır", "rationale": "Hukuki bir anlaşmazlıktır, adli değil.", "isCorrect": false }
+      ],
+      "hint": "Odayı sizin için tuttuk, satamadık, parasını kim ödeyecek?"
+    },
+    {
+      "questionNumber": 72,
+      "question": "Rezervasyon talebini reddetme (Denial) sebeplerinden biri nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Otelin boş olması", "rationale": "Kabul edilir.", "isCorrect": false },
+        { "text": "Otelin dolu olması", "rationale": "Yer yoksa reddedilir.", "isCorrect": true },
+        { "text": "Misafirin kibar olması", "rationale": "Kabul edilir.", "isCorrect": false },
+        { "text": "Havanın güneşli olması", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Personelin çok olması", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Yer yoksa ne denir?"
+    },
+    {
+      "questionNumber": 73,
+      "question": "Misafir foliosuna (hesabına) işlenen 'Correction' ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hesap açma", "rationale": "Opening'dir.", "isCorrect": false },
+        { "text": "Hatalı işlemin aynı gün içinde düzeltilmesi", "rationale": "Yanlış girilen bir harcamanın düzeltilmesidir.", "isCorrect": true },
+        { "text": "Hesap kapatma", "rationale": "Settlement'tir.", "isCorrect": false },
+        { "text": "İndirim yapma", "rationale": "Discount'tur.", "isCorrect": false },
+        { "text": "Bahşiş verme", "rationale": "Tip'tir.", "isCorrect": false }
+      ],
+      "hint": "Correct 'doğru', Correction 'düzeltme'."
+    },
+    {
+      "questionNumber": 74,
+      "question": "Santralistin 'teknik bilgi' (örneğin Opera sistemi) bilmesi neden gereklidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Oyun oynamak için", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Misafirin adını, oda numarasını ve yetkilerini hızlıca görüp aktarmak için", "rationale": "Sistemi kullanmadan misafiri bulamaz.", "isCorrect": true },
+        { "text": "Bilgisayarı tamir etmek için", "rationale": "IT işidir.", "isCorrect": false },
+        { "text": "Müzik dinlemek için", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "İnternete girmek için", "rationale": "Yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Arayan kişiyi 'Oda 105'e bağlamak için ekrana bakması gerekir."
+    },
+    {
+      "questionNumber": 75,
+      "question": "Cross-selling (Çapraz Satış) örneği hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kral dairesi satmak", "rationale": "Upselling'dir.", "isCorrect": false },
+        { "text": "Oda kahvaltı yerine Yarım Pansiyon veya Masaj satmak", "rationale": "Oda dışındaki ek hizmetleri satmaktır.", "isCorrect": true },
+        { "text": "Odayı ucuza satmak", "rationale": "İndirimdir.", "isCorrect": false },
+        { "text": "Odayı temizlemek", "rationale": "Hizmettir.", "isCorrect": false },
+        { "text": "Rezervasyonu iptal etmek", "rationale": "Satış kaybıdır.", "isCorrect": false }
+      ],
+      "hint": "Hamburgerin yanına patates kızartması ister misiniz?"
+    },
+    {
+      "questionNumber": 76,
+      "question": "Arrival List'te 'VIP' ibaresi gören resepsiyonist ne yapmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Görmezden gelmelidir", "rationale": "Hata olur.", "isCorrect": false },
+        { "text": "Oda hazırlıklarını (meyve sepeti vb.) kontrol etmeli ve müdürü bilgilendirmelidir", "rationale": "Özel karşılama prosedürünü başlatmalıdır.", "isCorrect": true },
+        { "text": "Misafiri bekletmelidir", "rationale": "Asla yapılmaz.", "isCorrect": false },
+        { "text": "Ekstra ücret istemelidir", "rationale": "VIP statüsü ücretle değil, önemle ilgilidir.", "isCorrect": false },
+        { "text": "Odayı iptal etmelidir", "rationale": "Yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Önemli kişi geliyor, hazırlıklar tamam mı?"
+    },
+    {
+      "questionNumber": 77,
+      "question": "Devamlı misafire (Repeat Guest) otelin sağladığı avantajlardan biri ne olabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Daha kötü oda verilmesi", "rationale": "Kaybettirir.", "isCorrect": false },
+        { "text": "Oda upgrade (yükseltme), meyve ikramı veya hızlı check-in", "rationale": "Sadakati ödüllendirme yöntemleridir.", "isCorrect": true },
+        { "text": "Fiyatın iki katına çıkarılması", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Otele alınmaması", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Kimlik sorulmaması", "rationale": "Yasal zorunluluktur, avantaj olamaz.", "isCorrect": false }
+      ],
+      "hint": "Eski dosta yapılan jest."
+    },
+    {
+      "questionNumber": 78,
+      "question": "Overbooking (Kapasite aşımı) riski nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Otel boş kalır", "rationale": "Tam tersi, taşar.", "isCorrect": false },
+        { "text": "Tüm misafirler gelirse oda yetmez ve 'Turn Away' yapmak gerekir", "rationale": "İptal beklerken herkes gelirse kriz çıkar.", "isCorrect": true },
+        { "text": "Personel çok yorulur", "rationale": "Yan etkidir, ana risk değildir.", "isCorrect": false },
+        { "text": "Yemek yetmez", "rationale": "Çözülebilir.", "isCorrect": false },
+        { "text": "Elektrikler kesilir", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "100 odanız var, 105 kişiye sattınız ve hepsi geldi. Ne olacak?"
+    },
+    {
+      "questionNumber": 79,
+      "question": "Telefon görüşmesinde 'Kimin aradığını ileteyim?' sorusu neden 'Kim arıyor?' sorusundan daha naziktir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Fark yoktur", "rationale": "Vardır.", "isCorrect": false },
+        { "text": "İlki yardımcı olma isteği belirtir, ikincisi sorgulama gibidir", "rationale": "Nezaket ifadeleri hizmet sektörünün temelidir.", "isCorrect": true },
+        { "text": "İlki daha kısadır", "rationale": "Daha uzundur.", "isCorrect": false },
+        { "text": "Yönetici öyle ister", "rationale": "Sebebi nezakettir.", "isCorrect": false },
+        { "text": "İkincisi küfür içerir", "rationale": "İçermez ama kabaca olabilir.", "isCorrect": false }
+      ],
+      "hint": "Biri 'kimsin sen?' diyor, diğeri 'isminizi lütfeder misiniz?' diyor."
+    },
+    {
+      "questionNumber": 80,
+      "question": "Dead Line (Opsiyon Süresi) dolduğunda misafir ödeme yapmazsa rezervasyon ne olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Otomatik olarak kesinleşir", "rationale": "Riskli olur.", "isCorrect": false },
+        { "text": "İptal edilir (düşer) veya otel odayı başkasına satma hakkı kazanır", "rationale": "Süre doldu, opsiyon bitti.", "isCorrect": true },
+        { "text": "Misafir mahkemeye verilir", "rationale": "Gereksizdir.", "isCorrect": false },
+        { "text": "Sonsuza kadar beklenir", "rationale": "Oda boş kalamaz.", "isCorrect": false },
+        { "text": "Acente aranır", "rationale": "Bireyselse aranmaz.", "isCorrect": false }
+      ],
+      "hint": "Süre bitti, oyun bitti."
+    },
+    {
+      "questionNumber": 81,
+      "question": "Aşağıdakilerden hangisi 'İş Tanımı'nın (Job Description) faydalarından biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Personelin kafasını karıştırmak", "rationale": "Tam tersi, netleştirir.", "isCorrect": false },
+        { "text": "Yetki ve sorumluluk karmaşasını önlemek", "rationale": "Kimin ne yapacağı belli olursa çatışma çıkmaz.", "isCorrect": true },
+        { "text": "Maaşları düşürmek", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Müşteriyi kaçırmak", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Oteli satmak", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "'Bu benim işim değil' tartışmasını bitiren belge."
+    },
+    {
+      "questionNumber": 82,
+      "question": "Önbüro müdürü kime 'emir' veremez?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Resepsiyoniste", "rationale": "Verir.", "isCorrect": false },
+        { "text": "Bellboy'a", "rationale": "Verir.", "isCorrect": false },
+        { "text": "Genel Müdüre", "rationale": "Üstüne emir veremez, rapor verir.", "isCorrect": true },
+        { "text": "Santraliste", "rationale": "Verir.", "isCorrect": false },
+        { "text": "Rezervasyon memuruna", "rationale": "Verir.", "isCorrect": false }
+      ],
+      "hint": "Hiyerarşiyi düşünün."
+    },
+    {
+      "questionNumber": 83,
+      "question": "Koordinasyon (Eşgüdüm) eksikliği otelde neye yol açar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Daha iyi hizmete", "rationale": "Tam tersi.", "isCorrect": false },
+        { "text": "Departmanlar arası kopukluk, zaman kaybı ve müşteri şikayetine", "rationale": "Housekeeping odayı temizlemezse, Resepsiyon odayı satamaz.", "isCorrect": true },
+        { "text": "Kar artışına", "rationale": "Zarar getirir.", "isCorrect": false },
+        { "text": "Personel mutluluğuna", "rationale": "Stres yaratır.", "isCorrect": false },
+        { "text": "Yemeklerin lezzetine", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Senkronize olmayan bir orkestra gürültü çıkarır."
+    },
+    {
+      "questionNumber": 84,
+      "question": "Garantili rezervasyonda 'No-Show' ücreti neden alınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ceza olsun diye", "rationale": "Amaç tazmindir.", "isCorrect": false },
+        { "text": "Oda o misafir için tutulmuş ve başkasına satılamamıştır, gelir kaybı vardır", "rationale": "Otelin zararı tazmin edilir.", "isCorrect": true },
+        { "text": "Resepsiyonist prim alsın diye", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Devlet vergisi olduğu için", "rationale": "Ticari bir bedeldir.", "isCorrect": false },
+        { "text": "Misafir zengin olduğu için", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Boş kalan yatağın maliyeti."
+    },
+    {
+      "questionNumber": 85,
+      "question": "Waitlist (Bekleme Listesi) ne zaman kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Otel boşken", "rationale": "Gerek yoktur.", "isCorrect": false },
+        { "text": "Otel doluyken, iptal olması ihtimaline karşı alınan yedek rezervasyonlardır", "rationale": "Biri gelmezse sıradaki alınır.", "isCorrect": true },
+        { "text": "Restoranda yer varken", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Asansör beklerken", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Uçak kalkarken", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Sinema bileti bitti ama biri iade ederse alırım."
+    },
+    {
+      "questionNumber": 86,
+      "question": "Departure listesindeki bir misafirin çıkış saati geçmesine rağmen odada olduğu görülürse ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kapı kırılır", "rationale": "Güvenlik riski yoksa yapılmaz.", "isCorrect": false },
+        { "text": "Oda aranır veya nazikçe kapısı çalınarak durum sorulur, süre uzatma veya ücret talep edilir", "rationale": "İletişim kurulur ve prosedür uygulanır.", "isCorrect": true },
+        { "text": "Eşyaları atılır", "rationale": "Suçtur.", "isCorrect": false },
+        { "text": "Misafir dövülür", "rationale": "Suçtur.", "isCorrect": false },
+        { "text": "Hiçbir şey yapılmaz", "rationale": "Oda temizlenmelidir.", "isCorrect": false }
+      ],
+      "hint": "Belki uyuyakaldı, belki uzatmak istiyor. Önce sormak lazım."
+    },
+    {
+      "questionNumber": 87,
+      "question": "İş misafirleri neden 'hızlı check-in/check-out' ister?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sıkıldıkları için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Zamanları değerlidir ve işe yetişmeleri gerekir", "rationale": "Vakit nakittir.", "isCorrect": true },
+        { "text": "Ayakta duramadıkları için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Personeli sevmedikleri için", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Oteli sevmedikleri için", "rationale": "Değil.", "isCorrect": false }
+      ],
+      "hint": "Business = Hız."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Master Folio kim tarafından ödenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Her misafir kendi payını öder", "rationale": "O zaman bireysel folio olurdu.", "isCorrect": false },
+        { "text": "Grup yetkilisi, şirket veya acente tarafından toplu olarak ödenir", "rationale": "Toplu hesabın mantığı budur.", "isCorrect": true },
+        { "text": "Resepsiyonist öder", "rationale": "İmkansız.", "isCorrect": false },
+        { "text": "Devlet öder", "rationale": "Resmi heyet değilse hayır.", "isCorrect": false },
+        { "text": "Hiç kimse ödemez", "rationale": "İmkansız.", "isCorrect": false }
+      ],
+      "hint": "Grubun 'babası' kimse o öder."
+    },
+    {
+      "questionNumber": 89,
+      "question": "Şikayet yönetiminde müşteriye 'Hayır' demek gerekirse nasıl denmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sert bir şekilde", "rationale": "Kavgaya sebep olur.", "isCorrect": false },
+        { "text": "Gerekçesi açıklanarak ve alternatif sunarak nazikçe", "rationale": "'Bunu yapamıyorum AMA şunu yapabilirim' demek.", "isCorrect": true },
+        { "text": "Gülerek", "rationale": "Dalga geçiyor gibi algılanabilir.", "isCorrect": false },
+        { "text": "Yalan söyleyerek", "rationale": "Güven kaybedilir.", "isCorrect": false },
+        { "text": "Cevap vermeden", "rationale": "Saygısızlıktır.", "isCorrect": false }
+      ],
+      "hint": "Kapıyı kapatırken pencereyi açmak."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Telefonda 'Ses Tonu'nun önemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Önemsizdir", "rationale": "Çok önemlidir.", "isCorrect": false },
+        { "text": "Güven, nezaket ve profesyonelliği karşı tarafa aktaran tek araçtır", "rationale": "Görüntü olmadığı için her şey sese bağlıdır.", "isCorrect": true },
+        { "text": "Sadece bağırınca duyulur", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Elektriği iletir", "rationale": "Fizikseldir.", "isCorrect": false },
+        { "text": "Telefonun markasına bağlıdır", "rationale": "İnsana bağlıdır.", "isCorrect": false }
+      ],
+      "hint": "Ne söylediğin değil, nasıl söylediğin."
+    },
+    {
+      "questionNumber": 91,
+      "question": "Satış tekniklerinden 'Değerlendirme' aşaması ne işe yarar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yapılan pazarlama faaliyetlerinin sonucunu ölçmeye ve ders çıkarmaya", "rationale": "Başarılı olduk mu? sorusunun cevabıdır.", "isCorrect": true },
+        { "text": "Personeli kovmaya", "rationale": "Sadece buna yaramaz.", "isCorrect": false },
+        { "text": "Para harcamaya", "rationale": "Sonuçtur.", "isCorrect": false },
+        { "text": "Reklam yapmaya", "rationale": "Uygulamadır.", "isCorrect": false },
+        { "text": "Müşteriyi aramaya", "rationale": "Eylemdir.", "isCorrect": false }
+      ],
+      "hint": "Maç bittikten sonra skora bakmak ve hataları konuşmak."
+    },
+    {
+      "questionNumber": 92,
+      "question": "VIP hazırlık formunda (VIP Amenity Order) neler yazar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Odaya konulacak ikramlar (şarap, meyve vb.) ve dağıtım listesi", "rationale": "Hangi departmanın ne yapacağını gösterir.", "isCorrect": true },
+        { "text": "Misafirin borçları", "rationale": "Foliada yazar.", "isCorrect": false },
+        { "text": "Personel maaşları", "rationale": "Gizlidir.", "isCorrect": false },
+        { "text": "Yemek tarifleri", "rationale": "Mutfakta olur.", "isCorrect": false },
+        { "text": "Otelin tapusu", "rationale": "Alakasızdır.", "isCorrect": false }
+      ],
+      "hint": "Odaya girecek 'hediyelerin' listesi."
+    },
+    {
+      "questionNumber": 93,
+      "question": "Otel işletmesinde 'History Card' (Misafir Tarihçesi) tutmanın asıl amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Arşiv doldurmak", "rationale": "Amaçsızdır.", "isCorrect": false },
+        { "text": "Kişiye özel hizmet sunarak misafir memnuniyetini ve sadakatini artırmak", "rationale": "Misafirin yastık tercihini bile hatırlamak onu özel hissettirir.", "isCorrect": true },
+        { "text": "Polise vermek", "rationale": "Kayıt kartı verilir.", "isCorrect": false },
+        { "text": "Dedikodu yapmak", "rationale": "Etik değildir.", "isCorrect": false },
+        { "text": "Kağıt israf etmek", "rationale": "Değildir.", "isCorrect": false }
+      ],
+      "hint": "Müşteriyi 'tanımak'."
+    },
+    {
+      "questionNumber": 94,
+      "question": "Kayıt sırasında misafirden kimlik alınmasının temel sebebi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Merak", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Yasal zorunluluk (KBS/Polis bildirimi) ve güvenlik", "rationale": "Kanunen konaklayan herkes bildirilmelidir.", "isCorrect": true },
+        { "text": "Fotoğrafına bakmak", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Cüzdanını kontrol etmek", "rationale": "Değil.", "isCorrect": false },
+        { "text": "Adını öğrenmek (sözlü de olurdu)", "rationale": "Resmi teyit gerekir.", "isCorrect": false }
+      ],
+      "hint": "Polis 'kim kaldı?' diye sorarsa."
+    },
+    {
+      "questionNumber": 95,
+      "question": "Check-out sonrası misafirin unuttuğu eşya bulunursa ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çöpe atılır", "rationale": "Asla.", "isCorrect": false },
+        { "text": "Personel alır", "rationale": "Hırsızlıktır.", "isCorrect": false },
+        { "text": "'Lost and Found' (Kayıp Eşya) prosedürü uygulanır, kayıt altına alınır ve saklanır", "rationale": "Misafir aradığında bulunabilmesi için saklanır.", "isCorrect": true },
+        { "text": "Diğer misafire verilir", "rationale": "Asla.", "isCorrect": false },
+        { "text": "Satılır", "rationale": "Belirli bir süre geçmeden satılamaz.", "isCorrect": false }
+      ],
+      "hint": "Kayıp Eşya Ofisi."
+    },
+    {
+      "questionNumber": 96,
+      "question": "Sınav için altın kural: 'En önemli yönetim işlevi' hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Denetim", "rationale": "Sonuçtur.", "isCorrect": false },
+        { "text": "Planlama", "rationale": "Her şey planla başlar, o olmadan diğerleri olmaz.", "isCorrect": true },
+        { "text": "Örgütleme", "rationale": "İkincidir.", "isCorrect": false },
+        { "text": "Yöneltme", "rationale": "Üçüncüdür.", "isCorrect": false },
+        { "text": "Koordinasyon", "rationale": "Süreçtir.", "isCorrect": false }
+      ],
+      "hint": "Binayı yapmadan önce projesini çizmek."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Şikayet eden müşteri neden 'ikinci bir şans veren' müşteridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çünkü gitmemiştir, hatanızı yüzünüze söyleyip düzeltmenizi beklemiştir", "rationale": "Sessizce gidip bir daha gelmeyebilirdi.", "isCorrect": true },
+        { "text": "Çünkü çok parası vardır", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Çünkü bağırmayı sever", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Çünkü rakip oteldir", "rationale": "Değildir.", "isCorrect": false },
+        { "text": "Çünkü işsizdir", "rationale": "Değildir.", "isCorrect": false }
+      ],
+      "hint": "Sessizce terk eden sevgili mi, kavga edip çözüm arayan sevgili mi?"
+    },
+    {
+      "questionNumber": 98,
+      "question": "'Telefonda beden dili yoktur' sözü doğru mudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Evet, görünmezler", "rationale": "Fiziksel olarak görünmez ama etkisi vardır.", "isCorrect": false },
+        { "text": "Hayır, ses tonu telefondaki beden dilidir", "rationale": "Gülümseme, duruş ve enerji sese yansır.", "isCorrect": true },
+        { "text": "Evet, sadece kelimeler vardır", "rationale": "Tonlama çok şeyi değiştirir.", "isCorrect": false },
+        { "text": "Telefon bozuksa yoktur", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Sadece görüntülü konuşmada vardır", "rationale": "Sesli iletişimde de tonlama beden dilinin yerini tutar.", "isCorrect": false }
+      ],
+      "hint": "Telefonda 'alo' deyişinden birinin kızgın olduğunu anlamak."
+    },
+    {
+      "questionNumber": 99,
+      "question": "Extra Self sadece hangi rezervasyonlarda geçerlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Münferit", "rationale": "Kişi kendi öder zaten.", "isCorrect": false },
+        { "text": "Acente garantili", "rationale": "Acente odayı öder, gerisini misafire bırakır.", "isCorrect": true },
+        { "text": "Walk-in", "rationale": "Hepsini misafir öder.", "isCorrect": false },
+        { "text": "Complimentary", "rationale": "Oda bedavadır.", "isCorrect": false },
+        { "text": "House Use", "rationale": "Personel kalır.", "isCorrect": false }
+      ],
+      "hint": "Paket turla gelen turist ekstra kolasını kendi öder."
+    },
+    {
+      "questionNumber": 100,
+      "question": "Folio için kullanılan 'Misafirin oteldeki pasaportudur' sözü neyi anlatır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kimlik yerine geçtiğini", "rationale": "Geçmez.", "isCorrect": false },
+        { "text": "Otelin içinde hizmet alabilmek için (restoran, bar vb.) harcama yetkisini ve kaydını temsil ettiğini", "rationale": "Oda numarası ve folio hesabı olmadan otelde hiçbir hizmeti hesaba yazdıramazsınız.", "isCorrect": true },
+        { "text": "Yurtdışına çıkarken kullanıldığını", "rationale": "Alakasızdır.", "isCorrect": false },
+        { "text": "Polis kontrolünde kullanıldığını", "rationale": "Alakasızdır.", "isCorrect": false },
+        { "text": "Odayı açtığını", "rationale": "O anahtardır.", "isCorrect": false }
+      ],
+      "hint": "Restoranda 'hesabı odaya yaz' diyebilmek için neye ihtiyacınız var?"
+    }
+  ]
+}

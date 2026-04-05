@@ -1,0 +1,1324 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Bir F&B işletmesinin başarılı olması için gerekli olan iki temel unsur aşağıdakilerden hangisinde doğru verilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Reklam ve Lokasyon",
+          "rationale": "Metinde işletmenin başarısı için belirtilen temel unsurlar bunlar değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiyat ve Dekorasyon",
+          "rationale": "Dekorasyon önemli olsa da, temel iki unsurdan biri olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis ve Yemekler",
+          "rationale": "Metinde açıkça bir F&B işletmesinin başarılı olması için iki unsurun servis ve yemekler olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hijyen ve Müzik",
+          "rationale": "Bunlar tamamlayıcı unsurlardır ancak metindeki temel iki unsur değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hız ve Menü Genişliği",
+          "rationale": "Metinde bu faktörler işletmenin ana başarı sırrı olarak geçmemektedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir tanesi ne yediğinizle, diğeri ise bunun size nasıl sunulduğuyla ilgilidir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Misafirin yanına yaklaşma kurallarına göre, servis personeli misafire sağ taraftan yaklaşırken hangi adımını öne atmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sol ayak",
+          "rationale": "Sağ taraftan yaklaşırken sol ayak ileride olmaz, denge ve servis açısı için yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağ ayak",
+          "rationale": "Kurallara göre sağ taraftan yaklaşırken sağ ayak ileride olmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İki ayak yan yana olmalıdır",
+          "rationale": "Dinamik bir duruş ve servis esnekliği için bir ayağın önde olması gerekir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hangi ayak olduğu fark etmez",
+          "rationale": "Servis kurallarında duruş ve yaklaşım çok spesifik olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geriye doğru adım atarak yaklaşılmalıdır",
+          "rationale": "Misafire doğru yürünmelidir, geriye doğru değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yaklaşılan yön ile aynı taraftaki ayak ileride olmalıdır."
+    },
+    {
+      "questionNumber": 3,
+      "question": "İşletme açısından değerlendirildiğinde, yiyecek içecek servisinin en önemli anlamı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sosyalleşme",
+          "rationale": "Bu daha çok misafir cephesiyle ilgili bir unsurdur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sanat icrası",
+          "rationale": "Servis bir sanat olsa da, işletmenin varoluşsal temel amacı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Para (Kâr)",
+          "rationale": "Metinde işletme açısından yiyecek içecek servisinin en önemli anlamının para (kâr) olduğu açıkça belirtilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eğitim",
+          "rationale": "İşletmenin temel amacı eğitim vermek değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kültürel aktarım",
+          "rationale": "Kültürel aktarım bir yan fayda olabilir fakat en önemli işletme amacı paraktır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir işletmenin hayatta kalması ve ömrünün uzun olması neye bağlıdır?"
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi masalarda bulunan 'Menaj' ürünleri arasında yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tuz ve Biber",
+          "rationale": "Tuz ve biber temel menaj ürünlerindendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Balzamik Sirke",
+          "rationale": "Sirke türleri menaj dahilindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hardal ve Ketçap",
+          "rationale": "Soslar menaj ürünleri kapsamında sayılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tereyağı",
+          "rationale": "Tereyağı bir menaj ürünü değil, genellikle başlangıç veya kahvaltı yiyeceğidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zeytinyağı",
+          "rationale": "Zeytinyağı standart menaj çeşitlerinden biridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Soğuk olarak muhafaza edilmesi gereken, sürülebilir bir yiyecektir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Servantların hazırlanmasıyla ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tüm servantlarda yerleşim düzeni aynı olmalıdır.",
+          "rationale": "Düzenin her yerde aynı olması personelin işini kolaylaştırır, doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bulunduğu yerde salondaki diğer mobilyalarla uyumlu olmalıdır.",
+          "rationale": "Dekoratif uyum restoran için bir kuraldır, doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "İlgili istasyona uzak, gizli bir alanda olmalıdır.",
+          "rationale": "Metne göre servant ilgili istasyona yakın ve uygun bir yerde olmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Her zaman temiz ve düzenli olmalıdır.",
+          "rationale": "Temizlik temel kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genel isteklere cevap verebilecek kapasitede olmalıdır.",
+          "rationale": "Personelin ihtiyaçlarını karşılayabilmelidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Servis elemanının ihtiyacı olduğunda oraya ulaşması nasıl olmalıdır?"
+    },
+    {
+      "questionNumber": 6,
+      "question": "Servis arabalarının servise hazırlanması ve kullanımıyla ilgili hangi ifade doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece sıcak yemek taşımada kullanılırlar.",
+          "rationale": "Soğuk ve sıcak ürünler taşınabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Götürülecekleri yere çekerek götürülmelidirler.",
+          "rationale": "Metne göre çekerek değil, iterek götürülmelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Götürülecekleri yere iterek götürülmelidirler.",
+          "rationale": "Metinde açıkça servis arabalarının çekerek değil iterek götürülmesi gerektiği yazmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Servis öncesi temizlenmelerine gerek yoktur.",
+          "rationale": "Öncelikle çok iyi temizlenmeleri gerektiği belirtilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İçlerinde hiçbir zaman buz kullanılmaz.",
+          "rationale": "Soğuk taşınacaksa buz yatak kullanılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Arabayı kullanırken arabanın sizin önünüzde mi arkanızda mı olması gerekir?"
+    },
+    {
+      "questionNumber": 7,
+      "question": "Masaların servise hazırlanması (yerleşim planlaması) sırasında aşağıdakilerden hangisi yapılmamalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişilere ayrılan alanın yeterli olmasına dikkat edilmesi.",
+          "rationale": "Misafir rahatlığı için bu alan yeterli olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sandalyelerin masa ayaklarına denk getirilmesi.",
+          "rationale": "Metinde sandalyelerin masa ayaklarına denk getirilmemesi gerektiği vurgulanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Girişler, kolonlar ve servis yollarının dikkate alınması.",
+          "rationale": "Salonun mimari engelleri planlamada önemlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masaların aynı sırada ve simetrik olarak yerleştirilmesi.",
+          "rationale": "Görsel düzen için masalar simetrik olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Özel istekler ve grup yapılarının dikkate alınması.",
+          "rationale": "Grup düzenleri için planlama şarttır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafir masaya oturduğunda bacaklarının rahat etmesi için neyin engellememesi gerekir?"
+    },
+    {
+      "questionNumber": 8,
+      "question": "Aşağıdakilerden hangisi 'Kuver' (Couvert) tanımı içerisinde yer alan bir malzeme değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Masa örtüsü ve kapak",
+          "rationale": "Kuver malzemeleri arasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Peçete",
+          "rationale": "Kuverin vazgeçilmez bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazo ve Şamdan",
+          "rationale": "Vazo, şamdan ve küllük gibi malzemeler kuver içinde yer almaz, atmosfer sağlayan tamamlayıcı malzemelerdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çatal, kaşık ve bıçaklar",
+          "rationale": "En temel kuver ekipmanlarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menaj",
+          "rationale": "Menaj (tuz, biber) kuverin bir parçasıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Masaya sadece dekoratif veya atmosferik katkı sağlamak amacıyla konulan öğelerdir."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Kuver açarken çatal, kaşık ve bıçakların kullanımıyla ilgili temel kural aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Takımlar içeriden dışarıya doğru dizilir ve dışarıdan içeriye doğru kullanılır.",
+          "rationale": "Metne göre takımlar tabağa yakın kısımdan uzağa dizilir ve misafir en dıştakinden başlayarak içeri doğru kullanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Takımlar dışarıdan içeriye doğru dizilir ve içeriden dışarıya doğru kullanılır.",
+          "rationale": "Kullanım sırası dışarıdan içeriye doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemekte tek bir takım kullanılacaksa sola konur.",
+          "rationale": "Tek takımla yenen yemeklerde (çorba gibi) sağa konur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm takımlar kuver tabağının üst tarafında toplanır.",
+          "rationale": "Üst tarafa sadece tatlı takımları konur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Boyutlarına göre küçükten büyüğe sıralanırlar.",
+          "rationale": "Sıralama yemeklerin geliş sırasına göredir, boyuta göre değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafir ilk yiyeceği yemeğe başlarken, elleri masanın en neresine uzanır?"
+    },
+    {
+      "questionNumber": 10,
+      "question": "Tatlı takımları (çatal ve bıçak) kuverde nereye ve nasıl yerleştirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tabağın sağına dik açıyla",
+          "rationale": "Sağ tarafa ana yemek bıçak/kaşıkları gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tabağın soluna paralel şekilde",
+          "rationale": "Sol tarafa çatallar gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tabağın içine çapraz şekilde",
+          "rationale": "Takımlar hiçbir zaman tabağın içine konmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuver tabağının üst tarafında, masaya paralel gelecek şekilde",
+          "rationale": "Tatlı takımları her zaman tabağın üst kısmına ve masa kenarına paralel şekilde konulur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Su bardağının arkasına saklanarak",
+          "rationale": "Böyle bir servis kuralı yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu takımlar, kuver tabağının saat 12 yönünde bulunur."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Kuver tabağı ile yanlarındaki çatal ve bıçak arasındaki mesafe eşit olmalı ve en fazla kaç cm olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "1 cm",
+          "rationale": "1 cm çok sıkışık bir düzendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "2 cm",
+          "rationale": "Metinde bu mesafenin eşit olması ve 2 cm'yi geçmemesi gerektiği belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "3 cm",
+          "rationale": "3 cm mesafe için fazladır.",
+          "isCorrect": false
+        },
+        {
+          "text": "4 cm",
+          "rationale": "Tabak ile takım arası için 4 cm kural dışıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesafe fark etmez, göz kararı konur",
+          "rationale": "Servis sanatında belirli standart ölçüler mevcuttur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir madeni para çapından biraz daha küçüktür."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Masa üzerindeki tabaklarda otel logosu (amblemi) varsa, bu logolar nereye bakacak şekilde yerleştirilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Giriş kapısına doğru",
+          "rationale": "Vazo ve tuzluk amblemleri kapıya bakar, tabaklar değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak kapısına doğru",
+          "rationale": "Mutfağa bakmasının bir anlamı yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konukların karşısına (misafire) gelecek şekilde",
+          "rationale": "Misafirin marka imajını görmesi için doğrudan konuğa bakmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Masanın tam ortasına doğru",
+          "rationale": "Amblemler masanın merkezine değil misafire bakar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amblemin yönü önemli değildir",
+          "rationale": "Lüks restoranlarda her detayın bir kuralı vardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafir yemeğini yerken işletmenin markasını net olarak görebilmelidir."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Su bardağı masada hangi hizaya ve konuma yerleştirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ana yemek bıçağının 2-3 cm karşısına",
+          "rationale": "Metne göre su bardağı, sağdaki ana yemek bıçağının tam karşısına 2-3 cm mesafeye konur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kuver tabağının sol üstüne",
+          "rationale": "Bardaklar kuverin sağında bulunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekmek tabağının yanına",
+          "rationale": "Ekmek tabağı soldadır, bardaklar sağdadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tatlı kaşığının hemen yanına",
+          "rationale": "Tatlı takımlarının hizasına ancak sağ köşeye konur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ana yemek çatalının hemen arkasına",
+          "rationale": "Çatal sol taraftadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İçki ve su bardakları genel kural olarak sağ elle kullanıldıkları için sağ tarafta bir takımın ucuna konurlar."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Kuver açarken belirlenen takım yerleştirme sınırlarına göre, kuver tabağının SOLUNDA en fazla kaç takım yer alabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "2",
+          "rationale": "Limit 2'den fazladır.",
+          "isCorrect": false
+        },
+        {
+          "text": "3",
+          "rationale": "Metinde sol tarafta en fazla 3 takımın bulunabileceği ifade edilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "4",
+          "rationale": "Sağ tarafta en fazla 4 takım bulunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "5",
+          "rationale": "5 takım masayı çok kalabalık gösterir, kurala aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sınır yoktur",
+          "rationale": "Serviste estetik ve sadelik açısından sınırlar vardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sağ tarafa 4 takım konulabilirken, sol tarafa bundan bir eksik konulur."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Ekmek ve salata tabakları neden kuverin sol tarafına konulmaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sağ tarafta bardaklar olduğu için ve çatal sol elde tutulduğundan kullanım kolaylığı sağlamak için",
+          "rationale": "Metinde hem sağda bardakların yer kaplaması hem de sol elde çatal varken salata yemenin kolaylığı sebebiyle bu kuralın olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Estetik olarak daha güzel göründüğü için",
+          "rationale": "Estetikten ziyade ergonomi ve kullanım kolaylığı sebeptir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garsonun masaya soldan yaklaşması gerektiği için",
+          "rationale": "Servis yönüyle tabağın sabit konumu arasında böyle bir bağ kurulmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masada başka boş yer kalmadığı için",
+          "rationale": "Masada yer olsa dahi kural gereği sola konur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geleneksel Fransız kuralı olduğu için",
+          "rationale": "Ergonomik nedenlerle genel bir uluslararası kuraldır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İnsanların büyük çoğunluğunun sağ elini kullanması masanın sağ tarafını doldurur, ayrıca yemek esnasında sol elde tutulan aletle ilgilidir."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Aşağıdakilerden hangisi 'Basit Kuver'in standart malzemelerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kuver tabağı ve peçete",
+          "rationale": "Basit kuverde bulunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Büyük boy çatal, kaşık ve bıçak",
+          "rationale": "Ana yemek için basit kuverde yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su bardağı",
+          "rationale": "Basit kuverin olmazsa olmazıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Istakoz pensi ve salyangoz takımı",
+          "rationale": "Bunlar 'özel servis takımları'dır, basit kuverde bulunmazlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tuz ve biberlik",
+          "rationale": "Menaj grubu basit kuvere dahildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sadece belirli, nadir sipariş edilen lüks deniz ürünleri için gereken bir alettir."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Masa örtülerinin katlanmasında izlenecek doğru sıra aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Boylamasına 1 kez, enlemesine 3 kez katlanır.",
+          "rationale": "Doğru katlama oranları bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Enlemesine 2 kez, boylamasına 2 kez katlanır.",
+          "rationale": "Önce boylamasına katlanmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Boylamasına 2 kez, enlemesine 2 kez katlanır.",
+          "rationale": "Metinde sırasıyla boylamasına ikiye, tekrar boylamasına ikiye, sonra enlemesine ikiye ve tekrar enlemesine ikiye katlandığı yazmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece boylamasına rulo yapılır.",
+          "rationale": "Rulo yapılmaz, katlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Katlanmaz, açık şekilde asılır.",
+          "rationale": "Depolama için belirli bir sistemle katlanması gerekir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İşlem toplam dört adımdan oluşur; ilk ikisi bir yöne, son ikisi diğer yönedir."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Restoranlarda peçetelerin katlanması ve kullanımı ilk olarak hangi yüzyılda başlamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "XIV. yüzyıl",
+          "rationale": "Metinde bu yüzyıl geçmemektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "XV. yüzyıl",
+          "rationale": "Doğru yüzyıl değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "XVI. yüzyıl",
+          "rationale": "Peçetelerin kullanımı ve katlanmasının XVI. yüzyılda başlayıp geliştiği belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "XVIII. yüzyıl",
+          "rationale": "Daha erken bir tarihte başlamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "XIX. yüzyıl",
+          "rationale": "Peçete tarihi daha eskilere dayanır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "1500'lü yıllara tekabül eden yüzyıldır."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Aşağıdakilerden hangisi özel servis takımlarından biri olarak gösterilmemiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Istakoz Pensi",
+          "rationale": "Özel takımlar listesinde vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Salyangoz Takımı",
+          "rationale": "Özel takımlar listesinde vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İstiridye Çatalı",
+          "rationale": "Özel takımlar listesinde vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuşkonmaz Maşası",
+          "rationale": "Özel takımlar listesinde vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tereyağı Bıçağı",
+          "rationale": "Tereyağı bıçağı özel takım değil, lüks restoranlarda basit kuver içinde bile bulunan temel bir takımdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Deniz ürünü veya spesifik sebzeler için değil, her kahvaltıda veya ekmek servisinde kullanılan genel bir alettir."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Fransız servisinin en temel felsefesi (asıl olan kuralı) aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yemeklerin masada pişirilmesi",
+          "rationale": "Flambe servisi yapılsa da temel asıl kuralı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sunulan yemeğin misafirin kendisi tarafından tabağına servis edilmesidir",
+          "rationale": "Fransızların 'yemek konusunda kimseden bir şey öğrenmeyiz' mantığıyla kendi yemeklerini kendilerinin aldığı servistir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tüm yemeklerin aynı anda masaya bırakılması",
+          "rationale": "Bu daha çok Türk veya Rus servisinde görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemeklerin mutfakta tabaklanıp getirilmesi",
+          "rationale": "Bu Amerikan servisinin özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece gümüş takımların kullanılması",
+          "rationale": "Silver service dense de asıl özelliği yemeğin alınış şeklidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Fransızlar yemek konusunda bilgili olduklarını iddia eder ve yemeği tabağa garsonun koymasını tercih etmezler."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Fransız servisinin tüm dünyada bilinen diğer adı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Golden service",
+          "rationale": "Böyle bir servis terimi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gueridon service",
+          "rationale": "Gueridon daha çok İngiliz servisiyle anılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Silver service",
+          "rationale": "Fransız servisi tüm dünyada silver service olarak bilinir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Plated service",
+          "rationale": "Plated service Amerikan servisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Banquet service",
+          "rationale": "Ziyafet servisi bambaşka bir kavramdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Gümüş kelimesinin İngilizce karşılığından gelir."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Fransız servisinde misafire su servisi yapıldıktan hemen sonra mideyi yemeğe alıştırmak için servis edilen ürün hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Zeytinyağı ve sirke",
+          "rationale": "Bu daha çok modern Akdeniz restoranlarında görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Peynir tabağı",
+          "rationale": "Peynir genellikle yemeğin sonunda verilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tereyağı - kızarmış ekmek",
+          "rationale": "Metinde bu servisin belirgin özelliğinin tereyağı-kızarmış ekmek servisi olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Küçük bir kase konsome",
+          "rationale": "Konsome çorbadır, ilk atıştırmalık değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Havyar",
+          "rationale": "Havyar özel bir sipariştir, standart başlangıç ikramı değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ekmeğin üzerine sürülerek yenilen sarı renkli hayvansal bir yağdır."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Çorba servisinde kullanılan, konsomenin içine koyulduğu porselen kabın adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Reşo",
+          "rationale": "Reşo yemekleri sıcak tutan ısıtıcı donanımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Closh",
+          "rationale": "Closh, sıcak tabakların üzerini kapatan kapaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tureen",
+          "rationale": "Metinde çorba kabının adının 'Tureen' olduğu geçmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gueridon",
+          "rationale": "Gueridon portatif servis masasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menaj",
+          "rationale": "Menaj sosluk ve baharatlıklardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kelime 'T' harfi ile başlamaktadır ve genellikle seramik/porselenden üretilir."
+    },
+    {
+      "questionNumber": 24,
+      "question": "İngiliz servisinin temel çıkış noktası (kökeni) aşağıdakilerden hangisine dayanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Saraylarda kralların gösteriş için yemek sunmasına",
+          "rationale": "Bu daha çok Rus servisinin kökenidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İngiliz ailelerinde aile reisinin yemekleri hane halkına paylaştırmasına",
+          "rationale": "Metin, İngiliz servisinin temelinin aile reisinin yemek dağıtması olduğunu söyler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hızlı tüketim için fabrikalarda çıkan yeme sistemine",
+          "rationale": "Hızlı tüketim Amerikan tarzıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Askeriyede kazanlarda yemek dağıtılmasına",
+          "rationale": "Böyle bir bilgi metinde yer almaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece çay ve tatlı ikramı yapılan eski ritüellere",
+          "rationale": "İngiliz servisi tüm yemeği kapsar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Eski zamanlarda masanın başında oturan babanın yemeği çocuklarına ve eşine bölüştürmesi geleneğidir."
+    },
+    {
+      "questionNumber": 25,
+      "question": "İngiliz servisinde yemeğin konuklara servis edilmeden önce porsiyonlandığı hareketli servis masasına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tray Jack",
+          "rationale": "Tray Jack Amerikan servisinde tepsiyi koymak içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tureen",
+          "rationale": "Tureen çorba kasesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gueridon",
+          "rationale": "Yemeklerin salonda tabaklanarak servis edildiği masaya Gueridon denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Servant",
+          "rationale": "Servant garsonun genel istasyon dolabıdır, tabaklama orada yapılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Closh",
+          "rationale": "Closh kapaktır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kelime G harfi ile başlar."
+    },
+    {
+      "questionNumber": 26,
+      "question": "İngiliz servisinde tabağa yerleştirme kuralına göre, karbonhidratlı garnitürler tabağın neresinde yer almalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafire en yakın kısımda",
+          "rationale": "Misafire yakın kısımda ana yemek (et vb.) bulunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağ tarafta",
+          "rationale": "Sağda iri taneli sebzeler bulunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sol tarafta",
+          "rationale": "Solda küçük taneli sebzeler bulunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ana yemeğin tam karşısında (üst tarafta)",
+          "rationale": "Karbonhidratlı garnitürler misafirin tam karşısına (tabağın üst kısmına) konur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ayrı bir tabakta sunulur",
+          "rationale": "İngiliz servisinde aynı tabağa nizami yerleştirilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Eğer ana yemek saatin 6 yönündeyse, bu garnitürler saat 12 yönünde olur."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Gösterişin ön planda olduğu, misafirlere ev sahibinin zenginliğini ve üstünlüğünü empoze etmek amacıyla sıcak yemeklerin orkestra eşliğinde gösterilerek sunulduğu servis türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Amerikan Servisi",
+          "rationale": "Amerikan servisi sade ve hızlıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İngiliz Servisi",
+          "rationale": "Gueridon usulüdür, orkestra vb. ihtişam Rus servisine aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rus Servisi",
+          "rationale": "Saraydan çıkan, dekorasyon ve gösterişin ön planda olduğu servis Rus servisidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Türk Usulü Servis",
+          "rationale": "Türk servisinde mezelerin uzun süre masada kalması esastır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fransız Servisi",
+          "rationale": "Fransız servisinde konuk yemeği kendisi alır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çarlık dönemindeki ihtişamlı saraylardan çıkmış bir usuldür."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Başlangıçların masadaki kişi sayılarına göre tabaklarda getirilip tüm servis boyunca (hatta tatlıya kadar) masada kaldığı servis çeşidi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rus Servisi",
+          "rationale": "Soğuklar masada olsa da tatlıya kadar kalma kuralı Türk servisine hastır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Türk Usulü Servis",
+          "rationale": "Türk usulü serviste meze ve başlangıçlar tatlı servisine kadar masada kalır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Amerikan Servisi",
+          "rationale": "Amerikan servisinde tabaklar bittikçe hemen toplanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fransız Servisi",
+          "rationale": "Porsiyonlamalar veya yemeği alma işlemleri tabak bittikçe yenilenerek devam eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "İngiliz Servisi",
+          "rationale": "Gueridonda yapılan bu serviste masada devamlı başlangıç bırakılmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Meze kültürünün yaygın olduğu coğrafyamıza ait bir servis türüdür."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Aşağıdakilerden hangisi Amerikan servisinin avantajlarından biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çok donanımlı personele ihtiyaç duymaması",
+          "rationale": "Bu sistemin bilinen avantajlarındandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servisin çok hızlı gerçekleşmesi",
+          "rationale": "Hızlı iş temposuna uyum sağlayan en bariz avantajıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masaya atılan set-up'ın (kuverin) basit olması",
+          "rationale": "Basit kuver pratiklik sağlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirlerin kendi yemeğini kendisinin porsiyonlaması",
+          "rationale": "Bu Amerikan değil Fransız servisinin özelliğidir. Amerikan servisinde yemek mutfaktan porsiyonlanıp gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gueridon (masa servantı) ihtiyacının olmaması",
+          "rationale": "Mutfaktan hazır geldiği için gueridona gerek yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Amerikan servisinde yemek aşçı tarafından mutfakta tabağa konulmuş bir şekilde misafirin önüne gelir."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Amerikan servisinde kullanılan, tepsileri salon içinde taşırken üzerine koymak için kullanılan portatif eşeklere ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Servant",
+          "rationale": "Servant sabit dolaptır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gueridon",
+          "rationale": "Gueridon porsiyonlama masasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Closh",
+          "rationale": "Closh kapaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tureen",
+          "rationale": "Tureen çorbalıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tray Jack",
+          "rationale": "Tepsiyi koymak için kullanılan portatif ayaklara Tray Jack denir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "İngilizce 'tepsi' (tray) kelimesini içerir."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Amerikan servisinde tabakların üzerinde sıcak tutmak için kullanılan 'Closh' varsa, servis misafirin hangi yönünden yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sağdan",
+          "rationale": "Closh yoksa sağdan yapılır, varsa soldandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soldan",
+          "rationale": "Metne göre closh varsa servis soldan yapılmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Karşıdan",
+          "rationale": "Karşıdan servis yapılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geri taraftan (Omuz üstü)",
+          "rationale": "Bu tehlikeli ve kural dışıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fark etmez",
+          "rationale": "Closh durumuna göre yön kuralı katıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Genel Amerikan servis yönünün (sağ) tam tersidir."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Amerikan servisinde boş tabakların toplanması işlemi genellikle nasıl yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sol taraftan sağ kol üzerine koyarak",
+          "rationale": "Kurallar bunun tersini söyler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağ taraftan sol kol üzerine koyarak",
+          "rationale": "Boşların toplanması genellikle sağ taraftan sol kol üzerine alınarak yapılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Masadan misafire uzatarak",
+          "rationale": "Misafiri rahatsız edecek bir harekettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis arabasıyla tüm tabakları aynı anda toplayarak",
+          "rationale": "Restoran içinde arabayla tabak sıyırma işlemi şık bulunmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Closh kapatılıp soldan alınarak",
+          "rationale": "Closh, boş toplamak için değil sıcak getirmek içindir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Garson masaya genelde bir yönünden yanaşır ve diğer kolunda tabakları biriktirir."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Oda servisi (Room Service) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "24 saat hizmet verir.",
+          "rationale": "Oda servisi kesintisiz hizmet verir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiyatları diğer servis departmanlarına göre daha ucuzdur.",
+          "rationale": "Metne göre oda servisinde fiyatlar diğer servis departmanlarına göre daha pahalıdır ancak kar oranı düşüktür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kâr oranı düşüktür.",
+          "rationale": "Operasyonel maliyetlerden dolayı böyledir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personeli diğerlerine göre daha deneyimli olmalıdır.",
+          "rationale": "Yalnız çalışıldığından tecrübe şarttır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Özellikle kahvaltı saatlerinde çok yoğun çalışır.",
+          "rationale": "İnsanlar en çok sabah odalarına sipariş verir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Özel bir ulaştırma ve hizmet gerektiği için menü rakamları restoran menüsüne kıyasla daha yüksektir."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Oda servis ofisinde, odalardan telefonla gelen siparişleri alan personelin unvanı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Head Waiter",
+          "rationale": "Şeftir, telefonu açmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Chef D'etage",
+          "rationale": "Odada servisi sunan garsondur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Commis de Rang",
+          "rationale": "Genel restoran komisine verilen isimdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Order taker",
+          "rationale": "Siparişleri alan ve ofisi koordine eden kişi 'Order taker'dır.",
+          "isCorrect": true
+        },
+        {
+          "text": "F&B Manager",
+          "rationale": "Tüm departmanın müdürüdür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İngilizce 'sipariş alan' anlamına gelen bir terimdir."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Konuk odalarında yiyecek içecek servisini bizzat yapan 'Chef D'etage' rütbesi restoran organizasyonunda kime denktir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Komiye",
+          "rationale": "Chef d'etage tecrübelidir, komi tecrübesizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Chef de Rang'a",
+          "rationale": "Metinde oda servis garsonunun Chef de Rang ayarında bir eleman olduğu belirtilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maitre D'hotel'e",
+          "rationale": "Maitre D'hotel restoran müdürüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aşçıbaşına",
+          "rationale": "Mutfakla ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Order Taker'a",
+          "rationale": "Order taker ofiste bulunur, odaya çıkmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir restoranda bir istasyonun (postanın) şefi olan kişiye denk gelen rütbedir."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Telefonla sipariş alınırken uygulanan satış tekniklerine göre, konuğa 'Tatlı olarak ne almak istersiniz?' diye sormak satış başarısını hangi orana çıkarır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "%20",
+          "rationale": "Çok düşük bir tahmindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%50",
+          "rationale": "'Tatlı alır mısınız?' diye sorulduğunda oran %50'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%85",
+          "rationale": "Metne göre seçenek sunularak sorulduğunda satış ihtimali %85'e çıkmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "%100",
+          "rationale": "Kesin garanti hiçbir satış yönteminde yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "%10",
+          "rationale": "Satışı düşüren değil artıran bir tekniktir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sadece evet/hayır seçeneği bırakmadığınız için başarı oldukça yüksek bir yüzdeye ulaşır."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Oda servisinde konuğun kapı koluna asarak sipariş verdiği kahvaltı kartına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Order Slip",
+          "rationale": "Sipariş fişidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menu Card",
+          "rationale": "Genel menüye verilen addır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Door Knob",
+          "rationale": "Kapı koluna asılan bu sipariş kartına 'Door knob' denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Table Out",
+          "rationale": "Boşların odadan çıkarılması eylemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Room Service Log",
+          "rationale": "Kayıt defteridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İngilizce 'kapı tokmağı' anlamına gelen iki kelimeden oluşur."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Aşağıdakilerden hangisi bir 'Door Knob' (kahvaltı kapı kartı) üzerinde bulunması gereken bilgilerden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oda numarası",
+          "rationale": "Siparişin nereye gideceğini belirtmek için şarttır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garsonun ismi",
+          "rationale": "Servisi yapacak garson önceden belli olmaz, karta yazılmaz.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kahvaltının istenildiği saat",
+          "rationale": "Zaman planlaması için mecburidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuk sayısı",
+          "rationale": "Kaç kişilik malzeme çıkacağını belirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kahvaltı çeşitleri ve fiyatları",
+          "rationale": "Misafirin seçim yapması için menü gibidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kart gece doldurulup kapıya asılır, sabah o servisi kimin getireceği misafirin dolduracağı bir bilgi değildir."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Oda servisinde telefonla gelen siparişlerde, santral sisteminde misafirin odası görüldüğünde telefona cevap veren personel nasıl bir hitap kullanmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece 'Buyrun' demelidir.",
+          "rationale": "Yeterince profesyonel ve konuksever bir karşılama değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuğa ismiyle (adıyla) hitap etmelidir.",
+          "rationale": "Metne göre konuğu ismen tanıyıp adıyla hitap etmek konuğun hoşuna gider ve şaşırtır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oda numarasını söyleyerek teyit etmelidir.",
+          "rationale": "Direkt numara söylemek soğuk bir iletişimdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece siparişi dinlemelidir.",
+          "rationale": "Aktif bir karşılama yapmak gerekir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müdürünün ismini vererek açmalıdır.",
+          "rationale": "Bunun misafir için bir anlamı yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafire kendisini özel hissettiren, kişiselleştirilmiş bir hitap şeklidir."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Özel misafirlere (VIP) odalarında sunulacak İkram Yiyecek ve İçeceklerin hazırlanması için gereken 'Oda İkram Formu'nu garsona kim teslim eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Resepsiyonist",
+          "rationale": "Resepsiyon sadece bildirim yapar, yiyecek formunu bizzat teslim etmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aşçıbaşı",
+          "rationale": "Aşçıbaşı mutfaktan sorumludur, salon/oda şefliği yapmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda Servis Şefi (Head Waiter)",
+          "rationale": "Metinde oda servis şefinin ikram formunu garsona ilettiği yazar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Order taker",
+          "rationale": "Order taker normal siparişleri koordine eder, ücretsiz ikram onayını şef verir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteri",
+          "rationale": "Müşteri ikramı talep edemez, işletme jest olarak sunar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Oda servisi departmanının en üst düzey yöneticisidir."
+    }
+  ]
+}

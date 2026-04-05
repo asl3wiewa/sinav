@@ -1,0 +1,664 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi garnitür hazırlamanın temel amaçlarından biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yemeğin besin değerini artırmak.",
+          "rationale": "Garnitürler ana yemeği tamamlayarak besin değerini yükseltir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemeğin görünüşünü güzelleştirerek sunumu zenginleştirmek.",
+          "rationale": "Garnitürün en temel işlevlerinden biri görsel zenginlik sağlamaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ana yemeğin maliyetini düşürmek.",
+          "rationale": "Garnitürün amacı maliyeti düşürmek değil, yemeği lezzet ve sunum açısından tamamlamaktır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tabakta porsiyon zenginliği sağlamak.",
+          "rationale": "Garnitür tabağı doldurarak porsiyonu zengin gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemeğin lezzetini artırmak.",
+          "rationale": "Tamamlayıcı tatlarla yemeğin genel lezzetine katkıda bulunur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Garnitürün tanımında lezzet, besin değeri ve sunumdan bahsedilirken ekonomik bir amaçtan söz edilmemiştir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Metne göre garnitürler temel olarak hangi iki ana gruba ayrılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sıcak ve Soğuk garnitürler",
+          "rationale": "Bu bir servis ayrımıdır, yapısal bir sınıflandırma değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nişastalı garnitürler ve Sebze garnitürleri",
+          "rationale": "Metinde garnitürler nişastalı (patates, pilav vb.) ve sebze garnitürleri olarak ikiye ayrılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Etli ve Etsiz garnitürler",
+          "rationale": "Böyle bir sınıflandırma metinde yer almamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kızartma ve Haşlama garnitürler",
+          "rationale": "Bunlar pişirme yöntemleridir, garnitür türü değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerli ve Yabancı garnitürler",
+          "rationale": "Kökenine göre bir sınıflandırma yapılmamıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Metinde patates/pilav grubu ile diğer grup arasındaki ayrıma dikkat edin."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdaki patates garnitürlerinden hangisi 'Bol Yağda Kızaran' (Deep Fried) grubuna girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Pommes Purée",
+          "rationale": "Bu püre cinsi bir patates garnitürüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pommes Pont-Neuf",
+          "rationale": "Metinde Pommes Pont-Neuf, bol yağda kızaran patates garnitürleri arasında sayılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pommes Duchesse",
+          "rationale": "Bu kroket cinsi veya şekil verilmiş püre grubuna girer.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pommes Natur",
+          "rationale": "Bu haşlanarak hazırlanan (kabuksuz haşlanmış) patatestir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pommes Lyonnaise",
+          "rationale": "Bu sote edilerek hazırlanan bir çeşittir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pommes Frittes ve Pommes Soufflés ile aynı grupta yer alan bir çeşit arayın."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Pilav pişirme teknikleri arasında aşağıdakilerden hangisi yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Haşlama tekniği",
+          "rationale": "Metinde geçen 3 temel teknikten biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Salma tekniği",
+          "rationale": "Metinde geçen 3 temel teknikten biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kavurma tekniği",
+          "rationale": "Metinde geçen 3 temel teknikten biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Buharda pişirme tekniği",
+          "rationale": "Genel bir pişirme yöntemi olsa da, metinde pilavlar için sayılan 3 özel teknik arasında bu isimle geçmemektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hiçbiri",
+          "rationale": "Seçeneklerden biri listede olmadığı için bu cevap yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pilav pişirme bölümünde maddeler halinde sıralanan 3 tekniği hatırlayın."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi temel sos gruplarından biri olan 'Beşamel Sos'un ana malzemelerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Süt",
+          "rationale": "Beşamel sosun sıvı bazı süttür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Un",
+          "rationale": "Meyane yapmak için un kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tereyağı",
+          "rationale": "Meyane yapmak için tereyağı kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Muskat rendesi",
+          "rationale": "Beşamel sosa aroma vermek için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Salça",
+          "rationale": "Beşamel sos beyaz bir sostur, salça içermez. Salça domates veya demi-glace soslarda bulunur.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Beşamel sos 'Beyaz Sos' olarak bilinir, kırmızı renk veren malzemeleri eleyin."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Soslarda en sık kullanılan 'emülgatör' aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Un",
+          "rationale": "Un bağlayıcıdır ancak emülgatör olarak tanımlanmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tereyağı",
+          "rationale": "Tereyağı emülsiyonun yağ fazıdır, emülgatör değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yumurta sarısı",
+          "rationale": "Metinde soslarda en sık kullanılan emülgatörün yumurta sarısı olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Süt",
+          "rationale": "Süt bir sıvı bazdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sirke",
+          "rationale": "Sirke asidik bir bileşendir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Mayonez ve Hollandez soslarının yapımında yağ ile suyu birbirine bağlayan malzemeyi düşünün."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Stock (et/kemik suyu) hazırlarken kullanılan suyun sıcaklığı başlangıçta nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kaynar",
+          "rationale": "Sıcak su gözenekleri kapatır ve lezzetin suya geçmesini engeller.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ilık",
+          "rationale": "Ilık su bakteri üremesi için riskli olabilir ve tam çözünme sağlamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soğuk",
+          "rationale": "Maksimum lezzet ve tat gelişimi için stock yapımına kesinlikle soğuk su ile başlanmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oda sıcaklığında",
+          "rationale": "Metinde özellikle 'soğuk' olması gerektiği vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fark etmez",
+          "rationale": "Su sıcaklığı stock kalitesi için kritiktir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Maksimum lezzet transferi ve kanın temizlenmesi için suyun ısınma sürecinin yavaş olması gerekir."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Stock yapımında kullanılan aromatik lezzet verici olan 'Bouquet Garnie' veya 'Sachet d'epice' içinde aşağıdakilerden hangisi genellikle bulunmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Defne yaprağı",
+          "rationale": "Klasik bouquet garnie bileşenidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tane karabiber",
+          "rationale": "Klasik bileşenlerden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maydanoz sapı",
+          "rationale": "Aroma vermesi için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şeker",
+          "rationale": "Stock yapımında aromatik torbada şeker kullanılmaz, bu tatlı bir bileşendir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kekik (Taze veya kuru)",
+          "rationale": "Klasik bouquet garnie bileşenidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ot ve baharatlar arasında tatlılık veren bir malzeme stock yapımında yer almaz."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Mutfak organizasyonunda 'Saucier' (Sosiyer) şefinin görevlerinden biri aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece soğuk sosları hazırlamak.",
+          "rationale": "Soğuk soslar genellikle soğuk şefinin (Larder Chef) görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Et yemekleri ve sıcak sosları hazırlamak.",
+          "rationale": "Şef Sosiyer; et yemekleri, kümes hayvanları ve bunların sıcak soslarını hazırlamaktan sorumludur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Balık yemeklerini hazırlamak.",
+          "rationale": "Bu görev 'Chef Poissonier' (Balık Şefi) sorumluluğundadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izgaraları pişirmek.",
+          "rationale": "Bu görev 'Chef Rotisseur' (Izgara Şefi) sorumluluğundadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sebze garnitürlerini hazırlamak.",
+          "rationale": "Bu görev 'Chef Entremettier' (Sebze Şefi) sorumluluğundadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Fransızca 'Sauce' kelimesinden gelir ancak sadece sos değil, soslu pişen et yemeklerini de kapsar."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Klasik menü sıralamasında 'Sorbet' (Şerbet) hangi amaçla servis edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yemeğe başlamadan iştah açmak için.",
+          "rationale": "Bu ordövrlerin görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemeğin sonunda tatlı niyetine.",
+          "rationale": "Sorbet bir ara geçiştir, ana tatlı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ağız tadını değiştirip mideyi ana yemeğe (rotiye) hazırlamak için.",
+          "rationale": "Metne göre sorbet, önceki yemeklerin tadını nötralize etmek ve mideyi kızartmaya hazırlamak için verilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çorbadan hemen sonra sıcaklık dengesi için.",
+          "rationale": "Sorbet genellikle antrelerden sonra, ana yemekten önce gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kahvaltıda enerji vermek için.",
+          "rationale": "Sorbet klasik akşam yemeği menüsünün bir parçasıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Uzun menülerde damağı temizlemek için verilen buzlu/soğuk bir içecektir."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Aşağıdakilerden hangisi 'Table d'Hote' menünün özelliklerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Her yiyeceğin ayrı ayrı fiyatlandırılması.",
+          "rationale": "Bu A'la Carte menünün özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sınırsız yemek seçeneği sunması.",
+          "rationale": "Table d'Hote menü sınırlı sayıda yemek sunar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sipariş verildikten sonra yemeğin hazırlanmaya başlanması.",
+          "rationale": "Bu genellikle A'la Carte menü için geçerlidir; Table d'Hote önceden hazırlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sabit bir fiyat uygulamasının olması.",
+          "rationale": "Table d'Hote menüde tüm öğün için belirlenmiş tek ve sabit bir fiyat vardır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece tatlılardan oluşması.",
+          "rationale": "Tam bir öğünü kapsar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Fransızca 'ev sahibinin masası' anlamına gelir, fix menü mantığıdır."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Sabah 10:00 ile 14:00 arasında servis edilen, hem kahvaltı hem de öğle yemeği yerine geçen öğün hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Supper",
+          "rationale": "Supper gece geç saatlerde yenen hafif yemektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Continental Breakfast",
+          "rationale": "Bu standart sabah kahvaltısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brunch",
+          "rationale": "Breakfast ve Lunch kelimelerinin birleşiminden oluşur, geç kahvaltı/erken öğle yemeğidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dinner",
+          "rationale": "Dinner akşam yemeğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lunch",
+          "rationale": "Lunch sadece öğle yemeğidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İngilizce 'Breakfast' ve 'Lunch' kelimelerinin birleşimidir."
+    },
+    {
+      "questionNumber": 13,
+      "question": "'Blanching' (Ağartma) işlemi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yiyeceklerin tamamen pişirilip servise hazır hale getirilmesidir.",
+          "rationale": "Blanching bir ön pişirme yöntemidir, tam pişirme değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece etlerin fırınlanması işlemidir.",
+          "rationale": "Sebze ve kemiklerde de kullanılır, fırınlama değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yiyeceklerin gözeneklerini kapatarak besin değerini korumak veya temizlemek için yapılan ön işlemdir.",
+          "rationale": "Metinde blanching'in amacı gözenekleri kapatmak veya (kemiklerde) kanı temizlemek olarak açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yemeğin sosunun hazırlanmasıdır.",
+          "rationale": "Pişirme tekniğidir, sos yapımı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kızgın yağda uzun süre kızartmaktır.",
+          "rationale": "Yağda blanching yapılsa bile çok kısa sürer, uzun süreli kızartma 'Frying'dir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Şok haşlama olarak da bilinir, rengi korumak ve ön hazırlık için yapılır."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Aşağıdaki pişirme yöntemlerinden hangisinde ısı kaynağı alttadır ve yiyecekler tavada kısa sürede yüksek ısıda pişirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Baking",
+          "rationale": "Baking fırında pişirmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sauteing (Soteleme)",
+          "rationale": "Metinde sauteing, yüksek ısıda ve ısı kaynağının alttan olduğu kısa süreli pişirme olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Boiling",
+          "rationale": "Boiling suda haşlamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Broiling",
+          "rationale": "Broiling üstten ısıtmalı ızgara yöntemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Steaming",
+          "rationale": "Steaming buharda pişirmedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Küçük parça etleri veya sebzeleri tavada 'zıplatarak' pişirme yöntemidir."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Mayonez sosu hangi grup soslar içinde yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sıcak soslar",
+          "rationale": "Mayonez soğuk bir sostur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalıcı Emülsiyon Soslar",
+          "rationale": "Metinde mayonez, bir emülgatör yardımıyla hazırlanan 'Kalıcı Emülsiyon Soslar' grubunda sınıflandırılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yarı Kalıcı Emülsiyon Soslar",
+          "rationale": "Bu gruba Hollandez sos girer.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geçici Emülsiyon Soslar",
+          "rationale": "Bu gruba Vinaigrette girer.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pişmiş Soslar",
+          "rationale": "Mayonez çiğ yumurta ile yapılır, pişirilmez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yağ ve yumurta sarısı karıştırıldıktan sonra ayrışmadan kalır."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Velute sos (Sauce Velauté) hazırlanırken beşamel sostan farklı olarak süt yerine ne kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Su",
+          "rationale": "Sadece su değil, lezzetlendirilmiş stok kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Domates suyu",
+          "rationale": "Bu domates sosu olur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Beyaz fond (stok)",
+          "rationale": "Metne göre Velute, beşamel gibi hazırlanır ancak süt yerine beyaz fond (tavuk, dana veya balık suyu) kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sirke",
+          "rationale": "Sirke kullanılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Krema",
+          "rationale": "Krema eklenebilir ama ana sıvı fonddur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Tavuk suyu veya balık suyu gibi malzemeler bu sosun temel sıvısını oluşturur."
+    },
+    {
+      "questionNumber": 17,
+      "question": "'Braising' pişirme tekniğinin en belirgin özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece buharda pişirilmesidir.",
+          "rationale": "Buharda pişirme 'Steaming'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önce mühürlenip (sear), sonra az sıvı ile fırında/tencerede pişirilmesidir.",
+          "rationale": "Metinde Braising; iri et parçalarının önce mühürlenip sonra sıvı eklenerek pişirilmesi olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bol yağda kızartılmasıdır.",
+          "rationale": "Bu 'Deep Frying'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izgarada pişirilmesidir.",
+          "rationale": "Bu 'Grilling'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çiğ olarak servis edilmesidir.",
+          "rationale": "Braising bir pişirme yöntemidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hem kuru ısı (kızartma/mühürleme) hem de nemli ısı (sıvı ile pişirme) tekniklerinin kombinasyonudur."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Soğuk mutfağın (Larder Chef) görevleri arasında aşağıdakilerden hangisi yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etleri parçalamak ve temizlemek (Butcher chef görevleri).",
+          "rationale": "Metne göre bu Larder Chef'in sorumluluk alanındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soğuk ordövrleri hazırlamak.",
+          "rationale": "Soğuk şefin ana görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sıcak çorbaları pişirmek.",
+          "rationale": "Sıcak çorbalar 'Chef Potager' (Çorba Şefi) tarafından hazırlanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sandviç ve salataları hazırlamak.",
+          "rationale": "Soğuk büfe ürünleri Larder Chef'in görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soğuk sosları hazırlamak.",
+          "rationale": "Soğuk soslar bu bölümün işidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bölümün adı 'Soğuk' mutfaktır, sıcak ürünler başka bölüme aittir."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Demi-glace sosun iyi hazırlanmış olduğunun göstergelerinden biri nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Renginin beyaz olması.",
+          "rationale": "Demi-glace kahverengi bir sostur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kıvamının su gibi akıcı olması.",
+          "rationale": "Yoğun ve koyu kıvamlı olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Parlak ve kızarmış et renginde (kahverengi) olması.",
+          "rationale": "Metinde iyi bir demi-glace sosun özellikleri arasında parlak, kahverengi ve yoğun olması sayılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İçinde belirgin sebze parçalarının yüzmesi.",
+          "rationale": "İyi süzülmüş ve pütürsüz olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tadının ekşi olması.",
+          "rationale": "Tadı hoşa giden et aromalı olmalıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu sos 'Kahverengi Sos' olarak da bilinir."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Menü planlamasında 'Cycle (Dönüşümlü) Menü' genellikle hangi tür işletmelerde kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Lüks A'la Carte Restoranlar",
+          "rationale": "Bu restoranlar genellikle sabit veya mevsimlik menü kullanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fast Food Zincirleri",
+          "rationale": "Standart sabit menü kullanırlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Okul, hastane ve hapishane gibi kurumsal işletmeler",
+          "rationale": "Metinde cycle menülerin bu tür kurumsal yerlerde (1-4 haftalık döngülerle) kullanıldığı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pastaneler",
+          "rationale": "Genellikle vitrin ürünü satarlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gece Kulüpleri",
+          "rationale": "Genellikle içecek ağırlıklı sınırlı menüleri vardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Her gün aynı kişilerin yemek yediği ve çeşitliliğin zorunlu olduğu yerleri düşünün."
+    }
+  ]
+}

@@ -1,0 +1,949 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "'He ___ a waiter.' cümlesinde boşluğa 'to be' fiilinin hangi doğru çekimi gelmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "am",
+          "rationale": "'am' fiili sadece 'I' (Ben) öznesi ile kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "is",
+          "rationale": "PDF 1. Hafta Gramer kuralına göre, 'He/She/It' özneleri 'is' yardımcı fiilini alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "are",
+          "rationale": "'are' fiili 'You/We/They' (Sen/Siz, Biz, Onlar) özneleri ile kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "be",
+          "rationale": "'be' fiilin yalın halidir, bu cümlede çekimlenmiş bir forma ihtiyaç vardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "'They are not at the hotel.' cümlesinin PDF'de gösterilen doğru kısaltması (Short Form) nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "They're not at the hotel.",
+          "rationale": "Bu da doğru bir kısaltmadır ancak PDF'deki olumsuz cümle tablosunda 'are not' -> 'aren't' üzerinde durulmuştur.",
+          "isCorrect": false
+        },
+        {
+          "text": "They not are at the hotel.",
+          "rationale": "Bu gramer olarak yanlış bir yapıdır, 'not' yardımcı fiilden sonra gelmelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "They aren't at the hotel.",
+          "rationale": "PDF 1. Hafta Olumsuz Cümle tablosuna göre, 'are not' için tercih edilen kısaltma 'aren't' şeklindedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "They're at the hotel.",
+          "rationale": "Bu olumlu bir cümlenin kısaltmasıdır, olumsuz cümlenin değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "'Is he a chef?' sorusuna verilebilecek olumlu kısa cevap (Short Answer) PDF'ye göre nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yes, he is.",
+          "rationale": "PDF 1. Hafta Soru Cümlesi tablosuna göre, 'Is he...?' sorusunun olumlu kısa cevabı 'Yes, he is.' şeklindedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yes, he's.",
+          "rationale": "Kısa cevaplarda olumlu 'is' kısaltılmaz ('he's' denmez).",
+          "isCorrect": false
+        },
+        {
+          "text": "Yes, he is a chef.",
+          "rationale": "Bu uzun bir cevaptır, soru 'kısa cevap' (short answer) istemektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yes, it is.",
+          "rationale": "Soru 'he' (o, erkek) öznesi için sorulmuştur, 'it' (o, cansız/hayvan) ile cevap verilemez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "PDF'ye göre İngilizce'deki temel cümle yapısı (SVO) kuralı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Özne + Nesne + Fiil (Subject + Object + Verb)",
+          "rationale": "Bu, PDF'de belirtildiği gibi Türkçedeki yaygın dizilimdir, İngilizce'deki değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiil + Özne + Nesne (Verb + Subject + Object)",
+          "rationale": "Bu genellikle soru cümlelerinde kullanılan bir yapıdır, temel düz cümle yapısı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Özne + Fiil + Nesne (Subject + Verb + Object)",
+          "rationale": "PDF 1. Hafta, 2. Kural: İngilizce'de temel cümle yapısı SVO (Subject + Verb + Object) kuralını takip eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nesne + Özne + Fiil (Object + Subject + Verb)",
+          "rationale": "Bu, İngilizce temel cümle yapısına uygun bir dizilim değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "PDF'deki Kişisel Bilgiler listesine göre 'medeni durum' kelimesinin İngilizce karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "nationality",
+          "rationale": "PDF'ye göre 'nationality' 'milliyet' anlamına gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "occupation",
+          "rationale": "PDF'ye göre 'occupation' 'meslek' anlamına gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "address",
+          "rationale": "PDF'ye göre 'address' 'adres' anlamına gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "marital status",
+          "rationale": "PDF 1. Hafta Kelime Bilgisi tablosunda 'marital status' 'medeni durum' olarak doğru şekilde eşleştirilmiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "PDF'deki Ülkeler ve Milliyetler tablosuna göre 'Germany' (Almanya) ülkesinin milliyet karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "German",
+          "rationale": "PDF 1. Hafta tablosunda 'Germany' (Ülke) için 'German' (Milliyet) doğru karşılıktır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Spanish",
+          "rationale": "PDF'ye göre 'Spanish', 'Spain' (İspanya) ülkesinin milliyetidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Germany",
+          "rationale": "Bu kelime ülkenin kendi adıdır, milliyet değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turkish",
+          "rationale": "PDF'ye göre 'Turkish', 'Turkey' (Türkiye) ülkesinin milliyetidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "Present Simple Tense'de (Geniş Zaman) 'He/She/It' özneleriyle fiil hangi eki alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "-ing",
+          "rationale": "Bu ek genellikle şimdiki zaman (Present Continuous) için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "-ed",
+          "rationale": "Bu ek genellikle geçmiş zaman (Past Simple) için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ek almaz, yalın kalır.",
+          "rationale": "Fiil, 'I/You/We/They' özneleriyle yalın kalır, 'He/She/It' ile değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "-s / -es / -ies",
+          "rationale": "PDF 2. Hafta Gramer kuralına göre, 'He/She/It' özneleri fiile bu eklerden uygun olanını alır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "PDF'ye göre, 'watch' (izlemek) fiili 'He' öznesiyle Present Simple Tense'de nasıl yazılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "watches",
+          "rationale": "PDF 2. Hafta Kural 1: Fiil -ch ile biterse -es alır (watch -> watches).",
+          "isCorrect": true
+        },
+        {
+          "text": "watchs",
+          "rationale": "Bu yazım kural dışıdır. -ch ile biten fiiller sadece -s almaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "watch",
+          "rationale": "Fiil yalın halde bırakılamaz, 'He' öznesi kural gereği ek almalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "watchies",
+          "rationale": "'-ies' eki -y ile biten fiiller için geçerlidir (study -> studies).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "PDF'ye göre, 'study' (çalışmak) fiili 'She' öznesiyle Present Simple Tense'de nasıl yazılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "studys",
+          "rationale": "Fiil -y ile bittiğinde ve öncesi sessiz harf olduğunda -s almaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "studies",
+          "rationale": "PDF 2. Hafta Kural 2: Fiil -y ile biterse ve öncesi sessiz harfse, y düşer, -ies gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "studyes",
+          "rationale": "Bu, kurallara uygun bir çekim değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "study",
+          "rationale": "Fiil yalın halde bırakılamaz, 'She' öznesi kural gereği ek almalıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "Aşağıdaki Present Simple Tense olumsuz cümlelerinden hangisi PDF'de belirtilen 'Kritik Kural'a göre YANLIŞTIR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "He doesn't work.",
+          "rationale": "Bu cümle doğrudur. 'doesn't' kullanıldığında fiil (work) yalın kalmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "I don't work.",
+          "rationale": "Bu cümle doğrudur. 'I' öznesi 'don't' alır ve fiil yalın kalır.",
+          "isCorrect": false
+        },
+        {
+          "text": "She doesn't start.",
+          "rationale": "Bu cümle doğrudur. 'doesn't' kullanıldığında fiil (start) yalın kalmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "He doesn't works.",
+          "rationale": "Bu cümle YANLIŞTIR. PDF'deki Kritik Kurala göre, 'doesn't' kullanıldığında fiil ASLA -s eki almaz, yalın hale döner.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "Sıklık Zarflarının (Adverbs of Frequency) 'To Be' fiili ile kullanımına (Kural 2) göre hangi cümle doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "She is always polite.",
+          "rationale": "PDF 2. Hafta Kural 2'ye göre bu cümle doğrudur. Sıklık zarfı (always) 'is' fiilinden SONRA gelmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "She always is polite.",
+          "rationale": "Bu cümle yanlıştır. Kural 2'ye göre sıklık zarfı 'to be' fiilinden önce gelemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "They usually are late.",
+          "rationale": "Bu cümle yanlıştır. Sıklık zarfı (usually) 'are' fiilinden SONRA gelmelidir ('They are usually late').",
+          "isCorrect": false
+        },
+        {
+          "text": "I never am sad.",
+          "rationale": "Bu cümle yanlıştır. Sıklık zarfı (never) 'am' fiilinden SONRA gelmelidir ('I am never sad').",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "Sıklık Zarflarının normal fiiller (Kural 1) ile kullanımına göre hangi cümle doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "I start always work at 8.",
+          "rationale": "Bu cümle yanlıştır. Sıklık zarfı (always) özne ile fiil arasında olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "She cleans usually the rooms.",
+          "rationale": "Bu cümle yanlıştır. Sıklık zarfı (usually) özne ile fiil arasında olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "I always start work at 8.",
+          "rationale": "PDF 2. Hafta Kural 1'e göre bu cümle doğrudur. Sıklık zarfı (always) Özne (I) ile Fiil (start) arasına gelmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "We work never on Sundays.",
+          "rationale": "Bu cümle yanlıştır. Sıklık zarfı (never) Özne (We) ile Fiil (work) arasına gelmelidir ('We never work...').",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "PDF'deki Turizm Meslekleri listesine göre 'Bellboy' veya 'Porter' mesleğinin Türkçe karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Taşıyıcı",
+          "rationale": "PDF 2. Hafta, Meslekler tablosunda 'Bellboy / Porter' 'Taşıyıcı' olarak doğru şekilde çevrilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Resepsiyonist",
+          "rationale": "PDF'ye göre 'Resepsiyonist' 'Receptionist' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aşçı",
+          "rationale": "PDF'ye göre 'Aşçı' 'Chef / Cook' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cankurtaran",
+          "rationale": "PDF'ye göre 'Cankurtaran' 'Lifeguard' demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "PDF'deki Turizm Meslekleri listesine göre 'Temizlik görevlisi' mesleğinin İngilizce karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Waiter / Waitress",
+          "rationale": "Bu 'Garson' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cleaner / Housekeeper",
+          "rationale": "PDF 2. Hafta, Meslekler tablosunda 'Cleaner / Housekeeper' 'Temizlik görevlisi' olarak doğru şekilde çevrilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maintenance Worker",
+          "rationale": "Bu 'Teknik görevli' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hotel Manager",
+          "rationale": "Bu 'Otel müdürü' demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "'The chef prepares the meals' cümlesindeki 'prepares' fiilinin anlamı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Servis etmek",
+          "rationale": "Bu 'serve' fiilinin anlamıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlemek",
+          "rationale": "Bu 'clean' fiilinin anlamıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hazırlamak",
+          "rationale": "PDF 2. Hafta, Faydalı Fiiller tablosunda 'prepare' 'hazırlamak' olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kontrol etmek",
+          "rationale": "Bu 'check' fiilinin anlamıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "PDF'ye göre, otel standardında kibar bir rica (izin isteme) için hangi kalıp tercih edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Can I help you?",
+          "rationale": "Bu bir tekliftir. Ayrıca PDF'ye göre 'Can I' \"Samimi / Günlük\" kullanım içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "May I see your ID card?",
+          "rationale": "Bu da kibar bir ricadır ancak PDF'de 'Çok Resmi' olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Could I have your passport, please?",
+          "rationale": "PDF 3. Hafta Gramer: 'Could I + V1?' kalıbı 'Kibar / Otel Standardı' olarak tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Give me your passport.",
+          "rationale": "Bu bir emir cümlesidir ve PDF'de öğretilen kibar rica kalıplarına uymaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "Misafire 'Oturmak ister misiniz?' demenin 'kibar hizmet dili' (polite service language) yolu PDF'ye göre hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Do you want to sit down?",
+          "rationale": "Bu 'Would you like...' kalıbına göre daha az kibar kabul edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Would you like to sit down?",
+          "rationale": "PDF 3. Hafta: 'Would you like + to + Fiil (V1)?' kalıbı, bir eylem teklif etmek için kullanılan kibar hizmet dilidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Can you sit down?",
+          "rationale": "Bu bir yetenek sorgulamasıdır ('Oturabilir misin?'), kibar bir teklif değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sit down, please.",
+          "rationale": "Bu kibar bir talimattır (Imperative), bir teklif (Offer) değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "Misafire bir harita (map) teklif ederken hangi kalıp kullanılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Would you like a map?",
+          "rationale": "PDF 3. Hafta: 'Would you like + İsim (noun)?' kalıbı, bir nesne teklif etmek için kullanılan kibar hizmet dilidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Would you like to map?",
+          "rationale": "Bu yapı yanlıştır; 'map' burada fiil (to map) olarak kullanılmıştır, isim değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Do you like maps?",
+          "rationale": "Bu genel olarak 'Haritaları sever misiniz?' anlamına gelir, o anki bir teklif değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Please take a map.",
+          "rationale": "Bu kibar bir talimattır, bir teklif değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "PDF'deki 'Kibar Talimatlar' bölümüne göre 'Lütfen burayı imzalayın.' cümlesinin doğru karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Please don't sign here.",
+          "rationale": "Bu olumsuz bir talimattır ('Lütfen burayı imzalamayın').",
+          "isCorrect": false
+        },
+        {
+          "text": "Could you sign here?",
+          "rationale": "Bu kibar bir ricadır (Could I...), bir talimat (Imperative) değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Please sign here.",
+          "rationale": "PDF 3. Hafta: 'Please + Fiil (V1)' yapısı kibar talimatlar için kullanılır ve bu örnek ('Please sign here') PDF'de mevcuttur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Would you like to sign here?",
+          "rationale": "Bu bir tekliftir ('Burayı imzalamak ister misiniz?'), talimat değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "PDF'deki Resepsiyon Terimleri listesine göre 'iki ayrı yataklı oda' tipi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "double room",
+          "rationale": "PDF'ye göre bu, 'çift kişilik (tek büyük yataklı) oda' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "single room",
+          "rationale": "PDF'ye göre bu, 'tek kişilik oda' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "suite",
+          "rationale": "PDF'ye göre bu, 'süit oda' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "twin room",
+          "rationale": "PDF 3. Hafta, Liste 2: 'twin room' tanımı 'iki ayrı yataklı oda' olarak doğru verilmiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "PDF'deki Resepsiyon Terimleri listesine göre 'luggage' kelimesinin Türkçe anlamı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bagaj",
+          "rationale": "PDF 3. Hafta, Liste 1: 'luggage' kelimesi 'bagaj' olarak doğru çevrilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Asansör",
+          "rationale": "PDF'ye göre 'Asansör', 'elevator / lift' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda kartı",
+          "rationale": "PDF'ye göre 'Oda kartı', 'key card' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rezervasyon",
+          "rationale": "PDF'ye göre 'Rezervasyon', 'reservation' demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "PDF'deki Kibar İfade Kalıpları tablosuna göre, bir misafiri karşılarken kullanılacak ifade nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Enjoy your stay!",
+          "rationale": "Bu, 'İyi konaklamalar!' demektir ve misafir ayrılırken veya check-in sonunda kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Welcome to our hotel!",
+          "rationale": "PDF 3. Hafta, Kalıplar: 'Welcome to our hotel!' ifadesinin kullanım alanı 'Misafiri karşılarken' olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "How can I help you?",
+          "rationale": "Bu, hizmet başlangıcında kullanılır, ancak ilk karşılama cümlesi 'Welcome' olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Do you have a reservation?",
+          "rationale": "Bu, check-in işlemine başlarken sorulur, ilk karşılama ifadesi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "PDF'deki Kibar İfade Kalıpları tablosuna göre, misafire check-in sonunda veya vedalaşırken ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "One moment, please.",
+          "rationale": "Bu, misafiri bekletirken kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Please sign here.",
+          "rationale": "Bu, kayıt alırken kullanılan bir talimattır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Enjoy your stay!",
+          "rationale": "PDF 3. Hafta, Kalıplar: 'Enjoy your stay!' (İyi konaklamalar) ifadesinin kullanım alanı 'Check-in sonunda / Vedalaşırken' olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Thank you for waiting.",
+          "rationale": "Bu, misafiri beklettikten sonra kullanılır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "Örnek Check-in Diyaloğuna göre, misafir (Elif Yılmaz) resepsiyoniste pasaportunu hangi cevaptan sonra vermiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Receptionist: Good evening! Welcome to Moonlight Hotel.",
+          "rationale": "Bu ilk karşılama cümlesidir, pasaport bu aşamada istenmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Receptionist: Could I see your passport, please?",
+          "rationale": "Diyalogda resepsiyonist bu soruyu sorduktan sonra misafir 'Sure. Here you are.' diyerek pasaportunu verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Receptionist: Could you please fill in this form?",
+          "rationale": "Form doldurma işlemi pasaport kontrolünden sonra gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Receptionist: Please sign here.",
+          "rationale": "İmza, form doldurulduktan sonra, en son aşamalardan biridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "Örnek Check-in Diyaloğuna göre, misafir oda numarasını (204) ve katını (second floor) öğrendiğinde, resepsiyonist bu bilgiden hemen ÖNCE misafire ne vermiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Pasaportunu geri (Thank you...)",
+          "rationale": "Pasaport kontrolü diyaloğun başında yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doldurulacak formu (Could you please fill in this form?)",
+          "rationale": "Form doldurma işlemi kart vermeden önce gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda kartını (Here is your key card.)",
+          "rationale": "Diyalogun sonunda resepsiyonist '(Kartı uzatır) Here is your key card. Your room number is 204...' der. Yani kartı verirken oda numarasını söyler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kahvaltı saatini (Breakfast is from 7 to 10...)",
+          "rationale": "Kahvaltı saati bilgisi, misafirin sorusu üzerine, form doldurma işleminden önce verilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "PDF 1. Hafta 'Yaygın Kalıplar' listesine göre 'What's your job?' sorusunun bir diğer eş anlamlısı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "What's your nationality?",
+          "rationale": "Bu 'Milliyetin ne?' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "What do you do?",
+          "rationale": "PDF 1. Hafta, 5. Bölüm: 'What's your job? / What do you do?' (Mesleğin nedir?) eş anlamlı olarak verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Where do you live?",
+          "rationale": "Bu 'Nerede yaşıyorsun?' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "How old are you?",
+          "rationale": "Bu 'Kaç yaşındasın?' demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "PDF 1. Hafta 'Kişisel Bilgiler' listesine göre 'soyisim' kelimesinin İngilizce karşılığı hangisi OLAMAZ?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "surname",
+          "rationale": "PDF'ye göre 'surname' 'soyisim' anlamına gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "last name",
+          "rationale": "PDF'ye göre 'last name' de 'soyisim' anlamına gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "name",
+          "rationale": "PDF'ye göre 'name' 'isim' (ilk ad) anlamına gelir, 'soyisim' değil.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hem 'surname' hem 'last name' kullanılabilir.",
+          "rationale": "Bu seçenek sorunun mantığına aykırıdır; soru 'olamaz' olanı sormaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "PDF 2. Hafta 'Zaman İfadeleri' (Time Expressions) listesine göre 'haftada iki kez' ne demektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "twice a week",
+          "rationale": "PDF 2. Hafta, 3. Bölüm: 'twice a week' 'haftada iki kez' olarak doğru çevrilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "on weekends",
+          "rationale": "Bu 'hafta sonları' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "once a month",
+          "rationale": "Bu 'ayda bir kez' demektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "every day",
+          "rationale": "Bu 'her gün' demektir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "PDF 2. Hafta 'Faydalı Fiiller' listesine göre 'rezervasyon yapmak' anlamına gelen fiil nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "check",
+          "rationale": "Bu 'kontrol etmek' anlamına gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "serve",
+          "rationale": "Bu 'servis etmek' anlamına gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "book",
+          "rationale": "PDF 2. Hafta, 5. Bölüm: 'book' fiili 'rezervasyon yapmak' olarak doğru listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "welcome",
+          "rationale": "Bu 'karşılamak' anlamına gelir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "PDF 2. Hafta 'Faydalı Fiiller' listesine göre 'The maintenance worker repairs the A/C.' cümlesindeki 'repair' ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Temizlemek",
+          "rationale": "Bu 'clean' fiilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tamir etmek",
+          "rationale": "PDF 2. Hafta, 5. Bölüm: 'repair' fiili 'tamir etmek' olarak doğru listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Düzenlemek",
+          "rationale": "Bu 'organize' fiilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cevaplamak",
+          "rationale": "Bu 'answer' fiilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "PDF 3. Hafta 'Kibar İfade Kalıpları' tablosuna göre, bir sorun yaşandığında ve özür dilenmesi gerektiğinde hangi kalıp kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Thank you for waiting.",
+          "rationale": "Bu, 'Beklediğiniz için teşekkür ederim.' demektir ve bekletme sonrası kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "I'm sorry for the inconvenience.",
+          "rationale": "PDF 3. Hafta, son kalıp: 'I'm sorry for the inconvenience.' (Rahatsızlık için özür dilerim) 'Sorun yaşandığında' kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "How can I help you?",
+          "rationale": "Bu, 'Size nasıl yardımcı olabilirim?' demektir ve hizmet başlangıcında kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "You're welcome.",
+          "rationale": "Bu, 'Rica ederim.' demektir ve teşekkür yanıtı olarak kullanılır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "PDF 1. Hafta 'Ülkeler ve Milliyetler' tablosuna göre 'Italy' (İtalya) ülkesinin milliyet karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Italian",
+          "rationale": "PDF 1. Hafta tablosunda 'Italy' (Ülke) için 'Italian' (Milliyet) doğru karşılıktır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Italish",
+          "rationale": "Bu yanlış bir ektir, 'Spanish' veya 'English' gibi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Italic",
+          "rationale": "Bu genellikle bir yazı stili (italik) anlamına gelir, milliyet değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Italy",
+          "rationale": "Bu kelime ülkenin kendi adıdır, milliyet değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "PDF 1. Hafta 'Ülkeler ve Milliyetler' tablosuna göre 'Japan' (Japonya) ülkesinin milliyet karşılığı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Japanian",
+          "rationale": "Bu yanlış bir ektir, 'German' veya 'Brazilian' gibi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Japese",
+          "rationale": "Bu yanlış bir yazımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Japanese",
+          "rationale": "PDF 1. Hafta tablosunda 'Japan' (Ülke) için 'Japanese' (Milliyet) doğru karşılıktır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Japanish",
+          "rationale": "Bu yanlış bir ektir, 'Spanish' veya 'English' gibi değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "PDF 1. Hafta Gramer: 'I am not a teacher.' cümlesinin doğru kısaltması nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "I amn't a teacher.",
+          "rationale": "'amn't' yaygın veya standart bir kısaltma değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "I'm not a teacher.",
+          "rationale": "PDF 1. Hafta Olumsuz Cümle tablosuna göre, 'I am not' için doğru kısaltma 'I'm not' şeklindedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "I'm'nt a teacher.",
+          "rationale": "Bu gramer olarak yanlış bir kısaltmadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "I not am a teacher.",
+          "rationale": "Bu, kelime sırası olarak yanlış bir cümledir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "PDF 3. Hafta 'Resepsiyon Terimleri' listesine göre 'check-in' işleminin tanımı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Otelden çıkış işlemi",
+          "rationale": "Bu, 'check-out' işleminin tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rezervasyon formu",
+          "rationale": "Bu, 'booking form' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otele giriş işlemi",
+          "rationale": "PDF 3. Hafta, Liste 2: 'check-in' 'otele giriş işlemi' olarak doğru tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tesis hizmetleri (havuz, spa vb.)",
+          "rationale": "Bu, 'facilities' kelimesinin karşılığıdır.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

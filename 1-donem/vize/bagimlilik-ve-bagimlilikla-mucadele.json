@@ -1,0 +1,3304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi 'Psikoaktif Madde'nin tanımıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Merkezi sinir sistemini etkileyerek beynin fonksiyonlarını değiştiren kimyasal maddeler.",
+          "rationale": "Bu, psikoaktif maddelerin temel tanımıdır; algı, duygu ve davranışlarda değişiklik yaratırlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece yasa dışı olan ve bağımlılık yapan maddeler.",
+          "rationale": "Psikoaktif maddeler (örneğin kafein, nikotin) yasal da olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vücuda alındığında sadece fiziksel bağımlılık yapan maddeler.",
+          "rationale": "Psikoaktif maddeler hem fiziksel hem de psikolojik bağımlılık yapabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece halüsinasyonlara neden olan kimyasal maddeler.",
+          "rationale": "Halüsinojenler psikoaktif maddelerin sadece bir alt grubudur; uyarıcılar ve baskılayıcılar da vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doktor reçetesi ile alınan tüm ilaçlar.",
+          "rationale": "Reçeteli ilaçların bir kısmı psikoaktif olsa da, hepsi bu kategoriye girmez (örn. antibiyotikler).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu maddeler beynin çalışma şeklini değiştirir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi madde kullanımına başlama nedenleri arasında *en az* gösterilen bir gerekçedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Merak",
+          "rationale": "Dokümana göre merak, başlamanın en yaygın nedenlerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir gruba ait olma çabası",
+          "rationale": "Arkadaş çevresine ve gruba uyum sağlama, sıkça belirtilen bir nedendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ebeveyni örnek alma",
+          "rationale": "Ailede madde kullanımı olması, bir risk faktörü ve örnek alma nedeni olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stres ile baş etmeyi bilmememe",
+          "rationale": "Sorunlardan kaçış veya stresle başa çıkma yöntemi olarak kullanma yaygın bir nedendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddenin içeriğini bilimsel olarak araştırma isteği",
+          "rationale": "Kullanıma başlama genellikle dürtüsel veya sosyal nedenlere dayanır, akademik araştırma birincil motivasyon değildir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Kullanıma başlama motivasyonları genellikle sosyal veya duygusal temellidir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "'Psikolojik bağımlılık' durumunda aşağıdakilerden hangisi gözlenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Maddenin yeniden alınması yönünde aşırı ve güçlü bir istek olması.",
+          "rationale": "Bu, psikolojik bağımlılığın temel tanımıdır; 'craving' (aşerme) olarak da bilinir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Madde alınmadığında titreme, terleme ve kas ağrıları yaşanması.",
+          "rationale": "Bu belirtiler fiziksel (fizyolojik) bağımlılığın yoksunluk semptomlarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aynı etkiyi elde etmek için maddenin miktarının sürekli artırılması (Tolerans).",
+          "rationale": "Tolerans gelişimi daha çok fiziksel bağımlılıkla ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddenin bedenden atılmasıyla tüm bağımlılık sürecinin sona ermesi.",
+          "rationale": "Psikolojik bağımlılık, madde bedenden atıldıktan sonra da uzun süre devam edebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece yasal maddelere karşı gelişen bir durum olması.",
+          "rationale": "Psikolojik bağımlılık hem yasal (kumar, internet) hem de yasa dışı maddeler için gelişebilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu bağımlılık türü daha çok zihinsel ve duygusal bir 'istek' ile ilgilidir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi 'Fiziksel (Fizyolojik) Bağımlılık' durumunu en iyi açıklar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Maddenin alışılan etkisine bedenin alışması ve alınmadığında yoksunluk belirtilerinin ortaya çıkması.",
+          "rationale": "Bu, fiziksel bağımlılığın tanımıdır; beden, maddenin varlığına kimyasal olarak adapte olur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maddenin miktarını artırmaya gerek duyulmadan kullanılması.",
+          "rationale": "Bu durum psikolojik bağımlılıkta görülebilir; fiziksel bağımlılıkta genellikle tolerans gelişir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddenin sadece 'eğlence' amacıyla kullanılması.",
+          "rationale": "Kullanım amacı, bağımlılığın türünü belirlemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddenin yeniden alınması yönünde güçlü bir zihinsel istek duyulması.",
+          "rationale": "Bu, daha çok psikolojik bağımlılığın bir göstergesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddenin sadece belirli sosyal ortamlarda kullanılması.",
+          "rationale": "Sosyal kullanım, bağımlılığın varlığını veya türünü dışlamaz ancak fiziksel bağımlılığın tanımı bu değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu bağımlılık türü, bedenin maddeye verdiği kimyasal tepki ve 'yoksunluk' ile ilgilidir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Dokümandaki 'Bağımlılık Döngüsü' şemasına göre, 'Korku ve Merak' aşamasından sonra genellikle hangi düşünce aşaması gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ben bağımlı olmam.",
+          "rationale": "Döngüye göre, merakla başlayan süreç 'bir kereden bir şey olmaz' ve 'ben bağımlı olmam' gibi inkâr aşamalarıyla devam eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir kereden bir şey olmaz.",
+          "rationale": "Döngü şeması, Korku ve Merak'tan sonra 'Belki kullanabilirim' ve 'Bir kereden bir şey olmaz' düşüncelerinin geldiğini gösterir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Artık bırakacağım.",
+          "rationale": "Bu düşünce, bağımlılığın olumsuz sonuçları görüldükten sonra, döngünün daha ileri bir aşamasında ortaya çıkar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir daha asla.",
+          "rationale": "Bu, genellikle bırakma denemesinden sonra veya bir 'dip' yaşantısından sonra gelen bir karardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bıraktım bir daha başlamam.",
+          "rationale": "Bu, döngünün son aşamalarından biridir ancak tekrar kullanıma dönme riski (relaps) vardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bağımlılık süreci genellikle riskin küçümsendiği bir düşünceyle başlar."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Aşağıdakilerden hangisi dokümana göre 'Olgusal (Davranışsal) Bağımlılık' türüne bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Alkol bağımlılığı",
+          "rationale": "Alkol, vücuda alınan bir maddedir ve 'maddesel bağımlılık' olarak sınıflandırılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnternet/sanal ortam bağımlılığı",
+          "rationale": "İnternet bağımlılığı, bir madde alımından ziyade bir davranışın (olgusal) kontrolsüz tekrarına dayanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Opiat bağımlılığı",
+          "rationale": "Opiatlar (eroin, morfin vb.) 'maddesel bağımlılık' kategorisindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nikotin bağımlılığı",
+          "rationale": "Nikotin (tütün) 'maddesel bağımlılık' olarak sınıflandırılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uçucu madde bağımlılığı",
+          "rationale": "Uçucu maddeler (tiner, bali) 'maddesel bağımlılık' kategorisindedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu bağımlılık türü, bir maddeyi vücuda almaktan çok, tekrarlayan bir 'davranış' ile ilgilidir."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Aşağıdakilerden hangisi 'Maddesel Bağımlılık' türüne bir örnek *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kokain",
+          "rationale": "Kokain, merkezi sinir sistemini etkileyen ve maddesel bağımlılık yapan bir uyarıcıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Esrar",
+          "rationale": "Esrar (kenevir), maddesel bağımlılık olarak sınıflandırılan bir psikoaktif maddedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kumar bağımlılığı",
+          "rationale": "Kumar, bir madde alımını içermez; bir davranışın (olgusal) kontrolsüz tekrarıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kafein ve nikotin",
+          "rationale": "Kafein ve nikotin, yasal olmalarına rağmen maddesel bağımlılık kategorisinde yer alırlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "İlaç bağımlılığı",
+          "rationale": "Reçeteli veya reçetesiz ilaçların kötüye kullanımı maddesel bağımlılık olarak kabul edilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, bir madde tüketimini değil, bir eylemi içeriyor."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Dokümana göre 'Madde Bağımlılığı' tanımı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Vücudun işlevlerini olumsuz etkileyen maddelerin zarar görüldüğü hâlde bırakılamaması.",
+          "rationale": "Bu, dokümanda verilen temel tanımdır; olumsuz sonuçlara rağmen kullanıma devam etmeyi vurgular.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yasa dışı maddelerin sadece bir kez denenmesi.",
+          "rationale": "Bir kez denemek (kullanım) ile bağımlılık (bozukluk) aynı şey değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece fiziksel yoksunluk belirtileri gösteren maddelerin kullanılması.",
+          "rationale": "Bağımlılık, psikolojik boyutları da içeren daha geniş bir kavramdır ve her madde fiziksel yoksunluk yapmayabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddelerin sadece sosyal ortamlarda ve arkadaşlarla birlikte kullanılması.",
+          "rationale": "Bu sosyal kullanım olabilir, ancak 'zarar görmeye rağmen bırakamama' kriterini karşılamazsa bağımlılık değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddeleri temin etmek için çok fazla zaman harcamak.",
+          "rationale": "Bu, bağımlılığın bir belirtisidir ancak tam tanımı değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Tanım, olumsuz sonuçlara rağmen durdurulamayan kullanımı vurgular."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Dokümana göre madde bağımlılığından korunmanın en iyi yolu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece yasal maddeleri kullanmak.",
+          "rationale": "Yasal maddeler (alkol, tütün) de ciddi bağımlılıklara yol açabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiç başlamamak.",
+          "rationale": "Dokümanda bu ifade 'en iyi yol' olarak net bir şekilde belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece 'ottur, zararı yoktur' denilen maddeleri kullanmak.",
+          "rationale": "Bu, dokümanda belirtilen yaygın bir 'yanlış inanış'tır; esrar gibi maddeler de bağımlılık yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "İrade gücüne güvenerek kontrollü kullanmak.",
+          "rationale": "Bağımlılık bir irade zayıflığı değil, beyin hastalığıdır ve 'kontrol edebilme' yanılgısı döngünün bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sorunlar varken kullanıp, sorunlar bitince bırakmak.",
+          "rationale": "Maddeler sorunları çözmez, aksine daha da büyütebilir ve bırakmak sanıldığı kadar kolay olmayabilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "En etkili önlem, riski hiç almamaktır."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Aşağıdakilerden hangisi dokümanda listelenen 'bağımlılık yapan maddeler' arasında *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çeşitli uyuşturucular",
+          "rationale": "Uyuşturucular, dokümanda açıkça listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sigara ve alkollü içecekler",
+          "rationale": "Sigara ve alkol, yaygın bağımlılık yapıcı maddeler olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bazı yapıştırıcılar, tiner ve çakmak gazı gibi uçucu maddeler",
+          "rationale": "Bu uçucu maddeler, bağımlılık yapıcılar listesindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doktor kontrolü dışında kullanılan reçeteli ilaçlar",
+          "rationale": "İlaçların kötüye kullanımı da bağımlılık olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Organik ve GDO'suz gıdalar",
+          "rationale": "Gıdalar 'madde bağımlılığı' listesinde yer almaz (Yeme bağımlılığı ayrı bir 'olgusal' kategoridir).",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Listede kimyasal ve psikoaktif etkisi olan maddeler yer almaktadır."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Aşağıdakilerden hangisi dokümana göre bağımlılığın birey üzerindeki zararlarından biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bağımlının kendine güveni azalır.",
+          "rationale": "Dokümanda bu, bağımlılığın psikolojik zararlarından biri olarak açıkça belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağımlının insani prensipleri ve değerleri yok olmaya başlar.",
+          "rationale": "Maddeyi elde etme ve kullanma öncelik haline geldikçe, değer sisteminde bozulmalar yaşanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağımlının yaratıcılığı ve sanatsal üretkenliği artar.",
+          "rationale": "Bu yaygın bir yanılgıdır. Dokümanda böyle bir faydadan bahsedilmez; aksine, bağımlılık sosyal ve kişisel etkinlikleri azaltır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bağımlının vücudundaki savunma mekanizmaları yok olup bağışıklık sistemi zayıflar.",
+          "rationale": "Bu, bağımlılığın ciddi fiziksel zararlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağımlının kontrolü zayıflar.",
+          "rationale": "Dürtü kontrolünün kaybı, bağımlılığın temel özelliklerindendir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, bağımlılıkla ilgili yaygın bir 'mit' veya yanlış inanıştır."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Madde kullanımı, bireyin hangi ölümcül hastalıklara yakalanma riskini *arttırmaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "AIDS ve Hepatit B/C",
+          "rationale": "Özellikle paylaşılan enjektör kullanımı bu hastalıkların bulaşma riskini çok artırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kanser ve Verem",
+          "rationale": "Bağışıklık sisteminin zayıflaması ve maddelerin doğrudan toksik etkisi kanser ve verem riskini artırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Frengi ve Kangren",
+          "rationale": "Frengi (riskli cinsel davranışlar) ve kangren (damar sorunları, enjeksiyonlar) riskleri artar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalp krizi ve Ağız/Gırtlak kanseri",
+          "rationale": "Özellikle uyarıcılar, alkol ve tütün bu hastalıkların riskini doğrudan artırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genetik (Kalıtsal) hastalıklar",
+          "rationale": "Madde kullanımı genetik bir hastalığa (örn. Down Sendromu) neden olmaz, ancak var olan genetik yatkınlıkları tetikleyebilir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, doğumla gelen ve madde kullanımıyla 'oluşmayan' bir hastalık türüdür."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Aşağıdakilerden hangisi bağımlılığın zararları arasında sayılan 'dış görünüşte bozulma' belirtilerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişinin daha genç ve dinamik görünmesi.",
+          "rationale": "Tam tersine, dokümanda 'adeta bir iskelet gibi çok ince ve zayıf görünürler' ifadesi yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Solgun bir cilt ve derin yaralar.",
+          "rationale": "Dokümanda 'solgun bir cilt, kendileri tarafından oluşturulan derin yaralar gözlenir' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İştahın artması ve aşırı kilo alımı.",
+          "rationale": "Dokümanda 'Bazı maddelerin yoğun kullanımı iştahı azaltır' ve zayıflamaya neden olduğu belirtilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cildin daha parlak ve sağlıklı olması.",
+          "rationale": "Madde kullanımı genellikle cildin sağlığını bozar, solgunlaştırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kas kütlesinde belirgin artış.",
+          "rationale": "Madde kullanımı genellikle kas kaybına ve genel fiziksel çöküşe yol açar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, dokümanda fiziksel görünümle ilgili olarak açıkça belirtilen olumsuz değişikliklerdir."
+    },
+    {
+      "questionNumber": 14,
+      "question": "DSM-5'e (veya dokümandaki 'Bağımlılığın Belirtileri' listesine) göre, son 12 ay içinde aşağıdaki belirtilerden en az kaç tanesini gösteren kişi 'bağımlı' olarak kabul edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "En az birini",
+          "rationale": "Bir belirti tanı için yeterli değildir, bu durum 'riskli kullanım' olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "En az ikisini (DSM-5'e göre)",
+          "rationale": "Dokümanda 'en az üçünü' (Sayfa 16) ve DSM-5 için 'en az ikisi' (Sayfa 51) belirtiliyor. Soruda her ikisine de atıf var. Ancak Sayfa 16'daki liste daha genel, Sayfa 51'deki DSM-5'e göredir. DSM-5 kriterlerine göre 'en az iki' belirti 'Madde Kullanım Bozukluğu' tanısı için yeterlidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "En az beşini",
+          "rationale": "Beş belirti, 'orta' şiddette bir bozukluğa işaret eder, ancak tanı için alt sınır değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "En az altısını",
+          "rationale": "Altı veya daha fazla belirti 'şiddetli' bozukluğa işaret eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm belirtileri",
+          "rationale": "Tanı için tüm belirtilerin görülmesi gerekmez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sayfa 51'deki DSM-5 tanı ölçütlerine bakın. Tanı için gereken minimum belirti sayısı soruluyor."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Aşağıdakilerden hangisi DSM-5'e göre madde kullanım bozukluğu belirtilerinden biri olan 'Tolerans'ı tanımlar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İstenen etkinin ortaya çıkması için artan madde gereksinimi veya aynı miktarda kullanımda etkinin azalması.",
+          "rationale": "Bu, tolerans gelişiminin tam ve doğru tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Madde bırakıldığında veya azaltıldığında ortaya çıkan fiziksel ve ruhsal yoksunluk belirtileri.",
+          "rationale": "Bu, 'yoksunluk' (withdrawal) belirtilerinin tanımıdır, tolerans değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bırakmak için gösterilen çabanın sürekli boşa çıkması.",
+          "rationale": "Bu, 'kontrol kaybı' ile ilgili bir belirtidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Madde kullanımı için çok büyük bir istek duyma (Aşerme).",
+          "rationale": "Bu, 'craving' olarak bilinen ayrı bir belirtidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel veya ruhsal sorunlara rağmen kullanmayı sürdürme.",
+          "rationale": "Bu, 'zararlarına rağmen devam etme' belirtisidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Vücudun maddeye 'alışması' ve aynı etki için daha fazlasına 'ihtiyaç duyması' durumudur."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Aşağıdakilerden hangisi madde kullanım bozukluğu belirtilerinden biri olan 'Yoksunluk'u tanımlar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Madde bırakıldığında ortaya çıkan bulantı, uykusuzluk, sinirlilik, titreme gibi belirtiler.",
+          "rationale": "Bu, maddenin vücuttan çekilmesiyle ortaya çıkan fiziksel ve ruhsal semptomları tanımlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aynı etkiyi elde etmek için maddenin dozunu sürekli artırmak.",
+          "rationale": "Bu, 'tolerans' belirtisinin tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddeyi elde etmek, kullanmak veya etkilerinden kurtulmak için çok zaman ayırma.",
+          "rationale": "Bu, 'zaman harcama' ve hayatın merkezine alma belirtisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tehlikeli olabilecek durumlarda dahi kullanmaya devam etme.",
+          "rationale": "Bu, 'riskli kullanım' belirtisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olumsuz bedensel veya ruhsal etkilerinin bilinmesine rağmen kullanmayı sürdürme.",
+          "rationale": "Bu, 'zararlarına rağmen devam etme' belirtisidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Maddenin 'yokluğu'nda vücudun verdiği olumsuz tepkilerdir."
+    },
+    {
+      "questionNumber": 17,
+      "question": "DSM-5'e göre, 1 yıl içinde 6 veya daha fazla madde kullanım bozukluğu bulgusu gösteren bir bireyin bozukluk düzeyi nasıl sınıflandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hafif",
+          "rationale": "Hafif düzey için 2 veya 3 bulgu gereklidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Orta",
+          "rationale": "Orta düzey için 4 veya 5 bulgu gereklidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şiddetli",
+          "rationale": "Dokümana göre 6 veya daha fazla bulgu 'şiddetli' olarak kabul edilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çok Şiddetli",
+          "rationale": "DSM-5 bu sınıflandırmada 'çok şiddetli' diye bir kategori kullanmaz (hafif, orta, şiddetli).",
+          "isCorrect": false
+        },
+        {
+          "text": "Tanı Dışı",
+          "rationale": "6 belirti, tanı dışı değil, aksine en şiddetli düzeyi gösterir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Belirti sayısı arttıkça bozukluğun ciddiyeti de artar. Cevap, en yüksek seviyedir."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Aşağıdakilerden hangisi madde kullananların sığındığı gerekçelerden veya 'nasıl kandırdıklarına' dair yanlış inanışlardan biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Benim iradem güçlüdür, ben bağımlı olmam.",
+          "rationale": "Bu, dokümanda belirtilen, bağımlılığın iradeyle ilgili bir sorun olduğunu zanneden yaygın bir yanılgıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ottur, zararı yoktur. Bağımlılık da yapmaz.",
+          "rationale": "Özellikle esrar için kullanılan bu 'mit', dokümanda çürütülmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir kere kullanmaktan bir şey çıkmaz.",
+          "rationale": "Bu, bağımlılık döngüsünün ilk adımı olan ve riski küçümseyen yaygın bir düşüncedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Madde, sadece kullanan kişiye zarar verir.",
+          "rationale": "Bu bir yanılgıdır; bağımlılık, aileye, arkadaşlara ve topluma (pasif içicilik, suç vb.) da zarar verir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Madde kullanımı, beynin ödül sistemindeki dopamin salınımını bozarak kronik bir beyin hastalığına yol açar.",
+          "rationale": "Bu bir gerekçe veya mit değil, bağımlılığın nörobiyolojik ve tıbbi açıklamasıdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, bir 'gerekçe' veya 'mit' değil, bilimsel bir gerçektir."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Dokümana göre, bağımlılık tedavisi ile ilgili aşağıdakilerden hangisi *yanlıştır*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kullanıcılar arasında 'bu hastalığın tedavisi olmadığı' yönünde yanlış bir kanı vardır.",
+          "rationale": "Dokümanda bu yanlış kanının yaygın olduğu belirtilmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uyuşturucu madde kullanan kişiler için zor da olsa tedavi vardır.",
+          "rationale": "Bağımlılığın tedavi edilebilir bir hastalık olduğu vurgulanmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişi bıraktıktan sonra, bir daha hiçbir zaman tekrar kullanmamalıdır.",
+          "rationale": "Tedavinin başarısı için 'temiz kalma'nın (abstinans) sürekliliği kritiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir kez kullanması onun eski günlerine dönmesine ve yıkıcı sonuçlar yaşamasına neden olabilir.",
+          "rationale": "Tekrar başlama (relaps) riski yüksektir ve genellikle eski kullanım düzenine hızla dönülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tedavi gören kişi, iradesi güçlendiği için 'kontrollü' olarak madde kullanmaya devam edebilir.",
+          "rationale": "Bu, 'ben bağımlı olmam' yanılgısının bir devamıdır. Tedavide amaç tam bırakmadır; 'kontrollü kullanım' bir tedavi hedefi değildir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Bağımlılık kronik bir beyin hastalığıdır ve 'kontrol' yanılgısı tedavinin önündeki en büyük engeldir."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Türk Ceza Kanunu'na (TCK) göre, 'kullanmak için uyuşturucu veya uyarıcı madde satın alan, kabul eden veya bulunduran ya da kullanan' kişi hangi ceza ile cezalandırılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yirmi yıldan otuz yıla kadar hapis.",
+          "rationale": "Bu ceza 'imal, ithal veya ihraç eden' yani ticareti yapanlar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "On yıldan az olmamak üzere hapis.",
+          "rationale": "Bu ceza 'satan, satışa arz eden, başkalarına veren' yani satıcılar içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İki yıldan beş yıla kadar hapis.",
+          "rationale": "Dokümanda 'kullanmak için' yapılan bu eylemlerin cezası olarak bu aralık belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece para cezası.",
+          "rationale": "TCK, bu suç için hapis cezası öngörmektedir (Denetimli serbestlik vb. ayrı bir hukuki süreçtir).",
+          "isCorrect": false
+        },
+        {
+          "text": "Herhangi bir cezai yaptırım uygulanmaz, sadece tedaviye yönlendirilir.",
+          "rationale": "TCK'da bu eylem bir suç olarak tanımlanmış ve hapis cezası öngörülmüştür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, 'kullanıcı' (içici) olmaya yönelik cezadır, 'satıcı' veya 'üretici' cezası değildir."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Bağımlılıkla mücadelede ücretsiz psiko-sosyal destek hizmeti veren ve dokümanda adı geçen Yeşilay kuruluşu hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "AMATEM (Alkol ve Madde Bağımlılığı Araştırma Tedavi ve Eğitim Merkezi)",
+          "rationale": "AMATEM, genellikle hastane bünyesinde olan bir merkezdir. Yeşilay'ın destek merkezi farklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "YEDAM (Yeşilay Danışmanlık Merkezi)",
+          "rationale": "Dokümanda YEDAM ve '444 79 75' numaralı hattı, Yeşilay'ın ücretsiz psiko-sosyal destek merkezi olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "ÇEMATEM (Çocuk ve Ergen Madde Bağımlılığı Tedavi Merkezi)",
+          "rationale": "ÇEMATEM, çocuk ve ergenlere odaklanır, ancak soruda Yeşilay'ın kurumu sorulmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "TBM (Türkiye Bağımlılıkla Mücadele Eğitim Programı)",
+          "rationale": "TBM, bir eğitim programıdır; doğrudan danışmanlık ve tedavi hizmeti merkezi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "DSÖ (Dünya Sağlık Örgütü)",
+          "rationale": "DSÖ, uluslararası bir sağlık örgütüdür; Yeşilay'a bağlı ulusal bir danışmanlık merkezi değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevabın kısaltmasında 'Yeşilay' ve 'Danışmanlık' kelimeleri bulunmaktadır."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Bağımlılığın nörobiyolojisine göre, beyindeki 'ödül sistemi'nin başlangıç noktası olarak kabul edilen bölge hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Prefrontal Korteks",
+          "rationale": "Prefrontal korteks, ödül yolunun sonlandığı yerlerden biridir ve planlama, karar verme ile ilgilidir; başlangıç noktası değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amigdala",
+          "rationale": "Amigdala duygusal hafıza ve tepkilerle ilgilidir, ödül sisteminde rol oynar ancak başlangıç noktası değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ventral Tegmental Alan (VTA)",
+          "rationale": "Dokümanda VTA (ön tavan bölge), ödül sisteminin başlangıç noktası olarak açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hipokampüs",
+          "rationale": "Hipokampüs, hafıza merkezi olarak bilinir ve ödül sistemindeki öğrenme sürecinde rol alır, ancak başlangıç noktası değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Serebellum (Beyincik)",
+          "rationale": "Beyincik daha çok motor kontrol ve denge ile ilgilidir, birincil ödül merkezi değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Beyin sapına yakın, ortabeyinde bulunan bu bölge 'VTA' olarak kısaltılır."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Beynin 'ödül sistemi'nde kullanılan, zevk ve motivasyon duygularıyla ilişkili anahtar nörotransmiter (haberci molekül) hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Serotonin",
+          "rationale": "Serotonin daha çok mutluluk, ruh hali ve uyku ile ilişkilidir, ancak ödül sisteminin 'anahtar' molekülü dopamindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dopamin",
+          "rationale": "Dokümanda 'dopamin'in ödül sisteminde kullanılan anahtar roldeki nörotransmiter olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Adrenalin (Epinefrin)",
+          "rationale": "Adrenalin, 'savaş ya da kaç' tepkisi ve heyecanla ilgilidir, ödül sisteminin birincil kimyasalı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "GABA",
+          "rationale": "GABA, beynin ana 'engelleyici' nörotransmiteridir, sakinleşme ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Asetilkolin",
+          "rationale": "Asetilkolin, kas hareketleri ve hafıza ile ilgilidir, ödül merkezinde birincil rol oynamaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Tüm bağımlılık yapıcı maddeler, bu kimyasalın salınımını yapay olarak artırır."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Beynin 'ödül sistemi'nde yer alan ve 'duygusal hafıza ve duygusal tepkilerin oluşmasındaki birincil role sahip' bölge hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nucleus Accumbens (NAcc)",
+          "rationale": "NAcc, ödül ve motivasyonun merkezidir ancak duygusal 'hafıza'nın birincil merkezi Amigdala'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prefrontal Korteks",
+          "rationale": "Bu bölge planlama ve karar verme ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ventral Tegmental Alan (VTA)",
+          "rationale": "Bu bölge ödül sisteminin başlangıç noktasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amigdala",
+          "rationale": "Dokümanda Amigdala'nın 'duygusal hafıza ve duygusal tepkiler' ile ilgili birincil bölge olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hipokampüs",
+          "rationale": "Hipokampüs genel hafıza merkezi olarak bilinir, ancak 'duygusal' hafıza ve tepkilerde Amigdala önceliklidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Korku, kaygı ve duygusal öğrenme gibi tepkilerin merkezidir."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Aşağıdakilerden hangisi beynin hafıza merkezi olarak bilinen ve ödül sisteminde 'öğrenme'yi pekiştiren bölgedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hipokampüs",
+          "rationale": "Dokümanda 'beynin hafıza merkezi' olarak tanımlanır ve bağımlılıkta madde ile alınan hazzın 'öğrenilmesinde' rol oynar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Amigdala",
+          "rationale": "Amigdala daha çok 'duygusal' hafıza ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ventral Tegmental Alan (VTA)",
+          "rationale": "VTA dopamin üretiminin başladığı yerdir, hafıza merkezi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prefrontal Korteks",
+          "rationale": "Bu bölge planlama ve karar verme (yürütücü işlevler) ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Striatum",
+          "rationale": "Striatum, alışkanlıkların oluşumu ve motor hareketlerle daha çok ilgilidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu bölge, kısa süreli anıları uzun süreli hafızaya aktarmakla görevlidir."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Aşağıdakilerden hangisi bağımlılık için bir 'risk faktörü' *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Güçlü ve pozitif aile bağları.",
+          "rationale": "Bu, dokümanda bir risk faktörü değil, 'koruyucu etken' olarak listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ruhsal sorunları ya da bağımlılığı bulunan aile üyelerinin varlığı.",
+          "rationale": "Aile öyküsü (genetik ve sosyal öğrenme) önemli bir risk faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Okul başarısında düşme.",
+          "rationale": "Okuldan kopma ve başarısızlık, madde kullanımına yönelim için bir risk faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arkadaş etkisi (Sapkın davranışlar sergileyen arkadaşlarla 'takılma').",
+          "rationale": "Akran baskısı ve sosyal çevre, en önemli risk faktörlerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Duygu düzenleme sorunları, yalnızlık ve depresif duygudurum.",
+          "rationale": "Olumsuz duygularla başa çıkamama, maddeye yönelimi artıran bir risk faktörüdür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, bağımlılığa karşı kişiyi 'koruyan' olumlu bir durumdur."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Aşağıdakilerden hangisi bağımlılıktan 'koruyucu etkenler' arasında sayılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ebeveyn-çocuk arasında bağlanma ve ilgi eksikliği.",
+          "rationale": "Bu, bir koruyucu etken değil, risk faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sınıfta aşırı utangaçlık veya şiddet içeren davranışlar.",
+          "rationale": "Bu, sosyal beceri zayıflığını gösteren bir risk faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal becerilerin zayıf olması.",
+          "rationale": "Bu, 'hayır' diyememe gibi durumları içeren bir risk faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ebeveynlerin çocuklarının yaşamlarına ilgili olmaları ve aile içi kuralların açık olması.",
+          "rationale": "Açık kurallar ve ebeveyn ilgisi, dokümanda belirtilen temel koruyucu faktörlerdendir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Okul, iş, aile ortamlarında uyuşturucu kullanımının onaylanması.",
+          "rationale": "Bu durum ('normalleştirme') bağımlılık için ciddi bir risk faktörüdür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, sağlıklı bir aile ortamının özelliklerini tanımlar."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Bağımlılık nörobiyolojisinde, nöronlar (sinir hücreleri) birbirleriyle nasıl haberleşir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aksonların birbirine fiziksel olarak dokunmasıyla.",
+          "rationale": "Nöronlar arasında 'sinaps' adı verilen küçük bir boşluk vardır, tam bir fiziksel temas olmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sinaps adı verilen boşluklara salınan 'nörotransmiter' adlı kimyasal habercilerle.",
+          "rationale": "Dokümanda kimyasal haberleşme bu şekilde (nörotransmiter, reseptör) açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Miyelin kılıfın ürettiği elektrik sinyalleriyle.",
+          "rationale": "Miyelin kılıf sinyali hızlandırır, ancak nöronlar arası iletişimi sağlamaz; o işi nörotransmiterler yapar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dendritlerin çekirdeğe doğrudan bilgi göndermesiyle.",
+          "rationale": "Dendritler bilgiyi alır, hücre gövdesi işler, akson iletir ve sinapsta nörotransmiter salınır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kan dolaşımına salınan hormonlar aracılığıyla.",
+          "rationale": "Hormonlar (endokrin sistem) farklı bir haberleşme sistemidir; sinir sistemi (nöronal) haberleşmesi kimyasaldır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Haberleşme, iki nöron arasındaki 'boşlukta' gerçekleşen kimyasal bir olaydır."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Dokümana göre, bağımlılık neden 'kronik bir rahatsızlık' olarak kabul edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece yaşlılarda görülmesi.",
+          "rationale": "Bağımlılık genç yaşlarda başlar ve her yaştan insanı etkiler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tedavisinin çok kısa sürmesi.",
+          "rationale": "Aksine, tedavisi uzun süreli ve zordur, 'temiz kalma' çabası ömür boyu sürebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olumsuz sonuçlara rağmen durdurulamaması ve nörogelişimsel bir bozukluk olması.",
+          "rationale": "Dokümanda kronik bir rahatsızlık olarak tanımlanırken bu nörogelişimsel, genetik ve sosyokültürel yönlerine atıf yapılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece yasa dışı maddelerle oluşması.",
+          "rationale": "Yasal maddeler olan alkol ve tütün de kronik bağımlılıklara yol açar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireyin seçim yapma özgürlüğünü engellememesi.",
+          "rationale": "Aksine, dokümanda 'kişinin seçim yapma özgürlüğünü engellemesi nedeniyle' psikiyatrik bozukluk olduğu belirtilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu rahatsızlık, beynin yapısını ve işleyişini uzun vadeli olarak değiştirir."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Aşağıdakilerden hangisi DSM-5'te tanımlanan 10 ayrı madde kümesi arasında *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Alkol",
+          "rationale": "Alkol, DSM-5'te tanımlanan 10 madde kümesinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kafein",
+          "rationale": "Kafein, DSM-5'te tanımlanan 10 madde kümesinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tütün",
+          "rationale": "Tütün, DSM-5'te tanımlanan 10 madde kümesinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kenevir (Esrar)",
+          "rationale": "Kenevir, DSM-5'te tanımlanan 10 madde kümesinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şeker",
+          "rationale": "Şeker (veya yeme bağımlılığı), DSM-5'te 'Madde Kullanım Bozukluğu' altında sınıflandırılmaz (Olgusal/Davranışsal bir konu olarak tartışılır).",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, listede 'madde' olarak sınıflandırılmayan, daha çok 'besin' olarak görülen bir şeydir."
+    },
+    {
+      "questionNumber": 31,
+      "question": "DSM-5'te 'Uçucular' (İnhalanlar) madde kümesine hangi maddeler örnek verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Morfin, eroin, kodein",
+          "rationale": "Bunlar 'Opiyatlar' madde kümesine aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "LSD, meskalin, fensiklidin",
+          "rationale": "Bunlar 'Halüsinojenler' madde kümesine aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tiner, benzin, bali",
+          "rationale": "Bunlar, koklanarak veya solunarak kullanılan 'Uçucular' (inhalanlar) sınıfındadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Amfetamin, ekstazi, kokain",
+          "rationale": "Bunlar 'Uyarıcılar' (stimülanlar) madde kümesine aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diazepam, klorazepat",
+          "rationale": "Bunlar 'Sakinleştirici, uyutucu ve kaygı gidericiler' (hipnosedatifler) kümesine aittir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu maddeler genellikle 'koklayarak' veya 'içe çekerek' kullanılır ve kimyasal çözücülerdir."
+    },
+    {
+      "questionNumber": 32,
+      "question": "DSM-5'te 'Uyarıcılar' (Stimülanlar) madde kümesine hangi maddeler örnek verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Morfin, eroin, kodein",
+          "rationale": "Bunlar 'Opiyatlar'dır ve merkezi sinir sistemini 'baskılarlar'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tiner, benzin, bali",
+          "rationale": "Bunlar 'Uçucular'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amfetamin, ekstazi, kokain",
+          "rationale": "Bu maddeler merkezi sinir sistemini 'uyarır', enerji ve canlanma hissi verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "LSD, meskalin",
+          "rationale": "Bunlar 'Halüsinojenler'dir ve algıyı bozarlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alkol",
+          "rationale": "Alkol, bir 'baskılayıcı'dır (depresan).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu maddeler bedeni ve ruhu 'canlandırır', 'enerjik' hissettirir."
+    },
+    {
+      "questionNumber": 33,
+      "question": "DSM-5'te 'Opiyatlar' madde kümesine hangi maddeler örnek verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Amfetamin, ekstazi, kokain",
+          "rationale": "Bunlar 'Uyarıcılar'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Morfin, eroin, kodein, metadon",
+          "rationale": "Afyon türevleri olan bu maddeler 'Opiyatlar' sınıfındadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tiner, benzin, bali",
+          "rationale": "Bunlar 'Uçucular'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "LSD, meskalin",
+          "rationale": "Bunlar 'Halüsinojenler'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diazepam, klorazepat",
+          "rationale": "Bunlar 'Sakinleştiriciler'dir (hipnosedatifler).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu maddeler genellikle ağrı kesici (analjezik) özellikleriyle bilinir."
+    },
+    {
+      "questionNumber": 34,
+      "question": "DSM-5'te 'Sakinleştirici, uyutucu ve kaygı gidericiler' (Hipnosedatifler) madde kümesine hangi maddeler örnek verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Morfin, eroin",
+          "rationale": "Bunlar 'Opiyatlar'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amfetamin, kokain",
+          "rationale": "Bunlar 'Uyarıcılar'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diazepam, klorazepat, barbitüratlar",
+          "rationale": "Bu grup ilaçlar (örn. Benzodiazepinler) merkezi sinir sistemini yavaşlatır ve bu sınıfa girer.",
+          "isCorrect": true
+        },
+        {
+          "text": "LSD, meskalin",
+          "rationale": "Bunlar 'Halüsinojenler'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tiner, bali",
+          "rationale": "Bunlar 'Uçucular'dır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu maddeler genellikle anksiyete veya uykusuzluk tedavisi için reçete edilir ancak bağımlılık yapabilir."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Alkolün kısa dönem etkileri arasında aşağıdakilerden hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Az miktarda alındığında vücudu rahatlatması.",
+          "rationale": "Alkol bir depresandır (baskılayıcı) ve başlangıçta rahatlama hissi verebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fazla miktarda alındığında kusma ve koordinasyon kaybı.",
+          "rationale": "Bunlar, alkol zehirlenmesinin yaygın belirtileridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuşma bozukluğu.",
+          "rationale": "Motor kontrolün ve bilişsel işlevlerin bozulmasıyla konuşma da bozulur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Duyuların keskinleşmesi ve dikkatin artması.",
+          "rationale": "Alkol, duyuları ve dikkati keskinleştirmez, aksine 'baskılar' ve yavaşlatır. Bu etkiler uyarıcılara aittir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Depresyon (Uzun dönem etki).",
+          "rationale": "Soruda kısa dönem etki soruluyor. Depresyon uzun dönem etkisidir, ancak 'rahatlama' kısa dönem etkisidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Alkol bir 'uyarıcı' değil, 'baskılayıcı'dır (depresan)."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Nikotin (Sigara) kullanımının uzun dönem etkileri arasında hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Akciğer ve kalp hastalıkları",
+          "rationale": "Bunlar, sigaranın en bilinen ve en ölümcül uzun vadeli sonuçlarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kanser",
+          "rationale": "Sigara dumanındaki kanserojenler başta akciğer olmak üzere birçok kanser türüne neden olur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uyku düzeninde bozulma ve baş ağrısı",
+          "rationale": "Bunlar daha çok 'geri çekilme' (yoksunluk) semptomlarıdır, maddenin uzun vadeli kronik etkisi değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Damar tıkanıklığı",
+          "rationale": "Nikotin ve diğer kimyasallar damar yapısını bozarak kronik damar hastalıklarına yol açar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kronik bronşit",
+          "rationale": "Sigara dumanı solunum yollarını tahriş ederek kronik öksürük ve bronşite neden olur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, maddenin 'uzun süreli' kullanımının bir sonucu değil, maddenin 'yokluğu'nda ortaya çıkan bir durumdur."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Opiatların (Eroin, Morfin) 'geri çekilme' (yoksunluk) semptomları arasında hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Anksiyete ve uykusuzluk",
+          "rationale": "Bunlar, opiat yoksunluğunun yaygın psikolojik belirtileridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kas kasılmaları, kusma, terleme, ishal ve ağrı",
+          "rationale": "Bunlar 'grip benzeri' belirtiler olup, opiat yoksunluğunun tipik fiziksel semptomlarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hafıza zarar görmesi ve ruh sağlığının olumsuz etkilenmesi",
+          "rationale": "Bunlar daha çok Halüsinojenlerin 'uzun dönem' etkileri olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vücut ağrıları",
+          "rationale": "Opiatlar ağrıyı azalttığı için, yoksunlukta şiddetli ağrılar ve kas sızıları görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gözlerde yaşarma ve burun akıntısı",
+          "rationale": "Bu belirtiler de (dokümanda olmasa da) opiat yoksunluğunun tipik belirtilerindendir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, başka bir madde grubunun (Halüsinojenler) 'uzun dönem' etkisi olarak listelenmiştir."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Halüsinojenlerin (LSD) kısa dönem etkileri arasında ne vardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Acıyı azaltmak ve hayal görme hissi.",
+          "rationale": "Acıyı azaltmak Opiyatların etkisidir. Halüsinojenler algıyı bozar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kullanıcının ruh halini değiştirmesi, renkler görülebilmesi.",
+          "rationale": "Dokümanda bu maddelerin algısal değişiklikler (renkler görme) ve ruh halinde dalgalanmalar yaptığı belirtilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Beden ve ruhu canlandırması, enerjik hissettirmesi.",
+          "rationale": "Bu, 'Uyarıcılar'ın (amfetamin, kokain) etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kullanıcıların düşünce ve eylemlerini yavaşlatması.",
+          "rationale": "Bu, 'Hipnosedatifler'in (sakinleştiriciler) etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Açlık hissinin azalması ve öfkede artış.",
+          "rationale": "Bu, 'Uyarıcılar'ın etkisidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu maddeler 'algı'yı bozmasıyla bilinir."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Esrarın (Hint Keneviri) uzun dönem etkileri arasında hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kontrol kaybı ve konsantrasyon kaybı",
+          "rationale": "Esrar, bilişsel işlevleri (hafıza, dikkat) uzun vadede olumsuz etkiler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Solunum problemleri",
+          "rationale": "Dumanı (sigara gibi) solunum yollarına zarar verir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Paranoya ve ruhsal sorunlarda artış",
+          "rationale": "Özellikle yatkınlığı olan kişilerde psikotik bozuklukları tetikleyebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İştah artışı",
+          "rationale": "İştah artışı (özellikle kısa dönemde) esrarın bilinen bir etkisidir ve uzun vadede de görülebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karaciğer fonksiyonlarında bozulma",
+          "rationale": "Dokümandaki tabloda karaciğer hasarı 'Alkol'ün uzun dönem etkisi olarak belirtilmiştir, esrar için değil.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, dokümanda başka bir maddenin (Alkol) spesifik uzun dönem etkisi olarak listelenmiştir."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Uyarıcıların (Stimülanlar) geri çekilme (yoksunluk) semptomları arasında hangisi vardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Anksiyete, titreme, kasılma",
+          "rationale": "Bu belirtiler daha çok 'Alkol' yoksunluğunda görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anksiyete, uykusuzluk, kas kasılmaları, kusma",
+          "rationale": "Bu belirtiler daha çok 'Opiyat' yoksunluğunda görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yorgunluk, ağrı, intihar düşünceleri, paranoya",
+          "rationale": "Uyarıcılar 'enerji' verdiği için, yoksunlukta tam tersi 'çöküş' (crash) yaşanır; yorgunluk, depresyon ve paranoya görülür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sinirlilik, uykusuzluk, kramplar",
+          "rationale": "Bu belirtiler daha çok 'Hipnosedatifler'in yoksunluğunda görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Belirgin fiziksel semptomları yoktur",
+          "rationale": "Bu 'Halüsinojenler' için belirtilmiştir. Uyarıcıların belirgin (tersine) semptomları vardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu maddeler 'canlandırdığı' için, yoksunlukları 'çöküntü' şeklinde olur."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Hipnosedatiflerin (Sakinleştirici) kısa dönem etkisi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kullanıcıların düşünce ve eylemlerini yavaşlatması.",
+          "rationale": "Bu maddeler merkezi sinir sistemini 'baskılayarak' yavaşlatır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Beden ve ruhu canlandırması, enerjik hissettirmesi.",
+          "rationale": "Bu, 'Uyarıcılar'ın etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kullanıcının ruh halini değiştirmesi, renkler görülebilmesi.",
+          "rationale": "Bu, 'Halüsinojenler'in etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Acıyı azaltması ve hayal görme hissi.",
+          "rationale": "Bu, 'Opiyatlar'ın etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek dozlarda halüsinasyon ve paranoya.",
+          "rationale": "Bu, 'Esrar'ın yüksek doz etkisidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu maddelerin 'sakinleştirici' ve 'uyutucu' etkileri vardır."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Uçucu maddelerin (Bali, Tiner) uzun dönem etkileri arasında hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Burun kanaması ve deride kaşıntı",
+          "rationale": "Bunlar, uçucu maddelerin uzun dönem etkileri olarak tabloda listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İştahın kesilmesi ve motivasyonsuzluk",
+          "rationale": "Bunlar, uçucu maddelerin uzun dönem etkileri olarak tabloda listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Böbrek ve akciğerlerde hasar",
+          "rationale": "Bu kimyasallar doğrudan organlara toksik etki yapar ve hasara yol açar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Beyne zarar vermesi (örn. kurşun nedeniyle)",
+          "rationale": "Uçucuların içeriğindeki (benzin vb.) ağır metaller beyin hasarına yol açabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akciğer, kalp hastalıkları ve kanser",
+          "rationale": "Bu spesifik liste (akciğer, kalp, kanser), dokümandaki tabloda 'Nikotin'in uzun dönem etkileri olarak belirtilmiştir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, dokümanda 'Nikotin'in uzun dönem etkileri olarak listelenmiştir."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Dünya Sağlık Örgütü (DSÖ) 2023 raporuna göre, dünyada her yıl yaklaşık kaç milyon kişi sigara içiciliği nedeniyle ölmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "1 milyon",
+          "rationale": "Rakam bundan çok daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "3 milyon",
+          "rationale": "Rakam bundan daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "5 milyon",
+          "rationale": "Rakam bundan daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "8 milyon",
+          "rationale": "Dokümanda DSÖ verisi olarak 'her yıl 8 milyon kişinin' sigara nedeniyle öldüğü belirtilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "20 milyon",
+          "rationale": "Rakam bu kadar yüksek değildir (8 milyon olarak belirtilmiş).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Dokümanda bu 'katliam gibi' olarak nitelendirilen sayı açıkça belirtilmiştir."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Sağlık Bakanlığı 2023 verilerine göre, Türkiye'de hastanede meydana gelen ölümlerin yaklaşık yüzde kaçı tütün ürünleri kullanımından kaynaklanmaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "%10",
+          "rationale": "Verilen rakam bundan çok daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%20",
+          "rationale": "Bu oran, tütün kaynaklı hastalıklar nedeniyle 'hastaneye yatan' kişilerin oranıdır, 'ölenlerin' değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "%35",
+          "rationale": "Verilen rakam bundan daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%52",
+          "rationale": "Dokümanda 'hastanede meydana gelen ölümlerin %52’sinin tütün ürünleri kullanımından kaynaklandığı' belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "%75",
+          "rationale": "Rakam bu kadar yüksek değildir (%52 olarak belirtilmiş).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hastanelerdeki ölümlerin yarısından fazlası bu nedene bağlanmıştır."
+    },
+    {
+      "questionNumber": 45,
+      "question": "DSM-5'e göre 'Tütün Bağımlılığı' tanısı için aşağıdakilerden hangisi bir kriter *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tütünü genellikle amaçlanandan daha fazla veya daha uzun süre kullanma.",
+          "rationale": "Bu, (kontrol kaybı) DSM-5 tütün bağımlılığı kriterlerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tütün elde etmek veya kullanmak için aşırı zaman harcama.",
+          "rationale": "Bu, (hayatın merkezine alma) DSM-5 tütün bağımlılığı kriterlerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tütün kullanımının neden olduğu veya artırdığı fiziksel/psikolojik problemlere rağmen devam etme.",
+          "rationale": "Bu, (zarara rağmen devam etme) DSM-5 tütün bağımlılığı kriterlerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tolerans ve Yoksunluk belirtileri yaşanması.",
+          "rationale": "Tolerans ve yoksunluk, DSM-5 tütün bağımlılığı kriterlerinden ikisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Günde en az bir paket (20 adet) sigara içmek.",
+          "rationale": "DSM-5 'miktar' belirtmez; 'kontrol kaybı' ve 'olumsuz sonuçlar' üzerinden tanı koyar. Günde 5 sigara içen biri de bu kriterlere göre bağımlı olabilir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Tanı kriterleri 'ne kadar' içildiğiyle değil, içme 'davranışı'nın sonuçlarıyla ilgilidir."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Fagerström Nikotin Bağımlılık Ölçeği'ne göre, 'ilk sigarasını uyandıktan sonraki ilk 5 dakika içinde' içen bir kişi kaç puan alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "0 Puan",
+          "rationale": "0 puan '30 dakika+' sonrası içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "1 Puan",
+          "rationale": "1 puan '30 dakika+' (veya '6-30 dk' için 2) sonrası içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "2 Puan",
+          "rationale": "2 puan '6-30 dakika' arası içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "3 Puan",
+          "rationale": "Ölçeğe göre '5 dakika içinde' içmek en yüksek bağımlılık göstergesidir ve 3 puan alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "5 Puan",
+          "rationale": "Bu sorudan alınabilecek en yüksek puan 3'tür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ne kadar erken içiliyorsa, bağımlılık o kadar yüksektir ve alınacak puan da o kadar yüksektir."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Fagerström Nikotin Bağımlılık Ölçeği'nde bir kişi 'Günde 31 veya daha fazla' sigara içiyorsa kaç puan alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "0 Puan",
+          "rationale": "0 puan '10 veya daha az' içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "1 Puan",
+          "rationale": "1 puan '11-20' arası içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "2 Puan",
+          "rationale": "2 puan '21-30' arası içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "3 Puan",
+          "rationale": "Ölçeğe göre '31+' sigara en yüksek miktar olup 3 puan alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "4 Puan",
+          "rationale": "Bu sorudan alınabilecek en yüksek puan 3'tür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İçilen miktar arttıkça alınan puan da artar. 31+, en yüksek puanı alır."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Fagerström Nikotin Bağımlılık Ölçeği'ne göre toplamda 9 puan alan birinin bağımlılık düzeyi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Düşük düzeyde bağımlılık",
+          "rationale": "Düşük düzey '0-2' puan aralığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Orta düzeyde bağımlılık",
+          "rationale": "Orta düzey '3-7' puan aralığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek düzeyde bağımlılık",
+          "rationale": "Yüksek düzey '8-10' puan aralığıdır. 9 puan bu aralıktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bağımlı değil",
+          "rationale": "9 puan, ölçeğe göre çok yüksek bir bağımlılık düzeyini gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ölçek dışı (Hatalı Puan)",
+          "rationale": "9 puan, 8 ile 10 arasında geçerli bir yüksek düzey puanıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Puan aralıkları 0-2 (düşük), 3-7 (orta) ve 8-10 (yüksek) şeklindedir."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Sigaranın içinde bulunan ve 'tarım ilacı' olarak da kullanılan, şiddetli bağımlılık yapıcı madde hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Katran",
+          "rationale": "Katran, kanserojen bir maddedir ancak birincil bağımlılık yapıcı ajan değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karbonmonoksit",
+          "rationale": "Karbonmonoksit, egzoz gazında da bulunan zehirli bir gazdır, bağımlılık yapıcı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nikotin",
+          "rationale": "Dokümanda nikotinin 'şiddetli bağımlılık' yaptığı ve 'tarım ilacı' olarak da kullanıldığı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arsenik",
+          "rationale": "Arsenik (fare zehri) sigarada bulunan zehirli bir kimyasaldır, ancak bağımlılık yapıcı madde değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amonyak",
+          "rationale": "Amonyak (tuvalet temizleyici) sigarada bulunur, nikotin emilimini artırır ancak bağımlılığın ana etkeni değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu madde tütün bitkisinde doğal olarak bulunur ve bağımlılığın ana sorumlusudur."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Nikotin yoksunluk belirtileri (geri çekilme) arasında aşağıdakilerden hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sinirlilik, gerginlik, öfke",
+          "rationale": "Bunlar, nikotin yoksunluğunun en sık görülen psikolojik belirtileridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uykusuzluk ve uyku bozuklukları",
+          "rationale": "Nikotin çekilmesi uyku düzenini bozar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Artmış iştah veya kilo alımı",
+          "rationale": "Metabolizmanın yavaşlaması ve yeme isteği yoksunlukta sık görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konsantrasyon güçlüğü",
+          "rationale": "Beyin nikotin desteği olmadan odaklanmakta zorlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kan basıncında (Tansiyon) yükselme",
+          "rationale": "Dokümanda yoksunluk belirtileri arasında 'tansiyonda düşme' belirtilmiştir, yükselme değil (Sigara içmek tansiyonu yükseltir).",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, sigara 'içerken' olan bir etkinin 'tersi'dir. Sigara tansiyonu yükseltir, yoksunluğu ise..."
+    },
+    {
+      "questionNumber": 51,
+      "question": "Sigara dumanında bulunan ve 'aseton' (oje çıkarıcı) ile 'tiner' (boya inceltici) gibi kimyasalların ortak özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hepsinin bağımlılık yapıcı olması.",
+          "rationale": "Sigarada bağımlılığı yapan ana madde nikotindir; bu diğer kimyasallar 'zehirli'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sigaranın içinde bulunan 4.000'den fazla zehirli kimyasal madde arasında yer almaları.",
+          "rationale": "Dokümandaki kimyasallar listesinde aseton, tiner, amonyak, arsenik gibi birçok zehirli madde sayılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Akciğer kanserinin tek nedeni olmaları.",
+          "rationale": "Kansere neden olan ana etkenlerden biri 'katran'dır, ancak bu kimyasallar da toksiktir. 'Tek neden' değillerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece kaçak sigaralarda bulunmaları.",
+          "rationale": "Bu kimyasallar (yanma sonucu oluşanlar dahil) yasal sigaralarda da bulunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vücuda faydalı olmaları.",
+          "rationale": "Bu maddeler endüstriyel çözücülerdir ve vücut için son derece zehirlidirler.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Dokümandaki 'Biraz kimyadan konuşalım...' başlıklı sayfada bu maddeler listelenmiştir."
+    },
+    {
+      "questionNumber": 52,
+      "question": "Aşağıdakilerden hangisi sigaraya 'erken yaşta' başlamanın sonuçlarından biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sigara ile ilişkili hastalıklara yakalanma riskinin artması.",
+          "rationale": "Dokümanda 'erken yaşta başlama, ... riskini de artırmaktadır' denilerek, genç yaşta görülen kalp hastalıklarına dikkat çekilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İleride sigarayı bırakmanın daha kolay olması.",
+          "rationale": "Aksine, erken yaşta başlama beyin gelişimi sürerken olduğu için bağımlılığı daha da güçlendirir ve bırakmayı zorlaştırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vücudun sigaraya karşı daha hızlı bağışıklık geliştirmesi.",
+          "rationale": "Vücut sigaraya bağışıklık geliştirmez, tam tersine 'tolerans' geliştirir ve daha çok zarar görür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akciğer kapasitesinin gelişmesi.",
+          "rationale": "Sigara dumanı akciğer kapasitesini geliştirmez, aksine 'tahrip eder'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece psikolojik bağımlılık gelişmesi, fiziksel bağımlılık gelişmemesi.",
+          "rationale": "Erken yaşta başlama, hem fiziksel hem de psikolojik bağımlılığın çok güçlü olmasına neden olur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Dokümanda bu durumun 'kalp damar hastalıkları, akciğer kanseri' gibi hastalıkların daha genç yaşta görülmesiyle ilişkili olduğu belirtilmiştir."
+    },
+    {
+      "questionNumber": 53,
+      "question": "Aşağıdakilerden hangisi gençleri sigara içmeye yönelten 'risk faktörleri' arasında *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sigara içen yakın arkadaş grubu, anne, baba ve kardeşlerinin olması.",
+          "rationale": "Sosyal öğrenme ve akran baskısı en önemli risk faktörlerindendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Okul başarısının düşük olması.",
+          "rationale": "Akademik başarısızlık ve okuldan kopma bir risk faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anksiyete, depresyon ve yalnızlık duygusu.",
+          "rationale": "Olumsuz duygularla başa çıkma yöntemi olarak sigaraya yönelme bir risk faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile içi çatışmalar ve sevgisizlik.",
+          "rationale": "Sağlıksız aile ortamı önemli bir risk faktörüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uyuşturucu kullanımı ile ilgili doğru bilgilenme.",
+          "rationale": "Bu bir risk faktörü değil, dokümanın başka bir bölümünde (Sayfa 37) 'koruyucu etken' olarak belirtilmiştir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, genci sigaradan 'uzaklaştıracak' olumlu bir durumdur."
+    },
+    {
+      "questionNumber": 54,
+      "question": "Aşağıdakilerden hangisi sigara içer içmez (kısa vadede) ortaya çıkan etkilerden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kalp atışının hızlanması ve kan basıncının artması.",
+          "rationale": "Nikotin bir uyarıcıdır ve sempatik sinir sistemini aktive ederek bu etkilere hemen yol açar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Midenin asit üretmesi.",
+          "rationale": "Bu, sigaranın mide üzerindeki ani etkilerinden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İştahsızlık.",
+          "rationale": "Nikotin iştahı baskılayan bir maddedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kadınlarda ve erkeklerde kısırlık riski.",
+          "rationale": "Kısırlık, sigaranın 'uzun süreli' etkileri sonucunda ortaya çıkan kronik bir sorundur, 'içer içmez' olan bir etki değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Koku ve tat alma duyularının zayıflaması.",
+          "rationale": "Duman, ağız ve burundaki reseptörleri hemen etkileyerek bu duyuları geçici olarak zayıflatır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, anlık bir etki değil, yıllar süren kullanımın bir sonucudur."
+    },
+    {
+      "questionNumber": 55,
+      "question": "Aşağıdakilerden hangisi sigaranın 'uzun süreli' etkilerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Beynin ve sinir sisteminin hızlı çalışması ve sonra yavaşlaması.",
+          "rationale": "Bu, nikotinin 'kısa süreli' (içer içmez) ortaya çıkan bifazik etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalp atışının hızlanması.",
+          "rationale": "Bu, 'kısa süreli' bir etkidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha kırışık ve kuru bir ciltle olduğundan yaşlı görünmek.",
+          "rationale": "Sigara, cildin kolajen yapısını ve kan akışını bozarak 'uzun vadede' erken yaşlanmaya neden olur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Beyindeki kan akışının yavaşlaması.",
+          "rationale": "Bu, damarlar üzerindeki 'kısa süreli' etkilerden biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Böbreklerin, olması gerekenden daha az miktarda idrar üretmesi.",
+          "rationale": "Bu, 'kısa süreli' hormonal etkilerden biridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, vücutta yıllar içinde biriken 'kümülatif' bir hasarı tanımlar."
+    },
+    {
+      "questionNumber": 56,
+      "question": "Sigara içenlerin yüzde kaçının 75 yaşından önce öldüğü belirtilmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "%10",
+          "rationale": "Dokümandaki oran bundan çok daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%25",
+          "rationale": "Bu oran, sigara 'içmeyenlerin' 75 yaşından önce ölme oranıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "%50",
+          "rationale": "Dokümanda 'Sigara içenlerin %50’si, içmeyenlerinse sadece %25’i 75 yaşından önce ölmektedir' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "%80",
+          "rationale": "Bu oran (80-90%), akciğer kanserlerinin tütün kullananlarda görülme oranıdır, genel ölüm oranı değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "%100",
+          "rationale": "Bu oran gerçekçi değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu oran, sigara içmeyenlerin aynı yaştan önce ölme oranının (%25) tam iki katıdır."
+    },
+    {
+      "questionNumber": 57,
+      "question": "Akciğer kanserlerinin yüzde kaçının tütün kullananlarda görüldüğü belirtilmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "%25",
+          "rationale": "Rakam bundan çok daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%50",
+          "rationale": "Bu, sigara içenlerin 75 yaşından önce ölme oranıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "%60-70",
+          "rationale": "Rakam bundan daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%80-90",
+          "rationale": "Dokümanda 'Akciğer kanserlerinin %80-90’ı tütün kullananlarda görülür' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "%100",
+          "rationale": "Akciğer kanserinin (asbest, radon vb. gibi) başka nedenleri de vardır, ancak büyük çoğunluğu sigara kaynaklıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu kanser türü ile sigara arasındaki ilişki çok güçlüdür; vakaların neredeyse tamamı tütünle ilişkilidir."
+    },
+    {
+      "questionNumber": 58,
+      "question": "'Pasif içicilik' (Pasif etkilenim) nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sigara kullanmayan birinin sigara içilen ortamdaki sigara dumanını soluması.",
+          "rationale": "Bu, pasif içiciliğin (ikincil duman) tam tanımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Günde sadece 1-2 adet gibi 'pasif' bir düzeyde sigara içmek.",
+          "rationale": "Bu 'az içicilik'tir (light smoker), pasif içicilik değildir. İçen kişi 'aktif' içicidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sigarayı yakmadan sadece dudaklar arasında tutmak.",
+          "rationale": "Bu bir davranış biçimidir, pasif içicilik değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elektronik sigara kullanmak.",
+          "rationale": "Elektronik sigara kullanmak 'aktif' bir eylemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sigara dumanının sadece giysilere sinmesi.",
+          "rationale": "Bu 'üçüncül duman' olarak adlandırılır, 'ikincil duman' (pasif içicilik) ise dumanı solumaktır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, sigara içmeyen bir kişinin dumanı 'soluması' ile ilgilidir."
+    },
+    {
+      "questionNumber": 59,
+      "question": "DSÖ verilerine göre, dünyada her yıl kaç bin çocuk pasif içiciliğe maruz kalmanın neden olduğu solunum yolu rahatsızlıkları sonucu yaşamını yitirmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "10 bin",
+          "rationale": "Rakam bundan daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "25 bin",
+          "rationale": "Rakam bundan daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "40 bin",
+          "rationale": "Rakam bundan daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "65 bin",
+          "rationale": "Dokümanda 'her yıl 65 bin çocuk, pasif içiciliğe maruz kalmanın ... sonucu yaşamını yitiriyor' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "100 bin",
+          "rationale": "Rakam 65 bin olarak belirtilmiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu, pasif içiciliğin en masum kurbanları olan çocuklarla ilgili trajik bir sayıdır."
+    },
+    {
+      "questionNumber": 60,
+      "question": "Nargile ile ilgili dokümanda belirtilen önemli bilgi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sudan geçtiği için dumanının tamamen zararsız ve masum olduğu.",
+          "rationale": "Bu, 'Sanıldığı kadar masum mu?' sorusuyla çürütülen bir yanılgıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "1 Nargilenin zararının 50 sigaraya eşit olduğu.",
+          "rationale": "Dokümandaki görselde '1 Nargilenin zararı 50 Sigaraya eşittir' ifadesi net bir şekilde yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece meyve aroması içerdiği, tütün veya nikotin içermediği.",
+          "rationale": "Nargile tütünü (tömbeki) nikotin içerir; aroma sadece tadı maskeler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elektronik sigaradan daha az zararlı olduğu.",
+          "rationale": "Dokümanda böyle bir kıyaslama yapılmamış, nargilenin sigara ile kıyaslaması yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pasif içiciliğe neden olmadığı.",
+          "rationale": "Nargile dumanı da (hem tütün dumanı hem de kömürün yanma gazları) pasif içiciliğe neden olur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, nargilenin 'kaç adet' sigaraya denk geldiğiyle ilgili çarpıcı bir karşılaştırmadır."
+    },
+    {
+      "questionNumber": 61,
+      "question": "Elektronik sigara (E-sigara) ile ilgili aşağıdakilerden hangisi *yanlıştır*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tütün dumanına benzeyen aromalı nikotin buharı üreten, pilli bir cihazdır.",
+          "rationale": "Bu, e-sigaranın teknik tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yapılan çalışmalar, e-sigaranın sigarayı bırakma konusunda yardımcı olduğunu *kanıtlamıştır*.",
+          "rationale": "Dokümanda tam tersi belirtilmiştir: 'Bilinenin aksine e-sigaranın sigarayı bırakma konusunda yardımcı olmadığı ortaya konmuştur.'",
+          "isCorrect": true
+        },
+        {
+          "text": "E-sigaranın, nikotin bağımlılığını sürdürdüğü ve bırakma davranışını engellediği gösterilmiştir.",
+          "rationale": "Dokümanda bu 'tersine etki' açıkça belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geleneksel sigara, puro veya kalem görünümünde 250'den fazla çeşidi vardır.",
+          "rationale": "Dokümanda bu çeşitlilikten bahsedilmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nikotin buharı üretir.",
+          "rationale": "E-sigara likitleri genellikle nikotin içerir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, e-sigaranın 'sigarayı bıraktırma' konusundaki etkinliği hakkındaki yaygın bir yanılgıdır."
+    },
+    {
+      "questionNumber": 62,
+      "question": "Kaçak/sahte sigaraların yasal sigaralara göre fazladan zararları arasında hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Alışılmışın çok üzerinde nikotin ve karbonmonoksit içermesi.",
+          "rationale": "Denetimsiz üretim, bu zehirli maddelerin oranlarının çok yüksek olmasına neden olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bozuk ve küflenmiş tütün kullanımı.",
+          "rationale": "Maliyet düşürmek için sağlık standartlarına uyulmaz, bu da ek toksinlere yol açar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Denetimden tamamen yoksun olması.",
+          "rationale": "Bu, kaçak/sahte sigaranın en temel sorunudur; içinde ne olduğu bilinmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yasa dışı örgütlere kaynak sağlaması.",
+          "rationale": "Bu, sağlık zararı değil, 'toplumsal/ekonomik' bir zararıdır ancak dokümanda belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece aromalı ve 'light' (hafif) tütün içermesi.",
+          "rationale": "'Light' sigara bir pazarlama hilesidir ve daha az zararlı değildir. Kaçak sigaraların böyle bir özelliği yoktur, aksine daha tehlikelidir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, kaçak sigaraların 'daha az zararlı' olabileceğine dair bir imadır, ki bu tamamen yanlıştır."
+    },
+    {
+      "questionNumber": 63,
+      "question": "Tütün bağımlılığı tedavisinde kullanılan ve nikotin sakızı, bantlar, spreyler gibi ürünleri içeren tedavi yöntemi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Farmakoterapi (İlaç tedavisi)",
+          "rationale": "Farmakoterapi (bupropion, vareniklin) reçeteli ilaçları kapsar. Sakız ve bantlar farklı bir kategoridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nikotin yerine koyma tedavisi (NRT)",
+          "rationale": "Bu tedavi (NRT), vücuda sigara dışı yollardan (bant, sakız) kontrollü nikotin vererek yoksunluğu azaltmayı hedefler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Davranışsal terapi",
+          "rationale": "Bu, danışmanlık ve destek grupları gibi konuşma terapilerini içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Motivasyonel destek",
+          "rationale": "Bu, bireyin bırakma isteğini artırmaya yönelik psikolojik bir yaklaşımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çevresel değişiklikler",
+          "rationale": "Bu, sigara içme ortamlarını değiştirmek gibi fiziksel düzenlemeleri içerir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu yöntemin adı, sigaradan alınan bir maddeyi 'yerine koymayı' ifade eder."
+    },
+    {
+      "questionNumber": 64,
+      "question": "Tütün bağımlılığı tedavisinde kullanılan 'Farmakoterapi' (ilaç tedavisi) hangi ilaçları örnek olarak içerir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nikotin sakızı ve bantları",
+          "rationale": "Bunlar 'Nikotin Yerine Koyma Tedavisi' (NRT) ürünleridir, reçeteli farmakoterapi ilaçları değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bupropion veya vareniklin",
+          "rationale": "Dokümanda bu iki ilaç, nikotin bağımlılığını azaltmaya yardımcı olan 'reçeteli ilaçlar' (farmakoterapi) olarak örnek verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Diazepam veya klorazepat",
+          "rationale": "Bunlar sakinleştiricilerdir, tütün bağımlılığı tedavisinde birincil ilaçlar değillerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Morfin veya metadon",
+          "rationale": "Bunlar opiyat bağımlılığı tedavisinde kullanılan ilaçlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antibiyotikler",
+          "rationale": "Antibiyotiklerin tütün bağımlılığı tedavisinde bir rolü yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu ilaçlar, beyindeki nikotin reseptörlerini etkileyerek aşermeyi azaltır ve reçete ile alınırlar."
+    },
+    {
+      "questionNumber": 65,
+      "question": "Sigarayı bıraktıktan '20 dakika sonra' vücutta gerçekleşen olumlu gelişme nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Karbonmonoksit vücuttan atılır.",
+          "rationale": "Bu, '24 saat sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Azalan tat ve koku duyusu normale döner.",
+          "rationale": "Bu, '48 saat sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nabız ve hızlı soluk alıp verme normale döner.",
+          "rationale": "Nikotinin uyarıcı etkisi hızla azalır ve '20 dakika sonra' dolaşım sistemi normale dönmeye başlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kandaki oksijen düzeyi normal seviyesine döner.",
+          "rationale": "Bu, '8 saat sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soluk alıp vermek kolaylaşır, enerji düzeyi artar.",
+          "rationale": "Bu, '72 saat sonra' gerçekleşir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, vücutta gerçekleşen 'en hızlı' fizyolojik iyileşmedir."
+    },
+    {
+      "questionNumber": 66,
+      "question": "Sigarayı bıraktıktan '48 saat sonra' vücutta gerçekleşen olumlu gelişme nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nabız normale döner.",
+          "rationale": "Bu, '20 dakika sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kandaki oksijen düzeyi normale döner.",
+          "rationale": "Bu, '8 saat sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karbonmonoksit vücuttan atılır.",
+          "rationale": "Bu, '24 saat sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Artan nikotin düzeyi ve azalan tat ve koku duyusu normale döner.",
+          "rationale": "Sinir uçlarının iyileşmeye başlamasıyla '48 saat sonra' tat ve koku duyuları düzelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Akciğer performansı %5 ile %10 artar.",
+          "rationale": "Bu, '3-9 ay sonra' gerçekleşen daha uzun vadeli bir iyileşmedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu iyileşme, 'duyular'ınızla ilgilidir (özellikle yeme zevki)."
+    },
+    {
+      "questionNumber": 67,
+      "question": "Sigarayı bıraktıktan '3-9 ay sonra' vücutta gerçekleşen olumlu gelişme nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kalp hastalıklarına yakalanma riski %50 azalır.",
+          "rationale": "Bu, '12 ay (1 yıl) sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vücuttaki dolaşım düzelir, yürürken yorulma azalır.",
+          "rationale": "Bu, '2-12 hafta sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akciğer performansı %5 ile %10 artar; kısa süreli ve hırıltılı soluk almalar düzelir.",
+          "rationale": "Akciğerlerin (siliya) kendini temizlemeye başlamasıyla '3-9 ay' içinde solunum fonksiyonları belirgin şekilde iyileşir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Soluk alıp vermek kolaylaşır, enerji düzeyi artar.",
+          "rationale": "Bu, '72 saat sonra' gerçekleşen daha erken bir iyileşmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalp krizi geçirme olasılığı sigara içmeyenler ile aynı seviyeye iner.",
+          "rationale": "Bu, '10-15 yıl sonra' gerçekleşen çok uzun vadeli bir iyileşmedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu iyileşme 'akciğer performansı'ndaki yüzde artışı ile ilgilidir."
+    },
+    {
+      "questionNumber": 68,
+      "question": "Sigarayı bıraktıktan '5 yıl sonra' vücutta gerçekleşen olumlu gelişme nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kalp hastalıklarına yakalanma riski %50 azalır.",
+          "rationale": "Bu, '1 yıl sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesane kanserine yakalanma riski %50 azalır.",
+          "rationale": "Bu, '12-36 ay (1-3 yıl) sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalp krizi ve solunum yollarıyla ilgili kanserlere yakalanma riski %50 azalır.",
+          "rationale": "Dokümanda '5 yıl sonra' kanser risklerinin yarı yarıya azaldığı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Akciğer performansı %5 ile %10 artar.",
+          "rationale": "Bu, '3-9 ay sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalp krizi geçirme olasılığı içmeyenler ile aynı seviyeye iner.",
+          "rationale": "Bu, '10-15 yıl sonra' gerçekleşir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu dönüm noktası, hem kalp hem de 'kanser' riskiyle ilgilidir."
+    },
+    {
+      "questionNumber": 69,
+      "question": "Sigarayı bıraktıktan '10-15 yıl sonra' vücutta gerçekleşen en önemli gelişme nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tat ve koku duyusu normale döner.",
+          "rationale": "Bu, '48 saat sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalp krizi geçirme olasılığı sigara içmeyenler ile aynı seviyeye iner.",
+          "rationale": "Dokümanda bu, '10-15 yıl' sonra ulaşılan ve vücudun adeta 'sıfırlandığı' en önemli iyileşmelerden biri olarak belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vücuttaki dolaşım düzelir.",
+          "rationale": "Bu, '2-12 hafta sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalp hastalıklarına yakalanma riski %50 azalır.",
+          "rationale": "Bu, '1 yıl sonra' gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kandaki oksijen düzeyi normale döner.",
+          "rationale": "Bu, '8 saat sonra' gerçekleşir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu, çok uzun bir süre sonunda, riskin neredeyse 'hiç içmemiş' birine yaklaşması durumudur."
+    },
+    {
+      "questionNumber": 70,
+      "question": "Aşağıdakilerden hangisi dokümanda belirtilen 'Sigara Bırakmada 10 Altın Tavsiye'den biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bırakma gününüzü belirleyin.",
+          "rationale": "Bu, ilk ve en önemli adımlardan biri olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hobi ve uğraşlarınızı zenginleştirin.",
+          "rationale": "Bu, dikkati dağıtmak ve boşluk hissini doldurmak için önerilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bol bol su için; meyve ve sebze yiyin.",
+          "rationale": "Bu, hem vücudu temizlemek hem de oral (ağız) alışkanlığının yerini tutmak için önerilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sigara isteğinizi tetikleyecek etkenlerden uzak durun.",
+          "rationale": "Çevre kontrolü, bırakma sürecinde kritik öneme sahiptir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sigara isteği geldiğinde elektronik sigara veya nargile kullanın.",
+          "rationale": "Dokümanda bu ürünlerin zararlı olduğu ve bırakmaya yardımcı olmadığı belirtilmiştir. Tavsiyeler listesinde böyle bir madde yoktur.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, bağımlılığı başka bir bağımlılıkla 'yer değiştirme' önerisidir ki bu, tavsiyelere aykırıdır."
+    },
+    {
+      "questionNumber": 71,
+      "question": "Madde bağımlılığı neden tıbbi bir 'hastalık' olarak kabul edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çünkü sadece hastanelerde tedavi edilebilir.",
+          "rationale": "Tedavisi sadece hastanede olmaz (örn. YEDAM, ayakta tedavi), ancak 'hastalık' olma nedeni bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü beynin yapısını ve işleyişini bozan kronik bir beyin rahatsızlığıdır.",
+          "rationale": "Dokümanda 'tıbbi bir hastalıktır' (Sayfa 4) ve 'kronik bir rahatsızlıktır' (Sayfa 29) ifadeleriyle beyni etkileme mekanizması vurgulanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çünkü sadece iradesi zayıf insanları etkiler.",
+          "rationale": "Bu, 'irade zayıflığı' mitidir. Bağımlılık bir irade sorunu değil, beyin hastalığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü kullanan herkes mutlaka kanser olur.",
+          "rationale": "Kanser riskini çok artırır ancak 'herkes' kanser olmaz. Hastalık olmasının tanımı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü maliyeti çok yüksektir.",
+          "rationale": "Maliyeti yüksektir ancak bu, onun 'tıbbi' tanımından çok 'ekonomik' bir sonucudur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, bağımlılığın 'irade' ile değil, 'beyin' ile ilgili olduğunu vurgular."
+    },
+    {
+      "questionNumber": 72,
+      "question": "Dokümanda 'Otoriteye başkaldırma' ve 'isyan etme aracı' olarak madde kullanma, hangi grup nedenler altında listelenmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Maddesel bağımlılık türleri",
+          "rationale": "Bu bir 'neden'dir, 'bağımlılık türü' değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağımlılığın zararları",
+          "rationale": "Bu bir 'neden'dir (sonuç/zarar değil).",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsanlar neden madde kullanmak ister? (Kullanıma başlama nedenleri)",
+          "rationale": "Sayfa 5'teki listede 'Otoriteye başkaldırma' ve 'isyan etme' birer başlama nedeni olarak sayılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bağımlılığın nörobiyolojisi",
+          "rationale": "Bu psikososyal bir nedendir, nörobiyolojik bir mekanizma değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sigarayı bırakma tavsiyeleri",
+          "rationale": "Bu, kullanıma 'başlama' nedenidir, bırakma tavsiyesi değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu, genellikle ergenlik döneminde görülen psikolojik bir 'başlama' motivasyonudur."
+    },
+    {
+      "questionNumber": 73,
+      "question": "Aşağıdakilerden hangisi 'Bağımlılık Değerlendirme Formu'nda yer alan sorulardan biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Zaman içinde kullandığınız alkol ya da madde miktarında artış oldu mu? (Tolerans)",
+          "rationale": "Bu (Soru 2), tolerans gelişimini sorgulayan bir sorudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alkol ya da maddeyi bıraktığınız zaman bazı fiziksel belirtiler ortaya çıkıyor mu? (Yoksunluk)",
+          "rationale": "Bu (Soru 8), fiziksel yoksunluğu sorgulayan bir sorudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile ilişkileriniz alkol ya da madde kullanmanız nedeniyle bozuldu mu? (Sosyal Zarar)",
+          "rationale": "Bu (Soru 4), sosyal zararları sorgulayan bir sorudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alkol ya da madde kullanmaya başladığınız zaman, tasarladığınızdan daha fazlasını kullanıyor musunuz? (Kontrol Kaybı)",
+          "rationale": "Bu (Soru 12), kontrol kaybını sorgulayan bir sorudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Günde kaç saat spor yapıyorsunuz? (Spor Bağımlılığı)",
+          "rationale": "Form, alkol ve madde bağımlılığına odaklanmıştır; spor bağımlılığını (olgusal) sorgulayan bir soru içermez.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, 'madde' bağımlılığıyla değil, 'davranışsal' (olgusal) bir bağımlılıkla ilgilidir."
+    },
+    {
+      "questionNumber": 74,
+      "question": "Bağımlılık döngüsünde yer alan 'Ben bağımlı olmam' ve 'İstesem bırakırım' düşünceleri, bağımlılığın hangi yönünü gösterir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişinin iradesinin çok güçlü olduğunu.",
+          "rationale": "Aksine, bu düşünceler bir 'yanılsama'dır. Kişi kontrolün kendisinde olduğunu zanneder.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnkâr mekanizmasını ve kontrol yanılsamasını.",
+          "rationale": "Kişi, bir sorunu olduğunu 'inkâr' eder ve durumu 'kontrol edebileceği' yanılsaması içindedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fiziksel yoksunluğun başladığını.",
+          "rationale": "Bu düşünceler fiziksel değil, 'psikolojik' savunma mekanizmalarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tedaviye hazır olunduğunu.",
+          "rationale": "Tam tersine, bu düşünceler kişinin 'sorununu kabul etmediğini' ve tedaviye direnç göstereceğini gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddenin zararının olmadığını.",
+          "rationale": "Bu düşünceler maddenin zararıyla değil, kişinin 'kendisiyle' (kontrolüyle) ilgilidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kişi bu aşamada problemi 'kabul etmez' ve durumu 'küçümser'."
+    },
+    {
+      "questionNumber": 75,
+      "question": "Aşağıdakilerden hangisi 'Bağımlılık Belirtisi' olarak adlandırılan davranışlardan biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kontrolden çıkmış bir davranış modeli.",
+          "rationale": "Bu (Sayfa 31), bağımlılığın temel belirtilerindendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olumsuz sonuçlara rağmen davranışı durduramama.",
+          "rationale": "Bu (Sayfa 31), bağımlılığın temel belirtilerindendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Davranışı sınırlamak için devam eden arzu veya çaba (Başarısız bırakma girişimleri).",
+          "rationale": "Bu (Sayfa 31), bağımlılığın temel belirtilerindendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Davranış nedeniyle önemli sosyal, mesleki ve eğlence etkinliklerinin feda edilmesi.",
+          "rationale": "Bu (Sayfa 31), bağımlılığın temel belirtilerindendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Davranışı sadece sosyal ortamlarda ve kontrollü bir şekilde sürdürme.",
+          "rationale": "Bağımlılık 'kontrolden çıkmış' bir davranıştır. 'Kontrollü sürdürme' bağımlılığın tanımına aykırıdır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, bağımlılığın temel özelliği olan 'kontrol kaybı'nın tam tersidir."
+    },
+    {
+      "questionNumber": 76,
+      "question": "Bağımlılığın nörobiyolojisinde, 'Mezokortikolimbik dopamin yolu' hangi bölgeler arasında dopamin taşır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hipokampüs'ten Amigdala'ya",
+          "rationale": "Bu iki yapı birbiriyle ilişkilidir ancak 'mezokortikolimbik' yol bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ventral Tegmental Alan'dan (VTA) Prefrontal Korteks'e ve Nucleus Accumbens'e (NAcc)",
+          "rationale": "Dokümanda 'Meso-' (VTA'dan başlar), 'kortiko-' (Prefrontal Korteks) ve '-limbik' (NAcc) olarak bu yol tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Serebellum'dan Beyin Sapı'na",
+          "rationale": "Bu, daha çok motor kontrolle ilgili bir yoldur, ödül sistemiyle değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amigdala'dan Hipotalamus'a",
+          "rationale": "Bu, daha çok duygusal tepkilerin otonom sinir sistemine iletilmesiyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prefrontal Korteks'ten Hipokampüs'e",
+          "rationale": "Bu, hafızanın yönetici işlevlerle (planlama) entegrasyonu ile ilgilidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yolun adı ('Meso-kortiko-limbik') aslında cevabı oluşturan bölgelerin baş harflerini (veya yerlerini) içerir."
+    },
+    {
+      "questionNumber": 77,
+      "question": "Bağımlılıkta rol oynayan 'Prefrontal Korteks'in ana işlevi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Duygusal hafıza ve korku tepkileri.",
+          "rationale": "Bu, Amigdala'nın görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hafıza merkezi, kısa süreli hafızanın uzun süreliye aktarılması.",
+          "rationale": "Bu, Hipokampüs'ün görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ödül sisteminin başlangıç noktası, dopamin üretimi.",
+          "rationale": "Bu, Ventral Tegmental Alan'ın (VTA) görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odaklanma, dikkat, planlama ve karar verme (Yürütücü işlevler).",
+          "rationale": "Dokümanda bu bölgenin odaklanma, dikkat ve planlamaya yardımcı olduğu belirtilmiştir. Bağımlılık bu bölgenin 'dur' sinyalini bozar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vücut dengesi ve motor hareketler.",
+          "rationale": "Bu, Serebellum'un (Beyincik) görevidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Beynin bu ön bölgesi 'CEO'su veya 'fren sistemi' olarak da bilinir."
+    },
+    {
+      "questionNumber": 78,
+      "question": "Dokümana göre, bireylerin 'duygularını tanıyamaması ve anlamlandıramaması' neden bir risk faktörüdür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çünkü duygularını tanıyamayanlar daha az dopamin salgılar.",
+          "rationale": "Duygu tanıma ile dopamin salınımı arasında böyle doğrudan bir biyolojik bağdan bahsedilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü duygular, karar vermemize, öğrenmemize ve başkalarını anlamamıza yardımcı olur; bu beceriler olmayınca maddeye yönelim artar.",
+          "rationale": "Sayfa 35'teki şemada duyguları tanımanın bu faydaları listelenir; bu becerilerin eksikliği, stresle başa çıkmak için maddeye yönelimi (risk) artırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çünkü duygularını tanıyamayanlar fiziksel acıya daha duyarlıdır.",
+          "rationale": "Aleksitimi (duygu körlüğü) fiziksel acıyla değil, duygusal farkındalıkla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü bu durum sadece genetik bağımlılığı olanlarda görülür.",
+          "rationale": "Duygu düzenleme zorlukları genetikten bağımsız olarak da öğrenilebilir veya yaşanabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çünkü duygularını tanıyamayanlar sigara dumanından etkilenmez.",
+          "rationale": "Duygusal farkındalık ile sigara dumanının fiziksel etkisi arasında bir ilişki yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sayfa 35'teki 'Duygularımız ne işe yarar?' şeması, bu sorunun cevabını dolaylı olarak vermektedir."
+    },
+    {
+      "questionNumber": 79,
+      "question": "Aşağıdakilerden hangisi 'Bağımlılıkta Risk Faktörleri' (Sayfa 33) arasında *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ruhsal sorunları ya da bağımlılığı bulunan aile üyelerinin varlığı.",
+          "rationale": "Bu, (genetik ve sosyal) bir risk faktörü olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağlanma ve ilgi eksikliği.",
+          "rationale": "Bu, (ailevi) bir risk faktörü olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sınıfta aşırı utangaçlık veya şiddet içeren davranışlar.",
+          "rationale": "Bu, (sosyal/davranışsal) bir risk faktörü olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Okul başarısında düşme.",
+          "rationale": "Bu, (akademik) bir risk faktörü olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güçlü sosyal beceriler ve 'Hayır' diyebilme yetisi.",
+          "rationale": "Güçlü sosyal beceriler bir risk faktörü değil, 'koruyucu' bir faktördür.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, bağımlılığa karşı 'olumlu' ve 'koruyucu' bir özelliktir."
+    },
+    {
+      "questionNumber": 80,
+      "question": "Dokümana göre, yaşlılarda hangi tür maddelerin tüketimi, 'kendi kendini tedavi etme çabası' veya doktor reçeteleriyle ortaya çıkabilmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Halüsinojenler (LSD vb.)",
+          "rationale": "Bu maddelerin yaşlılarda tedavi amaçlı kullanımı yaygın değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uyarıcılar (Kokain, Amfetamin vb.)",
+          "rationale": "Bu maddelerin yaşlılarda kullanımı yaygın değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yatıştırıcılar ve sakinleştiriciler (Hipnosedatifler)",
+          "rationale": "Dokümanda (Sayfa 39) 'yaşlılarda yatıştırıcıların ve sakinleştiricilerin tüketimi'nin 'anksiyete ve uyku sorunları için' reçetelenmesiyle ortaya çıkabildiği belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uçucular (Tiner, Bali vb.)",
+          "rationale": "Bu maddelerin kullanımı daha çok ergenlerde yaygındır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Esrar (Kenevir)",
+          "rationale": "Dokümanda yaşlılar için spesifik olarak 'yatıştırıcılar'dan bahsedilmiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu maddeler genellikle 'anksiyete' ve 'uyku sorunları' için doktorlar tarafından yazılır."
+    },
+    {
+      "questionNumber": 81,
+      "question": "Bağımlılığın nörofizyolojisinde, bir nörondan salınan nörotransmiterin bir sonraki nöronda bağlandığı 'alıcı' yapının adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Akson",
+          "rationale": "Akson, sinyali 'gönderen' uzantıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dendrit",
+          "rationale": "Dendrit, sinyali 'alan' uzantıdır, ancak bağlandığı spesifik yapı reseptördür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Reseptör",
+          "rationale": "Dokümanda (Sayfa 41) 'bir sonraki nörondaki reseptörlerine bağlanırlar' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Miyelin Kılıf",
+          "rationale": "Miyelin kılıf, aksonu saran ve sinyali hızlandıran yalıtkan tabakadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çekirdek",
+          "rationale": "Çekirdek, hücrenin genetik materyalini içeren ve yöneten merkezidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu yapı, bir 'kilit' gibi, gelen kimyasal 'anahtar'a (nörotransmiter) uyar."
+    },
+    {
+      "questionNumber": 82,
+      "question": "Dopamin eksikliğinde hangi durumların görüldüğü belirtilmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Madde arayışı davranışı ve yoksunluk krizleri.",
+          "rationale": "Dokümanda (Sayfa 46) 'Dopamin eksikliğinde ise madde arayışı davranışı, yoksunluk krizleri gibi süreçler görülmektedir' denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişinin kendini aşırı enerjik ve mutlu hissetmesi.",
+          "rationale": "Bu durum, dopaminin 'fazlalığında' (madde kullanımı sırasında) görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hafızanın güçlenmesi ve odaklanmanın artması.",
+          "rationale": "Dopamin eksikliği (örn. Parkinson) odaklanma ve hareketi zorlaştırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağımlılığın tamamen sona ermesi.",
+          "rationale": "Dopamin eksikliği, beynin 'normal' yollardan zevk alamamasına ve maddeyi daha çok aramasına neden olur; bağımlılığı bitirmez, tetikler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Koku ve tat alma duyularının keskinleşmesi.",
+          "rationale": "Dopamin eksikliğinin bu duyularla doğrudan bir ilişkisinden bahsedilmemiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Beyin, azalan bu kimyasalı (ve onun yarattığı hissi) yerine koymak için maddeyi 'aramaya' başlar."
+    },
+    {
+      "questionNumber": 83,
+      "question": "Aşağıdakilerden hangisi 'Biyopsikososyal Model'e göre bağımlılığın nedenlerinden biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Psikolojik etkenler (Stresle başa çıkamama)",
+          "rationale": "Bu, modelin 'Psiko-' kısmını oluşturur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalıtımsal (genetik) ve Biyolojik etkenler (Dopamin sistemi)",
+          "rationale": "Bu, modelin 'Biyo-' kısmını oluşturur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyokültürel etkenler (Arkadaş çevresi, aile yapısı)",
+          "rationale": "Bu, modelin 'Sosyal' kısmını oluşturur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çevresel ve ekonomik durum",
+          "rationale": "Bunlar da 'Sosyal' etkenler içinde değerlendirilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece kişinin iradesinin zayıf olması",
+          "rationale": "Biyopsikososyal model, bağımlılığın 'tek bir nedene' (özellikle de 'irade zayıflığı' gibi basit bir etikete) indirgenemeyeceğini, çok faktörlü olduğunu savunur.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, bağımlılığı 'bilimsel' bir modelle (Biyo-Psiko-Sosyal) değil, 'ahlaki' veya 'kişisel' bir sorun olarak gören eski bir yanılgıdır."
+    },
+    {
+      "questionNumber": 84,
+      "question": "Türkiye İstatistik Kurumu'nun (TÜİK) 2020 yılı verilerine göre Türkiye'de alkol kullanım oranı yaklaşık yüzde kaçtır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "%1,4",
+          "rationale": "Rakam bundan daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%5,4",
+          "rationale": "Rakam bundan daha yüksektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%10,4",
+          "rationale": "Dokümanda (Sayfa 55) 'Türkiye'de alkol kullanım oranı %10,4'tür' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "%20,4",
+          "rationale": "Rakam 10,4 olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "%50,4",
+          "rationale": "Rakam 10,4 olarak belirtilmiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, %10 civarında bir orandır."
+    },
+    {
+      "questionNumber": 85,
+      "question": "Alkolün uzun dönem etkileri arasında hangisi belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Depresyon ve Karaciğer fonksiyonlarında bozulma",
+          "rationale": "Dokümandaki tabloda (Sayfa 56) alkolün uzun dönem etkileri olarak bunlar listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Akciğer hastalıkları ve kanser",
+          "rationale": "Bu, öncelikli olarak 'Nikotin'in uzun dönem etkisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hafıza zarar görmesi",
+          "rationale": "Bu, öncelikli olarak 'Halüsinojenler'in uzun dönem etkisi olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sinirlilik ve deri hastalıkları",
+          "rationale": "Bu, 'Uyarıcılar'ın uzun dönem etkisi olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Burun kanaması ve motivasyonsuzluk",
+          "rationale": "Bu, 'Uçucular'ın uzun dönem etkisi olarak belirtilmiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu maddenin en çok bilinen uzun vadeli zararı 'karaciğer' üzerinedir."
+    },
+    {
+      "questionNumber": 86,
+      "question": "Dokümandaki madde tablolarına göre, belirgin fiziksel geri çekilme (yoksunluk) semptomu *göstermeyen* madde grubu hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Alkol",
+          "rationale": "Alkolün (titreme, kasılma) ciddi fiziksel yoksunluk belirtileri vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opiyatlar",
+          "rationale": "Opiyatların (kusma, ishal, ağrı) çok şiddetli fiziksel yoksunluk belirtileri vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hipnosedatifler",
+          "rationale": "Hipnosedatiflerin (kramplar, titremeler) tehlikeli fiziksel yoksunluk belirtileri vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Halüsinojenler (LSD)",
+          "rationale": "Dokümandaki tabloda (Sayfa 59) halüsinojenler için 'Belirgin fiziksel semptomları yoktur' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nikotin",
+          "rationale": "Nikotinin (baş ağrısı, beslenme sorunları) fiziksel yoksunluk belirtileri vardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu madde grubunun bağımlılığı daha çok psikolojiktir, fiziksel çöküşe (yoksunlukta) neden olmaz."
+    },
+    {
+      "questionNumber": 87,
+      "question": "Sigara dumanında bulunan 'Katran' hangi hastalığın oluşumuyla daha çok ilişkilidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kalp krizi",
+          "rationale": "Kalp krizi daha çok nikotinin damar sertleştirici ve karbonmonoksitin oksijen taşıyıcı etkisiyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akciğer kanseri",
+          "rationale": "Dokümanda (Sayfa 85) 'Akciğer kanseri daha çok katran ile ilişkilidir' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mide ülseri",
+          "rationale": "Mide ülseri, nikotinin asit salgısını artırmasıyla ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Felç",
+          "rationale": "Felç, beyin damarlarının tıkanmasıyla (damar sertliği) ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İktidarsızlık",
+          "rationale": "İktidarsızlık, cinsel organlara giden damarların tıkanmasıyla ilgilidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu yapışkan, siyah madde doğrudan akciğer dokusuna yapışarak hücre yapısını bozar."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Sigara içenlerde 'mesane kanseri' görülme oranı, içmeyenlere göre kaç kat daha yüksektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aynıdır, bir ilişkisi yoktur.",
+          "rationale": "Dokümanda net bir ilişki olduğu belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İki kat daha yüksektir.",
+          "rationale": "Dokümanda (Sayfa 85) 'mesane kanseri görülme oranı kullanmayanlara göre iki kat daha yüksektir' denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Beş kat daha yüksektir.",
+          "rationale": "Rakam 'iki kat' olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "On kat daha yüksektir.",
+          "rationale": "Rakam 'iki kat' olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İçmeyenlerde daha yüksektir.",
+          "rationale": "Bu tamamen yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sigara dumanındaki zehirler kan yoluyla idrara geçer ve mesanede birikerek bu organa zarar verir."
+    },
+    {
+      "questionNumber": 89,
+      "question": "Pasif içicilik altında kalmanın etkileri aşağıdakilerden hangisine bağlı *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sigara içilen ortamda ne kadar zaman geçirildiğine.",
+          "rationale": "Maruz kalma süresi, zararın boyutunu belirleyen ana faktörlerdendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odada ne kadar temiz hava olduğuna (havalandırma).",
+          "rationale": "Havalandırma, dumanın yoğunluğunu azaltır veya artırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne kadar sigara içildiğine.",
+          "rationale": "Ortamda içilen sigara miktarı, duman yoğunluğunu doğrudan belirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pasif içicinin sigara markasını bilip bilmemesine.",
+          "rationale": "Kişinin markayı bilmesinin, soluduğu dumanın biyolojik etkisi üzerinde hiçbir etkisi yoktur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dumanın yoğunluğuna.",
+          "rationale": "Ne kadar sigara içildiği ve havalandırma, duman yoğunluğunu belirler.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, fiziksel bir etken değil, 'bilişsel' (bilgiye dayalı) bir durumdur."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Sigarayı bıraktıktan '12 ay (1 yıl) sonra' vücutta gerçekleşen olumlu gelişme nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Akciğer performansı %5-10 artar.",
+          "rationale": "Bu, '3-9 ay' içinde gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalp hastalıklarına yakalanma riski %50 azalır.",
+          "rationale": "Dokümanda '12 ay sonra kalp hastalıklarına yakalanma riski %50 azalır' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kalp krizi riski içmeyenlerle aynı seviyeye iner.",
+          "rationale": "Bu, '10-15 yıl' sonra gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tat ve koku duyusu normale döner.",
+          "rationale": "Bu, '48 saat' içinde gerçekleşir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kanser riski %50 azalır.",
+          "rationale": "Bu, '5 yıl' sonra gerçekleşir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu, 'kalp' sağlığıyla ilgili çok önemli bir dönüm noktasıdır ve 1 yıl içinde gerçekleşir."
+    },
+    {
+      "questionNumber": 91,
+      "question": "Üniversiteye başlayan öğrencilerin sigaraya başlamasıyla ilgili olarak, aşağıdakilerden hangisi dokümanda belirtilen bir 'sorun' *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ergenlik, evden ve aileden ayrılma.",
+          "rationale": "Bu (Sayfa 78), üniversite öğrencilerinin karşılaştığı bir zorluk (risk faktörü) olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Barınma ve yeni çevreye, arkadaş ve grup seçimi.",
+          "rationale": "Bu (Sayfa 78), üniversite öğrencilerinin karşılaştığı bir zorluk (risk faktörü) olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir mesleğe aday olma ve mezun olduktan sonra iş bulma (kaygısı).",
+          "rationale": "Bu (Sayfa 78), üniversite öğrencilerinin karşılaştığı bir zorluk (risk faktörü) olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Öğrencilerin bu sorunlarla baş etmek için sigaraya başlaması.",
+          "rationale": "Bu (Sayfa 78), bu sorunların olumsuz bir sonucu olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üniversite kampüslerinin tamamen dumansız hava sahası olması.",
+          "rationale": "Dokümanda böyle bir bilgiden veya bunun bir 'sorun' olduğundan bahsedilmemiştir. (Bu bir 'koruyucu' faktör olurdu).",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, üniversite öğrencilerinin karşılaştığı bir 'zorluk' veya 'stres faktörü' değildir."
+    },
+    {
+      "questionNumber": 92,
+      "question": "Dokümanda, 'Özenti ile başlayan sigara içme'nin zamanla neye dönüştüğü belirtilmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Alışkanlık olarak devam etme ve diğer uyuşturucu maddelere basamak olma.",
+          "rationale": "Dokümanda (Sayfa 78) '...alışkanlık olarak devam etmekte ve diğer uyuşturucu ve zararlı maddelere başlamak için de basamak olabilmektedir' denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kısa sürede kendiliğinden sona erme.",
+          "rationale": "Bağımlılık yapıcı doğası nedeniyle genellikle kendiliğinden sona ermez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişinin bağışıklık sistemini güçlendirme.",
+          "rationale": "Tam tersine, bağışıklık sistemini zayıflatır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece sosyal bir aktivite olarak kalma.",
+          "rationale": "Özenti ile başlasa da, nikotin bağımlılığı nedeniyle sosyal aktivitenin ötesine geçip 'alışkanlık' ve 'bağımlılık' olur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişinin okul başarısını artırma.",
+          "rationale": "Okul başarısızlığı sigara için bir 'risk faktörü'dür; sigara başarıyı artırmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sigara genellikle 'geçiş maddesi' veya 'basamak' olarak görülür."
+    },
+    {
+      "questionNumber": 93,
+      "question": "Aşağıdakilerden hangisi sigaranın tetiklediği hastalıklardan biri *değildir*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kronik bronşit ve Zatürre",
+          "rationale": "Bunlar (Sayfa 83), solunum yollarına verdiği hasarla ilişkili hastalıklardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Astım ve Mide ülseri",
+          "rationale": "Bunlar (Sayfa 84), tetiklediği hastalıklar arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Damar hastalıkları (damar tıkanıklıkları)",
+          "rationale": "Bu (Sayfa 84), sigaranın dolaşım sistemi üzerindeki en önemli zararlarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalp krizi ve Koroner kalp hastalığı",
+          "rationale": "Bunlar (Sayfa 84), sigaranın tetiklediği en ölümcül hastalıklardandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tip 1 Diyabet",
+          "rationale": "Tip 1 Diyabet, otoimmün bir hastalıktır ve pankreasın insülin üretememesiyle ilgilidir; sigara tarafından 'tetiklenmez' (oluşturulmaz). (Sigara Tip 2 Diyabet riskini artırır ancak Tip 1'e neden olmaz).",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, genellikle çocuklukta başlayan ve bağışıklık sistemiyle ilgili olan bir hastalıktır."
+    },
+    {
+      "questionNumber": 94,
+      "question": "Sigara içenlerde görülme oranı artan kanser türleri arasında hangisi *yer almaz*?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Akciğer kanseri",
+          "rationale": "Bu (Sayfa 85), sigarayla en güçlü ilişkisi olan kanser türüdür (%80-90).",
+          "isCorrect": false
+        },
+        {
+          "text": "Böbrek, pankreas ve gırtlak (larenks) kanseri",
+          "rationale": "Bunlar (Sayfa 85), sigara ile ilişkisi saptanan diğer kanser türleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesane, rahim ve mide kanseri",
+          "rationale": "Bunlar (Sayfa 85), sigara ile ilişkisi saptanan diğer kanser türleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Özefagus (Yemek borusu) kanseri",
+          "rationale": "Bu (Sayfa 85), sigara ile ilişkisi saptanan diğer kanser türleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cilt kanseri (Melanom)",
+          "rationale": "Cilt kanseri (melanom) öncelikle UV (güneş) ışınlarına maruz kalmakla ilişkilidir. Dokümanda sigarayla ilişkili kanserler listesinde yer almamaktadır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Cevap, 'güneş ışığı' ile daha çok ilişkili olan bir kanser türüdür."
+    },
+    {
+      "questionNumber": 95,
+      "question": "Sigara bırakma tavsiyelerinden olan 'Hobi ve uğraşlarınızı zenginleştirin'in temel amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Daha fazla para kazanarak sigara alım gücünü artırmak.",
+          "rationale": "Amaç sigarayı 'bırakmaktır', alım gücünü artırmak değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sigara içme davranışının yerine yeni ve sağlıklı davranışlar koymak, dikkati dağıtmak.",
+          "rationale": "Hobiler, sigara içmek için harcanan zamanı ve enerjiyi olumlu bir yöne kaydırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece evde oturarak sigara içilen ortamlardan kaçınmak.",
+          "rationale": "Hobiler (örn. spor) genellikle dışarıda da yapılır; amaç sadece izolasyon değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiziksel olarak çok yorulup sigara içmeyi unutmak.",
+          "rationale": "Yorgunluk bir etken olabilir (spor), ancak hobilerin (örn. müzik) asıl amacı zihinsel meşguliyettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sigara içen yeni arkadaşlar edinmek.",
+          "rationale": "Amaç tam tersine, sigara içilmeyen ortamlara girmektir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Amaç, sigara içme eyleminin 'boşluğunu' doldurmaktır."
+    },
+    {
+      "questionNumber": 96,
+      "question": "Dokümandaki 'Hayır!' demeyi öğren!' tavsiyesinin önemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişinin daha kavgacı bir birey olmasını sağlamak.",
+          "rationale": "'Hayır' demek, assertiveness (kendini ortaya koyma) ile ilgilidir, agresiflikle (kavgacılık) değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Özellikle sosyal baskı ve arkadaş tekliflerine karşı koyabilmek.",
+          "rationale": "Sayfa 94'teki görsel ('Sana uzatılan sigaraya... Hayır!') bunun akran baskısına karşı bir savunma olduğunu gösterir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aileden gelen tüm isteklere karşı çıkmak.",
+          "rationale": "Tavsiye, 'otoriteye başkaldırı' değil, 'zararlı tekliflere' karşı koyma ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece ilk teklifi reddetmek, sonrakileri kabul etmek.",
+          "rationale": "Dokümanda 'bir kere 'Hayır!' dersen daha sonrakilere de 'Hayır!' dersin' diyerek tutarlılığın önemi vurgulanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddi olarak para harcamamak.",
+          "rationale": "Temel amaç sağlıktır, ekonomik kazanç ikincil bir faydadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu tavsiye, 'akran baskısı' ve 'gruba ait olma' nedeniyle başlamaya karşı bir önlemdir."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Bağımlılığın zararları arasında sayılan 'Korku ve öfke'nin nedeni olarak ne belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bağımlılık yapıcı maddelerin zamanla kaygı, korku, düşmanlık ve paranoya meydana getirmesi.",
+          "rationale": "Dokümanda (Sayfa 14) bu psikolojik zararların doğrudan maddelerin kullanımıyla ortaya çıktığı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişinin tedavi olmaktan korkması.",
+          "rationale": "Bu da bir korku olabilir, ancak dokümanda belirtilen 'maddenin etkisi'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ailesinin kişiye öfkelenmesi.",
+          "rationale": "Aile öfkesi bir 'sonuç'tur, ancak dokümanda bahsedilen 'kişinin yaşadığı' korku ve öfkedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maddenin pahalı olması nedeniyle ekonomik korku yaşanması.",
+          "rationale": "Bu da bir kaygı nedenidir, ancak dokümanda belirtilen 'paranoya' ve 'düşmanlık' gibi psikiyatrik etkilerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Polise yakalanma korkusu.",
+          "rationale": "Bu gerçekçi bir korkudur, ancak dokümanda bahsedilen, maddenin beyin kimyasını bozarak yarattığı 'paranoya'dır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cevap, maddenin 'psikolojik' ve 'psikiyatrik' etkileriyle (paranoya gibi) ilgilidir."
+    },
+    {
+      "questionNumber": 98,
+      "question": "Dokümanda 'madde' tanımı nasıl yapılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece yasa dışı olan uyuşturucular.",
+          "rationale": "Tanım daha geniştir, yasal maddeleri de kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağımlılığa yol açabilen, kişinin hoşuna giden ve psikoaktif etkiler gösteren, herhangi bir yolla vücuda alınabilen her şey.",
+          "rationale": "Dokümanda (Sayfa 4) bu geniş ve kapsayıcı tanım yapılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece enjeksiyon yoluyla vücuda alınabilen kimyasallar.",
+          "rationale": "Tanımda 'herhangi bir yolla' (içme, çekme, koklama) alınabilen maddeler denir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece bitkisel olan ve 'ottur, zararı yoktur' denilen maddeler.",
+          "rationale": "Bu bir mittir. 'Madde' tanımı sentetik kimyasalları da kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece reçeteyle satılan ilaçlar.",
+          "rationale": "Tanım, reçetesiz (alkol, tütün) ve yasa dışı (eroin) maddeleri de kapsar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sayfa 4'teki tanım, maddenin 'psikoaktif' etkisine ve 'bağımlılık potansiyeli'ne odaklanır."
+    },
+    {
+      "questionNumber": 99,
+      "question": "Kullananların sığındığı 'Sorunlarımı çözemedim, madde kullanarak unuturum yahut çözerim diye düşündüm' gerekçesi, hangi temel risk faktörüyle örtüşmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Merak",
+          "rationale": "Bu gerekçe 'merak'tan çok, var olan bir 'sorun'dan kaçışla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grupça karar almak",
+          "rationale": "Bu gerekçe 'sosyal baskı'dan çok, 'kişisel' bir sorunla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stres ile baş etmeyi bilmememe",
+          "rationale": "Sorunları 'unutma' veya 'çözme' aracı olarak madde kullanmak, 'stresle/sorunla başa çıkma' becerilerinin eksikliğini gösterir (Sayfa 5).",
+          "isCorrect": true
+        },
+        {
+          "text": "Büyüdüğünü ispatlama çabası",
+          "rationale": "Bu gerekçe 'ispat' çabasından çok, 'kaçış' çabasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğlence aracı olarak kullanma",
+          "rationale": "Bu gerekçe 'eğlence'den çok, 'sorun' çözme/unutma ile ilgilidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu gerekçe, olumsuz duygularla veya 'sorunlarla' başa çıkma stratejisinin yanlış olduğunu gösterir."
+    },
+    {
+      "questionNumber": 100,
+      "question": "Sigara dumanında bulunan ve 'egzoz gazı'nda da bulunan, kandaki oksijenin taşınmasını engelleyen zehirli gaz hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Nikotin",
+          "rationale": "Nikotin bağımlılık yapan alkaloiddir, bir gaz değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Katran",
+          "rationale": "Katran, kanserojen olan yapışkan bir maddedir, bir gaz değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karbonmonoksit",
+          "rationale": "Dokümanda (Sayfa 75) listelenmiştir. Bu gaz, kanda oksijenin yerini alarak vücudun oksijensiz kalmasına neden olur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arsenik",
+          "rationale": "Arsenik bir ağır metaldir (katıdır), gaz değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amonyak",
+          "rationale": "Amonyak bir gazdır, ancak oksijen taşınmasını engellemesiyle değil, nikotin emilimini artırmasıyla bilinir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu gaz, 'karbon' ve 'mono-oksit' kelimelerinden oluşur ve 'sessiz katil' olarak da bilinir."
+    }
+  ]
+}

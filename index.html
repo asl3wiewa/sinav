@@ -3,32 +3,83 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Turizm Test Portalı</title>
+    <title>Turizm Test Portali</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body class="home">
     <div class="app">
       <header class="home-hero">
-        <p class="home-pill">Soru Bankası</p>
-        <h1>Turizm Test Portalı</h1>
+        <p class="home-pill">Soru Bankasi</p>
+        <h1>Turizm Test Portali</h1>
         <p>
-          Ziyafet ve turizm konularına ait testleri seçerek hemen çözmeye
-          başlayın. İlerleme durumunuz otomatik kaydedilir ve dilediğiniz zaman
-          kaldığınız yerden devam edebilirsiniz.
+          Ziyafet ve turizm konularina ait testleri secerek hemen cozmeye
+          baslayin. Ilerleme durumunuz otomatik kaydedilir ve dilediginiz zaman
+          kaldiginiz yerden devam edebilirsiniz.
         </p>
       </header>
 
-      <div class="filter-section">
-        <div class="filter-buttons">
-          <button class="filter-btn active" data-filter="all">Tümü</button>
-          <button class="filter-btn" data-filter="vize">Vize</button>
-          <button class="filter-btn" data-filter="final">Final</button>
+      <div class="semester-section">
+        <div class="semester-tabs" role="tablist" aria-label="Donem sekmeleri">
+          <button
+            class="semester-tab"
+            type="button"
+            data-semester="1"
+            role="tab"
+            aria-selected="false"
+          >
+            1. Donem
+          </button>
+          <button
+            class="semester-tab active"
+            type="button"
+            data-semester="2"
+            role="tab"
+            aria-selected="true"
+          >
+            2. Donem
+          </button>
         </div>
-      </div>
 
-      <main id="tests" class="test-grid">
-        <!-- Kartlar JavaScript ile dinamik olarak yüklenecek -->
-      </main>
+        <section class="semester-panel" data-semester-panel="1" role="tabpanel" hidden>
+          <div class="filter-section">
+            <div class="filter-buttons">
+              <button class="filter-btn" data-filter="all">Tumu</button>
+              <button class="filter-btn active" data-filter="vize">Vize</button>
+              <button class="filter-btn" data-filter="final">Final</button>
+            </div>
+          </div>
+
+          <main class="test-grid" data-tests-container="1">
+            <!-- Kartlar JavaScript ile dinamik olarak yuklenecek -->
+          </main>
+
+          <div class="empty-state hidden" data-empty-state="1">
+            <p class="empty-state__pill">1. Donem</p>
+            <h2>Bu filtrede icerik yok</h2>
+            <p>Bu donem icin secilen kategoriye ait test bulunamadi.</p>
+          </div>
+        </section>
+
+        <section class="semester-panel active" data-semester-panel="2" role="tabpanel">
+          <div class="filter-section">
+            <div class="filter-buttons">
+              <button class="filter-btn" data-filter="all">Tumu</button>
+              <button class="filter-btn active" data-filter="vize">Vize</button>
+              <button class="filter-btn" data-filter="final">Final</button>
+            </div>
+          </div>
+
+          <main class="test-grid" data-tests-container="2">
+            <!-- Kartlar JavaScript ile dinamik olarak yuklenecek -->
+          </main>
+
+          <div class="empty-state hidden" data-empty-state="2">
+            <p class="empty-state__pill">2. Donem</p>
+            <h2>Bu filtrede icerik yok</h2>
+            <p>Bu donem icin secilen kategoriye ait test bulunamadi.</p>
+          </div>
+        </section>
+      </div>
     </div>
 
     <script src="home.js"></script>

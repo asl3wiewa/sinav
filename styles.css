@@ -584,6 +584,79 @@ body {
   margin-bottom: 12px;
 }
 
+.semester-section {
+  display: grid;
+  gap: 24px;
+}
+
+.semester-tabs {
+  display: inline-flex;
+  align-self: center;
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 6px;
+  gap: 6px;
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.08);
+}
+
+.semester-tab {
+  border: none;
+  border-radius: 14px;
+  padding: 12px 24px;
+  font-size: 1rem;
+  font-weight: 700;
+  background: transparent;
+  color: #64748b;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.semester-tab.active {
+  background: #0f172a;
+  color: #ffffff;
+  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.2);
+}
+
+.semester-tab:hover:not(.active) {
+  background: #f1f5f9;
+  color: #334155;
+}
+
+.semester-panel {
+  display: none;
+}
+
+.semester-panel.active {
+  display: block;
+}
+
+.empty-state {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 40px 24px;
+  text-align: center;
+  box-shadow: 0 20px 45px rgba(15, 23, 42, 0.08);
+}
+
+.empty-state__pill {
+  display: inline-flex;
+  margin: 0 0 12px;
+  padding: 6px 16px;
+  border-radius: 999px;
+  background: rgba(14, 165, 233, 0.1);
+  color: #0284c7;
+  font-weight: 700;
+}
+
+.empty-state h2 {
+  margin: 0 0 10px;
+}
+
+.empty-state p:last-child {
+  margin-bottom: 0;
+  color: #475569;
+}
+
 .filter-section {
   margin-bottom: 24px;
   text-align: center;
@@ -671,6 +744,17 @@ body {
   
   .filter-section {
     margin-bottom: 20px;
+  }
+
+  .semester-tabs {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .semester-tab {
+    flex: 1 1 0;
+    padding: 10px 14px;
+    font-size: 0.95rem;
   }
   
   .filter-buttons {

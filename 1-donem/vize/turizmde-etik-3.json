@@ -1,0 +1,3205 @@
+
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Sunuma göre turizmin en belirgin özelliği aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ekonomik bir faaliyet olması",
+          "rationale": "Turizmin ekonomik yönü olsa da, sunumun 3. sayfasında en belirgin özelliğinin insan ve toplumsal davranışla ilgili olması vurgulanmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsan davranışı ve toplumsal davranışla ilgili olması",
+          "rationale": "3. sayfada 'Turizmin en belirgin özelliği, insan davranışı ve toplumsal davranışla ilgili olmasıdır' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Doğal ve kültürel kaynakları kullanması",
+          "rationale": "Bu turizmin bir özelliğidir, ancak sunuma göre en belirgin özelliği değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uluslararası bir olgu olması",
+          "rationale": "Bu turizmin kapsamını belirtir, ancak sunumda vurgulanan en temel özelliği değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mevsimsel bir yapıya sahip olması",
+          "rationale": "Mevsimsellik turizmin bir karakteristiğidir, fakat sunumun odaklandığı en belirgin özellik bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 2,
+      "question": "Sunumda 'Etik' kavramı nasıl tanımlanmaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Toplum tarafından kabul görmüş yazısız kurallar bütünüdür.",
+          "rationale": "Bu tanım, 12. sayfada 'Ahlak' için verilmiştir, 'Etik' için değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişilerin sosyal yaşam içerisindeki ilişkilerini düzenleyen bir disiplindir.",
+          "rationale": "Bu tanım, 7. sayfada 'Ahlak' kavramı için kullanılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlaki olanın özünü ve temellerini araştıran felsefe dalıdır.",
+          "rationale": "5. sayfada 'Etik, ahlaki olanın özünü ve temellerini araştıran... felsefe dalı olarak tanımlanmaktadır' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yazılı emir ve yasaklardan oluşan hukuk sistemidir.",
+          "rationale": "Bu tanım, 19. sayfada 'Hukuk' için verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğru ve yanlış davranışın pratiğidir.",
+          "rationale": "9. sayfaya göre bu, ahlakın tanımıdır. Etik ise teoridir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aristoteles'in etik alanındaki en önemli katkısı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Faydacılık ilkesini ortaya koyması.",
+          "rationale": "Faydacılık, John Stuart Mill ile ilişkilendirilir (Sayfa 26).",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal sözleşme teorisini geliştirmesi.",
+          "rationale": "Toplumsal sözleşme, Jean-Jacques Rousseau ile anılır (Sayfa 33).",
+          "isCorrect": false
+        },
+        {
+          "text": "Etiği kuramsal felsefeden ayırarak kendi başına bir felsefe alanı olarak ele alması.",
+          "rationale": "8. sayfada 'Aristoteles, etiği kuramsal felsefeden ayırarak kendi başına bir felsefe alanı olarak ele alan ilk filozoftur' bilgisi verilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kural etiğini Immanuel Kant ile birlikte kurması.",
+          "rationale": "Kural etiği Immanuel Kant tarafından geliştirilmiştir (Sayfa 32).",
+          "isCorrect": false
+        },
+        {
+          "text": "Hedefe giden yolda her şeyin mubah olduğunu savunması.",
+          "rationale": "Bu anlayış Machiavelli'ye atfedilir (Sayfa 29).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 4,
+      "question": "Etik ve Ahlak arasındaki farkları gösteren tabloya göre aşağıdakilerden hangisi 'Etik' kavramının bir özelliğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sosyal hayat",
+          "rationale": "21. sayfadaki tabloya göre 'Sosyal hayat' Ahlak'ın özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Somut",
+          "rationale": "21. sayfadaki tabloya göre 'Somut' olmak Ahlak'ın özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pratik",
+          "rationale": "21. sayfadaki tabloya göre 'Pratik' olmak Ahlak'ın özelliğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Evrensel",
+          "rationale": "21. sayfadaki tabloya göre 'Evrensel' olmak Etik'in bir özelliğidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Değişebilir",
+          "rationale": "21. sayfadaki tabloya göre 'Değişebilir' olmak Ahlak'ın özelliğidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdaki etik teorilerinden hangisi, bir eylemin ahlaki doğruluğunu standartlar ve yasalar tarafından belirlendiğini savunur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Amaçlanan Sonuç Etiği",
+          "rationale": "Bu teori, eylemin doğruluğunu sonuçlarına göre belirler (Sayfa 24).",
+          "isCorrect": false
+        },
+        {
+          "text": "Kural Etiği",
+          "rationale": "24. sayfada Kural Etiği, 'Bir eylemin ahlaki doğruluğu, standartlar ve yasalar tarafından belirlenir' şeklinde tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Toplumsal Sözleşme Etiği",
+          "rationale": "Bu teori, doğruluğu toplumun norm ve geleneklerine bağlar (Sayfa 24).",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Bu teori, doğruluğu kişinin vicdanına göre belirler (Sayfa 24).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Yaşam Etiği",
+          "rationale": "Bu teori, kişinin yaşamında uyması gereken sosyal ve ekolojik kuralları içerir (Sayfa 24).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 6,
+      "question": "'Amaçlanan Sonuç Etiği' genellikle hangi isimle de bilinir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Faydacılık",
+          "rationale": "25. sayfada 'Amaçlanan sonuç etiği genellikle faydacılık olarak bilinir' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Deontoloji",
+          "rationale": "Deontoloji, kural etiği ile ilgilidir, sonuç etiği ile değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vicdanilik",
+          "rationale": "Bu, kişisel etikle daha çok ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sözleşmecilik",
+          "rationale": "Bu, toplumsal sözleşme etiği ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Makyavelizm",
+          "rationale": "Makyavelizm, amaca ulaşmak için her yolun mübah olduğu bir anlayıştır ancak faydacılıkla aynı şey değildir (Sayfa 29).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 7,
+      "question": "John Stuart Mill'e göre bir eylemi 'iyi' kılan şey nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kurallara ve yasalara uygun olması",
+          "rationale": "Bu, Kural Etiği'nin temelidir, Mill'in faydacılığına ait değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişinin vicdanını rahatlatması",
+          "rationale": "Bu, Kişisel Etik'in odak noktasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal geleneklere uyması",
+          "rationale": "Bu, Toplumsal Sözleşme Etiği'nin bir parçasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sonuçta getirdiği fayda ile mutluluğu sağlaması",
+          "rationale": "26. sayfada 'John Stuart Mill'e göre bir eylemi 'iyi' kılan şey sonuçta getirdiği fayda ile mutluluğu sağlamasıdır' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eylemin kendisinin doğası gereği iyi olması",
+          "rationale": "Bu, niyet ve kural etiğine daha yakın bir görüştür, sonuç odaklı faydacılığa değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 8,
+      "question": "Machiavelli ile özdeşleşen ve 'hedefe giden yolda her şey mubahtır' anlayışını yansıtan etik yaklaşım hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kural Etiği",
+          "rationale": "Kural etiği, eylemin kendisini ve kuralları önemser, sadece sonucu değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faydacılık",
+          "rationale": "Faydacılık sonuçlara odaklansa da, genellikle 'en çok sayıda insan için en büyük mutluluğu' hedefler ve Machiavelli'nin ahlak anlayışıyla tam olarak örtüşmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amaçlanan Sonuç Etiği'nin aşırı bir yorumu",
+          "rationale": "29. sayfada, bu etik anlayışında amaçlanan sonuca ulaşmanın önemli olduğu ve Machiavelli'nin 'Amaca ulaşmak için her şey mubahtır' anlayışının bu sistemin en iyi anlatanlarından biri olduğu belirtilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişisel Etik",
+          "rationale": "Kişisel etik, vicdana dayanır ve bu ilkeyle çelişebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumsal Sözleşme Etiği",
+          "rationale": "Bu etik, toplumun kurallarına uymayı gerektirir, bu ilkeyle genellikle bağdaşmaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 9,
+      "question": "Kural Etiği'nin en önemli temsilcisi olarak sunumda adı geçen filozof kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "John Stuart Mill",
+          "rationale": "Mill, Faydacılık (Amaçlanan Sonuç Etiği) ile ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jean-Jacques Rousseau",
+          "rationale": "Rousseau, Toplumsal Sözleşme Etiği'nin öncüsüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Immanuel Kant",
+          "rationale": "32. sayfada 'Kural etiği Immanuel Kant tarafından geliştirilmiştir' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Martin Buber",
+          "rationale": "Buber, Kişisel Etik'in temsilcisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aristoteles",
+          "rationale": "Aristoteles, etiği bağımsız bir alan olarak ele alan ilk filozoftur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 10,
+      "question": "Toplumsal Sözleşme Etiği'nin öncüsü kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Immanuel Kant",
+          "rationale": "Kant, Kural Etiği'nin öncüsüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "John Stuart Mill",
+          "rationale": "Mill, Faydacılık ile anılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Machiavelli",
+          "rationale": "Machiavelli, amaç odaklı etik anlayışıyla tanınır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Martin Buber",
+          "rationale": "Buber, Kişisel Etik ile ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jean-Jacques Rousseau",
+          "rationale": "33. sayfada 'Öncüsü Jean Jack Rousseau'dur' denilmektedir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 11,
+      "question": "Hukuk kurallarının ahlak kurallarından temel farkı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hukuk kuralları toplumsal düzeni sağlamayı hedefler.",
+          "rationale": "Ahlak kuralları da toplumsal düzeni sağlamayı hedefler, bu bir fark değildir (Sayfa 14).",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk kuralları yazılıdır ve devlet eliyle uygulanan yaptırımlara sahiptir.",
+          "rationale": "19. ve 35. sayfalarda hukukun yazılı olduğu ve yaptırım gücünün devlet tarafından korunduğu, ahlakın ise genellikle yazısız olduğu belirtilir. Bu temel bir farktır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hukuk kuralları insan davranışlarını düzenler.",
+          "rationale": "Ahlak kuralları da insan davranışlarını düzenler (Sayfa 7, 35). Bu ortak bir özelliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk kuralları bir değer yargısına dayanır.",
+          "rationale": "Ahlak kuralları da temelinde iyi-kötü gibi değer yargılarına dayanır (Sayfa 6, 35).",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk kuralları zamanla değişebilir.",
+          "rationale": "Ahlak kuralları da toplumsal koşullara göre değişebilir (Sayfa 14).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 12,
+      "question": "Kişisel Etiğin kaynağının bireyin içinden gelen ses (vicdan) olduğunu savunan düşünür kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Martin Buber",
+          "rationale": "37. sayfada 'Kişisel etik sisteminin en önemli temsilcilerinden olan Martin Buber, kişisel etiğin kaynağının bireyin içinden gelen ses (vicdan) olduğunu savunur' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Immanuel Kant",
+          "rationale": "Kant, evrensel kurallar ve ödev ahlakı üzerinde durur.",
+          "isCorrect": false
+        },
+        {
+          "text": "John Stuart Mill",
+          "rationale": "Mill, eylemin sonuçlarına ve sağladığı mutluluğa odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jean-Jacques Rousseau",
+          "rationale": "Rousseau, toplumsal sözleşme ve genel irade kavramlarına odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aristoteles",
+          "rationale": "Aristoteles erdem etiği üzerinde durur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 13,
+      "question": "Aşağıdakilerden hangisi Kişisel Etiğin özelliklerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Doğruluk ve etik davranışlar herkesin içinde vardır.",
+          "rationale": "Bu, 39. sayfada listelenen bir özelliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gerçeğin ve doğrunun sadece zekâdan değil, bireyin içinden geldiğini savunur.",
+          "rationale": "Bu, 39. sayfada listelenen bir özelliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireyin doğru ve yanlış kararlar vermesi her zaman yasalara bağlıdır.",
+          "rationale": "39. sayfada 'Bireyin karşılaştığı durumlarda doğru ve yanlış kararlar vermesi kendi vicdanına bağlıdır' denilmektedir. Yasalar kural etiğinin alanıdır, kişisel etiğin değil.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bireyi amacına ulaştıracak davranış etik olmalıdır.",
+          "rationale": "Bu, 39. sayfada listelenen bir özelliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireyin karşılaştığı durumlarda doğru ve yanlış kararlar vermesi kendi vicdanına bağlıdır.",
+          "rationale": "Bu, 39. sayfada listelenen bir özelliktir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 14,
+      "question": "İnsan kişiliğinin ve ahlaki standartlarının oluşmasında en önemli ve etkili çevresel faktör olarak hangisi belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Okul",
+          "rationale": "Okul etkili olsa da, sunumda en temel faktör olarak aile vurgulanmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arkadaşlar",
+          "rationale": "Arkadaşlar özellikle ergenlik döneminde çok etkilidir, ancak temel en önemli faktör olarak aile gösterilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kitle İletişim Araçları",
+          "rationale": "Medya önemli bir etkiye sahiptir, fakat sunuma göre en birincil faktör değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile",
+          "rationale": "46. sayfada 'İnsan kişiliğinin oluşmasında en önemli ve etkili çevresel faktör ailedir' ifadesi açıkça yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Din",
+          "rationale": "Din, ahlaki gelişimde önemli bir rol oynar, ancak sunumda en temel faktör olarak aile belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 15,
+      "question": "Sunuma göre, bireysel etiği oluşturan unsurlar arasında aşağıdakilerden hangisi yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişinin ailesi ve aldığı terbiye",
+          "rationale": "45. sayfada bireysel etiğin kaynağını belirleyen unsurlar arasında aile ve terbiye sayılmaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaşam deneyimleri ve kişisel değerler",
+          "rationale": "45. sayfada yaşam deneyimleri ve kişisel değerler de bu unsurlar arasında listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece genetik yatkınlıklar",
+          "rationale": "Sunumda bireysel etiğin oluşumunda genetik faktörlerden bahsedilmemekte, bunun yerine çevresel ve deneyimsel faktörler (aile, din, arkadaşlar, deneyimler vb.) vurgulanmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arkadaşları ve dini inançları",
+          "rationale": "45. sayfada arkadaşlar ve din de bireysel etiğin kaynağını oluşturan faktörler olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişiliği ve durumsal faktörler",
+          "rationale": "45. sayfada kişilik ve durumsal faktörler de bu unsurlar arasında sayılmaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 16,
+      "question": "Genel ahlak kurallarının iş hayatında uygulanması olarak tanımlanan kavram hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bireysel Etik",
+          "rationale": "Bireysel etik, kişinin bireysel tavır alışı ve vicdanı ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Örgütsel Etik",
+          "rationale": "Bu, iş etiğinin örgütsel boyutta uygulanmasıdır, daha spesifik bir alandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş Etiği",
+          "rationale": "60. sayfada 'İş etiği, genel ahlâk kurallarının iş hayatında uygulanması olup; dürüstlük ve doğruluk üzerine kurulu...' şeklinde tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Meslek Etiği",
+          "rationale": "Bu, her mesleğe özgü etik kuralları ifade eder, daha dar bir kapsamdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yönetsel Etik",
+          "rationale": "Bu, yöneticilerin davranış ve kararlarındaki etik ilkelerle ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 17,
+      "question": "İşletmelerle ilgili etik konuları sunumda dört genel başlık altında toplanmıştır. Aşağıdakilerden hangisi bu başlıklardan biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Örgütsel etik",
+          "rationale": "62. sayfada bu başlık A maddesi olarak yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletme etiği",
+          "rationale": "62. sayfada bu başlık B maddesi olarak yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yönetsel etik",
+          "rationale": "62. sayfada bu başlık C maddesi olarak yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meslek etiği",
+          "rationale": "62. sayfada bu başlık D maddesi olarak yer almaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüketici etiği",
+          "rationale": "62. sayfadaki sınıflandırmada 'Tüketici etiği' ayrı bir başlık olarak yer almamaktadır, ancak iş etiğinin konuları arasında yer alır.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 18,
+      "question": "Her mesleğe özgü etik kurallar ve ilkeler oluşturarak bunların standart hale getirilmesine katkıda bulunan etik türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İşletme Etiği",
+          "rationale": "İşletme etiği daha geneldir ve bir bütün olarak işletmeyi kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Örgütsel Etik",
+          "rationale": "Örgütsel etik, örgüt kültürü ve iç davranışlarla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yönetsel Etik",
+          "rationale": "Yönetsel etik, yöneticilerin kararlarına odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meslek Etiği",
+          "rationale": "67. sayfada 'Meslek etiği, her mesleğe özgü etik kurallar ve ilkeler oluşturarak, bunların standart hale getirilmesine katkıda bulunan uygulamalı bir etik türüdür' tanımı yapılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bireysel Etik",
+          "rationale": "Bireysel etik, kişinin kendi ahlaki duruşuyla ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 19,
+      "question": "Anadolu'da XIII. yüzyıldan itibaren iş ahlakının oluşturulmasında önemli rol oynayan ve Hacı Bektaş Veli tarafından kurulan Bektaşilik ile de yakın ilişkisi olan teşkilat hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Loncalar",
+          "rationale": "Loncalar daha sonra, XVIII. yüzyılda önemli bir disiplin sağlamıştır ve Ahilik ile ilişkisi vardır, ancak soruda belirtilen dönem ve özellikler Ahilik'e işaret etmektedir (Sayfa 73).",
+          "isCorrect": false
+        },
+        {
+          "text": "TÜRSAB",
+          "rationale": "TÜRSAB modern bir turizm meslek örgütüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahilik",
+          "rationale": "72. ve 73. sayfalarda Ahilik'in Anadolu'da iş ahlakını oluşturan, XIII. yüzyılda ortaya çıkan ve Bektaşilik ile ilişkili bir teşkilat olduğu anlatılmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fütüvvetname",
+          "rationale": "Fütüvvetname, Ahiliğin temel değerlerini ve kurallarını içeren tüzük niteliğindeki metinlerdir, teşkilatın kendisi değildir (Sayfa 85).",
+          "isCorrect": false
+        },
+        {
+          "text": "Bacıyan-ı Rum",
+          "rationale": "Bacıyan-ı Rum (Anadolu Kadınları), Ahi Evran'ın eşi Fatma Bacı tarafından kadınlar için kurulan bir teşkilattır ve Ahiliğin bir parçasıdır, ama ana teşkilat Ahilik'tir (Sayfa 76).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 20,
+      "question": "Ahilik teşkilatının kurucusu olarak kabul edilen kişi kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hacı Bektaş Veli",
+          "rationale": "Hacı Bektaş Veli, Bektaşilik'in kurucusudur ve Ahilik ile yakın ilişkisi vardır, ancak Ahilik'in kurucusu olarak Ahi Evran kabul edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahi Evran",
+          "rationale": "75. sayfada esnaf birliklerinin 'Kırşehir'de bulunan Ahi Evran Zaviyesine bağlıydılar' denilerek Ahi Evran'ın bu teşkilatın merkezindeki isim olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fatma Bacı",
+          "rationale": "Fatma Bacı, Ahi Evran'ın eşidir ve kadınlar için Bacıyan-ı Rum teşkilatını kurmuştur (Sayfa 76).",
+          "isCorrect": false
+        },
+        {
+          "text": "Yunus Emre",
+          "rationale": "Yunus Emre, Türk tasavvuf edebiyatının önemli bir ismidir ancak Ahilik teşkilatının kurucusu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mevlana Celaleddin Rumi",
+          "rationale": "Mevlana, Mevlevilik tarikatının öncüsüdür ve Ahilik kurucusu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 21,
+      "question": "Ahilikte 'elin tek, dilin pek, belin berk tut' sözü neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ticarette her zaman kâr etmeyi.",
+          "rationale": "Bu söz ahlaki bir ilkeyi ifade eder, maddi kârı değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlakın verilen söze dayandığını ve dürüstlüğü.",
+          "rationale": "72. sayfada 'Bu tarikatta, ahlâk verilen söze dayanır ve 'elin tek, dilin pek, belin berk tut' sözü ile özetlenirdi' denmektedir. Bu dürüstlük, sözüne sadık kalma ve nefsine hakim olmayı ifade eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fiziksel olarak güçlü olmayı.",
+          "rationale": "Söz mecazi anlamdadır, fiziksel gücü değil ahlaki sağlamlığı ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rakiplere karşı üstünlük kurmayı.",
+          "rationale": "Ahilikte dayanışma ve işbirliği esastır, yıkıcı rekabet değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Devlete mutlak bağlılığı.",
+          "rationale": "Bu söz doğrudan devlete bağlılığı değil, kişisel ahlaki duruşu ifade eder.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 22,
+      "question": "Ahi Evran'ın eşi Fatma Bacı tarafından, kadınların Ahiliğe girememesi nedeniyle kurulan teşkilatın adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ahilik",
+          "rationale": "Ahilik genel teşkilatın adıdır, kadınların giremediği belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bektaşilik",
+          "rationale": "Bektaşilik, Ahilikle ilişkili bir tarikattır, kadınlar için kurulan ayrı bir teşkilat değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Loncalar",
+          "rationale": "Loncalar genel esnaf birlikleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bacıyan-ı Rum (Anadolu Kadınları)",
+          "rationale": "76. sayfada Ahi Evran'ın eşi Fatma Bacı'nın kadınlar için 'Bacıyan-ı Rum (Anadolu Kadınları) teşkilatını kurmuş' olduğu belirtilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fütüvvet",
+          "rationale": "Fütüvvet, yiğitlik ve cömertlik üzerine kurulu bir anlayıştır ve Ahiliğin temelini oluşturur, ancak kadın teşkilatının adı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 23,
+      "question": "Ahilik kurumunun temel ilkelerinden olan 'Kalite' anlayışıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ürün kalitesi ve üretim kuralları talimatnamelerle belirlenmişti.",
+          "rationale": "Bu ifade 81. sayfada belirtildiği gibi doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sıkı denetim sayesinde kurallara uymayanlar tespit edilirdi.",
+          "rationale": "Bu ifade 81. sayfada belirtildiği gibi doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kalitesiz ürün yapan esnaf sadece uyarılırdı.",
+          "rationale": "81. sayfada '...yakalanır, uyarılır, cezalandırılır, yola gelmezse loncadan atılır ve esnaflık yapması yasaklanırdı' denmektedir. Sadece uyarılmaz, daha ağır cezalar da verilirdi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bir usta tarafından icat edilen ürünün patenti sadece o ustaya verilirdi.",
+          "rationale": "Bu ifade 82. sayfada belirtildiği gibi doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ürünler üzerindeki amblem, ustanın ve işyerinin şerefi olarak kabul edilirdi.",
+          "rationale": "Bu ifade 82. sayfada belirtildiği gibi doğrudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 24,
+      "question": "Ahi kültürüne göre insan, iki kürekli bir kayığa benzetilir. Bu benzetmede kürekler neyi temsil eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Biri aileyi, diğeri devleti temsil eder.",
+          "rationale": "Benzetmede aile ve devlet değil, dünya işleri ve ahlaki değerler vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Biri üretimi, ticareti ve ekonomiyi; diğeri insan ilişkilerini ve ahlaki değerleri temsil eder.",
+          "rationale": "83. sayfada 'Bir kürek; üretim, ticaret, ekonomi ve sanat gibi dünya işlerini temsil eder, diğer kürek; insan ilişkileri ve ahlâki (etik) değerleri oluşturur' açıklaması yapılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Biri ustayı, diğeri çırağı temsil eder.",
+          "rationale": "Bu benzetme usta-çırak ilişkisini değil, bireyin yaşamındaki dengeyi anlatır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Biri bilgiyi, diğeri gücü temsil eder.",
+          "rationale": "Benzetmenin unsurları bunlar değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Biri gençliği, diğeri yaşlılığı temsil eder.",
+          "rationale": "Bu benzetme hayatın evrelerini değil, iş ve ahlak dengesini ifade eder.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 25,
+      "question": "Ahi kültüründe 'üç şey açık olmalıdır' öğretisine göre aşağıdakilerden hangisi bu üç şeyden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Göz; kötü bakışlara",
+          "rationale": "84. sayfaya göre göz, kötü bakışlara kapalı olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ağız; kötü sözlere",
+          "rationale": "84. sayfaya göre ağız, kötü sözlere kapalı olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "El; haksızlığa ve zulme",
+          "rationale": "84. sayfaya göre el, haksızlığa ve zulme kapalı olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kese; kardeşlere",
+          "rationale": "84. sayfada 'Kese; kardeşlere' açık olması gereken üç şeyden biri olarak sayılmıştır. Bu, cömertliği ifade eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Akıl; yabancı fikirlere",
+          "rationale": "Bu öğreti metinde bu şekilde yer almamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 26,
+      "question": "Ahilikte, yeni giren bir kişiye öğretilen ve 740 maddeden oluşan davranış kurallarının tamamının toplandığı tüzük niteliğindeki metinlere ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fütüvvetname",
+          "rationale": "85. sayfada 'Ahiliğin temel değerleri ve davranış kuralları Fütüvvetname denilen tüzük niteliğindeki metinlerde toplanmıştır' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Divanü Lügati't-Türk",
+          "rationale": "Bu, Kaşgarlı Mahmud'un eseridir ve Ahilik'in bir tüzüğü değildir (Sayfa 74).",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyahatname",
+          "rationale": "Bu bir gezi yazısı türüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "İcazetname",
+          "rationale": "Bu genellikle bir eğitim veya sanatı tamamlayan kişiye verilen belgedir, tüzük değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vakfiye",
+          "rationale": "Bu, bir vakfın şartlarını belirten belgedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 27,
+      "question": "Ahi teşkilatlarında, çırağı en iyi şekilde yetiştirme görevi kime aitti?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kalfaya",
+          "rationale": "Kalfa, usta ile çırak arasında bir aşamadır, yetiştirme görevi ustaya aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahi Baba'ya",
+          "rationale": "Ahi Baba, teşkilatın lideridir ve genel yönetimden sorumludur, birebir yetiştirme görevi ustanındır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ustaya",
+          "rationale": "88. sayfada 'Ahi teşkilatlarında, çırağı en iyi şekilde yetiştirmek ustanın göreviydi' ifadesi açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çırağın ailesine",
+          "rationale": "Aile ahlaki temel verse de, mesleki ve ahlaki yetiştirme sorumluluğu ustaya devredilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lonca yönetimine",
+          "rationale": "Lonca yönetimi genel denetimi yapar, ancak birebir eğitim ustanın sorumluluğundadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 28,
+      "question": "Ahilikte 'Müşteri Velinimettir' ilkesi, günümüzdeki hangi kavramlarla örtüşmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece kâr maksimizasyonu",
+          "rationale": "Bu ilke, kârın ötesinde müşteri memnuniyeti ve haklarını da içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tedarikçi ilişkileri yönetimi",
+          "rationale": "Bu ilke doğrudan müşteri odaklıdır, tedarikçi odaklı değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteri odaklılık, tüketici haklarının korunması ve tüketici beğenisi",
+          "rationale": "86. sayfada bu ilkenin 'bugünün müşteri odaklılık, tüketici haklarının korunması ve tüketici beğenisi kavramlarıyla önemli ölçüde örtüştüğü görülür' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Reklam ve pazarlama stratejileri",
+          "rationale": "Bu ilke, ürünün ve hizmetin kalitesiyle ilgilidir, sadece tanıtımıyla değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stok yönetimi ve lojistik",
+          "rationale": "Bu ilke, operasyonel verimlilikten çok müşteri memnuniyetini ifade eder.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 29,
+      "question": "9. sayfaya göre Etik ve Ahlak arasındaki ilişki nasıl özetlenmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etik ahlakın bir alt dalıdır.",
+          "rationale": "İlişki bu şekilde tanımlanmamıştır; etik, ahlakı inceler.",
+          "isCorrect": false
+        },
+        {
+          "text": "İkisi de tamamen aynı anlama gelir.",
+          "rationale": "Sunumda aralarında farklar olduğu vurgulanmaktadır (Sayfa 9, 21).",
+          "isCorrect": false
+        },
+        {
+          "text": "Etik teoridir, ahlak ise onun pratiğidir.",
+          "rationale": "9. sayfada 'ETİK: doğru ve yanlış davranış teorisidir. Ahlak ise onun pratiğidir' şeklinde net bir özet yapılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ahlak teoridir, etik ise onun pratiğidir.",
+          "rationale": "Bu, doğru ifadenin tam tersidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aralarında hiçbir ilişki yoktur.",
+          "rationale": "Aksine, etik ahlakı konu edinen bir felsefe dalıdır ve aralarında sıkı bir ilişki vardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 30,
+      "question": "Aşağıdakilerden hangisi Mill'in faydacılık ilkelerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bir eylemin doğruluğuna karar vermek için sonuçlarına yoğunlaşmak gerekir.",
+          "rationale": "Bu, 28. sayfada listelenen bir ilkedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eylemlerin doğruluk oranı arttıkça, mutluluk da artar.",
+          "rationale": "Bu, 28. sayfada listelenen bir ilkedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutluluk, sadece eylemi yapan bireyin kendi mutluluğudur.",
+          "rationale": "28. sayfada 'Mutluluk, bireyin kendi mutluluğu değil, eylemin herkes için doğruluğudur' denilmektedir. Bu ifade yanlıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mutluluk, insan eyleminin tek amacıdır ve onun ölçütü ahlaki oluşudur.",
+          "rationale": "Bu, 28. sayfada listelenen bir ilkedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eylemin fayda derecesi, mutluluğu yaratabilir ya da mutsuzluğu engeller.",
+          "rationale": "Bu, 28. sayfada listelenen bir ilkedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 31,
+      "question": "Sunuma göre 'Ahlak' kelimesinin kökeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yunanca",
+          "rationale": "Etik kelimesi Yunanca 'ethos'tan gelir, ancak ahlak kelimesi için bu belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Türkçe",
+          "rationale": "Sunumda kelimenin Türkçe kökenli olduğu belirtilmemektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Latince",
+          "rationale": "13. sayfada 'Ahlak kelimesi Latince kökenli olup...' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arapça",
+          "rationale": "Ahlak kelimesi Arapça 'hulk' kökünden gelse de, sunumda Latince kökenli olduğu belirtilmiştir. Sunumdaki bilgiye sadık kalınmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Farsça",
+          "rationale": "Sunumda kelimenin Farsça kökenli olduğuna dair bir bilgi yoktur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 32,
+      "question": "Ahlakın bir bölümünü oluşturan toplumsal kurallar arasında aşağıdakilerden hangisi sayılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yalnızca yazılı yasalar",
+          "rationale": "Yazılı yasalar hukukun alanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Görenek, gelenek, töre ve adetler",
+          "rationale": "13. sayfada 'Görenek, gelenek, töre ve adetler ahlakın bir bölümünü oluştururlar' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece dini emirler",
+          "rationale": "Dini emirler ahlakı etkiler ama ahlak sadece bunlardan ibaret değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik kurallar",
+          "rationale": "Ekonomik kurallar ahlakın bir parçası değildir, ancak ahlaki değerlendirmelere tabi olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilimsel teoriler",
+          "rationale": "Bilimsel teoriler olguları açıklar, ahlaki kurallar ise olması gerekeni belirtir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 33,
+      "question": "İşletme etiği kapsamında yer alan taraflar arasında aşağıdakilerden hangisi bulunmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sahipler ve Müşteriler",
+          "rationale": "Bu gruplar 65. sayfada listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışanlar ve Toplum",
+          "rationale": "Bu gruplar 65. sayfada listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rakipler ve Tedarikçiler",
+          "rationale": "Bu gruplar 65. sayfada listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece devlet kurumları",
+          "rationale": "65. sayfadaki listede devlet kurumları ayrı bir taraf olarak belirtilmemiştir, ancak dolaylı olarak toplumun bir parçasıdır. Ancak listede doğrudan yer almadığı için bu en doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosyal gruplar",
+          "rationale": "Bu grup 65. sayfada listelenmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 34,
+      "question": "Örgütsel etik için yapılan tanımlardan biri aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yöneticilerin kişisel ahlak anlayışıdır.",
+          "rationale": "Bu daha çok yönetsel etiğin bir parçasıdır, örgütün bütününü kapsamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Örgütün içinden kaynaklanan sorunların çözümünde belirli kurallar getiren örgüt içi davranış kültürüdür.",
+          "rationale": "63. sayfada '...örgütün içinden kaynaklanan sorunların çözümünde belirli kurallar getiren örgüt içi davranış kültürünün toplamı olarak ifade edilmektedir' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece müşterilere karşı olan sorumluluklardır.",
+          "rationale": "Örgütsel etik, müşterilerin yanı sıra çalışanlar ve diğer paydaşları da kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Devletin koyduğu yasalara harfiyen uymaktır.",
+          "rationale": "Bu yasal bir zorunluluktur, etik ise genellikle yasaların ötesindeki doğru davranışlarla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rakipleri saf dışı bırakma stratejileridir.",
+          "rationale": "Bu, etik dışı bir davranış olarak kabul edilebilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 35,
+      "question": "Yönetsel etiğin ortaya çıkma sebebi olarak ne gösterilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Devletin baskıları",
+          "rationale": "Sunumda bu sebep olarak gösterilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışanların talepleri",
+          "rationale": "Bu bir etken olabilir, ancak sunumda belirtilen ana sebep bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletmedeki paydaşların (alıcılar, satıcılar, müşteriler vb.) rekabet halindeki çıkarlarını uzlaştırma çabaları.",
+          "rationale": "66. sayfada yönetsel etiğin '...işletmedeki alıcılar, satıcılar, müşteriler, hissedarlar ve yöneticilerin rekabet halinde olan çıkarlarını uzlaştırmaya ilişkin çabalardan dolayı ortaya çıkmıştır' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Teknolojinin gelişmesi",
+          "rationale": "Teknoloji yeni etik sorunlar yaratabilir ama yönetsel etiğin temel çıkış sebebi bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Globalleşme",
+          "rationale": "Globalleşme de bir etken olabilir, ancak sunumdaki temel sebep paydaş çıkarlarının uzlaştırılmasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 36,
+      "question": "İnsanların tutum ve düşüncelerini etkileyen kitle iletişim araçları arasında hangisi sayılmamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Radyo, televizyon, sinema",
+          "rationale": "Bu araçlar 52. sayfada sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gazete, dergi, kitaplar",
+          "rationale": "Bu araçlar 52. sayfada sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnternet ve sosyal ağ siteleri",
+          "rationale": "Bu araçlar 53. sayfada sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akıllı cep telefonları",
+          "rationale": "Bu araçlar 53. sayfada sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tiyatro ve opera",
+          "rationale": "Sunumun 52. ve 53. sayfalarında kitle iletişim araçları sayılırken tiyatro ve operadan bahsedilmemiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 37,
+      "question": "Kişilik yapısının, bireyin etik ilke ve değerlerine ilişkin ipuçları vermesinin nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişiliğin hiç değişmeyen bir yapı olması",
+          "rationale": "54. sayfada kişiliğin dinamik bir süreç olduğu belirtilmiştir, değişmez değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişilik yapısının, belirli tutum ve düşüncelerin benimsenmesi yönünde bir eğilim oluşturması",
+          "rationale": "55. sayfada 'Kişilik yapısı, belirli tutum ve düşüncelerin benimsenmesi yönünde bir eğilim oluşturabilir' denilerek bu bağlantı kurulmuştur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tüm iyimser insanların etik, tüm karamsar insanların etik dışı olması",
+          "rationale": "Bu aşırı bir genellemedir. Kişilik özellikleri (iyimser-karamsar gibi) sadece birer yargı ve eğilim belirtir, mutlak bir sonuç değil (Sayfa 54).",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişiliğin sadece aile tarafından şekillendirilmesi",
+          "rationale": "Kişilik aile, çevre, deneyimler gibi birçok faktörden etkilenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etik değerlerin kişilikten tamamen bağımsız olması",
+          "rationale": "Sunum, aralarında bir bağlantı olduğunu ve kişilik özelliklerinin ipuçları verdiğini belirtmektedir (Sayfa 55).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 38,
+      "question": "Bireyin finansal kazancı öncelik olarak görmesi durumunda nasıl bir etik anlayışı benimseyebileceği belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Toplumsal faydayı gözeten bir anlayış",
+          "rationale": "Finansal kazancı önceliklendirmek genellikle bireysel faydayı öne çıkarır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manevi değerleri dikkate almaksızın katı bir tutum takınabileceği bir anlayış",
+          "rationale": "58. sayfada '...manevi değerleri dikkate almaksızın finansal kazanç elde etmeye yönelik çabalarında katı bir tutum takınabilecektir' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çevreye duyarlı bir etik anlayış",
+          "rationale": "Finansal kazanç önceliği, çevresel maliyetlerin göz ardı edilmesine yol açabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş-yaşam dengesini koruyan bir anlayış",
+          "rationale": "Sadece finansal kazanca odaklanmak iş-yaşam dengesini bozabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışan haklarını savunan bir anlayış",
+          "rationale": "Aşırı kâr hırsı, çalışan haklarının ihlaline neden olabilir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 39,
+      "question": "Sunumda 'Durumsal Faktörler' nasıl bir etkiye sahip olabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bireylerin her zaman tutarlı davranmasını sağlar.",
+          "rationale": "Aksine, durumsal faktörler bireylerin farklı davranmasına sebep olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireylerin bazı beklenmedik durumlarda farklı biçimde davranmalarına sebep olabilir.",
+          "rationale": "59. sayfada 'Durumsal faktörler, bireylerin bazı beklenmedik durumlarda olduklarından farklı biçimde davranmalarına sebep olabilir' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece kişinin parasının çok olması durumunda etkilidir.",
+          "rationale": "Sunumda paranın az olması ya da çok olması gibi farklı durumlar örnek verilmiştir, sadece çok olması değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireyin ahlaki temelini tamamen değiştirir.",
+          "rationale": "Temelini tamamen değiştirmese de, olaylara bakış açısını ve davranışlarını etkileyebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etik kararlar üzerinde hiçbir etkisi yoktur.",
+          "rationale": "Sunum, durumsal faktörlerin bakış açısını değiştirebileceğini ve dolayısıyla etik kararları etkileyebileceğini belirtmektedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 40,
+      "question": "Ahilikte çalışanlarda bulunması beklenen özelliklerden biri aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kendini başkalarından üstün görmek",
+          "rationale": "79. sayfada bunun tam tersi, 'Kendini başkalarından üstün görmemek' bir özellik olarak sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dünya malına önem vermek",
+          "rationale": "79. sayfada 'Dünya malına önem vermemek' bir özellik olarak sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nefsine hâkim olmak",
+          "rationale": "79. sayfada 'Nefsine hâkim olmak' beklenen özellikler arasında listelenmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece kendi çıkarını düşünmek",
+          "rationale": "Ahilikte cömertlik, başkalarını sevmek gibi özellikler vurgulanır, bu bencillikle çelişir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Başkalarını eleştirmek",
+          "rationale": "79. sayfada 'Başkalarını hoş görmek' bir özellik olarak sayılmıştır, eleştirmek değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 41,
+      "question": "Ahlak kurallarının değişen toplumsal koşullar karşısındaki durumu nasıldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Katıdır ve asla değişmez.",
+          "rationale": "Bu Etik için belirtilen bir özelliktir. Ahlak için tam tersi geçerlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha esnektir ve daha kolay değişebilme özelliğine sahiptir.",
+          "rationale": "14. sayfada 'Ahlak kuralları, değişen toplumsal koşullar karşısında daha esnektir ve daha kolay değişebilme özelliğine sahiptir' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece hukuk kuralları değiştiğinde değişir.",
+          "rationale": "Ahlak ve hukuk birbirini etkilese de, ahlakın değişimi sadece hukuka bağlı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Evrensel olduğu için tüm toplumlarda aynı kalır.",
+          "rationale": "Evrensel olan Etik'tir. Ahlak ise toplumsaldır ve toplumdan topluma değişir (Sayfa 21).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece din adamlarının kararıyla değişebilir.",
+          "rationale": "Din ahlakı etkiler, ancak ahlakın değişimi toplumsal bir süreçtir ve tek bir gruba bağlı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 42,
+      "question": "Turist memnuniyetinin sağlanmasında önemli olan unsurlar arasında hangisi vurgulanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece düşük fiyatlar sunmak",
+          "rationale": "Düşük fiyat bir etken olsa da, sunumda hizmet anlayışı ve dürüstlük vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yöre halkı ve turistin olumlu etkileşimi",
+          "rationale": "4. sayfada '...yöre halkı ve turistin olumlu etkileşimi önemlidir' denilerek bu unsurun önemi belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yabancı dil bilen personel sayısını artırmak",
+          "rationale": "Bu önemli bir hizmet unsurudur, ancak sunumun etik odaklı vurgusu etkileşim üzerinedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lüks konaklama tesisleri inşa etmek",
+          "rationale": "Tesis kalitesi önemlidir, fakat sunumda insan ilişkileri ve ahlaki hizmet ön plana çıkarılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turist sayısını her yıl artırmak",
+          "rationale": "Bu niceliksel bir hedeftir, sunumda ise niteliksel olan memnuniyet ve etkileşim vurgulanmaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 43,
+      "question": "'Sosyal Yaşam Etiği' neyi ifade eder?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişinin sadece iş hayatında uyması gereken kuralları.",
+          "rationale": "Bu iş etiğinin tanımına daha yakındır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişinin sosyal yaşam içerisinde kurduğu ilişkilerde uyması gereken kurallar bütününü.",
+          "rationale": "40. sayfada 'Kişinin sosyal yaşam içerisinde kurduğu ilişkilerde uyması gereken kurallar bütünüdür' şeklinde tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece doğadaki diğer canlılarla olan ilişkiyi.",
+          "rationale": "Bu, sosyal yaşam etiğinin bir parçasıdır ama tanımın tamamı değildir. İnsanlar arası ilişkileri de kapsar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireyin kendi vicdanına karşı sorumluluklarını.",
+          "rationale": "Bu, kişisel etiğin tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumun yasalarına ve hukuk kurallarına uymayı.",
+          "rationale": "Bu yasal bir zorunluluktur ve kural etiği ile ilgilidir, sosyal yaşam etiği daha geniş kapsamlıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 44,
+      "question": "Aşağıdakilerden hangisi Sosyal Yaşam Etiği ilkelerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İlişkilerde baskı ve nüfuz kullanmak.",
+          "rationale": "41. sayfada 'Nüfuz ve güç kullanımı gibi baskı yöntemleri kullanılmaz' denilerek bunun tersi belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsanların birbirleriyle olan ilişkilerini karşılıklı saygı ve nezaket çerçevesinde yürütmesi.",
+          "rationale": "41. sayfada 'İnsanlar birbirleri ile olan ilişkilerini karşılıklı saygı ve nezaket kuralları çerçevesinde yürütürler' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kişisel çıkarları her zaman ön planda tutmak.",
+          "rationale": "41. sayfada 'Meslektaşlar, öğrenciler ve çalışanlar hiçbir çıkar doğrultusunda yönlendirilmez' denilerek bu ilkenin tersi vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece kendi görev ve sorumluluklarını bilmek.",
+          "rationale": "41. sayfada 'Tüm taraflar görevlerinin gerektirdiği hak ve sorumlulukların bilinci içinde davranırlar' denilerek karşılıklı bir bilinçten bahsedilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumun bazı üyelerini dışlamak.",
+          "rationale": "41. sayfada 'Toplumun tüm üyeleri uygunsuz olarak nitelendirilebilecek davranışlardan kaçınır' denilerek kapsayıcı bir tutum belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 45,
+      "question": "Bireysel etiğin kaynağını oluşturan vicdan, bireyin eylemlerindeki iyi ve kötü değerleri anlamasını sağlayan bir güç olarak tanımlanmıştır. Bu tanım hangi düşünürle ilişkilendirilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Immanuel Kant",
+          "rationale": "Kant, ödev ve evrensel ahlak yasası üzerine odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Martin Buber",
+          "rationale": "45. sayfada Martin Buber'in vicdanı bu şekilde tanımladığı belirtilmektedir: 'Vicdan, bireyin eylemlerini gerçekleştirme sırasında başvurarak, eylemlerindeki iyi ve kötü değerleri anlamasını sağlayan güçtür.'",
+          "isCorrect": true
+        },
+        {
+          "text": "John Stuart Mill",
+          "rationale": "Mill, sonuçların getirdiği mutluluk ve faydaya odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Machiavelli",
+          "rationale": "Machiavelli, amaca ulaşmayı her şeyin üzerinde tutar, vicdanı birincil kaynak olarak görmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rousseau",
+          "rationale": "Rousseau, toplumsal sözleşme ve genel irade kavramlarıyla ilgilenir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 46,
+      "question": "Bireyin çocuklukta ailesinden öğrendiği ahlaki ilke ve standartların önemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yetişkinlikte tamamen unutulur.",
+          "rationale": "Aksine, bu standartlar bireyin gelecekteki yaşamına temel teşkil eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece aile içi ilişkilerde geçerlidir.",
+          "rationale": "Bu standartlar, aile dışındaki hayata, özellikle çalışma yaşamına da yansır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireyin çalışma yaşamındaki ahlaki ilke ve standartlarına temel teşkil eder.",
+          "rationale": "47. sayfada '...bireyin çalışma yaşamındaki ahlâki ilke ve standartlara temel teşkil etmektedir' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hiçbir pratik önemi yoktur.",
+          "rationale": "Sunum, bunun tam tersini, yani çok önemli olduğunu vurgulamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece dini inançları şekillendirir.",
+          "rationale": "Dini inançları etkileyebilir ama bununla sınırlı değildir, genel ahlaki duruşu şekillendirir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 47,
+      "question": "Din ve ahlak arasındaki ilişki nasıl tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Birbirinden tamamen bağımsız iki alandır.",
+          "rationale": "Sunumda aralarında devamlı bir etkileşim olduğu belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dinin temeli ahlaka dayanır ve devamlı bir etkileşim içindedirler.",
+          "rationale": "48. sayfada 'Dinin temeli, ahlâka dayanmaktadır ve din ve ahlâk devamlı bir etkileşim içindedir' ifadesi yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ahlak, sadece dinin bir alt kümesidir.",
+          "rationale": "Etkileşim içinde olsalar da ahlak felsefesi dinden bağımsız olarak da ele alınabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Din, ahlak kurallarını her zaman geçersiz kılar.",
+          "rationale": "Aralarında bir çatışma değil, etkileşim ve temel olma ilişkisi vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece kutsal kitaplar ahlakın kaynağıdır.",
+          "rationale": "Dinler ahlakın önemli bir kaynağıdır ancak felsefe, gelenek ve toplum da ahlakın kaynakları arasındadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 48,
+      "question": "Bireyin yaşamında arkadaşların etkisinin arttığı dönem hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bebeklik dönemi",
+          "rationale": "Bu dönemde çocuk anneye ve babaya bağımlıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çocuk büyüdükçe ailenin etkisi azalıp arkadaşların etkisi artmaya başlar.",
+          "rationale": "50. sayfada '...çocuk büyüdükçe ailenin etkisi azalır ve bunun yerine arkadaşların etkisi artmaya başlar' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yaşlılık dönemi",
+          "rationale": "Bu dönemde arkadaşlık önemli olsa da, etkinin artmaya başladığı dönem çocukluktan ergenliğe geçiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arkadaşların etkisi her yaşta aynıdır.",
+          "rationale": "Sunumda bu etkinin yaşla birlikte değiştiği belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece okul çağında etkilidir.",
+          "rationale": "Etki okul çağında belirginleşse de, daha sonra da devam eder.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 49,
+      "question": "Sosyal medya ortamının bilgi üzerindeki rolü nasıl tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bilginin sadece uzmanlar tarafından üretilmesini sağlar.",
+          "rationale": "Aksine, sosyal medya kullanıcılar tarafından içerik üretilmesine olanak tanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilginin yayılmasını yavaşlatan bir faktördür.",
+          "rationale": "Tam tersine, bilginin çok hızlı yaygınlaşmasını sağlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilginin çeşitlenmesi, yaygınlaşması ve içselleştirilmesinde belirleyici bir faktördür.",
+          "rationale": "53. sayfada 'Sosyal medya ortamı, bilginin çeşitlenmesinde, bilginin yaygınlaşmasında... belirleyici bir faktör rolünü üstlenmiştir' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece eğlence amaçlı içeriklerin paylaşıldığı bir ortamdır.",
+          "rationale": "Eğlencenin yanı sıra bilgi paylaşımı da önemli bir rol oynar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilgiye ulaşmayı zorlaştırır.",
+          "rationale": "Aksine, bilgiye ulaşmayı kolaylaştırır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 50,
+      "question": "Sunumda 'İşletme Etiği' hangi başka isimle de anılmaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bireysel Etik",
+          "rationale": "Bu farklı bir etik türüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kurumsal Etik",
+          "rationale": "64. sayfada 'Dolayısıyla, işletme etiği, kurumsal etik olarak da adlandırılmaktadır' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Meslek Etiği",
+          "rationale": "Bu, mesleklere özgü kuralları içerir ve daha dar kapsamlıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yönetsel Etik",
+          "rationale": "Bu, yöneticilere odaklanan bir etik türüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal Sorumluluk",
+          "rationale": "Sosyal sorumluluk, işletme etiğinin önemli bir boyutudur ancak birebir aynı anlama gelmez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 51,
+      "question": "Ahilik kurumunun günümüzdeki hangi kuruluşların bir nevi karşılığı olduğu söylenmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece Sivil Toplum Kuruluşları",
+          "rationale": "Daha geniş bir yelpaze sunulmuştur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Esnaf ve Sanatkârlar Konfederasyonu, Ticaret Odası, Patent Ofisi, TSE, TÜSİAD",
+          "rationale": "77. sayfada Ahilik'in 'döneminin bir nevi Esnaf ve Sanatkârlar Konfederasyonu, Ticaret ve Sanayi Odası, Patent Ofisi, TSE'si, TÜSİAD'ı...' olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece siyasi partiler",
+          "rationale": "Ahilik ekonomik ve sosyal bir örgüttür, siyasi bir parti değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üniversiteler ve araştırma merkezleri",
+          "rationale": "Ahilik bir eğitim kurumu işlevi görse de, günümüzdeki karşılıkları olarak daha çok meslek ve ekonomi örgütleri sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece sendikalar",
+          "rationale": "Sendika işlevi de görmekle birlikte, sunumda sayılanlar çok daha çeşitlidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 52,
+      "question": "Ahi birliklerinin, narh sistemi ve standartlaşma ile neyi sağlamayı amaçladığı belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Üreticinin kârını maksimize etmeyi",
+          "rationale": "Amaç sadece üretici kârı değil, aynı zamanda tüketiciyi korumak ve emeğin değerini bulmasını sağlamaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Devlete daha fazla vergi ödemeyi",
+          "rationale": "Bu bir sonuç olabilir ama temel amaç değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emeğin değerini bulmasını ve tüketicinin korunmasını",
+          "rationale": "78. sayfada '...emeğin değerini bulmasını ve narh sistemi... ve standartlaşmayla tüketicinin korunmasını sağlamıştır' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yabancı tüccarlarla rekabeti engellemeyi",
+          "rationale": "Bu dolaylı bir amaç olabilir, ancak narh ve standardizasyonun doğrudan amacı tüketiciyi ve emeği korumaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üretim miktarını sınırsızca artırmayı",
+          "rationale": "Aksine, 'üretim sınırlamaları getirerek' emeğin değerini korudukları belirtilmiştir (Sayfa 78).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 53,
+      "question": "Ahilikte düzenlenen sohbetler, eğitici kitap okumaları gibi aktivitelerin temel amacı neydi?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece boş zamanları değerlendirmek",
+          "rationale": "Bu bir yan amaç olabilir, ancak temel amaç daha derindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çalışanlar arasında dayanışmayı sağlamak, moral ve verimliliği artırmak",
+          "rationale": "87. sayfada bu tür aktivitelerin 'çalışanlar arasında dayanışmayı sağlamak, moral ve verimliliği artırmak için' düzenlendiği belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ustalara karşı isyanları önlemek",
+          "rationale": "Amaç isyan önlemek değil, pozitif bir işbirliği ve dayanışma ortamı yaratmaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Devlet ideolojisini yaymak",
+          "rationale": "Sunumda bu aktivitelerin içeriğinin dini, ahlaki ve mesleki konular olduğu belirtilmiştir, siyasi ideoloji değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeni çıraklar bulmak",
+          "rationale": "Bu aktiviteler mevcut çalışanlara yöneliktir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 54,
+      "question": "Ahilikte bir kişinin iyi bir usta olabilmesi için mesleğin sırlarını öğrenmeden önce sahip olması gereken en temel şey neydi?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yeterli sermaye",
+          "rationale": "Sermaye önemli olsa da, sunumda ahlaki yeterlilik öncelikli olarak vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güçlü bir aile geçmişi",
+          "rationale": "Bu bir avantaj olabilir ama temel gereklilik olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İyi bir meslek ahlakına, yani Ahi ahlakına sahip olmak",
+          "rationale": "88. sayfada '...iyi bir usta olabilmesi için önce iyi bir meslek ahlâkına yani Ahi ahlâkına sahip olması gerekirdi' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "En az on yıl çıraklık yapmak",
+          "rationale": "Süreç önemli olsa da, temel koşul ahlaki olgunluktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm rakiplerini tanımak",
+          "rationale": "Bu ticari bir bilgi olabilir, ancak temel ahlaki gereklilik değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 55,
+      "question": "Sunumun genelinde 'etik dışı davranışlar' ve 'etik dışı sorunlar' hangi sektör bağlamında ele alınmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sağlık",
+          "rationale": "Sunum sağlık sektörüne odaklanmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim",
+          "rationale": "Sunum bir eğitim materyali olsa da, odaklandığı sektör eğitim değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turizm",
+          "rationale": "1., 2. ve 4. sayfalarda 'Turizm ve Otel İşletmeciliği', 'Turizmde Etik', 'Turizmde Etik Dışı Davranışlar' gibi başlıklar, konunun turizm sektörü bağlamında ele alındığını göstermektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Finans",
+          "rationale": "Sunum finans sektörüne odaklanmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnşaat",
+          "rationale": "Sunum inşaat sektörüne odaklanmamıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 56,
+      "question": "7. sayfaya göre günümüzde 'etik' ve 'ahlak' kavramları hangi alanlarla daha çok ilişkilendirilmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Etik siyasete, ahlak sanata",
+          "rationale": "Bu ilişkilendirme metinde yer almamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etik iş hayatına, ahlak sosyal yaşama",
+          "rationale": "7. sayfada 'Günümüzde etik kavramı, daha çok iş hayatı içerisindeki davranış biçimlerini... irdeleyen... bir disiplin olarak görülmektedir. Ahlak kavramı ise, kişilerin sosyal yaşam içerisindeki ilişkilerini düzenleyen bir disiplin olarak görülmektedir' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Etik dine, ahlak hukuka",
+          "rationale": "Bu ilişkilendirme metinde yer almamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etik aileye, ahlak okula",
+          "rationale": "Bu ilişkilendirme metinde yer almamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İkisi de sadece felsefeye",
+          "rationale": "Felsefi kökenleri olsa da, günümüzdeki pratik uygulama alanları olarak iş ve sosyal yaşam belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 57,
+      "question": "Bireylerin yaşamları süresince kurallarla karşı karşıya olduğu yerler arasında hangisi sayılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece iş hayatı",
+          "rationale": "Bu sayılanlardan sadece biridir, eksiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece okul",
+          "rationale": "Bu sayılanlardan sadece biridir, eksiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aile, okul, toplum ve iş hayatı",
+          "rationale": "32. sayfada 'Ailede, okulda, toplumda, iş hayatında birçok kural vardır' denilerek bu alanların hepsi sayılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece aile ve toplum",
+          "rationale": "Liste eksiktir, okul ve iş hayatı da eklenmelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece sanal ortamlar",
+          "rationale": "Sanal ortamların da kuralları olsa da, sunumda bu geleneksel alanlar vurgulanmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 58,
+      "question": "Hukuk kurallarının özelliklerinden biri olan 'genellik' ilkesi nasıl açıklanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece belirli bir kişiye uygulanır.",
+          "rationale": "Genellik ilkesi bunun tam tersini ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tek bir olaya değil, aynı niteliği taşıyan bütün olaylara uygulanır.",
+          "rationale": "36. sayfada 5. madde olarak 'Hukuk kuralları tek bir olaya değil, aynı niteliği taşıyan bütün olaylara uygulanır' şeklinde açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece genel ahlak kurallarına uygun olduğunda geçerlidir.",
+          "rationale": "Bu hukukun meşruiyetiyle ilgili bir tartışmadır, genellik ilkesinin tanımı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Her zaman genel af ile sonuçlanır.",
+          "rationale": "Bu, genellik ilkesiyle ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Herkes tarafından bilinmesi gerekmez.",
+          "rationale": "Yasaları bilmemek mazeret sayılmaz, bu ilke uygulanırlığın kapsamıyla ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 59,
+      "question": "Kişilik, bireyin doğumundan ölümüne kadar devam eden nasıl bir süreç olarak tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Statik ve değişmez bir süreç",
+          "rationale": "Aksine, dinamik olduğu vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece genetik faktörlere bağlı bir süreç",
+          "rationale": "Kişilik, genetik ve çevresel faktörlerin etkileşimiyle oluşur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dinamik bir süreç",
+          "rationale": "54. sayfada 'Kişilik, bireyin doğumundan ölümüne kadar olan yaşam süresince devam eden dinamik bir süreçtir' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tamamen bilinçsiz bir süreç",
+          "rationale": "Kişiliğin bilinçli ve bilinçdışı yönleri vardır, tamamen bilinçsiz değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ergenlikte tamamlanan bir süreç",
+          "rationale": "Sunumda ölümüne kadar devam ettiği belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 60,
+      "question": "Bireysel etiğin unsurlarından olan 'Yaşam Deneyimleri'nin birey üzerindeki etkisi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece bireyin yaşamını şekillendirir, ahlakına katkıda bulunmaz.",
+          "rationale": "Bu ifadenin ilk kısmı doğru olsa da, ikinci kısmı yanlıştır. Sunumda ahlaka da katkıda bulunduğu belirtilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireyin ahlaki değer ve davranışlarına da katkıda bulunur.",
+          "rationale": "57. sayfada '...bu deneyimler, bireyin ahlâki değer ve davranışlarına da katkıda bulunmaktadır' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Etik değerler üzerinde hiçbir etkisi yoktur.",
+          "rationale": "Sunum bunun tam tersini söylemektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece olumsuz deneyimler ahlakı etkiler.",
+          "rationale": "Hem olumlu hem de olumsuz deneyimler ahlaki gelişimi etkiler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece çocukluk deneyimleri önemlidir.",
+          "rationale": "Yaşam boyu edinilen deneyimler etkilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 61,
+      "question": "Ahlak kelimesi, 15. sayfadaki tanıma göre etik kavramından türetilmiştir. Bu bağlamda etik nasıl tanımlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ahlak ilkelerine ilişkin felsefi çalışma olarak",
+          "rationale": "15. sayfada 'Etik daha çok ahlâk ilkelerine ilişkin felsefî çalışma olarak tanımlanabilmektedir' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ahlakın tam zıttı olarak",
+          "rationale": "Zıttı değil, onu inceleyen alandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlakın pratik uygulaması olarak",
+          "rationale": "Bu, ahlakın kendisidir. Etik ise teoridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahlaktan tamamen bağımsız bir disiplin olarak",
+          "rationale": "Bağımsız değil, ahlakı konu edinen bir disiplindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece dini ahlakı inceleyen bir alan olarak",
+          "rationale": "Etik, dini ahlakın yanı sıra seküler ahlakı da inceler.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 62,
+      "question": "16. sayfadaki ahlak tanımına göre, ahlak aşağıdakilerden hangisini araştırmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Belirli eylemlerin doğruluğunu veya yanlışlığını",
+          "rationale": "Bu, tanımda yer alan bir unsurdur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eylemi yapanların iyi veya kötü yanlarını",
+          "rationale": "Bu, tanımda yer alan bir unsurdur.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnsanlığın refah ve mutluluğunun unsurlarını",
+          "rationale": "Bu, tanımda yer alan bir unsurdur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eylemlerin sadece ekonomik sonuçlarını",
+          "rationale": "Tanım, ahlaki ve insani boyutlara odaklanır, sadece ekonomik sonuçlara değil. Bu, ahlakın araştırma alanının dışındadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gerekli tutum ve davranışları açıklayan standartları",
+          "rationale": "Bu, tanımda yer alan bir unsurdur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 63,
+      "question": "Ahlak, 17. sayfada nasıl vasıflandırılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Toplumun yasalara uymasıdır.",
+          "rationale": "Bu hukuki bir durumdur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişi vicdanının belirli hareketleri 'doğru' ve 'iyi' olarak vasıflandırmasıdır.",
+          "rationale": "17. sayfada 'Ahlak, kişi vicdanının belirli hareketleri “doğru” ve “iyi” olarak vasıflandırılmasıdır' tanımı yapılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mantıklı ve rasyonel düşünmektir.",
+          "rationale": "Bu felsefenin genel bir özelliğidir, ahlakın spesifik tanımı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geleneklere körü körüne bağlılıktır.",
+          "rationale": "Ahlak geleneklerden etkilenir ama bu tanım indirgemeci ve eksiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişisel çıkarları en üst düzeye çıkarmaktır.",
+          "rationale": "Bu, ahlaki bir duruştan çok egoist bir yaklaşımdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 64,
+      "question": "18. sayfaya göre ahlakın saptamaya çalıştığı temel şey nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "En kârlı işin ne olduğunu",
+          "rationale": "Bu ekonomik bir sorudur, ahlaki değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "En iyi yaşama şeklinin ne olduğunu",
+          "rationale": "18. sayfada 'Ahlak, en iyi yaşama şeklinin ne olduğunu saptamaya çalışır' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tarihteki en büyük hataların ne olduğunu",
+          "rationale": "Bu tarih biliminin konusudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğa kanunlarının ne olduğunu",
+          "rationale": "Bu, fen bilimlerinin konusudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "En güçlü devletin hangisi olduğunu",
+          "rationale": "Bu, siyaset biliminin konusudur.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 65,
+      "question": "Ahlak ile benzerlik gösteren bilim dalı olarak hangisi belirtilmiştir ve temel farkı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Psikoloji; psikoloji bireyi, ahlak toplumu inceler.",
+          "rationale": "Bu ilişki ve fark sunumda bu şekilde belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyoloji; sosyoloji olgusal, ahlak kural koyucudur.",
+          "rationale": "Bu doğru bir ayrım olsa da, sunumda vurgulanan bilim dalı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuk; hukuk yazılı, ahlak ise yazılı emredici özelliği olmayan kurallardır.",
+          "rationale": "19. sayfada 'Ahlakla benzerlik gösteren bilimlerden biri de hukuktur' denilmiş ve fark 'Hukuk; yazılı emir ve yasaklardır. Ahlak ise yazılı emredici özelliği olmayan...' şeklinde açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tarih; tarih geçmişi, ahlak geleceği inceler.",
+          "rationale": "Bu ilişki ve fark sunumda bu şekilde belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomi; ekonomi maddi, ahlak manevi değerlerle ilgilenir.",
+          "rationale": "Bu doğru bir ayrım olabilir, ancak sunumda hukuk vurgulanmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 66,
+      "question": "Ahilik kavramının kökeni olarak Dîvânu Lugâti't-Türk'e göre 'akı' kelimesinin anlamı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kardeş",
+          "rationale": "Bu, Arapça 'ah' kelimesinin anlamıdır ve bir diğer görüştür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eli açık, cömert, yiğit",
+          "rationale": "74. sayfada 'Dîvânu Lugâti't-Türk'e göre eli açık, cömert, yiğit anlamına gelen akı kelimesinden türemiştir' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Usta, zanaatkar",
+          "rationale": "Bu kelimenin doğrudan anlamı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Beyaz, temiz",
+          "rationale": "Kelimenin bu anlamı olsa da, Ahilik bağlamında cömertlik anlamı vurgulanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Birlik, beraberlik",
+          "rationale": "Bu, Ahilik teşkilatının bir sonucudur, kelimenin köken anlamı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 67,
+      "question": "Ahilik teşkilatı ilk olarak hangi esnaf gruplarını kapsayarak ortaya çıkmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dokumacılar, terziler ve boyacılar",
+          "rationale": "Sunumda bu gruplar belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Demirciler, bakırcılar ve kalaycılar",
+          "rationale": "Sunumda bu gruplar belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Debbağ (derici), saraç (koşumcu) ve kunduracılar",
+          "rationale": "75. sayfada 'Başlangıçta debbağ, saraç ve kunduracıları kapsayan bir teşkilat olarak ortaya çıkan ahilik...' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fırıncılar, kasaplar ve manavlar",
+          "rationale": "Sunumda bu gruplar belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüccarlar ve sarraflar",
+          "rationale": "Ahilik daha çok zanaatkar örgütlenmesidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 68,
+      "question": "Ülkedeki bütün esnaf birliklerinin bağlı olduğu Ahi Evran Zaviyesi hangi şehirde bulunuyordu?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konya",
+          "rationale": "Konya önemli bir merkez olsa da, Ahi Evran Zaviyesi Kırşehir'deydi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kayseri",
+          "rationale": "Ahi Evran Kayseri'de de yaşamıştır ancak zaviyenin merkezi Kırşehir'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ankara",
+          "rationale": "Ankara da bir Ahi merkeziydi ama sunumda merkez olarak Kırşehir belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kırşehir",
+          "rationale": "75. sayfada 'Ülke sathındaki bütün esnaf birlikleri Kırşehir'de bulunan Ahi Evran Zaviyesine bağlıydılar' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sivas",
+          "rationale": "Sunumda Sivas'tan bahsedilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 69,
+      "question": "XVIII. yüzyıldan sonra önemli bir meslek disiplini sağlayan ve her zanaatkarın kendi loncasına yazılmak zorunda olduğu birlik hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ahilik",
+          "rationale": "Ahilik daha erken dönemde, XIII. yüzyılda ortaya çıkmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Loncalar",
+          "rationale": "73. sayfada 'XVIII. yüzyıldan sonra önemli bir meslek disiplini sağlayan bir diğer birlik ise loncalardır' denilmekte ve özellikleri anlatılmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vakıflar",
+          "rationale": "Vakıflar sosyal yardım ve hizmet kurumlarıdır, meslek birlikleri değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarikatlar",
+          "rationale": "Tarikatlar dini yapılardır, meslek birlikleri değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dernekler",
+          "rationale": "Bu modern bir tanımdır, o dönemdeki yapı loncalardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 70,
+      "question": "Aşağıdakilerden hangisi Ahiliğin amaçlarından biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Üretilen malların kalitesini korumak.",
+          "rationale": "Bu, 77. sayfada belirtilen bir amaçtır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üretim hacmini gereksinime göre ayarlamak.",
+          "rationale": "Bu, 77. sayfada belirtilen bir amaçtır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş ahlakını yerleştirmek.",
+          "rationale": "Bu, 77. sayfada belirtilen bir amaçtır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Türk halkının ekonomik bağımsızlığını tesis etmek.",
+          "rationale": "Bu, 77. sayfada belirtilen bir amaçtır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimum kâr elde etmek için rekabeti ortadan kaldırmak.",
+          "rationale": "Ahilikte amaç fahiş kâr değil, kaliteli üretim, adil kazanç ve tüketiciyi korumaktır. Rekabeti yok etmekten çok düzenlemeyi amaçlar.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 71,
+      "question": "Turizmde etik dışı davranışlara örnek olabilecek durum hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Turiste yerel kültür hakkında doğru bilgi vermek",
+          "rationale": "Bu, etik bir davranıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anlaşmada belirtilen hizmetleri eksiksiz sunmak",
+          "rationale": "Bu, etik ve profesyonel bir davranıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turistleri aldatmamak ve dürüst olmak",
+          "rationale": "4. sayfada bu davranışlar, olumlu etkileşim için gerekli etik davranışlar olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek komisyon almak için turisti belirli dükkanlara yönlendirmek",
+          "rationale": "Bu, turisti aldatmaya ve dürüst olmamaya girer ve sunumun genel ruhuna göre etik dışı bir davranıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çevreye saygılı turizm faaliyetleri düzenlemek",
+          "rationale": "Bu, sosyal yaşam etiği kapsamında değerlendirilebilecek olumlu bir davranıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 72,
+      "question": "20. sayfada ahlak, bir insan topluluğunun neyi olarak tanımlanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "En yüksek refah seviyesi",
+          "rationale": "Refah bir sonuç olabilir, ancak tanım bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Asgari düzeydeki ortak paydası",
+          "rationale": "20. sayfada 'Ahlak bir insan topluluğunun asgari düzeydeki ortak paydasını oluşturur' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yönetim şekli",
+          "rationale": "Bu siyasi bir kavramdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik üretim biçimi",
+          "rationale": "Bu ekonomik bir kavramdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hukuki yaptırım gücü",
+          "rationale": "Bu hukukun özelliğidir, ahlakın değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 73,
+      "question": "Kural etiğine göre yazılı olmayan ancak toplum içinde kökleşmiş kurallara uymayanlar ne gibi bir sonuçla karşılaşabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hapis cezası",
+          "rationale": "Hapis cezası, yazılı hukuk kurallarını ihlal edenlere verilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Para cezası",
+          "rationale": "Para cezası, yazılı hukuk kurallarını ihlal edenlere verilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplum tarafından dışlanma",
+          "rationale": "31. sayfada, bu kurallara uymayanların 'toplum tarafından dışlanmaya kadar sonuçlarla karşılaşabilirler' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hiçbir sonuçla karşılaşmazlar",
+          "rationale": "Sunumda hukuki bir yaptırım olmasa da toplumsal bir yaptırım olduğu belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece ilahi ceza",
+          "rationale": "Bu dini bir kavramdır, sunumda toplumsal yaptırım vurgulanmıştır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 74,
+      "question": "Bireyin karşılaştığı özel durumlarda doğru kararlar vermesinde kişisel etiğin sağladığı en büyük yarar nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Her zaman en kârlı kararı vermesini sağlamak",
+          "rationale": "Kişisel etik kârdan çok vicdani doğruluğa odaklanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplumun beklentilerine göre hareket etmesini sağlamak",
+          "rationale": "Bu daha çok toplumsal sözleşme etiğinin alanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gereksinim duyduğu gücü kendi vicdanından almasını sağlamak",
+          "rationale": "38. sayfada '...gereksinim duyduğu gücü, kendi vicdanından almasını sağlayarak, bireyin karşılaştığı özel durumlarda doğru kararlar vermesinde yarar sağlayabilir' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yasalara harfiyen uymasını sağlamak",
+          "rationale": "Bu kural etiğinin alanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karar verme sürecini hızlandırmak",
+          "rationale": "Vicdani bir sorgulama süreci yavaşlatabilir de. Temel yarar bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 75,
+      "question": "Sunumda, 'Öz Değerlerimiz' şemasında yer alan değerlerden biri aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Zenginlik",
+          "rationale": "11. sayfadaki şemada zenginlik bir öz değer olarak yer almamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Popülerlik",
+          "rationale": "11. sayfadaki şemada popülerlik bir öz değer olarak yer almamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güç",
+          "rationale": "11. sayfadaki şemada güç bir öz değer olarak yer almamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adalet",
+          "rationale": "11. sayfadaki 'ÖZ DEĞERLERİMİZ' şemasında 'Adalet' açıkça yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İtaat",
+          "rationale": "11. sayfadaki şemada itaat bir öz değer olarak yer almamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 76,
+      "question": "Türkiye'de çeşitli mesleklere ait standart meslek ilkeleri bulunduğu belirtilmiştir. Aşağıdakilerden hangisi bu örneklere dahil değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "TÜRSAB Seyahat Acenteliği Meslek İlkeleri",
+          "rationale": "69. sayfada bu örnek verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bankacılık Etik İlkeleri",
+          "rationale": "69. sayfada bu örnek verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hekimlik Meslek Etiği Kuralları",
+          "rationale": "69. sayfada bu örnek verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gazetecilik Meslek İlkeleri",
+          "rationale": "69. sayfada bu örnek verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Öğretmenlik Meslek Andı",
+          "rationale": "69. sayfada verilen listede öğretmenlikle ilgili bir ilkeden bahsedilmemiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 77,
+      "question": "Meslek etiğinin en önemli yararlarından biri olarak ne belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Meslek üyelerinin daha fazla para kazanmasını sağlamak.",
+          "rationale": "Bu bir sonuç olabilir ama en önemli yarar olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aynı meslekte çalışanların dünyanın neresinde olursa olsun aynı davranış kurallarına uymasının gerekliliği.",
+          "rationale": "68. sayfada 'Meslek etiğinin en önemli yararlarından biri, dünyanın neresinde olursa olsun, aynı meslekte çalışan bireylerin bu davranış kurallarına uygun davranmalarının gerekli olmasıdır' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mesleğe yeni başlayanları caydırmak.",
+          "rationale": "Amaç caydırmak değil, mesleğin standartlarını ve saygınlığını korumaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meslek dışındaki kişilerin eleştirilerinden korunmak.",
+          "rationale": "Aksine, meslek etiğinin meslek çevresi dışında çok tepki görmediği belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hükümet denetimini artırmak.",
+          "rationale": "Meslek etiği genellikle özdüzenleme mekanizmasıdır, devlet denetimini artırmak için oluşturulmaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 78,
+      "question": "Ahlak ve hukuk kurallarının her ikisinin de dayandığı ortak temel nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yazılı metinler",
+          "rationale": "Sadece hukuk yazılı metinlere dayanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Devlet gücü",
+          "rationale": "Sadece hukuk devlet gücüyle desteklenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Değer yargıları",
+          "rationale": "35. sayfada 'Her hukuk kuralı bir değer yargısına dayanır' denirken, ahlakın da temelinde iyi-kötü, doğru-yanlış gibi değer yargıları olduğu sunumun genelinden anlaşılmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Evrensel ilkeler",
+          "rationale": "Evrensellik daha çok etik kavramıyla ilişkilidir, ahlak ve hukuk genellikle toplumsaldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik çıkarlar",
+          "rationale": "Her ikisi de ekonomik çıkarları düzenlese de, temelleri ahlaki ve toplumsal değerlerdir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 79,
+      "question": "İş etiğinin tarihsel gelişim sürecinde gelecekte işletmeler için bir zorunluluk haline geleceği belirtilen durum nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Teknolojiyi en üst düzeyde kullanmak",
+          "rationale": "Bu önemli bir rekabet unsuru olsa da, etik zorunluluk olarak belirtilen bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etik davranışları kurumsal zemine oturtmak",
+          "rationale": "61. sayfada '...etik davranışları kurumsal zemine oturtmak zorunluluğu tüm işletmeler için bir zorunluluk halini alacaktır' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece dış müşterilerin tatminini sağlamak",
+          "rationale": "Sunumda hem iç hem de dış müşterilerin tatmininden bahsedilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm kararları yapay zekaya bırakmak",
+          "rationale": "Sunumda böyle bir gelecek öngörüsü yer almamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Global pazarlara açılmak",
+          "rationale": "Bu stratejik bir hedef olabilir, ancak etik bir zorunluluk olarak belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 80,
+      "question": "Ahilikte, usta tarafından icat edilen bir ürünün patentinin sadece o ustaya verilmesi ve taklit edilememesi hangi ilkeyi yansıtır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fikri mülkiyet haklarına saygı",
+          "rationale": "82. sayfada anlatılan bu uygulama, günümüzdeki patent ve fikri mülkiyet haklarının tarihsel bir öncülüdür ve bu haklara saygıyı gösterir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Serbest piyasa rekabeti",
+          "rationale": "Bu durum, tekel hakkı vererek serbest rekabeti sınırlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kolektif üretim",
+          "rationale": "Bu, bireysel yaratıcılığı ve hakkı koruyan bir uygulamadır, kolektif üretimi değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Devlet kontrolü",
+          "rationale": "Bu, devletten çok meslek örgütünün kendi iç düzenlemesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sınırsız taklit özgürlüğü",
+          "rationale": "Bu uygulama tam olarak taklit etmeyi yasaklamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 81,
+      "question": "Shea'ya göre etik kavramıyla ifade edilen ahlak, aşağıdakilerden hangisini kapsamaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bir ahlaki ilkeler grubunu ya da değerler dizisini",
+          "rationale": "15. sayfadaki tanıma göre bu kapsama dahildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Belirli bir teoriyi ya da ahlaki değerler sistemini",
+          "rationale": "15. sayfadaki tanıma göre bu kapsama dahildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir birey ya da mesleği yöneten davranış ilkelerini ve standartlarını",
+          "rationale": "15. sayfadaki tanıma göre bu kapsama dahildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğru veya yanlışın ne olduğuyla ilgilenmeyi",
+          "rationale": "15. sayfada disiplinin bununla ilgilendiği belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece yasalara uygun olup olmamayı",
+          "rationale": "Shea'nın tanımı ahlaki ödev, sorumluluk, ilkeler ve standartlara odaklanır. Bu, yasallığın ötesinde bir kavramdır. Tanımda yasallık bir unsur olarak belirtilmemiştir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 82,
+      "question": "Ahilikte 9 aşamalı meslek sıralamasının en son aşaması ve unvanı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yiğitlik",
+          "rationale": "Bu, ilk üç aşamadan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çıraklık",
+          "rationale": "Bu, ilk üç aşamadan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ustalık",
+          "rationale": "Bu, orta aşamalardan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Halife",
+          "rationale": "Bu, son aşamadan önceki aşamalardan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahi baba (Şeyh-ül Meşayıh)",
+          "rationale": "85. sayfada 'Ahilikte en son aşama olan 9. aşamada Ahi baba (Şeyh-ül Meşayıh) ünvanı alınırdı' denilmektedir.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "questionNumber": 83,
+      "question": "Etik kavramı, 6. sayfadaki bir görüşe göre neyin düşünülmesidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece kişisel çıkarların",
+          "rationale": "Bu etik bir yaklaşımdan çok egoist bir yaklaşımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğru ve yanlışın ahlaki ilkeler ve değerler doğrultusunda düşünülmesi",
+          "rationale": "6. sayfada 'Bir görüşe göre etik, doğru ve yanlışın ahlaki ilkeler ve değerler doğrultusunda düşünülmesidir' ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Toplumsal tabuların sorgulanmadan kabul edilmesi",
+          "rationale": "Etik, felsefi bir sorgulama içerir, sorgusuz kabulü değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yasalara uymanın yeterli olup olmadığının",
+          "rationale": "Bu, etiğin bir konusudur ancak tanımın tamamı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutluluğa nasıl ulaşılacağının",
+          "rationale": "Bu, faydacılık gibi bazı etik teorilerin odak noktasıdır, ancak genel tanım bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 84,
+      "question": "Ahlak, iyi ya da kötü olarak kabul edilen davranışları belirleyen ne tür kurallar bütünüdür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Devlet tarafından konulan yazılı kurallar",
+          "rationale": "Bu hukukun tanımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uluslararası anlaşmalarla belirlenen kurallar",
+          "rationale": "Bu uluslararası hukukun alanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yazısız kurallar bütünü",
+          "rationale": "12. sayfada Ahlak, '...belirleyen yazısız kurallar bütünüdür' şeklinde tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece dini metinlerde yer alan kurallar",
+          "rationale": "Ahlak sadece dini metinlerle sınırlı değildir, toplumsal ve kültüreldir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mantık ve matematikle ispatlanmış kurallar",
+          "rationale": "Ahlaki kurallar ispatlanamaz, değer yargılarına dayanır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 85,
+      "question": "Hukuk kurallarının yaptırım gücü kim tarafından korunur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Toplum tarafından",
+          "rationale": "Toplum ahlaki kuralların yaptırımını uygular (dışlama vb.).",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireyin vicdanı tarafından",
+          "rationale": "Bu kişisel etiğin yaptırımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Devlet tarafından",
+          "rationale": "36. sayfada 'Hukuk kurallarının yaptırım gücü fazladır. Bu güç devlet tarafından korunur' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uluslararası mahkemeler tarafından",
+          "rationale": "Bu sadece uluslararası hukuk için geçerlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meslek örgütleri tarafından",
+          "rationale": "Meslek örgütleri meslek etiği kurallarının yaptırımını uygular.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 86,
+      "question": "Bireyin ahlaki alt yapısını temel alan ve toplum içindeki bireysel duruşunu belirleyen etik türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişisel etik",
+          "rationale": "38. sayfada 'Kişisel etik, kişinin toplum içerisindeki bireysel duruşunu belirler. Bu etik anlayış bireyin ahlaki alt yapısını temel alır' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kural etiği",
+          "rationale": "Kural etiği, standartlara ve yasalara uymakla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sosyal yaşam etiği",
+          "rationale": "Sosyal yaşam etiği, başkalarıyla olan ilişkilerdeki kurallarla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş etiği",
+          "rationale": "İş etiği, iş hayatındaki davranışlarla ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meslek etiği",
+          "rationale": "Meslek etiği, belirli bir mesleğin kurallarıyla ilgilidir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 87,
+      "question": "Çocuğun anne ve babasının tutumlarını, sevgi ve saygılarını örnek alarak öğrendiği ahlaki ve kültürel özellikler hangi mekanizmayla gerçekleşir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Zorlama",
+          "rationale": "Sunumda zorlamadan bahsedilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cezalandırma",
+          "rationale": "Sunumda bu mekanizmadan bahsedilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Taklit",
+          "rationale": "46. sayfada '...çocuklar, anne-babanın birçok kişilik özelliklerini, ahlâki ve kültürel özelliklerini taklit ederek öğrenirler' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Resmi eğitim",
+          "rationale": "Bu, aile içinde gerçekleşen gayriresmi bir öğrenmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Genetik aktarım",
+          "rationale": "Bu, öğrenilen bir davranıştır, genetik olarak aktarılmaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 88,
+      "question": "İş etiğinin, işletmenin çıkar gruplarıyla kurduğu ilişkilerin temeli ne olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kâr",
+          "rationale": "Kâr bir sonuçtur, ilişkinin temeli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güven",
+          "rationale": "62. sayfada 'İş etiği, işletmenin çıkar gruplarıyla güvene dayalı ilişkiler kurabilmesi...' için önemli olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rekabet",
+          "rationale": "Rekabet bir durumdur, ilişkinin temeli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sözleşme",
+          "rationale": "Sözleşme ilişkinin hukuki boyutudur, etik temeli güvendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiyerarşi",
+          "rationale": "Hiyerarşi örgüt yapısıyla ilgilidir, ilişkilerin temeli değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 89,
+      "question": "Ahi kültüründe altı temel ahlak öğretisine göre 'Kapı' kime açık olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kardeşlere",
+          "rationale": "Kardeşlere 'kese' açık olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bütün fukaralara",
+          "rationale": "Fukaralara 'sofra' açık olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konuklara",
+          "rationale": "84. sayfada 'Kapı; konuklara' açık olmalıdır denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece zenginlere",
+          "rationale": "Bu, Ahilik felsefesine tamamen aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eleştiriye",
+          "rationale": "Bu mecazi bir anlamdır, metinde somut olarak konuklar belirtilmiştir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 90,
+      "question": "Ahilikte çıraklık, kalfalık, ustalık gibi meslek basamakları neyin altına alınırdı?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Devletin denetimi",
+          "rationale": "Devletten çok meslek örgütünün kendi iç yapısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Disiplin",
+          "rationale": "73. sayfada '...meslek basamaklarını disiplin altına alır ve bunların yetişmesine rehberlik ederdi' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ailenin onayı",
+          "rationale": "Aile onayı önemli olsa da, süreç disiplin altında yürütülürdü.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rastlantısal bir süreç",
+          "rationale": "Bu süreç rastlantısal değil, oldukça yapılandırılmış ve disiplinlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece ustanın keyfiyeti",
+          "rationale": "Süreç, ustanın keyfiyetine değil, loncanın disiplin ve kurallarına bağlıydı.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 91,
+      "question": "Etik kavramı, 6. sayfadaki ikinci görüşe göre neyin sistematik olarak incelendiği bir disiplindir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece doğru ve yanlışın",
+          "rationale": "Bu eksik bir ifadedir, tanımda başka unsurlar da vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğru ve yanlışın, iyi ve kötünün, erdem ve erdemsizliğin",
+          "rationale": "6. sayfada 'Diğer bir görüşe göre de etik; doğru ve yanlışın, iyi ve kötünün, erdem ve erdemsizliğin sistematik olarak incelendiği bir disiplindir' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece erdem ve erdemsizliğin",
+          "rationale": "Bu eksik bir ifadedir, tanımda başka unsurlar da vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece iyi ve kötünün",
+          "rationale": "Bu eksik bir ifadedir, tanımda başka unsurlar da vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece güzellik ve çirkinliğin",
+          "rationale": "Bu estetik felsefesinin konusudur, etiğin değil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 92,
+      "question": "Sunuma göre 'öz değerler' nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece maddi varlıklar",
+          "rationale": "Öz değerler genellikle manevi ve ahlaki kavramlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişinin hayatta önemli bulduğu değerler",
+          "rationale": "10. sayfadaki 'Sizin için hayatta önemli olan değerler nelerdir?' sorusu, öz değerlerin bu anlama geldiğini ima etmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Toplum tarafından dayatılan kurallar",
+          "rationale": "Öz değerler daha çok kişisel ve içselleştirilmiş kavramlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yasal zorunluluklar",
+          "rationale": "Bu hukukun alanıdır, kişisel değerlerin değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geçici hevesler",
+          "rationale": "Öz değerler genellikle daha kalıcı ve temel inançlardır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 93,
+      "question": "Hukuka ters davranış her zaman ne ile karşılaşır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Toplumsal dışlanma",
+          "rationale": "Bu daha çok ahlaki kurallara uymamanın bir sonucudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vicdan azabı",
+          "rationale": "Bu, kişisel etiğin bir sonucudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir yaptırımla (hapis, para cezası vb.)",
+          "rationale": "34. sayfada 'Hukuka ters davranış her zaman bir yaptırımla karşılaşır. Hapis, para cezası, uzaklaştırma, meslekten men edilme vb. gibi' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece uyarı",
+          "rationale": "Yaptırımlar uyarıdan çok daha ciddi olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiçbir şeyle",
+          "rationale": "Hukuk sisteminin temel özelliği, ihlallerin bir yaptırımla karşılaşmasıdır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 94,
+      "question": "Hukuk kurallarının çoğu kez ne şekilde olduğu belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece izinler şeklinde",
+          "rationale": "İzinlerin yanı sıra yasaklamalar da vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece yasaklamalar şeklinde",
+          "rationale": "Yasaklamaların yanı sıra izinler de vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olumlu ya da olumsuz emirler şeklinde",
+          "rationale": "36. sayfada 'Hukuk kuralları çoğu kez olumlu ya da olumsuz emirler şeklindedir' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tavsiyeler şeklinde",
+          "rationale": "Hukuk kuralları tavsiye değil, emirdir ve yaptırımı vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece cezalar şeklinde",
+          "rationale": "Cezalar, kuralların ihlali durumunda uygulanır. Kuralın kendisi bir emir veya yasaktır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 95,
+      "question": "Arkadaşların birey üzerindeki etkisine verilen örnekte, arkadaşları hırsızlık gibi faaliyetlerle ilgilenen bir bireyin nasıl davranabileceği öngörülmüştür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kesinlikle bu faaliyetlerden uzak durur.",
+          "rationale": "Bu bir olasılıktır ancak sunumdaki öngörü bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kendisi de bu faaliyetlere ilgi duyabilir.",
+          "rationale": "51. sayfada '...bireyin kendisi de bu faaliyetlere ilgi duyabilir' denilerek bu öngörüde bulunulmuştur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arkadaşlarını polise ihbar eder.",
+          "rationale": "Bu bir seçenektir ama sunumda belirtilen etki bu yönde değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arkadaşlarıyla ilişkisini hemen keser.",
+          "rationale": "Bu da bir seçenektir ama sunumda belirtilen etki bu yönde değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bu durumdan hiç etkilenmez.",
+          "rationale": "Sunum, arkadaşların tutum ve düşüncelerinin bireyler üzerinde etkili olduğunu vurgulamaktadır.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 96,
+      "question": "İşletme etiği, müşterilere sunulan mal ve hizmetlerin yanında neleri de kapsar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece hissedarların kârını",
+          "rationale": "Bu kapsanan alanlardan sadece biridir ve eksiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece çalışanların maaşlarını",
+          "rationale": "Bu kapsanan alanlardan sadece biridir ve eksiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerel yönetimleri, tedarikçileri ve çevreyi",
+          "rationale": "64. sayfada '...yerel yönetimleri, tedarikçileri ve çevreyi de kapsamaktadır' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece reklam ve pazarlama faaliyetlerini",
+          "rationale": "Bu kapsanan alanlardan sadece biridir ve eksiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece üst yönetimin kararlarını",
+          "rationale": "Bu kapsanan alanlardan sadece biridir ve eksiktir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 97,
+      "question": "Meslek etiğinin uygulanmasında işlenen kusurların meslek çevresi dışında çok fazla tepki görmemesinin temel nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bu kusurların önemsiz olması",
+          "rationale": "Kusurlar meslek için önemli olabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bu ilkelerin toplumun bütünü arasında ortak olmaması",
+          "rationale": "68. sayfada 'Bunun temel nedeni, bu ilkelerin toplumun bütünü arasında ortak olmamasına bağlanabilir' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İnsanların bu konulara ilgisiz olması",
+          "rationale": "İlgisizlik bir sonuçtur, temel neden ise ilkelerin mesleğe özgü olmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yasalarda bu kusurlar için ceza olmaması",
+          "rationale": "Yasal ceza olmaması hukuki bir durumdur, toplumsal tepkisizliğin nedeni ilkelerin özgüllüğüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Medyanın bu kusurları haber yapmaması",
+          "rationale": "Bu bir etken olabilir, ancak sunumda belirtilen temel neden bu değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 98,
+      "question": "Ahilikte birliğe, töreye ve yasalara karşı gelen bir zanaatkâra ne olurdu?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece uyarılırdı.",
+          "rationale": "Uyarı ilk aşama olabilir, ancak daha ağır yaptırımlar da vardı.",
+          "isCorrect": false
+        },
+        {
+          "text": "Loncasına başkan yapılırdı.",
+          "rationale": "Bu mantığa aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Loncadan çıkarılır ve elinden meslek belgeleri alınırdı.",
+          "rationale": "73. sayfada '...karşı gelenler loncadan çıkarılır ve ellerinden meslek belgeleri alınırdı' denilmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Daha fazla vergi ödemek zorunda kalırdı.",
+          "rationale": "Yaptırım vergiden çok meslekten men etme şeklindeydi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiçbir şey olmazdı.",
+          "rationale": "Sunum, Ahilik ve Loncaların sıkı bir disipline sahip olduğunu göstermektedir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 99,
+      "question": "Ahlakın, insanların birbirleriyle veya devletle olan ilişkilerindeki rolü nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İlişkileri tamamen ortadan kaldırmak",
+          "rationale": "Ahlak ilişkileri düzenler, ortadan kaldırmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Toplum düzenini sağlayan bir kurallar ve normlar bütünü olmak",
+          "rationale": "14. sayfada '...kendilerinden yapmaları istenen davranışlarla toplum düzenini sağlayan bir kurallar ve normlar bütünüdür' şeklinde tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece devletin bireyler üzerindeki gücünü artırmak",
+          "rationale": "Ahlak, bireyler arası ilişkileri de düzenler, sadece devlet-birey ilişkisini değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bireysel özgürlükleri tamamen kısıtlamak",
+          "rationale": "Ahlak, düzen sağlarken bireysel özgürlüklere bir çerçeve çizer, tamamen kısıtlamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekonomik ilişkileri düzenlemek",
+          "rationale": "Ahlak ekonomik ilişkileri de etkiler, ancak rolü bununla sınırlı değildir.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "questionNumber": 100,
+      "question": "'Etik kavramı; iyi ile kötünün, doğru ile yanlışın arasında fark olduğunu, bu farklılıkları ayırt ederek, elimizden gelenin en iyisini ve her zaman doğru olanı yapmamız gerektiğini ifade eder.' Bu tanım hangi sayfada yer almaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sayfa 3",
+          "rationale": "3. sayfa turizmin belirgin özelliğinden bahseder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sayfa 6",
+          "rationale": "Bu tanım, 6. sayfanın sonunda açıkça yer almaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sayfa 9",
+          "rationale": "9. sayfa etik ve ahlakı teori-pratik olarak ayırır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sayfa 21",
+          "rationale": "21. sayfa etik ve ahlak arasındaki farkları tablo halinde gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sayfa 72",
+          "rationale": "72. sayfa Ahiliğin gelişiminden bahseder.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
