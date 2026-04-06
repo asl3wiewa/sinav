@@ -1,0 +1,4470 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Kat hizmetlerinde temizlik araç ve gereçleri genel olarak kaç ana başlık altında toplanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "2", "rationale": "Eksik sınıflandırmadır.", "isCorrect": false},
+        {"text": "3", "rationale": "Eksik sınıflandırmadır.", "isCorrect": false},
+        {"text": "4", "rationale": "Doğru cevap; kaplar, fırçalar, bezler ve diğer araçlar olarak ayrılır.", "isCorrect": true},
+        {"text": "5", "rationale": "Fazla sayıda verilmiştir.", "isCorrect": false},
+        {"text": "6", "rationale": "Yanlıştır.", "isCorrect": false}
+      ],
+      "hint": "Ana başlıkları hatırla."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi kaplar grubuna girmez?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kova", "rationale": "Kaplara girer.", "isCorrect": false},
+        {"text": "Leğen", "rationale": "Kaplara girer.", "isCorrect": false},
+        {"text": "Faraş", "rationale": "Kaplar grubuna dahildir.", "isCorrect": false},
+        {"text": "Malzeme kutusu", "rationale": "Kaplar grubuna girer.", "isCorrect": false},
+        {"text": "Mop", "rationale": "Bez grubundadır.", "isCorrect": true}
+      ],
+      "hint": "Kap olmayanı bul."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Mobilya fırçalarının özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Uzun saplı ve serttir", "rationale": "Yanlış özellik.", "isCorrect": false},
+        {"text": "Kısa saplı ve yumuşaktır", "rationale": "Doğru cevap.", "isCorrect": true},
+        {"text": "Uzun saplı ve yumuşaktır", "rationale": "Duvar fırçasıdır.", "isCorrect": false},
+        {"text": "Kısa saplı ve serttir", "rationale": "Halı fırçasıdır.", "isCorrect": false},
+        {"text": "Sapı yoktur", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Hassas yüzeyleri düşün."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Zemin fırçalarının özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kısa saplı, yumuşak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Uzun saplı, sert", "rationale": "Doğru cevap.", "isCorrect": true},
+        {"text": "Kısa saplı, sert", "rationale": "Halı fırçasıdır.", "isCorrect": false},
+        {"text": "Uzun saplı, yumuşak", "rationale": "Duvar fırçasıdır.", "isCorrect": false},
+        {"text": "Sapsız", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Yer temizliği düşün."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi temizlik bezlerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Toz bezi", "rationale": "Bezdir.", "isCorrect": false},
+        {"text": "Güderi", "rationale": "Bezdir.", "isCorrect": false},
+        {"text": "Cam bezi", "rationale": "Bezdir.", "isCorrect": false},
+        {"text": "Yer bezi", "rationale": "Bezdir.", "isCorrect": false},
+        {"text": "Fırça", "rationale": "Fırça grubundadır.", "isCorrect": true}
+      ],
+      "hint": "Bez olmayanı seç."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Aşağıdakilerden hangisi elektrikli temizlik araçlarından biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kova", "rationale": "Elektrikli değildir.", "isCorrect": false},
+        {"text": "Faraş", "rationale": "Elektrikli değildir.", "isCorrect": false},
+        {"text": "Cila makinesi", "rationale": "Elektrikli bir araçtır.", "isCorrect": true},
+        {"text": "Bez", "rationale": "Elektrikli değildir.", "isCorrect": false},
+        {"text": "Fırça", "rationale": "Elektrikli değildir.", "isCorrect": false}
+      ],
+      "hint": "Makine olanı düşün."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Elektrikli temizlik araçları seçilirken nelere dikkat edilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Ağır olmasına", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Ses çıkarmasına", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fazla ses çıkarmamasına", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Renkli olmasına", "rationale": "Önemsiz.", "isCorrect": false},
+        {"text": "Büyük olmasına", "rationale": "Önemsiz.", "isCorrect": false}
+      ],
+      "hint": "Misafir rahatsızlığı."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Temizlik araçlarının seçimini etkileyen faktörlerden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Hizmet düzeyi", "rationale": "Etkiler.", "isCorrect": false},
+        {"text": "Mali imkanlar", "rationale": "Etkiler.", "isCorrect": false},
+        {"text": "İhtiyaç", "rationale": "Etkiler.", "isCorrect": false},
+        {"text": "Personelin boyu", "rationale": "Genel kriter değildir.", "isCorrect": true},
+        {"text": "İşletme durumu", "rationale": "Etkiler.", "isCorrect": false}
+      ],
+      "hint": "Genel kriterleri düşün."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Temizlik aracında en önemli özellik nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Pahalı olması", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Amaca uygun olması", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Büyük olması", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Renkli olması", "rationale": "Önemsiz.", "isCorrect": false},
+        {"text": "Markalı olması", "rationale": "Önemsiz.", "isCorrect": false}
+      ],
+      "hint": "En kritik kriter."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Temizlik araçlarında sağlamlık neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Daha güzel görünmesi için", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Uzun süre kullanılabilmesi için", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Ağır olması için", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Ucuz olması için", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Renkli olması için", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Dayanıklılık."
+    },
+    {
+      "questionNumber": 11,
+      "question": "İşgücü kaybına neden olmayan araç nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Ağır olmalı", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kullanımı zor olmalı", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kolay kullanılabilir olmalı", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Büyük olmalı", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sabit olmalı", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Pratiklik."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Araçların bakımında dikkat edilmesi gereken nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Bakım yapılmaması", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Düzenli bakım yapılması", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Yılda bir yapılması", "rationale": "Yetersiz.", "isCorrect": false},
+        {"text": "Sadece arızalanınca yapılması", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Hiç kullanılmaması", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Süreklilik."
+    },
+
+    {
+      "questionNumber": 13,
+      "question": "Plastik malzemeler temizlik sonrası nasıl temizlenmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Soğuk suyla", "rationale": "Eksik.", "isCorrect": false},
+        {"text": "Sıcak suyla", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Temizlenmez", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Bezle silinir", "rationale": "Eksik.", "isCorrect": false},
+        {"text": "Kurutulmaz", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Hijyen."
+    },
+
+    {
+      "questionNumber": 14,
+      "question": "Fırçalar nasıl bırakılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kılları yere değecek şekilde", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kılları yukarıda olacak şekilde", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Yere atılarak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Islak bırakılarak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kapalı kutuda", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Kıl deformasyonu."
+    },
+
+    {
+      "questionNumber": 15,
+      "question": "Halı fırçasının özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Uzun saplı yumuşak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kısa saplı sert", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Uzun saplı sert", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kısa saplı yumuşak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sapsız", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Halı temizliği."
+    },
+
+    {
+      "questionNumber": 16,
+      "question": "Radyatör fırçasının özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Uzun saplı sert", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kısa saplı yumuşak", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Uzun saplı yumuşak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kısa saplı sert", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sapsız", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Dar alan."
+    },
+
+    {
+      "questionNumber": 17,
+      "question": "Duvar fırçasının özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kısa saplı sert", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Uzun saplı yumuşak", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Kısa saplı yumuşak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Uzun saplı sert", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sapsız", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Duvar temizliği."
+    },
+
+    {
+      "questionNumber": 18,
+      "question": "Mop hangi gruba girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kaplar", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fırçalar", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Bezler", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Makine", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Araç değil", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Yer temizliği."
+    },
+
+    {
+      "questionNumber": 19,
+      "question": "Halı şampuanlama makinesi hangi gruptadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Bez", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kap", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Elektrikli araç", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Fırça", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Manuel araç", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Makine."
+    },
+
+    {
+      "questionNumber": 20,
+      "question": "Temizlik araçlarının performansı neden düşer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yeni olduğu için", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Toz ve kir birikmesi nedeniyle", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Renk değiştiği için", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kullanılmadığı için", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Ucuz olduğu için", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Bakım eksikliği."
+    },
+
+    {
+      "questionNumber": 21,
+      "question": "Temizlik araçları kaç kişi tarafından kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece bir kişi", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Birden fazla kişi", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Hiç kimse", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sadece yönetici", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sadece temizlikçi", "rationale": "Eksik.", "isCorrect": false}
+      ],
+      "hint": "Ortak kullanım."
+    },
+
+    {
+      "questionNumber": 22,
+      "question": "Temizlik araçlarının garanti süresi neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Renk için", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Tamir kolaylığı için", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Ağırlık için", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Büyüklük için", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fiyat için", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Servis."
+    },
+
+    {
+      "questionNumber": 23,
+      "question": "Aşağıdakilerden hangisi temizlik bezlerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kürek", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Cam bezi", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Fırça", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Makine", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kova", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Cam temizliği."
+    },
+
+    {
+      "questionNumber": 24,
+      "question": "Temizlik araçları neden günlük temizlenmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Görünüm için", "rationale": "Eksik.", "isCorrect": false},
+        {"text": "Performans düşmemesi için", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Ağırlaşması için", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Renk değiştirmesi için", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kırılması için", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Verimlilik."
+    },
+
+    {
+      "questionNumber": 25,
+      "question": "Temizlik araçlarında bakım yapılmazsa ne olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Daha iyi çalışır", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Performansı düşer", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Daha ucuz olur", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Daha hafif olur", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Hiçbir şey olmaz", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Bakım = verim."
+    },
+
+    {
+      "questionNumber": 26,
+      "question": "Yatak çarşaflarının dayanıklılığını en çok belirleyen özellik hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Renginin açık olması",
+          "rationale": "Renk dayanıklılığı doğrudan etkilemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sık dokunmuş olması",
+          "rationale": "Sık dokuma kumaşlar daha dayanıklıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kalın olması",
+          "rationale": "Kalınlık her zaman dayanıklılık anlamına gelmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Desenli olması",
+          "rationale": "Desen estetikle ilgilidir, dayanıklılıkla değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "İnce olması",
+          "rationale": "İnce kumaşlar genelde daha az dayanıklıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Dokuma sıklığına dikkat et."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Hazır çarşaf alınırken aşağıdakilerden hangisine dikkat edilmez?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dikişlerin düzgün olması",
+          "rationale": "Bu önemli bir kriterdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İpliğin sağlamlığı",
+          "rationale": "Dayanıklılık için önemlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Baskı dikişlerinin sıklığı",
+          "rationale": "Bu da önemli bir kriterdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çarşafın kokusu",
+          "rationale": "Koku seçim kriteri değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kumaşın ütülenme özelliği",
+          "rationale": "Kullanım açısından önemlidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Teknik özelliklere odaklan."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Tek kişilik standart çarşaf ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "150x250 cm",
+          "rationale": "Bu standart değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "180x280-300 cm",
+          "rationale": "Doğru standart ölçüdür.",
+          "isCorrect": true
+        },
+        {
+          "text": "200x300 cm",
+          "rationale": "Genel standart değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "220x280 cm",
+          "rationale": "Çift kişiliğe yakındır.",
+          "isCorrect": false
+        },
+        {
+          "text": "160x240 cm",
+          "rationale": "Alternatif ölçüdür ama standart değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Tek kişilik ölçüyü hatırla."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Yastık kılıfının yastıktan biraz büyük olması ne sağlar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Daha ağır olmasını",
+          "rationale": "Ağırlıkla ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Renk uyumunu",
+          "rationale": "Renkle ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rahat çalışma ve kullanım kolaylığı",
+          "rationale": "Doğru cevap budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Daha pahalı olmasını",
+          "rationale": "Fiyatla ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha kalın olmasını",
+          "rationale": "Kalınlıkla ilgisi yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pratik kullanım düşün."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Aşağıdakilerden hangisi en kullanışlı yastık kılıfı tipidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Düğmeli",
+          "rationale": "Kullanışlı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağlamalı",
+          "rationale": "Zaman kaybettirir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zarf tipi",
+          "rationale": "En kullanışlı tiptir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fermuarlı",
+          "rationale": "Metinde geçmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lastikli",
+          "rationale": "Yastık kılıfı için uygun değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Gizli kapama sistemi düşün."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Aşağıdaki havlu türlerinden hangisi estetik ama emiciliği düşüktür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Pamuk",
+          "rationale": "Yumuşak ve emicidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Keten",
+          "rationale": "Dayanıklı ve emicidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kadife",
+          "rationale": "Estetik ama az emicidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sentetik",
+          "rationale": "Bu özellik verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yün",
+          "rationale": "Havlu için tipik değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Görünüş vs performans."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Havlu seçiminde en önemli kriter nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Renk",
+          "rationale": "İkincil faktördür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dayanıklılık",
+          "rationale": "En önemli kriterdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Desen",
+          "rationale": "Estetik faktördür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Marka",
+          "rationale": "Metinde yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiyat",
+          "rationale": "Belirleyici değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Uzun ömürlü kullanım."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Yatak örtülerinin temel kullanım amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Isıtmak",
+          "rationale": "Battaniye görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estetik görünüm sağlamak",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nem emmek",
+          "rationale": "Havluların görevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yastığı korumak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ses yalıtımı sağlamak",
+          "rationale": "Alakasızdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Dekoratif amaç."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Yatak örtüsü seçilirken hangi faktör önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Odanın genel dekorasyonu",
+          "rationale": "Uyum açısından önemlidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Odanın büyüklüğü",
+          "rationale": "İkincil faktördür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otelin adı",
+          "rationale": "Önemli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteri sayısı",
+          "rationale": "Alakasızdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personel sayısı",
+          "rationale": "Alakasızdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Uyum kavramı."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Battaniyeler aşağıdaki hangi malzemeden yapılmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yün",
+          "rationale": "Kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pamuk",
+          "rationale": "Kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Deve tüyü",
+          "rationale": "Kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cam",
+          "rationale": "Battaniye malzemesi değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tiftik",
+          "rationale": "Kullanılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Mantık kullan."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Yazlık otellerde battaniye yerine ne kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çarşaf",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pike",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Havlu",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nevresim",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yorgan",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yaz mevsimi düşün."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Muflonun amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Estetik sağlamak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yatağı korumak ve hijyen sağlamak",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Odayı süslemek",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Isı sağlamak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Koku vermek",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Şilte ile çarşaf arasına konur."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Aşağıdakilerden hangisi odada bulunması gereken temel eşyalardan biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yüzme havuzu",
+          "rationale": "Oda içinde olmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Televizyon",
+          "rationale": "Temel eşyadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Asansör",
+          "rationale": "Oda içinde değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Restoran",
+          "rationale": "Oda içinde değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spa",
+          "rationale": "Oda içinde değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Oda içi eşya."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Buklet malzemeleri nasıl ürünlerdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tek kullanımlık",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kalıcı",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elektronik",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Büyük ekipman",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mobilya",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kullan-at mantığı."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Aşağıdakilerden hangisi buklet malzemesi değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Şampuan",
+          "rationale": "Buklettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diş fırçası",
+          "rationale": "Buklettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Televizyon",
+          "rationale": "Buklet değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Terlik",
+          "rationale": "Buklettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dikiş seti",
+          "rationale": "Buklettir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Küçük kişisel ürünler."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Kit malzemelerinin amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Süsleme yapmak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilgilendirme sağlamak",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Temizlik yapmak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Isıtmak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Depolamak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bilgi verme."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Aşağıdakilerden hangisi kit malzemesidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Şampuan",
+          "rationale": "Buklettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oda servis menüsü",
+          "rationale": "Kit malzemesidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Terlik",
+          "rationale": "Buklettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sabun",
+          "rationale": "Buklettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Havlu",
+          "rationale": "Çamaşırdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bilgilendirme araçları."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Aşağıdakilerden hangisi buklet malzemelerinde bulunabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Otel logosu",
+          "rationale": "Tanıtım için kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Televizyon ekranı",
+          "rationale": "Alakasızdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mobilya etiketi",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yatak etiketi",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Perde markası",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Tanıtım unsuru."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Aşağıdakilerden hangisi oda donanımını etkileyen faktörlerden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Odanın mimari yapısı",
+          "rationale": "Etkiler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konfor",
+          "rationale": "Etkiler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otelin statüsü",
+          "rationale": "Etkiler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşterinin saç rengi",
+          "rationale": "Alakasızdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kalite",
+          "rationale": "Etkiler.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Mantık sorusu."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Yatak örtüsü hangi amaçla kullanılmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Estetik",
+          "rationale": "Kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tozdan koruma",
+          "rationale": "Kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Isıtma",
+          "rationale": "Battaniyenin görevidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Düzen sağlama",
+          "rationale": "Kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Görsel uyum",
+          "rationale": "Kullanılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Fonksiyon farkı."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Aşağıdakilerden hangisi havlu türlerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yüz havlusu",
+          "rationale": "Doğru türdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ayak havlusu",
+          "rationale": "Doğru türdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Banyo havlusu",
+          "rationale": "Doğru türdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Paspas havlusu",
+          "rationale": "Doğru türdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masa havlusu",
+          "rationale": "Bu tür yoktur.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Oda içi kullanım."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Pamuk havluların özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dayanıklı ama sert",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yumuşak ama daha az dayanıklı",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hiç su emmez",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece estetik amaçlıdır",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çok ağırdır",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Konfor vs dayanıklılık."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Keten havluların avantajı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yumuşak ama zayıf",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dayanıklı ve emici",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece dekoratif",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ağır ve sert",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ucuz",
+          "rationale": "Önemli kriter değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Performans odaklı."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Aşağıdakilerden hangisi çamaşır grubuna girmez?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çarşaf",
+          "rationale": "Girir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yastık kılıfı",
+          "rationale": "Girir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Havlu",
+          "rationale": "Girir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Televizyon",
+          "rationale": "Çamaşır değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Battaniye",
+          "rationale": "Girir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Tekstil vs elektronik."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Buklet ve kit malzemeleri arasındaki temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Buklet bilgi verir, kit temizlik yapar",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "Buklet tek kullanımlık, kit bilgilendirme amaçlıdır",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İkisi aynıdır",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kit temizlik ürünüdür",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        },
+        {
+          "text": "Buklet mobilyadır",
+          "rationale": "Yanlış.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kullanım amacı farkı."
+    },
+    {
+"questionNumber": 51,
+"question": "Kat hizmetlerinde temizlik ve bakım malzemelerinin temel amaçlarından biri aşağıdakilerden hangisi değildir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Kullanım alanına daha canlı bir görünüm kazandırmak",
+"rationale": "Bakım malzemelerinin bir kısmı kullanım alanına daha canlı bir görünüm kazandırır.",
+"isCorrect": false
+},
+{
+"text": "Yüzey veya eşyanın kullanım süresini uzatmak",
+"rationale": "Koruyucu özellik taşıyan bakım malzemeleri yüzey ve eşyanın kullanım süresini uzatır.",
+"isCorrect": false
+},
+{
+"text": "Temizlik sonucuna kolay yoldan ulaşılmasını sağlamak",
+"rationale": "Amaca uygun malzeme, istenen sonuca daha kolay ulaşılmasını sağlar.",
+"isCorrect": false
+},
+{
+"text": "Yüzeylerin doğal olarak daha hızlı kirlenmesini sağlamak",
+"rationale": "Temizlik ve bakım malzemeleri kirlenmeyi artırmak için değil, azaltmak ve kontrol etmek için kullanılır.",
+"isCorrect": true
+},
+{
+"text": "Uygun araçlarla yapılan temizliği desteklemek",
+"rationale": "Temizlik uygun araçlarla yapılır; doğru malzeme de bu süreci destekler.",
+"isCorrect": false
+}
+],
+"hint": "Temizlik ve bakım malzemeleri koruma, kolaylaştırma ve iyileştirme amacı taşır."
+},
+{
+"questionNumber": 52,
+"question": "Aşağıdakilerden hangisi katlarda kullanılan temizlik ve bakım malzemelerinin ana başlıklarından biri değildir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Sabunlar",
+"rationale": "Sabunlar, temel temizlik malzemeleri arasında sayılmıştır.",
+"isCorrect": false
+},
+{
+"text": "Dezenfektanlar",
+"rationale": "Dezenfektanlar, temizlik ve hijyen için kullanılan temel gruplardandır.",
+"isCorrect": false
+},
+{
+"text": "Koku gidericiler",
+"rationale": "Koku gidericiler, ana başlıklar arasında verilmiştir.",
+"isCorrect": false
+},
+{
+"text": "Yumuşatıcılar",
+"rationale": "Yumuşatıcılar da sayılan temizlik ve bakım malzemeleri arasındadır.",
+"isCorrect": false
+},
+{
+"text": "Elektrik süpürgeleri",
+"rationale": "Elektrik süpürgesi bir temizlik aracı olabilir; ancak bu slaytta temizlik ve bakım malzemesi başlığı altında verilmemiştir.",
+"isCorrect": true
+}
+],
+"hint": "Soru araç ile malzeme ayrımına dikkat etmeyi gerektiriyor."
+},
+{
+"questionNumber": 53,
+"question": "Temizlik maddelerini seçerken dikkat edilmesi gereken özelliklerden biri aşağıdakilerden hangisidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Keskin ve ağır kokulu olması",
+"rationale": "Slaytta temizlik maddesinin kötü kokulu olmaması gerektiği belirtilmiştir.",
+"isCorrect": false
+},
+{
+"text": "Yüzey ve cilde zarar vermesi",
+"rationale": "Doğru seçimde yüzey ve cilde zarar vermemesi gerekir.",
+"isCorrect": false
+},
+{
+"text": "Kimyasal olarak yumuşak olması",
+"rationale": "Seçim kriterleri arasında kimyasal olarak yumuşak olması özellikle vurgulanmıştır.",
+"isCorrect": true
+},
+{
+"text": "Etiketsiz ambalajla satılması",
+"rationale": "Etiketinde firma adı, içerik, kullanım talimatı ve koruyucu önlemler bulunmalıdır.",
+"isCorrect": false
+},
+{
+"text": "Raf ömrünün kısa olması",
+"rationale": "Aksine raf ömrünün uzun olması beklenir.",
+"isCorrect": false
+}
+],
+"hint": "Doğru cevap seçim kriterlerinde doğrudan yer alan olumlu bir özelliktir."
+},
+{
+"questionNumber": 54,
+"question": "Bir temizlik maddesinin etiketinde aşağıdakilerden hangisinin bulunması beklenmez?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Firma adı",
+"rationale": "Etikette firma adı bulunmalıdır.",
+"isCorrect": false
+},
+{
+"text": "Kullanma talimatı",
+"rationale": "Kullanma talimatı etiket üzerinde bulunması gereken temel unsurlardandır.",
+"isCorrect": false
+},
+{
+"text": "İçeriği",
+"rationale": "İçerik bilgisi etiket üzerinde yer almalıdır.",
+"isCorrect": false
+},
+{
+"text": "Koruyucu önlemler",
+"rationale": "Koruyucu önlemler de etikette yazılı olmalıdır.",
+"isCorrect": false
+},
+{
+"text": "Personel maaş çizelgesi",
+"rationale": "Bu bilgi ürün etiketiyle ilgili değildir ve temizlik maddesi etiketi üzerinde yer alması beklenmez.",
+"isCorrect": true
+}
+],
+"hint": "Etiket bilgileri ürünle ve güvenli kullanımla ilişkili olur."
+},
+{
+"questionNumber": 55,
+"question": "Kullanılacak deterjan miktarının belirlenmesinde aşağıdakilerden hangisi dikkate alınmaz?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Yüzeyin cinsi",
+"rationale": "Deterjan miktarını belirlerken yüzeyin cinsi dikkate alınır.",
+"isCorrect": false
+},
+{
+"text": "Yüzeyin büyüklüğü",
+"rationale": "Yüzey büyüklüğü kullanılacak miktarı etkiler.",
+"isCorrect": false
+},
+{
+"text": "Kirin eski veya yeni oluşu",
+"rationale": "Kirin oluş zamanı ve yerleşme derecesi önemlidir.",
+"isCorrect": false
+},
+{
+"text": "Temizliğin sıklığı",
+"rationale": "Temizliğin ne kadar sık yapıldığı da göz önünde bulundurulur.",
+"isCorrect": false
+},
+{
+"text": "Personelin medeni durumu",
+"rationale": "Bu unsur temizlik maddesi miktarının belirlenmesinde hiçbir rol oynamaz.",
+"isCorrect": true
+}
+],
+"hint": "Doğru seçenek, temizlik işlemiyle ilgisiz olan faktördür."
+},
+{
+"questionNumber": 56,
+"question": "Aşağıdakilerden hangisi kullanımla ilgili en önemli yanılgılardan biri olarak belirtilmiştir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Az köpük iyi temizlik sağlar",
+"rationale": "Metinde özellikle çok köpükle iyi temizliğin eş tutulmasının yanlış olduğu belirtilir.",
+"isCorrect": false
+},
+{
+"text": "Çok köpük, iyi temizlik demektir",
+"rationale": "Bu yaklaşım yanlış bir inanış olarak verilmiştir; aşırı köpük temizlik maddesinin yüzeye nüfuzunu engelleyebilir.",
+"isCorrect": true
+},
+{
+"text": "Deterjan miktarı yüzeye göre ayarlanmalıdır",
+"rationale": "Bu yanlış değil, doğru bir yaklaşımdır.",
+"isCorrect": false
+},
+{
+"text": "Aşırı deterjan israfa yol açabilir",
+"rationale": "Bu ifade doğrudur ve metinde vurgulanmıştır.",
+"isCorrect": false
+},
+{
+"text": "Az miktar kullanım bazen etkisiz kalabilir",
+"rationale": "Bu da doğru bir tespittir.",
+"isCorrect": false
+}
+],
+"hint": "Köpük miktarı ile temizlik kalitesi arasında doğrudan doğruya bir eşitlik kurulamaz."
+},
+{
+"questionNumber": 57,
+"question": "Konsantre çamaşır deterjanı ile ilgili aşağıdakilerden hangisi doğrudur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Normal deterjanlardan daha fazla miktarda kullanılır",
+"rationale": "Konsantre deterjanlar daha az miktarla etkilidir.",
+"isCorrect": false
+},
+{
+"text": "Sadece yüksek ısıda etkilidir",
+"rationale": "Metinde düşük ısıda etkili olduğu belirtilmiştir.",
+"isCorrect": false
+},
+{
+"text": "Ön yıkama gerektirir",
+"rationale": "Konsantre deterjanın ön yıkama yapmadan kullanılabildiği ifade edilmiştir.",
+"isCorrect": false
+},
+{
+"text": "Daha az gramajla aynı oranda temizlik sağlar",
+"rationale": "Konsantre deterjanın temel tanımı budur.",
+"isCorrect": true
+},
+{
+"text": "Yalnızca elde yıkama için geliştirilmiştir",
+"rationale": "Böyle bir sınırlama metinde yer almamaktadır.",
+"isCorrect": false
+}
+],
+"hint": "Tanımda 'yoğun formül' ve 'daha az miktar' vurgusuna dikkat et."
+},
+{
+"questionNumber": 58,
+"question": "Sabun ile ilgili aşağıdakilerden hangisi yanlıştır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Toz, sıvı, kalıp ve pul halinde olabilir",
+"rationale": "Sabunların farklı formlarda bulunabildiği ifade edilmiştir.",
+"isCorrect": false
+},
+{
+"text": "Günümüzde çeşitli katkı maddeleriyle farklı türleri üretilmektedir",
+"rationale": "Renk, esans, krem vb. katkılarla çeşitli sabunlar elde edilebilir.",
+"isCorrect": false
+},
+{
+"text": "Sabunun niteliği ve kullanım özelliği iyi bilinmelidir",
+"rationale": "Tercih edilecek sabunun niteliği iyi bilinmelidir.",
+"isCorrect": false
+},
+{
+"text": "Bütün sabunlar yalnızca cilt temizliği için kullanılır",
+"rationale": "Sabunlar yer, banyo, çamaşır ve cilt gibi farklı alanlarda kullanılabilir; yalnızca cilt için değildir.",
+"isCorrect": true
+},
+{
+"text": "Kalıp halindeki beyaz ve yeşil sabunlar yer, banyo ve çamaşır temizliğinde kullanılabilir",
+"rationale": "Metinde bu kullanım alanı açıkça verilmiştir.",
+"isCorrect": false
+}
+],
+"hint": "Sabunların kullanım alanları oldukça geniştir."
+},
+{
+"questionNumber": 59,
+"question": "Aşağıdakilerden hangisi sabunların kullanımına ilişkin doğru bir bilgidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Toz sabun en ekonomik sabun türüdür",
+"rationale": "Metinde en ekonomik olanın sıvı haldeki Arap sabunu olduğu belirtilir.",
+"isCorrect": false
+},
+{
+"text": "Sıvı haldeki Arap sabunu ekonomik olmasıyla öne çıkar",
+"rationale": "Arap sabununun bunlardan en ekonomik olanı olduğu ifade edilmiştir.",
+"isCorrect": true
+},
+{
+"text": "Kalıp sabunlar suda zor eridiği için hiç tercih edilmez",
+"rationale": "Böyle bir ifade metinde yer almaz.",
+"isCorrect": false
+},
+{
+"text": "Dezenfektan ilaveli sabunlar yalnızca zemin temizliğinde kullanılır",
+"rationale": "Dezenfektan ilaveli sabunların cilt hastalıkları için kullanıldığı belirtilmiştir.",
+"isCorrect": false
+},
+{
+"text": "Esanslı sabunlar sadece çamaşırhanelerde kullanılır",
+"rationale": "Esans ve krem içeren sabunların daha ziyade cilt temizliğinde kullanıldığı belirtilmiştir.",
+"isCorrect": false
+}
+],
+"hint": "Soruda sabun türleri arasındaki ekonomik fark soruluyor."
+},
+{
+"questionNumber": 60,
+"question": "TS-54'e göre %75 ve daha fazla yağ asidi içeren sabunlar hangi gruptadır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "III. sınıf sabunlar",
+"rationale": "III. sınıf sabunlar %4'ten daha az yağ asidi içerir.",
+"isCorrect": false
+},
+{
+"text": "II. sınıf sabunlar",
+"rationale": "II. sınıf sabunlar %40 yağ asidi içerir.",
+"isCorrect": false
+},
+{
+"text": "I. sınıf sabunlar",
+"rationale": "I. sınıf sabunlar %60 yağ asidi içerir.",
+"isCorrect": false
+},
+{
+"text": "Ekstra sabunlar",
+"rationale": "Ekstra sabunlar %75 ve daha fazla yağ asidi içerir.",
+"isCorrect": true
+},
+{
+"text": "Parlatıcı sabunlar",
+"rationale": "Bu, slaytta yer alan bir sınıflandırma değildir.",
+"isCorrect": false
+}
+],
+"hint": "Yağ asidi oranı arttıkça sınıf adı değişir."
+},
+{
+"questionNumber": 61,
+"question": "Sabunun sert suyla etkileşimi sonucunda ne oluşur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Parfüm",
+"rationale": "Parfüm oluşumu sabun ve sert su etkileşimiyle ilgili değildir.",
+"isCorrect": false
+},
+{
+"text": "Kireç",
+"rationale": "Sabun sert sudaki maddelerle etkileşerek kireç oluşturur.",
+"isCorrect": true
+},
+{
+"text": "Dezenfektan",
+"rationale": "Dezenfektan, sabun-su etkileşiminin sonucu değildir.",
+"isCorrect": false
+},
+{
+"text": "Yumuşatıcı",
+"rationale": "Bu da etkileşimin sonucu değildir.",
+"isCorrect": false
+},
+{
+"text": "Cila tabakası",
+"rationale": "Cila ile sabun etkileşimi birbirinden farklı kavramlardır.",
+"isCorrect": false
+}
+],
+"hint": "Bu oluşum temizleyici etki göstermez ve yüzeylere zarar verir."
+},
+{
+"questionNumber": 62,
+"question": "Sabun ile sert suyun oluşturduğu kireç aşağıdaki sonuçlardan hangisine yol açabilir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Dokumaların grileşmesine ve yüzeylerin matlaşmasına",
+"rationale": "Metinde bu sonuç açıkça belirtilmiştir.",
+"isCorrect": true
+},
+{
+"text": "Camların kendiliğinden parlamasına",
+"rationale": "Kireç olumlu değil, olumsuz etki oluşturur.",
+"isCorrect": false
+},
+{
+"text": "Sabunun daha güçlü temizlemesine",
+"rationale": "Kireç, temizleyici etkisi olmayan bir oluşumdur.",
+"isCorrect": false
+},
+{
+"text": "Yüzeylerin daha geç kirlenmesine",
+"rationale": "Metin böyle bir sonuç vermez.",
+"isCorrect": false
+},
+{
+"text": "Kumaşların renklerini canlandırmasına",
+"rationale": "Tam tersine dokumaların grileşmesine neden olabilir.",
+"isCorrect": false
+}
+],
+"hint": "Kireç yüzey kalitesini düşüren bir sonuç doğurur."
+},
+{
+"questionNumber": 63,
+"question": "Genel temizlik amaçlı deterjanlar kaç genel grupta toplanır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Bir",
+"rationale": "Deterjanlar tek grupta değil, iki genel grupta ele alınır.",
+"isCorrect": false
+},
+{
+"text": "İki",
+"rationale": "Deterjanlar toz ve sıvı olmak üzere iki genel grupta toplanır.",
+"isCorrect": true
+},
+{
+"text": "Üç",
+"rationale": "Metinde üçlü bir sınıflandırma yoktur.",
+"isCorrect": false
+},
+{
+"text": "Dört",
+"rationale": "Bu ifade sabun sınıflandırmasıyla karıştırılmamalıdır.",
+"isCorrect": false
+},
+{
+"text": "Beş",
+"rationale": "Beş grup ifadesi metinde geçmez.",
+"isCorrect": false
+}
+],
+"hint": "Deterjanlar formuna göre ayrılır."
+},
+{
+"questionNumber": 64,
+"question": "Aşağıdaki eşleştirmelerden hangisi doğrudur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Karo, fayans, kalebodur kaplı alanlar - toz deterjan",
+"rationale": "Bu alanlarda silinerek temizlik yapıldığı için sıvı deterjan önerilir.",
+"isCorrect": false
+},
+{
+"text": "Küvet, lavabo, klozet, bide - sıvı deterjan",
+"rationale": "Bu yüzeylerde ovularak temizlik gerektiği için toz deterjan önerilir.",
+"isCorrect": false
+},
+{
+"text": "Banyo duvar temizliği - sıvı deterjan",
+"rationale": "Silinerek temizlenen alanlarda sıvı deterjan kullanılması önerilmiştir.",
+"isCorrect": true
+},
+{
+"text": "Cam yüzeyler - yalnızca toz deterjan",
+"rationale": "Metinde böyle bir zorunluluk yoktur.",
+"isCorrect": false
+},
+{
+"text": "Telefon temizliği - yalnızca sabun",
+"rationale": "Telefon temizliğinde mavi ispirto kullanımından söz edilmiştir.",
+"isCorrect": false
+}
+],
+"hint": "Silinerek temizlenen ve ovularak temizlenen yüzeyleri ayır."
+},
+{
+"questionNumber": 65,
+"question": "Küvet, lavabo, klozet ve bide gibi yüzeylerde toz deterjan kullanılmasının önemli görülmesinin nedeni aşağıdakilerden hangisidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Daha ince temizlik yapılması ve az köpürmesi",
+"rationale": "Bu tür yüzeylerde toz deterjanın daha ince temizlik yapması ve az köpürmesi önemli görülmüştür.",
+"isCorrect": true
+},
+{
+"text": "Yüzeyleri boyaması",
+"rationale": "Boyama amaçlı bir kullanım söz konusu değildir.",
+"isCorrect": false
+},
+{
+"text": "Daha yoğun parfüm bırakması",
+"rationale": "Asıl gerekçe bu değildir.",
+"isCorrect": false
+},
+{
+"text": "Sert suda kireç oluşturması",
+"rationale": "Bu, sabunla ilgili bir sorundur; tercih nedeni değildir.",
+"isCorrect": false
+},
+{
+"text": "Yalnızca yüksek ısıda etkili olması",
+"rationale": "Metinde böyle bir neden verilmemiştir.",
+"isCorrect": false
+}
+],
+"hint": "Sorunun anahtar sözcükleri 'ovularak temizlenmesi gereken yüzeyler'dir."
+},
+{
+"questionNumber": 66,
+"question": "Aşağıdakilerden hangisi kullanılan temizlik maddesinde bulunması gereken özelliklerden biri değildir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Az köpürmesi",
+"rationale": "Az köpürmesi zaman kaybını önlemesi açısından önemlidir.",
+"isCorrect": false
+},
+{
+"text": "Suda erimesi",
+"rationale": "Suda erimesi istenen özellikler arasındadır.",
+"isCorrect": false
+},
+{
+"text": "Elleri yıpratmaması",
+"rationale": "Cilt dostu olması beklenir.",
+"isCorrect": false
+},
+{
+"text": "Soğuk ve sıcak sularda etkili olması",
+"rationale": "Bu da aranılan bir özelliktir.",
+"isCorrect": false
+},
+{
+"text": "Aşırı köpürmesi",
+"rationale": "Aksine az köpürmesi istenir; aşırı köpük olumsuzdur.",
+"isCorrect": true
+}
+],
+"hint": "Deterjan seçiminde verimlilik ve kullanım kolaylığı öne çıkar."
+},
+{
+"questionNumber": 67,
+"question": "Temizlik işlerinde leke çıkarma, koku giderme ve yüzeylerdeki mikroorganizmaları yok etme amacıyla aşağıdakilerden hangisinden yararlanılır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Asitlerden",
+"rationale": "Metinde bu amaçlarla asitlerden yararlanıldığı belirtilmiştir.",
+"isCorrect": true
+},
+{
+"text": "Sadece cilalardan",
+"rationale": "Cila koruyucu ve parlatıcıdır; bu işlevleri yerine getirmez.",
+"isCorrect": false
+},
+{
+"text": "Yalnızca yumuşatıcılardan",
+"rationale": "Yumuşatıcıların işlevi farklıdır.",
+"isCorrect": false
+},
+{
+"text": "Sadece kaoldan",
+"rationale": "Kaol metal yüzeylerin temizliğinde kullanılır.",
+"isCorrect": false
+},
+{
+"text": "Yalnızca sabundan",
+"rationale": "Bu tanım özellikle asitler için verilmiştir.",
+"isCorrect": false
+}
+],
+"hint": "Sirke, limon suyu ve tuz ruhu aynı grupta değerlendirilmiştir."
+},
+{
+"questionNumber": 68,
+"question": "Aşağıdakilerden hangisi uygulamada en çok kullanılan asit örneklerinden biri değildir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Sirke",
+"rationale": "Sirke uygulamada kullanılan asit örneklerindendir.",
+"isCorrect": false
+},
+{
+"text": "Limon suyu",
+"rationale": "Limon suyu da verilen örnekler arasındadır.",
+"isCorrect": false
+},
+{
+"text": "Tuz ruhu",
+"rationale": "Tuz ruhu, kullanılan kuvvetli asit örneklerinden biridir.",
+"isCorrect": false
+},
+{
+"text": "Mavi ispirto",
+"rationale": "Mavi ispirto ayrı bir temizlik ve dezenfektan malzemesidir; bu örnekler arasında asit olarak verilmemiştir.",
+"isCorrect": true
+},
+{
+"text": "Seyreltilmiş asit",
+"rationale": "Kuvvetli asitlerin seyreltilmiş olarak kullanılması gerektiği belirtilmiştir.",
+"isCorrect": false
+}
+],
+"hint": "Doğru seçenek farklı bir başlık altında incelenmiştir."
+},
+{
+"questionNumber": 69,
+"question": "Tuz ruhu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Çamaşır suyu ile birlikte kullanılması önerilir",
+"rationale": "Aksine bu birleşim kuvvetli bir zehir oluşturur.",
+"isCorrect": false
+},
+{
+"text": "Cilt ile temasında hiçbir sakınca yoktur",
+"rationale": "Yakıcı ve tahriş edici özelliğe sahip olduğu için cilt teması önlenmelidir.",
+"isCorrect": false
+},
+{
+"text": "Kuvvetli bir asittir",
+"rationale": "Metinde tuz ruhunun temizlikte kullanılan kuvvetli bir asit olduğu açıkça belirtilmiştir.",
+"isCorrect": true
+},
+{
+"text": "Sadece kumaş temizliğinde kullanılır",
+"rationale": "Banyo, tuvalet ve lavabo temizliğinde kullanıldığı belirtilmiştir.",
+"isCorrect": false
+},
+{
+"text": "Parlatıcı olarak kullanılır",
+"rationale": "Temel işlevi parlatma değil, özellikle inatçı kir ve lekeleri gidermedir.",
+"isCorrect": false
+}
+],
+"hint": "Tuz ruhunun kimyasal niteliği ve güvenlik riski önemlidir."
+},
+{
+"questionNumber": 70,
+"question": "Mavi ispirtonun en belirgin özelliklerinden biri aşağıdakilerden hangisidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Yüzey gözeneklerini kapatması",
+"rationale": "Bu özellik cila için verilmiştir.",
+"isCorrect": false
+},
+{
+"text": "Uçucu özelliğe sahip olması",
+"rationale": "Mavi ispirtonun uçucu özelliğe sahip olduğu özellikle belirtilmiştir.",
+"isCorrect": true
+},
+{
+"text": "Sert suda kireç oluşturması",
+"rationale": "Bu durum sabun ile ilgilidir.",
+"isCorrect": false
+},
+{
+"text": "Yalnızca ahşap yüzeylerde kullanılması",
+"rationale": "Cam, ayna, telefon, mobilya ve bazı lekelerde kullanılabildiği belirtilmiştir.",
+"isCorrect": false
+},
+{
+"text": "Mutlaka cila makinesiyle uygulanması",
+"rationale": "Bu durum sert cilalar için geçerlidir.",
+"isCorrect": false
+}
+],
+"hint": "Cam ve ayna temizliğiyle ilişkilendirilen maddeyi düşün."
+},
+{
+"questionNumber": 71,
+"question": "Mavi ispirto aşağıdaki kullanım alanlarından hangisinde özellikle belirtilmiştir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Camların ve aynaların parlatılması",
+"rationale": "Mavi ispirto camların ve aynaların parlatılmasında kullanılır.",
+"isCorrect": true
+},
+{
+"text": "Sert cila uygulaması",
+"rationale": "Bu kullanım cila ile ilgilidir.",
+"isCorrect": false
+},
+{
+"text": "Sabun sınıflandırması",
+"rationale": "Mavi ispirto sabun sınıfı değildir.",
+"isCorrect": false
+},
+{
+"text": "Yalnızca yer temizliği",
+"rationale": "Metinde böyle bir sınırlama yoktur.",
+"isCorrect": false
+},
+{
+"text": "Çamaşır suyu ile karıştırılarak kullanım",
+"rationale": "Böyle bir bilgi verilmemiştir.",
+"isCorrect": false
+}
+],
+"hint": "Bu madde özellikle cam, ayna ve bazı lekelerde öne çıkar."
+},
+{
+"questionNumber": 72,
+"question": "Kaol aşağıdaki yüzeylerden hangisinin temizliğinde kullanılır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Pirinç",
+"rationale": "Kaol, pirinç eşyaların temizliğinde kullanılır.",
+"isCorrect": false
+},
+{
+"text": "Gümüş",
+"rationale": "Kaol, gümüş yüzeylerdeki kararmaların giderilmesinde kullanılır.",
+"isCorrect": false
+},
+{
+"text": "Kromajlı eşyalar",
+"rationale": "Kaol, kromajlı eşyaların temizliğinde de kullanılır.",
+"isCorrect": false
+},
+{
+"text": "Bakır",
+"rationale": "Kaol, bakır eşyalarda da kullanılabilir.",
+"isCorrect": false
+},
+{
+"text": "Hepsi",
+"rationale": "Metinde kaolün pirinç, gümüş, bakır ve kromajlı eşyaların temizliğinde kullanıldığı belirtilmiştir.",
+"isCorrect": true
+}
+],
+"hint": "Kaol özellikle metal yüzeylerle ilişkilidir."
+},
+{
+"questionNumber": 73,
+"question": "Cila ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Taş, plastik ve ahşap yüzeylere uygulanabilir",
+"rationale": "Metinde cilanın bu yüzeylere uygulanabildiği belirtilmiştir.",
+"isCorrect": false
+},
+{
+"text": "Yüzey gözeneklerini kapatarak tozlanmayı önler",
+"rationale": "Bu, cilanın temel işlevlerinden biridir.",
+"isCorrect": false
+},
+{
+"text": "Sert cilalar mutlaka cila makinesiyle atılmalıdır",
+"rationale": "Bu ifade doğrudur.",
+"isCorrect": false
+},
+{
+"text": "Yumuşak cilalar yalnızca makineyle uygulanabilir",
+"rationale": "Yanlıştır; yumuşak cilalar mopla atılabilir.",
+"isCorrect": true
+},
+{
+"text": "Cilalama öncesi yüzeyin temel temizliği yapılmalıdır",
+"rationale": "Cila uygulanmadan önce yüzeyin temel temizliği şarttır.",
+"isCorrect": false
+}
+],
+"hint": "Sert ve yumuşak cilanın uygulama şekillerini karıştırma."
+},
+{
+"questionNumber": 74,
+"question": "Otellerde müşteri trafiğinin yoğun olduğu alanlarda hangi cila tercih edilir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Yumuşak cila",
+"rationale": "Yumuşak cila daha çok trafiğin az olduğu alanlarda ve günlük bakımda tercih edilir.",
+"isCorrect": false
+},
+{
+"text": "Sert cila",
+"rationale": "Yoğun trafiğin olduğu alanlarda sert cila tercih edilir.",
+"isCorrect": true
+},
+{
+"text": "Sabunlu cila",
+"rationale": "Metinde böyle bir cila türü geçmemektedir.",
+"isCorrect": false
+},
+{
+"text": "Asitli cila",
+"rationale": "Bu şekilde bir sınıflandırma yapılmamıştır.",
+"isCorrect": false
+},
+{
+"text": "Toz cila",
+"rationale": "Cilalar sert ve yumuşak olarak sınıflandırılmıştır.",
+"isCorrect": false
+}
+],
+"hint": "Trafik yoğunluğu arttıkça daha dayanıklı çözüm tercih edilir."
+},
+{
+"questionNumber": 75,
+"question": "Temizlik malzemelerinin kullanımında dikkat edilmesi gereken hususlardan biri aşağıdakilerden hangisidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Kullanım tarifesine uymadan doğrudan denemek",
+"rationale": "En iyi sonuç kullanım tarifesine uyulmasıyla elde edilir.",
+"isCorrect": false
+},
+{
+"text": "Sonuçlarından emin olunmayan malzemeleri kullanmak",
+"rationale": "Tereddüt varsa malzeme kesinlikle kullanılmamalıdır.",
+"isCorrect": false
+},
+{
+"text": "Ekonomiklik faktörünü göz ardı etmek",
+"rationale": "Malzeme seçiminde ekonomiklik daima ön planda tutulmalıdır.",
+"isCorrect": false
+},
+{
+"text": "Gerektiğinde lastik eldiven kullanmak",
+"rationale": "Yakıcı ve tahriş edici maddelerde gerektiğinde lastik eldiven takılması önerilmiştir.",
+"isCorrect": true
+},
+{
+"text": "Kötü kokulu ve kalıcı malzemeleri özellikle tercih etmek",
+"rationale": "Bu tür malzemelerden kaçınılmalıdır.",
+"isCorrect": false
+}
+],
+"hint": "Soru güvenli kullanım ilkesine odaklanıyor."
+},
+{
+"questionNumber": 76,
+"question": "Kat hizmetleri departmanının temel işlevi aşağıdakilerden hangisidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Yalnızca yiyecek-içecek satışını artırmak",
+"rationale": "Bu görev yiyecek-içecek departmanına daha yakındır; kat hizmetlerinin temel görevi bu değildir.",
+"isCorrect": false
+},
+{
+"text": "Sorumlu olduğu alanların temizlik ve bakım çalışmalarını yapmak",
+"rationale": "Kat hizmetleri departmanının temel işlevi, sorumlu olduğu alanların temizlik ve bakım çalışmalarını yapmaktır. ",
+"isCorrect": true
+},
+{
+"text": "Rezervasyon kabul etmek ve oda satmak",
+"rationale": "Bu görev ön büro ile ilgilidir.",
+"isCorrect": false
+},
+{
+"text": "Sadece teknik arızaları gidermek",
+"rationale": "Teknik arızalar daha çok teknik servis biriminin alanına girer.",
+"isCorrect": false
+},
+{
+"text": "Misafirleri restorana yönlendirmek",
+"rationale": "Bu, temel kat hizmetleri işlevi değildir.",
+"isCorrect": false
+}
+],
+"hint": "Temel kavram: temizlik ve bakım."
+},
+{
+"questionNumber": 77,
+"question": "Aşağıdakilerden hangisi kirliliğin tanımına uygundur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Mekânın doğal ve temiz görünümünü koruması",
+"rationale": "Bu kirlilik değil, temizliğe yakın bir durumdur.",
+"isCorrect": false
+},
+{
+"text": "Yüzeylerin leke, koku, iz ve toz gibi etkenlerle rahatsız edici biçimde kaplanması",
+"rationale": "Sunumda kirlilik; mekân veya yüzeylerin leke, koku, iz, toz vb. etkenlerle rahatsızlık verecek şekilde kaplanması olarak tanımlanır. ",
+"isCorrect": true
+},
+{
+"text": "Yalnızca gözle görülen toz birikimi",
+"rationale": "Kirlilik sadece tozla sınırlı değildir; leke, koku ve iz de dahildir.",
+"isCorrect": false
+},
+{
+"text": "Her gün yapılan rutin oda kontrolü",
+"rationale": "Bu bir işlem basamağıdır, kirlilik tanımı değildir.",
+"isCorrect": false
+},
+{
+"text": "Kimyasal maddelerin depolanması",
+"rationale": "Bu temizlik malzemesi yönetimi ile ilgilidir.",
+"isCorrect": false
+}
+],
+"hint": "Tanımda leke, koku, iz ve toz birlikte geçer."
+},
+{
+"questionNumber": 78,
+"question": "Temizlik kavramı en doğru şekilde nasıl tanımlanır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Odayı sadece güzel kokutmak",
+"rationale": "Temizlik yalnızca koku ile ilgili değildir.",
+"isCorrect": false
+},
+{
+"text": "Mobilyaları yer değiştirmek",
+"rationale": "Bu dekorasyon veya düzenleme olabilir, temizlik tanımı değildir.",
+"isCorrect": false
+},
+{
+"text": "Kirliliği meydana getiren etkenlerin ortadan kaldırılması",
+"rationale": "Sunumda temizlik, kirliliği meydana getiren etkenlerin ortadan kaldırılması olarak tanımlanır. ",
+"isCorrect": true
+},
+{
+"text": "Yalnızca zeminlerin silinmesi",
+"rationale": "Bu temizlik uygulamalarından biridir ama genel tanım değildir.",
+"isCorrect": false
+},
+{
+"text": "Odanın boş bırakılması",
+"rationale": "Bu temizlikle ilgili bir tanım değildir.",
+"isCorrect": false
+}
+],
+"hint": "Tanım, kirliliğin kaynağını ortadan kaldırmaya odaklanır."
+},
+{
+"questionNumber": 79,
+"question": "Kat hizmetlerinde arzulanan düzeyde temizliğin sağlanabilmesi için aşağıdakilerden hangisi gereklidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Sadece daha fazla personel çalıştırmak",
+"rationale": "Personel önemli olsa da tek başına yeterli değildir.",
+"isCorrect": false
+},
+{
+"text": "Bir temizlik sistemi ve organizasyonu oluşturmak",
+"rationale": "Sunumda arzulanan düzeyde temizliğin gerçekleşmesi için bir temizlik sistemi ve organizasyonu gerektiği belirtilir. ",
+"isCorrect": true
+},
+{
+"text": "Sadece pahalı ekipman kullanmak",
+"rationale": "Ekipman tek başına başarıyı garanti etmez.",
+"isCorrect": false
+},
+{
+"text": "Tüm işleri vardiyasız yürütmek",
+"rationale": "Nöbet çizelgeleri ve planlama aksine önemlidir.",
+"isCorrect": false
+},
+{
+"text": "Odaları haftada bir temizlemek",
+"rationale": "Bu sistematik ve yeterli bir yaklaşım değildir.",
+"isCorrect": false
+}
+],
+"hint": "Cevap, sistematik yaklaşımı vurgular."
+},
+{
+"questionNumber": 80,
+"question": "İş programları sayesinde aşağıdakilerden hangisi belirlenmiş olur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Sadece misafirin hangi odada kalacağı",
+"rationale": "Bu daha çok rezervasyon bilgisidir.",
+"isCorrect": false
+},
+{
+"text": "Kişilerin ne zaman, nerede çalışacağı ve hangi araç-gereçleri kullanacağı",
+"rationale": "Sunumda iş programları sayesinde kişilerin ne zaman, nerede çalışacakları ve hangi temizlik araç-gereçlerini kullanacaklarının belirlendiği ifade edilir. ",
+"isCorrect": true
+},
+{
+"text": "Sadece günlük satış hedefleri",
+"rationale": "Bu kat hizmetleri iş programının temel konusu değildir.",
+"isCorrect": false
+},
+{
+"text": "Yalnızca personel maaşları",
+"rationale": "Maaş belirleme iş programının ana konusu değildir.",
+"isCorrect": false
+},
+{
+"text": "Misafirlerin tatil planları",
+"rationale": "Bu departman iş programının konusu değildir.",
+"isCorrect": false
+}
+],
+"hint": "Zaman, yer ve araç-gereç üçlüsünü düşün."
+},
+{
+"questionNumber": 81,
+"question": "Otel işletmelerinin iç mekânları arasında aşağıdakilerden hangisi sayılmaz?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Odalar",
+"rationale": "Odalar iç mekânlar arasında sayılır.",
+"isCorrect": false
+},
+{
+"text": "Yiyecek içecek alanları",
+"rationale": "Restoran ve barlar iç mekânlar arasında yer alır.",
+"isCorrect": false
+},
+{
+"text": "Lobi",
+"rationale": "Lobi iç mekânlardandır.",
+"isCorrect": false
+},
+{
+"text": "Çok amaçlı salonlar",
+"rationale": "Kokteyl, balo ve toplantı salonları bu gruptadır.",
+"isCorrect": false
+},
+{
+"text": "Havaalanı transfer aracı",
+"rationale": "Bu otelin iç mekânı değildir. ",
+"isCorrect": true
+}
+],
+"hint": "Soru iç mekânları soruyor."
+},
+{
+"questionNumber": 82,
+"question": "Bir yatak odası fonksiyonel olarak kaç ana mekân altında toplanabilir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "3",
+"rationale": "Sunumdaki sayı bu değildir.",
+"isCorrect": false
+},
+{
+"text": "4",
+"rationale": "Eksik kalır.",
+"isCorrect": false
+},
+{
+"text": "5",
+"rationale": "Yatak bölümü, oturma bölümü, giriş, banyo ve balkon olmak üzere 5 ana mekân altında toplanır. ",
+"isCorrect": true
+},
+{
+"text": "6",
+"rationale": "Sunumdaki sayıdan fazladır.",
+"isCorrect": false
+},
+{
+"text": "7",
+"rationale": "Doğru sayı değildir.",
+"isCorrect": false
+}
+],
+"hint": "Yatak, oturma, giriş, banyo, balkon."
+},
+{
+"questionNumber": 83,
+"question": "Aşağıdakilerden hangisi bir yatak odasının 5 ana fonksiyonel bölümünden biri değildir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Yatak bölümü",
+"rationale": "Bu ana bölümlerden biridir.",
+"isCorrect": false
+},
+{
+"text": "Oturma bölümü",
+"rationale": "Bu da ana bölümlerdendir.",
+"isCorrect": false
+},
+{
+"text": "Giriş",
+"rationale": "Bu da ana bölümler arasındadır.",
+"isCorrect": false
+},
+{
+"text": "Mutfak",
+"rationale": "Sunumda 5 ana mekân içinde mutfak yer almaz. ",
+"isCorrect": true
+},
+{
+"text": "Banyo",
+"rationale": "Bu ana bölümlerden biridir.",
+"isCorrect": false
+}
+],
+"hint": "Listeyi tam hatırla."
+},
+{
+"questionNumber": 84,
+"question": "Otel odalarında kullanılan karyolaların baş tarafının tekerlekli olması neden tercih edilir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Daha ağır görünmesi için",
+"rationale": "Tercih nedeni estetik ağırlık değildir.",
+"isCorrect": false
+},
+{
+"text": "Temizleme kolaylığı sağlaması için",
+"rationale": "Sunumda temizleme kolaylığı açısından karyolanın baş tarafının tekerlekli olmasının tercih sebebi olduğu belirtilir. ",
+"isCorrect": true
+},
+{
+"text": "Sadece dekoratif durması için",
+"rationale": "Bu temel neden değildir.",
+"isCorrect": false
+},
+{
+"text": "Misafirin yatağı taşıması için",
+"rationale": "Bu amaçla tasarlanmaz.",
+"isCorrect": false
+},
+{
+"text": "Odayı daha dar göstermek için",
+"rationale": "Böyle bir amaç yoktur.",
+"isCorrect": false
+}
+],
+"hint": "Sebep bakım ve temizlikle ilgilidir."
+},
+{
+"questionNumber": 85,
+"question": "Yatak başı için aşağıdaki ifadelerden hangisi doğrudur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Tamamen dekoratif amaçla kullanılır",
+"rationale": "Sunumda yatak başının karyola ya da bazanın tamamlayıcı bir parçası olduğu ve tamamen dekoratif amaçla kullanıldığı belirtilir. ",
+"isCorrect": true
+},
+{
+"text": "Yalnızca depolama için kullanılır",
+"rationale": "Bu yatak başının temel işlevi değildir.",
+"isCorrect": false
+},
+{
+"text": "Mini bar görevi görür",
+"rationale": "Yanlıştır.",
+"isCorrect": false
+},
+{
+"text": "Misafirin valiz koyması içindir",
+"rationale": "Bu bagaj sehpasının işlevidir.",
+"isCorrect": false
+},
+{
+"text": "Oda kapısı yerine geçer",
+"rationale": "Bu mantıksız ve yanlıştır.",
+"isCorrect": false
+}
+],
+"hint": "Tamamlayıcı ama esasen süsleyici bir parçadır."
+},
+{
+"questionNumber": 86,
+"question": "Komodinin üst yüzeyi aşağıdakilerden hangilerini alabilecek genişlikte olmalıdır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Sadece gece lambasını",
+"rationale": "Komodin üstü yalnızca tek eşya için düşünülmez.",
+"isCorrect": false
+},
+{
+"text": "Gece lambası, telefon, rehber, kül tablası ve müşterinin koyacağı eşyaları",
+"rationale": "Sunumda komodinin üst yüzeyinin bu eşyaları alabilecek genişlikte olması gerektiği belirtilir. ",
+"isCorrect": true
+},
+{
+"text": "Yalnızca televizyonu",
+"rationale": "Televizyon için uygun mobilya farklıdır.",
+"isCorrect": false
+},
+{
+"text": "Sadece çiçek vazosunu",
+"rationale": "Bu eksik bir ifadedir.",
+"isCorrect": false
+},
+{
+"text": "Yalnızca minibarı",
+"rationale": "Komodinin temel işlevi bu değildir.",
+"isCorrect": false
+}
+],
+"hint": "Birden fazla küçük eşya için düşünülür."
+},
+{
+"questionNumber": 87,
+"question": "Aşağıdakilerden hangisi konuğun ihtiyacını karşılamak amacıyla kullanılan küçük masa türüdür?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Gardrop",
+"rationale": "Gardrop bir dolaptır.",
+"isCorrect": false
+},
+{
+"text": "Komodin",
+"rationale": "Komodin yatağın tamamlayıcı parçasıdır.",
+"isCorrect": false
+},
+{
+"text": "Sehpa",
+"rationale": "Sunumda sehpanın, konuğun ihtiyacını karşılamak amacı ile değişik materyallerden yapılan küçük masa türü olduğu belirtilir. ",
+"isCorrect": true
+},
+{
+"text": "Puf",
+"rationale": "Puf bir oturma elemanıdır.",
+"isCorrect": false
+},
+{
+"text": "Karyola",
+"rationale": "Karyola yatakla ilgilidir.",
+"isCorrect": false
+}
+],
+"hint": "Küçük masa türü aranıyor."
+},
+{
+"questionNumber": 88,
+"question": "Koltuk için aşağıdakilerden hangisi doğrudur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Sadece metalden yapılan sert mobilyadır",
+"rationale": "Koltuk yumuşak ve konforlu olmalıdır.",
+"isCorrect": false
+},
+{
+"text": "Konukların rahat oturması için kullanılan, dış yüzeyi tekstil veya deri kaplamalı yumuşak mobilyadır",
+"rationale": "Sunumda koltuk böyle tanımlanır. ",
+"isCorrect": true
+},
+{
+"text": "Yalnızca dekor amaçlıdır, oturmak için kullanılmaz",
+"rationale": "Bu doğru değildir.",
+"isCorrect": false
+},
+{
+"text": "Valiz koymak için tasarlanmıştır",
+"rationale": "Bu bagaj sehpasının işlevidir.",
+"isCorrect": false
+},
+{
+"text": "Sadece banyo içinde kullanılır",
+"rationale": "Böyle bir tanım yapılmamıştır.",
+"isCorrect": false
+}
+],
+"hint": "Rahat oturma imkânı anahtar ifadedir."
+},
+{
+"questionNumber": 89,
+"question": "Aşağıdakilerden hangisi televizyon sehpasının günümüzdeki kullanımına ilişkin doğru bilgidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Günümüzde tamamen kullanılmaz hale gelmiştir",
+"rationale": "Sunumda hâlâ oda dekorasyonunun parçası olarak yer alır.",
+"isCorrect": false
+},
+{
+"text": "Sadece ahşaptan yapılmak zorundadır",
+"rationale": "Değişik materyaller kullanılabilir.",
+"isCorrect": false
+},
+{
+"text": "Duvara gömülü ve plazma televizyonlar yaygınlaşmıştır",
+"rationale": "Sunumda günümüzde duvara gömülü ve plazma televizyonların konaklama işletmelerinde yaygın olarak kullanılmaya başlandığı belirtilir. ",
+"isCorrect": true
+},
+{
+"text": "Yalnızca minibarı taşımak için kullanılır",
+"rationale": "Bu doğru değildir.",
+"isCorrect": false
+},
+{
+"text": "Sadece gösterim odalarında bulunur",
+"rationale": "Böyle bir sınırlama yoktur.",
+"isCorrect": false
+}
+],
+"hint": "Modern TV kullanım biçimini düşün."
+},
+{
+"questionNumber": 90,
+"question": "Puf için aşağıdakilerden hangisi istenen özelliklerden biri değildir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Fazla yer kaplamamalıdır",
+"rationale": "Bu istenen bir özelliktir.",
+"isCorrect": false
+},
+{
+"text": "Tuvalet masasının boşluğuna kolay yerleştirilebilmelidir",
+"rationale": "Bu istenen özellikler arasındadır.",
+"isCorrect": false
+},
+{
+"text": "Ağır ve zor çekilebilir olmalıdır",
+"rationale": "Sunumda pufun hafif ve kolay çekilebilir nitelikte olması gerektiği belirtilir; ağır olması istenmez. ",
+"isCorrect": true
+},
+{
+"text": "Kumaşı diğer eşyalarla uyumlu olmalıdır",
+"rationale": "Bu da istenen bir özelliktir.",
+"isCorrect": false
+},
+{
+"text": "Yüksekliği tuvalet masasıyla orantılı olmalıdır",
+"rationale": "Bu da beklenen bir özelliktir.",
+"isCorrect": false
+}
+],
+"hint": "Pufun kullanım kolaylığı önemlidir."
+},
+{
+"questionNumber": 91,
+"question": "Bagaj sehpası ne için kullanılır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Televizyon koymak için",
+"rationale": "Bu televizyon sehpasının işlevidir.",
+"isCorrect": false
+},
+{
+"text": "Çanta ve valiz koymak için",
+"rationale": "Sunumda bagaj sehpası, üzerine çanta ve valiz konulan sehpa olarak tanımlanır. ",
+"isCorrect": true
+},
+{
+"text": "Sadece gece lambası koymak için",
+"rationale": "Bu komodinle ilgilidir.",
+"isCorrect": false
+},
+{
+"text": "Konuğun oturması için",
+"rationale": "Bu puf veya koltukla ilgilidir.",
+"isCorrect": false
+},
+{
+"text": "Kıymetli eşya saklamak için",
+"rationale": "Bu safe box işlevine girer.",
+"isCorrect": false
+}
+],
+"hint": "İsminden yola çık."
+},
+{
+"questionNumber": 92,
+"question": "Gardrop içerisinde aşağıdakilerden hangisinin bulunması beklenmez?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Elbise askıları",
+"rationale": "Gardropta bulunmalıdır.",
+"isCorrect": false
+},
+{
+"text": "Yedek yastık ve battaniye",
+"rationale": "Geniş raf kısmında bulunabilir.",
+"isCorrect": false
+},
+{
+"text": "Çamaşır torbası",
+"rationale": "Gardropta bulunabilir.",
+"isCorrect": false
+},
+{
+"text": "Ayakkabı silme süngeri",
+"rationale": "Gardropta bulunabilir.",
+"isCorrect": false
+},
+{
+"text": "Mutfak ocağı",
+"rationale": "Gardropta böyle bir donanım bulunmaz; sunumda sayılanlar giysi ve yardımcı malzemelerdir. ",
+"isCorrect": true
+}
+],
+"hint": "Gardrop depolama amaçlıdır."
+},
+{
+"questionNumber": 93,
+"question": "Minibar ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Sadece kıyafet saklamak için kullanılır",
+"rationale": "Bu gardrop ile ilgilidir.",
+"isCorrect": false
+},
+{
+"text": "Yiyecek ve içeceklerin bozulmadan saklanmasını sağlar",
+"rationale": "Sunumda minibarın yiyecek ve içeceklerin bozulmadan saklanmasını sağladığı belirtilir. ",
+"isCorrect": true
+},
+{
+"text": "Sadece teknik servis personeli kullanır",
+"rationale": "Minibar misafir kullanımına yöneliktir.",
+"isCorrect": false
+},
+{
+"text": "İçine yalnızca temizlik malzemesi konur",
+"rationale": "Bu doğru değildir.",
+"isCorrect": false
+},
+{
+"text": "Yalnızca mutfakta bulunur",
+"rationale": "Minibar oda donanımıdır.",
+"isCorrect": false
+}
+],
+"hint": "Soğutucu bar dolabı düşün."
+},
+{
+"questionNumber": 94,
+"question": "Aplik nedir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Duvara monte edilen dekoratif aydınlatma aracı",
+"rationale": "Sunumda aplik bu şekilde tanımlanır. ",
+"isCorrect": true
+},
+{
+"text": "Taşınabilir ayaklı lamba",
+"rationale": "Bu lambaderdir.",
+"isCorrect": false
+},
+{
+"text": "Odadaki havalandırma cihazı",
+"rationale": "Bu havalandırma ünitesidir.",
+"isCorrect": false
+},
+{
+"text": "Kıymetli eşya kasası",
+"rationale": "Bu safe box'tır.",
+"isCorrect": false
+},
+{
+"text": "Yatağın başındaki dekor paneli",
+"rationale": "Bu yatak başı ile ilgilidir.",
+"isCorrect": false
+}
+],
+"hint": "Duvara monte edilir."
+},
+{
+"questionNumber": 95,
+"question": "Şifreli dolap kasası (safe box) genellikle nerede bulunur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Banyo içinde",
+"rationale": "Genellikle burada bulunmaz.",
+"isCorrect": false
+},
+{
+"text": "Lobi ortasında",
+"rationale": "Bu uygun ve güvenli değildir.",
+"isCorrect": false
+},
+{
+"text": "Gardrop içerisinde",
+"rationale": "Sunumda safe box'ın genellikle gardrop içerisinde bulunduğu belirtilir. ",
+"isCorrect": true
+},
+{
+"text": "Yastığın altında",
+"rationale": "Bu profesyonel bir çözüm değildir.",
+"isCorrect": false
+},
+{
+"text": "Komodinin üzerinde",
+"rationale": "Genel yerleşim bu değildir.",
+"isCorrect": false
+}
+],
+"hint": "Kıymetli eşya saklama alanı genelde dolapla ilişkilidir."
+},
+{
+"questionNumber": 96,
+"question": "Aşağıdaki yatak tiplerinden hangisinin ölçüsü 180 cm x 200 cm'dir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Single Bed",
+"rationale": "Single Bed 100 x 200 cm'dir.",
+"isCorrect": false
+},
+{
+"text": "French Bed",
+"rationale": "French Bed 140 x 200 cm'dir.",
+"isCorrect": false
+},
+{
+"text": "Queen Size Bed",
+"rationale": "Queen Size Bed 152 x 203 cm'dir.",
+"isCorrect": false
+},
+{
+"text": "King Size Bed",
+"rationale": "King Size Bed ölçüsü 180 x 200 cm'dir. ",
+"isCorrect": true
+},
+{
+"text": "Extra Bed",
+"rationale": "Extra Bed 90 x 190 cm'dir.",
+"isCorrect": false
+}
+],
+"hint": "King ve Super King'i karıştırma."
+},
+{
+"questionNumber": 97,
+"question": "Aşağıdakilerden hangisi 152 cm x 203 cm ölçüsüne sahip yatak tipidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "French Bed",
+"rationale": "French Bed 140 x 200 cm'dir.",
+"isCorrect": false
+},
+{
+"text": "Queen Size Bed",
+"rationale": "Sunumda Queen Size Bed ölçüsü 152 x 203 cm olarak verilir. ",
+"isCorrect": true
+},
+{
+"text": "King Size Bed",
+"rationale": "King Size Bed 180 x 200 cm'dir.",
+"isCorrect": false
+},
+{
+"text": "Super King Size Bed",
+"rationale": "Super King Size Bed 200 x 200 cm'dir.",
+"isCorrect": false
+},
+{
+"text": "Single Bed",
+"rationale": "Single Bed 100 x 200 cm'dir.",
+"isCorrect": false
+}
+],
+"hint": "Queen ölçüsünü ezberle."
+},
+{
+"questionNumber": 98,
+"question": "Twin room aşağıdakilerden hangisini ifade eder?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Tek kişinin kalabildiği ve tek yatak bulunan oda",
+"rationale": "Bu single room'dur.",
+"isCorrect": false
+},
+{
+"text": "İki ayrı yatağın bulunduğu çift kişilik oda",
+"rationale": "Sunumda twin room, odada iki ayrı yatak bulunan ve iki kişinin kalabileceği oda olarak tanımlanır. ",
+"isCorrect": true
+},
+{
+"text": "Bir büyük yataklı çift kişilik oda",
+"rationale": "Bu double room'dur.",
+"isCorrect": false
+},
+{
+"text": "Üç ayrı yataklı oda",
+"rationale": "Bu triple room'dur.",
+"isCorrect": false
+},
+{
+"text": "Geçmeli aile odası",
+"rationale": "Bu connecting rooms ile ilgilidir.",
+"isCorrect": false
+}
+],
+"hint": "Twin = iki ayrı yatak."
+},
+{
+"questionNumber": 99,
+"question": "Double room için aşağıdakilerden hangisi doğrudur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Odada iki ayrı tek yatak vardır",
+"rationale": "Bu twin room'u anlatır.",
+"isCorrect": false
+},
+{
+"text": "Odada iki kişinin kalabileceği bir büyük yatak vardır",
+"rationale": "Sunumda double room, iki kişinin kalabileceği bir büyük yatağın bulunduğu oda olarak açıklanır. ",
+"isCorrect": true
+},
+{
+"text": "Oda yalnızca bir kişi için tasarlanmıştır",
+"rationale": "Bu single room olur.",
+"isCorrect": false
+},
+{
+"text": "Oda üç kişilik kullanıma zorunlu olarak açıktır",
+"rationale": "Bu doğru değildir.",
+"isCorrect": false
+},
+{
+"text": "Oturma odası ayrı olan suit odadır",
+"rationale": "Bu suit tanımıdır.",
+"isCorrect": false
+}
+],
+"hint": "Double room'da büyük tek yatak vardır."
+},
+{
+"questionNumber": 100,
+"question": "Connecting rooms ile adjoining rooms arasındaki temel fark aşağıdakilerden hangisidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Connecting rooms daha küçük odalardır",
+"rationale": "Temel fark büyüklük değildir.",
+"isCorrect": false
+},
+{
+"text": "Adjoining rooms'da oda servisi verilmez",
+"rationale": "Böyle bir fark yoktur.",
+"isCorrect": false
+},
+{
+"text": "Connecting rooms arasında iç geçiş kapısı vardır, adjoining rooms'da yoktur",
+"rationale": "Sunumda connecting rooms'un koridora çıkmadan geçiş sağlayan kapılarla bağlı olduğu; adjoining rooms'un ise bitişik ama geçiş kapısız odalar olduğu belirtilir. ",
+"isCorrect": true
+},
+{
+"text": "Adjoining rooms sadece suit odalardır",
+"rationale": "Bu doğru değildir.",
+"isCorrect": false
+},
+{
+"text": "Connecting rooms sadece tek kişilik kullanılır",
+"rationale": "Bu da yanlıştır.",
+"isCorrect": false
+}
+],
+"hint": "Anahtar fark: iç kapı."
+},
+{
+"questionNumber": 101,
+"question": "Aşağıdakilerden hangisi profesyonel kat hizmetleri anlayışını en doğru şekilde açıklar?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Sadece misafirin ilk bakışta görebileceği alanların temizlenmesi.",
+"rationale": "Bu ifade profesyonel temizlik anlayışını eksik açıklar; profesyonel yaklaşım görünmeyen alanları da kapsar.",
+"isCorrect": false
+},
+{
+"text": "Temizliğin sadece hızlı yapılmasına odaklanılması.",
+"rationale": "Hız önemli olabilir ancak profesyonelliğin temel ölçütü tek başına hız değildir.",
+"isCorrect": false
+},
+{
+"text": "Görünen ve ilk anda fark edilmeyen yerlerin birlikte değerlendirilerek temizlenmesi.",
+"rationale": "Sunumda profesyonel kat elemanlarının herkesin görebildiğinin ötesinde, görünmeyen ve ilk anda dikkati çekmeyen yerleri de görebilmesi gerektiği vurgulanır.",
+"isCorrect": true
+},
+{
+"text": "Temizliğin yalnızca misafir talep ettiğinde yapılması.",
+"rationale": "Bu, profesyonel temizlik anlayışını tanımlamaz.",
+"isCorrect": false
+},
+{
+"text": "Sadece banyo ve yatak alanının temiz tutulması.",
+"rationale": "Profesyonel temizlik tüm oda ve detayları kapsar.",
+"isCorrect": false
+}
+],
+"hint": "Profesyonellik, yalnızca görünen alanlarla sınırlı değildir."
+},
+{
+"questionNumber": 102,
+"question": "Oda hazırlamada yazılı talimatların kullanılmasının temel amacı aşağıdakilerden hangisidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "İşgörenlerin dinlenme süresini artırmak.",
+"rationale": "Yazılı talimatların amacı dinlenme süresini artırmak değildir.",
+"isCorrect": false
+},
+{
+"text": "İşin standart düzeyde yapılmasını sağlamak ve denetimi kolaylaştırmak.",
+"rationale": "Sunumda yazılı talimatların işin arzulanan düzeyde yapılmasına, denetimin kolaylaşmasına ve standardizasyona katkı sağladığı belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Kat arabalarının sayısını azaltmak.",
+"rationale": "Talimatlar araç sayısını azaltma amacı taşımaz.",
+"isCorrect": false
+},
+{
+"text": "Sadece yeni personelin işini kolaylaştırmak.",
+"rationale": "Yazılı talimatlar tüm personel ve denetim sistemi için önemlidir; sadece yeni personele yönelik değildir.",
+"isCorrect": false
+},
+{
+"text": "Temizliği daha kısa göstermek.",
+"rationale": "Bu doğru bir amaç değildir.",
+"isCorrect": false
+}
+],
+"hint": "Talimatların anahtar kelimeleri: zaman, işgücü, denetim, standardizasyon."
+},
+{
+"questionNumber": 103,
+"question": "Sabah vardiyasında odaların temizliğine öncelikle hangi odalardan başlanır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "VIP odalardan",
+"rationale": "Sunumda öncelik VIP odalara değil check-out olan odalara verilmiştir.",
+"isCorrect": false
+},
+{
+"text": "Uzun süreli konaklayan misafir odalarından",
+"rationale": "Bu bilgi sunumda yer almaz.",
+"isCorrect": false
+},
+{
+"text": "Check-out olmuş odalardan",
+"rationale": "Sunumda açıkça odaların temizliğine C/out olmuş odalardan başlandığı belirtilir.",
+"isCorrect": true
+},
+{
+"text": "En üst kattaki odalardan",
+"rationale": "Kat sırasına göre başlama bilgisi verilmemiştir.",
+"isCorrect": false
+},
+{
+"text": "Boş olduğu tahmin edilen odalardan",
+"rationale": "Tahmine göre değil, check-out durumuna göre öncelik verilir.",
+"isCorrect": false
+}
+],
+"hint": "Sunumda 'C/out' ifadesi özellikle geçiyor."
+},
+{
+"questionNumber": 104,
+"question": "Aşağıdakilerden hangisi oda bakım arabasında bulunan malzemelerden biridir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Süpürge",
+"rationale": "Süpürge oda temizlik arabasında bulunur.",
+"isCorrect": false
+},
+{
+"text": "Paspas",
+"rationale": "Paspas oda temizlik arabasında yer alır.",
+"isCorrect": false
+},
+{
+"text": "Temiz çamaşırlar",
+"rationale": "Sunumda oda bakım arabasında temiz çamaşırlar, buklet malzemeleri ve benzeri malzemelerin bulunduğu belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Kova çeşitleri",
+"rationale": "Kovalar oda temizlik arabasına aittir.",
+"isCorrect": false
+},
+{
+"text": "Yer fırçalama makinesi",
+"rationale": "Bu bilgi sunumda oda bakım arabası içeriği arasında verilmemiştir.",
+"isCorrect": false
+}
+],
+"hint": "Oda bakım arabası daha çok sarf ve yerleştirme malzemeleri taşır."
+},
+{
+"questionNumber": 105,
+"question": "Aşağıdakilerden hangisi oda temizlik arabasında bulunur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Buklet malzemeleri",
+"rationale": "Buklet malzemeleri oda bakım arabasında bulunur.",
+"isCorrect": false
+},
+{
+"text": "Temiz havlular",
+"rationale": "Temiz havlular bakım arabasında taşınır.",
+"isCorrect": false
+},
+{
+"text": "Süpürge",
+"rationale": "Sunumda oda temizlik arabasında süpürge, temizlik fırçaları, paspas ve kova çeşitlerinin bulunduğu belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Yastık kılıfları",
+"rationale": "Yastık kılıfları temiz çamaşır olarak bakım arabasında değerlendirilir.",
+"isCorrect": false
+},
+{
+"text": "Kit malzemeleri",
+"rationale": "Kit malzemeleri oda bakım arabasında yer alır.",
+"isCorrect": false
+}
+],
+"hint": "Temizlik arabası ekipman ağırlıklıdır."
+},
+{
+"questionNumber": 106,
+"question": "Oda bakım arabası ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Her kullanımdan önce sağlamlığı kontrol edilmelidir.",
+"rationale": "Bu, sunumdaki doğru püf noktalardan biridir.",
+"isCorrect": false
+},
+{
+"text": "Kapasitesinin üzerinde malzeme yerleştirilmemelidir.",
+"rationale": "Bu ifade doğrudur.",
+"isCorrect": false
+},
+{
+"text": "Koridordaki geçişi engellemeyecek boyutta olmalıdır.",
+"rationale": "Bu da doğru bir ilkedir.",
+"isCorrect": false
+},
+{
+"text": "Yangın giriş-çıkışlarını kapatacak şekilde yerleştirilmesi sakınca oluşturmaz.",
+"rationale": "Sunumda açıkça oda ve yangın giriş-çıkışlarını engellemeyecek şekilde yerleştirilmesi gerektiği belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Doğru kullanımı iş yükünü hafifletir.",
+"rationale": "Bu sunumda yer alan doğru bir ifadedir.",
+"isCorrect": false
+}
+],
+"hint": "Güvenlik vurgusunu düşün."
+},
+{
+"questionNumber": 107,
+"question": "İlk kontrol ve ön hazırlık aşamasında odaya girildiğinde ilk yapılacak işlemlerden biri aşağıdakilerden hangisidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Doğrudan yatak örtüsünü sermek",
+"rationale": "Yatak örtüsü serme son aşamalardandır; ilk işlem değildir.",
+"isCorrect": false
+},
+{
+"text": "Pencereleri açarak odanın havalanmasını sağlamak",
+"rationale": "Sunumda içeri girildiğinde önce odaya bir göz atılıp pencerelerin açılarak havalandırma sağlanması gerektiği belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Klozete temizlik maddesi dökmek",
+"rationale": "Bu banyo temizliği aşamasına aittir.",
+"isCorrect": false
+},
+{
+"text": "Buklet malzemelerini yerleştirmek",
+"rationale": "Bu işlem daha sonra yapılır.",
+"isCorrect": false
+},
+{
+"text": "Kapıya kahvaltı istek formu asmak",
+"rationale": "Bu son kontrol aşamasında yapılır.",
+"isCorrect": false
+}
+],
+"hint": "İlk aşamada oda genel olarak gözden geçirilir ve havalandırılır."
+},
+{
+"questionNumber": 108,
+"question": "İlk kontrol ve ön hazırlık aşamasında aşağıdakilerden hangisi kontrol edilir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Sadece yatak yüksekliği",
+"rationale": "Kontrol sadece yatakla sınırlı değildir.",
+"isCorrect": false
+},
+{
+"text": "Misafir tarafından unutulan eşya olup olmadığı",
+"rationale": "Sunumda unutulan eşya kontrolünün ilk kontrol aşamasında yapılması gerektiği belirtilmiştir.",
+"isCorrect": true
+},
+{
+"text": "Sadece minibar fiyat listesi",
+"rationale": "Bu bilgi sunumda yer almaz.",
+"isCorrect": false
+},
+{
+"text": "Sadece klima markası",
+"rationale": "Marka kontrolü değil, araç-gereçlerin çalışıp çalışmadığı önemlidir.",
+"isCorrect": false
+},
+{
+"text": "Sadece oda dekorasyonu",
+"rationale": "Bu, ilk kontrolün temel amacı değildir.",
+"isCorrect": false
+}
+],
+"hint": "Misafire ait eşyalar önemli bir prosedür başlatır."
+},
+{
+"questionNumber": 109,
+"question": "Odadaki elektrikli araç-gereçler ve musluklarla ilgili ilk kontrol aşamasında ne yapılmalıdır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Sökülüp temizlenmelidir.",
+"rationale": "İlk kontrol aşamasında sökme işlemi yapılmaz.",
+"isCorrect": false
+},
+{
+"text": "Çalışıp çalışmadıklarına bakılmalıdır.",
+"rationale": "Sunumda odadaki elektrikli araç-gereçlerin, muslukların ve diğer donanımların çalışıp çalışmadığının kontrol edildiği belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Yerleri değiştirilmelidir.",
+"rationale": "Böyle bir uygulama belirtilmemiştir.",
+"isCorrect": false
+},
+{
+"text": "Sadece teknik servis çağrılmalıdır.",
+"rationale": "Önce kontrol yapılır; arıza varsa teknik servise bildirilir.",
+"isCorrect": false
+},
+{
+"text": "Kapatılıp tekrar açılmamalıdır.",
+"rationale": "Bu ifade anlamlı ve doğru bir prosedür değildir.",
+"isCorrect": false
+}
+],
+"hint": "Bu aşama işlevsellik kontrolüdür."
+},
+{
+"questionNumber": 110,
+"question": "Yastık kılıfları ve çarşaflar yataktan kaldırıldığında aşağıdakilerden hangisi doğrudur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Yere bırakılarak sınıflandırılır.",
+"rationale": "Sunumda özellikle yere bırakılmadan toplanması gerektiği belirtilir.",
+"isCorrect": false
+},
+{
+"text": "Dikkatlice silkelenir ve yere bırakılmadan toplanır.",
+"rationale": "Bu ifade sunumdaki işlem sırasını doğru yansıtır.",
+"isCorrect": true
+},
+{
+"text": "Pencereye asılarak havalandırılır.",
+"rationale": "Böyle bir uygulama belirtilmemiştir.",
+"isCorrect": false
+},
+{
+"text": "Banyoda bekletilir.",
+"rationale": "Kirli çamaşırlar bakım arabasına götürülür; banyoda bekletilmez.",
+"isCorrect": false
+},
+{
+"text": "Hemen çöpe atılır.",
+"rationale": "Çarşaf ve kılıflar çöp değildir.",
+"isCorrect": false
+}
+],
+"hint": "Hijyen açısından yere temas ettirilmemesi önemlidir."
+},
+{
+"questionNumber": 111,
+"question": "Misafire ait bir eşya bulunmuşsa aşağıdaki işlemlerden hangisi uygulanmalıdır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Kat personeli eşyayı kendi dolabında saklar.",
+"rationale": "Bu prosedüre aykırıdır.",
+"isCorrect": false
+},
+{
+"text": "Doğrudan ön büroya bırakılır ve kayıt tutulmaz.",
+"rationale": "Sunumda kayıt ve tutanak süreci açıkça belirtilmiştir.",
+"isCorrect": false
+},
+{
+"text": "Housekeeper'a teslim edilir ve Kaybolan/Bulunan Eşya Tutanağı doldurulur.",
+"rationale": "Sunumda bulunan eşya için bu prosedürün uygulanacağı belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Eşya hemen çöpe atılır.",
+"rationale": "Bu yanlış ve usulsüz bir uygulamadır.",
+"isCorrect": false
+},
+{
+"text": "Eşya odada bırakılır.",
+"rationale": "Bulunan eşya mutlaka prosedüre uygun teslim edilmelidir.",
+"isCorrect": false
+}
+],
+"hint": "Bulunan eşya için hem teslim hem de kayıt vardır."
+},
+{
+"questionNumber": 112,
+"question": "Bulunan eşya değerli ise nerede muhafaza edilir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Kat ofisinde açık rafta",
+"rationale": "Değerli eşyalar açık rafta tutulmaz.",
+"isCorrect": false
+},
+{
+"text": "Housekeeper'ın masasında",
+"rationale": "Bu prosedüre uygun değildir.",
+"isCorrect": false
+},
+{
+"text": "Otel kasasında",
+"rationale": "Sunumda para, mücevher gibi değerli eşyaların otel kasasında muhafaza edildiği belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Çamaşırhanede",
+"rationale": "Çamaşırhane uygun muhafaza alanı değildir.",
+"isCorrect": false
+},
+{
+"text": "Temizlik arabasında",
+"rationale": "Bu güvenli bir saklama yöntemi değildir.",
+"isCorrect": false
+}
+],
+"hint": "Değerli eşya için güvenli muhafaza alanı kullanılır."
+},
+{
+"questionNumber": 113,
+"question": "Odada otele ait herhangi bir eşyanın eksik veya hasarlı olduğu görülürse ne yapılmalıdır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Durum görmezden gelinmelidir.",
+"rationale": "Bu profesyonel yaklaşım değildir.",
+"isCorrect": false
+},
+{
+"text": "Nedeni araştırılmalı, gerekirse ön büro haberdar edilmelidir.",
+"rationale": "Sunumda havlu, battaniye gibi otel eşyalarının eksik veya hasarlı olması durumunda nedenin araştırılacağı ve gerekirse ön büroya bilgi verileceği belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Misafire haber verilmeden ücret kesilmelidir.",
+"rationale": "Bu bilgi sunumda yer almaz ve prosedür böyle açıklanmamıştır.",
+"isCorrect": false
+},
+{
+"text": "Eşya hemen çöpe atılmalıdır.",
+"rationale": "Önce durum değerlendirilmelidir.",
+"isCorrect": false
+},
+{
+"text": "Sadece teknik servis çağrılmalıdır.",
+"rationale": "Her eksik eşya teknik servis konusu değildir.",
+"isCorrect": false
+}
+],
+"hint": "İlk adım araştırma, gerekirse bilgilendirmedir."
+},
+{
+"questionNumber": 114,
+"question": "Yatak yapımına başlamadan önce aşağıdakilerden hangisi mutlaka sağlanmalıdır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Pencerenin kapalı olması",
+"rationale": "Yatak yapımı öncesi pencerenin kapalı olması gerektiğine dair bilgi verilmez.",
+"isCorrect": false
+},
+{
+"text": "Ellerin ve üniformanın temiz olması",
+"rationale": "Sunumda yatak yapımına başlamadan önce ellerin ve üniformanın temiz olması gerektiği açıkça belirtilmiştir.",
+"isCorrect": true
+},
+{
+"text": "Klozetin temizlenmiş olması",
+"rationale": "Bu yatak yapımının ön koşulu olarak belirtilmez.",
+"isCorrect": false
+},
+{
+"text": "Kapı kartlarının asılmış olması",
+"rationale": "Bu son kontrol aşamasında yapılır.",
+"isCorrect": false
+},
+{
+"text": "Minibarın doldurulmuş olması",
+"rationale": "Bu bilgi sunumda yatak yapımı ile ilişkilendirilmez.",
+"isCorrect": false
+}
+],
+"hint": "Hijyen burada personelin kişisel temizliğini de kapsar."
+},
+{
+"questionNumber": 115,
+"question": "Yatak yapımında doğru işlem sıralaması aşağıdakilerden hangisidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Önce çarşaf, sonra yatak alezi yerleştirilir.",
+"rationale": "Sunuma göre önce yatak alezi, sonra çarşaf yerleştirilir.",
+"isCorrect": false
+},
+{
+"text": "Önce yatak alezi, sonra çarşaf yerleştirilir.",
+"rationale": "Bu, sunumda verilen doğru sıralamadır.",
+"isCorrect": true
+},
+{
+"text": "Önce yatak örtüsü, sonra nevresim geçirilir.",
+"rationale": "Yatak örtüsü en son serilir.",
+"isCorrect": false
+},
+{
+"text": "Önce yastık kılıfları, sonra alez yerleştirilir.",
+"rationale": "Bu sıra doğru değildir.",
+"isCorrect": false
+},
+{
+"text": "Önce battaniye, sonra çarşaf, sonra alez serilir.",
+"rationale": "Bu işlem sırası sunumdaki sırayla uyuşmaz.",
+"isCorrect": false
+}
+],
+"hint": "Alez çarşaftan önce gelir."
+},
+{
+"questionNumber": 116,
+"question": "Çarşaf yatağa serilirken hangi noktaya dikkat edilmelidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Çarşafın desenli yüzü kapıya bakmalıdır.",
+"rationale": "Böyle bir kural verilmemiştir.",
+"isCorrect": false
+},
+{
+"text": "Çarşafın orta kat yeri yatağın ortasına gelecek şekilde serilmelidir.",
+"rationale": "Sunumda bu ayrıntı açık biçimde belirtilmiştir.",
+"isCorrect": true
+},
+{
+"text": "Çarşafın bir kenarı sarkık bırakılmalıdır.",
+"rationale": "Bu doğru bir yatak yapım tekniği değildir.",
+"isCorrect": false
+},
+{
+"text": "Çarşaf katlanmadan bırakılmalıdır.",
+"rationale": "Sunumda çarşafın köşe ya da zarf şeklinde katlandığı belirtilir.",
+"isCorrect": false
+},
+{
+"text": "Çarşaf önce yorganın üstüne serilmelidir.",
+"rationale": "Bu doğru değildir.",
+"isCorrect": false
+}
+],
+"hint": "Burada odak noktası simetri ve düzgün yerleşimdir."
+},
+{
+"questionNumber": 117,
+"question": "Yastık kılıflarının ağız kısmı nasıl yerleştirilmelidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Kapıya bakacak şekilde",
+"rationale": "Sunumda böyle belirtilmez.",
+"isCorrect": false
+},
+{
+"text": "Televizyona bakacak şekilde",
+"rationale": "Bu bilgi sunumda yer almaz.",
+"isCorrect": false
+},
+{
+"text": "Cam ya da balkona bakacak şekilde",
+"rationale": "Sunumda yastık kılıflarının ağız kısmının cam ya da balkona bakacak şekilde yerleştirilmesi gerektiği belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Başucu duvarına bakacak şekilde",
+"rationale": "Bu ifade sunumdaki ayrıntıyla örtüşmez.",
+"isCorrect": false
+},
+{
+"text": "Fark etmez",
+"rationale": "Sunumda bunun belirli bir yönü olduğu belirtilmiştir.",
+"isCorrect": false
+}
+],
+"hint": "Bu, küçük ama sınavda sorulabilecek bir detaydır."
+},
+{
+"questionNumber": 118,
+"question": "Toz alma işlemine nereden başlanmalı ve nerede bitirilmelidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Pencereden başlanmalı, banyoda bitirilmelidir.",
+"rationale": "Sunumda böyle bir sıra verilmez.",
+"isCorrect": false
+},
+{
+"text": "Yatak başından başlanmalı, kapıda bitirilmelidir.",
+"rationale": "Başlangıç noktası yatak başı olarak belirtilmemiştir.",
+"isCorrect": false
+},
+{
+"text": "Kapıya en yakın yerden başlanmalı ve yine kapıya en yakın yerde bitirilmelidir.",
+"rationale": "Sunumda toz almaya kapıya en yakın yerden başlanacağı ve yine kapıya en yakın yerde bitirileceği belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Balkondan başlanmalı, kapıda bitirilmelidir.",
+"rationale": "Bu bilgi verilmemiştir.",
+"isCorrect": false
+},
+{
+"text": "Odanın ortasından başlanmalı, ortada bitirilmelidir.",
+"rationale": "Sunumdaki kurala uymaz.",
+"isCorrect": false
+}
+],
+"hint": "Kapı referans noktasıdır."
+},
+{
+"questionNumber": 119,
+"question": "Toz alma sırasında elektrikli aletlerle ilgili hangi uygulama doğrudur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Daha hızlı olsun diye çalışır halde bırakılmalıdır.",
+"rationale": "Bu güvenli değildir.",
+"isCorrect": false
+},
+{
+"text": "Elektrik bağlantıları kesilmelidir.",
+"rationale": "Sunumda elektrikli aletlerin tozu alınırken elektrik bağlantılarının kesilmesi gerektiği belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Sadece dış yüzeyleri görmezden gelinmelidir.",
+"rationale": "Toz alma yapılmalıdır ancak güvenli şekilde.",
+"isCorrect": false
+},
+{
+"text": "Su ile silinmelidir.",
+"rationale": "Bu genelleyici ve riskli bir ifadedir; sunumda böyle bir bilgi yoktur.",
+"isCorrect": false
+},
+{
+"text": "Fişe dokunulmadan temizlik yapılmalıdır.",
+"rationale": "Bu güvenlik kuralına aykırıdır.",
+"isCorrect": false
+}
+],
+"hint": "Burada güvenlik ilkesi öne çıkar."
+},
+{
+"questionNumber": 120,
+"question": "Oda iki işgören tarafından hazırlanıyorsa aşağıdakilerden hangisi beklenen bir sonuçtur?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "İş bölümü sayesinde uzmanlaşmanın artması",
+"rationale": "Sunumda oda iki işgören tarafından hazırlanıyorsa oturma/yatak alanı ile banyo temizliğinin iş bölümü içinde yapılabileceği ve bunun uzmanlaşmayı artıracağı belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Yazılı talimatlara gerek kalmaması",
+"rationale": "İş bölümü, yazılı talimat ihtiyacını ortadan kaldırmaz.",
+"isCorrect": false
+},
+{
+"text": "Banyoyu temizlemeye gerek kalmaması",
+"rationale": "Bu yanlış bir çıkarımdır.",
+"isCorrect": false
+},
+{
+"text": "Yatağın yapılmasının iptal edilmesi",
+"rationale": "Yatak yapımı temel işlemlerden biridir.",
+"isCorrect": false
+},
+{
+"text": "Son kontrolün kaldırılması",
+"rationale": "Son kontrol her durumda önemlidir.",
+"isCorrect": false
+}
+],
+"hint": "İki kişiyle çalışmanın avantajı iş bölümüyle ilişkilidir."
+},
+{
+"questionNumber": 121,
+"question": "Banyo temizliğinde klozet için doğru işlem sırası aşağıdakilerden hangisidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Önce dış kısmı, sonra iç kısmı temizlenir.",
+"rationale": "Sunuma göre doğru sıra bu değildir.",
+"isCorrect": false
+},
+{
+"text": "Kapağı açılır, temizlik maddesi dökülür, kapatılır, beklenir; önce iç sonra dış kısmı temizlenir.",
+"rationale": "Bu ifade sunumdaki banyo temizliği prosedürünü doğru şekilde özetler.",
+"isCorrect": true
+},
+{
+"text": "Hiç beklemeden doğrudan dış kısmı silinir.",
+"rationale": "Bekleme süresi ve iç-dış sıralaması önemlidir.",
+"isCorrect": false
+},
+{
+"text": "Önce çöp kovası temizlenir, sonra klozet temizlenir.",
+"rationale": "Bu, sunumdaki sıralama değildir.",
+"isCorrect": false
+},
+{
+"text": "Sadece rezervuar çekilir, başka işleme gerek yoktur.",
+"rationale": "Bu açıkça yetersizdir.",
+"isCorrect": false
+}
+],
+"hint": "Temizlik maddesi dökülür, bir süre beklenir ve iç kısım önceliklidir."
+},
+{
+"questionNumber": 122,
+"question": "Banyo temizliğinde aşağıdakilerden hangisi buklet malzemeleri yerleştirilmeden önce yapılır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Eldivenler çıkartılır.",
+"rationale": "Sunumda ayna ve cam yüzeylerin temizlenmesi, leke temizliği sonrası eldivenlerin çıkartılarak buklet malzemelerinin yerleştirildiği belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Zemin temizlenir.",
+"rationale": "Zemin temizliği daha sonra, eldiven tekrar takıldıktan sonra yapılır.",
+"isCorrect": false
+},
+{
+"text": "Çöp kovası boşaltılır.",
+"rationale": "Çöp kovası temizliği buklet yerleştirme sonrasındaki aşamalardandır.",
+"isCorrect": false
+},
+{
+"text": "Kapı kartları asılır.",
+"rationale": "Bu son kontrol aşamasında yapılır.",
+"isCorrect": false
+},
+{
+"text": "Yastık kılıfı geçirilir.",
+"rationale": "Bu yatak yapımı ile ilgilidir.",
+"isCorrect": false
+}
+],
+"hint": "Buklet yerleştirme ile eldiven kullanımı arasında bir geçiş vardır."
+},
+{
+"questionNumber": 123,
+"question": "Banyo temizliği sırasında eldivenler tekrar ne zaman takılır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Buklet malzemeleri yerleştirildikten ve temiz havlular konulduktan sonra",
+"rationale": "Sunumda eldivenlerin çıkarılıp buklet malzemeleri ile temiz havluların yerleştirildiği, ardından eldivenin tekrar takılarak zemin ve çöp kovasının temizlendiği belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Odaya ilk girildiği anda",
+"rationale": "Bu soru tekrar takma zamanını soruyor; ilk girme anını değil.",
+"isCorrect": false
+},
+{
+"text": "Son kontrolden sonra",
+"rationale": "Eldiven son kontrolden sonra değil, zemin ve çöp kovası temizliğinden önce tekrar takılır.",
+"isCorrect": false
+},
+{
+"text": "Yatak yapımından hemen önce",
+"rationale": "Bu banyo prosedürüyle ilgili değildir.",
+"isCorrect": false
+},
+{
+"text": "Hiçbir zaman tekrar takılmaz.",
+"rationale": "Sunumda tekrar takıldığı özellikle belirtilir.",
+"isCorrect": false
+}
+],
+"hint": "Tekrar takılma nedeni zemin ve çöp kovası temizliğidir."
+},
+{
+"questionNumber": 124,
+"question": "Tuvalet temizlendikten sonra kapağa ne geçirilmelidir?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Kahvaltı istek formu",
+"rationale": "Bu kapıya asılan kartlardan biridir; klozet kapağına geçirilmez.",
+"isCorrect": false
+},
+{
+"text": "Mini bar kontrol etiketi",
+"rationale": "Bu bilgi sunumda yer almaz.",
+"isCorrect": false
+},
+{
+"text": "Hususi surette temizlenmiştir ibaresi bulunan kağıt şerit",
+"rationale": "Sunumda banyo temizliği tamamlandıktan sonra tuvalet kapağına bu tür bir kağıt şeridin geçirilmesi gerektiği belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Buklet listesi",
+"rationale": "Böyle bir uygulama belirtilmemiştir.",
+"isCorrect": false
+},
+{
+"text": "Lost and found etiketi",
+"rationale": "Bu, bulunan eşyalarla ilgilidir.",
+"isCorrect": false
+}
+],
+"hint": "Bu ayrıntı hijyen ve sunumla ilgilidir."
+},
+{
+"questionNumber": 125,
+"question": "Son kontrol aşamasında aşağıdakilerden hangisi yapılır?",
+"imageUrl": null,
+"answerOptions": [
+{
+"text": "Odadaki kirli çamaşırlar toplanır.",
+"rationale": "Bu işlem daha önceki aşamalarda yapılır.",
+"isCorrect": false
+},
+{
+"text": "Pencereler açılarak havalandırma sağlanır.",
+"rationale": "Bu ilk kontrol ve ön hazırlık aşamasına aittir.",
+"isCorrect": false
+},
+{
+"text": "Kapının arkasına 'Lütfen Rahatsız Etmeyiniz', 'Odamı Hemen Hazırlayınız' ve kahvaltı istek formu kartları asılır.",
+"rationale": "Sunumda son kontrolde kapının arkasına bu kartların asıldığı belirtilir.",
+"isCorrect": true
+},
+{
+"text": "Yastık kılıfları geçirilir.",
+"rationale": "Bu yatak yapımı aşamasında yapılır.",
+"isCorrect": false
+},
+{
+"text": "Klozet kapağına temizlik maddesi dökülür.",
+"rationale": "Bu banyo temizliği aşamasına aittir.",
+"isCorrect": false
+}
+],
+"hint": "Son kontrol, odadan çıkmadan önce yapılan genel düzen ve kart kontrolüdür."
+},
+{
+      "questionNumber": 126,
+      "question": "V.I.P odalarının hazırlanmasında aşağıdakilerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Standart odalarla aynı çamaşırlar kullanılır.",
+          "rationale": "VIP odalarda standart değil, özel ve kullanılmamış çamaşırlar kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daha önce kullanılmamış çamaşırlar tercih edilir.",
+          "rationale": "VIP odalar için kullanılmamış çamaşır kullanılması temel kuraldır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Temizlik sadece kat görevlisi tarafından yapılır.",
+          "rationale": "Kat şefi ve housekeeper denetimi de gerekir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir isteği dikkate alınmaz.",
+          "rationale": "VIP misafirlerin özel istekleri mutlaka dikkate alınır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odalar hızlı hazırlanır, kalite önemli değildir.",
+          "rationale": "VIP odalarda kalite en önemli unsurdur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "VIP odalarda kalite ve özel hizmet ön plandadır."
+    },
+    {
+      "questionNumber": 127,
+      "question": "V.I.P odalarının temizliğinde denetim kim tarafından yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Resepsiyon görevlisi",
+          "rationale": "Resepsiyon temizlik denetimi yapmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Housekeeper",
+          "rationale": "VIP odalarının denetimi housekeeper tarafından yapılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Güvenlik görevlisi",
+          "rationale": "Güvenlik bu işten sorumlu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şoför",
+          "rationale": "Alakasız bir görevdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aşçı",
+          "rationale": "Mutfak personeli temizlik denetimi yapmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Housekeeping departmanının en üst sorumlusu düşün."
+    },
+    {
+      "questionNumber": 128,
+      "question": "Engelli misafir odalarında en önemli özellik nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Standart düzenin korunması",
+          "rationale": "Engelli odaları standart değil kişiye özeldir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kişiye özel düzenleme yapılması",
+          "rationale": "Engelli odaları misafire göre düzenlenir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mobilyaların sabit olması",
+          "rationale": "Gerekirse mobilyalar kaldırılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dekorasyonun değiştirilmemesi",
+          "rationale": "Fonksiyonellik daha önemlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odanın küçük olması",
+          "rationale": "Aksine geniş alan gerekir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Engelli misafirler için oda standart değildir."
+    },
+    {
+      "questionNumber": 129,
+      "question": "Tekerlekli sandalye kullanan misafir için ne yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eşyalar artırılır",
+          "rationale": "Alan daraltılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eşyalar kaldırılarak alan açılır",
+          "rationale": "Serbest hareket alanı oluşturulmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oda değiştirilir",
+          "rationale": "Gerekli düzenleme odada yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik yapılmaz",
+          "rationale": "Temizlik her zaman yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapı kapalı tutulur",
+          "rationale": "Konuyla ilgili değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hareket alanı önemli."
+    },
+    {
+      "questionNumber": 130,
+      "question": "Görme engelli misafirler için hangi uygulama yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Normal yazı kullanılır",
+          "rationale": "Yetersizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kabartmalı yazı kullanılır",
+          "rationale": "Braille sistemi kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yazı kaldırılır",
+          "rationale": "Bilgi verilmelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sesli sistem zorunludur",
+          "rationale": "PDF’de bu yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Işık artırılır",
+          "rationale": "Tek başına çözüm değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Görme engelli → dokunma ile algı."
+    },
+    {
+      "questionNumber": 131,
+      "question": "Odaya girmeden önce ilk kontrol edilmesi gereken nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Oda numarası",
+          "rationale": "Önemli ama ilk kontrol değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rahatsız Etmeyiniz kartı",
+          "rationale": "Kapıda bu kartın olup olmadığı kontrol edilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pencere durumu",
+          "rationale": "İçeri girdikten sonra kontrol edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yatak düzeni",
+          "rationale": "İçeride kontrol edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Banyo temizliği",
+          "rationale": "İçeride yapılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kapı üzerindeki işaret."
+    },
+    {
+      "questionNumber": 132,
+      "question": "“Rahatsız Etmeyiniz” kartı varsa ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kapı çalınır",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odaya girilir",
+          "rationale": "Kesinlikle girilmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik ertelenir",
+          "rationale": "Doğru uygulamadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kapı açılır",
+          "rationale": "Yasaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kart kaldırılır",
+          "rationale": "Müdahale edilmez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafirin mahremiyeti."
+    },
+    {
+      "questionNumber": 133,
+      "question": "Odaya girerken ne söylenmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Merhaba",
+          "rationale": "Yetersizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Housekeeping",
+          "rationale": "Tanıtıcı ifade kullanılmalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Temizlik",
+          "rationale": "Profesyonel ifade değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İzin",
+          "rationale": "Yetersizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Selam",
+          "rationale": "Resmi değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Departman adı söylenir."
+    },
+    {
+      "questionNumber": 134,
+      "question": "Temizlik sırasında misafir eşyaları için ne yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yerleri değiştirilir",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karıştırılır",
+          "rationale": "Yasaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dokunulmaz",
+          "rationale": "Doğru uygulama budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kullanılır",
+          "rationale": "Yasaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Taşınır",
+          "rationale": "Gerekmedikçe yapılmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafir eşyası kutsaldır."
+    },
+    {
+      "questionNumber": 135,
+      "question": "Kat ofislerinin temel amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Depolama yapmak",
+          "rationale": "Amaçlardan biridir ama ana amaç değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zaman ve enerji tasarrufu sağlamak",
+          "rationale": "Temel amaç budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Personeli dinlendirmek",
+          "rationale": "Ana amaç değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir ağırlamak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemek hazırlamak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Verimlilik."
+    },
+    {
+      "questionNumber": 136,
+      "question": "Kat ofisinde aşağıdakilerden hangisi bulunmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yatak",
+          "rationale": "Gerekli değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "Raf sistemi",
+          "rationale": "Malzemeler için gereklidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Televizyon",
+          "rationale": "Gerekli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masa lambası",
+          "rationale": "Öncelikli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Koltuk takımı",
+          "rationale": "Gerekli değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Depolama için gerekli."
+    },
+    {
+      "questionNumber": 137,
+      "question": "Yanıcı maddeler kat ofisinde nasıl saklanmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Açıkta",
+          "rationale": "Tehlikelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kilitli dolapta",
+          "rationale": "Doğru uygulama budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zeminde",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pencerede",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Askıda",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Güvenlik önlemi."
+    },
+    {
+      "questionNumber": 138,
+      "question": "Havuz temizliğinde ilk adım nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Filtrasyon",
+          "rationale": "Sonraki aşamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şezlongları düzenlemek",
+          "rationale": "İlk adımdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Suyu boşaltmak",
+          "rationale": "Her zaman yapılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "İlaçlama",
+          "rationale": "Sonraki aşamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Süpürme",
+          "rationale": "Sonraki aşamadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çevre düzeni."
+    },
+    {
+      "questionNumber": 139,
+      "question": "Havuz temizliğinde hangisi yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Boyama",
+          "rationale": "Temizlik işlemi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Filtrasyon",
+          "rationale": "Temel işlemlerden biridir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yıkama yapılmaz",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapı temizliği",
+          "rationale": "Alakasızdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mobilya değişimi",
+          "rationale": "Temizlik değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Su temizliği."
+    },
+    {
+      "questionNumber": 140,
+      "question": "Genel tuvalet temizliğinde ilk adım nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Zemin temizliği",
+          "rationale": "Sonraki aşamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Havalandırma",
+          "rationale": "İlk yapılması gereken işlemdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ayna silme",
+          "rationale": "Sonraki aşamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Klozet temizliği",
+          "rationale": "Sonraki aşamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Paspas",
+          "rationale": "Sonraki aşamadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Temizlikten önce ortam."
+    },
+    {
+      "questionNumber": 141,
+      "question": "Tuvalet temizliğinde dezenfektan ne zaman kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sonunda",
+          "rationale": "Silme sırasında kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Silme sırasında",
+          "rationale": "Doğru kullanım budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Başta",
+          "rationale": "Yetersizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiç kullanılmaz",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece zeminde",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hijyen aşaması."
+    },
+    {
+      "questionNumber": 142,
+      "question": "Asansör temizliği ne zaman yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece gece",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yoğun olmayan saatlerde ve gün içinde",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hiç yapılmaz",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece sabah",
+          "rationale": "Eksiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece akşam",
+          "rationale": "Eksiktir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yoğunluk önemli."
+    },
+    {
+      "questionNumber": 143,
+      "question": "Asansör butonları nasıl temizlenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece silinir",
+          "rationale": "Eksiktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Silinir ve dezenfekte edilir",
+          "rationale": "Doğru yöntem budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yıkanır",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Parlatılır",
+          "rationale": "Yetersizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlenmez",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hijyen."
+    },
+    {
+      "questionNumber": 144,
+      "question": "Oda temizliği bitince ne yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kapı açık bırakılır",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapı kilitlenir",
+          "rationale": "Doğru uygulamadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Malzeme bırakılır",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Işık kapatılmaz",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pencere açılır",
+          "rationale": "Zorunlu değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Güvenlik."
+    },
+    {
+      "questionNumber": 145,
+      "question": "Oda içinde hasar varsa ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gizlenir",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kat şefine bildirilir",
+          "rationale": "Doğru uygulamadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tamir edilir",
+          "rationale": "Yetkisizdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yok sayılır",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafire bırakılır",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yetkili kişi."
+    },
+    {
+      "questionNumber": 146,
+      "question": "Kat ofisinde lavabo neden bulunmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "El yıkamak için",
+          "rationale": "Eksik cevap.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bez ve kovaları yıkamak için",
+          "rationale": "Doğru cevap.",
+          "isCorrect": true
+        },
+        {
+          "text": "Su içmek için",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temizlik yapmak için değil",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dekor amaçlı",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Temizlik ekipmanları."
+    },
+    {
+      "questionNumber": 147,
+      "question": "Kat ofisinde askıların amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Elbise asmak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Islak temizlik malzemelerini asmak",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kapı süslemek",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Işık asmak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Perde takmak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Islak ekipman."
+    },
+    {
+      "questionNumber": 148,
+      "question": "Havuz temizliğinde kimyasal kullanımının amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Renk vermek",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hijyen sağlamak",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Koku vermek",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Süslemek",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Suyu azaltmak",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Temizlik ve sağlık."
+    },
+    {
+      "questionNumber": 149,
+      "question": "Genel tuvaletler neden önemli alanlardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dekorasyon için",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bakteri üretimi hızlı olduğu için",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sessiz oldukları için",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geniş oldukları için",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Az kullanıldığı için",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hijyen riski."
+    },
+    {
+      "questionNumber": 150,
+      "question": "Asansör zemin temizliği nasıl yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Silinmez",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vakumlanır",
+          "rationale": "Doğru cevaptır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Boyanır",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıkanır",
+          "rationale": "Genelde yapılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Süpürülmez",
+          "rationale": "Yanlıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Halı yüzey."
+    }
+  ]
+}
+
+

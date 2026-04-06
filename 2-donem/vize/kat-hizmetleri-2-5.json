@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Kat hizmetlerinde kullanılan temizlik araç ve gereçleri temelde kaç ana başlık altında toplanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "3", "rationale": "Yanlış. Temizlik araçları 4 ana başlıkta toplanır.", "isCorrect": false},
+        {"text": "4", "rationale": "Doğru. Kaplar, Fırçalar, Toz Alma ve Parlatma Bezleri, Diğer Temizlik ve Bakım Araçları olmak üzere 4 ana başlık vardır.", "isCorrect": true},
+        {"text": "5", "rationale": "Yanlış. 5 değil, 4 ana başlık bulunmaktadır.", "isCorrect": false},
+        {"text": "6", "rationale": "Yanlış. Temizlik araçları 6 başlıkta değil, 4 başlıkta toplanır.", "isCorrect": false},
+        {"text": "2", "rationale": "Yanlış. Sadece 2 başlık yeterli değildir, 4 ana kategori vardır.", "isCorrect": false}
+      ],
+      "hint": "Temizlik malzemeleri kaplar, fırçalar, bezler ve diğer araçlar şeklinde sınıflandırılır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi temizlik kaplarının üretildiği materyallerden biri DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Emaye", "rationale": "Yanlış. Emaye, kap üretiminde kullanılan bir materyaldir.", "isCorrect": false},
+        {"text": "Plastik", "rationale": "Yanlış. Plastik yaygın olarak kullanılan bir kap materyalidir.", "isCorrect": false},
+        {"text": "Galvaniz", "rationale": "Yanlış. Galvaniz (çinko kaplama) kap üretiminde kullanılır.", "isCorrect": false},
+        {"text": "Ahşap", "rationale": "Doğru. Ahşap, temizlik kaplarının üretiminde kullanılan bir materyal değildir.", "isCorrect": true},
+        {"text": "Çelik", "rationale": "Yanlış. Çelik kap üretiminde kullanılan materyallerdendir.", "isCorrect": false}
+      ],
+      "hint": "Temizlik kapları emaye, plastik, galvaniz, çelik ve alüminyumdan üretilir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Temizlik kapları seçilirken ön planda tutulması gereken en önemli kriter aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Fiyatı", "rationale": "Yanlış. Fiyat önemli olsa da en öncelikli kriter değildir.", "isCorrect": false},
+        {"text": "Renk ve tasarım", "rationale": "Yanlış. Estetik ikinci plandadır, işlevsellik önceliklidir.", "isCorrect": false},
+        {"text": "Amaca uygunluk", "rationale": "Doğru. Hangi malzemeden üretilmiş bir kap seçileceğine karar verilirken 'amaca uygunluk' ön planda tutulmalıdır.", "isCorrect": true},
+        {"text": "Marka bilinirliği", "rationale": "Yanlış. Marka, amaca uygunluktan daha önemli değildir.", "isCorrect": false},
+        {"text": "Ağırlığı", "rationale": "Yanlış. Ağırlık pratiklik açısından önemli olsa da en kritik kriter değildir.", "isCorrect": false}
+      ],
+      "hint": "Araç ne kadar kaliteli veya pahalı olursa olsun, amaca hizmet etmiyorsa beklenen fayda sağlanamaz."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdaki fırça türlerinden hangisi 'kısa saplı ve yumuşak kıllı' özelliktedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Zemin fırçaları", "rationale": "Yanlış. Zemin fırçaları uzun saplı ve sert kıllıdır.", "isCorrect": false},
+        {"text": "Halı fırçaları", "rationale": "Yanlış. Halı fırçaları kısa saplı ama sert kıllıdır.", "isCorrect": false},
+        {"text": "Duvar fırçaları", "rationale": "Yanlış. Duvar fırçaları uzun saplı ve yumuşak kıllıdır.", "isCorrect": false},
+        {"text": "Mobilya fırçaları", "rationale": "Doğru. Mobilya fırçaları yüzeye zarar vermemesi için kısa saplı ve yumuşak kıllıdır.", "isCorrect": true},
+        {"text": "Merdiven fırçaları", "rationale": "Yanlış. Bu seçenek metinde belirtilmemiştir ve özellikleri farklıdır.", "isCorrect": false}
+      ],
+      "hint": "Yüzeye zarar vermemesi gereken fırçalar yumuşak kıllıdır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Hangi fırça türü 'uzun saplı ve sert kıllı' özelliktedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Mobilya fırçaları", "rationale": "Yanlış. Mobilya fırçaları kısa saplı ve yumuşak kıllıdır.", "isCorrect": false},
+        {"text": "Radyatör fırçaları", "rationale": "Yanlış. Radyatör fırçaları kısa saplı ve yumuşak kıllıdır.", "isCorrect": false},
+        {"text": "Zemin fırçaları", "rationale": "Doğru. Zemin fırçaları geniş alanlar için uzun saplı, zorlu kirler için sert kıllıdır.", "isCorrect": true},
+        {"text": "Duvar fırçaları", "rationale": "Yanlış. Duvar fırçaları uzun saplı ama yumuşak kıllıdır.", "isCorrect": false},
+        {"text": "Halı fırçaları", "rationale": "Yanlış. Halı fırçaları sert kıllı ama kısa saplıdır.", "isCorrect": false}
+      ],
+      "hint": "Zorlu kirlerin kazınması gereken fırçalar sert kıllı, geniş alanlar için uzun saplıdır."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Odalarda ve koridorlarda kullanılacak elektrikli temizlik araçları seçilirken aşağıdakilerden hangisine kesinlikle dikkat edilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Renk uyumuna", "rationale": "Yanlış. Renk estetik açıdan önemli olsa da kritik kriter değildir.", "isCorrect": false},
+        {"text": "Fiyatına", "rationale": "Yanlış. Fiyat önemli olsa da misafir konforu önceliklidir.", "isCorrect": false},
+        {"text": "Sessiz çalışmasına", "rationale": "Doğru. Misafirleri rahatsız etmemesi için fazla ses çıkartmayan (sessiz çalışan) cinsten olmasına kesinlikle dikkat edilmelidir.", "isCorrect": true},
+        {"text": "Markasına", "rationale": "Yanlış. Marka, sessizlik kriterinden daha öncelikli değildir.", "isCorrect": false},
+        {"text": "Ağırlığına", "rationale": "Yanlış. Ağırlık pratiklik açısından önemli ama en kritik kriter değildir.", "isCorrect": false}
+      ],
+      "hint": "Misafir konforu ve rahatsız olmaması en önemli önceliktir."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Temizlik araçları seçim kriterlerinden aşağıdakilerden hangisi DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Amaca uygunluk", "rationale": "Yanlış. Amaca uygunluk en temel seçim kriteridir.", "isCorrect": false},
+        {"text": "Sağlamlık", "rationale": "Yanlış. Dayanıklılık ve sağlamlık önemli bir kriterdir.", "isCorrect": false},
+        {"text": "İşgücü kaybına neden olmaması", "rationale": "Yanlış. Pratik kullanım ve işgücü tasarrufu önemlidir.", "isCorrect": false},
+        {"text": "Marka popülerliği", "rationale": "Doğru. Marka popülerliği seçim kriterleri arasında yer almaz.", "isCorrect": true},
+        {"text": "Tamir ve bakımının kolay olması", "rationale": "Yanlış. Servis ağı ve yedek parça temini önemli kriterlerdendir.", "isCorrect": false}
+      ],
+      "hint": "Seçim kriterleri işlevsellik, dayanıklılık ve pratiklik üzerine kuruludur."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Fırçalar kullanıldıktan sonra nasıl muhafaza edilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kılları yere dayanmış şekilde", "rationale": "Yanlış. Bu şekilde bırakılırsa kıllar ezilir ve yapısı bozulur.", "isCorrect": false},
+        {"text": "Islak olarak kapalı dolapta", "rationale": "Yanlış. Islak bırakmak koku ve bakteri oluşumuna neden olur.", "isCorrect": false},
+        {"text": "Ters çevrilerek veya asılarak", "rationale": "Doğru. Fırçalar ASLA kılları yere dayanmış şekilde bırakılmamalı, ters çevrilerek veya asılarak muhafaza edilmelidir.", "isCorrect": true},
+        {"text": "Güneş ışığında kurutularak", "rationale": "Yanlış. Güneş ışığı kıllara zarar verebilir, bu yöntem önerilmez.", "isCorrect": false},
+        {"text": "Plastik torba içinde saklanarak", "rationale": "Yanlış. Hava almayan ortamda saklamak uygun değildir.", "isCorrect": false}
+      ],
+      "hint": "Kılların ezilmemesi ve yapısının bozulmaması için doğru saklama yöntemi önemlidir."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Plastik kaplar (kova, leğen vb.) temizlik işlemi bittikten sonra nasıl temizlenmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Soğuk su ile çalkalanarak", "rationale": "Yanlış. Soğuk su yeterli hijyen sağlamayabilir.", "isCorrect": false},
+        {"text": "Sıcak su ile çalkalanarak", "rationale": "Doğru. Plastik kaplar temizlik işlemi bittikten sonra mutlaka sıcak su ile çalkalanmalıdır.", "isCorrect": true},
+        {"text": "Dezenfektan püskürtülerek", "rationale": "Yanlış. Bu yöntem yeterli değildir, sıcak su ile çalkalama esastır.", "isCorrect": false},
+        {"text": "Kuru bezle silinerek", "rationale": "Yanlış. Kuru silme hijyenik temizlik sağlamaz.", "isCorrect": false},
+        {"text": "Çamaşır suyu ile yıkanarak", "rationale": "Yanlış. Çamaşır suyu plastik malzemeye zarar verebilir.", "isCorrect": false}
+      ],
+      "hint": "Plastik malzemelerin hijyenik temizliği için sıcak su kullanımı önemlidir."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Elektrik süpürgesi/vakum makinesi kullanırken aşağıdakilerden hangisine özellikle dikkat edilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Makinenin rengine", "rationale": "Yanlış. Renk, makine performansı ile ilgili değildir.", "isCorrect": false},
+        {"text": "Makinenin markasına", "rationale": "Yanlış. Marka, kullanım güvenliği ile doğrudan ilgili değildir.", "isCorrect": false},
+        {"text": "Aspiratör içine çivi, cam vb. delici maddelerin kaçmamasına", "rationale": "Doğru. Bu maddeler makine motoru ve filtrelerine zarar verebilir.", "isCorrect": true},
+        {"text": "Kablo uzunluğuna", "rationale": "Yanlış. Kablo uzunluğu pratiklik açısından önemli ama kritik güvenlik kuralı değildir.", "isCorrect": false},
+        {"text": "Toz haznesinin rengine", "rationale": "Yanlış. Toz haznesinin rengi performansla ilgili değildir.", "isCorrect": false}
+      ],
+      "hint": "Kesici ve delici maddeler makine motoruna ve filtrelerine zarar verebilir."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Standart tek kişilik yatak çarşafı ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "160x240 cm", "rationale": "Yanlış. Bu ölçü standart dışı yatak tipleri için kullanılabilir.", "isCorrect": false},
+        {"text": "180x280-300 cm", "rationale": "Doğru. Standart tek kişilik çarşaf ölçüsü 180x280-300 cm'dir.", "isCorrect": true},
+        {"text": "200x250 cm", "rationale": "Yanlış. Bu ölçü standart tek kişilik için belirtilmemiştir.", "isCorrect": false},
+        {"text": "225x280-300 cm", "rationale": "Yanlış. Bu ölçü standart çift kişilik çarşaf içindir.", "isCorrect": false},
+        {"text": "150x200 cm", "rationale": "Yanlış. Bu ölçü standart çarşaf ölçüsü değildir.", "isCorrect": false}
+      ],
+      "hint": "Çarşaf ölçüleri yatak tipine göre standartlaştırılmıştır."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Standart çift kişilik yatak çarşafı ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "180x280-300 cm", "rationale": "Yanlış. Bu ölçü standart tek kişilik çarşaf içindir.", "isCorrect": false},
+        {"text": "200x250 cm", "rationale": "Yanlış. Bu ölçü standart çift kişilik için belirtilmemiştir.", "isCorrect": false},
+        {"text": "225x280-300 cm", "rationale": "Doğru. Standart çift kişilik çarşaf ölçüsü 225x280-300 cm'dir.", "isCorrect": true},
+        {"text": "240x300 cm", "rationale": "Yanlış. Bu ölçü standart olarak belirtilmemiştir.", "isCorrect": false},
+        {"text": "160x220 cm", "rationale": "Yanlış. Bu ölçü nevresim ölçüsü olabilir ama çarşaf için değildir.", "isCorrect": false}
+      ],
+      "hint": "Çift kişilik çarşaflar tek kişiliklere göre daha geniş ölçülere sahiptir."
+    },
+    {
+      "questionNumber": 13,
+      "question": "İşi kendi dikecek olan bir işletme çarşaf alırken aşağıdakilerden hangisine dikkat ETMEMELİDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kumaşın yıkandıktan sonraki çekme payına", "rationale": "Yanlış. Çekme payı dikkate alınması gereken önemli bir faktördür.", "isCorrect": false},
+        {"text": "Şiltenin (yatağın) ebatlarına", "rationale": "Yanlış. Yatak ebatları çarşaf ölçüsü için kritiktir.", "isCorrect": false},
+        {"text": "Katlama paylarına", "rationale": "Yanlış. Katlama payları dikim sürecinde önemlidir.", "isCorrect": false},
+        {"text": "Çarşafın renginin moda trendlerine uygunluğuna", "rationale": "Doğru. Moda trendleri, çarşaf dikiminde dikkate alınması gereken teknik bir kriter değildir.", "isCorrect": true},
+        {"text": "Kumaşın dokuma sıklığına", "rationale": "Yanlış. Dokuma sıklığı dayanıklılık açısından önemlidir.", "isCorrect": false}
+      ],
+      "hint": "Teknik ve fonksiyonel özellikler, estetik trendlerden daha önceliklidir."
+    },
+    {
+      "questionNumber": 14,
+      "question": "İçi yün/pamuk kare yastıkların standart ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "55x70 cm", "rationale": "Yanlış. Bu ölçü kuş tüyü yastıklar içindir.", "isCorrect": false},
+        {"text": "60x70 cm", "rationale": "Yanlış. Bu ölçü kauçuk köpüğü yastıklar içindir.", "isCorrect": false},
+        {"text": "65x65 cm", "rationale": "Doğru. İçi yün/pamuk kare yastıkların ölçüsü 65x65 cm'dir.", "isCorrect": true},
+        {"text": "70x70 cm", "rationale": "Yanlış. Bu ölçü standart yastık ölçüsü değildir.", "isCorrect": false},
+        {"text": "50x70 cm", "rationale": "Yanlış. Bu ölçü ayak havluları içindir.", "isCorrect": false}
+      ],
+      "hint": "Yastık ölçüleri dolgu malzemesine ve şekline göre değişir."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Kauçuk köpüğü yastıkların standart ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "55x70 cm", "rationale": "Yanlış. Bu ölçü kuş tüyü yastıklar içindir.", "isCorrect": false},
+        {"text": "60x70 cm", "rationale": "Doğru. Kauçuk köpüğü yastıkların ölçüsü 60x70 cm'dir.", "isCorrect": true},
+        {"text": "65x65 cm", "rationale": "Yanlış. Bu ölçü yün/pamuk kare yastıklar içindir.", "isCorrect": false},
+        {"text": "70x70 cm", "rationale": "Yanlış. Bu ölçü standart yastık ölçüsü değildir.", "isCorrect": false},
+        {"text": "50x90 cm", "rationale": "Yanlış. Bu ölçü el ve banyo havluları içindir.", "isCorrect": false}
+      ],
+      "hint": "Kauçuk köpüğü yastıklar dikdörtgen formda ve belirli ölçülerde üretilir."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Kuş tüyü yastıkların standart ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "55x70 cm", "rationale": "Doğru. Kuş tüyü yastıkların ölçüsü 55x70 cm'dir.", "isCorrect": true},
+        {"text": "60x70 cm", "rationale": "Yanlış. Bu ölçü kauçuk köpüğü yastıklar içindir.", "isCorrect": false},
+        {"text": "65x65 cm", "rationale": "Yanlış. Bu ölçü yün/pamuk kare yastıklar içindir.", "isCorrect": false},
+        {"text": "70x70 cm", "rationale": "Yanlış. Bu ölçü standart yastık ölçüsü değildir.", "isCorrect": false},
+        {"text": "50x70 cm", "rationale": "Yanlış. Bu ölçü ayak havluları içindir.", "isCorrect": false}
+      ],
+      "hint": "Kuş tüyü yastıklar hafif ve konforlu olması için belirli ölçülerde üretilir."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Yastık kılıfı tasarımında zaman tasarrufu sağlamak için hangi tasarım tercih edilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Düğmeli tasarım", "rationale": "Yanlış. Düğmeli kılıflar pratik olmadıkları için otellerde tercih edilmez.", "isCorrect": false},
+        {"text": "Bağlamalı tasarım", "rationale": "Yanlış. Bağlamalı kılıflar da pratik olmadığı için tercih edilmez.", "isCorrect": false},
+        {"text": "Fermuarlı tasarım", "rationale": "Yanlış. Fermuar pratik olsa da metinde belirtilen tercih edilen tasarım değildir.", "isCorrect": false},
+        {"text": "Zarf (içe geçmeli) veya gizli cep tasarımı", "rationale": "Doğru. Zaman tasarrufu için kılıflar 'Zarf' (içe geçmeli) veya 'Gizli cep' şeklinde olmalıdır.", "isCorrect": true},
+        {"text": "Lastikli tasarım", "rationale": "Yanlış. Lastikli tasarım metinde belirtilmemiştir.", "isCorrect": false}
+      ],
+      "hint": "Hızlı katlama, ütüleme ve serme için pratik tasarım önemlidir."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Aşağıdaki havlu türlerinden hangisi suyu emme özelliği en az olanıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Keten havlular", "rationale": "Yanlış. Keten havlular suyu çok iyi emer.", "isCorrect": false},
+        {"text": "Pamuklu havlular", "rationale": "Yanlış. Pamuklu havlular yumuşak ve emicidir.", "isCorrect": false},
+        {"text": "Kadife havlular", "rationale": "Doğru. Kadife havlular estetik olarak güzel ancak suyu emme özellikleri oldukça azdır.", "isCorrect": true},
+        {"text": "Bambu havlular", "rationale": "Yanlış. Bambu havlular metinde belirtilmemiştir ancak genellikle emicidir.", "isCorrect": false},
+        {"text": "Mikrofiber havlular", "rationale": "Yanlış. Mikrofiber havlular metinde belirtilmemiştir.", "isCorrect": false}
+      ],
+      "hint": "Estetik amaçlı havlular işlevsellik açısından dezavantajlı olabilir."
+    },
+    {
+      "questionNumber": 19,
+      "question": "El havlularının standart ölçüsü ve gramajı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "50x70 cm (200 gr ve 250 gr)", "rationale": "Yanlış. Bu ölçü ayak havluları içindir.", "isCorrect": false},
+        {"text": "50x90 cm (180 gr ve 230 gr)", "rationale": "Doğru. El havlularının ölçüsü 50x90 cm, gramajı 180 gr ve 230 gr'dır.", "isCorrect": true},
+        {"text": "70x140 cm (500 gr)", "rationale": "Yanlış. Bu ölçü büyük banyo havluları içindir.", "isCorrect": false},
+        {"text": "90x150 cm (700 gr ve 800 gr)", "rationale": "Yanlış. Bu ölçü en büyük banyo havluları içindir.", "isCorrect": false},
+        {"text": "40x60 cm (150 gr)", "rationale": "Yanlış. Bu ölçü standart el havlusu değildir.", "isCorrect": false}
+      ],
+      "hint": "Havlu ölçüleri kullanım amacına göre standartlaştırılmıştır."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Ayak havlularının standart ölçüsü ve gramajı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "50x70 cm (200 gr ve 250 gr)", "rationale": "Doğru. Ayak havlularının ölçüsü 50x70 cm, gramajı 200 gr ve 250 gr'dır.", "isCorrect": true},
+        {"text": "50x90 cm (180 gr ve 230 gr)", "rationale": "Yanlış. Bu ölçü el havluları içindir.", "isCorrect": false},
+        {"text": "70x140 cm (500 gr)", "rationale": "Yanlış. Bu ölçü büyük banyo havluları içindir.", "isCorrect": false},
+        {"text": "40x60 cm (150 gr)", "rationale": "Yanlış. Bu ölçü standart ayak havlusu değildir.", "isCorrect": false},
+        {"text": "60x100 cm (300 gr)", "rationale": "Yanlış. Bu ölçü standart ayak havlusu değildir.", "isCorrect": false}
+      ],
+      "hint": "Ayak havluları el havlularından daha küçük ölçülere sahiptir."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Büyük banyo havlularının (70x140 cm) standart gramajı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "180 gr", "rationale": "Yanlış. Bu gramaj el havluları içindir.", "isCorrect": false},
+        {"text": "250 gr", "rationale": "Yanlış. Bu gramaj ayak havluları içindir.", "isCorrect": false},
+        {"text": "400 gr", "rationale": "Yanlış. Bu gramaj büyük banyo havlusu için belirtilmemiştir.", "isCorrect": false},
+        {"text": "500 gr", "rationale": "Doğru. 70x140 cm ölçüsündeki büyük banyo havlularının gramajı 500 gr'dır.", "isCorrect": true},
+        {"text": "700 gr", "rationale": "Yanlış. 700 gr daha büyük boy banyo havluları içindir.", "isCorrect": false}
+      ],
+      "hint": "Banyo havluları boyut arttıkça gramaj da artar."
+    },
+    {
+      "questionNumber": 22,
+      "question": "En büyük banyo havlularının (90x150 cm) gramaj aralığı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "180-230 gr", "rationale": "Yanlış. Bu aralık el havluları içindir.", "isCorrect": false},
+        {"text": "200-250 gr", "rationale": "Yanlış. Bu aralık ayak havluları içindir.", "isCorrect": false},
+        {"text": "500 gr", "rationale": "Yanlış. Bu gramaj orta boy banyo havluları içindir.", "isCorrect": false},
+        {"text": "600-650 gr", "rationale": "Yanlış. Bu aralık metinde belirtilmemiştir.", "isCorrect": false},
+        {"text": "700-800 gr", "rationale": "Doğru. 90x150 cm ölçüsündeki en büyük banyo havlularının gramajı 700-800 gr'dır.", "isCorrect": true}
+      ],
+      "hint": "En büyük boy havlular en yüksek gramaja sahiptir."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Tek kişilik battaniye üst ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "95x200 cm", "rationale": "Yanlış. Bu ölçü tek kişilik alt battaniye içindir.", "isCorrect": false},
+        {"text": "150x200 cm", "rationale": "Yanlış. Bu ölçü çift kişilik alt battaniye içindir.", "isCorrect": false},
+        {"text": "180x225 cm", "rationale": "Doğru. Tek kişilik üst battaniye ölçüsü 180x225 cm'dir.", "isCorrect": true},
+        {"text": "200x225 cm", "rationale": "Yanlış. Bu ölçü çift kişilik üst battaniye içindir.", "isCorrect": false},
+        {"text": "180x280 cm", "rationale": "Yanlış. Bu ölçü yatak örtüsü veya çarşaf içindir.", "isCorrect": false}
+      ],
+      "hint": "Battaniye ölçüleri üst/alt ve tek/çift kişilik olarak farklılık gösterir."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Çift kişilik battaniye üst ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "180x225 cm", "rationale": "Yanlış. Bu ölçü tek kişilik üst battaniye içindir.", "isCorrect": false},
+        {"text": "200x225 cm", "rationale": "Doğru. Çift kişilik üst battaniye ölçüsü 200x225 cm'dir.", "isCorrect": true},
+        {"text": "150x200 cm", "rationale": "Yanlış. Bu ölçü çift kişilik alt battaniye içindir.", "isCorrect": false},
+        {"text": "225x280 cm", "rationale": "Yanlış. Bu ölçü çift kişilik çarşaf içindir.", "isCorrect": false},
+        {"text": "200x200 cm", "rationale": "Yanlış. Bu ölçü Super King Size yatak içindir.", "isCorrect": false}
+      ],
+      "hint": "Çift kişilik battaniyeler tek kişiliklere göre daha geniştir."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Nevresim standart ölçülerinden biri aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "150x200 cm", "rationale": "Yanlış. Bu ölçü standart nevresim ölçüsü değildir.", "isCorrect": false},
+        {"text": "160x220 cm", "rationale": "Doğru. Nevresim standart ölçülerinden biri 160x220 cm'dir.", "isCorrect": true},
+        {"text": "180x240 cm", "rationale": "Yanlış. Bu ölçü metinde belirtilmemiştir.", "isCorrect": false},
+        {"text": "200x200 cm", "rationale": "Yanlış. Bu ölçü yatak ölçüsü olabilir ama nevresim için değildir.", "isCorrect": false},
+        {"text": "220x240 cm", "rationale": "Yanlış. Bu ölçü standart nevresim ölçüsü değildir.", "isCorrect": false}
+      ],
+      "hint": "Nevresim ölçüleri yatak örtüsü ve battaniye ile uyumlu olmalıdır."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Bornozların standart gramajı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "800 gr normal, 900 gr bukle", "rationale": "Yanlış. Bu gramajlar standart bornoz için belirtilmemiştir.", "isCorrect": false},
+        {"text": "900 gr normal, 1000 gr bukle", "rationale": "Yanlış. Bu gramajlar standart bornoz için belirtilmemiştir.", "isCorrect": false},
+        {"text": "1000 gr normal, 1100 gr bukle", "rationale": "Doğru. Bornozlar 1000 gr normal, 1100 gr bukle olarak standartlaştırılmıştır.", "isCorrect": true},
+        {"text": "1100 gr normal, 1200 gr bukle", "rationale": "Yanlış. Bu gramajlar standart bornoz için belirtilmemiştir.", "isCorrect": false},
+        {"text": "1200 gr normal, 1300 gr bukle", "rationale": "Yanlış. Bu gramajlar standart bornoz için belirtilmemiştir.", "isCorrect": false}
+      ],
+      "hint": "Bornozlar kalın ve emici olması için yüksek gramaja sahiptir."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Muflon (aleze) ne amaçla kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece dekoratif amaçla", "rationale": "Yanlış. Muflon dekoratif değil, fonksiyonel bir üründür.", "isCorrect": false},
+        {"text": "Yatağı soğuktan korumak için", "rationale": "Yanlış. Muflonun temel amacı ısı koruması değildir.", "isCorrect": false},
+        {"text": "Şilte ile çarşaf arasında hijyen ve koruma sağlamak için", "rationale": "Doğru. Muflon, şilte ile çarşaf arasına konur; amacı sağlık (hijyen) ve yatağın korunmasıdır.", "isCorrect": true},
+        {"text": "Yastık kılıfı olarak kullanılmak için", "rationale": "Yanlış. Muflon yastık kılıfı değildir.", "isCorrect": false},
+        {"text": "Battaniye yerine kullanılmak için", "rationale": "Yanlış. Muflon battaniye işlevi görmez.", "isCorrect": false}
+      ],
+      "hint": "Muflon hijyenik koruma sağlayan bir ara katmandır."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Yastık kılıfının yastıktan büyük olması için gereken boşluk miktarı kare yastıklar için ne kadardır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "2 cm", "rationale": "Yanlış. 2 cm yeterli boşluk sağlamaz.", "isCorrect": false},
+        {"text": "3 cm", "rationale": "Yanlış. 3 cm metinde belirtilen standart değildir.", "isCorrect": false},
+        {"text": "5 cm", "rationale": "Doğru. Kare yastıklar için kılıfın yastıktan 5 cm büyük olması rahat çalışma sağlar.", "isCorrect": true},
+        {"text": "10 cm", "rationale": "Yanlış. 10 cm dikdörtgen yastıklar için başlardan gereken boşluktur.", "isCorrect": false},
+        {"text": "15 cm", "rationale": "Yanlış. 15 cm gereğinden fazla bir boşluktur.", "isCorrect": false}
+      ],
+      "hint": "Kılıfın yastığa rahat geçmesi için belirli bir boşluk payı gerekir."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Dikdörtgen yastıklar için kılıfın başlardan ne kadar boşluk bırakması gerekir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "5 cm", "rationale": "Yanlış. 5 cm kare yastıklar için gereken boşluktur.", "isCorrect": false},
+        {"text": "7 cm", "rationale": "Yanlış. 7 cm metinde belirtilen standart değildir.", "isCorrect": false},
+        {"text": "10 cm", "rationale": "Doğru. Dikdörtgen yastıklar için kılıfın başlardan 10 cm boşluk bırakması gerekir.", "isCorrect": true},
+        {"text": "15 cm", "rationale": "Yanlış. 15 cm gereğinden fazla bir boşluktur.", "isCorrect": false},
+        {"text": "20 cm", "rationale": "Yanlış. 20 cm gereğinden fazla bir boşluktur.", "isCorrect": false}
+      ],
+      "hint": "Dikdörtgen yastıklar daha uzun olduğu için başlardan daha fazla boşluk gerekir."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Yatak örtülerinin asgari tek kişilik ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "160x240 cm", "rationale": "Yanlış. Bu ölçü standart yatak örtüsü için belirtilmemiştir.", "isCorrect": false},
+        {"text": "180x280 cm", "rationale": "Doğru. Tek kişilik yatak örtüsünün asgari ölçüsü 180x280 cm'dir.", "isCorrect": true},
+        {"text": "200x250 cm", "rationale": "Yanlış. Bu ölçü standart yatak örtüsü için belirtilmemiştir.", "isCorrect": false},
+        {"text": "225x280 cm", "rationale": "Yanlış. Bu ölçü çift kişilik yatak örtüsü içindir.", "isCorrect": false},
+        {"text": "240x300 cm", "rationale": "Yanlış. Bu ölçü standart yatak örtüsü için belirtilmemiştir.", "isCorrect": false}
+      ],
+      "hint": "Yatak örtüleri yatak ölçülerine uygun olarak standartlaştırılmıştır."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Yatak örtülerinin asgari çift kişilik ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "180x280 cm", "rationale": "Yanlış. Bu ölçü tek kişilik yatak örtüsü içindir.", "isCorrect": false},
+        {"text": "200x250 cm", "rationale": "Yanlış. Bu ölçü standart yatak örtüsü için belirtilmemiştir.", "isCorrect": false},
+        {"text": "225x280 cm", "rationale": "Doğru. Çift kişilik yatak örtüsünün asgari ölçüsü 225x280 cm'dir.", "isCorrect": true},
+        {"text": "240x300 cm", "rationale": "Yanlış. Bu ölçü standart yatak örtüsü için belirtilmemiştir.", "isCorrect": false},
+        {"text": "250x300 cm", "rationale": "Yanlış. Bu ölçü standart yatak örtüsü için belirtilmemiştir.", "isCorrect": false}
+      ],
+      "hint": "Çift kişilik yatak örtüleri tek kişiliklere göre daha geniş ölçülere sahiptir."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Yatak örtülerinin temel amacı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece ısıtma sağlamak", "rationale": "Yanlış. Yatak örtüsünün temel amacı ısıtma değildir.", "isCorrect": false},
+        {"text": "Sadece hijyenik koruma sağlamak", "rationale": "Yanlış. Hijyenik koruma muflonun görevidir.", "isCorrect": false},
+        {"text": "Estetik görünüm sağlamak ve yatağı toza karşı korumak", "rationale": "Doğru. Yatak örtüsünün amacı estetiktir; odanın derli toplu görünmesini sağlar ve yatağı toza karşı korur.", "isCorrect": true},
+        {"text": "Yatağın sertliğini artırmak", "rationale": "Yanlış. Yatak örtüsü yatağın sertliğini etkilemez.", "isCorrect": false},
+        {"text": "Misafirin uyku konforunu artırmak", "rationale": "Yanlış. Uyku konforu daha çok yatak ve yastık ile ilgilidir.", "isCorrect": false}
+      ],
+      "hint": "Yatak örtüsü görsel düzen ve koruma amaçlıdır."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Sayfiye (yazlık) otellerinde battaniye yerine genellikle ne kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kalın yorgan", "rationale": "Yanlış. Yazlık otellerde kalın yorgan tercih edilmez.", "isCorrect": false},
+        {"text": "Ekstra çarşaf", "rationale": "Yanlış. Ekstra çarşaf battaniye yerine kullanılmaz.", "isCorrect": false},
+        {"text": "Beyaz renkli Pike", "rationale": "Doğru. Sayfiye otellerinde battaniye yerine genellikle beyaz renkli Pike kullanılır.", "isCorrect": true},
+        {"text": "İnce battaniye", "rationale": "Yanlış. İnce battaniye metinde belirtilen tercih değildir.", "isCorrect": false},
+        {"text": "Yün örtü", "rationale": "Yanlış. Yün örtü yazlık oteller için uygun değildir.", "isCorrect": false}
+      ],
+      "hint": "Yazlık otellerde hafif ve serin tutan örtüler tercih edilir."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Aşağıdakilerden hangisi oda donanımı olarak asgari bulunması gereken eşyalardan biri DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Televizyon", "rationale": "Yanlış. Televizyon asgari oda donanımıdır.", "isCorrect": false},
+        {"text": "Gardırop", "rationale": "Yanlış. Gardırop asgari oda donanımıdır.", "isCorrect": false},
+        {"text": "Minibar", "rationale": "Yanlış. Minibar asgari oda donanımıdır.", "isCorrect": false},
+        {"text": "Çamaşır makinesi", "rationale": "Doğru. Çamaşır makinesi standart oda donanımı arasında yer almaz.", "isCorrect": true},
+        {"text": "Komodin", "rationale": "Yanlış. Komodin asgari oda donanımıdır.", "isCorrect": false}
+      ],
+      "hint": "Oda donanımları misafirin temel konfor ihtiyaçlarını karşılamaya yöneliktir."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Buklet malzemelerinin temel özelliği aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Çoklu kullanım için tasarlanmış olmaları", "rationale": "Yanlış. Buklet malzemeleri tek kullanımlıktır.", "isCorrect": false},
+        {"text": "Sadece dekoratif amaçlı olmaları", "rationale": "Yanlış. Buklet malzemeleri işlevseldir.", "isCorrect": false},
+        {"text": "Tek kullanımlık, fiziksel kişisel bakım eşantiyonları olmaları", "rationale": "Doğru. Buklet malzemeleri misafirin ihtiyacını karşılamak üzere odaya konulan, tek kullanımlık eşantiyon türü fiziksel malzemelerdir.", "isCorrect": true},
+        {"text": "Sadece bilgilendirme amaçlı olmaları", "rationale": "Yanlış. Bilgilendirme amaçlı malzemeler Kit kategorisindedir.", "isCorrect": false},
+        {"text": "Otel personeli tarafından kullanılmaları", "rationale": "Yanlış. Buklet malzemeleri misafirler içindir.", "isCorrect": false}
+      ],
+      "hint": "Buklet = tek kullanımlık kişisel bakım ürünleri."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Aşağıdakilerden hangisi Buklet malzemesi ÖRNEĞİDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Otel tüketim merkezleri tanıtım broşürü", "rationale": "Yanlış. Bu bir Kit malzemesidir.", "isCorrect": false},
+        {"text": "Şehir rehberi ve haritası", "rationale": "Yanlış. Bu bir Kit malzemesidir.", "isCorrect": false},
+        {"text": "Oda servis mönüsü", "rationale": "Yanlış. Bu bir Kit malzemesidir.", "isCorrect": false},
+        {"text": "Şampuan ve sabun", "rationale": "Doğru. Şampuan ve sabun tek kullanımlık kişisel bakım ürünleri olduğu için Buklet malzemesidir.", "isCorrect": true},
+        {"text": "Misafir çamaşır formu", "rationale": "Yanlış. Bu bir Kit malzemesidir.", "isCorrect": false}
+      ],
+      "hint": "Şampuan, sabun, terlik, diş fırçası = Buklet."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Aşağıdakilerden hangisi Kit malzemesi ÖRNEĞİDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Duş bonesi", "rationale": "Yanlış. Bu bir Buklet malzemesidir.", "isCorrect": false},
+        {"text": "Traş kremi", "rationale": "Yanlış. Bu bir Buklet malzemesidir.", "isCorrect": false},
+        {"text": "Terlik", "rationale": "Yanlış. Bu bir Buklet malzemesidir.", "isCorrect": false},
+        {"text": "Şehir rehberi ve haritası", "rationale": "Doğru. Şehir rehberi ve haritası bilgilendirici basılı materyal olduğu için Kit malzemesidir.", "isCorrect": true},
+        {"text": "Kibrit", "rationale": "Yanlış. Kibrit Buklet malzemesidir.", "isCorrect": false}
+      ],
+      "hint": "Broşür, menü, harita, form = Kit."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Kit malzemelerinin temel amacı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Misafirin kişisel bakım ihtiyaçlarını karşılamak", "rationale": "Yanlış. Bu Buklet malzemelerinin amacıdır.", "isCorrect": false},
+        {"text": "Odanın dekoratif görünümünü artırmak", "rationale": "Yanlış. Kit malzemeleri dekoratif amaçlı değildir.", "isCorrect": false},
+        {"text": "Misafire otel ve çevre hakkında bilgilendirme sağlamak", "rationale": "Doğru. Kit malzemeleri misafirin otelde ihtiyaç duyabileceği bilgi notları ve tanıtıcı basılı materyallerdir.", "isCorrect": true},
+        {"text": "Temizlik işlemlerini kolaylaştırmak", "rationale": "Yanlış. Temizlik malzemeleri farklı bir kategoridir.", "isCorrect": false},
+        {"text": "Otel gelirlerini artırmak", "rationale": "Yanlış. Kit malzemelerinin doğrudan gelir amacı yoktur.", "isCorrect": false}
+      ],
+      "hint": "Kit = bilgilendirici basılı evraklar ve rehberler."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Aşağıdakilerden hangisi Buklet malzemesi DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Diş macunu ve diş fırçası", "rationale": "Yanlış. Bu Buklet malzemesidir.", "isCorrect": false},
+        {"text": "Dikiş poşeti", "rationale": "Yanlış. Bu Buklet malzemesidir.", "isCorrect": false},
+        {"text": "Oda elektronik malzeme kullanım kılavuzu", "rationale": "Doğru. Bu bilgilendirici bir doküman olduğu için Kit malzemesidir, Buklet değildir.", "isCorrect": true},
+        {"text": "Terlik", "rationale": "Yanlış. Terlik Buklet malzemesidir.", "isCorrect": false},
+        {"text": "Kibrit", "rationale": "Yanlış. Kibrit Buklet malzemesidir.", "isCorrect": false}
+      ],
+      "hint": "Kullanım kılavuzları bilgilendirme amaçlıdır, Buklet değildir."
+    },
+    {
+      "questionNumber": 40,
+      "question": "TS-54 standartlarına göre 'Ekstra Sabun' sınıfı en az ne kadar yağ asidi içerir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "%40 ve üzeri", "rationale": "Yanlış. Bu II. Sınıf sabun standardıdır.", "isCorrect": false},
+        {"text": "%60", "rationale": "Yanlış. Bu I. Sınıf sabun standardıdır.", "isCorrect": false},
+        {"text": "%75 ve daha fazla", "rationale": "Doğru. Ekstra Sabunlar TS-54'e göre %75 ve daha fazla yağ asidi içerir.", "isCorrect": true},
+        {"text": "%90 ve üzeri", "rationale": "Yanlış. Bu oran metinde belirtilmemiştir.", "isCorrect": false},
+        {"text": "%50", "rationale": "Yanlış. Bu oran standart sınıflandırmada yer almaz.", "isCorrect": false}
+      ],
+      "hint": "Ekstra sınıf en yüksek yağ asidi oranına sahiptir."
+    },
+    {
+      "questionNumber": 41,
+      "question": "TS-54 standartlarına göre 'I. Sınıf Sabun' ne kadar yağ asidi içerir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "%40", "rationale": "Yanlış. Bu II. Sınıf sabun standardıdır.", "isCorrect": false},
+        {"text": "%60", "rationale": "Doğru. I. Sınıf Sabunlar TS-54'e göre %60 yağ asidi içerir.", "isCorrect": true},
+        {"text": "%75", "rationale": "Yanlış. Bu Ekstra Sabun standardıdır.", "isCorrect": false},
+        {"text": "%30", "rationale": "Yanlış. Bu oran standart sınıflandırmada yer almaz.", "isCorrect": false},
+        {"text": "%50", "rationale": "Yanlış. Bu oran standart sınıflandırmada yer almaz.", "isCorrect": false}
+      ],
+      "hint": "I. Sınıf, Ekstra'dan sonra en yüksek yağ asidi oranına sahiptir."
+    },
+    {
+      "questionNumber": 42,
+      "question": "TS-54 standartlarına göre 'II. Sınıf Sabun' ne kadar yağ asidi içerir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "%20", "rationale": "Yanlış. Bu oran standart sınıflandırmada yer almaz.", "isCorrect": false},
+        {"text": "%40", "rationale": "Doğru. II. Sınıf Sabunlar TS-54'e göre %40 yağ asidi içerir.", "isCorrect": true},
+        {"text": "%60", "rationale": "Yanlış. Bu I. Sınıf sabun standardıdır.", "isCorrect": false},
+        {"text": "%75", "rationale": "Yanlış. Bu Ekstra Sabun standardıdır.", "isCorrect": false},
+        {"text": "%10", "rationale": "Yanlış. Bu oran standart sınıflandırmada yer almaz.", "isCorrect": false}
+      ],
+      "hint": "II. Sınıf orta düzeyde yağ asidi içerir."
+    },
+    {
+      "questionNumber": 43,
+      "question": "TS-54 standartlarına göre 'III. Sınıf Sabun' ne kadar yağ asidi içerir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "%10'dan az", "rationale": "Yanlış. Bu oran standart sınıflandırmada yer almaz.", "isCorrect": false},
+        {"text": "%20'den az", "rationale": "Yanlış. Bu oran standart sınıflandırmada yer almaz.", "isCorrect": false},
+        {"text": "%30'dan az", "rationale": "Yanlış. Bu oran standart sınıflandırmada yer almaz.", "isCorrect": false},
+        {"text": "%4'ten daha az", "rationale": "Doğru. III. Sınıf Sabunlar TS-54'e göre %4'ten daha az yağ asidi içerir.", "isCorrect": true},
+        {"text": "%1'den daha az", "rationale": "Yanlış. Bu oran standart sınıflandırmada yer almaz.", "isCorrect": false}
+      ],
+      "hint": "III. Sınıf en düşük yağ asidi oranına sahiptir."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Sabunun sert sularla etkileşimi sonucu oluşan ve temizleyici etkisi olmayan madde aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Köpük", "rationale": "Yanlış. Köpük temizlik göstergesidir ama tek başına yeterli değildir.", "isCorrect": false},
+        {"text": "Dezenfektan", "rationale": "Yanlış. Dezenfektan farklı bir kimyasal gruptur.", "isCorrect": false},
+        {"text": "Kireç", "rationale": "Doğru. Sabun sert sularla birleşince suda çözünmeyen KİREÇ oluşturur; bu maddenin temizleyici etkisi yoktur.", "isCorrect": true},
+        {"text": "Alkali", "rationale": "Yanlış. Alkali farklı bir kimyasal gruptur.", "isCorrect": false},
+        {"text": "Asit", "rationale": "Yanlış. Asit farklı bir kimyasal gruptur.", "isCorrect": false}
+      ],
+      "hint": "Sert su + sabun = kireç (temizlemez, yüzeyleri matlaştırır)."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Sıvı deterjanlar aşağıdaki yüzeylerden hangisinde kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Küvet, lavabo, klozet", "rationale": "Yanlış. Bu yüzeyler için toz deterjan tercih edilir.", "isCorrect": false},
+        {"text": "Karo, fayans, kalebodur, duvar", "rationale": "Doğru. Sıvı deterjan karo, fayans, kalebodur, duvar gibi silinerek temizlenen yerlerde kullanılır.", "isCorrect": true},
+        {"text": "Halı ve koltuk", "rationale": "Yanlış. Halı ve koltuk için özel şampuanlama makineleri kullanılır.", "isCorrect": false},
+        {"text": "Ahşap mobilya", "rationale": "Yanlış. Ahşap mobilya için özel parlatıcılar kullanılır.", "isCorrect": false},
+        {"text": "Cam ve ayna", "rationale": "Yanlış. Cam ve ayna için mavi ispirto veya cam temizleyiciler kullanılır.", "isCorrect": false}
+      ],
+      "hint": "Sıvı deterjan silinerek temizlenen yüzeyler için uygundur."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Toz deterjanlar aşağıdaki yüzeylerden hangisinde kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Karo, fayans, duvar", "rationale": "Yanlış. Bu yüzeyler için sıvı deterjan tercih edilir.", "isCorrect": false},
+        {"text": "Küvet, lavabo, klozet, bide", "rationale": "Doğru. Toz deterjan küvet, lavabo, klozet, bide gibi ovularak temizlenmesi gereken yerlerde kullanılır.", "isCorrect": true},
+        {"text": "Halı ve koltuk", "rationale": "Yanlış. Halı ve koltuk için özel şampuanlama makineleri kullanılır.", "isCorrect": false},
+        {"text": "Ahşap mobilya", "rationale": "Yanlış. Ahşap mobilya için özel parlatıcılar kullanılır.", "isCorrect": false},
+        {"text": "Cam ve ayna", "rationale": "Yanlış. Cam ve ayna için mavi ispirto veya cam temizleyiciler kullanılır.", "isCorrect": false}
+      ],
+      "hint": "Toz deterjan ovularak temizlenen yüzeyler için uygundur."
+    },
+    {
+      "questionNumber": 47,
+      "question": "İdeal bir deterjanın özelliklerinden aşağıdakilerden hangisi DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Az köpürmesi", "rationale": "Yanlış. Az köpürme zaman kaybını önler, ideal bir özelliktir.", "isCorrect": false},
+        {"text": "Dezenfektan (klor vb.) içermesi", "rationale": "Yanlış. Hijyen için dezenfektan içermesi ideal bir özelliktir.", "isCorrect": false},
+        {"text": "Sıcak ve soğuk suda etkili olması", "rationale": "Yanlış. Her iki sıcaklıkta etkili olması ideal bir özelliktir.", "isCorrect": false},
+        {"text": "Çok fazla köpük oluşturması", "rationale": "Doğru. Aşırı köpük temizlik maddesinin yüzeye nüfuz etmesini engeller, ideal bir özellik değildir.", "isCorrect": true},
+        {"text": "Suda tam erimesi ve elleri yıpratmaması", "rationale": "Yanlış. Bu ideal bir deterjan özelliğidir.", "isCorrect": false}
+      ],
+      "hint": "Çok köpük iyi temizlik demek değildir, aksine engel olabilir."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Tuz ruhu ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Cilt için tamamen zararsızdır", "rationale": "Yanlış. Tuz ruhu yakıcı ve tahriş edicidir, cilt temasından kaçınılmalıdır.", "isCorrect": false},
+        {"text": "Çamaşır suyu ile karıştırıldığında güvenli bir temizleyici oluşturur", "rationale": "Yanlış. Tuz ruhu + çamaşır suyu ZEHİRLİ GAZ oluşturur, HAYATİ TEHLİKE yaratır.", "isCorrect": false},
+        {"text": "Banyo, tuvalet, lavabo temizliğinde inatçı kirlerde kullanılır", "rationale": "Doğru. Tuz ruhu banyo, tuvalet, lavabo temizliğinde inatçı kirlerde kullanılır.", "isCorrect": true},
+        {"text": "Zayıf asit grubunda yer alır", "rationale": "Yanlış. Tuz ruhu kuvvetli asittir, temizlikte seyreltilmiş halde kullanılır.", "isCorrect": false},
+        {"text": "Cam ve ayna temizliğinde tercih edilir", "rationale": "Yanlış. Cam ve ayna için mavi ispirto kullanılır.", "isCorrect": false}
+      ],
+      "hint": "Tuz ruhu güçlü temizleyicidir ama dikkatli kullanılmalıdır."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Tuz ruhu ile çamaşır suyunun karışımı sonucu ne oluşur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Daha etkili bir dezenfektan", "rationale": "Yanlış. Bu karışım kesinlikle yapılmamalıdır.", "isCorrect": false},
+        {"text": "Güçlü bir koku giderici", "rationale": "Yanlış. Bu karışım kesinlikle yapılmamalıdır.", "isCorrect": false},
+        {"text": "Zehirli gaz", "rationale": "Doğru. Tuz ruhu ile çamaşır suyunun birleşimi kuvvetli bir ZEHİR (zehirli gaz) oluşturur.", "isCorrect": true},
+        {"text": "Ekonomik temizlik solüsyonu", "rationale": "Yanlış. Bu karışım kesinlikle yapılmamalıdır.", "isCorrect": false},
+        {"text": "Renk açıcı madde", "rationale": "Yanlış. Bu karışım kesinlikle yapılmamalıdır.", "isCorrect": false}
+      ],
+      "hint": "HAYATİ UYARI: Tuz ruhu + çamaşır suyu = ZEHİRLİ GAZ!"
+    },
+    {
+      "questionNumber": 50,
+      "question": "Mavi ispirtonun en önemli özelliği aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yoğun kıvamlı olması", "rationale": "Yanlış. Mavi ispirto yoğun kıvamlı değildir.", "isCorrect": false},
+        {"text": "Uçucu olması", "rationale": "Doğru. Mavi ispirtonun en önemli özelliği UÇUCU olmasıdır.", "isCorrect": true},
+        {"text": "Renkli olması", "rationale": "Yanlış. Renk mavi ispirtonun temel özelliği değildir.", "isCorrect": false},
+        {"text": "Köpürme özelliği", "rationale": "Yanlış. Mavi ispirto köpürme özelliği ile bilinmez.", "isCorrect": false},
+        {"text": "Yağ bazlı olması", "rationale": "Yanlış. Mavi ispirto alkol bazlıdır.", "isCorrect": false}
+      ],
+      "hint": "Uçuculuk, hızlı kuruma ve leke çıkarma için önemlidir."
+    },
+    {
+      "questionNumber": 51,
+      "question": "Mavi ispirto aşağıdaki yüzeylerden hangisinde KULLANILMAZ?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Cam ve ayna", "rationale": "Yanlış. Mavi ispirto cam ve ayna temizliğinde kullanılır.", "isCorrect": false},
+        {"text": "Telefon ve mobilya yüzeyleri", "rationale": "Yanlış. Mavi ispirto bu yüzeylerin temizliğinde kullanılır.", "isCorrect": false},
+        {"text": "Kumaş üzerindeki yosun, çimen, tükenmez kalem lekeleri", "rationale": "Yanlış. Mavi ispirto bu lekeleri çıkarmada etkilidir.", "isCorrect": false},
+        {"text": "Zemin fayanslarının derin temizliği", "rationale": "Doğru. Mavi ispirto zemin fayanslarının derin temizliği için uygun değildir, bu amaçla başka ürünler kullanılır.", "isCorrect": true},
+        {"text": "Camlardaki kireç ve sinek lekeleri", "rationale": "Yanlış. Mavi ispirto bu lekeleri çıkarmada etkilidir.", "isCorrect": false}
+      ],
+      "hint": "Mavi ispirto hassas yüzeyler ve leke çıkarma için idealdir."
+    },
+    {
+      "questionNumber": 52,
+      "question": "Kaol (metal parlatıcısı) aşağıdaki malzemelerden hangisinde KULLANILMAZ?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Gümüş kaplama", "rationale": "Yanlış. Kaol gümüş kaplama parlatmada kullanılır.", "isCorrect": false},
+        {"text": "Pirinç ve bakır", "rationale": "Yanlış. Kaol pirinç ve bakır parlatmada kullanılır.", "isCorrect": false},
+        {"text": "Kromajlı malzemeler", "rationale": "Yanlış. Kaol kromajlı malzemelerde kullanılır.", "isCorrect": false},
+        {"text": "Ahşap mobilya yüzeyleri", "rationale": "Doğru. Kaol ahşap mobilya yüzeylerinde kullanılmaz, ahşap için özel parlatıcılar vardır.", "isCorrect": true},
+        {"text": "Saf gümüş", "rationale": "Yanlış. Kaol saf gümüş parlatmada kullanılır.", "isCorrect": false}
+      ],
+      "hint": "Kaol metal parlatma amaçlıdır, ahşap için uygun değildir."
+    },
+    {
+      "questionNumber": 53,
+      "question": "Gümüşlerin kararmasının temel nedeni aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Nem ve rutubet", "rationale": "Yanlış. Nem kararmayı hızlandırabilir ama temel neden değildir.", "isCorrect": false},
+        {"text": "Güneş ışığı", "rationale": "Yanlış. Güneş ışığı gümüş kararmasının temel nedeni değildir.", "isCorrect": false},
+        {"text": "Havadaki Sülfit hidrik maddesinin yüzeyi tabaka halinde kaplaması", "rationale": "Doğru. Gümüşlerin kararmasının sebebi havadaki Sülfit hidrik maddesinin tabaka halinde yüzeyi kaplamasıdır.", "isCorrect": true},
+        {"text": "Temizlik malzemelerinin yanlış kullanımı", "rationale": "Yanlış. Yanlış kullanım kararmayı etkileyebilir ama temel neden değildir.", "isCorrect": false},
+        {"text": "Sert su kullanımı", "rationale": "Yanlış. Sert su gümüş kararmasının temel nedeni değildir.", "isCorrect": false}
+      ],
+      "hint": "Gümüş kararması kimyasal bir reaksiyon sonucudur."
+    },
+    {
+      "questionNumber": 54,
+      "question": "Sert cilalar aşağıdaki alanlardan hangisinde kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Müşteri trafiğinin az olduğu alanlar", "rationale": "Yanlış. Bu alanlar için yumuşak cilalar tercih edilir.", "isCorrect": false},
+        {"text": "Duvar yüzeyleri", "rationale": "Yanlış. Duvarlar için yumuşak cilalar kullanılır.", "isCorrect": false},
+        {"text": "Müşteri trafiğinin yoğun olduğu alanlar", "rationale": "Doğru. Sert cilalar müşteri trafiğinin yoğun olduğu alanlarda kullanılır.", "isCorrect": true},
+        {"text": "Cilalı yüzeyin günlük bakımında", "rationale": "Yanlış. Günlük bakım için yumuşak cilalar kullanılır.", "isCorrect": false},
+        {"text": "Sadece ahşap yüzeylerde", "rationale": "Yanlış. Sert cilalar farklı yüzeylerde kullanılabilir.", "isCorrect": false}
+      ],
+      "hint": "Yoğun trafik = daha dayanıklı (sert) cila gerekir."
+    },
+    {
+      "questionNumber": 55,
+      "question": "Yumuşak cilalar aşağıdaki alanlardan hangisinde kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Müşteri trafiğinin yoğun olduğu alanlar", "rationale": "Yanlış. Bu alanlar için sert cilalar tercih edilir.", "isCorrect": false},
+        {"text": "Sadece zemin yüzeyleri", "rationale": "Yanlış. Yumuşak cilalar farklı yüzeylerde kullanılabilir.", "isCorrect": false},
+        {"text": "Müşteri trafiğinin az olduğu alanlar, duvarlar ve günlük bakım", "rationale": "Doğru. Yumuşak cilalar müşteri trafiğinin az olduğu alanlarda, duvarlarda ve cilalı yüzeyin günlük bakımında kullanılır.", "isCorrect": true},
+        {"text": "Sadece metal yüzeylerde", "rationale": "Yanlış. Yumuşak cilalar metal yüzeyler için özel değildir.", "isCorrect": false},
+        {"text": "Sadece cam yüzeylerde", "rationale": "Yanlış. Cam yüzeyler için farklı ürünler kullanılır.", "isCorrect": false}
+      ],
+      "hint": "Az trafik ve günlük bakım = yumuşak cila yeterlidir."
+    },
+    {
+      "questionNumber": 56,
+      "question": "Sert cila uygulaması için aşağıdakilerden hangisi GEREKLİDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece mop ile uygulama", "rationale": "Yanlış. Sert cila mop ile uygulanmaz.", "isCorrect": false},
+        {"text": "Cila makinesi ile uygulama", "rationale": "Doğru. Sert cilalar mutlaka cila makinesi ile atılmalıdır.", "isCorrect": true},
+        {"text": "El ile fırçalama", "rationale": "Yanlış. El ile uygulama sert cila için uygun değildir.", "isCorrect": false},
+        {"text": "Sprey ile püskürtme", "rationale": "Yanlış. Sprey uygulama sert cila için uygun değildir.", "isCorrect": false},
+        {"text": "Sadece su ile karıştırma", "rationale": "Yanlış. Sert cila özel uygulama gerektirir.", "isCorrect": false}
+      ],
+      "hint": "Sert cila = makine ile uygulama zorunluluğu."
+    },
+    {
+      "questionNumber": 57,
+      "question": "Yumuşak cila uygulaması için aşağıdakilerden hangisi YETERLİDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Cila makinesi zorunludur", "rationale": "Yanlış. Yumuşak cila için makine zorunlu değildir.", "isCorrect": false},
+        {"text": "Mop (paspas) ile uygulama yeterlidir", "rationale": "Doğru. Yumuşak cilalar mop (paspas) ile atılabilir.", "isCorrect": true},
+        {"text": "Sadece sprey ile uygulama", "rationale": "Yanlış. Sprey tek başına yeterli değildir.", "isCorrect": false},
+        {"text": "El ile fırçalama zorunludur", "rationale": "Yanlış. El ile fırçalama zorunlu değildir.", "isCorrect": false},
+        {"text": "Sadece su ile karıştırma", "rationale": "Yanlış. Yumuşak cila özel uygulama gerektirir.", "isCorrect": false}
+      ],
+      "hint": "Yumuşak cila = pratik uygulama (mop) mümkündür."
+    },
+    {
+      "questionNumber": 58,
+      "question": "Cila atılmadan önce mutlaka yapılması gereken işlem aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yüzeyin ıslatılması", "rationale": "Yanlış. Islak yüzeye cila uygulanmaz.", "isCorrect": false},
+        {"text": "Yüzeyin temel temizliğinin yapılması", "rationale": "Doğru. Cila atılmadan önce mutlaka yüzeyin temel temizliği yapılmalıdır.", "isCorrect": true},
+        {"text": "Yüzeyin zımparalanması", "rationale": "Yanlış. Zımpara cila öncesi zorunlu değildir.", "isCorrect": false},
+        {"text": "Yüzeyin ısıtılması", "rationale": "Yanlış. Isıtma cila öncesi zorunlu değildir.", "isCorrect": false},
+        {"text": "Yüzeyin yağlanması", "rationale": "Yanlış. Yağlama cila uygulamasına engel olur.", "isCorrect": false}
+      ],
+      "hint": "Temiz yüzey = etkili cila uygulaması."
+    },
+    {
+      "questionNumber": 59,
+      "question": "Uluslararası uyarı işaretlerinden 'Toksik (Zehirli)' sembolü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Alev görseli", "rationale": "Yanlış. Alev görseli 'Yanıcı' anlamına gelir.", "isCorrect": false},
+        {"text": "Ünlem (!) işareti", "rationale": "Yanlış. Ünlem işareti 'Tahriş Edici' anlamına gelir.", "isCorrect": false},
+        {"text": "Kurukafa görseli", "rationale": "Doğru. Kurukafa görseli 'Toksik (Zehirli)' anlamına gelir.", "isCorrect": true},
+        {"text": "Patlayan bomba görseli", "rationale": "Yanlış. Patlayan bomba 'Patlayıcı' anlamına gelir.", "isCorrect": false},
+        {"text": "Yüzeye damlayan asit görseli", "rationale": "Yanlış. Bu görsel 'Aşınma (Corrosive)' anlamına gelir.", "isCorrect": false}
+      ],
+      "hint": "Kurukafa = ölüm tehlikesi = zehirli madde."
+    },
+    {
+      "questionNumber": 60,
+      "question": "Uluslararası uyarı işaretlerinden 'Yanıcı (Flammable)' sembolü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kurukafa görseli", "rationale": "Yanlış. Kurukafa 'Toksik' anlamına gelir.", "isCorrect": false},
+        {"text": "Alev görseli", "rationale": "Doğru. Alev görseli 'Yanıcı (Flammable)' anlamına gelir.", "isCorrect": true},
+        {"text": "Ünlem (!) işareti", "rationale": "Yanlış. Ünlem işareti 'Tahriş Edici' anlamına gelir.", "isCorrect": false},
+        {"text": "Patlayan bomba görseli", "rationale": "Yanlış. Patlayan bomba 'Patlayıcı' anlamına gelir.", "isCorrect": false},
+        {"text": "Tüp görseli", "rationale": "Yanlış. Tüp görseli 'Basınçlı Gazlar' anlamına gelir.", "isCorrect": false}
+      ],
+      "hint": "Alev = yanıcı madde, ateşten uzak tutulmalı."
+    },
+    {
+      "questionNumber": 61,
+      "question": "Uluslararası uyarı işaretlerinden 'Patlayıcı (Explosive)' sembolü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Alev görseli", "rationale": "Yanlış. Alev 'Yanıcı' anlamına gelir.", "isCorrect": false},
+        {"text": "Kurukafa görseli", "rationale": "Yanlış. Kurukafa 'Toksik' anlamına gelir.", "isCorrect": false},
+        {"text": "Patlayan bomba görseli", "rationale": "Doğru. Patlayan bomba görseli 'Patlayıcı (Explosive)' anlamına gelir.", "isCorrect": true},
+        {"text": "Ünlem (!) işareti", "rationale": "Yanlış. Ünlem işareti 'Tahriş Edici' anlamına gelir.", "isCorrect": false},
+        {"text": "Yüzeye damlayan asit görseli", "rationale": "Yanlış. Bu görsel 'Aşınma (Corrosive)' anlamına gelir.", "isCorrect": false}
+      ],
+      "hint": "Patlayan bomba = patlama riski, dikkatli kullanılmalı."
+    },
+    {
+      "questionNumber": 62,
+      "question": "Uluslararası uyarı işaretlerinden 'Tahriş Edici (Zararlı/Dikkat)' sembolü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Alev görseli", "rationale": "Yanlış. Alev 'Yanıcı' anlamına gelir.", "isCorrect": false},
+        {"text": "Kurukafa görseli", "rationale": "Yanlış. Kurukafa 'Toksik' anlamına gelir.", "isCorrect": false},
+        {"text": "Patlayan bomba görseli", "rationale": "Yanlış. Patlayan bomba 'Patlayıcı' anlamına gelir.", "isCorrect": false},
+        {"text": "Ünlem (!) işareti", "rationale": "Doğru. Ünlem (!) işareti 'Tahriş Edici (Zararlı/Dikkat)' anlamına gelir.", "isCorrect": true},
+        {"text": "Tüp görseli", "rationale": "Yanlış. Tüp görseli 'Basınçlı Gazlar' anlamına gelir.", "isCorrect": false}
+      ],
+      "hint": "Ünlem işareti = dikkat, tahriş edici madde."
+    },
+    {
+      "questionNumber": 63,
+      "question": "Uluslararası uyarı işaretlerinden 'Basınçlı Gazlar' sembolü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Alev görseli", "rationale": "Yanlış. Alev 'Yanıcı' anlamına gelir.", "isCorrect": false},
+        {"text": "Kurukafa görseli", "rationale": "Yanlış. Kurukafa 'Toksik' anlamına gelir.", "isCorrect": false},
+        {"text": "Patlayan bomba görseli", "rationale": "Yanlış. Patlayan bomba 'Patlayıcı' anlamına gelir.", "isCorrect": false},
+        {"text": "Tüp görseli", "rationale": "Doğru. Tüp görseli 'Basınçlı Gazlar' anlamına gelir.", "isCorrect": true},
+        {"text": "Yüzeye damlayan asit görseli", "rationale": "Yanlış. Bu görsel 'Aşınma (Corrosive)' anlamına gelir.", "isCorrect": false}
+      ],
+      "hint": "Tüp = basınçlı gaz, ısı ve darbeden korunmalı."
+    },
+    {
+      "questionNumber": 64,
+      "question": "Uluslararası uyarı işaretlerinden 'Çevre İçin Tehlikeli' sembolü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Alev görseli", "rationale": "Yanlış. Alev 'Yanıcı' anlamına gelir.", "isCorrect": false},
+        {"text": "Kurukafa görseli", "rationale": "Yanlış. Kurukafa 'Toksik' anlamına gelir.", "isCorrect": false},
+        {"text": "Kurumuş ağaç ve ters dönmüş ölü balık görseli", "rationale": "Doğru. Kurumuş ağaç ve ters dönmüş ölü balık görseli 'Çevre İçin Tehlikeli' anlamına gelir.", "isCorrect": true},
+        {"text": "Ünlem (!) işareti", "rationale": "Yanlış. Ünlem işareti 'Tahriş Edici' anlamına gelir.", "isCorrect": false},
+        {"text": "Tüp görseli", "rationale": "Yanlış. Tüp görseli 'Basınçlı Gazlar' anlamına gelir.", "isCorrect": false}
+      ],
+      "hint": "Ölü balık ve kurumuş ağaç = çevre kirliliği riski."
+    },
+    {
+      "questionNumber": 65,
+      "question": "Temizlik malzemesi seçim kriterlerinden aşağıdakilerden hangisi DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kimyasal olarak yumuşak olmalı, cilde ve yüzeye zarar vermemeli", "rationale": "Yanlış. Bu önemli bir seçim kriteridir.", "isCorrect": false},
+        {"text": "Kötü kokusu olmamalı", "rationale": "Yanlış. Koku faktörü seçimde önemlidir.", "isCorrect": false},
+        {"text": "Ambalajı kullanıma uygun olmalı", "rationale": "Yanlış. Ambalaj pratikliği önemlidir.", "isCorrect": false},
+        {"text": "Mümkün olduğunca pahalı olmalı", "rationale": "Doğru. Fiyat tek başına seçim kriteri değildir, ekonomiklik ön planda tutulmalıdır.", "isCorrect": true},
+        {"text": "Etiketinde firma adı, kullanım talimatı, içeriği ve koruyucu önlemler yazmalı", "rationale": "Yanlış. Etiket bilgileri güvenlik açısından kritiktir.", "isCorrect": false}
+      ],
+      "hint": "Pahalı olmak kalite garantisi değildir, uygunluk önemlidir."
+    },
+    {
+      "questionNumber": 66,
+      "question": "Temizlik malzemesi kullanım miktarını belirleyen faktörlerden aşağıdakilerden hangisi DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yüzeyin cinsi ve büyüklüğü", "rationale": "Yanlış. Bu faktör kullanım miktarını etkiler.", "isCorrect": false},
+        {"text": "Kirin çeşidi, eski veya yeni oluşu", "rationale": "Yanlış. Kirin niteliği miktarı belirler.", "isCorrect": false},
+        {"text": "Yüzeyin kirlilik derecesi", "rationale": "Yanlış. Kirlilik seviyesi miktarı etkiler.", "isCorrect": false},
+        {"text": "Personelin tercihi", "rationale": "Doğru. Kullanım miktarı kişisel tercihe göre değil, teknik faktörlere göre belirlenir.", "isCorrect": true},
+        {"text": "Temizliğin sıklığı ve temizlik yöntemi", "rationale": "Yanlış. Bu faktörler miktarı belirler.", "isCorrect": false}
+      ],
+      "hint": "Kullanım miktarı bilimsel ve teknik kriterlere dayanmalıdır."
+    },
+    {
+      "questionNumber": 67,
+      "question": "'Çok köpük iyi temizlik demektir' ifadesi için aşağıdakilerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kesinlikle doğrudur, daha çok köpük daha iyi temizlik sağlar", "rationale": "Yanlış. Bu yaygın bir yanılgıdır.", "isCorrect": false},
+        {"text": "Kısmen doğrudur, bazı durumlarda geçerlidir", "rationale": "Yanlış. Bu ifade genel olarak yanlıştır.", "isCorrect": false},
+        {"text": "Yanlıştır; aşırı köpük temizlik maddesinin yüzeye nüfuz etmesini engeller", "rationale": "Doğru. Aşırı köpük, suyun ve temizlik maddesinin yüzeylere nüfuz etmesini engeller ve temizlik sağlanamaz.", "isCorrect": true},
+        {"text": "Sadece el yıkama için geçerlidir", "rationale": "Yanlış. Bu ifade genel temizlik için de yanlıştır.", "isCorrect": false},
+        {"text": "Sadece çamaşır yıkama için geçerlidir", "rationale": "Yanlış. Bu ifade genel temizlik için de yanlıştır.", "isCorrect": false}
+      ],
+      "hint": "Köpük miktarı temizlik kalitesinin tek göstergesi değildir."
+    },
+    {
+      "questionNumber": 68,
+      "question": "Konsantre çamaşır deterjanı ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Normal deterjanlardan daha fazla miktar gerektirir", "rationale": "Yanlış. Konsantre deterjanlar daha az miktarla iş yapar.", "isCorrect": false},
+        {"text": "Sadece sıcak suda etkilidir", "rationale": "Yanlış. Konsantre deterjanlar düşük ısıda da çalışır.", "isCorrect": false},
+        {"text": "Normal deterjanlarla aynı oranda çamaşırı, çok daha az miktarda kullanarak temizler", "rationale": "Doğru. Konsantre deterjanlar yoğun formüllü olup daha az gramajla iş yapar.", "isCorrect": true},
+        {"text": "Ön yıkama gerektirir", "rationale": "Yanlış. Konsantre deterjanlar ön yıkama gerektirmez.", "isCorrect": false},
+        {"text": "Suda tam erimez", "rationale": "Yanlış. Konsantre deterjanlar suda tam erir.", "isCorrect": false}
+      ],
+      "hint": "Konsantre = yoğun formül = az miktar, yüksek etki."
+    },
+    {
+      "questionNumber": 69,
+      "question": "Arap sabunu ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "En pahalı sabun türüdür", "rationale": "Yanlış. Arap sabunu ekonomik bir seçenektir.", "isCorrect": false},
+        {"text": "Sadece el yıkama için kullanılır", "rationale": "Yanlış. Arap sabunu farklı temizlik amaçları için de kullanılabilir.", "isCorrect": false},
+        {"text": "En ekonomik olan sıvı sabun türüdür", "rationale": "Doğru. Arap sabunu (sıvı) en ekonomik olan sabun türlerinden biridir.", "isCorrect": true},
+        {"text": "Suda zor erir", "rationale": "Yanlış. Arap sabunu suda kolay erir.", "isCorrect": false},
+        {"text": "Sadece endüstriyel kullanıma uygundur", "rationale": "Yanlış. Arap sabunu evsel ve otel kullanımı için de uygundur.", "isCorrect": false}
+      ],
+      "hint": "Arap sabunu = ekonomik ve çok amaçlı sıvı sabun."
+    },
+    {
+      "questionNumber": 70,
+      "question": "Dezenfektanlı sabunlar hangi amaçla kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece el yıkama için", "rationale": "Yanlış. Dezenfektanlı sabunlar daha geniş kullanım alanına sahiptir.", "isCorrect": false},
+        {"text": "Sadece yüzey temizliği için", "rationale": "Yanlış. Dezenfektanlı sabunlar farklı amaçlar için de kullanılabilir.", "isCorrect": false},
+        {"text": "Cilt hastalıkları için", "rationale": "Doğru. Dezenfektanlı sabunlar cilt hastalıkları için kullanılır.", "isCorrect": true},
+        {"text": "Sadece çamaşır yıkama için", "rationale": "Yanlış. Dezenfektanlı sabunlar çamaşır için özel değildir.", "isCorrect": false},
+        {"text": "Sadece mutfak temizliği için", "rationale": "Yanlış. Dezenfektanlı sabunlar mutfak için özel değildir.", "isCorrect": false}
+      ],
+      "hint": "Dezenfektanlı = hijyen odaklı, cilt sağlığı için önemli."
+    },
+    {
+      "questionNumber": 71,
+      "question": "Kat hizmetlerinin etkin ve ekonomik çalışabilmesi için aşağıdakilerden hangisi GEREKLİDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Rastgele temizlik planlaması", "rationale": "Yanlış. Rastgele planlama verimsizliğe neden olur.", "isCorrect": false},
+        {"text": "Sistematik yaklaşım ve organizasyon", "rationale": "Doğru. Kat hizmetlerinin etkin ve ekonomik çalışabilmesi için temizliğe sistematik yaklaşılmalıdır.", "isCorrect": true},
+        {"text": "Sadece deneyimli personel kullanımı", "rationale": "Yanlış. Deneyim önemlidir ama sistematik yaklaşım daha kritiktir.", "isCorrect": false},
+        {"text": "Sadece pahalı ekipman kullanımı", "rationale": "Yanlış. Pahalı ekipman tek başına yeterli değildir.", "isCorrect": false},
+        {"text": "Sadece fazla personel istihdamı", "rationale": "Yanlış. Fazla personel ekonomik değildir.", "isCorrect": false}
+      ],
+      "hint": "Sistem = verimlilik + ekonomik çalışma."
+    },
+    {
+      "questionNumber": 72,
+      "question": "İş programlarının temel amacı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Personeli yormak", "rationale": "Yanlış. İş programları personeli yormak için değil, verimli çalıştırmak için hazırlanır.", "isCorrect": false},
+        {"text": "Maliyetleri artırmak", "rationale": "Yanlış. İş programları maliyet kontrolü için hazırlanır.", "isCorrect": false},
+        {"text": "Kişilerin ne zaman, nerede çalışacaklarını ve hangi araç-gereçleri kullanacaklarını belirlemek", "rationale": "Doğru. İş programları; nelerin, nasıl, ne kadar sürede ve hangi sıklıkla yapılacağını planlar.", "isCorrect": true},
+        {"text": "Sadece denetim amaçlıdır", "rationale": "Yanlış. Denetim iş programlarının bir parçasıdır ama tek amaç değildir.", "isCorrect": false},
+        {"text": "Sadece raporlama amaçlıdır", "rationale": "Yanlış. Raporlama iş programlarının bir parçasıdır ama tek amaç değildir.", "isCorrect": false}
+      ],
+      "hint": "İş programı = planlı ve organize çalışma rehberi."
+    },
+    {
+      "questionNumber": 73,
+      "question": "Bir yatak odasının 5 ana fonksiyonel mekanından aşağıdakilerden hangisi DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yatak bölümü", "rationale": "Yanlış. Yatak bölümü ana fonksiyonel mekanlardan biridir.", "isCorrect": false},
+        {"text": "Oturma bölümü", "rationale": "Yanlış. Oturma bölümü ana fonksiyonel mekanlardan biridir.", "isCorrect": false},
+        {"text": "Giriş", "rationale": "Yanlış. Giriş ana fonksiyonel mekanlardan biridir.", "isCorrect": false},
+        {"text": "Mutfak", "rationale": "Doğru. Mutfak standart yatak odasının fonksiyonel mekanları arasında yer almaz.", "isCorrect": true},
+        {"text": "Banyo", "rationale": "Yanlış. Banyo ana fonksiyonel mekanlardan biridir.", "isCorrect": false}
+      ],
+      "hint": "Standart oda = yatak, oturma, giriş, banyo, balkon."
+    },
+    {
+      "questionNumber": 74,
+      "question": "Karyola (baza) seçiminde aşağıdakilerden hangisi tercih sebebidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Ağır ve hantal olması", "rationale": "Yanlış. Hafif olması tercih sebebidir.", "isCorrect": false},
+        {"text": "Temizlik zorluğu", "rationale": "Yanlış. Temizlik kolaylığı tercih sebebidir.", "isCorrect": false},
+        {"text": "Baş tarafının tekerlekli olması", "rationale": "Doğru. Temizlik kolaylığı için baş tarafının tekerlekli olması tercih sebebidir.", "isCorrect": true},
+        {"text": "Sadece dekoratif görünüm", "rationale": "Yanlış. Fonksiyonellik dekorasyondan daha önemlidir.", "isCorrect": false},
+        {"text": "Yüksek maliyet", "rationale": "Yanlış. Maliyet tek başına tercih kriteri değildir.", "isCorrect": false}
+      ],
+      "hint": "Pratiklik ve temizlik kolaylığı karyola seçiminde önemlidir."
+    },
+    {
+      "questionNumber": 75,
+      "question": "Komodin üzerinde aşağıdakilerden hangisi BULUNMAZ?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Gece lambası", "rationale": "Yanlış. Gece lambası komodinde bulunur.", "isCorrect": false},
+        {"text": "Telefon", "rationale": "Yanlış. Telefon komodinde bulunur.", "isCorrect": false},
+        {"text": "Rehber", "rationale": "Yanlış. Rehber komodinde bulunur.", "isCorrect": false},
+        {"text": "Mutfak eşyaları", "rationale": "Doğru. Mutfak eşyaları komodinde bulunmaz, mutfak alanına aittir.", "isCorrect": true},
+        {"text": "Kül tablası", "rationale": "Yanlış. Kül tablası komodinde bulunabilir.", "isCorrect": false}
+      ],
+      "hint": "Komodin = yatak başı kişisel eşya ve iletişim araçları."
+    },
+    {
+      "questionNumber": 76,
+      "question": "Puf'un temel özelliği aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Ağır ve sabit olması", "rationale": "Yanlış. Puf hafif ve hareketlidir.", "isCorrect": false},
+        {"text": "Sadece dekoratif amaçlı olması", "rationale": "Yanlış. Puf fonksiyonel bir oturma aracıdır.", "isCorrect": false},
+        {"text": "Tuvalet masasının boşluğuna giren, yer kaplamayan, hafif ve kolay çekilebilir oturma aracı olması", "rationale": "Doğru. Puf tuvalet masasının boşluğuna giren, yer kaplamayan, hafif ve kolay çekilebilir oturma aracıdır.", "isCorrect": true},
+        {"text": "Sadece yatak başında kullanılması", "rationale": "Yanlış. Puf farklı alanlarda da kullanılabilir.", "isCorrect": false},
+        {"text": "Sadece misafir odalarında bulunması", "rationale": "Yanlış. Puf standart oda donanımıdır.", "isCorrect": false}
+      ],
+      "hint": "Puf = pratik, yer tasarruflu oturma çözümü."
+    },
+    {
+      "questionNumber": 77,
+      "question": "Gardrop içinde aşağıdakilerden hangisi BULUNMAZ?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yeterli elbise askısı", "rationale": "Yanlış. Askı gardropta bulunur.", "isCorrect": false},
+        {"text": "Yedek yastık", "rationale": "Yanlış. Yedek yastık gardropta bulunur.", "isCorrect": false},
+        {"text": "Battaniye ve yatak örtüsü", "rationale": "Yanlış. Bunlar gardropta bulunur.", "isCorrect": false},
+        {"text": "Mutfak gereçleri", "rationale": "Doğru. Mutfak gereçleri gardropta bulunmaz, mutfak alanına aittir.", "isCorrect": true},
+        {"text": "Çamaşır yıkama listesi ve torbası", "rationale": "Yanlış. Bunlar gardropta bulunur.", "isCorrect": false}
+      ],
+      "hint": "Gardrop = giyim, yedek tekstil ve çamaşır hizmetleri."
+    },
+    {
+      "questionNumber": 78,
+      "question": "Minibar ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece soğutucu dolaptır", "rationale": "Yanlış. Minibar soğutucu dolabın sığdığı mobilyadır.", "isCorrect": false},
+        {"text": "İçine soğutucu dolabın sığdığı mobilyadır; işletme tarafından belirlenen yiyecek/içecekler konur", "rationale": "Doğru. Minibar içine soğutucu dolabın sığdığı mobilyadır; işletme tarafından belirlenen yiyecek/içecekler konur.", "isCorrect": true},
+        {"text": "Sadece alkollü içecekler için kullanılır", "rationale": "Yanlış. Minibar farklı yiyecek ve içecekler için kullanılır.", "isCorrect": false},
+        {"text": "Misafir tarafından doldurulur", "rationale": "Yanlış. Minibar otel personeli tarafından doldurulur.", "isCorrect": false},
+        {"text": "Sadece lüks odalarda bulunur", "rationale": "Yanlış. Minibar standart oda donanımı olabilir.", "isCorrect": false}
+      ],
+      "hint": "Minibar = otel kontrolünde, misafir hizmetli soğutucu ünite."
+    },
+    {
+      "questionNumber": 79,
+      "question": "Aplik ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Taşınabilir aydınlatma aracıdır", "rationale": "Yanlış. Aplik duvara monte edilir, taşınabilir değildir.", "isCorrect": false},
+        {"text": "Sadece masa lambasıdır", "rationale": "Yanlış. Aplik masa lambası değildir.", "isCorrect": false},
+        {"text": "Duvara monte edilen dekoratif aydınlatma aracıdır", "rationale": "Doğru. Aplik duvara monte edilen dekoratif aydınlatma aracıdır.", "isCorrect": true},
+        {"text": "Sadece banyo aydınlatmasıdır", "rationale": "Yanlış. Aplik farklı alanlarda kullanılabilir.", "isCorrect": false},
+        {"text": "Sadece dış mekan aydınlatmasıdır", "rationale": "Yanlış. Aplik iç mekan aydınlatmasıdır.", "isCorrect": false}
+      ],
+      "hint": "Aplik = duvar tipi dekoratif aydınlatma."
+    },
+    {
+      "questionNumber": 80,
+      "question": "Ayaklı Aydınlatma Aracı (Lambader) ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Duvara sabit monteli aydınlatmadır", "rationale": "Yanlış. Lambader ayaklı ve taşınabilirdir.", "isCorrect": false},
+        {"text": "Sadece tavan aydınlatmasıdır", "rationale": "Yanlış. Lambader tavan aydınlatması değildir.", "isCorrect": false},
+        {"text": "Taşınabilir ve ışığın yönü ayarlanabilir dekoratif aydınlatmadır", "rationale": "Doğru. Lambader taşınabilir ve ışığın yönü ayarlanabilir dekoratif aydınlatmadır.", "isCorrect": true},
+        {"text": "Sadece banyo aydınlatmasıdır", "rationale": "Yanlış. Lambader farklı alanlarda kullanılabilir.", "isCorrect": false},
+        {"text": "Sadece dış mekan aydınlatmasıdır", "rationale": "Yanlış. Lambader iç mekan aydınlatmasıdır.", "isCorrect": false}
+      ],
+      "hint": "Lambader = hareketli, ayarlanabilir dekoratif ışık."
+    },
+    {
+      "questionNumber": 81,
+      "question": "Şifreli Dolap Kasası (Safe Box) ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece otel resepsiyonunda bulunur", "rationale": "Yanlış. Safe Box oda içinde de bulunabilir.", "isCorrect": false},
+        {"text": "Genellikle gardrop içinde bulunur; kıymetli eşyalar için kullanılır", "rationale": "Doğru. Şifreli Dolap Kasası genellikle gardrop içinde bulunur; kıymetli eşyalar için kullanılır.", "isCorrect": true},
+        {"text": "Sadece otel personeli tarafından açılabilir", "rationale": "Yanlış. Misafir kendi şifresi ile açabilir.", "isCorrect": false},
+        {"text": "Sadece evrak saklamak için kullanılır", "rationale": "Yanlış. Safe Box farklı kıymetli eşyalar için kullanılır.", "isCorrect": false},
+        {"text": "Sadece lüks suitlerde bulunur", "rationale": "Yanlış. Safe Box standart odalarda da bulunabilir.", "isCorrect": false}
+      ],
+      "hint": "Safe Box = misafir kontrolünde, güvenli saklama alanı."
+    },
+    {
+      "questionNumber": 82,
+      "question": "Single Bed (Tek Kişilik Yatak) standart ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "90x190 cm", "rationale": "Yanlış. Bu ölçü Extra Bed içindir.", "isCorrect": false},
+        {"text": "100x200 cm", "rationale": "Doğru. Single Bed standart ölçüsü 100x200 cm'dir.", "isCorrect": true},
+        {"text": "140x200 cm", "rationale": "Yanlış. Bu ölçü French Bed içindir.", "isCorrect": false},
+        {"text": "152x203 cm", "rationale": "Yanlış. Bu ölçü Queen Size Bed içindir.", "isCorrect": false},
+        {"text": "180x200 cm", "rationale": "Yanlış. Bu ölçü King Size Bed içindir.", "isCorrect": false}
+      ],
+      "hint": "Single = tek kişi, standart ölçü 100x200 cm."
+    },
+    {
+      "questionNumber": 83,
+      "question": "French Bed (İki Kişilik Yatak) standart ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "100x200 cm", "rationale": "Yanlış. Bu ölçü Single Bed içindir.", "isCorrect": false},
+        {"text": "140x200 cm", "rationale": "Doğru. French Bed standart ölçüsü 140x200 cm'dir.", "isCorrect": true},
+        {"text": "152x203 cm", "rationale": "Yanlış. Bu ölçü Queen Size Bed içindir.", "isCorrect": false},
+        {"text": "180x200 cm", "rationale": "Yanlış. Bu ölçü King Size Bed içindir.", "isCorrect": false},
+        {"text": "200x200 cm", "rationale": "Yanlış. Bu ölçü Super King Size Bed içindir.", "isCorrect": false}
+      ],
+      "hint": "French Bed = klasik çift kişilik, 140x200 cm."
+    },
+    {
+      "questionNumber": 84,
+      "question": "Queen Size Bed standart ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "140x200 cm", "rationale": "Yanlış. Bu ölçü French Bed içindir.", "isCorrect": false},
+        {"text": "152x203 cm", "rationale": "Doğru. Queen Size Bed standart ölçüsü 152x203 cm'dir.", "isCorrect": true},
+        {"text": "180x200 cm", "rationale": "Yanlış. Bu ölçü King Size Bed içindir.", "isCorrect": false},
+        {"text": "200x200 cm", "rationale": "Yanlış. Bu ölçü Super King Size Bed içindir.", "isCorrect": false},
+        {"text": "100x200 cm", "rationale": "Yanlış. Bu ölçü Single Bed içindir.", "isCorrect": false}
+      ],
+      "hint": "Queen Size = geniş çift kişilik, 152x203 cm."
+    },
+    {
+      "questionNumber": 85,
+      "question": "King Size Bed standart ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "140x200 cm", "rationale": "Yanlış. Bu ölçü French Bed içindir.", "isCorrect": false},
+        {"text": "152x203 cm", "rationale": "Yanlış. Bu ölçü Queen Size Bed içindir.", "isCorrect": false},
+        {"text": "180x200 cm", "rationale": "Doğru. King Size Bed standart ölçüsü 180x200 cm'dir.", "isCorrect": true},
+        {"text": "200x200 cm", "rationale": "Yanlış. Bu ölçü Super King Size Bed içindir.", "isCorrect": false},
+        {"text": "100x200 cm", "rationale": "Yanlış. Bu ölçü Single Bed içindir.", "isCorrect": false}
+      ],
+      "hint": "King Size = lüks geniş çift kişilik, 180x200 cm."
+    },
+    {
+      "questionNumber": 86,
+      "question": "Super King Size Bed standart ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "140x200 cm", "rationale": "Yanlış. Bu ölçü French Bed içindir.", "isCorrect": false},
+        {"text": "152x203 cm", "rationale": "Yanlış. Bu ölçü Queen Size Bed içindir.", "isCorrect": false},
+        {"text": "180x200 cm", "rationale": "Yanlış. Bu ölçü King Size Bed içindir.", "isCorrect": false},
+        {"text": "200x200 cm", "rationale": "Doğru. Super King Size Bed standart ölçüsü 200x200 cm'dir.", "isCorrect": true},
+        {"text": "100x200 cm", "rationale": "Yanlış. Bu ölçü Single Bed içindir.", "isCorrect": false}
+      ],
+      "hint": "Super King = en geniş çift kişilik, 200x200 cm."
+    },
+    {
+      "questionNumber": 87,
+      "question": "Extra Bed (İlave Yatak) standart ölçüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "100x200 cm", "rationale": "Yanlış. Bu ölçü Single Bed içindir.", "isCorrect": false},
+        {"text": "140x200 cm", "rationale": "Yanlış. Bu ölçü French Bed içindir.", "isCorrect": false},
+        {"text": "90x190 cm", "rationale": "Doğru. Extra Bed standart ölçüsü 90x190 cm'dir.", "isCorrect": true},
+        {"text": "152x203 cm", "rationale": "Yanlış. Bu ölçü Queen Size Bed içindir.", "isCorrect": false},
+        {"text": "180x200 cm", "rationale": "Yanlış. Bu ölçü King Size Bed içindir.", "isCorrect": false}
+      ],
+      "hint": "Extra Bed = ek yatak, daha kompakt ölçülerde."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Twin Room (Çift Kişilik Oda - İki Yataklı) ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1 kişi kalır, 1 yatak vardır", "rationale": "Yanlış. Bu Single Room tanımıdır.", "isCorrect": false},
+        {"text": "2 kişi kalır, 1 adet büyük yatak (French Bed) vardır", "rationale": "Yanlış. Bu Double Room tanımıdır.", "isCorrect": false},
+        {"text": "2 kişi kalır, 2 adet ayrı yatak vardır", "rationale": "Doğru. Twin Room'da 2 kişi kalır ve 2 adet ayrı yatak vardır.", "isCorrect": true},
+        {"text": "3 ayrı yatak vardır", "rationale": "Yanlış. Bu Triple Room tanımıdır.", "isCorrect": false},
+        {"text": "4 ayrı yatak vardır", "rationale": "Yanlış. Bu Quadruple Room tanımıdır.", "isCorrect": false}
+      ],
+      "hint": "Twin = iki ayrı yatak, iki kişi için."
+    },
+    {
+      "questionNumber": 89,
+      "question": "Double Room (Çift Kişilik Oda - Tek Yataklı) ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1 kişi kalır, 1 yatak vardır", "rationale": "Yanlış. Bu Single Room tanımıdır.", "isCorrect": false},
+        {"text": "2 kişi kalır, 1 adet büyük yatak (French Bed) vardır", "rationale": "Doğru. Double Room'da 2 kişi kalır ve 1 adet büyük yatak (French Bed) vardır.", "isCorrect": true},
+        {"text": "2 kişi kalır, 2 adet ayrı yatak vardır", "rationale": "Yanlış. Bu Twin Room tanımıdır.", "isCorrect": false},
+        {"text": "3 ayrı yatak vardır", "rationale": "Yanlış. Bu Triple Room tanımıdır.", "isCorrect": false},
+        {"text": "4 ayrı yatak vardır", "rationale": "Yanlış. Bu Quadruple Room tanımıdır.", "isCorrect": false}
+      ],
+      "hint": "Double = tek büyük yatak, iki kişi için."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Triple Room ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1 kişi kalır, 1 yatak vardır", "rationale": "Yanlış. Bu Single Room tanımıdır.", "isCorrect": false},
+        {"text": "2 kişi kalır, 1 adet büyük yatak vardır", "rationale": "Yanlış. Bu Double Room tanımıdır.", "isCorrect": false},
+        {"text": "2 kişi kalır, 2 adet ayrı yatak vardır", "rationale": "Yanlış. Bu Twin Room tanımıdır.", "isCorrect": false},
+        {"text": "3 ayrı yatak vardır", "rationale": "Doğru. Triple Room'da 3 ayrı yatak vardır.", "isCorrect": true},
+        {"text": "4 ayrı yatak vardır", "rationale": "Yanlış. Bu Quadruple Room tanımıdır.", "isCorrect": false}
+      ],
+      "hint": "Triple = üç kişi, üç yatak."
+    },
+    {
+      "questionNumber": 91,
+      "question": "İşletmeler 3'lü ve 4'lü odaları satmakta zorlandığı için aşağıdaki çözümlerden hangisi uygulanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Bu odaların sayısını artırırlar", "rationale": "Yanlış. Zor satılan oda tipi artırılmaz.", "isCorrect": false},
+        {"text": "Bu odaların fiyatını düşürürler", "rationale": "Yanlış. Fiyat düşürme tek başına çözüm değildir.", "isCorrect": false},
+        {"text": "İkili odalar geniş inşa edilir ve gerektiğinde ekstra yatak ilave edilir", "rationale": "Doğru. İşletmeler 3'lü ve 4'lü odaları satmakta zorlandıkları için ikili odalar geniş inşa edilir ve gerektiğinde ekstra yatak ilave edilir.", "isCorrect": true},
+        {"text": "Bu oda tiplerini tamamen kaldırır", "rationale": "Yanlış. Tamamen kaldırmak esneklik kaybına neden olur.", "isCorrect": false},
+        {"text": "Sadece grup rezervasyonlarına açarlar", "rationale": "Yanlış. Bu çözüm tek başına yeterli değildir.", "isCorrect": false}
+      ],
+      "hint": "Esnek oda düzeni = talep değişimlerine uyum."
+    },
+    {
+      "questionNumber": 92,
+      "question": "Suit Odalar ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Oturma bölümü ve yatak odası aynı alandadır", "rationale": "Yanlış. Suit odalarda bu bölümler ayrıdır.", "isCorrect": false},
+        {"text": "Alan bakımından küçük odalardır", "rationale": "Yanlış. Suit odalar geniştir.", "isCorrect": false},
+        {"text": "Oturma bölümü ve yatak odası ayrıdır; alan bakımından çok geniştir; donanımları daha lükstür", "rationale": "Doğru. Suit Odalar: Oturma bölümü ve yatak odası ayrıdır. Alan bakımından çok geniştir. Donanımları daha lükstür.", "isCorrect": true},
+        {"text": "Sadece tek kişilik kullanım içindir", "rationale": "Yanlış. Suit odalar farklı kişi sayıları için kullanılabilir.", "isCorrect": false},
+        {"text": "En ekonomik oda tipidir", "rationale": "Yanlış. Suit odalar lüks ve pahalıdır.", "isCorrect": false}
+      ],
+      "hint": "Suite = ayrı bölümler, geniş alan, lüks donanım."
+    },
+    {
+      "questionNumber": 93,
+      "question": "Junior Suite (Küçük Suit) ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Suitlerden daha büyüktür", "rationale": "Yanlış. Junior Suite daha küçüktür.", "isCorrect": false},
+        {"text": "Suitlerden daha küçüktür; oturma bölümü bazen sadece bir paravan ile ayrılır", "rationale": "Doğru. Junior Suite: Suitlerden daha küçüktür. Oturma bölümü bazen sadece bir paravan ile ayrılır.", "isCorrect": true},
+        {"text": "Sadece tek kişilik kullanım içindir", "rationale": "Yanlış. Junior Suite farklı kişi sayıları için kullanılabilir.", "isCorrect": false},
+        {"text": "Mutfak içerebilir", "rationale": "Yanlış. Mutfak Presidential Suite özelliğidir.", "isCorrect": false},
+        {"text": "En lüks suit tipidir", "rationale": "Yanlış. En lüks suit Presidential Suite'tir.", "isCorrect": false}
+      ],
+      "hint": "Junior Suite = kompakt suit, paravan ile bölünmüş alan."
+    },
+    {
+      "questionNumber": 94,
+      "question": "Presidential Suite ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece bir odadan oluşur", "rationale": "Yanlış. Presidential Suite birçok odadan oluşur.", "isCorrect": false},
+        {"text": "Birçok odası olan, mutfağı bile olabilen en lüks suitlerdir; otelde birkaç tane bulunur", "rationale": "Doğru. Presidential Suite: Birçok odası olan, mutfağı bile olabilen en lüks suitlerdir. Otelde birkaç tane bulunur.", "isCorrect": true},
+        {"text": "En ekonomik oda tipidir", "rationale": "Yanlış. Presidential Suite en pahalı oda tipidir.", "isCorrect": false},
+        {"text": "Sadece tek kişilik kullanım içindir", "rationale": "Yanlış. Presidential Suite farklı kişi sayıları için kullanılabilir.", "isCorrect": false},
+        {"text": "Standart oda donanımına sahiptir", "rationale": "Yanlış. Presidential Suite lüks donanıma sahiptir.", "isCorrect": false}
+      ],
+      "hint": "Presidential Suite = en üst düzey lüks, çok odalı, özel donanım."
+    },
+    {
+      "questionNumber": 95,
+      "question": "Studio Room (Stüdyo Oda) ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sabit yataklara sahiptir", "rationale": "Yanlış. Studio Room'da yataklar portatiftir.", "isCorrect": false},
+        {"text": "Yer kazanmak amacıyla yatakların portatif yapıldığı (kullanılmadığında katlanıp kanepeye veya panoya dönüşen) odalardır", "rationale": "Doğru. Studio Room: Yer kazanmak amacıyla yatakların portatif yapıldığı (kullanılmadığında katlanıp kanepeye veya panoya dönüşen) odalardır.", "isCorrect": true},
+        {"text": "En geniş oda tipidir", "rationale": "Yanlış. Studio Room kompakt tasarımdır.", "isCorrect": false},
+        {"text": "Sadece lüks otellerde bulunur", "rationale": "Yanlış. Studio Room farklı otel kategorilerinde bulunabilir.", "isCorrect": false},
+        {"text": "Mutfak içeren oda tipidir", "rationale": "Yanlış. Mutfak Presidential Suite özelliğidir.", "isCorrect": false}
+      ],
+      "hint": "Studio Room = akıllı tasarım, çok amaçlı mobilya, yer tasarrufu."
+    },
+    {
+      "questionNumber": 96,
+      "question": "Showing Rooms (Göstermelik Odalar) ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Rezervasyonlu misafirler için ayrılmıştır", "rationale": "Yanlış. Showing Rooms rezervasyonsuz misafirler içindir.", "isCorrect": false},
+        {"text": "Rezervasyonsuz (Walk-in) gelen veya odayı satın almadan önce görmek isteyen müşteriler için tasarlanmıştır; resepsiyona yakın konumlandırılır", "rationale": "Doğru. Showing Rooms: Resepsiyona yakın konumlandırılır. Özellikleri diğer odalarla aynıdır. Rezervasyonsuz (Walk-in) gelen veya odayı satın almadan önce görmek isteyen müşteriler için tasarlanmıştır.", "isCorrect": true},
+        {"text": "En lüks oda tipidir", "rationale": "Yanlış. Showing Rooms standart donanıma sahiptir.", "isCorrect": false},
+        {"text": "Sadece grup rezervasyonları için kullanılır", "rationale": "Yanlış. Showing Rooms bireysel walk-in misafirler içindir.", "isCorrect": false},
+        {"text": "Fiyatları diğer odalardan daha yüksektir", "rationale": "Yanlış. Showing Rooms standart fiyata sahiptir.", "isCorrect": false}
+      ],
+      "hint": "Showing Room = ön izleme odası, satış öncesi tanıtım."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Connecting Rooms (Geçmeli Odalar) ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Aralarında geçiş kapısı YOKTUR", "rationale": "Yanlış. Connecting Rooms'da geçiş kapısı VARDIR.", "isCorrect": false},
+        {"text": "Koridora çıkmadan, odalar arası doğrudan geçiş imkanı veren iç kapısı olan odalardır; koridora sadece tek giriş kapısı vardır; genelde 2 odadır, aileler ve arkadaş grupları tercih eder", "rationale": "Doğru. Connecting Rooms: Koridora çıkmadan, odalar arası doğrudan geçiş imkanı veren iç kapısı olan odalardır. Koridora sadece tek giriş kapısı vardır. Genelde 2 odadır, aileler ve arkadaş grupları tercih eder.", "isCorrect": true},
+        {"text": "Sadece lüks suitlerde bulunur", "rationale": "Yanlış. Connecting Rooms farklı oda tiplerinde bulunabilir.", "isCorrect": false},
+        {"text": "Sadece tek kişilik kullanım içindir", "rationale": "Yanlış. Connecting Rooms grup kullanımı içindir.", "isCorrect": false},
+        {"text": "Fiyatları standart odalardan daha düşüktür", "rationale": "Yanlış. Connecting Rooms fiyat avantajı sağlamaz.", "isCorrect": false}
+      ],
+      "hint": "Connecting = iç kapılı, koridorsuz geçiş, grup konforu."
+    },
+    {
+      "questionNumber": 98,
+      "question": "Adjoining Rooms (Bitişik Odalar) ile ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Aralarında doğrudan geçiş kapısı vardır", "rationale": "Yanlış. Adjoining Rooms'da geçiş kapısı YOKTUR.", "isCorrect": false},
+        {"text": "Aralarında geçiş kapısı YOKTUR; sadece yan yana (bitişik) olan odalardır; kalabalık olup yakın olmak isteyenler tercih eder", "rationale": "Doğru. Adjoining Rooms: Aralarında geçiş kapısı YOKTUR. Sadece yan yana (bitişik) olan odalardır. Kalabalık olup yakın olmak isteyenler tercih eder.", "isCorrect": true},
+        {"text": "Sadece lüks suitlerde bulunur", "rationale": "Yanlış. Adjoining Rooms farklı oda tiplerinde bulunabilir.", "isCorrect": false},
+        {"text": "Sadece tek kişilik kullanım içindir", "rationale": "Yanlış. Adjoining Rooms grup kullanımı içindir.", "isCorrect": false},
+        {"text": "Fiyatları standart odalardan daha düşüktür", "rationale": "Yanlış. Adjoining Rooms fiyat avantajı sağlamaz.", "isCorrect": false}
+      ],
+      "hint": "Adjoining = yan yana ama geçişsiz, yakınlık isteyenler için."
+    },
+    {
+      "questionNumber": 99,
+      "question": "Connecting Rooms ile Adjoining Rooms arasındaki TEMEL fark aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Fiyat farkı", "rationale": "Yanlış. Fiyat temel fark değildir.", "isCorrect": false},
+        {"text": "Oda büyüklüğü", "rationale": "Yanlış. Büyüklük temel fark değildir.", "isCorrect": false},
+        {"text": "Connecting'de odalar arası iç geçiş kapısı VAR, Adjoining'de YOKTUR", "rationale": "Doğru. Connecting Rooms'da odalar arası doğrudan geçiş imkanı veren iç kapısı vardır; Adjoining Rooms'da ise aralarında geçiş kapısı YOKTUR.", "isCorrect": true},
+        {"text": "Oda donanım farkı", "rationale": "Yanlış. Donanım temel fark değildir.", "isCorrect": false},
+        {"text": "Hizmet kalitesi farkı", "rationale": "Yanlış. Hizmet kalitesi temel fark değildir.", "isCorrect": false}
+      ],
+      "hint": "Geçiş kapısı var/yok = Connecting/Adjoining ayırt edici özellik."
+    },
+    {
+      "questionNumber": 100,
+      "question": "Profesyonel temizlik anlayışına göre aşağıdakilerden hangisi DOĞRUDUR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Temizlik sadece gözle görülen alanların temizlenmesidir", "rationale": "Yanlış. Profesyonel temizlik görünmeyen alanları da kapsar.", "isCorrect": false},
+        {"text": "Profesyonel kat görevlisinin farkı; herkesin görebildiğinin ötesini, ilk anda dikkat çekmeyen, görünmeyen yerleri görebilmesi ve temizleyebilmesidir", "rationale": "Doğru. Profesyonel temizlik felsefesi: Temizlik sadece 'gözle görülen' alanların temizlenmesi değildir. Profesyonel kat görevlisinin farkı; herkesin görebildiğinin ötesini, ilk anda dikkat çekmeyen, görünmeyen yerleri görebilmesi ve temizleyebilmesidir.", "isCorrect": true},
+        {"text": "Sadece hızlı temizlik önemlidir", "rationale": "Yanlış. Hız tek başına yeterli değildir, kalite de önemlidir.", "isCorrect": false},
+        {"text": "Sadece ucuz malzeme kullanmak önemlidir", "rationale": "Yanlış. Ekonomiklik önemlidir ama kalite ve hijyen önceliklidir.", "isCorrect": false},
+        {"text": "Sadece misafir şikayetlerine göre hareket etmek yeterlidir", "rationale": "Yanlış. Proaktif yaklaşım profesyonel temizliğin temelidir.", "isCorrect": false}
+      ],
+      "hint": "Profesyonel temizlik = görünmeyeni görmek, detaylara hakim olmak."
+    }
+  ]
+}

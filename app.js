@@ -305,6 +305,46 @@ const TESTS = {
     dataUrl: "2-donem/vize/yiyecek-ve-icecek-servisi-2-3.json",
 
   },
+
+  "kat-hizmetleri-2-1": {
+
+    title: "Kat Hizmetleri II Testi 1",
+
+    dataUrl: "2-donem/vize/kat-hizmetleri-2-1.json",
+
+  },
+
+  "kat-hizmetleri-2-2": {
+
+    title: "Kat Hizmetleri II Testi 2",
+
+    dataUrl: "2-donem/vize/kat-hizmetleri-2-2.json",
+
+  },
+
+  "kat-hizmetleri-2-3": {
+
+    title: "Kat Hizmetleri II Testi 3",
+
+    dataUrl: "2-donem/vize/kat-hizmetleri-2-3.json",
+
+  },
+
+  "kat-hizmetleri-2-4": {
+
+    title: "Kat Hizmetleri II Testi 4",
+
+    dataUrl: "2-donem/vize/kat-hizmetleri-2-4.json",
+
+  },
+
+  "kat-hizmetleri-2-5": {
+
+    title: "Kat Hizmetleri II Testi 5",
+
+    dataUrl: "2-donem/vize/kat-hizmetleri-2-5.json",
+
+  },
  
   "turizm-ve-cevre": {
 
@@ -490,6 +530,16 @@ const TEST_ALIASES = {
   "yiyecek ve icecek servisi ii 2": "yiyecek-ve-icecek-servisi-2-2",
 
   "yiyecek ve icecek servisi ii 3": "yiyecek-ve-icecek-servisi-2-3",
+
+  "kat hizmetleri ii 1": "kat-hizmetleri-2-1",
+
+  "kat hizmetleri ii 2": "kat-hizmetleri-2-2",
+
+  "kat hizmetleri ii 3": "kat-hizmetleri-2-3",
+
+  "kat hizmetleri ii 4": "kat-hizmetleri-2-4",
+
+  "kat hizmetleri ii 5": "kat-hizmetleri-2-5",
  
  
  

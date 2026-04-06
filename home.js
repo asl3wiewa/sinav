@@ -280,6 +280,20 @@ const TEST_DATA = {
   "2": {
     vize: [
       {
+        id: "kat-hizmetleri-2",
+        title: "Kat Hizmetleri II",
+        description: "Ikinci donem vize konularini dort ayri testle calis.",
+        tag: "Kat Hizmetleri",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=kat-hizmetleri-2-1" },
+          { name: "Test 2 Basla", url: "quiz.html?test=kat-hizmetleri-2-2" },
+          { name: "Test 3 Basla", url: "quiz.html?test=kat-hizmetleri-2-3" },
+          { name: "Test 4 Basla", url: "quiz.html?test=kat-hizmetleri-2-4" },
+          { name: "Test 5 Basla", url: "quiz.html?test=kat-hizmetleri-2-5" }
+        ],
+        pdfUrl: "assets/pdf/2-donem/vize/kat-hizmetleri-2.pdf"
+      },
+      {
         id: "yiyecek-ve-icecek-servisi-2",
         title: "Yiyecek ve Icecek Servisi II",
         description: "Ikinci donem vize konularini uc ayri testle calis.",
