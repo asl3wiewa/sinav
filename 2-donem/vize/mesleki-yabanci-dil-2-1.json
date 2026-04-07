@@ -1,0 +1,654 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Guest: I ___ a single room for two nights, please.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "want", "rationale": "Otelcilikte 'want' fazla direkt ve kabadır.", "isCorrect": false },
+        { "text": "would like", "rationale": "Kibar ve profesyonel bir istek belirtir.", "isCorrect": true },
+        { "text": "am wanting", "rationale": "İngilizcede bu fiil continuous kullanılmaz.", "isCorrect": false },
+        { "text": "will like", "rationale": "İstek belirtirken 'would like' kullanılır.", "isCorrect": false },
+        { "text": "likes", "rationale": "Özne uyumu ve anlam yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Otelcilikte kibar istek kalıbıdır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Staff: I ___ check availability for you.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "would", "rationale": "Söz veya anlık işlem için 'would' kullanılmaz.", "isCorrect": false },
+        { "text": "am", "rationale": "Gelecek zaman anlamı taşımaz.", "isCorrect": false },
+        { "text": "will", "rationale": "Anlık kararlar ve işlemler için 'will' kullanılır.", "isCorrect": true },
+        { "text": "can", "rationale": "İşlemi onaylamak için 'will' daha uygundur.", "isCorrect": false },
+        { "text": "do", "rationale": "Geniş zaman yapısıdır, anlık aksiyon bildirmez.", "isCorrect": false }
+      ],
+      "hint": "Personel o an bir eylem yapacağını bildiriyor."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Guest: We will stay ___ two nights.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "from", "rationale": "Süreç belirtmek için kullanılmaz.", "isCorrect": false },
+        { "text": "to", "rationale": "Yönelme belirtir.", "isCorrect": false },
+        { "text": "on", "rationale": "Günler için kullanılır.", "isCorrect": false },
+        { "text": "for", "rationale": "Belirli bir süre boyunca anlamı katar.", "isCorrect": true },
+        { "text": "at", "rationale": "Saatler için kullanılır.", "isCorrect": false }
+      ],
+      "hint": "Süresince anlamı katan edattır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Please ___ the line. I will transfer your call.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "close", "rationale": "Kapatmak anlamına gelir.", "isCorrect": false },
+        { "text": "take", "rationale": "Mesaj almak için kullanılır.", "isCorrect": false },
+        { "text": "hold", "rationale": "Telefonda hatta bekletmek için 'hold' kullanılır.", "isCorrect": true },
+        { "text": "keep", "rationale": "Telefon kalıbı olarak 'hold the line' kullanılır.", "isCorrect": false },
+        { "text": "call", "rationale": "Aramak anlamına gelir.", "isCorrect": false }
+      ],
+      "hint": "Telefonda bekleme kalıbıdır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "___ a swimming pool in this hotel?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Are there", "rationale": "Havuz tekildir.", "isCorrect": false },
+        { "text": "Is there", "rationale": "Tekil nesnenin varlığını sormak için kullanılır.", "isCorrect": true },
+        { "text": "There is", "rationale": "Soru cümlesi değildir.", "isCorrect": false },
+        { "text": "Is it", "rationale": "Varlık bildiren kalıp 'there' ile kurulur.", "isCorrect": false },
+        { "text": "Does there", "rationale": "Yanlış bir gramer yapısıdır.", "isCorrect": false }
+      ],
+      "hint": "Tekil varlık sorusu."
+    },
+    {
+      "questionNumber": 6,
+      "question": "There isn't ___ noise in the corridor.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "many", "rationale": "Gürültü sayılamaz.", "isCorrect": false },
+        { "text": "a lot", "rationale": "'of' eksiktir.", "isCorrect": false },
+        { "text": "much", "rationale": "Sayılamayan kelimelerde ve olumsuz cümlelerde kullanılır.", "isCorrect": true },
+        { "text": "some", "rationale": "Olumsuz cümlede 'some' tercih edilmez.", "isCorrect": false },
+        { "text": "few", "rationale": "Sayılabilenler için kullanılır.", "isCorrect": false }
+      ],
+      "hint": "Noise sayılamayan bir kelimedir."
+    },
+    {
+      "questionNumber": 7,
+      "question": "You ___ visit the museum. It's fantastic.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "should to", "rationale": "Modallardan sonra to gelmez.", "isCorrect": false },
+        { "text": "should", "rationale": "Tavsiye vermek için kullanılır.", "isCorrect": true },
+        { "text": "might", "rationale": "Güçlü tavsiye değil, zayıf olasılıktır.", "isCorrect": false },
+        { "text": "can visits", "rationale": "Modal sonrası fiil ek almaz.", "isCorrect": false },
+        { "text": "would", "rationale": "İstek veya teklif içindir.", "isCorrect": false }
+      ],
+      "hint": "Tavsiye kalıbı."
+    },
+    {
+      "questionNumber": 8,
+      "question": "The gym is ___ the second floor.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "in", "rationale": "Katlar için in kullanılmaz.", "isCorrect": false },
+        { "text": "at", "rationale": "Saatler için kullanılır.", "isCorrect": false },
+        { "text": "to", "rationale": "Yönelmedir.", "isCorrect": false },
+        { "text": "on", "rationale": "Kat yüzeyleri için daima 'on' kullanılır.", "isCorrect": true },
+        { "text": "under", "rationale": "Anlamsızdır.", "isCorrect": false }
+      ],
+      "hint": "Katlardan önce gelen edat."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Guest: Can I have an extra ___? I am feeling cold.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "towel", "rationale": "Havlu üşümek için istenmez.", "isCorrect": false },
+        { "text": "pillow", "rationale": "Yastık ısınmak için değildir.", "isCorrect": false },
+        { "text": "adapter", "rationale": "Elektronik alet içindir.", "isCorrect": false },
+        { "text": "blanket", "rationale": "Üşüyen misafir battaniye ister.", "isCorrect": true },
+        { "text": "iron", "rationale": "Ütü ısınmak için kullanılmaz.", "isCorrect": false }
+      ],
+      "hint": "Üşüyünce ne istenir?"
+    },
+    {
+      "questionNumber": 10,
+      "question": "Staff: Breakfast is served ___ 7 a.m. to 10 a.m.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "from", "rationale": "'from... to...' kalıbı başlangıç belirtir.", "isCorrect": true },
+        { "text": "in", "rationale": "Saat kalıbı değildir.", "isCorrect": false },
+        { "text": "at", "rationale": "Tek bir saatte 'at' denir, aralık için uymaz.", "isCorrect": false },
+        { "text": "on", "rationale": "Günler içindir.", "isCorrect": false },
+        { "text": "for", "rationale": "Süreç uzunluğu belirtir.", "isCorrect": false }
+      ],
+      "hint": "Bir şeyden diğerine kalıbı."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Staff: I ___ send maintenance to your room.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "would", "rationale": "Söz vermek için would kullanılmaz.", "isCorrect": false },
+        { "text": "am going to", "rationale": "Anlık karar için will daha doğrudur.", "isCorrect": false },
+        { "text": "will", "rationale": "Anlık çözüm ve söz vermek için kullanılır.", "isCorrect": true },
+        { "text": "can to", "rationale": "Can sonrası to gelmez.", "isCorrect": false },
+        { "text": "should", "rationale": "Tavsiyedir, çözüm eylemi değildir.", "isCorrect": false }
+      ],
+      "hint": "Anlık çözüm sunma fiili."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Which one is grammatically correct?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "You can walks.", "rationale": "Fiil -s almaz.", "isCorrect": false },
+        { "text": "You should to go.", "rationale": "Should sonrası to gelmez.", "isCorrect": false },
+        { "text": "It might rain.", "rationale": "Modal + V1 kuralına tamamen uyar.", "isCorrect": true },
+        { "text": "You could going.", "rationale": "Fiil -ing almaz.", "isCorrect": false },
+        { "text": "He will went.", "rationale": "Will sonrası V1 gelir.", "isCorrect": false }
+      ],
+      "hint": "Modal sonrası fiil daima yalın haldedir."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Would you like a ___ call for tomorrow morning?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "wake-up", "rationale": "Uyandırma servisi.", "isCorrect": true },
+        { "text": "shuttle", "rationale": "Servis aracıdır, arama değildir.", "isCorrect": false },
+        { "text": "check-out", "rationale": "Arama tipi değildir.", "isCorrect": false },
+        { "text": "room", "rationale": "Oda servisi içindir.", "isCorrect": false },
+        { "text": "transfer", "rationale": "Ulaşım içindir.", "isCorrect": false }
+      ],
+      "hint": "Sabah uyandırma işlemi."
+    },
+    {
+      "questionNumber": 14,
+      "question": "There are ___ guests in the restaurant today.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "much", "rationale": "Misafirler sayılabilir, much olmaz.", "isCorrect": false },
+        { "text": "any", "rationale": "Olumlu cümleye uymaz.", "isCorrect": false },
+        { "text": "a little", "rationale": "Sayılamayanlar içindir.", "isCorrect": false },
+        { "text": "many", "rationale": "Sayılabilen çoğul isimlerle kullanılır.", "isCorrect": true },
+        { "text": "a lots", "rationale": "Yanlış yazım, a lot of olmalı.", "isCorrect": false }
+      ],
+      "hint": "Guests (misafirler) sayılabilen çoğul bir kelimedir."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Guest: Can I take my dog to my room?\nStaff: We ___ allow pets.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "won't", "rationale": "Sadece anlık bir durum değildir.", "isCorrect": false },
+        { "text": "aren't", "rationale": "Fiil V1 formundadır.", "isCorrect": false },
+        { "text": "don't", "rationale": "Genel kural için Present Simple kullanılır.", "isCorrect": true },
+        { "text": "shouldn't", "rationale": "Kural belirtirken don't daha kesindir.", "isCorrect": false },
+        { "text": "didn't", "rationale": "Geçmiş zaman değildir.", "isCorrect": false }
+      ],
+      "hint": "Otelin genel bir kuralıdır."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Could you ___ your surname, please?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "call", "rationale": "Aramak.", "isCorrect": false },
+        { "text": "hold", "rationale": "Bekletmek.", "isCorrect": false },
+        { "text": "spell", "rationale": "Harf harf kodlamak (hecelemek).", "isCorrect": true },
+        { "text": "transfer", "rationale": "Aktarmak.", "isCorrect": false },
+        { "text": "take", "rationale": "Almak.", "isCorrect": false }
+      ],
+      "hint": "Telefonda isim anlaşılmazsa istenir."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Guest: Where can we eat local food?\nStaff: You ___ try the restaurant nearby.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "will", "rationale": "Öneri değildir.", "isCorrect": false },
+        { "text": "are", "rationale": "Gramer yanlışı.", "isCorrect": false },
+        { "text": "could", "rationale": "Kibar öneri için kullanılır.", "isCorrect": true },
+        { "text": "have", "rationale": "Gramer yanlışı.", "isCorrect": false },
+        { "text": "would", "rationale": "Öneriden ziyade istek sorar.", "isCorrect": false }
+      ],
+      "hint": "Turizmde kibar öneri modal'ı."
+    },
+    {
+      "questionNumber": 18,
+      "question": "We can ___ your room to a suite for $20.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "cancel", "rationale": "İptal etmektir.", "isCorrect": false },
+        { "text": "check", "rationale": "Kontrol etmektir.", "isCorrect": false },
+        { "text": "upgrade", "rationale": "Ücretli oda sınıfı yükseltmek.", "isCorrect": true },
+        { "text": "book", "rationale": "Rezerve etmektir.", "isCorrect": false },
+        { "text": "clean", "rationale": "Temizlemektir.", "isCorrect": false }
+      ],
+      "hint": "Upselling (satış artırma) terimi."
+    },
+    {
+      "questionNumber": 19,
+      "question": "The meeting is ___ the conference room ___ the first floor.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "at / at", "rationale": "Yanlış edat.", "isCorrect": false },
+        { "text": "in / on", "rationale": "Kapalı alan in, katlar on.", "isCorrect": true },
+        { "text": "on / in", "rationale": "Ters kullanılmıştır.", "isCorrect": false },
+        { "text": "to / from", "rationale": "Yönelmedir.", "isCorrect": false },
+        { "text": "for / at", "rationale": "Yanlış edat.", "isCorrect": false }
+      ],
+      "hint": "Mekan ve kat edatları."
+    },
+    {
+      "questionNumber": 20,
+      "question": "I am afraid you have the ___ number.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "bad", "rationale": "Yanlış numara için kullanılmaz.", "isCorrect": false },
+        { "text": "wrong", "rationale": "Yanlış numara standart kalıbıdır.", "isCorrect": true },
+        { "text": "false", "rationale": "Telefon için kullanılmaz.", "isCorrect": false },
+        { "text": "dirty", "rationale": "Kirli demektir.", "isCorrect": false },
+        { "text": "error", "rationale": "Gramer uyumsuzdur.", "isCorrect": false }
+      ],
+      "hint": "Telefonda yanlış yeri arayana söylenen söz."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Guest: I would like a room. \nStaff: For ___ date?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "which", "rationale": "Standart kalıp 'what date' şeklindedir.", "isCorrect": false },
+        { "text": "what", "rationale": "'For what date?' kalıbı kullanılır.", "isCorrect": true },
+        { "text": "when", "rationale": "When date denmez.", "isCorrect": false },
+        { "text": "who", "rationale": "Kişi sorar.", "isCorrect": false },
+        { "text": "how", "rationale": "Nasıl sorar.", "isCorrect": false }
+      ],
+      "hint": "Hangi tarih için?"
+    },
+    {
+      "questionNumber": 22,
+      "question": "Guest: For how ___ guests?\nStaff: Two people.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "much", "rationale": "Kişi sayılabilirdir.", "isCorrect": false },
+        { "text": "many", "rationale": "Sayılabilen çokluk sorusudur.", "isCorrect": true },
+        { "text": "a lot", "rationale": "Soru kelimesi değildir.", "isCorrect": false },
+        { "text": "long", "rationale": "Süre sorar.", "isCorrect": false },
+        { "text": "far", "rationale": "Mesafe sorar.", "isCorrect": false }
+      ],
+      "hint": "Kişi sayısı soruluyor."
+    },
+    {
+      "questionNumber": 23,
+      "question": "I want July 15 ___ of July 12.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "place", "rationale": "Yanlış kalıp.", "isCorrect": false },
+        { "text": "change", "rationale": "Yanlış kalıp.", "isCorrect": false },
+        { "text": "instead", "rationale": "'instead of' yerine anlamına gelir.", "isCorrect": true },
+        { "text": "other", "rationale": "Yanlış kalıp.", "isCorrect": false },
+        { "text": "replace", "rationale": "Fiildir, of almaz.", "isCorrect": false }
+      ],
+      "hint": "Bir tarihin 'yerine' diğeri."
+    },
+    {
+      "questionNumber": 24,
+      "question": "___ there any parking spaces?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Is", "rationale": "Spaces çoğuldur.", "isCorrect": false },
+        { "text": "Are", "rationale": "Çoğul varlık sorusudur.", "isCorrect": true },
+        { "text": "Do", "rationale": "There ile do kullanılmaz.", "isCorrect": false },
+        { "text": "Does", "rationale": "There ile does kullanılmaz.", "isCorrect": false },
+        { "text": "Have", "rationale": "Gramer yanlışı.", "isCorrect": false }
+      ],
+      "hint": "Otopark alanları (çoğul) sorusu."
+    },
+    {
+      "questionNumber": 25,
+      "question": "There ___ any gyms in this hotel.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "isn't", "rationale": "Gyms çoğuldur.", "isCorrect": false },
+        { "text": "aren't", "rationale": "Çoğul olumsuz yapı.", "isCorrect": true },
+        { "text": "don't", "rationale": "There yapısına uymaz.", "isCorrect": false },
+        { "text": "doesn't", "rationale": "There yapısına uymaz.", "isCorrect": false },
+        { "text": "wasn't", "rationale": "Gyms çoğuldur.", "isCorrect": false }
+      ],
+      "hint": "Olumsuz çoğul 'there' yapısı."
+    },
+    {
+      "questionNumber": 26,
+      "question": "We offer massage and sauna ___.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "rooms", "rationale": "Hizmet belirtiliyor, oda değil.", "isCorrect": false },
+        { "text": "foods", "rationale": "Yiyecek değildir.", "isCorrect": false },
+        { "text": "services", "rationale": "Hizmet anlamındadır.", "isCorrect": true },
+        { "text": "people", "rationale": "Anlamsız.", "isCorrect": false },
+        { "text": "calls", "rationale": "Arama değildir.", "isCorrect": false }
+      ],
+      "hint": "Sunulan imkanlar için genel kelime."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Guest: Is it free?\nStaff: Yes, it is free ___ hotel guests.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "at", "rationale": "Mekan/zaman.", "isCorrect": false },
+        { "text": "for", "rationale": "İçin anlamı katar.", "isCorrect": true },
+        { "text": "to", "rationale": "Yönelme.", "isCorrect": false },
+        { "text": "on", "rationale": "Yüzey/gün.", "isCorrect": false },
+        { "text": "in", "rationale": "İçinde.", "isCorrect": false }
+      ],
+      "hint": "Misafirler için."
+    },
+    {
+      "questionNumber": 28,
+      "question": "___ I take a message?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Can", "rationale": "Teklif ve imkan sorar.", "isCorrect": true },
+        { "text": "Am", "rationale": "Fiil V1'dir.", "isCorrect": false },
+        { "text": "Are", "rationale": "Özne I'dır.", "isCorrect": false },
+        { "text": "Would", "rationale": "I öznesi ile Would I kalıbı nadirdir.", "isCorrect": false },
+        { "text": "Do", "rationale": "Rutin sorar, teklif değildir.", "isCorrect": false }
+      ],
+      "hint": "Mesaj alabilir miyim?"
+    },
+    {
+      "questionNumber": 29,
+      "question": "It ___ rain later today.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "might", "rationale": "Zayıf olasılık bildirir.", "isCorrect": true },
+        { "text": "should", "rationale": "Tavsiyedir.", "isCorrect": false },
+        { "text": "must", "rationale": "Zorunluluktur.", "isCorrect": false },
+        { "text": "can to", "rationale": "To almaz.", "isCorrect": false },
+        { "text": "ought", "rationale": "To eksiktir.", "isCorrect": false }
+      ],
+      "hint": "Zayıf ihtimal modali."
+    },
+    {
+      "questionNumber": 30,
+      "question": "The museum ___ be closed today.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "may", "rationale": "Olası durum bildirir.", "isCorrect": true },
+        { "text": "should", "rationale": "Tavsiye uyarmaz.", "isCorrect": false },
+        { "text": "would", "rationale": "Olasılık değildir.", "isCorrect": false },
+        { "text": "is to", "rationale": "Kalıba uymaz.", "isCorrect": false },
+        { "text": "can to", "rationale": "To almaz.", "isCorrect": false }
+      ],
+      "hint": "Müze kapalı olabilir."
+    },
+    {
+      "questionNumber": 31,
+      "question": "I ___ call a taxi for you.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "am", "rationale": "Eksik zaman.", "isCorrect": false },
+        { "text": "do", "rationale": "Rutin.", "isCorrect": false },
+        { "text": "will", "rationale": "Anlık karar/söz.", "isCorrect": true },
+        { "text": "would", "rationale": "Söz değildir.", "isCorrect": false },
+        { "text": "can to", "rationale": "Gramer yanlış.", "isCorrect": false }
+      ],
+      "hint": "Personelin taksi çağırma kararı."
+    },
+    {
+      "questionNumber": 32,
+      "question": "We ___ not charge you.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "are", "rationale": "Fiil var (charge).", "isCorrect": false },
+        { "text": "do", "rationale": "Rutin kuraldan ziyade söz veriyor.", "isCorrect": false },
+        { "text": "will", "rationale": "Gelecek eylem sözüdür.", "isCorrect": true },
+        { "text": "have", "rationale": "Gramer yanlış.", "isCorrect": false },
+        { "text": "should", "rationale": "Tavsiyedir.", "isCorrect": false }
+      ],
+      "hint": "Sizden ücret almayacağız."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Can I have an extra ___?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "beds", "rationale": "Tekil 'an' ile çoğul uymaz.", "isCorrect": false },
+        { "text": "towels", "rationale": "Çoğul.", "isCorrect": false },
+        { "text": "pillow", "rationale": "Tekil ve sayılabilir.", "isCorrect": true },
+        { "text": "waters", "rationale": "Sayılamaz.", "isCorrect": false },
+        { "text": "informations", "rationale": "Sayılamaz.", "isCorrect": false }
+      ],
+      "hint": "An extra + tekil kelime."
+    },
+    {
+      "questionNumber": 34,
+      "question": "I will send ___ to clean the room.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "maintenance", "rationale": "Teknik servistir.", "isCorrect": false },
+        { "text": "housekeeping", "rationale": "Temizlik ekibidir.", "isCorrect": true },
+        { "text": "reception", "rationale": "Resepsiyondur.", "isCorrect": false },
+        { "text": "bellboy", "rationale": "Valiz taşır.", "isCorrect": false },
+        { "text": "manager", "rationale": "Yöneticidir.", "isCorrect": false }
+      ],
+      "hint": "Odayı temizleyen ekip."
+    },
+    {
+      "questionNumber": 35,
+      "question": "I will call ___ to fix the AC.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "housekeeping", "rationale": "Temizlik yapar.", "isCorrect": false },
+        { "text": "maintenance", "rationale": "Tamirat/teknik servistir.", "isCorrect": true },
+        { "text": "waiter", "rationale": "Garson.", "isCorrect": false },
+        { "text": "concierge", "rationale": "Bilgi/rehberlik verir.", "isCorrect": false },
+        { "text": "security", "rationale": "Güvenliktir.", "isCorrect": false }
+      ],
+      "hint": "Klimayı tamir eden ekip."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Guest: Can we have ___ check-out?\nStaff: Yes, until 2 p.m.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "early", "rationale": "Erken çıkış 2'ye kalmaz.", "isCorrect": false },
+        { "text": "late", "rationale": "Geç çıkış hakkıdır.", "isCorrect": true },
+        { "text": "fast", "rationale": "Hızlı.", "isCorrect": false },
+        { "text": "slow", "rationale": "Yavaş.", "isCorrect": false },
+        { "text": "quick", "rationale": "Çabuk.", "isCorrect": false }
+      ],
+      "hint": "Öğleden sonraya sarkan çıkış."
+    },
+    {
+      "questionNumber": 37,
+      "question": "We can arrange a city ___ for you.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "tour", "rationale": "Şehir turu.", "isCorrect": true },
+        { "text": "flight", "rationale": "Uçuş.", "isCorrect": false },
+        { "text": "ship", "rationale": "Gemi.", "isCorrect": false },
+        { "text": "room", "rationale": "Oda.", "isCorrect": false },
+        { "text": "bed", "rationale": "Yatak.", "isCorrect": false }
+      ],
+      "hint": "Rehberli şehir gezisi."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Are there ___ free parking areas?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "much", "rationale": "Sayılabilir.", "isCorrect": false },
+        { "text": "any", "rationale": "Soru cümlelerinde kullanılır.", "isCorrect": true },
+        { "text": "some", "rationale": "Soru cümlesine uymaz.", "isCorrect": false },
+        { "text": "a", "rationale": "Areas çoğuldur.", "isCorrect": false },
+        { "text": "an", "rationale": "Areas çoğuldur.", "isCorrect": false }
+      ],
+      "hint": "Hiç otopark var mı?"
+    },
+    {
+      "questionNumber": 39,
+      "question": "There is a lot of ___ in the lobby.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "space", "rationale": "Sayılamaz isim, a lot of ile uyar.", "isCorrect": true },
+        { "text": "spaces", "rationale": "Genel anlamda space sayılamaz.", "isCorrect": false },
+        { "text": "guests", "rationale": "There is tekil ister.", "isCorrect": false },
+        { "text": "tourists", "rationale": "There is tekil ister.", "isCorrect": false },
+        { "text": "chairs", "rationale": "There is tekil ister.", "isCorrect": false }
+      ],
+      "hint": "There is tekil/sayılamayan varlık belirtir."
+    },
+    {
+      "questionNumber": 40,
+      "question": "What services do you ___?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "take", "rationale": "Almak.", "isCorrect": false },
+        { "text": "bring", "rationale": "Getirmek.", "isCorrect": false },
+        { "text": "offer", "rationale": "Hizmet sunmak/teklif etmek.", "isCorrect": true },
+        { "text": "buy", "rationale": "Satın almak.", "isCorrect": false },
+        { "text": "go", "rationale": "Gitmek.", "isCorrect": false }
+      ],
+      "hint": "Ne hizmetler 'sunuyorsunuz'?"
+    },
+    {
+      "questionNumber": 41,
+      "question": "You should ___ the seafood restaurant.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "to try", "rationale": "Should to almaz.", "isCorrect": false },
+        { "text": "trying", "rationale": "Should -ing almaz.", "isCorrect": false },
+        { "text": "try", "rationale": "Yalın hal gelir.", "isCorrect": true },
+        { "text": "tried", "rationale": "Geçmiş zaman almaz.", "isCorrect": false },
+        { "text": "tries", "rationale": "-s almaz.", "isCorrect": false }
+      ],
+      "hint": "Denemelisin."
+    },
+    {
+      "questionNumber": 42,
+      "question": "How can we ___ to the beach?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "going", "rationale": "Can sonrası V1.", "isCorrect": false },
+        { "text": "go", "rationale": "Yalın fiil.", "isCorrect": true },
+        { "text": "went", "rationale": "Geçmiş zaman.", "isCorrect": false },
+        { "text": "to go", "rationale": "To almaz.", "isCorrect": false },
+        { "text": "goes", "rationale": "-s almaz.", "isCorrect": false }
+      ],
+      "hint": "Oraya nasıl gidebiliriz?"
+    },
+    {
+      "questionNumber": 43,
+      "question": "The beach is ___ the hotel.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "next", "rationale": "To eksiktir.", "isCorrect": false },
+        { "text": "near", "rationale": "Yakınında.", "isCorrect": true },
+        { "text": "in", "rationale": "İçinde olmaz.", "isCorrect": false },
+        { "text": "on", "rationale": "Üstünde olmaz.", "isCorrect": false },
+        { "text": "at", "rationale": "Uyumsuz.", "isCorrect": false }
+      ],
+      "hint": "Plaj otele yakındır."
+    },
+    {
+      "questionNumber": 44,
+      "question": "The restaurant is next ___ the lobby.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "in", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "at", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "on", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "to", "rationale": "Next to bitişiğinde demektir.", "isCorrect": true },
+        { "text": "for", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Lobinin bitişiğinde."
+    },
+    {
+      "questionNumber": 45,
+      "question": "The bathroom is at the end ___ the corridor.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "of", "rationale": "At the end of kalıbıdır.", "isCorrect": true },
+        { "text": "in", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "at", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "on", "rationale": "Yanlış.", "isCorrect": false },
+        { "text": "to", "rationale": "Yanlış.", "isCorrect": false }
+      ],
+      "hint": "Koridorun sonunda."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Do you need an extra ___ for the baby?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "iron", "rationale": "Ütü bebeğe verilmez.", "isCorrect": false },
+        { "text": "crib", "rationale": "Bebek yatağı/beşik.", "isCorrect": true },
+        { "text": "adapter", "rationale": "Elektronik.", "isCorrect": false },
+        { "text": "desk", "rationale": "Masa.", "isCorrect": false },
+        { "text": "key", "rationale": "Anahtar.", "isCorrect": false }
+      ],
+      "hint": "Bebek yatağı kelimesi."
+    },
+    {
+      "questionNumber": 47,
+      "question": "I want a quiet room. I don't like ___.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "noise", "rationale": "Gürültü sevmez.", "isCorrect": true },
+        { "text": "silent", "rationale": "Sıfattır.", "isCorrect": false },
+        { "text": "space", "rationale": "Alan demektir.", "isCorrect": false },
+        { "text": "clean", "rationale": "Temiz demektir.", "isCorrect": false },
+        { "text": "calm", "rationale": "Sakin demektir.", "isCorrect": false }
+      ],
+      "hint": "Sessiz odanın zıttı."
+    },
+    {
+      "questionNumber": 48,
+      "question": "We provide free ___ service in the lobby.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Wi-Fi", "rationale": "Ücretsiz internet hizmeti.", "isCorrect": true },
+        { "text": "flight", "rationale": "Uçuş lobide olmaz.", "isCorrect": false },
+        { "text": "ship", "rationale": "Gemi lobide olmaz.", "isCorrect": false },
+        { "text": "car", "rationale": "Araba lobide olmaz.", "isCorrect": false },
+        { "text": "bed", "rationale": "Yatak lobide olmaz.", "isCorrect": false }
+      ],
+      "hint": "Lobide ücretsiz sağlanan en yaygın imkan."
+    },
+    {
+      "questionNumber": 49,
+      "question": "There is a gym ___ the hotel.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "on", "rationale": "Bina içi için in kullanılır.", "isCorrect": false },
+        { "text": "in", "rationale": "Otelin içinde.", "isCorrect": true },
+        { "text": "at", "rationale": "Kurum olarak at hotel denebilir ama mekan içinden bahsediyor.", "isCorrect": false },
+        { "text": "to", "rationale": "Yönelme.", "isCorrect": false },
+        { "text": "from", "rationale": "Ayrılma.", "isCorrect": false }
+      ],
+      "hint": "Otelin 'içinde'."
+    },
+    {
+      "questionNumber": 50,
+      "question": "I will ___ it right away.",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "brings", "rationale": "Will sonrası -s gelmez.", "isCorrect": false },
+        { "text": "bring", "rationale": "Hemen getireceğim.", "isCorrect": true },
+        { "text": "bringing", "rationale": "Will sonrası -ing gelmez.", "isCorrect": false },
+        { "text": "brought", "rationale": "Geçmiş zaman.", "isCorrect": false },
+        { "text": "to bring", "rationale": "To gelmez.", "isCorrect": false }
+      ],
+      "hint": "Hemen getireceğim (right away)."
+    }
+  ]
+}

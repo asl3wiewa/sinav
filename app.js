@@ -345,7 +345,55 @@ const TESTS = {
     dataUrl: "2-donem/vize/kat-hizmetleri-2-5.json",
 
   },
- 
+
+  "konukla-iletisim": {
+
+    title: "Konukla Iletisim Testi 1",
+
+    dataUrl: "2-donem/vize/Konukla-iletisim.json",
+
+  },
+
+  "konukla-iletisim-2": {
+
+    title: "Konukla Iletisim Testi 2",
+
+    dataUrl: "2-donem/vize/Konukla-iletisim-2.json",
+
+  },
+
+  "konukla-iletisim-3": {
+
+    title: "Konukla Iletisim Testi 3",
+
+    dataUrl: "2-donem/vize/Konukla-iletisim-3.json",
+
+  },
+
+  "konukla-iletisim-4": {
+
+    title: "Konukla Iletisim Testi 4",
+
+    dataUrl: "2-donem/vize/Konukla-iletisim-4.json",
+
+  },
+
+  "mesleki-yabanci-dil-2-1": {
+
+    title: "Mesleki Yabanci Dil II Testi 1",
+
+    dataUrl: "2-donem/vize/mesleki-yabanci-dil-2-1.json",
+
+  },
+
+  "mesleki-yabanci-dil-2-2": {
+
+    title: "Mesleki Yabanci Dil II Testi 2",
+
+    dataUrl: "2-donem/vize/mesleki-yabanci-dil-2-2.json",
+
+  },
+  
   "turizm-ve-cevre": {
 
     title: "Turizm ve Cevre Testi 1",
@@ -540,6 +588,18 @@ const TEST_ALIASES = {
   "kat hizmetleri ii 4": "kat-hizmetleri-2-4",
 
   "kat hizmetleri ii 5": "kat-hizmetleri-2-5",
+
+  "konukla iletisim": "konukla-iletisim",
+
+  "konukla iletisim 2": "konukla-iletisim-2",
+
+  "konukla iletisim 3": "konukla-iletisim-3",
+
+  "konukla iletisim 4": "konukla-iletisim-4",
+
+  "mesleki yabanci dil ii 1": "mesleki-yabanci-dil-2-1",
+
+  "mesleki yabanci dil ii 2": "mesleki-yabanci-dil-2-2",
  
  
  
@@ -906,7 +966,7 @@ async function loadQuestions(dataUrl) {
     throw new Error("Soru dosyas\u0131 y\u00fcklenemedi");
   }
   const payload = await response.json();
-  const questions = payload.questions ?? [];
+  const questions = Array.isArray(payload) ? payload : payload.questions ?? [];
   questions.sort((a, b) => (a.questionNumber || 0) - (b.questionNumber || 0));
   return questions;
 }

@@ -280,6 +280,30 @@ const TEST_DATA = {
   "2": {
     vize: [
       {
+        id: "mesleki-yabanci-dil-2",
+        title: "Mesleki Yabanci Dil II",
+        description: "Ikinci donem vize konularini iki ayri testle calis.",
+        tag: "Mesleki Yabanci Dil II",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=mesleki-yabanci-dil-2-1" },
+          { name: "Test 2 Basla", url: "quiz.html?test=mesleki-yabanci-dil-2-2" }
+        ],
+        pdfUrl: "assets/pdf/2-donem/vize/mesleki-yabanci-dil-2.pdf"
+      },
+      {
+        id: "konukla-iletisim",
+        title: "Konukla Iletisim",
+        description: "Ikinci donem vize konularini dort ayri testle calis.",
+        tag: "Konuk Iliskileri",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=konukla-iletisim" },
+          { name: "Test 2 Basla", url: "quiz.html?test=konukla-iletisim-2" },
+          { name: "Test 3 Basla", url: "quiz.html?test=konukla-iletisim-3" },
+          { name: "Test 4 Basla", url: "quiz.html?test=konukla-iletisim-4" }
+        ],
+        pdfUrl: "assets/pdf/2-donem/vize/Konukla-iletisim.pdf"
+      },
+      {
         id: "kat-hizmetleri-2",
         title: "Kat Hizmetleri II",
         description: "Ikinci donem vize konularini dort ayri testle calis.",

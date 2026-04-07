@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Konaklama işletmelerinde sağlıklı bir iletişim kurulabilmesi için hangi iki temel unsur gereklidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hız ve verimlilik", "rationale": "Bunlar önemli olmakla birlikte temel iletişim unsurları değildir.", "isCorrect": false },
+        { "text": "Karşılıklı güven ve saygı", "rationale": "Sağlıklı iletişim için gereken iki temel unsur karşılıklı güven ve saygıdır.", "isCorrect": true },
+        { "text": "Teknoloji ve altyapı", "rationale": "Bunlar iletişimi destekler ancak temel unsurlar değildir.", "isCorrect": false },
+        { "text": "Eğitim ve deneyim", "rationale": "Bunlar çalışan yeterliliğiyle ilgilidir, iletişimin temel unsurları değildir.", "isCorrect": false },
+        { "text": "Dil bilgisi ve diksiyon", "rationale": "Bunlar iletişim becerileridir, temel unsurlar değildir.", "isCorrect": false }
+      ],
+      "hint": "Konuklar personele ne bekler? Ve iletişim hangi çerçevede yürütülmelidir?"
+    },
+    {
+      "questionNumber": 2,
+      "question": "Personel ile konuk arasındaki iletişim ortamının niteliği hangi dört sıfatla tanımlanmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hızlı, verimli, kısa ve öz", "rationale": "Bu sıfatlar iletişim niteliğini değil, iş süreçlerini tanımlar.", "isCorrect": false },
+        { "text": "Resmi, ciddi, mesafeli ve kurumsal", "rationale": "Bu sıfatlar soğuk bir iletişimi tanımlar, doğru değildir.", "isCorrect": false },
+        { "text": "Yakın, samimi, ölçülü ve seviyeli", "rationale": "İletişim ortamı bu dört niteliği taşımalıdır.", "isCorrect": true },
+        { "text": "Eğlenceli, neşeli, rahat ve özgür", "rationale": "Bu sıfatlar profesyonel iletişimi tanımlamaz.", "isCorrect": false },
+        { "text": "Açık, dürüst, şeffaf ve bilgilendirici", "rationale": "Bunlar iletişimin içeriğiyle ilgilidir, ortamın niteliğini tanımlamaz.", "isCorrect": false }
+      ],
+      "hint": "Dört sıfattan biri 'yakın', biri 'samimi'dir. Geri kalanlar ne olabilir?"
+    },
+    {
+      "questionNumber": 3,
+      "question": "Kötü hizmet alan bir konuk, memnuniyetsizliğini ortalama kaç kişiye anlatır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "5 kişiye", "rationale": "Bu rakam doğru değildir.", "isCorrect": false },
+        { "text": "7 kişiye", "rationale": "Bu rakam doğru değildir.", "isCorrect": false },
+        { "text": "10 kişiye", "rationale": "Kötü hizmet alan bir konuk memnuniyetsizliğini ortalama 10 kişiye anlatır.", "isCorrect": true },
+        { "text": "15 kişiye", "rationale": "Bu rakam doğru değildir.", "isCorrect": false },
+        { "text": "20 kişiye", "rationale": "Bu rakam doğru değildir.", "isCorrect": false }
+      ],
+      "hint": "Bu istatistik sınavda çıkması en muhtemel sayısal verilerden biridir."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Aşağıdakilerden hangisi 'konuk felsefesi' kapsamında doğru bir ifadedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuk işletmeye bağımlıdır.", "rationale": "Tam tersi doğrudur; işletme ve çalışanlar konuğa bağımlıdır.", "isCorrect": false },
+        { "text": "Konuk işe engel olan bir dış unsurdur.", "rationale": "Tam tersi doğrudur; konuk işin bizzat amacıdır.", "isCorrect": false },
+        { "text": "Konuğa hizmet etmek bizim ona yaptığımız bir lütuftur.", "rationale": "Tam tersi doğrudur; konuğun işletmemizi seçmesi bizim için lütuftur.", "isCorrect": false },
+        { "text": "Konuk işin can damarıdır.", "rationale": "Bu ifade doğrudur; konuk işin can damarı olarak tanımlanmaktadır.", "isCorrect": true },
+        { "text": "Konuk sadece ticari bir araçtır.", "rationale": "Doğru değildir; konuk sadece para kaynağı değil, bizim gibi bir insandır.", "isCorrect": false }
+      ],
+      "hint": "Konuk felsefesinde konuğun rolü ve önemi nasıl tanımlanıyor?"
+    },
+    {
+      "questionNumber": 5,
+      "question": "Aşağıdakilerden hangisi 'konuk felsefesi'nde vurgulanan altın kuraldır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuk her zaman memnun edilmelidir.", "rationale": "Bu doğru bir yaklaşım olsa da altın kural bu değildir.", "isCorrect": false },
+        { "text": "Konuk her zaman haklıdır.", "rationale": "Bu, konuk felsefesindeki altın kuraldır.", "isCorrect": true },
+        { "text": "Konuk her zaman önce gelir.", "rationale": "Bu doğru bir öncelik sıralaması olsa da altın kural bu değildir.", "isCorrect": false },
+        { "text": "Konuk her zaman takip edilmelidir.", "rationale": "Bu bir altın kural değildir.", "isCorrect": false },
+        { "text": "Konuğun her isteği yerine getirilmelidir.", "rationale": "Bu mümkün olmayabilir; altın kural bu değildir.", "isCorrect": false }
+      ],
+      "hint": "Bu kural konukla yaşanan çatışmalarda personelin temel ilkesidir."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Mükemmel konuk ilişkileri geliştirmek için personelin yapması gereken en önemli şey nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece işini eksiksiz yapmak", "rationale": "Bu yeterli değildir; konuğa önem verdiğini de göstermek gerekir.", "isCorrect": false },
+        { "text": "Konuğa önem verdiğini hal, hareket ve sözleriyle göstermek", "rationale": "Doğrudur; mükemmel ilişki için sadece iş yapmak yetmez, bunu göstermek de gerekir.", "isCorrect": true },
+        { "text": "Her konuğa aynı standart hizmeti sunmak", "rationale": "Standart hizmet 'yeterli hizmet' kategorisine girer, mükemmel değil.", "isCorrect": false },
+        { "text": "Konukların tüm isteklerini yerine getirmek", "rationale": "Bu tek başına mükemmel ilişki kurmak için yeterli değildir.", "isCorrect": false },
+        { "text": "Konukların şikayetlerini hızlı çözmek", "rationale": "Bu önemlidir ancak mükemmel konuk ilişkisinin tek unsuru değildir.", "isCorrect": false }
+      ],
+      "hint": "Personel ne yapmalı ki konuk kendini özel hissetsin?"
+    },
+    {
+      "questionNumber": 7,
+      "question": "Konuk ile iletişimde göz temasının önemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuğu dürüstlük açısından değerlendirmek için kullanılır.", "rationale": "Bu yanlış bir kullanımdır.", "isCorrect": false },
+        { "text": "İletişimi başlatan temel unsurdur.", "rationale": "Göz teması, iletişimi başlatan temel unsur olarak tanımlanmaktadır.", "isCorrect": true },
+        { "text": "Konuğun karakterini anlamak için kullanılır.", "rationale": "Bu doğru bir ifade değildir.", "isCorrect": false },
+        { "text": "Yalnızca sözsüz iletişimin bir parçasıdır, önemi azdır.", "rationale": "Göz teması iletişimin en önemli unsurlarından biri olarak vurgulanmaktadır.", "isCorrect": false },
+        { "text": "Sadece şikayet durumlarında kullanılmalıdır.", "rationale": "Bu yanlış bir ifadedir.", "isCorrect": false }
+      ],
+      "hint": "Göz teması iletişimde ne zaman ve nasıl kullanılmalıdır?"
+    },
+    {
+      "questionNumber": 8,
+      "question": "Gülümseme konusunda personele verilen doğru tavsiye hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Her durumda gülümsemek zorunludur.", "rationale": "Her durumda zorla gülümsemek yapmacıklığa yol açar.", "isCorrect": false },
+        { "text": "Yalnızca konuk talep ettiğinde gülümsenmeli.", "rationale": "Bu yanlış bir yaklaşımdır.", "isCorrect": false },
+        { "text": "Yapmacıklıktan uzak, doğal bir gülümseme sergilenmelidir.", "rationale": "Doğal ve içten bir gülümseme, işi severek yapmanın en iyi göstergesidir.", "isCorrect": true },
+        { "text": "Gülümseme profesyonel bir ortamda uygun değildir.", "rationale": "Bu yanlış bir ifadedir; gülümseme önerilmektedir.", "isCorrect": false },
+        { "text": "Aşırı gülümsemek konukla iyi ilişki kurulduğunu gösterir.", "rationale": "Yersiz aşırı gülmekten kaçınılması gerektiği belirtilmektedir.", "isCorrect": false }
+      ],
+      "hint": "Gülümsemenin 'doğal' olması neden önemlidir?"
+    },
+    {
+      "questionNumber": 9,
+      "question": "Aşağıdaki ifadelerden hangisi 'özgüvensizliği yansıtan cümleler' kategorisine girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "'Size söylediğim gibi...'", "rationale": "Bu savunmacı/açıklayıcı görünen ama kaçınılması gereken bir ifadedir.", "isCorrect": false },
+        { "text": "'Düşünün!'", "rationale": "Bu farklı bir kaçınılması gereken ifade kategorisindedir.", "isCorrect": false },
+        { "text": "'Bilmem ki...'", "rationale": "Bu, özgüvensizliği yansıtan bir cümle olarak belirtilmiştir.", "isCorrect": true },
+        { "text": "'Size bir öğüt vermek isterim.'", "rationale": "Bu 'çok bilmişlik' göstergesi olan bir ifadedir.", "isCorrect": false },
+        { "text": "'Deneyimlerime dayanarak söyleyebilirim ki...'", "rationale": "Bu da 'çok bilmişlik' göstergesi olan bir ifadedir.", "isCorrect": false }
+      ],
+      "hint": "Özgüvensiz bir çalışan hangi tür ifadeler kullanır?"
+    },
+    {
+      "questionNumber": 10,
+      "question": "'Ama!', 'Fakat!', 'Ancak!' gibi bağlaçlardan neden kaçınılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuşmayı çok uzatırlar.", "rationale": "Bu asıl sebep değildir.", "isCorrect": false },
+        { "text": "Genellikle öncesindeki olumlu cümleyi silerler.", "rationale": "Bu bağlaçlar genellikle önceki olumlu ifadeyi geçersiz kılar.", "isCorrect": true },
+        { "text": "Konuğu kızdırırlar.", "rationale": "Bu sonuç doğru olabilir ancak temel sebep bu değildir.", "isCorrect": false },
+        { "text": "Türkçede doğru kullanım değillerdir.", "rationale": "Bu dilbilgisi sorunuyla ilgili değildir.", "isCorrect": false },
+        { "text": "Sadece yazışmalarda kullanılmalıdırlar.", "rationale": "Bu doğru bir ifade değildir.", "isCorrect": false }
+      ],
+      "hint": "'Hizmetinizden memnunduk, ama...' cümlesinde ne olur önceki olumlulukla?"
+    },
+    {
+      "questionNumber": 11,
+      "question": "Aşağıdakilerden hangisi olumlu bir yaklaşım sergilemenin 'çalışan açısından' sağladığı faydadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuğu rahatlatır.", "rationale": "Bu konuk açısından sağlanan faydadır.", "isCorrect": false },
+        { "text": "Konuğun daha fazla konuşmasını sağlar.", "rationale": "Bu da konuk açısından sağlanan faydadır.", "isCorrect": false },
+        { "text": "Bireysel mutluluk ve motivasyon sağlar.", "rationale": "Olumlu yaklaşımın çalışan açısından faydası bireysel mutluluk ve motivasyondur.", "isCorrect": true },
+        { "text": "İşletmenin itibarını artırır.", "rationale": "Bu işletme açısından bir faydadır.", "isCorrect": false },
+        { "text": "Konuğun tekrar gelmesini sağlar.", "rationale": "Bu işletme açısından bir faydadır.", "isCorrect": false }
+      ],
+      "hint": "Olumlu tutumun iki tarafı var: konuk ve çalışan. Çalışan neyi kazanır?"
+    },
+    {
+      "questionNumber": 12,
+      "question": "Konuk geldiğinde başka bir işle meşgul olan personel ne yapmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşini tamamlayana kadar konuğu bekletmelidir.", "rationale": "Bu yanlış bir yaklaşımdır.", "isCorrect": false },
+        { "text": "Konuğu başka bir personele yönlendirmelidir.", "rationale": "Bu her zaman doğru yaklaşım değildir.", "isCorrect": false },
+        { "text": "Özür dileyip izin isteyerek en kısa sürede geri dönmelidir.", "rationale": "Doğrudur; iş yarım bırakılacaksa özür dilenip izin istenmeli ve en kısa sürede geri dönülmelidir.", "isCorrect": true },
+        { "text": "Konuğu görmezden gelmelidir.", "rationale": "Bu kesinlikle yanlış bir yaklaşımdır.", "isCorrect": false },
+        { "text": "İşini bitirmeden konuğa yardım edemeyeceğini söylemelidir.", "rationale": "Bu yanlış bir yaklaşımdır.", "isCorrect": false }
+      ],
+      "hint": "Konuk her zaman önce gelir. İş varsa ne yapılmalı?"
+    },
+    {
+      "questionNumber": 13,
+      "question": "Başarılı bir iletişimci için geliştirmesi gereken 7 husus arasında 'aktif dinleme' ne anlama gelmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuşurken not almak", "rationale": "Not almak aktif dinlemenin bir parçası olabilir ancak tanımı bu değildir.", "isCorrect": false },
+        { "text": "Karşıdakini sadece duymak değil, anlamaya çalışarak dinlemek", "rationale": "Aktif dinleme, karşıdakini anlamaya çalışarak dinlemektir.", "isCorrect": true },
+        { "text": "Konuşmayı sonradan tekrar etmek", "rationale": "Bu aktif dinlemenin tanımı değildir.", "isCorrect": false },
+        { "text": "Dinlerken soru sormak", "rationale": "Bu aktif dinlemenin bir tekniği olabilir ancak tanımı bu değildir.", "isCorrect": false },
+        { "text": "Sadece önemli kısımları dinlemek", "rationale": "Bu aktif dinlemenin tam tersidir.", "isCorrect": false }
+      ],
+      "hint": "'Duymak' ile 'dinlemek' arasındaki fark nedir?"
+    },
+    {
+      "questionNumber": 14,
+      "question": "İletişimde sık yapılan hatalar arasında 'konuyu saptırmak' nasıl örneklenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuğa 'Bunun sorumlusu sensin!' demek", "rationale": "Bu suçlama hatasıdır.", "isCorrect": false },
+        { "text": "Şikayeti olan birine çözüm yerine 'Bugün hava ne güzel değil mi?' demek", "rationale": "Bu, konuyu saptırma hatasının doğru örneğidir.", "isCorrect": true },
+        { "text": "Konuğa emir vermek", "rationale": "Bu farklı bir iletişim hatasıdır.", "isCorrect": false },
+        { "text": "İstenmeyen tavsiye vermek", "rationale": "Bu 'öğüt verme' hatasıdır.", "isCorrect": false },
+        { "text": "Konuğu tehdit etmek", "rationale": "Bu 'tehdit etme' hatasıdır.", "isCorrect": false }
+      ],
+      "hint": "Konuyu saptırmak, asıl sorunu ne ile değiştirmektir?"
+    },
+    {
+      "questionNumber": 15,
+      "question": "Konuğa hitap ederken isim kullanılacaksa doğru format hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece soyismiyle çağrılmalıdır.", "rationale": "Bu yeterince saygılı değildir.", "isCorrect": false },
+        { "text": "Sadece ismiyle çağrılmalıdır.", "rationale": "Bu yeterince saygılı değildir.", "isCorrect": false },
+        { "text": "İsmin sonuna 'Bey' veya 'Hanım' eklenmelidir.", "rationale": "Örneğin 'Ahmet Bey' veya 'Ayşe Hanım' gibi hitap edilmelidir.", "isCorrect": true },
+        { "text": "Sayın + soyisim formatı kullanılmalıdır.", "rationale": "Bu yazışmalarda kullanılabilir ancak önerilen format değildir.", "isCorrect": false },
+        { "text": "Tüm konuklara 'Efendim' diye hitap edilmelidir.", "rationale": "Kişiselleştirme için isimle hitap önerilmektedir.", "isCorrect": false }
+      ],
+      "hint": "Kişiselleştirme önemlidir; konuğun adına hangi ekleri koymalıyız?"
+    },
+    {
+      "questionNumber": 16,
+      "question": "Yeterli hizmet (Sufficient Service) ile profesyonel/mükemmel hizmet arasındaki temel fark nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yeterli hizmet daha pahalıdır.", "rationale": "Bu doğru bir fark değildir.", "isCorrect": false },
+        { "text": "Yeterli hizmette konuğu 'akılda kalan' ya da 'özel hissettiren' bir şey yoktur.", "rationale": "Yeterli hizmet eksiksiz görünse de konukta özel bir his bırakmaz.", "isCorrect": true },
+        { "text": "Profesyonel hizmet daha az zaman alır.", "rationale": "Bu doğru bir fark değildir.", "isCorrect": false },
+        { "text": "Yeterli hizmette teknik kalite düşüktür.", "rationale": "Yeterli hizmette eksik yoktur; sorun duygusal boyuttadır.", "isCorrect": false },
+        { "text": "Profesyonel hizmet sadece lüks otellerde verilir.", "rationale": "Bu doğru bir ifade değildir.", "isCorrect": false }
+      ],
+      "hint": "Yeterli hizmette ne 'var', ne 'yok'?"
+    },
+    {
+      "questionNumber": 17,
+      "question": "Profesyonel/mükemmel hizmetin felsefesi hangi ilkeye dayanmaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "'Hız her şeydir.'", "rationale": "Bu profesyonel hizmetin felsefesi değildir.", "isCorrect": false },
+        { "text": "'Hizmette sınır yoktur.'", "rationale": "Bu, profesyonel hizmetin temel felsefesidir.", "isCorrect": true },
+        { "text": "'Konuk her zaman haklıdır.'", "rationale": "Bu altın kuraldır, profesyonel hizmetin felsefesi değildir.", "isCorrect": false },
+        { "text": "'Maliyet kontrolü önce gelir.'", "rationale": "Bu doğru bir felsefe değildir.", "isCorrect": false },
+        { "text": "'Standart hizmet en iyisidir.'", "rationale": "Bu yanlış bir felsefedir.", "isCorrect": false }
+      ],
+      "hint": "Profesyonel hizmet anlayışında bir 'çizgi' var mıdır?"
+    },
+    {
+      "questionNumber": 18,
+      "question": "Misafirin oda numarasının yüksek sesle söylenmemesinin temel sebebi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Diğer misafirleri rahatsız etmemek", "rationale": "Bu asıl sebep değildir.", "isCorrect": false },
+        { "text": "Güvenlik ve mahremiyet", "rationale": "Oda numarasının yüksek sesle söylenmemesi güvenlik ve mahremiyet gerekçesiyledir.", "isCorrect": true },
+        { "text": "İşletme protokolü gereği", "rationale": "Bu bir sonuçtur, sebep değildir.", "isCorrect": false },
+        { "text": "Personelin hafızasını korumak", "rationale": "Bu doğru bir sebep değildir.", "isCorrect": false },
+        { "text": "Oda numarasının gizli bilgi sayılması", "rationale": "Bu kısmen doğru olsa da temel gerekçe güvenlik ve mahremiyettir.", "isCorrect": false }
+      ],
+      "hint": "Sınav sorusu: Oda numarası neden gizli tutulur?"
+    },
+    {
+      "questionNumber": 19,
+      "question": "Önbüro personeli için 'vazgeçilmez en temel özellik' hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hız", "rationale": "Bu önemlidir ancak vazgeçilmez en temel özellik değildir.", "isCorrect": false },
+        { "text": "Dil bilgisi", "rationale": "Bu önemlidir ancak vazgeçilmez en temel özellik değildir.", "isCorrect": false },
+        { "text": "Nezaket", "rationale": "Önbüro personeli için nezaket vazgeçilemez en temel özelliktir.", "isCorrect": true },
+        { "text": "Teknik bilgi", "rationale": "Bu önemlidir ancak vazgeçilmez en temel özellik değildir.", "isCorrect": false },
+        { "text": "Deneyim", "rationale": "Bu önemlidir ancak vazgeçilmez en temel özellik değildir.", "isCorrect": false }
+      ],
+      "hint": "Şartlar ne olursa olsun (agresif misafir dahil) hangi özellik bozulmamalıdır?"
+    },
+    {
+      "questionNumber": 20,
+      "question": "Misafirle iletişimde 'kişiselleştirme' neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Personelin misafiri daha iyi hatırlamasını sağlar.", "rationale": "Bu kısmen doğru olsa da asıl önemi misafir tarafındadır.", "isCorrect": false },
+        { "text": "Misafirin kendini değerli, özel ve farklı hissetmesini sağlar.", "rationale": "İsimle hitap, misafire kendini özel hissettiren temel davranışlardan biridir.", "isCorrect": true },
+        { "text": "İletişimi hızlandırır.", "rationale": "Bu kişiselleştirmenin amacı değildir.", "isCorrect": false },
+        { "text": "Protokol gereğidir.", "rationale": "Bu kişiselleştirmenin asıl amacı değildir.", "isCorrect": false },
+        { "text": "Misafirin şikayet etmesini önler.", "rationale": "Bu kişiselleştirmenin doğrudan amacı değildir.", "isCorrect": false }
+      ],
+      "hint": "İsimle hitap ne hissi yaratır?"
+    },
+    {
+      "questionNumber": 21,
+      "question": "Misafir 'check-in' esnasında personelin mutlaka kontrol etmesi gereken şey nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafirin kimlik bilgileri", "rationale": "Bu önemli olmakla birlikte sorulan spesifik davranış değildir.", "isCorrect": false },
+        { "text": "Misafirin mesajı olup olmadığı", "rationale": "Giriş esnasında misafirin mesajı olup olmadığı mutlaka kontrol edilmeli ve varsa teslim edilmelidir.", "isCorrect": true },
+        { "text": "Misafirin seyahat belgelerinin geçerliliği", "rationale": "Bu doğru bir davranış olmakla birlikte sorulan spesifik kontrol değildir.", "isCorrect": false },
+        { "text": "Misafirin aracının park yeri", "rationale": "Bu sorulan spesifik kontrol değildir.", "isCorrect": false },
+        { "text": "Misafirin ödeme yöntemi", "rationale": "Bu önemli olmakla birlikte sorulan spesifik kontrol değildir.", "isCorrect": false }
+      ],
+      "hint": "Check-in'de misafire ulaşmış ama kendisi bilmeden bırakılmış bir şey var mı?"
+    },
+    {
+      "questionNumber": 22,
+      "question": "Bir misafir yanlışlıkla oda servisi yerine resepsiyonu arıyorsa, resepsiyonistin doğru yaklaşımı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "'Yanlış numarayı çevirdiniz, şu numarayı arayın' demek", "rationale": "Bu emir vermek anlamına gelir ve doğru yaklaşım değildir.", "isCorrect": false },
+        { "text": "Aramayı doğrudan kesmek", "rationale": "Bu yanlış bir yaklaşımdır.", "isCorrect": false },
+        { "text": "'Ben ilgili birimi arayıp sizi aramalarını sağlarım' demek", "rationale": "Sorumluluk alarak çözümü üstlenmek doğru yaklaşımdır.", "isCorrect": true },
+        { "text": "Misafiri bekletip doğru birimi bulmak", "rationale": "Bu kısmen doğru ancak en iyi yaklaşım değildir.", "isCorrect": false },
+        { "text": "Konuya karışmamak, sadece yönlendirmek", "rationale": "Bu sorumluluktan kaçınmaktır.", "isCorrect": false }
+      ],
+      "hint": "Emir vermek yerine ne yapılmalı?"
+    },
+    {
+      "questionNumber": 23,
+      "question": "İşlem tamamlandıktan sonra personelin misafire sormak zorunda olduğu soru hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "'Hizmetimizi beğendiniz mi?'", "rationale": "Bu önemli olabilir ancak zorunlu olan soru değildir.", "isCorrect": false },
+        { "text": "'Başka bir isteğiniz var mı?'", "rationale": "İşlem bittiğinde mutlaka 'Başka bir isteğiniz var mı?' diye sorulmalıdır.", "isCorrect": true },
+        { "text": "'Odanız uygun mu?'", "rationale": "Bu spesifik bir sorudur ve zorunlu olan genel soru değildir.", "isCorrect": false },
+        { "text": "'Yardımcı olabildiysem ne mutlu.'", "rationale": "Bu bir soru değildir.", "isCorrect": false },
+        { "text": "'Şikayetiniz var mı?'", "rationale": "Bu doğrudan soru uygun değildir.", "isCorrect": false }
+      ],
+      "hint": "İşlem bitti, ama misafir başka bir şey istiyor olabilir mi?"
+    },
+    {
+      "questionNumber": 24,
+      "question": "Davranış kavramının tanımı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bireyin kalıtımsal olarak taşıdığı özellikler", "rationale": "Bu kişilik veya mizaçla ilgilidir, davranışın tanımı değildir.", "isCorrect": false },
+        { "text": "Fiziki çevreden gelen uyarımlar, istekler, duygu ve düşünceler karşısında gösterilen tepkiler", "rationale": "Bu, davranışın doğru tanımıdır.", "isCorrect": true },
+        { "text": "Kişinin sosyal çevresinden edindiği alışkanlıklar", "rationale": "Bu alışkanlık kavramıyla ilgilidir.", "isCorrect": false },
+        { "text": "Bireyin başkalarıyla kurduğu ilişki biçimi", "rationale": "Bu sosyal davranışın bir yönüdür, genel tanım değildir.", "isCorrect": false },
+        { "text": "Eğitim yoluyla kazanılan beceriler", "rationale": "Bu öğrenmeyle ilgilidir, davranışın tanımı değildir.", "isCorrect": false }
+      ],
+      "hint": "Sıcak havadan bunalan birinin klimayı çalıştırması hangi kavramın örneğidir?"
+    },
+    {
+      "questionNumber": 25,
+      "question": "Tip kavramının tanımı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kişinin anlık duygu durumu", "rationale": "Bu ruh haliyle ilgilidir, tip tanımı değildir.", "isCorrect": false },
+        { "text": "Aynı cinsten bütün varlıkların temel özelliklerini kendinde toplayan kişilik yapısı", "rationale": "Bu, tip kavramının doğru tanımıdır.", "isCorrect": true },
+        { "text": "Kişinin fiziksel görünümü", "rationale": "Bu tip kavramının tanımı değildir.", "isCorrect": false },
+        { "text": "Bireyin sosyal statüsü", "rationale": "Bu tip kavramının tanımı değildir.", "isCorrect": false },
+        { "text": "Çalışanın meslek deneyimi", "rationale": "Bu tip kavramının tanımı değildir.", "isCorrect": false }
+      ],
+      "hint": "Öfkesini gizleyen, sakin kalan kişiye ne denir?"
+    },
+    {
+      "questionNumber": 26,
+      "question": "Konukları tanımanın en iyi yolu aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konukların geçmiş rezervasyonlarını incelemek", "rationale": "Bu faydalı olabilir ancak en iyi yol olarak belirtilmemiştir.", "isCorrect": false },
+        { "text": "Onlara hizmet etmek ve hizmet sırasında gözlemlemek", "rationale": "Konukları tanımanın en iyi yolu hizmet sırasında onları gözlemlemektir.", "isCorrect": true },
+        { "text": "Check-in formunu detaylı doldurmak", "rationale": "Bu bilgi toplamak için kullanılır, konuğu tanımanın en iyi yolu değildir.", "isCorrect": false },
+        { "text": "Diğer personelle bilgi paylaşmak", "rationale": "Bu faydalı olabilir ancak en iyi yol değildir.", "isCorrect": false },
+        { "text": "Konukları gizlice izlemek", "rationale": "Bu yanlış ve etik dışı bir yaklaşımdır.", "isCorrect": false }
+      ],
+      "hint": "Hizmet sürecinde ne yapılır?"
+    },
+    {
+      "questionNumber": 27,
+      "question": "İşletmelerin konukları kaybetmesinin en büyük sebebi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Fiyatların yüksek bulunması (%9)", "rationale": "Bu üçüncü sıradaki sebeptir.", "isCorrect": false },
+        { "text": "Ürün konusunda hayal kırıklığı (%14)", "rationale": "Bu ikinci sıradaki sebeptir.", "isCorrect": false },
+        { "text": "Hizmetten tatmin olmama (%68)", "rationale": "En büyük kayıp sebebi %68 ile hizmetten tatmin olmamadır.", "isCorrect": true },
+        { "text": "Yeni alışkanlıklar edinilmesi (%5)", "rationale": "Bu dördüncü sıradaki sebeptir.", "isCorrect": false },
+        { "text": "Taşınma/adres değişikliği (%3)", "rationale": "Bu beşinci sıradaki sebeptir.", "isCorrect": false }
+      ],
+      "hint": "En yüksek yüzde hangisine aittir?"
+    },
+    {
+      "questionNumber": 28,
+      "question": "Müşteri sadakati bağlamında yeni konuk edinmenin maliyeti hakkında ne söylenebilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mevcut konuğu memnun etmekten daha ucuzdur.", "rationale": "Bu yanlış bir ifadedir.", "isCorrect": false },
+        { "text": "Mevcut konuğu memnun etmekten daha pahalıdır.", "rationale": "Yeni konuk edinmek, mevcut konuğu memnun tutmaktan daha maliyetlidir.", "isCorrect": true },
+        { "text": "Mevcut konuğu memnun etmekle aynı maliyettedir.", "rationale": "Bu doğru değildir.", "isCorrect": false },
+        { "text": "Maliyetin önemi yoktur.", "rationale": "Bu yanlış bir ifadedir.", "isCorrect": false },
+        { "text": "Yeni konuk maliyeti ölçülemez.", "rationale": "Bu doğru değildir.", "isCorrect": false }
+      ],
+      "hint": "Var olanı korumak mı, yoksa yeni bulmak mı daha kolaydır?"
+    },
+    {
+      "questionNumber": 29,
+      "question": "Sadık konuk nasıl tanımlanmaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşletmeye en fazla para harcayan konuk", "rationale": "Bu sadık konuğun tanımı değildir.", "isCorrect": false },
+        { "text": "İstekleri önceden tahmin edilen ve kaliteli hizmet sunulan konuk", "rationale": "İstekleri önceden tahmin edilen ve kaliteli hizmet sunulan konuk sadık konuğa dönüşür.", "isCorrect": true },
+        { "text": "Hiçbir zaman şikayet etmeyen konuk", "rationale": "Bu sadık konuğun tanımı değildir.", "isCorrect": false },
+        { "text": "Yıllardır aynı tesiste konaklayan konuk", "rationale": "Bu bir göstergedir ama tanım değildir.", "isCorrect": false },
+        { "text": "En az 5 kez gelen konuk", "rationale": "Sayısal bir kriter belirtilmemiştir.", "isCorrect": false }
+      ],
+      "hint": "Sadık konuk ne zaman oluşur?"
+    },
+    {
+      "questionNumber": 30,
+      "question": "Kötümser konuk hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hijyene en çok dikkat eden konuk tipidir.", "rationale": "Hijyene en çok dikkat eden titiz konuktur.", "isCorrect": false },
+        { "text": "Memnun edilmesi en zor grup olup personel takdir beklememedir.", "rationale": "Kötümser konuklar memnun edilmesi en zor gruptur ve personel takdir beklememedir.", "isCorrect": true },
+        { "text": "Şikayetini yüzünüze söyler ve iyi hizmeti takdir eder.", "rationale": "Bu titiz konuğun özelliğidir.", "isCorrect": false },
+        { "text": "Bol bahşiş verme eğilimindedir.", "rationale": "Bu sosyal konuğun özelliğidir.", "isCorrect": false },
+        { "text": "Sürekli aldatılma korkusu yaşar.", "rationale": "Bu şüpheci konuğun özelliğidir.", "isCorrect": false }
+      ],
+      "hint": "Kötümser kişi mükemmel hizmet görse bile ne yapar?"
+    },
+    {
+      "questionNumber": 31,
+      "question": "Titiz konuğun en hassas olduğu konu hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Fiyat", "rationale": "Bu titiz konuğun birincil hassasiyeti değildir.", "isCorrect": false },
+        { "text": "Hijyen ve sanitasyon", "rationale": "Titiz konuğun en hassas olduğu konu hijyen ve sanitasyondur.", "isCorrect": true },
+        { "text": "Oda büyüklüğü", "rationale": "Bu titiz konuğun birincil hassasiyeti değildir.", "isCorrect": false },
+        { "text": "Manzara", "rationale": "Bu titiz konuğun birincil hassasiyeti değildir.", "isCorrect": false },
+        { "text": "İnternet hızı", "rationale": "Bu titiz konuğun birincil hassasiyeti değildir.", "isCorrect": false }
+      ],
+      "hint": "Titiz konuk kılık-kıyafete, temizliğe, tazeliğe dikkat eder; en hassas olduğu konu ne?"
+    },
+    {
+      "questionNumber": 32,
+      "question": "Titiz konuğun bir farkı, kötümsen konuktan nasıl ayrışır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Titiz konuk hiç şikayet etmez.", "rationale": "Titiz konuk hataları yüzünüze söyler.", "isCorrect": false },
+        { "text": "Titiz konuk iyi hizmeti takdir eder.", "rationale": "Titiz konuk başarılı hizmet sonrası personeli övebildiği için kötümserden ayrışır.", "isCorrect": true },
+        { "text": "Titiz konuk daha az talepkardır.", "rationale": "Bu doğru değildir.", "isCorrect": false },
+        { "text": "Titiz konuk daha ucuz hizmet ister.", "rationale": "Bu doğru değildir.", "isCorrect": false },
+        { "text": "Titiz konuk hiçbir zaman memnun olmaz.", "rationale": "Bu kötümser konuğun özelliğidir.", "isCorrect": false }
+      ],
+      "hint": "Kötümser konuk iyi hizmeti takdir eder mi?"
+    },
+    {
+      "questionNumber": 33,
+      "question": "Kendini beğenmiş konuğa hizmet eden personel nasıl davranmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuğa sınırlarını bildirmeli", "rationale": "Bu profesyonel değildir.", "isCorrect": false },
+        { "text": "Proaktif davranarak memnun ayrılmasını sağlamalı", "rationale": "Bu çekingen konuğa karşı alınacak tutumla ilgilidir.", "isCorrect": false },
+        { "text": "Sabır, nezaket ve anlayışı elden bırakmamalı", "rationale": "Ne kadar zor olursa olsun sabır, nezaket ve anlayış korunmalıdır.", "isCorrect": true },
+        { "text": "Konuğun küçümsemelerine aynı şekilde karşılık vermeli", "rationale": "Bu kesinlikle yanlış bir yaklaşımdır.", "isCorrect": false },
+        { "text": "Konuğu yöneticiye yönlendirmeli", "rationale": "Bu her durumda doğru bir yaklaşım değildir.", "isCorrect": false }
+      ],
+      "hint": "Zor bir konuk tipinde bile hangi temel özellikler korunmalıdır?"
+    },
+    {
+      "questionNumber": 34,
+      "question": "Sosyal (dışa dönük) konuğa hizmet ederken personelin dikkat etmesi gereken kritik husus nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuğun fazla bahşiş vermesini engelleme", "rationale": "Bu doğru bir husus değildir.", "isCorrect": false },
+        { "text": "Samimiyet dozunu ayarlamak ve işletme prosedürlerine uymak", "rationale": "Sohbet isteği karşısında samimiyet dozu ayarlanmalı, prosedürler korunmalıdır.", "isCorrect": true },
+        { "text": "Konuğun her isteğini yerine getirme", "rationale": "Bu genel bir kural olup sosyal konuğa özgü değildir.", "isCorrect": false },
+        { "text": "Konuğun hijyen kurallarını uygulamasını sağlama", "rationale": "Bu sosyal konuğa özgü bir husus değildir.", "isCorrect": false },
+        { "text": "Konuğu diğer misafirlerden uzak tutma", "rationale": "Bu doğru bir yaklaşım değildir.", "isCorrect": false }
+      ],
+      "hint": "Sosyal konuk personelle çok sohbet etmek isteyebilir. Bu durumda ne tehlikesi vardır?"
+    },
+    {
+      "questionNumber": 35,
+      "question": "Çekingen konuk hakkında aşağıdaki ifadelerden hangisi 'tehlikeli nokta' olarak belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çok fazla şikayet ederler.", "rationale": "Tam tersi doğrudur; çekingen konuklar şikayetlerini dile getirmekten hoşlanmaz.", "isCorrect": false },
+        { "text": "Şikayetini biriktirir ve beklenmedik anda büyük çıkış yapar.", "rationale": "Bu, çekingen konuğun tehlikeli noktasıdır.", "isCorrect": true },
+        { "text": "Diğer konuklara şikayet ederler.", "rationale": "Bu belirtilen tehlikeli nokta değildir.", "isCorrect": false },
+        { "text": "İşletmeyi sosyal medyada şikayet ederler.", "rationale": "Bu belirtilen tehlikeli nokta değildir.", "isCorrect": false },
+        { "text": "Oda numaralarını yanlış hatırlarlar.", "rationale": "Bu dalgın konuğun özelliğidir.", "isCorrect": false }
+      ],
+      "hint": "Şikayetini söylemeyen biri ne zaman patlayabilir?"
+    },
+    {
+      "questionNumber": 36,
+      "question": "Çekingen konuğa karşı personel nasıl davranmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuğun kendi kendine çözmesini beklemeli", "rationale": "Bu pasif ve yanlış bir yaklaşımdır.", "isCorrect": false },
+        { "text": "Proaktif davranarak memnun ayrılmasını sağlamalı", "rationale": "Açıkça şikayet etmedikleri için personelin proaktif davranması gerekir.", "isCorrect": true },
+        { "text": "Çok soru sorarak memnuniyetini ölçmeli", "rationale": "Bu çekingen konuğu rahatsız edebilir.", "isCorrect": false },
+        { "text": "Diğer konuklara bilgi sorarak görüş almalı", "rationale": "Bu doğru ve etik bir yaklaşım değildir.", "isCorrect": false },
+        { "text": "Sadece şikayet ettiğinde müdahale etmeli", "rationale": "Çekingen konuk şikayet etmeyebilir, beklememek gerekir.", "isCorrect": false }
+      ],
+      "hint": "Açıkça söylemeyenlere karşı hangi tutum sergilenmeli?"
+    },
+    {
+      "questionNumber": 37,
+      "question": "İyimser, nazik ve alçakgönüllü konuk için 'kritik uyarı' hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bu konukların şikayetleri çok fazla olabilir.", "rationale": "Bu doğru değildir; bu konuklar hoşgörülüdür.", "isCorrect": false },
+        { "text": "Bu konukların iyi niyeti ve hoşgörüsü asla suiistimal edilmemelidir.", "rationale": "Bu, iyimser konuklar için belirtilen kritik uyarıdır.", "isCorrect": true },
+        { "text": "Bu konuklara daha fazla dikkat gösterilmelidir.", "rationale": "Bu bir uyarı değildir.", "isCorrect": false },
+        { "text": "Bu konuklara indirim teklif edilmemelidir.", "rationale": "Bu doğru bir uyarı değildir.", "isCorrect": false },
+        { "text": "Bu konuklara fazla samimi davranılmamalıdır.", "rationale": "Bu genel bir kural olmakla birlikte iyimser konuğa özgü kritik uyarı değildir.", "isCorrect": false }
+      ],
+      "hint": "İyi insanlara karşı ne yapılmamalıdır?"
+    },
+    {
+      "questionNumber": 38,
+      "question": "Şüpheci konuğun temel özelliği hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Her şeyin kötü tarafını görür.", "rationale": "Bu kötümser konuğun özelliğidir.", "isCorrect": false },
+        { "text": "Sürekli aldatılma korkusu yaşar.", "rationale": "Şüpheci konuk kötü oda, sahte mal gibi konularda aldatılma korkusu yaşar.", "isCorrect": true },
+        { "text": "Küçük olaylarda bile aniden öfkelenir.", "rationale": "Bu öfkeli konuğun özelliğidir.", "isCorrect": false },
+        { "text": "Randevularını unutur.", "rationale": "Bu dalgın konuğun özelliğidir.", "isCorrect": false },
+        { "text": "Hatalı olduğunu asla kabul etmez.", "rationale": "Bu inatçı konuğun özelliğidir.", "isCorrect": false }
+      ],
+      "hint": "Bu konuk ne korkusuyla yaşar?"
+    },
+    {
+      "questionNumber": 39,
+      "question": "Öfkeli konukla karşılaşan personel nasıl davranmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuğu sessizleşene kadar yoksaymak", "rationale": "Bu yanlış bir yaklaşımdır.", "isCorrect": false },
+        { "text": "Soğukkanlılığını koruyarak saygılı ve nazik şekilde ikna etmeye çalışmak", "rationale": "Personel soğukkanlılığını koruyarak saygılı ve nazik hareketlerle konuğu ikna etmeye odaklanmalıdır.", "isCorrect": true },
+        { "text": "Güvenlik çağırmak", "rationale": "Bu son çare olabilir; her öfkeli konuk için ilk tepki bu değildir.", "isCorrect": false },
+        { "text": "Konuğa aynı ses tonu ile cevap vermek", "rationale": "Bu yanlış bir yaklaşımdır.", "isCorrect": false },
+        { "text": "Konuğu hemen yöneticiye yönlendirmek", "rationale": "Bu her durumda doğru ilk tepki değildir.", "isCorrect": false }
+      ],
+      "hint": "Öfke karşısında en önemli özellik nedir?"
+    },
+    {
+      "questionNumber": 40,
+      "question": "Telaşlı konuk hakkında hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sessiz ve içine kapanıktır.", "rationale": "Bu çekingen konuğun özelliğidir.", "isCorrect": false },
+        { "text": "Huzursuzlukları diğer konukları da etkileyebilir.", "rationale": "Telaşlı konukların huzursuzluğu diğer konukları da etkileyebilir.", "isCorrect": true },
+        { "text": "Şikayetlerini asla dile getirmez.", "rationale": "Bu çekingen konuğun özelliğidir.", "isCorrect": false },
+        { "text": "Bol bahşiş verirler.", "rationale": "Bu sosyal konuğun özelliğidir.", "isCorrect": false },
+        { "text": "Kurallara uymamakta direnir.", "rationale": "Bu inatçı konuğun özelliğidir.", "isCorrect": false }
+      ],
+      "hint": "Panik atak eğilimli, sakarlık yapan konuk kim?"
+    },
+    {
+      "questionNumber": 41,
+      "question": "Dalgın ve unutkan konuğa hizmet ederken personelin yapması gereken örnek davranış hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuğu kendi haline bırakmak", "rationale": "Bu pasif bir yaklaşımdır.", "isCorrect": false },
+        { "text": "Uyandırma isteyip istemediğini sormak ve unuttuğu eşyaları teslim etmek", "rationale": "Bu ilgi, dalgın konuğu çok memnun eder.", "isCorrect": true },
+        { "text": "Konuğun eşyalarını saklamak", "rationale": "Bu yanlış bir davranıştır.", "isCorrect": false },
+        { "text": "Konuğu sürekli uyarmak", "rationale": "Bu rahatsız edici olabilir.", "isCorrect": false },
+        { "text": "Konuğun ailesini bilgilendirmek", "rationale": "Bu doğru bir yaklaşım değildir.", "isCorrect": false }
+      ],
+      "hint": "Dalgın konuk ne unutabilir? Personel neyi takip etmeli?"
+    },
+    {
+      "questionNumber": 42,
+      "question": "İnatçı konuğa karşı personel nasıl tutum sergilemelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuğa geri adım attırmalı", "rationale": "Bu sert bir yaklaşımdır.", "isCorrect": false },
+        { "text": "Anlayışlı ve sabırlı olarak profesyonel sınırlar içinde çözüm aramalı", "rationale": "İnatçı konukta anlayış, sabır ve profesyonel sınırlar içinde çözüm arama esastır.", "isCorrect": true },
+        { "text": "Her isteğini yerine getirmeli", "rationale": "Bu mümkün olmayan istekler için geçerli değildir.", "isCorrect": false },
+        { "text": "Konuğu ikaz mektubu ile uyarmalı", "rationale": "Bu aşırı ve yanlış bir yaklaşımdır.", "isCorrect": false },
+        { "text": "Konuğu tesisten uzaklaştırmalı", "rationale": "Bu son çaredir; ilk tepki olmamalıdır.", "isCorrect": false }
+      ],
+      "hint": "İnatçı konukla tartışmaya girilmeli mi?"
+    },
+    {
+      "questionNumber": 43,
+      "question": "Turizmde personelin başarılı olmasının temel koşulu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yabancı dil bilgisi", "rationale": "Bu önemlidir ancak temel koşul olarak belirtilmemiştir.", "isCorrect": false },
+        { "text": "Farklı mizaç ve isteklere sahip insanları tanıyarak uygun davranmak", "rationale": "Turizmde başarı, farklı karakterleri tanıyıp uygun davranmaya bağlıdır.", "isCorrect": true },
+        { "text": "Teknik turizm bilgisi", "rationale": "Bu önemlidir ancak temel koşul olarak belirtilmemiştir.", "isCorrect": false },
+        { "text": "Fiziksel dayanıklılık", "rationale": "Bu temel koşul değildir.", "isCorrect": false },
+        { "text": "Hızlı çalışma temposu", "rationale": "Bu temel koşul olarak belirtilmemiştir.", "isCorrect": false }
+      ],
+      "hint": "Farklı konuklara nasıl davranılmalıdır?"
+    },
+    {
+      "questionNumber": 44,
+      "question": "Bir konuk için 'uygun' olan davranışın başka bir konuk için 'uygunsuz' olabileceği ilkesi neyi vurgular?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hizmetin standartlaştırılması gerektiğini", "rationale": "Bu tam tersi bir yönde olur; standart hizmet bu ilkeye uygun değildir.", "isCorrect": false },
+        { "text": "Hizmetin kişiye özel olduğunu", "rationale": "Bu ilke, hizmetin kişiye özel olduğunu vurgular.", "isCorrect": true },
+        { "text": "Personelin her durumda aynı davranması gerektiğini", "rationale": "Bu bu ilkeyle çelişir.", "isCorrect": false },
+        { "text": "Bazı konuklara daha kaliteli hizmet verilmesi gerektiğini", "rationale": "Bu eşitsizlik anlamına gelir ve doğru değildir.", "isCorrect": false },
+        { "text": "Konuk tiplerinin belirlenemeyeceğini", "rationale": "Bu doğru değildir; konuk tipleri belirlenebilir.", "isCorrect": false }
+      ],
+      "hint": "Kişiselleştirme neden önemlidir?"
+    },
+    {
+      "questionNumber": 45,
+      "question": "Meraklı tip konukların beklentisi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sakin, gürültüsüz bir ortam", "rationale": "Bu dinlenme ve eğlenme amaçlı konukların beklentisidir.", "isCorrect": false },
+        { "text": "Alıştıklarının dışında çevre, farklı tarih ve kültür yapıları görmek", "rationale": "Meraklı konuklar farklı kültür ve tarihi keşfetmek isterler.", "isCorrect": true },
+        { "text": "Dini yerlere turlar", "rationale": "Bu dini amaçlı konukların beklentisidir.", "isCorrect": false },
+        { "text": "Spor ve sağlık imkanları", "rationale": "Bu spor ve sağlık amaçlı konukların beklentisidir.", "isCorrect": false },
+        { "text": "Heyecan verici maceracı faaliyetler", "rationale": "Bu macera arayan tiplerin beklentisidir.", "isCorrect": false }
+      ],
+      "hint": "Meraklı kişi ne görmek ister?"
+    },
+    {
+      "questionNumber": 46,
+      "question": "Kültür ve eğitim amaçlı konukları en çok memnun eden hizmet hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Tehlikeli sporlar organize etmek", "rationale": "Bu macera arayanlar için uygundur.", "isCorrect": false },
+        { "text": "Termal kaynaklar sunmak", "rationale": "Bu spor ve sağlık amaçlı konuklar için uygundur.", "isCorrect": false },
+        { "text": "Milli kıyafetlerle servis ve halk oyunları sergilemek", "rationale": "Kültür ve eğitim amaçlı konuklar gelenek, sanat ve milli yemeklere ilgi duyar; milli kıyafet ve halk oyunları bu konukları memnun eder.", "isCorrect": true },
+        { "text": "Dini mekanlara tur düzenlemek", "rationale": "Bu dini amaçlı konuklar için uygundur.", "isCorrect": false },
+        { "text": "Gösterişli oda ve hizmet sunmak", "rationale": "Bu taklit ve gösteriş meraklısı tip için uygundur.", "isCorrect": false }
+      ],
+      "hint": "Gelenek, görenek ve sanat ilgilendiren kim?"
+    },
+    {
+      "questionNumber": 47,
+      "question": "İş amaçlı konukların seyahat dışı zamanlarında ne aradıkları belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Dini geziler", "rationale": "Bu dini amaçlı konukların beklentisidir.", "isCorrect": false },
+        { "text": "Macera sporları", "rationale": "Bu macera arayanların beklentisidir.", "isCorrect": false },
+        { "text": "Eğlence", "rationale": "İş konukları işten artan zamanlarında eğlence ararlar.", "isCorrect": true },
+        { "text": "Kültürel turlar", "rationale": "Bu kültür amaçlı konukların beklentisidir.", "isCorrect": false },
+        { "text": "Katı kurallardan uzak özgür ortam", "rationale": "Bu dinlenme amaçlı konukların beklentisidir.", "isCorrect": false }
+      ],
+      "hint": "İş bittikten sonra iş konuğu ne ister?"
+    },
+    {
+      "questionNumber": 48,
+      "question": "Konukların alışkanlıklardan kaynaklanan ortak ve vazgeçilmez beklentisi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Gösterişli servis", "rationale": "Bu tüm konukların ortak beklentisi değildir.", "isCorrect": false },
+        { "text": "Kendi ülkelerindeki ortamın taklit edilmesi", "rationale": "Bu bazı konukların beklentisidir, tümünün değil.", "isCorrect": false },
+        { "text": "Hijyen ve temizlik", "rationale": "Sağlık, konaklama ve yemek temizliği tüm konukların ortak ve vazgeçilmez beklentisidir.", "isCorrect": true },
+        { "text": "Yüksek teknoloji imkanları", "rationale": "Bu tüm konukların vazgeçilmez beklentisi değildir.", "isCorrect": false },
+        { "text": "İngilizce konuşan personel", "rationale": "Bu tüm konukların ortak beklentisi değildir.", "isCorrect": false }
+      ],
+      "hint": "Sağlık ve temizlik açısından hangi beklenti evrenseldir?"
+    },
+    {
+      "questionNumber": 49,
+      "question": "Konukların check-in beklentileri arasında hangisi yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İlgiyle karşılanmak ve güler yüz görmek", "rationale": "Bu check-in beklentisi kapsamındadır.", "isCorrect": false },
+        { "text": "Giriş işlemlerinin hızlı yapılması", "rationale": "Bu check-in beklentisi kapsamındadır.", "isCorrect": false },
+        { "text": "Rezervasyona uygun konaklama", "rationale": "Bu check-in beklentisi kapsamındadır.", "isCorrect": false },
+        { "text": "İşletmenin sosyal medya hesapları hakkında bilgi verilmesi", "rationale": "Bu check-in beklentileri arasında belirtilmemiştir.", "isCorrect": true },
+        { "text": "İsteklerin bekletilmeden yerine getirilmesi", "rationale": "Bu check-in beklentisi kapsamındadır.", "isCorrect": false }
+      ],
+      "hint": "Hangi beklenti listede geçmiyor?"
+    },
+    {
+      "questionNumber": 50,
+      "question": "İşletmelerin konukları kaybetme istatistiğinde ölüm nedeniyle kayıp oranı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "%3", "rationale": "Bu taşınma/adres değişikliği nedeniyle kayıp oranıdır.", "isCorrect": false },
+        { "text": "%5", "rationale": "Bu yeni alışkanlıklar edinilmesi nedeniyle kayıp oranıdır.", "isCorrect": false },
+        { "text": "%9", "rationale": "Bu fiyatların yüksek bulunması nedeniyle kayıp oranıdır.", "isCorrect": false },
+        { "text": "%1", "rationale": "Ölüm nedeniyle konuk kaybı %1 oranındadır.", "isCorrect": true },
+        { "text": "%14", "rationale": "Bu ürün konusunda hayal kırıklığı nedeniyle kayıp oranıdır.", "isCorrect": false }
+      ],
+      "hint": "En az görülen kayıp sebebi hangisidir?"
+    },
+    {
+      "questionNumber": 51,
+      "question": "Konuk beklentilerini şekillendiren faktörler arasında hangisi sayılmamaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kişinin içinde yetiştiği şartlar", "rationale": "Bu beklentileri şekillendiren faktörler arasındadır.", "isCorrect": false },
+        { "text": "Alışkanlıklar ve arzular", "rationale": "Bu beklentileri şekillendiren faktörler arasındadır.", "isCorrect": false },
+        { "text": "Gideceği yer hakkında edinilen bilgiler", "rationale": "Bu beklentileri şekillendiren faktörler arasındadır.", "isCorrect": false },
+        { "text": "Çalıştığı sektör ve gelir düzeyi", "rationale": "Bu faktörler belirtilmemiştir.", "isCorrect": true },
+        { "text": "Beklentilerin hepsi doğrudur.", "rationale": "Çalıştığı sektör belirtilmemiştir.", "isCorrect": false }
+      ],
+      "hint": "Listede olmayan faktör hangisi?"
+    },
+    {
+      "questionNumber": 52,
+      "question": "Misafirin bilgilerinin üçüncü şahıslarla paylaşılmamasının temel gerekçesi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yasal zorunluluk", "rationale": "Bu doğru olsa da belirtilen temel gerekçe değildir.", "isCorrect": false },
+        { "text": "Gizlilik otelciliğin en temel esasıdır.", "rationale": "Misafir bilgilerinin gizliliği otelciliğin en temel esası olarak belirtilmiştir.", "isCorrect": true },
+        { "text": "Personelin iş yükünü azaltmak", "rationale": "Bu gerekçe değildir.", "isCorrect": false },
+        { "text": "Rakip işletmelere bilgi sızmamak için", "rationale": "Bu gerekçe değildir.", "isCorrect": false },
+        { "text": "Sigorta şirketlerinin talebi", "rationale": "Bu gerekçe değildir.", "isCorrect": false }
+      ],
+      "hint": "Otelciliğin en temel esası nedir?"
+    },
+    {
+      "questionNumber": 53,
+      "question": "Aşağıdaki konuk tiplerinden hangisi 'bol bahşiş verme' özelliğiyle tanınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kötümser konuk", "rationale": "Kötümser konuklar takdir etmez.", "isCorrect": false },
+        { "text": "Titiz konuk", "rationale": "Titiz konuk başarılı hizmeti takdir eder ama 'bol bahşiş' özelliği değildir.", "isCorrect": false },
+        { "text": "Sosyal (dışa dönük) konuk", "rationale": "Sosyal konuklar cömert ve bol bahşiş verir.", "isCorrect": true },
+        { "text": "Şüpheci konuk", "rationale": "Şüpheci konuk savunmacıdır.", "isCorrect": false },
+        { "text": "İnatçı konuk", "rationale": "İnatçı konuğun bahşiş özelliği belirtilmemiştir.", "isCorrect": false }
+      ],
+      "hint": "Hangi konuk tipi 'cömert' olarak tanımlanır?"
+    },
+    {
+      "questionNumber": 54,
+      "question": "Personelin konuğu başından savmak yerine ne yapması gerektiği belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yöneticiye haber vermesi", "rationale": "Bu her durumda doğru ilk adım değildir.", "isCorrect": false },
+        { "text": "Talepleri bizzat karşılamaya çalışması", "rationale": "Çok mecbur kalmadıkça başka birime havale etmemeli, sorumluluk alınmalıdır.", "isCorrect": true },
+        { "text": "Konuğa yazılı form doldurtması", "rationale": "Bu doğru bir yaklaşım değildir.", "isCorrect": false },
+        { "text": "Konuğu bekletmesi", "rationale": "Bu doğru bir yaklaşım değildir.", "isCorrect": false },
+        { "text": "Konuğu uygun birime yönlendirmesi", "rationale": "Bu mecbur kalınmadıkça yapılmamalıdır.", "isCorrect": false }
+      ],
+      "hint": "Sorumluluktan kaçmak yerine ne yapılmalı?"
+    },
+    {
+      "questionNumber": 55,
+      "question": "Konuğun yanında iş arkadaşlarıyla ilgili hangi davranışlardan kaçınılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yardımseverlik", "rationale": "Yardımseverlik önerilen bir davranıştır.", "isCorrect": false },
+        { "text": "Konuk sorunlarını birlikte çözme", "rationale": "Bu olumlu bir davranıştır.", "isCorrect": false },
+        { "text": "Tartışma, dedikodu ve yüksek sesle konuşma", "rationale": "Konukların yanında bu üç davranıştan kaçınılmalıdır.", "isCorrect": true },
+        { "text": "Birbirini destekleme", "rationale": "Bu olumlu bir davranıştır.", "isCorrect": false },
+        { "text": "Güler yüzlü olma", "rationale": "Bu olumlu bir davranıştır.", "isCorrect": false }
+      ],
+      "hint": "Konuk varken iş arkadaşlarıyla neler yapılmamalı?"
+    },
+    {
+      "questionNumber": 56,
+      "question": "Konuşma üslubu ile ilgili telefon iletişiminde personelin uyması gereken kural nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Teknik terimleri sıkça kullanmak", "rationale": "Bu yanlış bir yaklaşımdır; teknik terimler sade dile dönüştürülmelidir.", "isCorrect": false },
+        { "text": "Konukla asla tartışmamak ve mesleki terimleri sade dile dönüştürmek", "rationale": "Telefonda tartışılmamalı, terimler anlaşılır şekilde ifade edilmelidir.", "isCorrect": true },
+        { "text": "Telefon görüşmesini olabildiğince kısa tutmak", "rationale": "Bu doğru olmakla birlikte belirtilen temel kural değildir.", "isCorrect": false },
+        { "text": "Konuğun her dediğine evet demek", "rationale": "Bu doğru bir yaklaşım değildir.", "isCorrect": false },
+        { "text": "Konuğa açıklama yapmaktan kaçınmak", "rationale": "Bu doğru bir yaklaşım değildir.", "isCorrect": false }
+      ],
+      "hint": "Konukla telefonda ne yapılmamalı? Terminoloji nasıl kullanılmalı?"
+    },
+    {
+      "questionNumber": 57,
+      "question": "Göz teması kurulurken dikkat edilmesi gereken önemli husus nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Göz teması hiç kurulmamalıdır.", "rationale": "Tam tersi; göz teması kurulmalıdır.", "isCorrect": false },
+        { "text": "Sürekli göz teması kurarak konuğa ilgi gösterilmelidir.", "rationale": "Aşırı göz teması 'göz hapsine' dönüşebilir.", "isCorrect": false },
+        { "text": "Göz teması mutlaka kurulmalı ancak konuğu rahatsız edecek bir göz hapsine dönüşmemelidir.", "rationale": "Bu, göz teması için belirtilen dengeli yaklaşımdır.", "isCorrect": true },
+        { "text": "Göz teması sadece şikayet durumunda kurulmalıdır.", "rationale": "Bu yanlış bir yaklaşımdır.", "isCorrect": false },
+        { "text": "Göz teması yalnızca üst düzey konuklarla kurulmalıdır.", "rationale": "Bu yanlış ve ayrımcı bir yaklaşımdır.", "isCorrect": false }
+      ],
+      "hint": "Göz teması ne zaman sorun haline gelir?"
+    },
+    {
+      "questionNumber": 58,
+      "question": "Tüm konuklara eşit davranma ilkesi neyi gerektirir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Herkese aynı standart hizmet sunmak", "rationale": "Eşit davranmak herkese aynı muameleyi değil, kimseyi hor görmemeyi ifade eder.", "isCorrect": false },
+        { "text": "Kimseyi hor görmemek", "rationale": "Tüm konuklara eşit davranmak, kimseyi hor görmemeyi gerektirir.", "isCorrect": true },
+        { "text": "VIP konuklara ayrıcalık tanımamak", "rationale": "Eşit davranma böyle yorumlanamaz.", "isCorrect": false },
+        { "text": "Şikayetleri eşit şekilde ele almak", "rationale": "Bu doğru olmakla birlikte eşitlik ilkesinin özü değildir.", "isCorrect": false },
+        { "text": "Tüm konuklara aynı fiyat politikasını uygulamak", "rationale": "Bu ticari bir karardır, iletişim ilkesi değildir.", "isCorrect": false }
+      ],
+      "hint": "Birini hor görmemek ne anlama gelir?"
+    },
+    {
+      "questionNumber": 59,
+      "question": "Politika ve din konularına neden girilmemelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bu konularda yeterli bilgi olmadığından", "rationale": "Bu asıl sebep değildir.", "isCorrect": false },
+        { "text": "Bu konular tartışmalıdır ve fikir beyanı istenmedikçe yapılmamalıdır.", "rationale": "Tartışmalı konularda istenmedikçe fikir beyan edilmemeli, özellikle politika ve dinden kaçınılmalıdır.", "isCorrect": true },
+        { "text": "Konuğun bu konularda bilgisi olmayabileceğinden", "rationale": "Bu asıl sebep değildir.", "isCorrect": false },
+        { "text": "İşletme yönetiminin yasak koyduğundan", "rationale": "Bu gerekçe belirtilmemiştir.", "isCorrect": false },
+        { "text": "Zaman kaybı olduğundan", "rationale": "Bu asıl sebep değildir.", "isCorrect": false }
+      ],
+      "hint": "Bu konuların ortak özelliği ne?"
+    },
+    {
+      "questionNumber": 60,
+      "question": "Başarılı iletişimin 7 husu arasında 'empati' ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuğun duygularını tahmin etmek", "rationale": "Bu empatinin tam tanımı değildir.", "isCorrect": false },
+        { "text": "Kendini konuğun yerine koyabilmek", "rationale": "Empati, kendini karşıdakinin yerine koyabilmektir.", "isCorrect": true },
+        { "text": "Konuğun şikayetini kabul etmek", "rationale": "Bu empatinin bir sonucu olabilir ama tanımı değildir.", "isCorrect": false },
+        { "text": "Konuğu sempatik bulmak", "rationale": "Bu empatinin tanımı değildir.", "isCorrect": false },
+        { "text": "Konuğa karşı sempati duymak", "rationale": "Sempati ve empati farklı kavramlardır.", "isCorrect": false }
+      ],
+      "hint": "Empati kendini kimin yerine koymaktır?"
+    },
+    {
+      "questionNumber": 61,
+      "question": "Kişisel görünüm bağlamında çalışanın kıyafetine özen göstermesi neyin göstergesidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşletmenin kalite standardı", "rationale": "Bu bir sonuç olabilir ama doğrudan gösterge değildir.", "isCorrect": false },
+        { "text": "Kendine duyduğu özsaygı", "rationale": "Kıyafete özen göstermek, çalışanın kendine duyduğu özsaygının belirtisidir.", "isCorrect": true },
+        { "text": "Yöneticinin talimatlarına uyumu", "rationale": "Bu doğrudan gösterge değildir.", "isCorrect": false },
+        { "text": "Ekonomik durumu", "rationale": "Bu doğrudan gösterge değildir.", "isCorrect": false },
+        { "text": "İşyerindeki pozisyonu", "rationale": "Bu doğrudan gösterge değildir.", "isCorrect": false }
+      ],
+      "hint": "Dışarıya verilen özen içerideki neyi yansıtır?"
+    },
+    {
+      "questionNumber": 62,
+      "question": "'Profesyonel maske' kavramı ne anlama gelmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuğun güvenmesi için yalan söylemek", "rationale": "Bu yanlış ve etik dışı bir davranıştır.", "isCorrect": false },
+        { "text": "İşle ilgili hoşnutsuzlukları misafire yansıtmamak", "rationale": "İşletme veya işle ilgili hoşnutsuzluk misafire yansıtılmamalıdır; buna profesyonel maske denir.", "isCorrect": true },
+        { "text": "Konuğa sahte bir kimlikle hizmet vermek", "rationale": "Bu yanlış bir kavramdır.", "isCorrect": false },
+        { "text": "Konuğun isteklerini gizlemek", "rationale": "Bu doğru değildir.", "isCorrect": false },
+        { "text": "İşletmenin hatalarını saklamak", "rationale": "Bu dürüstlükle çelişir ve doğru değildir.", "isCorrect": false }
+      ],
+      "hint": "Kötü bir gün geçirseniz bile konuğa ne yansıtmamalısınız?"
+    },
+    {
+      "questionNumber": 63,
+      "question": "Misafir fark edildiğinde, meşgul olsa dahi personelin yapması gereken davranış nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafiri sesli olarak selamlamak", "rationale": "Bu uygun olabilir ancak tek doğru yanıt değildir.", "isCorrect": false },
+        { "text": "Mimiklerle (baş selamı, gülümseme) fark edildiğini belirtmek", "rationale": "Misafir görüldüğünde mimiklerle algılandığı belirtilmelidir.", "isCorrect": true },
+        { "text": "İşini bırakıp hemen koşmak", "rationale": "Bu her durumda mümkün olmayabilir.", "isCorrect": false },
+        { "text": "Görmezden gelmek", "rationale": "Bu yanlış bir davranıştır.", "isCorrect": false },
+        { "text": "Meslektaşından yardım istemek", "rationale": "Bu ilk adım olarak belirtilmemiştir.", "isCorrect": false }
+      ],
+      "hint": "Mimikler nasıl kullanılır?"
+    },
+    {
+      "questionNumber": 64,
+      "question": "Kötü bir karşılamanın misafir açısından olası sonucu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafirin fiyat konusunda şikayet etmesi", "rationale": "Bu doğrudan sonuç değildir.", "isCorrect": false },
+        { "text": "Misafirin tamamen kaybedilmesi", "rationale": "Kötü bir karşılama misafirin tamamen kaybedilmesine neden olabilir.", "isCorrect": true },
+        { "text": "Misafirin daha az harcama yapması", "rationale": "Bu doğrudan belirtilen sonuç değildir.", "isCorrect": false },
+        { "text": "Misafirin başka odaya geçmesi", "rationale": "Bu doğrudan belirtilen sonuç değildir.", "isCorrect": false },
+        { "text": "Misafirin yöneticiye şikayet etmesi", "rationale": "Bu doğrudan belirtilen sonuç değildir.", "isCorrect": false }
+      ],
+      "hint": "İlk izlenim neden bu kadar kritik?"
+    },
+    {
+      "questionNumber": 65,
+      "question": "Aşağıdakilerden hangisi 'çok bilmişlik' göstergesi olan bir ifadedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "'Bana kalırsa...'", "rationale": "Bu özgüvensizlik kategorisindedir.", "isCorrect": false },
+        { "text": "'Öyle sanıyorum ki...'", "rationale": "Bu özgüvensizlik kategorisindedir.", "isCorrect": false },
+        { "text": "'Deneyimlerime dayanarak söyleyebilirim ki...'", "rationale": "Bu çok bilmişlik kategorisindedir.", "isCorrect": true },
+        { "text": "'Bilmem ki...'", "rationale": "Bu özgüvensizlik kategorisindedir.", "isCorrect": false },
+        { "text": "'Başka bir deyişle...'", "rationale": "Bu savunmacı/açıklayıcı kategorisindedir.", "isCorrect": false }
+      ],
+      "hint": "Deneyimini öne çıkarmak hangi izlenimi yaratır?"
+    },
+    {
+      "questionNumber": 66,
+      "question": "Zaman yönetimi açısından personelin uyması gereken kural hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuklara zaman ayırmak gerekmez.", "rationale": "Bu yanlış bir ifadedir.", "isCorrect": false },
+        { "text": "Tek bir konukla çok uzun süre konuşulmamalıdır.", "rationale": "Zaman yönetimi açısından tek bir konukla aşırı uzun süre meşgul olmaktan kaçınılmalıdır.", "isCorrect": true },
+        { "text": "Her konukla en az 10 dakika geçirilmelidir.", "rationale": "Böyle bir standart belirtilmemiştir.", "isCorrect": false },
+        { "text": "Konuşmalar mümkün olduğunca kısa kesilmelidir.", "rationale": "Bu aşırı bir yorum, doğru kural değildir.", "isCorrect": false },
+        { "text": "Konuk gitmeden önce konuşma sonlandırılmamalıdır.", "rationale": "Bu doğru değildir.", "isCorrect": false }
+      ],
+      "hint": "Bir konuğa çok fazla zaman ayırmak diğerlerine karşı adil midir?"
+    },
+    {
+      "questionNumber": 67,
+      "question": "Bir konuk başka bir konuğun şikayetini aktarırsa, personelin doğru tepkisi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Şikayet edilen konuğu savunmak", "rationale": "Bu doğru bir yaklaşım değildir.", "isCorrect": false },
+        { "text": "Şikayet edilen konuk hakkında konuşmak", "rationale": "Bir konuk diğerine kötülenmemeli ve arkasından konuşulmamalıdır.", "isCorrect": false },
+        { "text": "Konuğu dinleyip durumu yöneticiye bildirmek", "rationale": "Dedikodu yapmadan profesyonel şekilde dinlenmeli ve gerekirse yöneticiye bildirilmelidir.", "isCorrect": true },
+        { "text": "Şikayeti geçiştirmek", "rationale": "Bu doğru bir yaklaşım değildir.", "isCorrect": false },
+        { "text": "Şikayet eden konuğu azarlamak", "rationale": "Bu kesinlikle yanlış bir yaklaşımdır.", "isCorrect": false }
+      ],
+      "hint": "Gıybet kuralı burada nasıl uygulanır?"
+    },
+    {
+      "questionNumber": 68,
+      "question": "Aşağıdakilerden hangisi iletişim sürecinde sık yapılan 'emir verme' hatasına örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "'Bu yemek beklediğim kadar iyi değil.'", "rationale": "Bu eleştiri hatasıdır.", "isCorrect": false },
+        { "text": "'Bunun sorumlusu sensin!'", "rationale": "Bu suçlama hatasıdır.", "isCorrect": false },
+        { "text": "'Bana bir bardak su getir hemen!'", "rationale": "Bu, emir verme hatasının doğru örneğidir.", "isCorrect": true },
+        { "text": "'Seninle iş çıkışı görüşeceğiz!'", "rationale": "Bu tehdit hatasıdır.", "isCorrect": false },
+        { "text": "'Bunu bir daha yapma.'", "rationale": "Bu uyarı hatasıdır.", "isCorrect": false }
+      ],
+      "hint": "Emir cümlesi nasıl kurulur?"
+    },
+    {
+      "questionNumber": 69,
+      "question": "Kişisel sorunlarla ilgili personele verilen tavsiye hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kişisel sorunlar konuğa anlatılabilir; bu samimiyet yaratır.", "rationale": "Bu yanlış bir ifadedir.", "isCorrect": false },
+        { "text": "Kişisel sorunlar asla konuğa anlatılmamalıdır.", "rationale": "Çalışan kendi özel problemlerini asla konuğa anlatmamalıdır.", "isCorrect": true },
+        { "text": "Kişisel sorunlar yalnızca güvenilen konuklarla paylaşılabilir.", "rationale": "Bu yanlış ve profesyonel olmayan bir yaklaşımdır.", "isCorrect": false },
+        { "text": "Kişisel sorunlar iş verimliliğini etkiliyorsa paylaşılmalıdır.", "rationale": "Bu doğru bir yaklaşım değildir.", "isCorrect": false },
+        { "text": "Kişisel sorunlar yalnızca müdürle paylaşılmalıdır.", "rationale": "Bu ayrı bir konudur; konuğa anlatılmaması ana kuraldır.", "isCorrect": false }
+      ],
+      "hint": "İş hayatı ile kişisel hayat nasıl ayrılmalıdır?"
+    },
+    {
+      "questionNumber": 70,
+      "question": "Hoşgörü ve önyargısızlık iletişim becerisi olarak ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konukların tüm isteklerine evet demek", "rationale": "Bu hoşgörünün tanımı değildir.", "isCorrect": false },
+        { "text": "Kişileri oldukları gibi kabul etmek", "rationale": "Hoşgörü ve önyargısızlık, kişileri oldukları gibi kabul etmektir.", "isCorrect": true },
+        { "text": "Kural dışı davranışları görmezden gelmek", "rationale": "Bu hoşgörünün doğru tanımı değildir.", "isCorrect": false },
+        { "text": "Herkese eşit miktarda zaman ayırmak", "rationale": "Bu hoşgörünün tanımı değildir.", "isCorrect": false },
+        { "text": "Kültürel farklılıklara saygı göstermek", "rationale": "Bu bir sonuç olabilir ancak genel tanım değildir.", "isCorrect": false }
+      ],
+      "hint": "Önyargısız olmak ne demektir?"
+    },
+    {
+      "questionNumber": 71,
+      "question": "Konuk felsefesi açısından 'konuk bize bağımlı değildir' ifadesi ne anlama gelmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuk istediği zaman ayrılabilir.", "rationale": "Bu ifadenin dar yorumudur.", "isCorrect": false },
+        { "text": "Biz (işletme ve çalışanlar) konuğa bağımlıyız.", "rationale": "İfade, asıl bağımlılığın işletme tarafında olduğunu vurgular.", "isCorrect": true },
+        { "text": "Konuğun taleplerini reddetmek mümkündür.", "rationale": "Bu ifadeden çıkarılan doğru sonuç değildir.", "isCorrect": false },
+        { "text": "Konuğun işletmeye gelmesi zorunlu değildir.", "rationale": "Bu ifadenin literal yorumudur, asıl anlam değildir.", "isCorrect": false },
+        { "text": "Konuk başka işletmeleri de tercih edebilir.", "rationale": "Bu doğru bir yorum olsa da ifadenin asıl mesajı değildir.", "isCorrect": false }
+      ],
+      "hint": "Bağımlılık ilişkisinde kim kime muhtaç?"
+    },
+    {
+      "questionNumber": 72,
+      "question": "Tesisin ne kadar lüks olduğundan bağımsız olarak, konuğun memnun olmadığında ne oluyor?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşletme yine de kâr eder.", "rationale": "Bu doğru değildir.", "isCorrect": false },
+        { "text": "Konuk o güzelliği görmez.", "rationale": "Tesis ne kadar lüks olursa olsun, konuk memnun değilse o güzelliği görmez.", "isCorrect": true },
+        { "text": "Konuk yine de memnun ayrılır.", "rationale": "Bu doğru değildir.", "isCorrect": false },
+        { "text": "Konuk şikayetçi olmaz.", "rationale": "Bu doğru değildir.", "isCorrect": false },
+        { "text": "İşletme itibarı korunur.", "rationale": "Bu doğru değildir.", "isCorrect": false }
+      ],
+      "hint": "Fiziksel kalite tek başına yeterli midir?"
+    },
+    {
+      "questionNumber": 73,
+      "question": "Sadık konuk yönetiminde rekabet ortamında en önemli strateji hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Fiyatları düşürmek", "rationale": "Bu belirtilen en önemli strateji değildir.", "isCorrect": false },
+        { "text": "Sadık konukları belirlemek ve korumak", "rationale": "Rekabet ortamında en önemli strateji sadık konukları belirleyip korumaktır.", "isCorrect": true },
+        { "text": "Yeni konuk kampanyaları düzenlemek", "rationale": "Bu önemli olmakla birlikte en kritik strateji değildir.", "isCorrect": false },
+        { "text": "Çevrimiçi pazarlamayı güçlendirmek", "rationale": "Bu belirtilen strateji değildir.", "isCorrect": false },
+        { "text": "Personel sayısını artırmak", "rationale": "Bu belirtilen strateji değildir.", "isCorrect": false }
+      ],
+      "hint": "Var olanı korumak mı, yeni bulmak mı?"
+    },
+    {
+      "questionNumber": 74,
+      "question": "Müşteri sadakati için belirtilen kilit kavramlar hangileridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hız, kalite, fiyat, çeşitlilik", "rationale": "Bu kavramlar belirtilmemiştir.", "isCorrect": false },
+        { "text": "Güvenilirlik, nezaket, çözüm üretmek, ilgilenmek", "rationale": "Sadakat için belirtilen kilit kavramlar bunlardır.", "isCorrect": true },
+        { "text": "Lüks, konfor, hijyen, teknoloji", "rationale": "Bu kavramlar belirtilmemiştir.", "isCorrect": false },
+        { "text": "Pazarlama, reklam, sadakat programı, indirim", "rationale": "Bu kavramlar belirtilmemiştir.", "isCorrect": false },
+        { "text": "Deneyim, bilgi, yetki, ödül", "rationale": "Bu kavramlar belirtilmemiştir.", "isCorrect": false }
+      ],
+      "hint": "Dört kilit kavramı hatırla: güvenilirlik, nezaket, çözüm ve…?"
+    },
+    {
+      "questionNumber": 75,
+      "question": "İletişimde 'eleştiriye açıklık' becerisi nasıl tanımlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Her eleştiriyi doğru kabul etmek", "rationale": "Bu eleştiriye açıklığın tanımı değildir.", "isCorrect": false },
+        { "text": "Geri bildirimleri kişiselleştirmeden kabul etmek", "rationale": "Eleştiriye açıklık, geri bildirimleri kişisel algılamadan kabul etmektir.", "isCorrect": true },
+        { "text": "Her eleştiriye karşı çıkmak", "rationale": "Bu eleştiriye açıklığın tam tersidir.", "isCorrect": false },
+        { "text": "Eleştiriyi yöneticiye bildirmek", "rationale": "Bu eleştiriye açıklığın tanımı değildir.", "isCorrect": false },
+        { "text": "Eleştiriyi not alarak saklamak", "rationale": "Bu eleştiriye açıklığın tanımı değildir.", "isCorrect": false }
+      ],
+      "hint": "Eleştiri aldığında nasıl bir tutum sergilenmeli?"
+    },
+    {
+      "questionNumber": 76,
+      "question": "Konuk için 'ekonomik kaynak' tanımı ne anlama gelmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuk işletmeye yatırım yapandır.", "rationale": "Bu yatırımcı tanımıdır.", "isCorrect": false },
+        { "text": "Maaşınızın ödenmesini sağlayan asıl kişidir.", "rationale": "Konuk, çalışanın maaşının ödenmesini sağlayan kişi olarak tanımlanmaktadır.", "isCorrect": true },
+        { "text": "Konuk işletmeye bağış yapandır.", "rationale": "Bu yanlış bir tanımdır.", "isCorrect": false },
+        { "text": "Konuk devlet desteğini sağlayandır.", "rationale": "Bu yanlış bir tanımdır.", "isCorrect": false },
+        { "text": "Konuk işletmenin ortağıdır.", "rationale": "Bu yanlış bir tanımdır.", "isCorrect": false }
+      ],
+      "hint": "Maaşını kim ödüyor aslında?"
+    },
+    {
+      "questionNumber": 77,
+      "question": "Macera arayan konukların beklentilerine hangi aktiviteler uygundur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kültürel turlar ve müze gezileri", "rationale": "Bu kültür amaçlı konuklar için uygundur.", "isCorrect": false },
+        { "text": "Dini ziyaretler ve camiler", "rationale": "Bu dini amaçlı konuklar için uygundur.", "isCorrect": false },
+        { "text": "Rafting, su altı dalışı, zirve tırmanışı", "rationale": "Macera arayanlar heyecan verici ve tehlikeli faaliyetler beklerler.", "isCorrect": true },
+        { "text": "Tenis ve golf", "rationale": "Bu spor ve sağlık amaçlı konuklar için daha uygundur.", "isCorrect": false },
+        { "text": "Termalizm ve klimatizm", "rationale": "Bu spor ve sağlık amaçlı konuklar için uygundur.", "isCorrect": false }
+      ],
+      "hint": "Heyecan ve tehlike arayanlar ne ister?"
+    },
+    {
+      "questionNumber": 78,
+      "question": "'Taklit ve gösteriş meraklısı' konuklar ne beklemektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sessiz ve sakin bir tatil", "rationale": "Bu dinlenme amaçlı konuklar içindir.", "isCorrect": false },
+        { "text": "Kendilerine farklı ve gösterişli davranılması, dönüşte anlatabilecekleri bir hizmet", "rationale": "Bu konuklar statü sembolü arar ve anlatabilecekleri gösterişli deneyimler isterler.", "isCorrect": true },
+        { "text": "Kültürel keşifler", "rationale": "Bu kültür amaçlı konuklar içindir.", "isCorrect": false },
+        { "text": "Sağlık ve spa hizmetleri", "rationale": "Bu spor ve sağlık amaçlı konuklar içindir.", "isCorrect": false },
+        { "text": "Ekonomik ve sade hizmet", "rationale": "Bu bu konuk tipinin beklentisiyle çelişir.", "isCorrect": false }
+      ],
+      "hint": "Bu konuklar dönüşte arkadaşlarına ne anlatmak ister?"
+    },
+    {
+      "questionNumber": 79,
+      "question": "İletişimde 'kendini tanıma' becerisi ne anlama gelmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "CV'ni ve iş deneyimini bilmek", "rationale": "Bu kariyer bilgisiyle ilgilidir, iletişim becerisi değildir.", "isCorrect": false },
+        { "text": "Kendi tepkilerini ve sınırlarını bilmek", "rationale": "Kendini tanıma, kendi tepkilerini ve sınırlarını bilmektir.", "isCorrect": true },
+        { "text": "Kişilik testleri yapmak", "rationale": "Bu bir araçtır, becerinin tanımı değildir.", "isCorrect": false },
+        { "text": "Güçlü yönlerini listelemek", "rationale": "Bu bir sonuç olabilir, becerinin tanımı değildir.", "isCorrect": false },
+        { "text": "Mesleki yetkinliklerini bilmek", "rationale": "Bu mesleki yeterlilikle ilgilidir.", "isCorrect": false }
+      ],
+      "hint": "Kişinin kendi iç dünyasıyla ilgili ne bilmesi gerekir?"
+    },
+    {
+      "questionNumber": 80,
+      "question": "Dinlenme ve eğlenme amaçlı konuklar neyi istemezler?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sakin ortam", "rationale": "Sakin ortam bu konukların istediği bir şeydir.", "isCorrect": false },
+        { "text": "Hoşgörülü yaklaşım", "rationale": "Bu konukların istediği bir şeydir.", "isCorrect": false },
+        { "text": "Katı kurallar, bürokrasi ve form doldurma", "rationale": "Dinlenme amaçlı konuklar katı kurallardan, bürokratik işlemlerden ve form doldurmaktan sıkılır.", "isCorrect": true },
+        { "text": "Eğlence imkanları", "rationale": "Bu konukların istediği bir şeydir.", "isCorrect": false },
+        { "text": "Gürültüsüz ortam", "rationale": "Bu konukların istediği bir şeydir.", "isCorrect": false }
+      ],
+      "hint": "Tatile gelen biri ofis ortamı ister mi?"
+    },
+    {
+      "questionNumber": 81,
+      "question": "Ders kapsamında incelenen temel konular arasında 'Misafir İlişkileri Yönetimi' hangi kısaltmayla ifade edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "GRM", "rationale": "Bu doğru kısaltma değildir.", "isCorrect": false },
+        { "text": "MRM", "rationale": "Bu doğru kısaltma değildir.", "isCorrect": false },
+        { "text": "CRM", "rationale": "Misafir İlişkileri Yönetimi CRM (Customer Relationship Management) kısaltmasıyla ifade edilir.", "isCorrect": true },
+        { "text": "GMS", "rationale": "Bu doğru kısaltma değildir.", "isCorrect": false },
+        { "text": "HRM", "rationale": "HRM İnsan Kaynakları Yönetimi anlamına gelir.", "isCorrect": false }
+      ],
+      "hint": "Customer Relationship Management'ın kısaltması nedir?"
+    },
+    {
+      "questionNumber": 82,
+      "question": "İletişim hatalarından 'alay etmek' ne şekilde gerçekleşir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Konuğun isteklerini reddederek", "rationale": "Bu farklı bir hata türüdür.", "isCorrect": false },
+        { "text": "İsim takmak veya küçümsemek", "rationale": "Alay etmek, isim takmak veya küçümsemek şeklinde gerçekleşir.", "isCorrect": true },
+        { "text": "Konuğu bekletmek", "rationale": "Bu farklı bir hata türüdür.", "isCorrect": false },
+        { "text": "Konuya saptırmak", "rationale": "Bu farklı bir hata türüdür.", "isCorrect": false },
+        { "text": "Konuğu tehdit etmek", "rationale": "Bu farklı bir hata türüdür.", "isCorrect": false }
+      ],
+      "hint": "Birine lakap takmak hangi hataya girer?"
+    },
+    {
+      "questionNumber": 83,
+      "question": "Güvenlik beklentisi bağlamında konuğun yabancı bir yerde güvensizlik hissini atmak için ne aradığı belirtilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çok sayıda güvenlik personeli", "rationale": "Bu spesifik bir beklenti olsa da belirtilen genel beklenti değildir.", "isCorrect": false },
+        { "text": "Güvenli bir ortam", "rationale": "Yabancı olmanın verdiği güvensizliği atmak için güvenli bir ortam aranır.", "isCorrect": true },
+        { "text": "Kilitli bir oda", "rationale": "Bu güvenliğin bir parçasıdır ama genel tanım değildir.", "isCorrect": false },
+        { "text": "Yüksek duvarlı bir tesis", "rationale": "Bu belirtilen beklenti değildir.", "isCorrect": false },
+        { "text": "Tanıdık bir rehber", "rationale": "Bu belirtilen genel beklenti değildir.", "isCorrect": false }
+      ],
+      "hint": "Yabancı ortamda insanlar neye ihtiyaç duyar?"
+    },
+    {
+      "questionNumber": 84,
+      "question": "İşletme konuklarını kaybetme istatistiğinde 'ürün konusunda hayal kırıklığı' kaçıncı sıradadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Birinci (%68)", "rationale": "Birinci sıra hizmetten tatmin olmamadır.", "isCorrect": false },
+        { "text": "İkinci (%14)", "rationale": "Ürün konusunda hayal kırıklığı %14 ile ikinci sıradadır.", "isCorrect": true },
+        { "text": "Üçüncü (%9)", "rationale": "Üçüncü sıra fiyatların yüksek bulunmasıdır.", "isCorrect": false },
+        { "text": "Dördüncü (%5)", "rationale": "Dördüncü sıra yeni alışkanlıklar edinilmesidir.", "isCorrect": false },
+        { "text": "Beşinci (%3)", "rationale": "Beşinci sıra taşınma/adres değişikliğidir.", "isCorrect": false }
+      ],
+      "hint": "%14 hangi sebebe karşılık gelir?"
+    },
+    {
+      "questionNumber": 85,
+      "question": "Aşağıdakilerden hangisi 'iletişim sürecinde dikkat edilmesi gereken 7 husus' arasında yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kendini tanıma", "rationale": "Bu 7 husus arasında yer alır.", "isCorrect": false },
+        { "text": "Aktif dinleme", "rationale": "Bu 7 husus arasında yer alır.", "isCorrect": false },
+        { "text": "Empati", "rationale": "Bu 7 husus arasında yer alır.", "isCorrect": false },
+        { "text": "Hızlı karar verme", "rationale": "Bu 7 husus arasında belirtilmemiştir.", "isCorrect": true },
+        { "text": "Eleştiriye açıklık", "rationale": "Bu 7 husus arasında yer alır.", "isCorrect": false }
+      ],
+      "hint": "Listede olmayan hangisi?"
+    },
+    {
+      "questionNumber": 86,
+      "question": "'Kendini doğru ifade etme' becerisi ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uzun ve detaylı açıklamalar yapabilmek", "rationale": "Bu tanım değildir.", "isCorrect": false },
+        { "text": "Kendini net ve anlaşılır şekilde anlatabilmek", "rationale": "Kendini doğru ifade etmek, net ve anlaşılır biçimde anlatabilmektir.", "isCorrect": true },
+        { "text": "Her durumda söz hakkı talep edebilmek", "rationale": "Bu tanım değildir.", "isCorrect": false },
+        { "text": "Teknik terminolojiyi etkin kullanabilmek", "rationale": "Bu tam tersi bir yaklaşım gerektirir.", "isCorrect": false },
+        { "text": "Hızlı konuşabilmek", "rationale": "Bu tanım değildir.", "isCorrect": false }
+      ],
+      "hint": "Karşı tarafın anlayabileceği şekilde kendini anlatmak…"
+    },
+    {
+      "questionNumber": 87,
+      "question": "Konukların yanında misafire ait bilgilerin üçüncü şahıslarla paylaşılması ne açısından sorun oluşturur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşletmenin tanıtımı açısından", "rationale": "Bu açıdan değil.", "isCorrect": false },
+        { "text": "Gizlilik ve mahremiyet açısından", "rationale": "Misafir bilgilerinin paylaşılmaması gizlilik ve mahremiyet açısından temel kuraldır.", "isCorrect": true },
+        { "text": "Personel motivasyonu açısından", "rationale": "Bu doğru değildir.", "isCorrect": false },
+        { "text": "İş birimi koordinasyonu açısından", "rationale": "Bu doğru değildir.", "isCorrect": false },
+        { "text": "Finansal kayıt tutma açısından", "rationale": "Bu doğru değildir.", "isCorrect": false }
+      ],
+      "hint": "Gizlilik otelciliğin neresinde durur?"
+    },
+    {
+      "questionNumber": 88,
+      "question": "Konuğa 'iyi hizmet verilmekte' ancak konuk 'özel hissetmiyorsa' bu hangi hizmet kategorisine girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Profesyonel hizmet", "rationale": "Profesyonel hizmet konuğu özel hissettirmelidir.", "isCorrect": false },
+        { "text": "Mükemmel hizmet", "rationale": "Mükemmel hizmet konukta iz bırakır.", "isCorrect": false },
+        { "text": "Yeterli hizmet", "rationale": "Eksik olmayan ama konuğu özel hissettirmeyen hizmet yeterli hizmet kategorisindedir.", "isCorrect": true },
+        { "text": "Standart dışı hizmet", "rationale": "Bu bir kategori değildir.", "isCorrect": false },
+        { "text": "Kabul edilemez hizmet", "rationale": "Bu daha kötü bir kategoridir.", "isCorrect": false }
+      ],
+      "hint": "Eksiksiz ama sıradan hizmet hangisidir?"
+    },
+    {
+      "questionNumber": 89,
+      "question": "İşletme çalışanlarının konukların yanında yüksek sesle konuşmaması hangi kuralla ilgilidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Güvenlik kuralı", "rationale": "Bu doğrudan güvenlikle ilgili değildir.", "isCorrect": false },
+        { "text": "İş arkadaşlarıyla iletişim kuralı", "rationale": "Konukların yanında yüksek sesle konuşmamak, iş arkadaşlarıyla iletişim kuralları kapsamındadır.", "isCorrect": true },
+        { "text": "Telefon iletişimi kuralı", "rationale": "Bu doğrudan telefon kuralıyla ilgili değildir.", "isCorrect": false },
+        { "text": "Hijyen kuralı", "rationale": "Bu hijyenle ilgili değildir.", "isCorrect": false },
+        { "text": "Kıyafet kuralı", "rationale": "Bu kıyafetle ilgili değildir.", "isCorrect": false }
+      ],
+      "hint": "Konuğun yanında iş arkadaşlarıyla nasıl davranılmalı?"
+    },
+    {
+      "questionNumber": 90,
+      "question": "Negatif çarpan etkisi kavramı ne anlama gelmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Hizmet maliyetlerinin giderek artması", "rationale": "Bu negatif çarpan etkisinin tanımı değildir.", "isCorrect": false },
+        { "text": "Memnuniyetsiz konukların memnuniyetsizliğini başkalarına yayması ve işletme itibarını zedelemesi", "rationale": "Memnuniyetsiz konuk 10 kişiye anlatır; bu negatif bir çarpan etkisi yaratır.", "isCorrect": true },
+        { "text": "Personel verimliliğinin düşmesi", "rationale": "Bu negatif çarpan etkisinin tanımı değildir.", "isCorrect": false },
+        { "text": "Konuk sayısının azalması", "rationale": "Bu bir sonuçtur, tanım değildir.", "isCorrect": false },
+        { "text": "İşletme giderlerinin artması", "rationale": "Bu negatif çarpan etkisinin tanımı değildir.", "isCorrect": false }
+      ],
+      "hint": "10 kişiye anlatma nasıl bir etki yaratır?"
+    },
+    {
+      "questionNumber": 91,
+      "question": "Profesyonel hizmetin amaçları arasında 'kulaktan kulağa pazarlama' nasıl gerçekleşir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Reklam kampanyaları aracılığıyla", "rationale": "Bu geleneksel pazarlamadır, kulaktan kulağa değil.", "isCorrect": false },
+        { "text": "Memnun konukların olumlu deneyimlerini başkalarına aktarmasıyla", "rationale": "Olumlu imajın yayılması, memnun konukların başkalarına anlatmasıyla gerçekleşir.", "isCorrect": true },
+        { "text": "Sosyal medya paylaşımlarıyla", "rationale": "Bu dijital pazarlamadır, klasik kulaktan kulağa değil.", "isCorrect": false },
+        { "text": "Turizm fuarlarına katılımla", "rationale": "Bu farklı bir pazarlama yöntemidir.", "isCorrect": false },
+        { "text": "Personelin akrabalarına tavsiye etmesiyle", "rationale": "Bu belirtilen yöntem değildir.", "isCorrect": false }
+      ],
+      "hint": "Memnun konuk ne yapar?"
+    },
+    {
+      "questionNumber": 92,
+      "question": "Sert, donuk veya tepkisiz bir yüz ifadesi neden kaçınılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşletme itibarını zedeler.", "rationale": "Bu bir sonuç olabilir ancak doğrudan belirtilen sebep değildir.", "isCorrect": false },
+        { "text": "Konuğa hoş geldiniz mesajı veremez ve iletişimi olumsuz başlatır.", "rationale": "Gülümseme ve doğal ifade, konuğu karşılamanın en iyi yoludur; olumsuz yüz ifadeleri bu mesajı veremez.", "isCorrect": true },
+        { "text": "Personelin yorgun göründüğünü belli eder.", "rationale": "Bu doğrudan belirtilen sebep değildir.", "isCorrect": false },
+        { "text": "Yönetim tarafından ceza gerektirir.", "rationale": "Bu belirtilen sebep değildir.", "isCorrect": false },
+        { "text": "Konuğun şikayet etmesine neden olur.", "rationale": "Bu olabilir ancak doğrudan belirtilen sebep değildir.", "isCorrect": false }
+      ],
+      "hint": "Yüz ifadesi konuğa ne mesajı verir?"
+    },
+    {
+      "questionNumber": 93,
+      "question": "Spor ve sağlık amaçlı konukların beklentilerine uyan hizmetler hangileridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Dini ziyaretler ve ibadet alanları", "rationale": "Bu dini amaçlı konuklar içindir.", "isCorrect": false },
+        { "text": "Halk oyunları ve milli kıyafetler", "rationale": "Bu kültür amaçlı konuklar içindir.", "isCorrect": false },
+        { "text": "Tenis, golf, sörf veya termal kaynaklar", "rationale": "Spor ve sağlık amaçlı konuklar bu imkanları beklerler.", "isCorrect": true },
+        { "text": "Rafting ve zirve tırmanışı", "rationale": "Bunlar macera arayanlar içindir.", "isCorrect": false },
+        { "text": "Gösterişli oda ve özel servis", "rationale": "Bu taklit ve gösteriş meraklıları içindir.", "isCorrect": false }
+      ],
+      "hint": "Termalizm ve klimatizm hangi konuk tipi için?"
+    },
+    {
+      "questionNumber": 94,
+      "question": "Personelin konukla 'fazla samimi' olmaması neden önerilmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Aşırı samimiyet konuğu rahatsız edebilir ve profesyonel sınırları ortadan kaldırabilir.", "rationale": "Profesyonel mesafe korunmalı; fazla samimi olmaktan kaçınılmalıdır.", "isCorrect": true },
+        { "text": "Konuk şikayet edebilir.", "rationale": "Bu doğrudan belirtilen sebep değildir.", "isCorrect": false },
+        { "text": "Yönetim uyarı verebilir.", "rationale": "Bu doğrudan belirtilen sebep değildir.", "isCorrect": false },
+        { "text": "Konuk daha fazla talepte bulunabilir.", "rationale": "Bu doğrudan belirtilen sebep değildir.", "isCorrect": false },
+        { "text": "Diğer konuklar kıskanabilir.", "rationale": "Bu belirtilen sebep değildir.", "isCorrect": false }
+      ],
+      "hint": "Samimilik neden sınırlı tutulmalıdır?"
+    },
+    {
+      "questionNumber": 95,
+      "question": "Tebessümün 'içten' olması neden bu kadar önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İçten gülümseme daha uzun sürer.", "rationale": "Bu doğru bir sebep değildir.", "isCorrect": false },
+        { "text": "Misafir hizmetin gönülden yapıldığını hisseder.", "rationale": "Misafir, hizmetin gönülden ve içtenlikle yapıldığını hissedebilmesi için tebessüm içten olmalıdır.", "isCorrect": true },
+        { "text": "İçten gülümseme daha çok bahşiş getirir.", "rationale": "Bu doğrudan belirtilen sebep değildir.", "isCorrect": false },
+        { "text": "Yönetim daha çok beğenir.", "rationale": "Bu doğrudan belirtilen sebep değildir.", "isCorrect": false },
+        { "text": "İşletme imajını güçlendirir.", "rationale": "Bu bir sonuç olabilir ama doğrudan sebep değildir.", "isCorrect": false }
+      ],
+      "hint": "Yapay gülümseme ne hissettirmez?"
+    },
+    {
+      "questionNumber": 96,
+      "question": "Aşağıdakilerden hangisi 'savunmacı veya açıklayıcı görünse de kaçınılması gereken' ifadeler kategorisindedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "'Bilmem ki...'", "rationale": "Bu özgüvensizlik kategorisindedir.", "isCorrect": false },
+        { "text": "'Bana kalırsa...'", "rationale": "Bu özgüvensizlik kategorisindedir.", "isCorrect": false },
+        { "text": "'Üç aşağı beş yukarı...'", "rationale": "Bu, savunmacı/açıklayıcı görünen ama kaçınılması gereken ifadeler kategorisindedir.", "isCorrect": true },
+        { "text": "'Size bir öğüt vermek isterim.'", "rationale": "Bu çok bilmişlik göstergesidir.", "isCorrect": false },
+        { "text": "'Deneyimlerime dayanarak söyleyebilirim ki...'", "rationale": "Bu çok bilmişlik göstergesidir.", "isCorrect": false }
+      ],
+      "hint": "Yaklaşık anlamına gelen bu ifade hangi kategoride?"
+    },
+    {
+      "questionNumber": 97,
+      "question": "Misafirin konuşması bitmeden ne yapılmamalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Not alınmamalıdır.", "rationale": "Not almak dinlemenin bir parçasıdır.", "isCorrect": false },
+        { "text": "Sözü kesilmemelidir.", "rationale": "Misafirin konuşması bitene kadar sabırla dinlenmelidir, söz kesilmemelidir.", "isCorrect": true },
+        { "text": "Başka birime havale edilmemelidir.", "rationale": "Bu ayrı bir kuraldır.", "isCorrect": false },
+        { "text": "Cevap verilmemelidir.", "rationale": "Bu aşırı bir yorum, doğru kural değildir.", "isCorrect": false },
+        { "text": "Göz teması kesilmemelidir.", "rationale": "Bu doğru olmakla birlikte 'söz kesme' kuralından farklıdır.", "isCorrect": false }
+      ],
+      "hint": "Aktif dinlemenin temel kuralı nedir?"
+    },
+    {
+      "questionNumber": 98,
+      "question": "'Şüphesiz!' ifadesinden neden kaçınılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yanlış Türkçe kullanımıdır.", "rationale": "Dilbilgisi sorunu değildir.", "isCorrect": false },
+        { "text": "Savunmacı veya gereksiz açıklayıcı bir ifade olarak iletişimi olumsuz etkiler.", "rationale": "Bu ifade, savunmacı ve kaçınılması gereken ifadeler kategorisindedir.", "isCorrect": true },
+        { "text": "Konuğu küçümseyici bir ifadedir.", "rationale": "Doğrudan küçümseme değildir.", "isCorrect": false },
+        { "text": "Tehdit içerir.", "rationale": "Tehdit içermez.", "isCorrect": false },
+        { "text": "Özgüvensizliği yansıtır.", "rationale": "Bu farklı bir kategoridir.", "isCorrect": false }
+      ],
+      "hint": "Bu ifade hangi kaçınılması gereken kategoriye giriyor?"
+    },
+    {
+      "questionNumber": 99,
+      "question": "Hizmet kişiye özel olduğu ilkesi bağlamında, personelin her konuğa yaklaşımı nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Her konuğa aynı standart yaklaşım sergilenmeli", "rationale": "Bu ilkeyle çelişir.", "isCorrect": false },
+        { "text": "Her konuğun mizacı ve beklentisine göre farklı yaklaşım sergilenmeli", "rationale": "Hizmet kişiye özel olduğundan her konuğa uygun farklı yaklaşım sergilenmeli.", "isCorrect": true },
+        { "text": "Yalnızca VIP konuklara özel yaklaşım gösterilmeli", "rationale": "Bu eşitlik ilkesiyle çelişir.", "isCorrect": false },
+        { "text": "Kültürel kökenine göre yaklaşım belirlenmeli", "rationale": "Bu önyargı oluşturabilir ve doğru yaklaşım değildir.", "isCorrect": false },
+        { "text": "Tüm konuklara aynı şekilde davranmak eşitlik ilkesi gereğidir.", "rationale": "Eşitlik hor görmemek demektir, aynı yaklaşımı sergilemek değil.", "isCorrect": false }
+      ],
+      "hint": "Bir konuk için uygun olan diğeri için neden uygun olmayabilir?"
+    },
+    {
+      "questionNumber": 100,
+      "question": "Konuk ilişkileri kapsamında 'negatif çarpan etkisi' ile 'yeni konuk edinme maliyeti' arasındaki ilişki nasıl açıklanabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Birbirinden bağımsız kavramlardır.", "rationale": "Bu doğru değildir; her ikisi de müşteri yönetiminin kritik unsurlarıdır.", "isCorrect": false },
+        { "text": "Her ikisi de mevcut konukları memnun tutmanın stratejik önemini vurgular.", "rationale": "Memnuniyetsiz konuk 10 kişiye anlatır (negatif çarpan); yeni konuk edinmek daha pahalıdır. Her iki kavram da mevcut konuğu korumanın kritik olduğunu gösterir.", "isCorrect": true },
+        { "text": "Negatif çarpan etkisi yeni konuk maliyetini düşürür.", "rationale": "Bu yanlış bir ilişkidir.", "isCorrect": false },
+        { "text": "Yeni konuk edinme maliyeti negatif çarpanı önler.", "rationale": "Bu yanlış bir ilişkidir.", "isCorrect": false },
+        { "text": "Yalnızca büyük oteller için geçerlidir.", "rationale": "Bu doğru değildir.", "isCorrect": false }
+      ],
+      "hint": "Her iki kavram da mevcut konuğu korumanın neden önemli olduğunu gösterir."
+    }
+  ]
+}

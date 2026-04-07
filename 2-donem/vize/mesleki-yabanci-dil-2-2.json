@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Guest: I ___ a single room, please.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "want", "rationale": "Too direct.", "isCorrect": false},
+        {"text": "will", "rationale": "Used for promises.", "isCorrect": false},
+        {"text": "would like", "rationale": "Polite request.", "isCorrect": true},
+        {"text": "am", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "like", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "Use the polite form for requests in hotels."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Staff: ___ you like a single or a double room?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Will", "rationale": "Not for offers.", "isCorrect": false},
+        {"text": "Do", "rationale": "Not polite offer.", "isCorrect": false},
+        {"text": "Are", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "Can", "rationale": "Shows ability.", "isCorrect": false},
+        {"text": "Would", "rationale": "Polite offer.", "isCorrect": true}
+      ],
+      "hint": "Polite question for offering options."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Staff: I ___ check the availability right now.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "would", "rationale": "For requests.", "isCorrect": false},
+        {"text": "will", "rationale": "Instant decision/action.", "isCorrect": true},
+        {"text": "am", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "want", "rationale": "Not professional.", "isCorrect": false},
+        {"text": "going", "rationale": "Missing 'am'.", "isCorrect": false}
+      ],
+      "hint": "Action decided at the moment of speaking."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Staff: I ___ send you an email confirmation.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "will", "rationale": "Promise/action.", "isCorrect": true},
+        {"text": "would like", "rationale": "Not for actions.", "isCorrect": false},
+        {"text": "want to", "rationale": "Not professional.", "isCorrect": false},
+        {"text": "do", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "am", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "Staff promising an action."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Staff: We ___ charge you for the cancellation.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "wouldn't", "rationale": "Conditionals.", "isCorrect": false},
+        {"text": "don't", "rationale": "Present simple.", "isCorrect": false},
+        {"text": "aren't", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "won't", "rationale": "Future negative (will not).", "isCorrect": true},
+        {"text": "haven't", "rationale": "Perfect tense.", "isCorrect": false}
+      ],
+      "hint": "Negative future promise."
+    },
+    {
+      "questionNumber": 6,
+      "question": "A room with two separate beds is called a ___ room.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "single", "rationale": "One bed.", "isCorrect": false},
+        {"text": "double", "rationale": "One big bed.", "isCorrect": false},
+        {"text": "twin", "rationale": "Two separate beds.", "isCorrect": true},
+        {"text": "suite", "rationale": "Luxury room.", "isCorrect": false},
+        {"text": "family", "rationale": "Multiple beds.", "isCorrect": false}
+      ],
+      "hint": "Think of 'twins'."
+    },
+    {
+      "questionNumber": 7,
+      "question": "A room for one person is a ___ room.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "double", "rationale": "For two.", "isCorrect": false},
+        {"text": "single", "rationale": "For one.", "isCorrect": true},
+        {"text": "twin", "rationale": "Two beds.", "isCorrect": false},
+        {"text": "king", "rationale": "Big bed.", "isCorrect": false},
+        {"text": "triple", "rationale": "For three.", "isCorrect": false}
+      ],
+      "hint": "Means 'one'."
+    },
+    {
+      "questionNumber": 8,
+      "question": "To make a reservation means to ___ a room.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "cancel", "rationale": "Opposite meaning.", "isCorrect": false},
+        {"text": "check", "rationale": "Just looking.", "isCorrect": false},
+        {"text": "book", "rationale": "Synonym for reserve.", "isCorrect": true},
+        {"text": "clean", "rationale": "Housekeeping job.", "isCorrect": false},
+        {"text": "leave", "rationale": "Departing.", "isCorrect": false}
+      ],
+      "hint": "Synonym for reserve."
+    },
+    {
+      "questionNumber": 9,
+      "question": "If you cannot come to the hotel, you should ___ your reservation.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "book", "rationale": "To make one.", "isCorrect": false},
+        {"text": "confirm", "rationale": "To say yes.", "isCorrect": false},
+        {"text": "extend", "rationale": "Make longer.", "isCorrect": false},
+        {"text": "cancel", "rationale": "To stop/drop it.", "isCorrect": true},
+        {"text": "pay", "rationale": "Give money.", "isCorrect": false}
+      ],
+      "hint": "To delete the booking."
+    },
+    {
+      "questionNumber": 10,
+      "question": "The day you leave the hotel is the ___ date.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "check-in", "rationale": "Arrival.", "isCorrect": false},
+        {"text": "check-out", "rationale": "Departure.", "isCorrect": true},
+        {"text": "booking", "rationale": "Reservation day.", "isCorrect": false},
+        {"text": "birth", "rationale": "Irrelevant.", "isCorrect": false},
+        {"text": "flight", "rationale": "Travel day.", "isCorrect": false}
+      ],
+      "hint": "Going out of the hotel."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Guest: I need a room ___ two nights.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "on", "rationale": "For days.", "isCorrect": false},
+        {"text": "at", "rationale": "For hours.", "isCorrect": false},
+        {"text": "from", "rationale": "Starting point.", "isCorrect": false},
+        {"text": "for", "rationale": "Duration.", "isCorrect": true},
+        {"text": "in", "rationale": "For months/years.", "isCorrect": false}
+      ],
+      "hint": "Indicates duration."
+    },
+    {
+      "questionNumber": 12,
+      "question": "The reservation is ___ May 10th to May 12th.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "at", "rationale": "For time.", "isCorrect": false},
+        {"text": "for", "rationale": "For duration.", "isCorrect": false},
+        {"text": "from", "rationale": "Starting date.", "isCorrect": true},
+        {"text": "on", "rationale": "Single day.", "isCorrect": false},
+        {"text": "in", "rationale": "For months.", "isCorrect": false}
+      ],
+      "hint": "Used with 'to'."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Your meeting is ___ Monday.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "in", "rationale": "For months.", "isCorrect": false},
+        {"text": "on", "rationale": "For days of the week.", "isCorrect": true},
+        {"text": "at", "rationale": "For clock time.", "isCorrect": false},
+        {"text": "for", "rationale": "For duration.", "isCorrect": false},
+        {"text": "from", "rationale": "Starting point.", "isCorrect": false}
+      ],
+      "hint": "Preposition for days."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Breakfast starts ___ 7 a.m.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "in", "rationale": "For months/parts of day.", "isCorrect": false},
+        {"text": "on", "rationale": "For days.", "isCorrect": false},
+        {"text": "at", "rationale": "For exact time.", "isCorrect": true},
+        {"text": "for", "rationale": "Duration.", "isCorrect": false},
+        {"text": "to", "rationale": "Direction.", "isCorrect": false}
+      ],
+      "hint": "Preposition for hours."
+    },
+    {
+      "questionNumber": 15,
+      "question": "How do you read the date '12/05'?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Twelve May", "rationale": "Missing ordinal.", "isCorrect": false},
+        {"text": "May twelve", "rationale": "Missing ordinal.", "isCorrect": false},
+        {"text": "May twelfth", "rationale": "Correct ordinal format.", "isCorrect": true},
+        {"text": "The twelve of May", "rationale": "Missing ordinal.", "isCorrect": false},
+        {"text": "May second", "rationale": "Wrong number.", "isCorrect": false}
+      ],
+      "hint": "Use ordinal numbers (th)."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Telephoning: Please ___ the line.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "wait", "rationale": "Not standard phrase.", "isCorrect": false},
+        {"text": "keep", "rationale": "Not standard phrase.", "isCorrect": false},
+        {"text": "hold", "rationale": "Standard telephone phrase.", "isCorrect": true},
+        {"text": "stop", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "stay", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Means wait on the phone."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Telephoning: One ___, please.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "second", "rationale": "Informal.", "isCorrect": false},
+        {"text": "minute", "rationale": "Less common.", "isCorrect": false},
+        {"text": "moment", "rationale": "Professional phrase.", "isCorrect": true},
+        {"text": "hour", "rationale": "Too long.", "isCorrect": false},
+        {"text": "time", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Professional way to ask someone to wait."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Telephoning: I will ___ your call to the reception.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "give", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "send", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "transfer", "rationale": "Correct term for connecting.", "isCorrect": true},
+        {"text": "move", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "take", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Connecting the call to another phone."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Telephoning: Would you like to ___ a message?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "drop", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "leave", "rationale": "Standard phrase.", "isCorrect": true},
+        {"text": "put", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "say", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "make", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Action when the person is not available."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Telephoning: I'm afraid you have the ___ number.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "bad", "rationale": "Not standard.", "isCorrect": false},
+        {"text": "false", "rationale": "Not standard.", "isCorrect": false},
+        {"text": "wrong", "rationale": "Standard phrase.", "isCorrect": true},
+        {"text": "mistake", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "other", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "When they call a different place by mistake."
+    },
+    {
+      "questionNumber": 21,
+      "question": "___ a restaurant in the hotel.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "There are", "rationale": "Plural.", "isCorrect": false},
+        {"text": "There is", "rationale": "Singular affirmative.", "isCorrect": true},
+        {"text": "Is there", "rationale": "Question.", "isCorrect": false},
+        {"text": "There aren't", "rationale": "Plural negative.", "isCorrect": false},
+        {"text": "There isn't", "rationale": "Singular negative.", "isCorrect": false}
+      ],
+      "hint": "Singular subject (a restaurant)."
+    },
+    {
+      "questionNumber": 22,
+      "question": "___ two elevators in the lobby.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "There is", "rationale": "Singular.", "isCorrect": false},
+        {"text": "There are", "rationale": "Plural affirmative.", "isCorrect": true},
+        {"text": "Are there", "rationale": "Question.", "isCorrect": false},
+        {"text": "There isn't", "rationale": "Singular negative.", "isCorrect": false},
+        {"text": "There be", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "Plural subject (two elevators)."
+    },
+    {
+      "questionNumber": 23,
+      "question": "___ a gym on the ground floor.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "There is", "rationale": "Singular.", "isCorrect": true},
+        {"text": "There are", "rationale": "Plural.", "isCorrect": false},
+        {"text": "Is there", "rationale": "Question.", "isCorrect": false},
+        {"text": "Are there", "rationale": "Plural question.", "isCorrect": false},
+        {"text": "There wasn't", "rationale": "Past tense.", "isCorrect": false}
+      ],
+      "hint": "Singular subject (a gym)."
+    },
+    {
+      "questionNumber": 24,
+      "question": "___ any parking spaces left?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "There are", "rationale": "Not a question.", "isCorrect": false},
+        {"text": "There is", "rationale": "Not a question.", "isCorrect": false},
+        {"text": "Is there", "rationale": "Singular question.", "isCorrect": false},
+        {"text": "Are there", "rationale": "Plural question.", "isCorrect": true},
+        {"text": "There aren't", "rationale": "Negative statement.", "isCorrect": false}
+      ],
+      "hint": "Question form for plural."
+    },
+    {
+      "questionNumber": 25,
+      "question": "No, there ___ a swimming pool in this hotel.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "isn't", "rationale": "Singular negative.", "isCorrect": true},
+        {"text": "aren't", "rationale": "Plural negative.", "isCorrect": false},
+        {"text": "is", "rationale": "Affirmative.", "isCorrect": false},
+        {"text": "are", "rationale": "Plural affirmative.", "isCorrect": false},
+        {"text": "am not", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "Negative singular."
+    },
+    {
+      "questionNumber": 26,
+      "question": "There is ___ space in the lobby.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "many", "rationale": "For countable.", "isCorrect": false},
+        {"text": "a lot of", "rationale": "For uncountable/countable.", "isCorrect": true},
+        {"text": "few", "rationale": "For countable.", "isCorrect": false},
+        {"text": "any", "rationale": "For negatives/questions.", "isCorrect": false},
+        {"text": "much of", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "Space is uncountable. Affirmative sentence."
+    },
+    {
+      "questionNumber": 27,
+      "question": "There isn't ___ noise in the room.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "many", "rationale": "For countable.", "isCorrect": false},
+        {"text": "much", "rationale": "For uncountable in negative.", "isCorrect": true},
+        {"text": "some", "rationale": "For affirmative.", "isCorrect": false},
+        {"text": "a few", "rationale": "For countable.", "isCorrect": false},
+        {"text": "lots", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "Noise is uncountable."
+    },
+    {
+      "questionNumber": 28,
+      "question": "There are ___ tourists in the city center today.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "much", "rationale": "For uncountable.", "isCorrect": false},
+        {"text": "a lot", "rationale": "Missing 'of'.", "isCorrect": false},
+        {"text": "many", "rationale": "For countable plural.", "isCorrect": true},
+        {"text": "any", "rationale": "For negative.", "isCorrect": false},
+        {"text": "little", "rationale": "For uncountable.", "isCorrect": false}
+      ],
+      "hint": "Tourists are countable."
+    },
+    {
+      "questionNumber": 29,
+      "question": "We don't have ___ information about the tour.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "many", "rationale": "Information is uncountable.", "isCorrect": false},
+        {"text": "much", "rationale": "Uncountable in negative.", "isCorrect": true},
+        {"text": "a few", "rationale": "For countable.", "isCorrect": false},
+        {"text": "some", "rationale": "For affirmative.", "isCorrect": false},
+        {"text": "lots", "rationale": "Missing 'of'.", "isCorrect": false}
+      ],
+      "hint": "Information is uncountable."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Are there ___ cafes near the hotel?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "much", "rationale": "For uncountable.", "isCorrect": false},
+        {"text": "many", "rationale": "Countable plural in question.", "isCorrect": true},
+        {"text": "a little", "rationale": "For uncountable.", "isCorrect": false},
+        {"text": "some", "rationale": "Less common in open questions.", "isCorrect": false},
+        {"text": "lot", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "Cafes are countable."
+    },
+    {
+      "questionNumber": 31,
+      "question": "You can wash your clothes using the ___ service.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "room", "rationale": "For food.", "isCorrect": false},
+        {"text": "cleaning", "rationale": "General cleaning.", "isCorrect": false},
+        {"text": "laundry", "rationale": "For washing clothes.", "isCorrect": true},
+        {"text": "spa", "rationale": "For relaxing.", "isCorrect": false},
+        {"text": "shuttle", "rationale": "For transport.", "isCorrect": false}
+      ],
+      "hint": "Facility for clothes."
+    },
+    {
+      "questionNumber": 32,
+      "question": "You can order food to your room using ___ service.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "laundry", "rationale": "For clothes.", "isCorrect": false},
+        {"text": "room", "rationale": "Food to room.", "isCorrect": true},
+        {"text": "bellboy", "rationale": "For luggage.", "isCorrect": false},
+        {"text": "cleaning", "rationale": "Housekeeping.", "isCorrect": false},
+        {"text": "reception", "rationale": "Front desk.", "isCorrect": false}
+      ],
+      "hint": "Eating in the room."
+    },
+    {
+      "questionNumber": 33,
+      "question": "The ___ is a place where you can lift weights and run.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "restaurant", "rationale": "For eating.", "isCorrect": false},
+        {"text": "bar", "rationale": "For drinking.", "isCorrect": false},
+        {"text": "spa", "rationale": "For massage.", "isCorrect": false},
+        {"text": "gym", "rationale": "Fitness center.", "isCorrect": true},
+        {"text": "pool", "rationale": "For swimming.", "isCorrect": false}
+      ],
+      "hint": "Also known as fitness center."
+    },
+    {
+      "questionNumber": 34,
+      "question": "We have a big ___ room for your business meetings.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "swimming", "rationale": "For pool.", "isCorrect": false},
+        {"text": "conference", "rationale": "For meetings.", "isCorrect": true},
+        {"text": "living", "rationale": "In a house.", "isCorrect": false},
+        {"text": "waiting", "rationale": "For waiting.", "isCorrect": false},
+        {"text": "dining", "rationale": "For eating.", "isCorrect": false}
+      ],
+      "hint": "Professional meeting place."
+    },
+    {
+      "questionNumber": 35,
+      "question": "You can park your car safely in the ___.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "spa", "rationale": "For health.", "isCorrect": false},
+        {"text": "parking area", "rationale": "For cars.", "isCorrect": true},
+        {"text": "lobby", "rationale": "Entrance.", "isCorrect": false},
+        {"text": "restaurant", "rationale": "For food.", "isCorrect": false},
+        {"text": "gym", "rationale": "For sports.", "isCorrect": false}
+      ],
+      "hint": "Area for vehicles."
+    },
+    {
+      "questionNumber": 36,
+      "question": "The restaurant is ___ the ground floor.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "in", "rationale": "Incorrect for floors.", "isCorrect": false},
+        {"text": "at", "rationale": "Incorrect for floors.", "isCorrect": false},
+        {"text": "on", "rationale": "Correct for floors.", "isCorrect": true},
+        {"text": "under", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "next", "rationale": "Requires 'to'.", "isCorrect": false}
+      ],
+      "hint": "Preposition used for floors."
+    },
+    {
+      "questionNumber": 37,
+      "question": "The bar is open ___ midnight.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "on", "rationale": "For days.", "isCorrect": false},
+        {"text": "in", "rationale": "For months.", "isCorrect": false},
+        {"text": "until", "rationale": "Up to a time.", "isCorrect": true},
+        {"text": "at", "rationale": "Exact time, but implies starting/closing exact moment.", "isCorrect": false},
+        {"text": "during", "rationale": "For periods.", "isCorrect": false}
+      ],
+      "hint": "Shows continuous time up to a point."
+    },
+    {
+      "questionNumber": 38,
+      "question": "The spa is open ___ 8 a.m. to 9 p.m.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "at", "rationale": "Exact time.", "isCorrect": false},
+        {"text": "on", "rationale": "Days.", "isCorrect": false},
+        {"text": "from", "rationale": "Starting time.", "isCorrect": true},
+        {"text": "until", "rationale": "Ending time.", "isCorrect": false},
+        {"text": "for", "rationale": "Duration.", "isCorrect": false}
+      ],
+      "hint": "Used with 'to' for time ranges."
+    },
+    {
+      "questionNumber": 39,
+      "question": "The pool is open ___ the summer.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "on", "rationale": "Days.", "isCorrect": false},
+        {"text": "at", "rationale": "Hours.", "isCorrect": false},
+        {"text": "during", "rationale": "Throughout a period.", "isCorrect": true},
+        {"text": "until", "rationale": "End point.", "isCorrect": false},
+        {"text": "from", "rationale": "Start point.", "isCorrect": false}
+      ],
+      "hint": "Throughout a season."
+    },
+    {
+      "questionNumber": 40,
+      "question": "The gym is ___ the third floor.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "in", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "on", "rationale": "Correct for floors.", "isCorrect": true},
+        {"text": "at", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "under", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "above", "rationale": "Less precise.", "isCorrect": false}
+      ],
+      "hint": "Preposition for building levels."
+    },
+    {
+      "questionNumber": 41,
+      "question": "You ___ visit the old town; it's very beautiful.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "should", "rationale": "Strong advice.", "isCorrect": true},
+        {"text": "shouldn't", "rationale": "Negative advice.", "isCorrect": false},
+        {"text": "will", "rationale": "Future.", "isCorrect": false},
+        {"text": "won't", "rationale": "Future negative.", "isCorrect": false},
+        {"text": "would", "rationale": "Not for advice.", "isCorrect": false}
+      ],
+      "hint": "Giving a strong recommendation."
+    },
+    {
+      "questionNumber": 42,
+      "question": "You ___ walk alone at night; it's dangerous.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "should", "rationale": "Affirmative advice.", "isCorrect": false},
+        {"text": "can", "rationale": "Possibility.", "isCorrect": false},
+        {"text": "could", "rationale": "Polite suggestion.", "isCorrect": false},
+        {"text": "shouldn't", "rationale": "Negative advice.", "isCorrect": true},
+        {"text": "might", "rationale": "Possibility.", "isCorrect": false}
+      ],
+      "hint": "Advising NOT to do something."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Guest: What ___ we visit in this city?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "should", "rationale": "Asking for advice.", "isCorrect": true},
+        {"text": "will", "rationale": "Future.", "isCorrect": false},
+        {"text": "are", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "would", "rationale": "Different meaning.", "isCorrect": false},
+        {"text": "do", "rationale": "General fact.", "isCorrect": false}
+      ],
+      "hint": "Asking for recommendations."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Guests ___ leave their keys at the reception.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "should", "rationale": "Advice/Rule.", "isCorrect": true},
+        {"text": "shouldn't", "rationale": "Negative.", "isCorrect": false},
+        {"text": "might", "rationale": "Low possibility.", "isCorrect": false},
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "won't", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "A recommended hotel rule."
+    },
+    {
+      "questionNumber": 45,
+      "question": "You ___ try the local food.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "will", "rationale": "Action.", "isCorrect": false},
+        {"text": "should", "rationale": "Recommendation.", "isCorrect": true},
+        {"text": "shouldn't", "rationale": "Negative.", "isCorrect": false},
+        {"text": "won't", "rationale": "Negative.", "isCorrect": false},
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Suggesting a good experience."
+    },
+    {
+      "questionNumber": 46,
+      "question": "You ___ take a taxi from the airport if you want.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "shouldn't", "rationale": "Negative advice.", "isCorrect": false},
+        {"text": "won't", "rationale": "Future negative.", "isCorrect": false},
+        {"text": "can", "rationale": "Possibility/Option.", "isCorrect": true},
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "are", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Stating an available option."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Guest: Where ___ we eat local food?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "can", "rationale": "Asking for options.", "isCorrect": true},
+        {"text": "will", "rationale": "Future.", "isCorrect": false},
+        {"text": "are", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "do", "rationale": "General fact.", "isCorrect": false},
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Asking for possibility."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Staff: You ___ try the seafood restaurant. It's very nice.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "will", "rationale": "Staff action.", "isCorrect": false},
+        {"text": "could", "rationale": "Polite suggestion.", "isCorrect": true},
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "are", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "do", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Very polite suggestion by staff."
+    },
+    {
+      "questionNumber": 49,
+      "question": "___ I help you with your bags?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Will", "rationale": "Not standard offer.", "isCorrect": false},
+        {"text": "Do", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "Am", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "Can", "rationale": "Offering help.", "isCorrect": true},
+        {"text": "Are", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "Common phrase to offer assistance."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Guest: How ___ we go to the museum?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "can", "rationale": "Asking for method/possibility.", "isCorrect": true},
+        {"text": "will", "rationale": "Future.", "isCorrect": false},
+        {"text": "are", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "do", "rationale": "General habit.", "isCorrect": false},
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Asking about transportation options."
+    },
+    {
+      "questionNumber": 51,
+      "question": "The museum ___ be closed today. Let me check.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "may", "rationale": "Possibility.", "isCorrect": true},
+        {"text": "should", "rationale": "Advice.", "isCorrect": false},
+        {"text": "will", "rationale": "Certainty.", "isCorrect": false},
+        {"text": "can't", "rationale": "Impossibility.", "isCorrect": false},
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Shows a possible situation."
+    },
+    {
+      "questionNumber": 52,
+      "question": "It ___ rain later, so take an umbrella.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "should", "rationale": "Advice.", "isCorrect": false},
+        {"text": "might", "rationale": "Weak possibility.", "isCorrect": true},
+        {"text": "will", "rationale": "Certainty.", "isCorrect": false},
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "can", "rationale": "Ability.", "isCorrect": false}
+      ],
+      "hint": "Shows a weak possibility of weather."
+    },
+    {
+      "questionNumber": 53,
+      "question": "We ___ have a room available, let me check the system.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "may", "rationale": "Possibility.", "isCorrect": true},
+        {"text": "should", "rationale": "Advice.", "isCorrect": false},
+        {"text": "will", "rationale": "Certainty.", "isCorrect": false},
+        {"text": "won't", "rationale": "Certainty (negative).", "isCorrect": false},
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Not 100% sure, possible."
+    },
+    {
+      "questionNumber": 54,
+      "question": "The traffic ___ be heavy in the evening.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "might", "rationale": "Possibility.", "isCorrect": true},
+        {"text": "should", "rationale": "Advice.", "isCorrect": false},
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "can", "rationale": "Ability.", "isCorrect": false},
+        {"text": "are", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "Guessing a possible situation."
+    },
+    {
+      "questionNumber": 55,
+      "question": "You ___ need a jacket outside. It is getting cold.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "will", "rationale": "Too certain.", "isCorrect": false},
+        {"text": "might", "rationale": "Possibility.", "isCorrect": true},
+        {"text": "should", "rationale": "Advice (close but might is better for guessing needs).", "isCorrect": false},
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "can", "rationale": "Ability.", "isCorrect": false}
+      ],
+      "hint": "A possibility depending on the person."
+    },
+    {
+      "questionNumber": 56,
+      "question": "Grammar check: You should ___ the museum.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "visits", "rationale": "Has -s.", "isCorrect": false},
+        {"text": "visiting", "rationale": "Has -ing.", "isCorrect": false},
+        {"text": "visited", "rationale": "Has -ed.", "isCorrect": false},
+        {"text": "visit", "rationale": "Base verb (V1).", "isCorrect": true},
+        {"text": "to visit", "rationale": "Has to.", "isCorrect": false}
+      ],
+      "hint": "Modals take the base form of the verb."
+    },
+    {
+      "questionNumber": 57,
+      "question": "Grammar check: You can ___ there in 10 minutes.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "walks", "rationale": "Has -s.", "isCorrect": false},
+        {"text": "walk", "rationale": "Base verb (V1).", "isCorrect": true},
+        {"text": "walking", "rationale": "Has -ing.", "isCorrect": false},
+        {"text": "walked", "rationale": "Has -ed.", "isCorrect": false},
+        {"text": "to walk", "rationale": "Has to.", "isCorrect": false}
+      ],
+      "hint": "Modals take the base form of the verb."
+    },
+    {
+      "questionNumber": 58,
+      "question": "Grammar check: You might ___ earlier.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "goes", "rationale": "Has -s.", "isCorrect": false},
+        {"text": "going", "rationale": "Has -ing.", "isCorrect": false},
+        {"text": "went", "rationale": "Past tense.", "isCorrect": false},
+        {"text": "to go", "rationale": "Has to.", "isCorrect": false},
+        {"text": "go", "rationale": "Base verb (V1).", "isCorrect": true}
+      ],
+      "hint": "Modals take the base form of the verb."
+    },
+    {
+      "questionNumber": 59,
+      "question": "Grammar check: He could ___ a taxi.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "takes", "rationale": "Has -s.", "isCorrect": false},
+        {"text": "taking", "rationale": "Has -ing.", "isCorrect": false},
+        {"text": "took", "rationale": "Past tense.", "isCorrect": false},
+        {"text": "take", "rationale": "Base verb (V1).", "isCorrect": true},
+        {"text": "to take", "rationale": "Has to.", "isCorrect": false}
+      ],
+      "hint": "Modals take the base form of the verb."
+    },
+    {
+      "questionNumber": 60,
+      "question": "Grammar check: They may ___ late.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "arrives", "rationale": "Has -s.", "isCorrect": false},
+        {"text": "arriving", "rationale": "Has -ing.", "isCorrect": false},
+        {"text": "arrive", "rationale": "Base verb (V1).", "isCorrect": true},
+        {"text": "arrived", "rationale": "Past tense.", "isCorrect": false},
+        {"text": "to arrive", "rationale": "Has to.", "isCorrect": false}
+      ],
+      "hint": "Modals take the base form of the verb."
+    },
+    {
+      "questionNumber": 61,
+      "question": "A place with very old historical buildings is an ___ town.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "new", "rationale": "Opposite.", "isCorrect": false},
+        {"text": "modern", "rationale": "Opposite.", "isCorrect": false},
+        {"text": "old", "rationale": "Historical area.", "isCorrect": true},
+        {"text": "shopping", "rationale": "For buying.", "isCorrect": false},
+        {"text": "beach", "rationale": "By the sea.", "isCorrect": false}
+      ],
+      "hint": "Means not new."
+    },
+    {
+      "questionNumber": 62,
+      "question": "You can buy fresh fruits and vegetables at the ___.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "museum", "rationale": "For history.", "isCorrect": false},
+        {"text": "park", "rationale": "For walking.", "isCorrect": false},
+        {"text": "market", "rationale": "For fresh food.", "isCorrect": true},
+        {"text": "beach", "rationale": "For swimming.", "isCorrect": false},
+        {"text": "spa", "rationale": "For relaxing.", "isCorrect": false}
+      ],
+      "hint": "Local shopping place."
+    },
+    {
+      "questionNumber": 63,
+      "question": "The ___ is a place where you can swim in the sea and relax on the sand.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "museum", "rationale": "Indoor.", "isCorrect": false},
+        {"text": "mall", "rationale": "Indoor shopping.", "isCorrect": false},
+        {"text": "beach", "rationale": "Sea and sand.", "isCorrect": true},
+        {"text": "restaurant", "rationale": "For food.", "isCorrect": false},
+        {"text": "market", "rationale": "For shopping.", "isCorrect": false}
+      ],
+      "hint": "Next to the ocean."
+    },
+    {
+      "questionNumber": 64,
+      "question": "A large indoor area with many different shops is called a shopping ___.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "mall", "rationale": "Shopping center.", "isCorrect": true},
+        {"text": "site", "rationale": "Location.", "isCorrect": false},
+        {"text": "park", "rationale": "Nature.", "isCorrect": false},
+        {"text": "beach", "rationale": "Sea.", "isCorrect": false},
+        {"text": "museum", "rationale": "History.", "isCorrect": false}
+      ],
+      "hint": "Another word for shopping center."
+    },
+    {
+      "questionNumber": 65,
+      "question": "A place with ancient ruins is a ___ site.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "shopping", "rationale": "For buying.", "isCorrect": false},
+        {"text": "historical", "rationale": "Relating to history.", "isCorrect": true},
+        {"text": "swimming", "rationale": "For pool.", "isCorrect": false},
+        {"text": "parking", "rationale": "For cars.", "isCorrect": false},
+        {"text": "restaurant", "rationale": "For food.", "isCorrect": false}
+      ],
+      "hint": "Related to the past."
+    },
+    {
+      "questionNumber": 66,
+      "question": "Guest: Is there a beach ___? Staff: Yes, just 5 minutes walking.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "far", "rationale": "Long distance.", "isCorrect": false},
+        {"text": "nearby", "rationale": "Close distance.", "isCorrect": true},
+        {"text": "away", "rationale": "Distant.", "isCorrect": false},
+        {"text": "inside", "rationale": "Indoors.", "isCorrect": false},
+        {"text": "under", "rationale": "Below.", "isCorrect": false}
+      ],
+      "hint": "Means close to here."
+    },
+    {
+      "questionNumber": 67,
+      "question": "The museum is very popular ___ tourists.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "in", "rationale": "Incorrect preposition.", "isCorrect": false},
+        {"text": "at", "rationale": "Incorrect preposition.", "isCorrect": false},
+        {"text": "with", "rationale": "Correct collocation.", "isCorrect": true},
+        {"text": "on", "rationale": "Incorrect preposition.", "isCorrect": false},
+        {"text": "for", "rationale": "Incorrect preposition.", "isCorrect": false}
+      ],
+      "hint": "Collocation: popular ___ someone."
+    },
+    {
+      "questionNumber": 68,
+      "question": "The market is very ___ on weekends. There are a lot of people.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "quiet", "rationale": "Opposite.", "isCorrect": false},
+        {"text": "empty", "rationale": "Opposite.", "isCorrect": false},
+        {"text": "busy", "rationale": "Crowded/active.", "isCorrect": true},
+        {"text": "clean", "rationale": "Irrelevant.", "isCorrect": false},
+        {"text": "slow", "rationale": "Irrelevant.", "isCorrect": false}
+      ],
+      "hint": "Means crowded and active."
+    },
+    {
+      "questionNumber": 69,
+      "question": "Staff: You should ___ the city center.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "buy", "rationale": "Cannot buy a center.", "isCorrect": false},
+        {"text": "visit", "rationale": "To go and see.", "isCorrect": true},
+        {"text": "eat", "rationale": "Cannot eat a center.", "isCorrect": false},
+        {"text": "sleep", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "swim", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Action to see a place."
+    },
+    {
+      "questionNumber": 70,
+      "question": "You can go there ___ foot or take a bus.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "in", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "by", "rationale": "Used for vehicles, not foot.", "isCorrect": false},
+        {"text": "on", "rationale": "Correct collocation.", "isCorrect": true},
+        {"text": "at", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "with", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Collocation for walking."
+    },
+    {
+      "questionNumber": 71,
+      "question": "Staff: I ___ call a taxi for you right now.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "will", "rationale": "Instant decision/action.", "isCorrect": true},
+        {"text": "want", "rationale": "Not professional.", "isCorrect": false},
+        {"text": "am", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "do", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "Offering to do an action immediately."
+    },
+    {
+      "questionNumber": 72,
+      "question": "Staff: I ___ send housekeeping to your room right away.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "will", "rationale": "Promise/action.", "isCorrect": true},
+        {"text": "should", "rationale": "Advice.", "isCorrect": false},
+        {"text": "want to", "rationale": "Not professional.", "isCorrect": false},
+        {"text": "did", "rationale": "Past tense.", "isCorrect": false}
+      ],
+      "hint": "Promising a service to the guest."
+    },
+    {
+      "questionNumber": 73,
+      "question": "Staff: Don't worry, I ___ fix the problem.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "am", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "would", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "will", "rationale": "Promise to solve.", "isCorrect": true},
+        {"text": "do", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "did", "rationale": "Past tense.", "isCorrect": false}
+      ],
+      "hint": "Solving a problem right now."
+    },
+    {
+      "questionNumber": 74,
+      "question": "Staff: We ___ delay your check-out.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "won't", "rationale": "Negative promise.", "isCorrect": true},
+        {"text": "wouldn't", "rationale": "Conditional.", "isCorrect": false},
+        {"text": "don't", "rationale": "General fact.", "isCorrect": false},
+        {"text": "aren't", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "didn't", "rationale": "Past tense.", "isCorrect": false}
+      ],
+      "hint": "Promising NOT to do something in the future."
+    },
+    {
+      "questionNumber": 75,
+      "question": "Staff: ___ you stay another night?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Do", "rationale": "General fact.", "isCorrect": false},
+        {"text": "Are", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "Will", "rationale": "Future intention.", "isCorrect": true},
+        {"text": "Have", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "Did", "rationale": "Past tense.", "isCorrect": false}
+      ],
+      "hint": "Asking about a future plan."
+    },
+    {
+      "questionNumber": 76,
+      "question": "I ___ at the hotel reception every day.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "work", "rationale": "Routine/Present simple.", "isCorrect": true},
+        {"text": "am working", "rationale": "Right now only.", "isCorrect": false},
+        {"text": "will work", "rationale": "Future.", "isCorrect": false},
+        {"text": "worked", "rationale": "Past tense.", "isCorrect": false},
+        {"text": "working", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "A daily routine."
+    },
+    {
+      "questionNumber": 77,
+      "question": "I ___ your room right now. It will be ready soon.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "clean", "rationale": "Routine.", "isCorrect": false},
+        {"text": "am cleaning", "rationale": "Action happening now.", "isCorrect": true},
+        {"text": "will clean", "rationale": "Future.", "isCorrect": false},
+        {"text": "cleaned", "rationale": "Past tense.", "isCorrect": false},
+        {"text": "cleans", "rationale": "Wrong subject.", "isCorrect": false}
+      ],
+      "hint": "Action happening at the moment."
+    },
+    {
+      "questionNumber": 78,
+      "question": "The room ___ very clean yesterday.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "is", "rationale": "Present tense.", "isCorrect": false},
+        {"text": "was", "rationale": "Past state.", "isCorrect": true},
+        {"text": "will be", "rationale": "Future.", "isCorrect": false},
+        {"text": "are", "rationale": "Plural present.", "isCorrect": false},
+        {"text": "were", "rationale": "Plural past.", "isCorrect": false}
+      ],
+      "hint": "A state in the past."
+    },
+    {
+      "questionNumber": 79,
+      "question": "I ___ arrange a wake-up call for tomorrow morning.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "am", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "do", "rationale": "Grammar error.", "isCorrect": false},
+        {"text": "will", "rationale": "Promise for the future.", "isCorrect": true},
+        {"text": "did", "rationale": "Past tense.", "isCorrect": false},
+        {"text": "was", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "Staff promising to do something."
+    },
+    {
+      "questionNumber": 80,
+      "question": "We ___ breakfast at 7 a.m. every morning.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "serve", "rationale": "Routine/Present simple.", "isCorrect": true},
+        {"text": "are serving", "rationale": "Right now.", "isCorrect": false},
+        {"text": "will serve", "rationale": "Future.", "isCorrect": false},
+        {"text": "served", "rationale": "Past tense.", "isCorrect": false},
+        {"text": "serving", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "A daily hotel routine."
+    },
+    {
+      "questionNumber": 81,
+      "question": "Guest: I need an ___ towel, please.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "outside", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "extra", "rationale": "Additional item.", "isCorrect": true},
+        {"text": "less", "rationale": "Opposite.", "isCorrect": false},
+        {"text": "early", "rationale": "Time related.", "isCorrect": false},
+        {"text": "late", "rationale": "Time related.", "isCorrect": false}
+      ],
+      "hint": "Means 'one more'."
+    },
+    {
+      "questionNumber": 82,
+      "question": "Can I have another ___ for my bed? My head is low.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "towel", "rationale": "For drying.", "isCorrect": false},
+        {"text": "blanket", "rationale": "For cold.", "isCorrect": false},
+        {"text": "pillow", "rationale": "For head.", "isCorrect": true},
+        {"text": "iron", "rationale": "For clothes.", "isCorrect": false},
+        {"text": "adapter", "rationale": "For electronics.", "isCorrect": false}
+      ],
+      "hint": "You put your head on it when sleeping."
+    },
+    {
+      "questionNumber": 83,
+      "question": "Guest: I am cold. I need a ___.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "towel", "rationale": "For drying.", "isCorrect": false},
+        {"text": "pillow", "rationale": "For head.", "isCorrect": false},
+        {"text": "blanket", "rationale": "To keep warm.", "isCorrect": true},
+        {"text": "hairdryer", "rationale": "For hair.", "isCorrect": false},
+        {"text": "bedsheet", "rationale": "Thin cover.", "isCorrect": false}
+      ],
+      "hint": "Used to keep warm in bed."
+    },
+    {
+      "questionNumber": 84,
+      "question": "Guest: My hair is wet. Do you have a ___?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "iron", "rationale": "For clothes.", "isCorrect": false},
+        {"text": "blanket", "rationale": "For cold.", "isCorrect": false},
+        {"text": "hairdryer", "rationale": "Dries hair.", "isCorrect": true},
+        {"text": "towel", "rationale": "Used before hairdryer, but tool is hairdryer.", "isCorrect": false},
+        {"text": "adapter", "rationale": "For electronics.", "isCorrect": false}
+      ],
+      "hint": "Electronic device for wet hair."
+    },
+    {
+      "questionNumber": 85,
+      "question": "Guest: My phone plug is different. I need an ___.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "iron", "rationale": "For clothes.", "isCorrect": false},
+        {"text": "adapter", "rationale": "For plugs.", "isCorrect": true},
+        {"text": "cable", "rationale": "Wire.", "isCorrect": false},
+        {"text": "blanket", "rationale": "For cold.", "isCorrect": false},
+        {"text": "hairdryer", "rationale": "For hair.", "isCorrect": false}
+      ],
+      "hint": "Changes the plug type."
+    },
+    {
+      "questionNumber": 86,
+      "question": "I want to wake up early tomorrow. Please arrange a ___ call.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "sleep", "rationale": "Opposite.", "isCorrect": false},
+        {"text": "wake-up", "rationale": "To wake someone.", "isCorrect": true},
+        {"text": "room", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "service", "rationale": "Too broad.", "isCorrect": false},
+        {"text": "morning", "rationale": "Not the term.", "isCorrect": false}
+      ],
+      "hint": "A call to get you out of bed."
+    },
+    {
+      "questionNumber": 87,
+      "question": "I need to leave the hotel at 2 p.m. Can I get a ___ check-out?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "early", "rationale": "Opposite.", "isCorrect": false},
+        {"text": "fast", "rationale": "Speed.", "isCorrect": false},
+        {"text": "slow", "rationale": "Speed.", "isCorrect": false},
+        {"text": "late", "rationale": "After normal time.", "isCorrect": true},
+        {"text": "quick", "rationale": "Speed.", "isCorrect": false}
+      ],
+      "hint": "Checking out after 12:00."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Guest: I have a baby. Do you have a baby ___?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "chair", "rationale": "For sitting.", "isCorrect": false},
+        {"text": "bed", "rationale": "For sleeping.", "isCorrect": true},
+        {"text": "towel", "rationale": "For drying.", "isCorrect": false},
+        {"text": "iron", "rationale": "For clothes.", "isCorrect": false},
+        {"text": "table", "rationale": "For eating.", "isCorrect": false}
+      ],
+      "hint": "Also known as a crib."
+    },
+    {
+      "questionNumber": 89,
+      "question": "Staff: We can ___ your room to a luxury suite for a small fee.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "downgrade", "rationale": "Opposite.", "isCorrect": false},
+        {"text": "cancel", "rationale": "Stop.", "isCorrect": false},
+        {"text": "upgrade", "rationale": "Make better.", "isCorrect": true},
+        {"text": "clean", "rationale": "Housekeeping.", "isCorrect": false},
+        {"text": "fix", "rationale": "Repair.", "isCorrect": false}
+      ],
+      "hint": "Giving a better room category."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Staff: I will call ___ to fix the air conditioning.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "housekeeping", "rationale": "For cleaning.", "isCorrect": false},
+        {"text": "reception", "rationale": "Front desk.", "isCorrect": false},
+        {"text": "security", "rationale": "For safety.", "isCorrect": false},
+        {"text": "maintenance", "rationale": "Technical service.", "isCorrect": true},
+        {"text": "kitchen", "rationale": "For food.", "isCorrect": false}
+      ],
+      "hint": "The technical service team."
+    },
+    {
+      "questionNumber": 91,
+      "question": "The opposite of 'dirty' is ___.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "quiet", "rationale": "Opposite of noisy.", "isCorrect": false},
+        {"text": "fast", "rationale": "Opposite of slow.", "isCorrect": false},
+        {"text": "clean", "rationale": "Opposite of dirty.", "isCorrect": true},
+        {"text": "comfortable", "rationale": "Cozy.", "isCorrect": false},
+        {"text": "available", "rationale": "Ready to use.", "isCorrect": false}
+      ],
+      "hint": "What housekeeping makes the room."
+    },
+    {
+      "questionNumber": 92,
+      "question": "The opposite of 'noisy' is ___.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "clean", "rationale": "Opposite of dirty.", "isCorrect": false},
+        {"text": "quiet", "rationale": "Without sound.", "isCorrect": true},
+        {"text": "fast", "rationale": "Speed.", "isCorrect": false},
+        {"text": "full", "rationale": "Capacity.", "isCorrect": false},
+        {"text": "dirty", "rationale": "Opposite of clean.", "isCorrect": false}
+      ],
+      "hint": "A peaceful room without sound."
+    },
+    {
+      "questionNumber": 93,
+      "question": "If a hotel room is not available, it is ___.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "clean", "rationale": "State.", "isCorrect": false},
+        {"text": "quiet", "rationale": "Sound.", "isCorrect": false},
+        {"text": "full", "rationale": "Booked/Occupied.", "isCorrect": true},
+        {"text": "empty", "rationale": "Opposite of full.", "isCorrect": false},
+        {"text": "fast", "rationale": "Speed.", "isCorrect": false}
+      ],
+      "hint": "Means completely booked."
+    },
+    {
+      "questionNumber": 94,
+      "question": "The bed is very ___. I slept very well.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "noisy", "rationale": "Negative.", "isCorrect": false},
+        {"text": "dirty", "rationale": "Negative.", "isCorrect": false},
+        {"text": "comfortable", "rationale": "Cozy and relaxing.", "isCorrect": true},
+        {"text": "slow", "rationale": "Speed.", "isCorrect": false},
+        {"text": "full", "rationale": "Capacity.", "isCorrect": false}
+      ],
+      "hint": "Means relaxing and cozy."
+    },
+    {
+      "questionNumber": 95,
+      "question": "The opposite of 'slow' is ___.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "fast", "rationale": "High speed.", "isCorrect": true},
+        {"text": "clean", "rationale": "Hygiene.", "isCorrect": false},
+        {"text": "quiet", "rationale": "Sound.", "isCorrect": false},
+        {"text": "comfortable", "rationale": "Feeling.", "isCorrect": false},
+        {"text": "full", "rationale": "Capacity.", "isCorrect": false}
+      ],
+      "hint": "Means high speed."
+    },
+    {
+      "questionNumber": 96,
+      "question": "Staff: I will bring it ___ away.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "left", "rationale": "Direction.", "isCorrect": false},
+        {"text": "fast", "rationale": "Speed.", "isCorrect": false},
+        {"text": "right", "rationale": "Phrase 'right away'.", "isCorrect": true},
+        {"text": "now", "rationale": "Not the phrase.", "isCorrect": false},
+        {"text": "soon", "rationale": "Not the phrase.", "isCorrect": false}
+      ],
+      "hint": "A phrase that means 'immediately'."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Staff: Can I ___ you a better room?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "offer", "rationale": "To propose.", "isCorrect": true},
+        {"text": "take", "rationale": "To receive.", "isCorrect": false},
+        {"text": "want", "rationale": "Not professional.", "isCorrect": false},
+        {"text": "ask", "rationale": "To question.", "isCorrect": false},
+        {"text": "do", "rationale": "Grammar error.", "isCorrect": false}
+      ],
+      "hint": "To propose something to the guest."
+    },
+    {
+      "questionNumber": 98,
+      "question": "Would you like breakfast ___ in your stay?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "excluded", "rationale": "Left out.", "isCorrect": false},
+        {"text": "included", "rationale": "Part of the package.", "isCorrect": true},
+        {"text": "taken", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "done", "rationale": "Incorrect.", "isCorrect": false},
+        {"text": "made", "rationale": "Incorrect.", "isCorrect": false}
+      ],
+      "hint": "Means it is part of the total price."
+    },
+    {
+      "questionNumber": 99,
+      "question": "Staff: I highly ___ the seafood restaurant.",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "cancel", "rationale": "To stop.", "isCorrect": false},
+        {"text": "fix", "rationale": "To repair.", "isCorrect": false},
+        {"text": "recommend", "rationale": "To advise/suggest.", "isCorrect": true},
+        {"text": "arrange", "rationale": "To organize.", "isCorrect": false},
+        {"text": "bring", "rationale": "To carry.", "isCorrect": false}
+      ],
+      "hint": "To tell someone that something is good."
+    },
+    {
+      "questionNumber": 100,
+      "question": "Guest: Are there any ___ charges?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "comfortable", "rationale": "Feeling.", "isCorrect": false},
+        {"text": "additional", "rationale": "Extra.", "isCorrect": true},
+        {"text": "quiet", "rationale": "Sound.", "isCorrect": false},
+        {"text": "slow", "rationale": "Speed.", "isCorrect": false},
+        {"text": "dirty", "rationale": "Hygiene.", "isCorrect": false}
+      ],
+      "hint": "Means 'extra' or 'more'."
+    }
+  ]
+}
