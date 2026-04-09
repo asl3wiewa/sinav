@@ -393,6 +393,14 @@ const TESTS = {
     dataUrl: "2-donem/vize/mesleki-yabanci-dil-2-2.json",
 
   },
+
+  "dijital-pazarlama-ve-sosyal-medya": {
+
+    title: "Dijital Pazarlama ve Sosyal Medya",
+
+    dataUrl: "2-donem/vize/Dijital-Pazarlama-ve-Sosyal-Medya.json",
+
+  },
   
   "turizm-ve-cevre": {
 
@@ -600,6 +608,8 @@ const TEST_ALIASES = {
   "mesleki yabanci dil ii 1": "mesleki-yabanci-dil-2-1",
 
   "mesleki yabanci dil ii 2": "mesleki-yabanci-dil-2-2",
+
+  "dijital pazarlama ve sosyal medya": "dijital-pazarlama-ve-sosyal-medya",
  
  
  

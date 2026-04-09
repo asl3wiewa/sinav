@@ -280,6 +280,16 @@ const TEST_DATA = {
   "2": {
     vize: [
       {
+        id: "dijital-pazarlama-ve-sosyal-medya",
+        title: "Dijital Pazarlama ve Sosyal Medya",
+        description: "Ikinci donem vize konularini tek testle calis.",
+        tag: "Dijital Pazarlama",
+        tests: [
+          { name: "Teste Basla", url: "quiz.html?test=dijital-pazarlama-ve-sosyal-medya", primary: true }
+        ],
+        pdfUrl: "assets/pdf/2-donem/vize/Dijital-Pazarlama-ve-Sosyal-Medya.pdf"
+      },
+      {
         id: "mesleki-yabanci-dil-2",
         title: "Mesleki Yabanci Dil II",
         description: "Ikinci donem vize konularini iki ayri testle calis.",

@@ -1,0 +1,1654 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Arama motorlarında (Google vb.) ücretsiz ve organik sonuçlarda üst sıralara çıkmak için yapılan çalışmalara ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "SEM",
+          "rationale": "Ücretli arama motoru reklamcılığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "SEO",
+          "rationale": "Arama Motoru Optimizasyonu, organik sıralamaları hedefler.",
+          "isCorrect": true
+        },
+        {
+          "text": "SMM",
+          "rationale": "Sosyal medya pazarlamasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "CRM",
+          "rationale": "Müşteri ilişkileri yönetimidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "E-posta Pazarlama",
+          "rationale": "Mail yoluyla yapılan pazarlamadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Search Engine Optimization kelimelerinin baş harfleridir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Reklamın tıklanma sayısının, toplam gösterim sayısına bölünmesiyle elde edilen metrik nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "ROI",
+          "rationale": "Yatırım getirisini ölçer.",
+          "isCorrect": false
+        },
+        {
+          "text": "CPA",
+          "rationale": "İşlem veya edinim başına maliyettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "CTR",
+          "rationale": "Tıklama Oranı (Click-Through Rate) bu değeri verir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bounce Rate",
+          "rationale": "Hemen çıkma oranıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "CR",
+          "rationale": "Dönüşüm oranıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İngilizce 'Click' kelimesiyle başlar."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Kurumsal iletişim ve B2B (İşletmeden İşletmeye) pazarlama için en ideal sosyal medya platformu hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Instagram",
+          "rationale": "Görsel ağırlıklı ve genellikle B2C odaklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "TikTok",
+          "rationale": "Genç kitle ve eğlence odaklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Snapchat",
+          "rationale": "Anlık mesajlaşma ve eğlence odaklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "LinkedIn",
+          "rationale": "Profesyonellerin ve şirketlerin buluştuğu B2B platformudur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pinterest",
+          "rationale": "İlham ve e-ticaret odaklıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Özgeçmiş (CV) paylaşılan ve iş aranan platformdur."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Daha önce web sitenizi ziyaret etmiş kullanıcılara internette gezinirken tekrar reklam gösterme stratejisi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Cold Calling",
+          "rationale": "Soğuk aramadır, dijital reklam değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Viral Pazarlama",
+          "rationale": "İçeriğin kendiliğinden yayılmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Affiliate Marketing",
+          "rationale": "Satış ortaklığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Influencer Pazarlama",
+          "rationale": "Fenomenler aracılığıyla yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Remarketing (Yeniden Pazarlama)",
+          "rationale": "Sitenizi terk edenleri geri kazanmak için kullanılır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Sepette ürün unuttuğunuzda her yerde karşınıza çıkan reklamlardır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Pazarlama stratejisi için hazırlanan, demografik ve psikografik özellikleri içeren kurgusal ideal müşteri profiline ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hedef Pazar",
+          "rationale": "Genel tüketici kitlesidir, spesifik karakter değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rakip Analizi",
+          "rationale": "Rakipleri incelemektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Buyer Persona (Alıcı Personası)",
+          "rationale": "İdeal müşterinin kurgusal ve detaylı profilidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Odak Grup",
+          "rationale": "Gerçek insanlardan oluşan araştırma grubudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Paydaş",
+          "rationale": "Şirketle ilgisi olan tüm kişi ve kurumlardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Müşterinize isim verip bir karakter yarattığınız çalışmadır."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Sosyal medyada bir gönderinin aldığı tüm beğeni, yorum ve paylaşımların genel adına ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gösterim (Impression)",
+          "rationale": "Sadece görüntülenme sayısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Erişim (Reach)",
+          "rationale": "Ulaşılan tekil kişi sayısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Etkileşim (Engagement)",
+          "rationale": "Kullanıcıların içerikle kurduğu tüm aktif temaslardır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dönüşüm (Conversion)",
+          "rationale": "Satın alma gibi nihai hedeflerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sıklık (Frequency)",
+          "rationale": "Reklamın aynı kişiye kaç kez gösterildiğidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kullanıcı ile içerik arasındaki iletişimi ifade eder."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Dijital pazarlamaya harcanan bütçenin finansal olarak ne kadar kâr getirdiğini gösteren metrik hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "KPI",
+          "rationale": "Genel performans göstergesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "ROI (Yatırım Getirisi)",
+          "rationale": "Yatırımın finansal geri dönüşünü hesaplar.",
+          "isCorrect": true
+        },
+        {
+          "text": "SEO",
+          "rationale": "Arama motoru optimizasyonudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "B2C",
+          "rationale": "Tüketiciye satış modelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "CTR",
+          "rationale": "Tıklama oranıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İngilizce 'Return on Investment' kelimesinin kısaltmasıdır."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Belirli bir kitleye ve uzmanlığa sahip kişilerin (fenomenlerin) markaları tanıtmasına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Affiliate Pazarlama",
+          "rationale": "Komisyonlu satış ortaklığıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gerilla Pazarlama",
+          "rationale": "Beklenmedik yerlerde yapılan dikkat çekici kampanyalardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Influencer Pazarlaması",
+          "rationale": "Kanaat önderleri ve fenomenlerle yapılan işbirlikleridir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arama Motoru Pazarlaması",
+          "rationale": "Arama motorlarına verilen reklamlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "E-posta Pazarlaması",
+          "rationale": "Mail yoluyla yapılan iletişimdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Instagram'da sıkça gördüğümüz sponsorlu içerik üreticilerini ifade eder."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Bir web sitesine gelen kullanıcının başka hiçbir sayfaya tıklamadan siteden ayrılma oranına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dönüşüm Oranı",
+          "rationale": "Hedefi tamamlama oranıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hemen Çıkma Oranı (Bounce Rate)",
+          "rationale": "Ziyaretçinin etkileşime girmeden sayfayı terk etmesidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Açılma Oranı",
+          "rationale": "E-postaların okunma oranıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tıklama Oranı",
+          "rationale": "Reklamların tıklanma yüzdesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Büyüme Oranı",
+          "rationale": "İşletmenin veya trafiğin büyüme hızıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ziyaretçinin sitenizi hızla terk etmesi durumudur."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Google'da bir arama yaptığınızda karşınıza çıkan listeleme sayfasına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "SERP",
+          "rationale": "Search Engine Results Page (Arama Motoru Sonuç Sayfası) kelimelerinin kısaltmasıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "URL",
+          "rationale": "Web sitesi adresidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "rationale": "Web sitesi kodlama dilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Domain",
+          "rationale": "Alan adıdır (örneğin google.com).",
+          "isCorrect": false
+        },
+        {
+          "text": "Hosting",
+          "rationale": "Web sitesinin barındırıldığı sunucudur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Arama sonuçlarının listelendiği genel sayfadır."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Kullanıcıların kendi rızasıyla e-posta bülteninize abone olma işlemine ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Spam",
+          "rationale": "İstenmeyen ve izinsiz atılan maillerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Phishing",
+          "rationale": "Kimlik avı ve dolandırıcılıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opt-in",
+          "rationale": "Kullanıcının iletişim izni vermesi ve listeye kendi isteğiyle girmesidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Opt-out",
+          "rationale": "Abonelikten çıkma işlemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "B2B",
+          "rationale": "Firmadan firmaya ticarettir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kayıt formunda onay kutucuğunu işaretleme eylemidir."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Arama motoru optimizasyonunda (SEO), başka bir web sitesinden sizin sitenize verilen tıklanabilir bağlantıya ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Meta Tag",
+          "rationale": "Sayfa içeriğini anlatan HTML etiketidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anahtar Kelime",
+          "rationale": "Arama sorgularında kullanılan kelimelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Backlink",
+          "rationale": "Dışarıdan sitenize gelen referans bağlantıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Site Haritası",
+          "rationale": "Sitedeki tüm sayfaların XML listesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Favicon",
+          "rationale": "Tarayıcı sekmesinde görünen küçük logodur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Geri bağlantı olarak da çevrilebilir."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Bir reklamı her tıkladığınızda reklamverenin para ödediği fiyatlandırma modeli aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "CPA (Edinim Başına Maliyet)",
+          "rationale": "Satış veya form doldurma gerçekleştiğinde ödenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "CPC / TBM (Tıklama Başına Maliyet)",
+          "rationale": "Sadece reklama tıklandığında ücretlendirilen modeldir.",
+          "isCorrect": true
+        },
+        {
+          "text": "CPM (Bin Gösterim Maliyeti)",
+          "rationale": "Reklam 1000 kez görüldüğünde ödenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "ROI",
+          "rationale": "Yatırım getirisidir, fiyatlama modeli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "LTV",
+          "rationale": "Müşteri yaşam boyu değeridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İngilizce 'Cost Per Click' kelimelerinin kısaltmasıdır."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Sosyal medyada bir içeriğin herhangi bir reklam bütçesi harcanmadan ulaştığı kitleye ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ücretli Erişim",
+          "rationale": "Reklam verilerek elde edilen erişimdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Viral Erişim",
+          "rationale": "İçeriğin hızla yayılmasıdır, ana tanım bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Organik Erişim",
+          "rationale": "Doğal ve ücretsiz yollarla ulaşılan kitleyi ifade eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hedefli Erişim",
+          "rationale": "Belirli bir kitleye odaklanmaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bot Trafiği",
+          "rationale": "Gerçek olmayan yazılımsal erişimdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Doğal yollarla büyümeyi temsil eden bir kelimedir."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Markaların doğrudan satış yapmaktan ziyade hedef kitleyi eğitmek ve onlara değer katmak için blog, video ve rehberler üretmesine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İçerik Pazarlaması (Content Marketing)",
+          "rationale": "Değer katan içeriklerle marka sadakati oluşturma stratejisidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ağ Pazarlaması (Network Marketing)",
+          "rationale": "Kişiden kişiye doğrudan satış modelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "SMS Pazarlama",
+          "rationale": "Kısa mesaj ile yapılan pazarlamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tele-pazarlama",
+          "rationale": "Telefonla satış yapmaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geleneksel Pazarlama",
+          "rationale": "TV, radyo ve basılı yayınları kapsar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bilgi verici metin, görsel ve videolar üretme işidir."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Dijital pazarlamada kullanıcıları belirli bir eyleme (Satın Al, Üye Ol, İndir) yönlendiren buton veya metinlere ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "B2B",
+          "rationale": "İşletmeden işletmeye ticarettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "CTA (Call to Action - Harekete Geçirici Mesaj)",
+          "rationale": "Kullanıcıyı istenen eyleme çağıran ifadelerdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "CSS",
+          "rationale": "Web tasarım stil dilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "VPN",
+          "rationale": "Sanal özel ağdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "rationale": "Uygulama programlama arayüzüdür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kullanıcıya ne yapması gerektiğini söyleyen 'tıklanabilir' mesajlardır."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Bir web sitesinde ziyaretçilerin ilk ulaştığı ve genellikle belirli bir kampanyaya özel tasarlanmış yönlendirme sayfasına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ana Sayfa (Home Page)",
+          "rationale": "Sitenin genel giriş sayfasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İletişim Sayfası",
+          "rationale": "Adres ve formların olduğu sayfadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hakkımızda Sayfası",
+          "rationale": "Kurumsal bilgilerin yer aldığı sayfadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Açılış/Varış Sayfası (Landing Page)",
+          "rationale": "Reklamdan tıklayarak gelinen, dönüşüm odaklı özel sayfadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Blog Sayfası",
+          "rationale": "Makalelerin yayınlandığı sayfadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Reklama tıkladığınızda 'indiğiniz' (landing) hedefe odaklı sayfadır."
+    },
+    {
+      "questionNumber": 18,
+      "question": "İki farklı reklam metninin veya tasarımının hangisinin daha iyi performans gösterdiğini bulmak için yapılan teste ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "A/B Testi",
+          "rationale": "İki varyasyonun birbiriyle karşılaştırılarak en iyisini bulma yöntemidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Beta Testi",
+          "rationale": "Bir ürünün piyasaya çıkmadan önceki son denemesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stres Testi",
+          "rationale": "Sistemin yoğunluk altında nasıl çalıştığını ölçer.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kullanıcı Testi",
+          "rationale": "Arayüzün kullanım kolaylığını ölçer.",
+          "isCorrect": false
+        },
+        {
+          "text": "SEO Testi",
+          "rationale": "Site hızını ve arama motoru uyumunu ölçer.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Seçeneklere harf vererek yapılan bir kıyaslama testidir."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Kullanıcıların internet tarayıcılarına kaydedilen ve onların web üzerindeki davranışlarını takip etmeyi sağlayan küçük veri dosyalarına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Cache (Önbellek)",
+          "rationale": "Sitenin hızlı yüklenmesi için tutulan verilerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Virüs",
+          "rationale": "Zararlı yazılımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cookie (Çerez)",
+          "rationale": "Kullanıcı tercihlerini ve geçmişini hatırlayan dosyalardır.",
+          "isCorrect": true
+        },
+        {
+          "text": "IP Adresi",
+          "rationale": "Cihazın internetteki kimlik numarasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Firewall (Güvenlik Duvarı)",
+          "rationale": "Ağ güvenliğini sağlayan sistemdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sitelerde sık sık 'kabul et' uyarısı çıkan bir terimdir."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Müşterilerin bir markayı kendi çevrelerine tavsiye ederek doğal bir şekilde yaymasına ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "B2C Pazarlama",
+          "rationale": "Tüketiciye satıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ağızdan Ağıza Pazarlama (WOMM)",
+          "rationale": "Word of Mouth Marketing, müşterilerin markayı tavsiye etmesidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mobil Pazarlama",
+          "rationale": "Telefonlar üzerinden yapılan pazarlamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sponsorluk",
+          "rationale": "Bir etkinliğe finansal destek sağlamaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tele-pazarlama",
+          "rationale": "Telefonla satış yapmaktır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İnsanların birbiriyle konuşarak markayı övmesi durumudur."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Sosyal medyada hedef kitle analizi yaparken aşağıdakilerden hangisi dikkate alınan demografik özelliklerden BİRİ DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yaş",
+          "rationale": "Demografik bir veridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cinsiyet",
+          "rationale": "Demografik bir veridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eğitim Durumu",
+          "rationale": "Demografik bir veridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satın Alma Motivasyonu",
+          "rationale": "Bu psikografik veya davranışsal bir özelliktir, demografik değildir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gelir Seviyesi",
+          "rationale": "Demografik bir veridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kişinin fiziksel veya istatistiksel durumundan ziyade, düşünce yapısıyla ilgili olanı bulun."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Pazarlama kampanyalarının başarı hedeflerine ulaşıp ulaşmadığını ölçmek için belirlenen 'Temel Performans Göstergeleri'nin kısaltması nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "SEO",
+          "rationale": "Arama motoru optimizasyonudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "KPI (Key Performance Indicator)",
+          "rationale": "Hedeflere ulaşma derecesini gösteren metriklerdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "B2B",
+          "rationale": "Şirketten şirkete ticarettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "API",
+          "rationale": "Yazılım arayüzüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "CPA",
+          "rationale": "Edinme başına maliyettir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Performansınızı ölçen 'anahtar' göstergelerdir."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Arama motoru pazarlamasında (SEM) reklamverenin belirlediği anahtar kelimelerde üst sırada çıkmak için verdiği fiyat teklifi sistemine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sabit Fiyatlandırma",
+          "rationale": "Reklam fiyatlarının değişmediği modeldir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bidding (Açık Artırma/Teklif Verme)",
+          "rationale": "Reklamverenlerin anahtar kelime tıklaması için rekabet ettiği teklif sistemidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sponsorlu Gönderi",
+          "rationale": "Sosyal medyada öne çıkarılan posttur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Affiliate",
+          "rationale": "Satış ortaklığı sistemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dropshipping",
+          "rationale": "Stoksuz e-ticaret modelidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kim daha çok verirse onun öne çıktığı müzayede benzeri sistemdir."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Web sitenizin trafiğini, ziyaretçilerin davranışlarını ve sitede ne kadar süre kaldıklarını analiz etmeye yarayan en popüler ücretsiz Google aracı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Google Translate",
+          "rationale": "Çeviri aracıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Google Analytics",
+          "rationale": "Web sitesi trafiğini ve kullanıcı verilerini analiz eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Google Drive",
+          "rationale": "Dosya depolama servisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Google Maps",
+          "rationale": "Harita servisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Google Docs",
+          "rationale": "Kelime işlemcidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Site istatistiklerini ve analizlerini tutan araçtır."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Sosyal medyada kriz yönetimi yaparken izlenmesi gereken EN YANLIŞ adım hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sorunu hızlıca kabullenip özür dilemek.",
+          "rationale": "Bu doğru ve şeffaf bir kriz yönetimi adımıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olumsuz yorumları silmek ve kullanıcıyı engellemek.",
+          "rationale": "Bu durum krizi daha da büyütür ve markaya güvensizlik yaratır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kullanıcıyı özel mesaja (DM) yönlendirerek çözüm sunmak.",
+          "rationale": "Konuyu göz önünden alıp çözmek doğru bir stratejidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resmi bir açıklama metni yayınlamak.",
+          "rationale": "Kurumsal duruş için gereklidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şeffaf ve dürüst iletişim kurmak.",
+          "rationale": "Kriz anında güveni yeniden tesis eder.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Eleştiriyi yok saymak ve üstünü örtmeye çalışmakla ilgilidir."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Dijital pazarlamada potansiyel müşterilerin dikkatini çekip, onları aşama aşama satın almaya doğru yönlendiren sürece ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "SEO (Arama Motoru Optimizasyonu)",
+          "rationale": "Sadece arama görünürlüğüdür, tüm süreci kapsamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sales Funnel (Satış Hunisi)",
+          "rationale": "Farkındalıktan eyleme kadar müşterinin geçtiği yolculuğu modeller.",
+          "isCorrect": true
+        },
+        {
+          "text": "Backlink",
+          "rationale": "Dış bağlantıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Influencer Pazarlama",
+          "rationale": "Sadece bir pazarlama kanalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Viral Pazarlama",
+          "rationale": "Hızlı yayılma stratejisidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Geniş bir kitleyle başlayıp daralarak satışa giden şekle benzetilir."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Markaların potansiyel müşteri (lead) bilgisi toplamak için genellikle e-kitap, şablon veya indirim kodu karşılığında kullandığı iletişim formlarına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Lead Generation (Potansiyel Müşteri Yaratma)",
+          "rationale": "Kullanıcı bilgilerini toplama stratejisidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Spam",
+          "rationale": "İstenmeyen mesajlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çerez (Cookie)",
+          "rationale": "Tarayıcı verileridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hashtag",
+          "rationale": "Sosyal medya etiketidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "B2C",
+          "rationale": "Tüketiciye pazarlamadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kullanıcının adını ve e-postasını almak için kurulan formlardır."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Instagram'da birden fazla görseli veya videoyu yana kaydırarak gösteren reklam veya içerik formatına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Reels",
+          "rationale": "Dikey kısa videodur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stories (Hikayeler)",
+          "rationale": "24 saatte kaybolan formattır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Carousel (Dönen/Kaydırmalı Formats)",
+          "rationale": "Birden çok medyanın yana kaydırılarak izlendiği formattır.",
+          "isCorrect": true
+        },
+        {
+          "text": "IGTV",
+          "rationale": "Eski bir uzun video formatıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Canlı Yayın (Live)",
+          "rationale": "Anlık video akışıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Atlıkarınca kelimesinin İngilizcesinden gelir, yana doğru kayar."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Sosyal ağlarda belirli bir konuyu veya etkinliği kategorize etmek ve o konuyla ilgilenenlerin bulmasını kolaylaştırmak için kullanılan '#' işaretine ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mention (@)",
+          "rationale": "Birinden bahsetmek için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hashtag (Etiket)",
+          "rationale": "Konuları gruplamak ve aranabilir yapmak için kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Link",
+          "rationale": "Tıklanabilir bağlantıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emoji",
+          "rationale": "Duygu belirten ikonlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bio",
+          "rationale": "Profil açıklama kısmıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Twitter'da (X) trend olan konuların (TT) başında yer alır."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Bir web sitesinin mobil cihazlarda (akıllı telefonlar ve tabletler) düzgün görüntülenmesi ve ekran boyutuna otomatik uyum sağlamasına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "SSL Sertifikası",
+          "rationale": "Site güvenliği ile ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Web Hosting",
+          "rationale": "Site dosyalarının barındırılmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Responsive (Duyarlı) Tasarım",
+          "rationale": "Sitenin her ekran boyutuna sorunsuz uyum sağlamasıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "E-ticaret Altyapısı",
+          "rationale": "Satış modüllerini içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Domain",
+          "rationale": "Sitenin adıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ekran daraldığında menülerin ve görsellerin otomatik küçülüp yerleşmesidir."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Aşağıdakilerden hangisi dijital pazarlamada markaların hedef kitleleri hakkındaki yorumları ve marka isminin nerelerde geçtiğini takip ettiği sürece verilen isimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Social Listening (Sosyal Dinleme)",
+          "rationale": "İnternette marka hakkındaki konuşmaları ve eğilimleri takip etme sürecidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İçerik Üretimi",
+          "rationale": "Yeni gönderi oluşturmaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "A/B Testi",
+          "rationale": "İki reklamı kıyaslamaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "SEO Backlink",
+          "rationale": "Bağlantı inşasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeniden Pazarlama",
+          "rationale": "Eski ziyaretçiye reklam göstermektir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İnternette arkanızdan kim ne konuşuyor diye 'kulak kabartmak' gibidir."
+    },
+    {
+      "questionNumber": 32,
+      "question": "E-posta pazarlamasında atılan maillerin alıcının ana kutusu yerine 'Gereksiz' kutusuna düşmesine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bounce (Geri Dönme)",
+          "rationale": "Mailin hiç iletilememesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spam",
+          "rationale": "İstenmeyen ve çöp mail olarak filtrelenmesidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Opt-in",
+          "rationale": "İzinli pazarlamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Click-through",
+          "rationale": "Tıklamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Conversion",
+          "rationale": "Dönüşümdür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İnternet ortamının çöp kutusu niteliğindeki mail klasörüdür."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Markaların diğer şirketlerin ürün veya hizmetlerini pazarlayarak gerçekleşen satış üzerinden komisyon kazandığı modele ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "B2B",
+          "rationale": "İşletmeden işletmeye ticarettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Affiliate Marketing (Satış Ortaklığı)",
+          "rationale": "Başkalarının ürünlerini önerip satış başı komisyon kazanma sistemidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dropshipping",
+          "rationale": "Stoksuz e-ticarettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Influencer Marketing",
+          "rationale": "Fenomen pazarlamasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gerilla Pazarlama",
+          "rationale": "Sokak pazarlamasıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Trendyol vb. sitelerin linkini paylaşıp satıştan pay alma sistemidir."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Müşterinin sadece ilgisini çekmekle kalmayıp, kendi rızasıyla size gelmesini sağlayan, kaliteli içerik ve SEO odaklı 'çekme' pazarlama stratejisine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Outbound Marketing",
+          "rationale": "Geleneksel ve itici (araya giren) pazarlamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inbound Marketing",
+          "rationale": "Değerli içeriklerle müşteriyi doğal olarak markaya çeken modern pazarlamadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Telemarketing",
+          "rationale": "Telefonla satıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gerilla Pazarlama",
+          "rationale": "Beklenmedik anlarda yapılan reklamdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "B2C",
+          "rationale": "Tüketiciye satış modelidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Müşteriyi reklamla bölmek yerine, aradığında bulunabilir olma stratejisidir."
+    },
+    {
+      "questionNumber": 35,
+      "question": "YouTube, Instagram ve TikTok gibi platformlarda dikey formatta çekilen, genellikle 15-60 saniye süren içeriklere genel olarak ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Podcast",
+          "rationale": "Sesli yayınlardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Blog Yazısı",
+          "rationale": "Metin tabanlı içeriktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Short-form Video (Kısa Format Video)",
+          "rationale": "Reels, Shorts ve TikTok videolarının genel adıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "E-kitap",
+          "rationale": "Dijital kitaptır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Webinar",
+          "rationale": "Online seminerdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İçerik tüketim hızının en yüksek olduğu dikey video türüdür."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Bir web sitesinin ziyaretçilere daha iyi bir gezinti, hız ve kullanım kolaylığı sunması için yapılan tasarımsal iyileştirmelere ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Backend Geliştirme",
+          "rationale": "Sitenin arka plan ve veritabanı kodlamasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "SEO",
+          "rationale": "Arama motoru optimizasyonudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "UX (Kullanıcı Deneyimi)",
+          "rationale": "Ziyaretçinin siteyi rahat ve sorunsuz kullanmasını sağlamak için yapılan tasarımdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "API Entegrasyonu",
+          "rationale": "Sistemlerin birbiriyle konuşmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "SEM",
+          "rationale": "Arama motoru pazarlamasıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İngilizce 'User Experience' kelimesinin kısaltmasıdır."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Tüketicilerin bir markayla tanışmasından başlayıp, satın alma ve sonrasındaki sadakat sürecini kapsayan tüm yolculuğa ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rakip Analizi",
+          "rationale": "Diğer firmaları incelemektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pazar Araştırması",
+          "rationale": "Sektör verilerini toplamaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteri Yolculuğu (Customer Journey)",
+          "rationale": "Müşterinin markayla yaşadığı tüm temas noktaları ve süreçtir.",
+          "isCorrect": true
+        },
+        {
+          "text": "A/B Testi",
+          "rationale": "Reklam testi yöntemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeniden Pazarlama",
+          "rationale": "Eski ziyaretçiye reklam göstermektir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Müşterinin ilk andan itibaren markanızla çıktığı 'seyahattir'."
+    },
+    {
+      "questionNumber": 38,
+      "question": "E-ticarette sepete ürün ekleyen ancak satın almadan çıkan kullanıcıları geri getirmek için e-posta gönderilmesi stratejisine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Terk Edilmiş Sepet (Abandoned Cart) Maili",
+          "rationale": "Sepette bırakılan ürünleri hatırlatarak satışı tamamlatmayı hedefler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hoşgeldin (Welcome) Maili",
+          "rationale": "Yeni üyelere atılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spam Mail",
+          "rationale": "İstenmeyen maillerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soğuk (Cold) E-posta",
+          "rationale": "Tanımayan kişilere atılan ilk maildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bülten (Newsletter)",
+          "rationale": "Düzenli bilgi içerikli maillerdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ürünlerinizi 'arabada unutana' gönderdiğiniz hatırlatmadır."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Sürekli güncel kalan, zaman geçse de değerini ve doğruluğunu yitirmeyen blog yazılarına veya içeriklere ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Viral İçerik",
+          "rationale": "Hızlıca yayılan ve sönen içeriktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trend İçerik",
+          "rationale": "Sadece o dönem popüler olan konulardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Evergreen (Herdem Yeşil) İçerik",
+          "rationale": "Yıllar geçse de eskimeyen ve aranmaya devam eden içeriklerdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kısa İçerik",
+          "rationale": "Uzunluğu az olan içeriktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sponsorlu İçerik",
+          "rationale": "Ücret karşılığı yayınlanandır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çam ağaçları gibi dört mevsim yeşil kalan içeriklerdir."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Fiziksel mağaza, web sitesi ve mobil uygulamanın birbiriyle tam entegre çalışarak kesintisiz bir müşteri deneyimi sunmasına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tek Kanallı (Single-channel)",
+          "rationale": "Sadece bir yerden satıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çok Kanallı (Multi-channel)",
+          "rationale": "Birden çok kanalda bulunmaktır ama entegre olmak zorunda değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bütünleşik (Omni-channel) Pazarlama",
+          "rationale": "Tüm kanalların birbiriyle senkronize ve bütünleşik çalışmasıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sıfırıncı Kanal",
+          "rationale": "Böyle bir pazarlama terimi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geleneksel Pazarlama",
+          "rationale": "Fiziksel reklamcılıktır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Latince 'tüm' anlamına gelen bir ön ek ile başlar."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Aşağıdakilerden hangisi bir web sitesinin arama motorlarındaki organik sıralamasını DÜŞÜREN zararlı bir SEO tekniğidir (Black Hat SEO)?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Özgün ve kaliteli içerik üretmek",
+          "rationale": "Sıralamayı yükseltir (White Hat).",
+          "isCorrect": false
+        },
+        {
+          "text": "Site yüklenme hızını artırmak",
+          "rationale": "Sıralamayı yükseltir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sayfayı gizli metinler ve aşırı anahtar kelime ile doldurmak (Keyword Stuffing)",
+          "rationale": "Arama motorlarını kandırmaya yönelik spam bir işlemdir ve ceza almanıza neden olur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mobil uyumlu tasarım yapmak",
+          "rationale": "Sıralamayı yükseltir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenilir sitelerden doğal backlink almak",
+          "rationale": "Sıralamayı yükseltir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Okuyucuya hiçbir değer katmayan, sadece botları kandırmaya çalışan hiledir."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Sosyal medyada rakip analizi yaparken rakiplerin hangi verilerini doğrudan (ücretsiz olarak) GÖREMEYİZ?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Takipçi sayısını",
+          "rationale": "Profillerde herkese açıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gönderilerin beğeni ve yorum sayılarını",
+          "rationale": "Gönderilerin altında herkese açıktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Reklamlara harcadıkları toplam bütçeyi",
+          "rationale": "Bu veri gizlidir ve marka paneli haricinde bilinemez.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hangi içerik formatlarını (Video, Görsel) kullandıklarını",
+          "rationale": "Profili inceleyerek görülebilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Paylaşım sıklıklarını",
+          "rationale": "Gönderi tarihlerinden hesaplanabilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Finansal ve şirkete özel sırlar dışarıdan gözlemlenemez."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Bir markanın kurumsal kimliğini sosyal medyada yansıtırken kullandığı dil, üslup ve hitap şekline ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Marka Rengi",
+          "rationale": "Görsel kimliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Logo",
+          "rationale": "Görsel kimliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Marka Sesi ve Tonu (Tone of Voice)",
+          "rationale": "Markanın müşterisiyle kurduğu iletişimin karakteri ve duygusudur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hedef Kitle",
+          "rationale": "Kime hitap edildiğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Influencer Eğilimi",
+          "rationale": "Fenomen stratejisidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Markanız insan olsaydı nasıl konuşurdu sorusunun cevabıdır."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Büyük veri setlerini, e-postaları veya reklam kampanyalarını insan müdahalesi olmadan yazılımlar aracılığıyla yönetme işlemine ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Geleneksel Pazarlama",
+          "rationale": "Fiziksel mecralardadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pazarlama Otomasyonu (Marketing Automation)",
+          "rationale": "Tekrarlanan pazarlama görevlerini yazılımlar aracılığıyla otomatik yürütmektir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sosyal Medya Dinlemesi",
+          "rationale": "Marka ismini takip etmektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Satış Ortaklığı",
+          "rationale": "Affiliate marketingdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ağızdan Ağıza Pazarlama",
+          "rationale": "Müşterilerin tavsiyesidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İşleri 'otomatik' pilota bağlayan sistemlerdir."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Web sitenizin adının (örneğin: www.sirketiniz.com) internet dünyasındaki genel adına ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hosting (Barındırma)",
+          "rationale": "Dosyaların durduğu yerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "IP Adresi",
+          "rationale": "Cihazın ağdaki numarasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Domain (Alan Adı)",
+          "rationale": "Sitenizin internetteki adresidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "HTML",
+          "rationale": "Kodlama dilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "SSL",
+          "rationale": "Güvenlik sertifikasıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İşletmenizin internetteki tabelasıdır."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Mevcut müşterilerin markayı terk etme ve aboneliklerini iptal etme oranını gösteren metrik hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Büyüme Oranı",
+          "rationale": "Aksine, artışı gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tıklama Oranı",
+          "rationale": "Reklam etkileşimidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dönüşüm Oranı",
+          "rationale": "Hedefi tamamlama oranıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kayıp Oranı (Churn Rate)",
+          "rationale": "Müşterilerin markayı bırakma oranını ifade eder.",
+          "isCorrect": true
+        },
+        {
+          "text": "Açılma Oranı",
+          "rationale": "E-posta metriğidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Müşteri 'terk' oranı olarak da bilinir."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Geniş bir pazarda sadece belirli, özel ve dar bir alana (örneğin sadece solaklara özel makas üreten firma) hitap etmeye ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kitlesel Pazarlama",
+          "rationale": "Herkese satış yapmaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "B2B Pazarlama",
+          "rationale": "İşletmeden işletmeye satıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Niş (Niche) Pazarlama",
+          "rationale": "Çok spesifik, dar bir hedef kitleye yönelik ürün ve hizmet sunmaktır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yeniden Pazarlama",
+          "rationale": "Siteden çıkanlara reklam göstermektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Viral Pazarlama",
+          "rationale": "Hızlı yayılma stratejisidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çok dar ve özel bir kitleye odaklanmayı ifade eder."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Bir kullanıcının sizin web sitenizde gerçekleştirmesini istediğiniz en önemli aksiyona (form doldurma, satın alma, arama) ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bounce (Hemen Çıkma)",
+          "rationale": "Siteden çıkmaktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Impression (Gösterim)",
+          "rationale": "Sadece görüntülenmedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Conversion (Dönüşüm)",
+          "rationale": "Ziyaretçinin beklenen hedefe ulaşması ve işlem yapmasıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Reach (Erişim)",
+          "rationale": "Ulaşılan kişi sayısıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Click (Tıklama)",
+          "rationale": "Sadece linke basmaktır, asıl amaç değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ziyaretçinin müşteriye dönüştüğü o altın andır."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Bir pazarlama bütçesinin, tek bir müşteri kazanmak için ortalama ne kadar harcandığını gösteren değere ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tıklama Başına Maliyet (CPC)",
+          "rationale": "Sadece reklama tıklama ücretidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yatırım Getirisi (ROI)",
+          "rationale": "Kazancın maliyete oranıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteri Edinme Maliyeti (CAC / CPA)",
+          "rationale": "Yeni bir müşteriyi veya işlemi kazanmak için harcanan ortalama fiyattır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Açılma Oranı",
+          "rationale": "E-posta istatistiğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Organik Trafik",
+          "rationale": "Ücretsiz ziyaretçidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İngilizce 'Customer Acquisition Cost' (Müşteri Edinme Maliyeti) kavramıdır."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Sosyal medyada markanızın hedef kitlesini belirlerken onların 'Hobileri, yaşam tarzları, değer yargıları ve ilgilendikleri konular' hangi analizin içine girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Demografik Analiz",
+          "rationale": "Yaş, cinsiyet, gelir gibi istatistiksel verilerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Coğrafi Analiz",
+          "rationale": "Konum, ülke ve şehir bilgisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Psikografik Analiz",
+          "rationale": "Tüketicilerin yaşam tarzı, ilgi alanları ve psikolojik özelliklerini inceler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Teknografik Analiz",
+          "rationale": "Kullanılan cihazları (mobil, masaüstü) inceler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rakip Analizi",
+          "rationale": "Rakipleri incelemektir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kullanıcıların 'nasıl düşündüğü ve yaşadığı' ile ilgili olan analizdir."
+    }
+  ]
+}
