@@ -1,0 +1,2224 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Çay demlerken kullanılacak suyun özelliği aşağıdakilerden hangisi olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kireçli ve sert su", "rationale": "Bu tür su çayın lezzetini bozar.", "isCorrect": false},
+        {"text": "Bayat su", "rationale": "Taze su kullanılmalıdır.", "isCorrect": false},
+        {"text": "Taze, yumuşak ve kireçsiz su", "rationale": "Doğru demleme için ideal sudur.", "isCorrect": true},
+        {"text": "Soğuk su", "rationale": "Su kaynama noktasına ulaşmalıdır.", "isCorrect": false},
+        {"text": "Şekerli su", "rationale": "Şeker sonradan eklenir.", "isCorrect": false}
+      ],
+      "hint": "Suyun kalitesi çayın tadını doğrudan etkiler."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Çay suyu neden uzun süre kaynatılmamalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Rengi koyulaşır", "rationale": "Ana sebep bu değildir.", "isCorrect": false},
+        {"text": "Şeker erimez", "rationale": "Şekerle ilgili değildir.", "isCorrect": false},
+        {"text": "Oksijen kaybı olur ve lezzeti azalır", "rationale": "Uzun kaynama lezzeti düşürür.", "isCorrect": true},
+        {"text": "Çay taşar", "rationale": "Bu teknik bir sorun değildir.", "isCorrect": false},
+        {"text": "Su buharlaşmaz", "rationale": "Yanlış bir bilgidir.", "isCorrect": false}
+      ],
+      "hint": "Kimyasal bir değişim olur."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Çay demlerken en uygun demlik türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Metal demlik", "rationale": "Aroma kaybına neden olabilir.", "isCorrect": false},
+        {"text": "Plastik demlik", "rationale": "Uygun değildir.", "isCorrect": false},
+        {"text": "Porselen demlik", "rationale": "En ideal seçimdir.", "isCorrect": true},
+        {"text": "Cam bardak", "rationale": "Demlik değildir.", "isCorrect": false},
+        {"text": "Bakır kap", "rationale": "Standart değildir.", "isCorrect": false}
+      ],
+      "hint": "Aroma kaybını önleyen malzemeyi düşün."
+    },
+    {
+      "questionNumber": 4,
+      "question": "1 silme tatlı kaşığı çay ile yaklaşık kaç bardak çay elde edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1 bardak", "rationale": "Yetersizdir.", "isCorrect": false},
+        {"text": "2–4 bardak", "rationale": "Doğru oran budur.", "isCorrect": true},
+        {"text": "5–6 bardak", "rationale": "Fazladır.", "isCorrect": false},
+        {"text": "7 bardak", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "10 bardak", "rationale": "Gerçekçi değildir.", "isCorrect": false}
+      ],
+      "hint": "Orta seviyede bir miktar düşün."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Çayın ideal demlenme süresi aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1–2 dakika", "rationale": "Yetersizdir.", "isCorrect": false},
+        {"text": "3–4 dakika", "rationale": "Tam aromayı vermez.", "isCorrect": false},
+        {"text": "5–7 dakika minimum, 10–15 dakika ideal", "rationale": "Doğru aralıktır.", "isCorrect": true},
+        {"text": "20–30 dakika", "rationale": "Fazla demleme acılaştırır.", "isCorrect": false},
+        {"text": "1 saat", "rationale": "Yanlıştır.", "isCorrect": false}
+      ],
+      "hint": "Hem minimum hem ideal süre vardır."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Çayın demi ile ilgili doğru ifade hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Dem kaynatılmalıdır", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Dem soğuk suyla yapılır", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Dem kaynatılmamalıdır", "rationale": "Doğru bilgidir.", "isCorrect": true},
+        {"text": "Dem sadece buzla hazırlanır", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Dem hemen içilmelidir", "rationale": "Demlenme gerekir.", "isCorrect": false}
+      ],
+      "hint": "En önemli kural!"
+    },
+    {
+      "questionNumber": 7,
+      "question": "Demlenen çay en geç ne kadar sürede tüketilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "10 dakika", "rationale": "Çok kısa.", "isCorrect": false},
+        {"text": "20 dakika", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "30 dakika", "rationale": "Doğru süredir.", "isCorrect": true},
+        {"text": "1 saat", "rationale": "Uzundur.", "isCorrect": false},
+        {"text": "2 saat", "rationale": "Yanlıştır.", "isCorrect": false}
+      ],
+      "hint": "Yarım saat kuralı."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Çay servisinde aşağıdakilerden hangisi bulunur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Tuz", "rationale": "Kullanılmaz.", "isCorrect": false},
+        {"text": "Şeker veya tatlandırıcı", "rationale": "Servisin parçasıdır.", "isCorrect": true},
+        {"text": "Yağ", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Baharat", "rationale": "Kullanılmaz.", "isCorrect": false},
+        {"text": "Süt zorunludur", "rationale": "Zorunlu değildir.", "isCorrect": false}
+      ],
+      "hint": "En klasik eşlikçi."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Buzlu çay nasıl hazırlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Çayı kaynatmadan", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Demlenmiş çaya buz eklenerek", "rationale": "Doğru yöntemdir.", "isCorrect": true},
+        {"text": "Sadece soğuk suyla", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Şekerle kaynatarak", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Çayı dondurarak", "rationale": "Yanlıştır.", "isCorrect": false}
+      ],
+      "hint": "Temel çaydan yapılır."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Aşağıdakilerden hangisi bar çeşitlerinden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Market bar", "rationale": "Yoktur.", "isCorrect": false},
+        {"text": "Amerikan bar", "rationale": "Doğru cevaptır.", "isCorrect": true},
+        {"text": "Ev barı", "rationale": "Standart değildir.", "isCorrect": false},
+        {"text": "Okul barı", "rationale": "Yanlıştır.", "isCorrect": false},
+        {"text": "Kütüphane barı", "rationale": "Yanlıştır.", "isCorrect": false}
+      ],
+      "hint": "En bilinen bar türü."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Snack barın diğer adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Gece barı", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Express bar", "rationale": "Doğru eş anlamlıdır.", "isCorrect": true},
+        {"text": "Lobby bar", "rationale": "Farklıdır.", "isCorrect": false},
+        {"text": "Roof bar", "rationale": "Farklıdır.", "isCorrect": false},
+        {"text": "Servis bar", "rationale": "Farklıdır.", "isCorrect": false}
+      ],
+      "hint": "Hızlı servisle ilgilidir."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Bar müdürü hangi pozisyondadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "En alt kadro", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Orta yönetim", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Stajyer", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Garson", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Depo sorumlusu", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Yönetici kadrodur."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Şef barmenin diğer adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Bar komisi", "rationale": "Alt kadro.", "isCorrect": false},
+        {"text": "Bar captain", "rationale": "Doğru karşılıktır.", "isCorrect": true},
+        {"text": "Garson", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Şef garson", "rationale": "Farklıdır.", "isCorrect": false},
+        {"text": "Kontrolör", "rationale": "Farklıdır.", "isCorrect": false}
+      ],
+      "hint": "İngilizce karşılığı."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Aşağıdakilerden hangisi en üst yönetim kadrosudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Garson", "rationale": "Alt kadro.", "isCorrect": false},
+        {"text": "Genel Müdür", "rationale": "En üst düzeydir.", "isCorrect": true},
+        {"text": "Komi", "rationale": "Alt kadro.", "isCorrect": false},
+        {"text": "Barmen", "rationale": "Alt kadro.", "isCorrect": false},
+        {"text": "Bar komisi", "rationale": "Alt kadro.", "isCorrect": false}
+      ],
+      "hint": "Organizasyonun tepesinde kim var?"
+    },
+    {
+      "questionNumber": 15,
+      "question": "Aşağıdakilerden hangisi en alt kadroda yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Genel Müdür", "rationale": "En üst kadro.", "isCorrect": false},
+        {"text": "Bar müdürü", "rationale": "Orta kadro.", "isCorrect": false},
+        {"text": "Komi", "rationale": "Alt kadrodur.", "isCorrect": true},
+        {"text": "Şef aşçı", "rationale": "Orta kadro.", "isCorrect": false},
+        {"text": "Kontrolör", "rationale": "Orta kadro.", "isCorrect": false}
+      ],
+      "hint": "Hizmet başlangıç seviyesi."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Çay servisi yapılmadan önce ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Şeker eklenir", "rationale": "Servis sırasında olur.", "isCorrect": false},
+        {"text": "Çay karıştırılır", "rationale": "Doğru uygulamadır.", "isCorrect": true},
+        {"text": "Çay kaynatılır", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Soğutulur", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Dondurulur", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Homojenlik sağlanır."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Çay servisi nasıl yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece süzmeden", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Süzülerek bardağa alınır", "rationale": "Doğru yöntemdir.", "isCorrect": true},
+        {"text": "Direkt içilir", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Karıştırılmadan verilir", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Soğuk verilir", "rationale": "Genelde sıcak verilir.", "isCorrect": false}
+      ],
+      "hint": "Filtreleme işlemi yapılır."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Aşağıdakilerden hangisi bar çeşitlerinden değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Lobby bar", "rationale": "Gerçek bir tür.", "isCorrect": false},
+        {"text": "Roof bar", "rationale": "Gerçek bir tür.", "isCorrect": false},
+        {"text": "Disco bar", "rationale": "Gerçek bir tür.", "isCorrect": false},
+        {"text": "Kütüphane barı", "rationale": "Standart değildir.", "isCorrect": true},
+        {"text": "Servis bar", "rationale": "Gerçek bir tür.", "isCorrect": false}
+      ],
+      "hint": "Gerçek listeyi düşün."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Çay suyu demliğe ne zaman eklenmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Soğukken", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kaynadıktan sonra bekletilince", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Tam kaynama noktasında", "rationale": "Doğru zamandır.", "isCorrect": true},
+        {"text": "Yarım kaynamışken", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Donmuşken", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "En sıcak an."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Çayın yanında yaygın olarak ne servis edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Peynir", "rationale": "Standart değildir.", "isCorrect": false},
+        {"text": "Dilimlenmiş limon", "rationale": "Doğru cevaptır.", "isCorrect": true},
+        {"text": "Et", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Yoğurt", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Makarna", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Ekşi bir eşlikçi."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Kahve nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kahve ağacının yaprağıdır", "rationale": "Yanlış, kahve yapraktan elde edilmez.", "isCorrect": false},
+        {"text": "Kahve ağacının meyvesinin çekirdeğidir", "rationale": "Doğru, kahve meyvenin çekirdeğidir.", "isCorrect": true},
+        {"text": "Ağacın kabuğudur", "rationale": "Yanlış, kabuk kullanılmaz.", "isCorrect": false},
+        {"text": "Kök kısmıdır", "rationale": "Yanlış, kök kullanılmaz.", "isCorrect": false},
+        {"text": "Çiçeğidir", "rationale": "Yanlış, çiçek değil çekirdek kullanılır.", "isCorrect": false}
+      ],
+      "hint": "Meyve ve çekirdek ilişkisini düşün."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Bir kahve meyvesinde kaç kahve çekirdeği bulunur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1", "rationale": "Genelde 2 çekirdek vardır.", "isCorrect": false},
+        {"text": "2", "rationale": "Doğru, her meyvede 2 çekirdek bulunur.", "isCorrect": true},
+        {"text": "3", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "4", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "5", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Çift sayıyı hatırla."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Türk kahvesi ortalama kaç dakika kavrulur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1–2 dk", "rationale": "Çok kısa.", "isCorrect": false},
+        {"text": "3–5 dk", "rationale": "Filtre kahve süresi.", "isCorrect": false},
+        {"text": "6–7 dk", "rationale": "Eksik.", "isCorrect": false},
+        {"text": "8–10 dk", "rationale": "Doğru kavurma süresi.", "isCorrect": true},
+        {"text": "15 dk", "rationale": "Fazla uzun.", "isCorrect": false}
+      ],
+      "hint": "En uzun kavrulan kahve türü."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Filtre kahve kaç dakika kavrulur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1–2 dk", "rationale": "Çok kısa.", "isCorrect": false},
+        {"text": "3–5 dk", "rationale": "Doğru süre.", "isCorrect": true},
+        {"text": "8–10 dk", "rationale": "Türk kahvesi süresi.", "isCorrect": false},
+        {"text": "10–15 dk", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "20 dk", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Türk kahvesinden daha kısa."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Kahve aşağıdakilerden hangisinden uzak tutulmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Işık", "rationale": "Doğru ama eksik.", "isCorrect": false},
+        {"text": "Nem", "rationale": "Doğru ama eksik.", "isCorrect": false},
+        {"text": "Koku", "rationale": "Doğru ama eksik.", "isCorrect": false},
+        {"text": "Hepsi", "rationale": "Doğru, hepsinden uzak tutulmalıdır.", "isCorrect": true},
+        {"text": "Hiçbiri", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Birden fazla doğru var."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Kahve hazırlanırken hangi su kullanılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Musluk suyu", "rationale": "Her zaman uygun değil.", "isCorrect": false},
+        {"text": "Kirli su", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Temiz içme suyu", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Deniz suyu", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Yağmur suyu", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Sağlıklı ve içilebilir olmalı."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Kahve saklama kabı nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Açık", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kapaksız", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kapalı", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Kirli", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Nemli", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Hava almaması gerekir."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Yeni kahve ne zaman eklenmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Eski kahve bitmeden", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Her zaman", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Eski kahve bittikten sonra", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Islakken", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Açık kapta", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Karıştırılmamalıdır."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Kahve kabına nasıl kaşık sokulmamalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Temiz kaşık", "rationale": "Sorun yok.", "isCorrect": false},
+        {"text": "Kuru kaşık", "rationale": "Doğru kullanım.", "isCorrect": false},
+        {"text": "Islak kaşık", "rationale": "Doğru cevap.", "isCorrect": true},
+        {"text": "Metal kaşık", "rationale": "Sorun değil.", "isCorrect": false},
+        {"text": "Plastik kaşık", "rationale": "Sorun değil.", "isCorrect": false}
+      ],
+      "hint": "Nem zararlıdır."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Kahve kapları temizlenirken ne kullanılmamalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kokusuz sabun", "rationale": "Kullanılabilir.", "isCorrect": false},
+        {"text": "Su", "rationale": "Gerekli.", "isCorrect": false},
+        {"text": "Kokulu deterjan", "rationale": "Doğru cevap.", "isCorrect": true},
+        {"text": "Bez", "rationale": "Kullanılabilir.", "isCorrect": false},
+        {"text": "Sünger", "rationale": "Kullanılabilir.", "isCorrect": false}
+      ],
+      "hint": "Koku bırakmamalı."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Fincan temizliğinde neye dikkat edilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kokulu sabun", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Bol su ile durulama", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Hiç yıkamamak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sadece silmek", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kirli bırakmak", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Kalıntı bırakmamalı."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Aşağıdakilerden hangisi soğuk alkolsüz içecektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Çay", "rationale": "Sıcak içecek.", "isCorrect": false},
+        {"text": "Kahve", "rationale": "Sıcak içecek.", "isCorrect": false},
+        {"text": "Ayran", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Salep", "rationale": "Sıcak.", "isCorrect": false},
+        {"text": "Kakao", "rationale": "Sıcak.", "isCorrect": false}
+      ],
+      "hint": "Serinletici içecek düşün."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Aşağıdakilerden hangisi soğuk içecek değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kola", "rationale": "Soğuk.", "isCorrect": false},
+        {"text": "Meyve suyu", "rationale": "Soğuk.", "isCorrect": false},
+        {"text": "Ayran", "rationale": "Soğuk.", "isCorrect": false},
+        {"text": "Çay", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Gazoz", "rationale": "Soğuk.", "isCorrect": false}
+      ],
+      "hint": "Sıcak olanı seç."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Aşağıdakilerden hangisi sıcak içecektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Tonik", "rationale": "Soğuk.", "isCorrect": false},
+        {"text": "Buzlu çay", "rationale": "Soğuk.", "isCorrect": false},
+        {"text": "Çay", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Ayran", "rationale": "Soğuk.", "isCorrect": false},
+        {"text": "Maden suyu", "rationale": "Soğuk.", "isCorrect": false}
+      ],
+      "hint": "Geleneksel sıcak içecek."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Aşağıdakilerden hangisi sıcak alkolsüz içeceklerden biridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kola", "rationale": "Soğuk.", "isCorrect": false},
+        {"text": "Espresso", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Gazoz", "rationale": "Soğuk.", "isCorrect": false},
+        {"text": "Ayran", "rationale": "Soğuk.", "isCorrect": false},
+        {"text": "Tonik", "rationale": "Soğuk.", "isCorrect": false}
+      ],
+      "hint": "Kahve türü."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Aşağıdakilerden hangisi kahve saklama hatasıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kapalı saklamak", "rationale": "Doğru yöntem.", "isCorrect": false},
+        {"text": "Temiz kap kullanmak", "rationale": "Doğru.", "isCorrect": false},
+        {"text": "Islak kaşık kullanmak", "rationale": "Doğru cevap.", "isCorrect": true},
+        {"text": "Serin yerde saklamak", "rationale": "Doğru.", "isCorrect": false},
+        {"text": "Kokusuz ortam", "rationale": "Doğru.", "isCorrect": false}
+      ],
+      "hint": "Nem zararlıdır."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Kahve hangi ortamda saklanmamalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kuru ortam", "rationale": "Doğru ortam.", "isCorrect": false},
+        {"text": "Serin ortam", "rationale": "Uygun.", "isCorrect": false},
+        {"text": "Nemli ortam", "rationale": "Doğru cevap.", "isCorrect": true},
+        {"text": "Karanlık ortam", "rationale": "Uygun.", "isCorrect": false},
+        {"text": "Temiz ortam", "rationale": "Uygun.", "isCorrect": false}
+      ],
+      "hint": "Nem düşmandır."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Aşağıdakilerden hangisi soğuk içecekler arasında yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Salep", "rationale": "Sıcak.", "isCorrect": false},
+        {"text": "Kakao", "rationale": "Sıcak.", "isCorrect": false},
+        {"text": "Buzlu çay", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Moka", "rationale": "Sıcak.", "isCorrect": false},
+        {"text": "Espresso", "rationale": "Sıcak.", "isCorrect": false}
+      ],
+      "hint": "İçinde buz olan."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Aşağıdakilerden hangisi sıcak içecek değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Çay", "rationale": "Sıcak.", "isCorrect": false},
+        {"text": "Kakao", "rationale": "Sıcak.", "isCorrect": false},
+        {"text": "Ayran", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Espresso", "rationale": "Sıcak.", "isCorrect": false},
+        {"text": "Salep", "rationale": "Sıcak.", "isCorrect": false}
+      ],
+      "hint": "Soğuk içecek."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Kahve hazırlanırken en önemli kalite kriterlerinden biri nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Eski kahve kullanmak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Taze kavrulmuş kahve kullanmak", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Islak saklamak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Açık kapta tutmak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kirli fincan kullanmak", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Tazelik önemli."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Türk kahvesi ideal olarak hangi ateşte pişirilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yüksek ateşte", "rationale": "Türk kahvesi yüksek ateşte pişirilmez.", "isCorrect": false},
+        {"text": "Orta ateşte", "rationale": "Orta ateş tercih edilmez.", "isCorrect": false},
+        {"text": "Kısık ateşte", "rationale": "Türk kahvesi kısık ateşte pişirilmelidir.", "isCorrect": true},
+        {"text": "Fırında", "rationale": "Fırında pişirme yapılmaz.", "isCorrect": false},
+        {"text": "Açık alevde hızlıca", "rationale": "Hızlı pişirme doğru değildir.", "isCorrect": false}
+      ],
+      "hint": "Yavaş pişirme esastır."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Türk kahvesinin en önemli kalite göstergesi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Rengi", "rationale": "Renk tek başına yeterli değildir.", "isCorrect": false},
+        {"text": "Kokusu", "rationale": "Koku önemli ama temel kriter değildir.", "isCorrect": false},
+        {"text": "Köpüğü", "rationale": "Köpüklü olması en önemli özelliktir.", "isCorrect": true},
+        {"text": "Şeker oranı", "rationale": "Şeker tercihe bağlıdır.", "isCorrect": false},
+        {"text": "Sıcaklığı", "rationale": "Sıcaklık önemlidir ama ana kriter değildir.", "isCorrect": false}
+      ],
+      "hint": "Sunumda ilk dikkat edilen şeydir."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Türk kahvesinde her fincan için ne kadar kahve konulmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1 yemek kaşığı", "rationale": "Fazla olur.", "isCorrect": false},
+        {"text": "1 çay kaşığı", "rationale": "Doğru ölçüdür.", "isCorrect": true},
+        {"text": "Yarım çay kaşığı", "rationale": "Yetersiz olur.", "isCorrect": false},
+        {"text": "2 çay kaşığı", "rationale": "Fazla olur.", "isCorrect": false},
+        {"text": "Hiç konmaz", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Standart ölçü küçük kaşıktır."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Türk kahvesi yapımında şeker ne zaman eklenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Servisten sonra", "rationale": "Geç olur.", "isCorrect": false},
+        {"text": "Piştikten sonra", "rationale": "Doğru yöntem değildir.", "isCorrect": false},
+        {"text": "Başlangıçta", "rationale": "Şeker başta eklenir.", "isCorrect": true},
+        {"text": "Köpükten sonra", "rationale": "Yanlış zamanlama.", "isCorrect": false},
+        {"text": "Hiç eklenmez", "rationale": "Şeker isteğe bağlıdır.", "isCorrect": false}
+      ],
+      "hint": "Siparişe göre en başta konur."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Türk kahvesi ilk kabardıktan sonra ne yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Karıştırılır", "rationale": "Hemen karıştırılmaz.", "isCorrect": false},
+        {"text": "Ateşten alınır ve beklenir", "rationale": "Doğru işlem budur.", "isCorrect": true},
+        {"text": "Şeker eklenir", "rationale": "Şeker zaten başta eklenir.", "isCorrect": false},
+        {"text": "Hemen servis edilir", "rationale": "Erkendir.", "isCorrect": false},
+        {"text": "Kaynamaya bırakılır", "rationale": "Yanlış yöntem.", "isCorrect": false}
+      ],
+      "hint": "Kabarmadan sonra dinlendirme vardır."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Türk kahvesi çöktükten sonra kaç kez karıştırılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Hiç", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "1 kez", "rationale": "Doğru cevap.", "isCorrect": true},
+        {"text": "2 kez", "rationale": "Fazladır.", "isCorrect": false},
+        {"text": "3 kez", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sürekli", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Bu detay sınavda çok sorulur."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Köpük fincanlara nasıl dağıtılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Bardakla", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kaşıkla", "rationale": "Çay kaşığı ile dağıtılır.", "isCorrect": true},
+        {"text": "Cezveyle dökülür", "rationale": "Köpük eşit olmaz.", "isCorrect": false},
+        {"text": "Karıştırılarak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Elenerek", "rationale": "Alakasız.", "isCorrect": false}
+      ],
+      "hint": "Küçük kaşık kullanılır."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Türk kahvesi servis edilirken misafirin hangi tarafından sunulur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sol", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sağ", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Ön", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Arka", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fark etmez", "rationale": "Servis kuralı vardır.", "isCorrect": false}
+      ],
+      "hint": "Servis kurallarını düşün."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Bira depolama sıcaklığı kaç derece olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "0-5°C", "rationale": "Çok düşük.", "isCorrect": false},
+        {"text": "13-15°C", "rationale": "Doğru aralık.", "isCorrect": true},
+        {"text": "20°C", "rationale": "Yüksek.", "isCorrect": false},
+        {"text": "25°C", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "30°C", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Orta seviyede bir sıcaklık."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Lager bira hangi sıcaklıkta servis edilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "3°C", "rationale": "Çok soğuk.", "isCorrect": false},
+        {"text": "7°C", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "10°C", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "15°C", "rationale": "Ale içindir.", "isCorrect": false},
+        {"text": "20°C", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Lager daha soğuk servis edilir."
+    },
+    {
+      "questionNumber": 51,
+      "question": "Ale bira hangi sıcaklıkta servis edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "5°C", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "7°C", "rationale": "Lager içindir.", "isCorrect": false},
+        {"text": "13-15°C", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "0°C", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "20°C", "rationale": "Yüksek.", "isCorrect": false}
+      ],
+      "hint": "Daha sıcak servis edilir."
+    },
+    {
+      "questionNumber": 52,
+      "question": "Şişe bira nerede açılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Mutfakta", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Bar arkasında", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Misafirin yanında", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Depoda", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Servis sonrası", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Hijyen ve güven açısından önemli."
+    },
+    {
+      "questionNumber": 53,
+      "question": "Şişe birada neden dibinde biraz bira bırakılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Daha az servis etmek için", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Tortu olabileceği için", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Bardak dolmasın diye", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Köpük oluşsun diye", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Gelenek olduğu için", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Şişe dibini düşün."
+    },
+    {
+      "questionNumber": 54,
+      "question": "Bira servisi hangi taraftan yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sol", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sağ", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Ön", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Arka", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fark etmez", "rationale": "Kural vardır.", "isCorrect": false}
+      ],
+      "hint": "Servis yönü aynıdır."
+    },
+    {
+      "questionNumber": 55,
+      "question": "Fazla köpük oluşursa ne yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Atılır", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Müşteriye verilmez", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Beklenir ve özür dilenir", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Üzerine su eklenir", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Karıştırılır", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Müşteri ilişkisini düşün."
+    },
+    {
+      "questionNumber": 56,
+      "question": "Bira bardağı nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sıcak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Soğuk", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Nemli", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kuru ama sıcak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kirli", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "İçecekle uyumlu olmalı."
+    },
+    {
+      "questionNumber": 57,
+      "question": "Bira hangi yiyeceklerle önerilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Tatlılar", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Baharatlı yemekler", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Sütlü ürünler", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Meyveler", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Tatlı içecekler", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Yoğun tatlı yemeklerle gider."
+    },
+    {
+      "questionNumber": 58,
+      "question": "Bira musluğu nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kirli", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Temiz", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Islak", "rationale": "Yeterli değil.", "isCorrect": false},
+        {"text": "Sıcak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Açık bırakılmış", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Hijyen önemlidir."
+    },
+    {
+      "questionNumber": 59,
+      "question": "Kulplu bira bardağı nasıl yerleştirilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kulpu sola", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kulpu sağa", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kulpu 17:00 yönünde", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Kulpu yukarı", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fark etmez", "rationale": "Kural vardır.", "isCorrect": false}
+      ],
+      "hint": "Saat yönünü düşün."
+    },
+    {
+      "questionNumber": 60,
+      "question": "Biralar neden güneş ışığında bırakılmamalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Isınır", "rationale": "Eksik cevap.", "isCorrect": false},
+        {"text": "Tadı bozulur", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Rengi değişir", "rationale": "Kısmen doğru ama temel değil.", "isCorrect": false},
+        {"text": "Köpüğü azalır", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Daha hızlı servis edilir", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Kalite etkilenir."
+    },
+    {
+      "questionNumber": 61,
+      "question": "Hazır kahve üretiminde kahvenin özünün suya geçirilmesi işlemine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Filtrasyon", "rationale": "Süzme işlemidir, ekstraksiyon değildir.", "isCorrect": false},
+        {"text": "Ekstraksiyon", "rationale": "Doğru, kahve özünün suya geçirilmesi işlemidir.", "isCorrect": true},
+        {"text": "Distilasyon", "rationale": "Damıtma işlemidir.", "isCorrect": false},
+        {"text": "Fermentasyon", "rationale": "Mayalanma işlemidir.", "isCorrect": false},
+        {"text": "Kristalizasyon", "rationale": "Katılaşma sürecidir.", "isCorrect": false}
+      ],
+      "hint": "Kahve özünün suya geçmesi süreci."
+    },
+    {
+      "questionNumber": 62,
+      "question": "Hazır kahve hangi iki teknikle kurutularak elde edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kaynatma ve süzme", "rationale": "Yanlış, üretim tekniği değildir.", "isCorrect": false},
+        {"text": "Presleme ve kurutma", "rationale": "Eksik ve yanlış.", "isCorrect": false},
+        {"text": "Spreyleme ve donmuş kurutma", "rationale": "Doğru, PDF’de verilen iki yöntemdir.", "isCorrect": true},
+        {"text": "Fermentasyon ve pişirme", "rationale": "Yanlış süreç.", "isCorrect": false},
+        {"text": "Kavrulma ve öğütme", "rationale": "Bunlar ön işlemdir, kurutma değildir.", "isCorrect": false}
+      ],
+      "hint": "Biri sprey, diğeri dondurma içerir."
+    },
+    {
+      "questionNumber": 63,
+      "question": "Hazır kahve hazırlanırken fincana ilk olarak ne konulmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sıcak su", "rationale": "Yanlış, çözünme için önce kahve konur.", "isCorrect": false},
+        {"text": "Süt", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kahve", "rationale": "Doğru, önce kahve konur.", "isCorrect": true},
+        {"text": "Şeker", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Krema", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Çözünme için önce ana madde."
+    },
+    {
+      "questionNumber": 64,
+      "question": "1 fincan (200 ml) sıcak su için önerilen hazır kahve miktarı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1 çay kaşığı", "rationale": "Eksik.", "isCorrect": false},
+        {"text": "2 dolu çay kaşığı veya 1 tatlı kaşığı", "rationale": "Doğru ölçüdür.", "isCorrect": true},
+        {"text": "3 yemek kaşığı", "rationale": "Fazla.", "isCorrect": false},
+        {"text": "Yarım tatlı kaşığı", "rationale": "Az.", "isCorrect": false},
+        {"text": "4 çay kaşığı", "rationale": "Fazla.", "isCorrect": false}
+      ],
+      "hint": "Standart ölçü PDF’de net verilmişti."
+    },
+    {
+      "questionNumber": 65,
+      "question": "Hazır kahve yapımında kullanılan su nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Soğuk", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Eski", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Taze", "rationale": "Doğru, kaliteyi belirler.", "isCorrect": true},
+        {"text": "Aşırı kaynar", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Tuzlu", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Kaliteyi belirleyen özellik."
+    },
+    {
+      "questionNumber": 66,
+      "question": "Hazır kahve hazırlanırken su neden kaynadıktan sonra bekletilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Daha hızlı çözünsün diye", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Köpük oluşsun diye", "rationale": "Dolaylı olabilir ama ana neden değil.", "isCorrect": false},
+        {"text": "Kahvenin tadı ve kokusu yanmasın diye", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Şeker erisin diye", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Renk değişsin diye", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Aşırı sıcaklık kahveyi bozar."
+    },
+    {
+      "questionNumber": 67,
+      "question": "Doğru sıcaklıkta hazırlanan hazır kahvede ne oluşur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Renk değişimi", "rationale": "Genel.", "isCorrect": false},
+        {"text": "Köpük", "rationale": "Doğru göstergedir.", "isCorrect": true},
+        {"text": "Katılaşma", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Buharlaşma", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Çökme", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Üstte oluşan belirti."
+    },
+    {
+      "questionNumber": 68,
+      "question": "Soğuk hazır kahve servisinde tepsiye ne konulmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Şeker", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Buz", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Süt", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Krema", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kahve çekirdeği", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Soğukluk için gerekli."
+    },
+    {
+      "questionNumber": 69,
+      "question": "Hazır kahve servisi hangi taraftan yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Soldan", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sağdan", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Önden", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Arkadan", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fark etmez", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Servis kuralı."
+    },
+    {
+      "questionNumber": 70,
+      "question": "Hazır kahvenin yanında servis edilebilecek ürün nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Peynir", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Çikolata", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Ekmek", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Çorba", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Salata", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Tatlı eşlikçi."
+    },
+    {
+      "questionNumber": 71,
+      "question": "Şarap servisine başlamadan önce şişe kime gösterilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Garsona", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Aşçıya", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sipariş eden kişiye", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Tüm masaya", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Barmen'e", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Onay alınan kişi."
+    },
+    {
+      "questionNumber": 72,
+      "question": "Şarap hangi kapta masaya götürülür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Tabak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kadeh", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Şarap kovası", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Tencere", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Tepsi", "rationale": "Eksik.", "isCorrect": false}
+      ],
+      "hint": "İçinde buzlu su bulunur."
+    },
+    {
+      "questionNumber": 73,
+      "question": "Şişe kapsülü ne ile kesilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Kaşık", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Tirbuşon bıçağı", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Çatal", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Eldiven", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Peçete", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Şarap açma aracı."
+    },
+    {
+      "questionNumber": 74,
+      "question": "Mantar çıkarıldıktan sonra ilk olarak ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Atılır", "rationale": "Her zaman değil.", "isCorrect": false},
+        {"text": "Yıkanır", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kokusu kontrol edilir", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Kesilir", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Ezilir", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Şarabın kalitesini anlamak için."
+    },
+    {
+      "questionNumber": 75,
+      "question": "Pahalı şaraplarda mantar nereye konur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Çöpe", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kovaya", "rationale": "Normalde olabilir ama pahalıda değil.", "isCorrect": false},
+        {"text": "Küçük tabakta müşterinin önüne", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Garsona verilir", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Masanın ortasına", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Prestij göstergesi."
+    },
+    {
+      "questionNumber": 76,
+      "question": "Şişe ağzında mantar parçaları varsa ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Silinmez", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Şarap içilir", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "3-5 damla şarap akıtılır", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Su ile yıkanır", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Beklenir", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Küçük miktar dökülür."
+    },
+    {
+      "questionNumber": 77,
+      "question": "Şarap ilk olarak kimin kadehine dökülür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Garsonun", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Bayanların", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sipariş edenin (tadım için)", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Çocukların", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Tüm masanın", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Onay alınır."
+    },
+    {
+      "questionNumber": 78,
+      "question": "Şarap servisinde önce kimlere servis yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Erkeklere", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Garsona", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Bayanlara", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Ev sahibine", "rationale": "En son.", "isCorrect": false},
+        {"text": "Çocuklara", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Servis sırası."
+    },
+    {
+      "questionNumber": 79,
+      "question": "Şarap bardakları ne kadar doldurulur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Tam dolu", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Yarısı", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "2/3 oranında", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "1/4", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "1/5", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Tam dolmaz."
+    },
+    {
+      "questionNumber": 80,
+      "question": "Şarap servisi tamamlandıktan sonra şişe ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Masada bırakılır", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Çöpe atılır", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Tekrar kovasına konur", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Yıkanır", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Dolaba kaldırılır", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Soğuk kalması için."
+    },
+    {
+      "questionNumber": 81,
+      "question": "Kakao ağacının yaklaşık boyu aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "5–6 metre",
+          "rationale": "PDF’de kakao ağacının bu kadar kısa olduğu belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "8–10 metre",
+          "rationale": "Bu boy aralığı metinde geçmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "12–14 metre",
+          "rationale": "PDF’de verilen boy aralığı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "15–16 metre",
+          "rationale": "Metinde kakao ağacının 15–16 metre boyunda olduğu açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "20–25 metre",
+          "rationale": "Bu bilgi kaynak metinde yer almamaktadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kakao ağacı orta boylu değil, oldukça uzun bir ağaç olarak verilmişti."
+    },
+    {
+      "questionNumber": 82,
+      "question": "Aşağıdakilerden hangisi kakao ağacının özellikle yetiştiği bölgeler arasında yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Amerika ve Batı Afrika",
+          "rationale": "Metinde kakao ağacının özellikle Amerika ve Batı Afrika’da yetiştiği belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kuzey Avrupa ve Orta Asya",
+          "rationale": "Bu bölgeler PDF’de kakao için verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Avustralya ve Kuzey Afrika",
+          "rationale": "Metinde böyle bir bilgi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güneydoğu Avrupa ve Sibirya",
+          "rationale": "Bu ifade kaynak içerikle uyuşmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kanada ve İskandinavya",
+          "rationale": "Soğuk iklim bölgeleri metinde kakao yetişim alanı olarak geçmez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bölgelerden biri Afrika kıtasındadır."
+    },
+    {
+      "questionNumber": 83,
+      "question": "Forastero kakao çeşidi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Zor yetişir ve beyaz çekirdeklidir.",
+          "rationale": "Bu özellikler Criollo’ya aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mor renkli ve ekvatorda yetişir.",
+          "rationale": "Bu özellik Amelonado için verilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dayanıklı, bol ürün veren ve yassı çekirdeklidir.",
+          "rationale": "Forastero’nun temel özellikleri bunlardır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yuvarlak ve büyük çekirdekli, tadı yumuşaktır.",
+          "rationale": "Bu ifade Criollo’yu tanımlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çekirdekleri beyaz, kalitesi düşüktür.",
+          "rationale": "Beyaz çekirdek Criollo’ya aittir; ayrıca kalitesi düşük ifadesi yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "En dayanıklı ve verimi yüksek kakao çeşidini düşün."
+    },
+    {
+      "questionNumber": 84,
+      "question": "Criollo kakao çeşidinin özellikleri arasında aşağıdakilerden hangisi yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dayanıklıdır ve yassı çekirdeklidir.",
+          "rationale": "Bu özellikler Forastero’ya aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mor renkli ve tadı normaldir.",
+          "rationale": "Bu özellik Amelonado’ya aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zor yetişir, çekirdekleri beyazdır ve tadı yumuşaktır.",
+          "rationale": "PDF’de Criollo için bu özellikler açıkça verilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bol ürün verir ve normal kalitelidir.",
+          "rationale": "Bu ifade Forastero ile ilişkilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekvatorda yetişen, yuvarlak çekirdekli kakaodur.",
+          "rationale": "Bu tanım Amelonado içindir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Beyaz çekirdekli ve iyi kaliteli türü hatırla."
+    },
+    {
+      "questionNumber": 85,
+      "question": "Amelonado kakao çeşidi için aşağıdakilerden hangisi söylenebilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Beyaz çekirdekli ve yumuşak tatlıdır.",
+          "rationale": "Bu bilgi Criollo’ya aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mor renkli, çekirdekleri yuvarlak ve ekvatorda yetişir.",
+          "rationale": "Amelonado için verilen temel özellikler bunlardır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yassı çekirdekli ve bol ürün verir.",
+          "rationale": "Bu özellik Forastero’ya aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zor yetişir ve büyük çekirdeklidir.",
+          "rationale": "Bu ifade Criollo’yu anlatır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çekirdekleri beyaz olup çok hassastır.",
+          "rationale": "Metinde Amelonado için böyle bir bilgi yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Rengi ve yetiştiği bölge sorulursa Amelonado’yu düşün."
+    },
+    {
+      "questionNumber": 86,
+      "question": "Toz kakao hazırlanırken her fincan için kullanılacak kakao tozu miktarı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "5–6 gram",
+          "rationale": "Bu miktar metinde geçmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "8–9 gram",
+          "rationale": "PDF’de verilen ölçü bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "10–12 gram",
+          "rationale": "Toz kakao için her fincan başına 10–12 gram kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "15–18 gram",
+          "rationale": "Bu oran toz kakao için verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "20–25 gram",
+          "rationale": "Bu miktar şekerli hazır karışım için uygundur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Toz kakao ile kuvertür kakao aynı gramajda verilmişti."
+    },
+    {
+      "questionNumber": 87,
+      "question": "Toz kakao hazırlanırken kakao tozunun önce soğuk sütle eritilmesinin temel nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kakaonun rengini koyulaştırmak",
+          "rationale": "Metinde böyle bir gerekçe yer almaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sütün kesilmesini önlemek",
+          "rationale": "PDF’de kakao tozunun soğuk sütle karıştırılmasının nedeni bu olarak açıklanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Daha fazla şeker çözündürmek",
+          "rationale": "Şeker çözündürme ile ilgili böyle bir açıklama yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kakaonun köpürmesini sağlamak",
+          "rationale": "Bu amaç belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sütü daha hızlı kaynatmak",
+          "rationale": "Bu işlem kaynatma hızını artırmak için yapılmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Amaç sütün yapısını korumaktır."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Toz kakao hazırlanırken aşağıdaki işlem sıralarından hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kakao tozu doğrudan kaynayan süte eklenir, sonra soğuk süt ilave edilir.",
+          "rationale": "Bu sıra metindeki yönteme aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soğuk süt ısıtılır, sonra kakao tozu kuru halde potaya alınır.",
+          "rationale": "Bu işlem basamakları doğru değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ölçülü süt ateşe konur, kakao tozu soğuk sütle eritilir, ısınan süte ilave edilip kaynatılır.",
+          "rationale": "Toz kakao için doğru hazırlama sırası budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kakao tozu benmari ile eritilir, sonra kaynayan süte eklenir.",
+          "rationale": "Benmari yöntemi kuvertür kakao için kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önce pot ısıtılır, sonra kakao kuru halde fincana konur.",
+          "rationale": "Metinde böyle bir hazırlama aşaması yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Toz kakao ile kuvertür kakao yapımını karıştırma."
+    },
+    {
+      "questionNumber": 89,
+      "question": "Kuvertür kakao hazırlanırken rendelenmiş kuvertür hangi yöntemle eritilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Doğrudan yüksek ateşte",
+          "rationale": "Kuvertür doğrudan yüksek ateşte eritilmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fırında",
+          "rationale": "Metinde bu yöntem belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Benmari yöntemiyle",
+          "rationale": "PDF’de kuvertürün benmari metodu ile eritildiği açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mikrodalga ile",
+          "rationale": "Bu yöntem kaynakta yer almamaktadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soğuk süt içinde bekletilerek",
+          "rationale": "Soğuk sütle eritme toz kakao için kullanılır, kuvertür için değil.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kuvertür doğrudan değil, dolaylı ısı ile eritilir."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Kuvertür kakao hazırlanırken her fincan için kullanılacak rendelenmiş kuvertür miktarı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "6–8 gram",
+          "rationale": "Bu oran metinde verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "10–12 gram",
+          "rationale": "Kuvertür kakao için fincan başına doğru miktar budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "14–16 gram",
+          "rationale": "Bu miktar kaynak içerikte yer almaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "20–25 gram",
+          "rationale": "Bu miktar şekerli hazır karışım içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "25–30 gram",
+          "rationale": "Metindeki ölçü bu değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Toz kakao ile aynı ölçü kullanılır."
+    },
+    {
+      "questionNumber": 91,
+      "question": "Şekerli karışım ile kakao hazırlanırken bir porsiyon için yeterli görülen toz karışım miktarı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "8–10 gram",
+          "rationale": "Bu miktar düşük kalır ve metinde yer almaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "10–12 gram",
+          "rationale": "Bu ölçü toz kakao ve kuvertür içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "15–18 gram",
+          "rationale": "Bu aralık kaynakta geçmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "20–25 gram",
+          "rationale": "PDF’de şekerli karışım için bir porsiyonun 20–25 gram olduğu belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "30–35 gram",
+          "rationale": "Bu miktar fazla olup metinde yer almaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hazır karışım, diğer kakao türlerinden daha yüksek gramajdadır."
+    },
+    {
+      "questionNumber": 92,
+      "question": "Şekerli karışım ile hazırlanan kakao için aşağıdakilerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece sıcak sütle hazırlanabilir.",
+          "rationale": "Metinde hem sıcak hem soğuk hazırlanabileceği belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece soğuk sütle hazırlanabilir.",
+          "rationale": "Bu ifade eksiktir; iki şekilde de hazırlanabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İçerisinde şeker ve tatlandırıcılar ilave edilmiş kakao tozudur.",
+          "rationale": "Şekerli karışımın tanımı bu şekildedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mutlaka benmari yöntemiyle eritilir.",
+          "rationale": "Benmari kuvertür içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis sırasında şeker verilmez.",
+          "rationale": "Şeker ve krema masaya bırakılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hazır karışımın içinde zaten bazı eklemeler vardır."
+    },
+    {
+      "questionNumber": 93,
+      "question": "Şekerli karışım ile hazırlanan kakaonun servisi sırasında fincan nasıl yerleştirilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sapı sola gelecek şekilde",
+          "rationale": "Metinde fincan sapının sağa gelecek şekilde konması gerektiği belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sapı konuğa ters yönde olacak şekilde",
+          "rationale": "Bu şekilde bir tarif kaynakta yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sapı yukarı bakacak şekilde",
+          "rationale": "Fincan sapı için böyle bir yön ifadesi kullanılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sapı sağa gelecek şekilde",
+          "rationale": "PDF’de fincanın sapı sağa gelecek şekilde konur ifadesi yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sapı saat 12 yönünü gösterecek şekilde",
+          "rationale": "Bu bilgi fincan servisi için verilmemiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kakao servisiyle ilgili yön bilgisi sağ tarafla ilişkilidir."
+    },
+    {
+      "questionNumber": 94,
+      "question": "Şekerli karışım ile hazırlanan kakao servisinde kakao potu nereye bırakılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fincanın sol tarafına",
+          "rationale": "Metinde sağ taraf ifadesi kullanılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fincanın arkasına",
+          "rationale": "Bu yerleşim biçimi kaynakta yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fincanın önüne",
+          "rationale": "PDF’de bu şekilde belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masanın ortasına",
+          "rationale": "Potun bırakılacağı yer daha spesifik belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fincanın sağ tarafına",
+          "rationale": "Kakao potunun sapı sağa gelecek şekilde fincanın sağ tarafına bırakılacağı belirtilmiştir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Hem fincan sapı hem pot yönü benzer mantıktadır."
+    },
+    {
+      "questionNumber": 95,
+      "question": "Şampanya servisinde şişe kovadan çıkarıldıktan sonra ilk yapılacak işlemlerden biri aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mantar hemen hızlıca çıkarılır.",
+          "rationale": "Şampanya servisinde önce etiket gösterme ve güvenlik işlemleri vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şişe çabukça bez peçeteyle kurulanır.",
+          "rationale": "Metinde şişenin kovadan çıkarıldıktan sonra bez peçeteyle kurulandığı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bardaklar önce tamamen doldurulur.",
+          "rationale": "Şişe açılmadan bu işlem yapılamaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şişe masaya yatay bırakılır.",
+          "rationale": "Bu uygulama kaynakta belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şişe doğrudan ev sahibine verilir.",
+          "rationale": "Şişe konuğa onay için gösterilir, doğrudan verilmez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kovadan çıkan şişe önce dış yüzey olarak hazırlanır."
+    },
+    {
+      "questionNumber": 96,
+      "question": "Şampanya servisinde etiket kime gösterilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece garsona",
+          "rationale": "Etiket servis personeline değil konuğa gösterilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak şefine",
+          "rationale": "Böyle bir uygulama metinde yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sipariş eden konuğa",
+          "rationale": "PDF’de etiketin konuğun okuyacağı şekilde sipariş edene gösterilerek onay alındığı belirtilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Masadaki en genç kişiye",
+          "rationale": "Böyle bir servis kuralı verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece ev sahibinin yanındaki konuğa",
+          "rationale": "Etiket doğrudan sipariş eden kişiye gösterilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Onayı verecek kişi, içeceği sipariş eden kişidir."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Şampanya mantarı nasıl çıkarılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yüksek ses çıkaracak şekilde",
+          "rationale": "Metinde mantarın sessiz şekilde çıkarılması gerektiği vurgulanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şişe dik tutulup aniden çekilerek",
+          "rationale": "Bu yöntem güvenli ve doğru servis tekniği değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sessiz bir şekilde",
+          "rationale": "PDF’de mantarın sessiz şekilde çıkarılması gerektiği açıkça ifade edilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Masadan uzağa fırlatılarak",
+          "rationale": "Bu hem tehlikeli hem de kurala aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mantar tornavida ile gevşetilerek",
+          "rationale": "Böyle bir yöntem belirtilmemiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Doğru servis tekniğinde gösteriş değil kontrol önemlidir."
+    },
+    {
+      "questionNumber": 98,
+      "question": "Şampanya servisinde ilk tadım için kimin bardağına bir miktar dökülür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Masadaki en yaşlı konuğun",
+          "rationale": "Metinde böyle bir sıra yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sipariş eden kişinin veya ev sahibinin",
+          "rationale": "Şampanya önce sipariş eden kişiye ya da ev sahibine tattırılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece bayan konukların",
+          "rationale": "İlk tadım için böyle bir kural verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Garsonun",
+          "rationale": "Garson tadım yapmaz; onay konuğa aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masadaki herkesin",
+          "rationale": "Önce tek kişiden onay alınır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Onay verecek kişi önce tadım yapar."
+    },
+    {
+      "questionNumber": 99,
+      "question": "Şarap servisinde aşağıdakilerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bardaklar tamamen doldurulur.",
+          "rationale": "Şarap bardakları 2/3 oranında doldurulur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Önce bayanlar olmak üzere sağdan servis yapılır.",
+          "rationale": "Metinde şarap servisinde önce bayanlar olmak üzere sağdan servis yapılacağı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Servis bittikten sonra şişe masada bırakılır.",
+          "rationale": "PDF’ye göre şişe tekrar kovasına konur.",
+          "isCorrect": false
+        },
+        {
+          "text": "En önce sipariş verenin bardağı doldurulur.",
+          "rationale": "Sipariş edenin bardağı en son doldurulur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis soldan yapılır.",
+          "rationale": "Metinde sağdan servis ifadesi vardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Şarap servisinde hem sıra hem yön belirtilmişti."
+    },
+    {
+      "questionNumber": 100,
+      "question": "Bira servisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kulplu bardakta kulp saat 12.00 yönünde olmalıdır.",
+          "rationale": "PDF’de kulpun saat 17.00’yi gösterir şekilde konması gerektiği belirtilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bardakta ne kadar fazla köpük olursa servis o kadar iyidir.",
+          "rationale": "Aşırı köpük konuğa aldatıldığı hissi verebilir, bu istenmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bardakta işaret varsa o işarete kadar bira doldurulmalıdır.",
+          "rationale": "Metinde bira servisinde bardak üzerindeki işaretin dikkate alınması gerektiği açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bira her zaman ağzına kadar doldurulmalıdır.",
+          "rationale": "Bu ifade servis kuralına uymaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kulplu bardaklarda yön önemli değildir.",
+          "rationale": "Kulpun saat 17.00 yönünde olması gerektiği belirtilmiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bira servisinde hem köpük hem bardak işareti hem de kulp yönü önemlidir."
+    },
+    {
+      "questionNumber": 101,
+      "question": "Salep hangi bitkinin kök yumrularından elde edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Çay bitkisi", "rationale": "Yanlış, çay farklı bir bitkiden elde edilir.", "isCorrect": false},
+        {"text": "Kahve ağacı", "rationale": "Yanlış, kahve çekirdekten elde edilir.", "isCorrect": false},
+        {"text": "Yabani orkide", "rationale": "Doğru, salep yabani orkide köklerinden elde edilir.", "isCorrect": true},
+        {"text": "Zencefil", "rationale": "Yanlış, zencefil farklı bir köktür.", "isCorrect": false},
+        {"text": "Tarçın ağacı", "rationale": "Yanlış, tarçın kabuktan elde edilir.", "isCorrect": false}
+      ],
+      "hint": "Egzotik bir çiçek türüdür."
+    },
+    {
+      "questionNumber": 102,
+      "question": "Salep üretiminde aşağıdaki işlemlerden hangisi yapılmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yumruların yıkanması", "rationale": "Doğru işlemlerden biridir.", "isCorrect": false},
+        {"text": "İpe dizilmesi", "rationale": "Doğru işlemlerden biridir.", "isCorrect": false},
+        {"text": "Fermente edilmesi", "rationale": "Doğru, salep üretiminde fermantasyon yoktur.", "isCorrect": true},
+        {"text": "Kaynatılması", "rationale": "Doğru işlemlerden biridir.", "isCorrect": false},
+        {"text": "Kurutulması", "rationale": "Doğru işlemlerden biridir.", "isCorrect": false}
+      ],
+      "hint": "Çay ve yoğurt gibi ürünlerde olur."
+    },
+    {
+      "questionNumber": 103,
+      "question": "Salep genellikle hangi mevsimde tüketilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yaz", "rationale": "Yanlış, serinletici değildir.", "isCorrect": false},
+        {"text": "İlkbahar", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kış", "rationale": "Doğru, soğuk günlerin içeceğidir.", "isCorrect": true},
+        {"text": "Sonbahar", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Her mevsim", "rationale": "Yanlış, özellikle kış içeceğidir.", "isCorrect": false}
+      ],
+      "hint": "Sıcak içecek olarak tüketilir."
+    },
+    {
+      "questionNumber": 104,
+      "question": "Salep pişirilirken hangi ateş tercih edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Yüksek ateş", "rationale": "Yanlış, yanabilir.", "isCorrect": false},
+        {"text": "Orta ateş", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kısık ateş", "rationale": "Doğru, kıvam için gereklidir.", "isCorrect": true},
+        {"text": "Açık ateş", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Ateşsiz", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Yavaş pişirme gerekir."
+    },
+    {
+      "questionNumber": 105,
+      "question": "Salep hazırlanırken süt nasıl eklenmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Bir anda", "rationale": "Yanlış, topaklanma olur.", "isCorrect": false},
+        {"text": "Soğuk ve azar azar", "rationale": "Doğru, kıvam için önemlidir.", "isCorrect": true},
+        {"text": "Kaynar şekilde", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sıcak ve hızlı", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Hiç eklenmez", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Topaklanmayı önlemek için dikkat gerekir."
+    },
+    {
+      "questionNumber": 106,
+      "question": "Salep pişirme süresi yaklaşık kaç dakikadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1-2 dakika", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "5 dakika", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "10-15 dakika", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "20-30 dakika", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "45 dakika", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Kıvam alana kadar."
+    },
+    {
+      "questionNumber": 107,
+      "question": "Salep servisi sırasında üzerine genellikle ne eklenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Karabiber", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Tarçın", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Tuz", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Pul biber", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kekik", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Tatlılarla uyumlu bir baharat."
+    },
+    {
+      "questionNumber": 108,
+      "question": "Viski servisinde 'Poor (sek)' ne anlama gelir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Buzlu servis", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sodayla servis", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Buzsuz saf servis", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Meyve suyu ile servis", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sıcak servis", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Hiç katkı yok."
+    },
+    {
+      "questionNumber": 109,
+      "question": "On the rocks viski servisi nasıl yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Buzsuz", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "3 parça buz ile", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Sodayla", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sıcak servis", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Meyveli", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "İngilizce adı ipucu verir."
+    },
+    {
+      "questionNumber": 110,
+      "question": "Standart viski ölçüsü kaç cl'dir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "2 cl", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "3 cl", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "4 cl", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "5 cl", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "10 cl", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Bar standart ölçüsü."
+    },
+    {
+      "questionNumber": 111,
+      "question": "Viski servisi yapılırken tepsi hangi elde taşınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sağ el", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sol el", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "İki el", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Omuzda", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fark etmez", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Servis standardı vardır."
+    },
+    {
+      "questionNumber": 112,
+      "question": "Serviste ilk olarak ne yerleştirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Bardak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Buz", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Bardak altlığı", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Şişe", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Peçete", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Masaya temas eden ilk şey."
+    },
+    {
+      "questionNumber": 113,
+      "question": "Servis sırasında konuğa hangi taraftan yaklaşılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sol", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sağ", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Arka", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Ön", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fark etmez", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Servis kurallarına dikkat."
+    },
+    {
+      "questionNumber": 114,
+      "question": "Viski soda servisinde aşağıdakilerden hangisi bulunur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Süt", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Soda", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Tarçın", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kahve", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Şeker şurubu", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "İsmi ipucu verir."
+    },
+    {
+      "questionNumber": 115,
+      "question": "Buz servisi nasıl yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Elle", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Maşa ile", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Kaşıkla", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Şişeden dökerek", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Servis edilmez", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Hijyen önemlidir."
+    },
+    {
+      "questionNumber": 116,
+      "question": "Katkı maddeleri nasıl eklenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Garson karar verir", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Rastgele", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Misafirin isteğine göre", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Standart miktarda", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Eklenmez", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Müşteri memnuniyeti."
+    },
+    {
+      "questionNumber": 117,
+      "question": "Şişede içecek kalırsa ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Geri götürülür", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Masaya bırakılır", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Dökülür", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Servis dışı bırakılır", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Saklanır", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Misafirin kullanımına bırakılır."
+    },
+    {
+      "questionNumber": 118,
+      "question": "Serviste en son kime servis yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Garsona", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "İlk konuğa", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Ev sahibine", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Çocuklara", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kimseye", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Görgü kuralı."
+    },
+    {
+      "questionNumber": 119,
+      "question": "Salep servisinde hangi kurala dikkat edilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Hız", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Hijyen", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Renk", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Süsleme", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Soğutma", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Temizlikle ilgilidir."
+    },
+    {
+      "questionNumber": 120,
+      "question": "Salep yapımında aşağıdakilerden hangisi isteğe bağlıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Süt", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Şeker", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Tarçın", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Salep", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Karıştırma", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Üzerine serpilir."
+    },
+    {
+      "questionNumber": 121,
+      "question": "Sıcak çikolatanın kökeni neresidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Fransa", "rationale": "Yanlış, Avrupa’da yayılmıştır.", "isCorrect": false},
+        {"text": "Amerika", "rationale": "Doğru, Amerika’dan Avrupa’ya yayılmıştır.", "isCorrect": true},
+        {"text": "İtalya", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "İspanya", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Almanya", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Kıtalar arası yayılımı düşün."
+    },
+    {
+      "questionNumber": 122,
+      "question": "Sıcak çikolatanın temel bileşenlerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Süt", "rationale": "Doğru bileşendir.", "isCorrect": false},
+        {"text": "Çikolata", "rationale": "Doğru bileşendir.", "isCorrect": false},
+        {"text": "Şeker", "rationale": "Doğru bileşendir.", "isCorrect": false},
+        {"text": "Kakao", "rationale": "Alternatif olarak kullanılır.", "isCorrect": false},
+        {"text": "Zeytinyağı", "rationale": "Tarifte yoktur.", "isCorrect": true}
+      ],
+      "hint": "Tatlı içecekle ilgisiz olanı seç."
+    },
+    {
+      "questionNumber": 123,
+      "question": "Sıcak çikolata hazırlanırken ilk işlem nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Süt eklemek", "rationale": "Sonradan eklenir.", "isCorrect": false},
+        {"text": "Şeker eklemek", "rationale": "Sonradan eklenir.", "isCorrect": false},
+        {"text": "Su ve çikolatayı eritmek", "rationale": "İlk adımdır.", "isCorrect": true},
+        {"text": "Krema eklemek", "rationale": "Her tarifte yoktur.", "isCorrect": false},
+        {"text": "Servis etmek", "rationale": "En son aşamadır.", "isCorrect": false}
+      ],
+      "hint": "Önce çikolata eritilir."
+    },
+    {
+      "questionNumber": 124,
+      "question": "Sıcak çikolata yapımında şeker ve tuz eklendikten sonra ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Hemen servis edilir", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "5 dakika kaynatılır", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Buz eklenir", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fırına konur", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Soğutulur", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Kısa süre kaynatılır."
+    },
+    {
+      "questionNumber": 125,
+      "question": "Sıcak çikolata nasıl servis edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Soğuk", "rationale": "Genelde sıcak servis edilir.", "isCorrect": false},
+        {"text": "Sıcak", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Dondurulmuş", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Buharsız", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Donmuş", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "İsmi ipucu veriyor."
+    },
+    {
+      "questionNumber": 126,
+      "question": "Sıcak çikolata süslemesinde hangisi kullanılabilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Krem şanti", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Tuzlu peynir", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Zeytin", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sirke", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Ketçap", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Tatlı süsleme düşün."
+    },
+    {
+      "questionNumber": 127,
+      "question": "Baharatlı sıcak çikolatada hangisi kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Tarçın", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Mayonez", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Hardal", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sarımsak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Salça", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Tatlı baharat."
+    },
+    {
+      "questionNumber": 128,
+      "question": "Sek votka kaç cl olarak servis edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "2 cl", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "4 cl", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "6 cl", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "8 cl", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "10 cl", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Standart ölçü."
+    },
+    {
+      "questionNumber": 129,
+      "question": "Sek votka hangi bardakta servis edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Çay bardağı", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kahve fincanı", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Votka bardağı", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Tabak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kupa", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Özel küçük bardak."
+    },
+    {
+      "questionNumber": 130,
+      "question": "Votka limon hazırlanırken hangisi eklenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Limon suyu", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Yoğurt", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Bal", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Çay", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Krema", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "İsmi ipucu verir."
+    },
+    {
+      "questionNumber": 131,
+      "question": "Tepsi hangi elde taşınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sağ", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sol", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "İki el", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Fark etmez", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Omuzda", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Servis kuralı."
+    },
+    {
+      "questionNumber": 132,
+      "question": "Serviste ilk ne yerleştirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Bardak", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Bardak altlığı", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Buz", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kaşık", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Peçete", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Altlık önce gelir."
+    },
+    {
+      "questionNumber": 133,
+      "question": "Servis sırasında ilk kime hizmet edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Garson", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Ev sahibi", "rationale": "En son edilir.", "isCorrect": false},
+        {"text": "İlk misafir", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Şef", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Aşçı", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Misafir önceliklidir."
+    },
+    {
+      "questionNumber": 134,
+      "question": "Servis en son kime yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Garson", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Ev sahibi", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "İlk misafir", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Aşçı", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Şef", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Protokol kuralı."
+    },
+    {
+      "questionNumber": 135,
+      "question": "Buz servisi nasıl yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Elle", "rationale": "Hijyenik değil.", "isCorrect": false},
+        {"text": "Maşa ile", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Kaşıkla", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Çatal ile", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Bardakla", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Hijyen önemli."
+    },
+    {
+      "questionNumber": 136,
+      "question": "Şişede içecek kalırsa ne yapılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Geri götürülür", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Masaya bırakılır", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Dökülür", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Saklanır", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Atılır", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Müşteri için bırakılır."
+    },
+    {
+      "questionNumber": 137,
+      "question": "Votka servisinde katkı maddeleri nasıl eklenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Garson isteğine göre", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Müşteri isteğine göre", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Rastgele", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Hiç eklenmez", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Şefe sorulur", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Müşteri önceliklidir."
+    },
+    {
+      "questionNumber": 138,
+      "question": "Votka limon servisinde kaç parça buz kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "1", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "2", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "3-4", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "5-6", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Hiç", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Standart buz miktarı."
+    },
+    {
+      "questionNumber": 139,
+      "question": "Sıcak çikolatada tat farklılıkları neye bağlıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Sadece şeker miktarı", "rationale": "Eksik.", "isCorrect": false},
+        {"text": "Malzeme ve yöntem farkları", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Sadece süt", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sadece su", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sadece kakao", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Birden fazla faktör."
+    },
+    {
+      "questionNumber": 140,
+      "question": "Baharatlı sıcak çikolatada krema ne zaman eklenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {"text": "Başta", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Ortada", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Sonunda üzerine", "rationale": "Doğru.", "isCorrect": true},
+        {"text": "Hiç eklenmez", "rationale": "Yanlış.", "isCorrect": false},
+        {"text": "Kaynatılırken", "rationale": "Yanlış.", "isCorrect": false}
+      ],
+      "hint": "Üstüne eklenir."
+    }
+  ]
+}

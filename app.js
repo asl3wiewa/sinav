@@ -401,6 +401,38 @@ const TESTS = {
     dataUrl: "2-donem/vize/Dijital-Pazarlama-ve-Sosyal-Medya.json",
 
   },
+
+  "turizm-ve-cevre-1-1": {
+
+    title: "Turizm ve Cevre I Testi 1",
+
+    dataUrl: "2-donem/vize/turizm-ve-cevre-1-1.json",
+
+  },
+
+  "turizm-ve-cevre-1-2": {
+
+    title: "Turizm ve Cevre I Testi 2",
+
+    dataUrl: "2-donem/vize/turizm-ve-cevre-1-2.json",
+
+  },
+
+  "barda-servis": {
+
+    title: "Barda Servis Testi 1",
+
+    dataUrl: "2-donem/vize/barda-servis.json",
+
+  },
+
+  "barda-servis-2": {
+
+    title: "Barda Servis Testi 2",
+
+    dataUrl: "2-donem/vize/barda-servis-2.json",
+
+  },
   
   "turizm-ve-cevre": {
 
@@ -610,6 +642,14 @@ const TEST_ALIASES = {
   "mesleki yabanci dil ii 2": "mesleki-yabanci-dil-2-2",
 
   "dijital pazarlama ve sosyal medya": "dijital-pazarlama-ve-sosyal-medya",
+
+  "turizm ve cevre i 1": "turizm-ve-cevre-1-1",
+
+  "turizm ve cevre i 2": "turizm-ve-cevre-1-2",
+
+  "barda servis": "barda-servis",
+
+  "barda servis 2": "barda-servis-2",
  
  
  

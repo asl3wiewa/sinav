@@ -1,0 +1,3304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Türkiye'yi çevreleyen denizlerin bağlantı noktaları dikkate alındığında, Akdeniz Süveyş Kanalı ile hangi okyanusa bağlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Büyük Okyanus",
+          "rationale": "Akdeniz'in Büyük Okyanus'a doğrudan veya Süveyş üzerinden bir bağlantısı yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Atlas Okyanusu",
+          "rationale": "Akdeniz, Atlas Okyanusu'na Cebelitarık Boğazı ile bağlanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hint Okyanusu",
+          "rationale": "Derste özellikle vurgulandığı üzere Akdeniz, Süveyş Kanalı ile Hint Okyanusu'na bağlanır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kuzey Buz Denizi",
+          "rationale": "Türkiye'deki denizlerin Kuzey Buz Denizi ile doğrudan bağlantısı söz konusu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pasifik Okyanusu",
+          "rationale": "Pasifik Okyanusu, Büyük Okyanus'un diğer adıdır ve Süveyş Kanalı'nın açıldığı yer değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cebelitarık batıya, bu kanal ise doğuya/güneye açılan kapıdır."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Doğa turizmi ve milli parkları ziyaret eden insanlarla yapılan ankete göre, ziyaretçilerin %72'si bu alanlara hangi amaçla geldiklerini ifade etmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Su sporları yapmak",
+          "rationale": "Su sporları daha çok akarsu ve göl odaklı turizmin ana gayesidir, genel milli park ziyaretinin %72'lik sebebi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rahat, huzurlu, stresten uzaklaşıp temiz hava almak",
+          "rationale": "İstatistiksel olarak turistlerin %72'si milli parklara doğanın huzuru ve temiz hava için geldiklerini belirtmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yaban hayatını fotoğraflamak",
+          "rationale": "Yaban hayatı inceleme bir turizm türüdür ancak %72 gibi büyük bir kitle sadece fotoğraf çekmek için gitmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarihi eserleri ziyaret etmek",
+          "rationale": "Tarihi eserler milli parklardan ziyade ören yerleri ve arkeolojik alanların çekicilik unsurudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kış sporlarına katılmak",
+          "rationale": "Kış sporları belirli dağlık alanlarda yapılır, tüm milli parkları kapsayan genel motivasyon değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İnsanların şehir hayatından kaçarken aradıkları en temel fizyolojik ve psikolojik rahatlamayı düşünün."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Aşağıdaki kış ve spor turizmi merkezleri ile bulundukları il eşleştirmelerinden hangisi yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bolu - Köroğlu Dağları",
+          "rationale": "Bolu, Köroğlu Dağları ile doğru bir kış turizmi eşleşmesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Erzurum - Palandöken Dağları",
+          "rationale": "Erzurum, Palandöken Dağları ile özdeşleşmiş doğru bir merkezdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kayseri - Erciyes Dağı",
+          "rationale": "Kayseri, Erciyes Dağı kış turizmi için doğru bir bilgidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kars - Sarıkamış Dağları",
+          "rationale": "Kars, Sarıkamış Dağları doğru bir kış turizm merkezidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antalya - Akdağ",
+          "rationale": "Notlara göre Antalya Beydağları ile, Alanya ise Akdağ ile eşleşmelidir. Antalya-Akdağ eşleşmesi notlardaki detaylı ayrıma göre yanlıştır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Akdeniz bölgesindeki dağlarda Alanya ilçesi için özel bir vurgu yapılmıştı."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Türkiye'de Akdeniz iklimi esas karakterini Toroslar'ın denize bakan yamaçlarında hangi yüksekliğe kadar gösterir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "400 - 500 metre",
+          "rationale": "Akdeniz iklimi bu yükseklikten daha yukarılara da etki etmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "800 - 1000 metre",
+          "rationale": "Notlarda açıkça vurgulandığı üzere, Akdeniz iklimi esas karakterini 800 - 1000 metre yüksekliğe kadar gösterir.",
+          "isCorrect": true
+        },
+        {
+          "text": "1200 - 1500 metre",
+          "rationale": "Bu yüksekliklerde Akdeniz ikliminin yerini daha karasal ve soğuk iklimler almaya başlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "1500 - 2000 metre",
+          "rationale": "Toroslar'da bu yükseklikler kış turizmine daha uygundur, Akdeniz iklimi görülmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Deniz seviyesi ile 200 metre arası",
+          "rationale": "Bu iklimin etkisi sadece sahil şeridiyle sınırlı kalmaz, yamaçlar boyunca daha da yükselir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu sınır yaklaşık olarak bir kilometrelik bir yüksekliği ifade eder."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Karadeniz'e dökülen nehirler arasında, turizm bakımından en fazla değerlendirilebilecek ve rafting gibi suya dayalı rekreasyonel faaliyetlere en uygun olan nehir hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kızılırmak",
+          "rationale": "Kızılırmak Karadeniz'e dökülür ancak rafting için değil, enerji ve sulama amacıyla daha çok kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeşilırmak",
+          "rationale": "Yeşilırmak da önemli bir nehir olmasına rağmen notlarda rafting merkezi olarak vurgulanmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çoruh Nehri",
+          "rationale": "Vize notlarında Çoruh Nehri, rafting ve suya dayalı rekreasyon için en kritik akarsu olarak özellikle belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sakarya Irmağı",
+          "rationale": "Sakarya ırmağı rafting için uygun akış rejimine sahip başlıca nehir olarak gösterilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fırat Nehri",
+          "rationale": "Fırat Nehri Karadeniz'e dökülmez, Basra Körfezi'ne doğru akar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ülkemizin kuzeydoğusunda, debisi yüksek ve çok hızlı akan ünlü nehrimizi hatırlayın."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Ege Denizi'ne dökülen akarsuların (Gediz, Menderes vb.) aktığı vadilerin yeryüzü şekli bakımından en önemli özelliği aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kuzey-Güney yönlü uzanan volkanik platolar olmaları",
+          "rationale": "Ege nehirleri volkanik platolardan ziyade tektonik çöküntüler içinde akar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğu-Batı yönünde oluşmuş çöküntü hendekleri (grabenler) olmaları",
+          "rationale": "Kritik detay olarak Ege akarsularının grabenler yani doğu-batı istikametindeki çöküntü hendekleri içinden aktığı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Buzul vadileri (fiyortlar) içinden akmaları",
+          "rationale": "Türkiye'de kıyıda buzul vadileri veya fiyortlar bulunmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dağların kıyıya paralel uzandığı dar boğazlardan geçmeleri",
+          "rationale": "Ege'de dağlar kıyıya dik uzanır, paralel uzanmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kireçtaşı (karstik) mağara sistemlerinin içinden denize dökülmeleri",
+          "rationale": "Karstik yeraltı nehirleri daha çok Akdeniz'de görülür, Ege nehirlerinin temel özelliği graben akışıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ege bölgesindeki dağların denize dik uzanmasıyla oluşan alçak 'hendek' alanlarını düşünün."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Aşağıdakilerden hangisi Van Gölü'nde bulunan tarihi önem taşıyan adalardan biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Akdamar",
+          "rationale": "Akdamar, Van Gölü'ndeki en bilinen adalardandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuşadası",
+          "rationale": "Kuşadası, notlarda belirtilen Van Gölü adalarından biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çarpanak",
+          "rationale": "Çarpanak adası Van Gölü'nün önemli adalarından biri olarak listelenmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gadir",
+          "rationale": "Gadir, Van Gölü'ndeki dört önemli adadan bir diğeridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kefken",
+          "rationale": "Kefken Adası, Van Gölü'nde değil Karadeniz'de (Kocaeli açıklarında) bulunur.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Şıklardaki bir ada, aslında Marmara Bölgesi'nde, Karadeniz sahilindedir."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Osmanlı mimarisinde 14. yüzyılda ortaya çıkan, eşit kubbelerle örtülü olan ve özellikle değerli eşyaların (mücevher, kumaş) satılıp korunduğu yüksek güvenlikli kapalı çarşı yapılarına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Arasta",
+          "rationale": "Arasta, üstü açık veya kapalı dükkan sıralarıdır, yüksek güvenlikli kubbeli yapılar bedestendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bedesten",
+          "rationale": "Değerli evrak ve eşyaların korunduğu, eşit kubbeli yüksek güvenlikli Osmanlı çarşı yapısına Bedesten denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Külliye",
+          "rationale": "Külliye, merkezinde cami olan geniş yapı topluluğudur, sadece çarşı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İmaret",
+          "rationale": "İmaret çarşı değil, yoksullara ve öğrencilere ücretsiz yemek dağıtılan aşevidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Revak",
+          "rationale": "Revak ticari bir yapı değil, binaların önündeki üstü kapalı sütunlu geçit (mimari eleman)dir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Günümüz banka kasalarının veya lüks kuyumcu merkezlerinin Osmanlı'daki tam karşılığıdır."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Osmanlı Külliyelerinde hastaneden yeni çıkan, iyileşme (nekahat) döneminde olan hastaların ve evsizlerin barındığı sosyal yapı aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Darüşşifa",
+          "rationale": "Darüşşifa tedavinin yapıldığı hastanedir, iyileşme sürecindeki hastalar başka bir yapıda kalırdı.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tabhane",
+          "rationale": "Tabhane; evsizlerin, turistlerin ve hastaneden yeni çıkmış nekahat halindeki hastaların barındığı misafirhanelerdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sıbyan Mektebi",
+          "rationale": "Sıbyan mektebi Osmanlı'da eğitimin ilk basamağı olan ilköğretim okuludur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hazire",
+          "rationale": "Hazire, külliyelerin bahçelerinde yer alan mezarlık alanıdır, barınma yeri değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İmaret",
+          "rationale": "İmaret barınma merkezi değil, yemeklerin dağıtıldığı aşevidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kelime anlamı 'misafirhane' veya 'dinlenme evi' olarak da düşünülebilir."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Mimar Sinan'ın Mimarbaşı olduktan sonra İstanbul'da yaptığı 'ilk büyük eseri' aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Süleymaniye Külliyesi",
+          "rationale": "Süleymaniye en önemli eserlerinden biridir ancak Mimar Sinan'ın İstanbul'daki ilk büyük eseri değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mihrümah Sultan Camisi",
+          "rationale": "Mihrümah Sultan camisi Sinan'ın eseridir ama kariyerinin ilk büyük eseri sayılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Haseki Hürrem Sultan Külliyesi",
+          "rationale": "Notlarda Mimar Sinan'ın mimarbaşı olduktan sonra yaptığı ilk büyük eserin Avratpazarı'ndaki Haseki Hürrem Sultan Külliyesi olduğu kesin bir dille belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rüstem Paşa Camisi",
+          "rationale": "Rüstem Paşa Camisi çinileriyle ünlüdür ancak ilk eseri değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çinili Köşk",
+          "rationale": "Çinili Köşk Mimar Sinan tarafından değil, Fatih döneminde Mimar Atik Sinan tarafından yapılmıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kanuni Sultan Süleyman'ın eşi adına Fatih ilçesinde (eski adıyla Avratpazarı'nda) yapılmıştır."
+    },
+    {
+      "questionNumber": 11,
+      "question": "İstanbul'un Yedikule semtinde yer alan ve 'Akametes' (Uykusuzlar) adı verilen keşişlerin gece gündüz hiç uyumadan ibadet ettikleri tarihi yapı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aya Teodosios Kilisesi",
+          "rationale": "Bu kilise Molla Gürani Camisi'ne çevrilmiştir, uykusuz keşişlerle ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Studion (Studios) Manastırı",
+          "rationale": "Studion Manastırı, İmparator Mikail'in kör edildiği ve uykusuz keşişlerin yaşadığı en eski kalıntılardan biridir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zeyrek Pantokrator Kilisesi",
+          "rationale": "Zeyrek Kilisesi manastır ve şapelden oluşur ancak Akametes tarikatının merkezi burası değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stephan (Bulgar) Kilisesi",
+          "rationale": "Bu tamamen demir ve çelikten yapılmış çok daha geç dönem (19.yy) bir yapıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ayios Pelieuktos Kilisesi",
+          "rationale": "Saraçhane'de bulunan dönemin en büyük bazilikalarındandı, uykusuz keşişlerin evi değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İmparator Mikail'in gözlerine mil çekildiği bu yapı, 463 yılında Romalı bir asilzade tarafından kurulmuştur."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Ressam Bellini'ye Vaftizci Yahya'nın kesik baş resmindeki anatomik hatayı göstermek için bir kölenin başını kılıçla keserek ispatlayan padişah kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yavuz Sultan Selim",
+          "rationale": "Sert mizacıyla bilinse de Bellini ile bu anıyı yaşayan padişah o değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fatih Sultan Mehmet",
+          "rationale": "Tarihçi Babinger'in kaynağına göre ünlü ressam Bellini'ye anatomi dersini köle keserek veren padişah Fatih Sultan Mehmet'tir.",
+          "isCorrect": true
+        },
+        {
+          "text": "IV. Murat",
+          "rationale": "Acımasızlığıyla tanınır ancak İtalyan ressam Bellini onun döneminde yaşamamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kanuni Sultan Süleyman",
+          "rationale": "Kanuni şarap içenlere karşı çok katıydı ancak Bellini olayı ondan önceki dönemde yaşanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "II. Abdülhamit",
+          "rationale": "Bu olay Rönesans dönemi ressamlarından Bellini ile 15. yüzyılda geçmiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İstanbul'u fetheden ve kendi portesini de Bellini'ye çizdiren ulu hakandır."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Avrupa'nın kahve ile tanışmasına sebep olan Mavi Şişe (Blue Bottle) kahvehanesinin Viyana'da açılması hangi tarihi olay sonrasında gerçekleşmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Pasarofça Antlaşması sonrası hediyeleşmeler",
+          "rationale": "Pasarofça Antlaşmasında Aynalıkavak Kasrı için aynalar hediye edilmiştir, kahve ile ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "I. Viyana Kuşatması'nın başarısızlıkla sonuçlanması",
+          "rationale": "Kanuni dönemindeki bu kuşatmada değil, çok daha sonraki ikinci kuşatmada gerçekleşmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Merzifonlu Kara Mustafa Paşa'nın II. Viyana Kuşatması bozgunu",
+          "rationale": "Kuşatmada geride bırakılan 600 çuval kahveyi bulan bir Avusturyalı, Mavi Şişe'yi açarak Avrupa'ya kahveyi tanıtmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Cezayirli Hasan Paşa'nın kahveyi Avusturya elçisine hediye etmesi",
+          "rationale": "Notlarda böyle bir diplomatik hediyeleşmeden bahsedilmemektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kırım Savaşı sonrası Fransız Sokağı'nın açılması",
+          "rationale": "Kırım Savaşı ile kahvenin Avrupa'ya gidişinin doğrudan tarihi bir bağlantısı notlarda yer almaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu olayın sorumlusu olan vezir, başarısızlığı yüzünden IV. Mehmet tarafından idam edilmiştir."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Aksaraylı Müslüman bir kadının gayrimüslim bir gençle birlikte olması sebebiyle Osmanlı tarihindeki bilinen ilk 'recm' (taşlanarak öldürülme) cezası hangi tarihi eserin dibinde uygulanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dikilitaş (Theodosius Sütunu)",
+          "rationale": "Dikilitaş Mısır'dan getirilmiştir, ilk recm cezasının uygulandığı anıt burası değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Örme Dikilitaş",
+          "rationale": "Örme dikilitaşın tunç plakaları sökülmüştür ancak recm cezası mekanı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tunçtan Burmalı Sütun (Yılanlı Sütun)",
+          "rationale": "Sultanahmet'te bulunan ve Yunanlıların Pers zaferi anısına yaptığı Yılanlı Sütun, Şeyhülislam Çatalcalı Ali'nin fetvasıyla ilk recm cezasının uygulandığı yerdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Çemberlitaş",
+          "rationale": "Çemberlitaş Divanyolu'ndadır ve recm cezası ile anılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kıztaşı",
+          "rationale": "Kıztaşı, yanından geçen kızların günah işleyip işlemediğini belli ettiğine inanılan efsanevi sütundur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sultanahmet meydanındaki bu sütunun orijinalinde birbiri etrafına sarılı üç hayvan figürü vardı."
+    },
+    {
+      "questionNumber": 15,
+      "question": "İstanbul'un Suriçi bölgesinde bulunan ve tarihi yarımadanın en uç noktasında (Ahırkapı'da) yer alması sebebiyle 'Kabe'ye en yakın cami' unvanını taşıyan tarihi yapı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eyüp Sultan Camisi",
+          "rationale": "Eyüp Sultan Haliç kıyısındadır, Suriçi yarımadasının en güneydoğu ucunda değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akbıyık Camisi",
+          "rationale": "1453 yılında Fatih'in ulemalarından biri tarafından yaptırılan Akbıyık Camisi, konumu itibarıyla Kabe'ye en yakın Suriçi camisidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Molla Fenari Camisi",
+          "rationale": "Fatih Vatan caddesindedir, tarihi yarımadanın burnunda yer almaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Firuz Ağa Camisi",
+          "rationale": "Sultanahmet Atmeydanı'nda bulunur ancak uç noktada değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Davutpaşa Camisi",
+          "rationale": "Osmanlı'nın en eski anıtsal camilerinden olsa da Kabe'ye en yakın olma özelliği yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Caminin bânisi (yaptıranı), zengin ve yoksulları doyuran Fatih'in ulemalarından biridir."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Mimar Sinan, deniz kenarında bulunan ve diğer binalar arasında sıkışıp kalmaması için camiyi direkt yere değil, bir zemin kat üzerine 'fevkani' (yükseltilmiş) şekilde inşa etmiştir. Bu cami aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mihrümah Sultan Camisi",
+          "rationale": "Edirnekapı'daki bu cami en yüksek tepelerden birindedir, etrafı boş olduğu için abidevi durur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nusretiye Camisi",
+          "rationale": "Tophane'dedir ve Mimar Sinan'ın değil Krikor Balyan'ın eseridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rüstem Paşa Camisi",
+          "rationale": "Tahtakale Hasırcılar çarşısındaki esnaf yoğunluğu sebebiyle Sinan, Rüstem Paşa camisini yükseltilmiş bir zemin üzerine inşa etmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arap Camisi",
+          "rationale": "Galata'da bulunur, aslında bir kiliseden camiye çevrilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ortaköy Camisi",
+          "rationale": "Sultan Abdülmecid tarafından Balyan ailesine yaptırılmıştır, Mimar Sinan eseri değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Eminönü Tahtakale Hasırcılar çarşısında bulunan, Kanuni'nin ünlü sadrazamı adına yapılmış yapıdır."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Topkapı Sarayı'nda devlet işleriyle ilgili toplantıların yapıldığı 'Divan-ı Hümayun' binası sarayın hangi avlusunda yer almaktadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Birinci Avlu",
+          "rationale": "Birinci avlu halkın bazı günlerde girebildiği en dış avludur.",
+          "isCorrect": false
+        },
+        {
+          "text": "İkinci Avlu",
+          "rationale": "Devletin yönetim merkezi olan ve Bab-üs Selam'dan geçilerek ulaşılan İkinci Avlu'da Divan-ı Hümayun bulunur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Üçüncü Avlu",
+          "rationale": "Üçüncü avlu Enderun mektebi ve Arz odasının bulunduğu, padişahın daha özel alanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dördüncü Avlu",
+          "rationale": "Dördüncü avlu köşklerin ve Kutsal Emanetlerin olduğu padişahın şahsi alanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Harem",
+          "rationale": "Harem, padişahın ailesinin ve cariyelerin bulunduğu iç yapılanmadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu avluya padişah dışında hiç kimsenin atla girmesine izin verilmezdi."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Topkapı Sarayı kompleksinde Harem'in hiyerarşik yapısında 'padişaha yaklaşan ve onun dikkatini çeken' cariyeler hangi unvanı alırlardı?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Haseki",
+          "rationale": "Haseki unvanı, ilgiyi tamamen kazanan veya çocuk doğuran cariyeler için kullanılırdı.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gözde",
+          "rationale": "Hiyerarşide eğitimdeki cariyeden bir üst basamak olan ve padişahın dikkatini ilk çekenlere Gözde denirdi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kadınefendi",
+          "rationale": "Kadınefendi, erkek çocuk doğuran Haseki Sultanların en üst düzeyindekilere denirdi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Valide Sultan",
+          "rationale": "Valide Sultan doğrudan padişahın annesine verilen unvandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hünkar Hasekisi",
+          "rationale": "Hünkar hasekisi, 'Gözde' olan hasekilerin bir üst sınıfıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hiyerarşinin ikinci basamağında yer alan, kelime anlamı olarak da 'göze girmiş' demektir."
+    },
+    {
+      "questionNumber": 19,
+      "question": "İstanbul'da inşa edilmiş olan ve sadece altı minaresi bulunmasıyla benzersiz bir konuma sahip olan tarihi eser hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ayasofya Camisi",
+          "rationale": "Ayasofya'nın Mimar Sinan döneminde tamamlanan 4 minaresi vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Süleymaniye Camisi",
+          "rationale": "Süleymaniye Camisinin dört minaresi bulunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sultanahmet Camisi",
+          "rationale": "Derste özellikle vurgulandığı üzere İstanbul'un tek altı minareli camisi, Sedefkar Mehmet Ağa'nın eseri Sultanahmet'tir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fatih Camisi",
+          "rationale": "Fatih camisi külliyenin merkezindedir ancak altı minaresi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dolmabahçe Camisi",
+          "rationale": "Dolmabahçe camisinin yivli tasarıma sahip iki ince minaresi bulunur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İçindeki 20 bini aşkın çinisi sayesinde dünyada 'Blue Mosque' adıyla ün yapmıştır."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Topkapı Sarayı sınırları içerisinde inşa edilen 'İlk Bina' olma özelliğini taşıyan ve Mimar Atik Sinan tarafından yapılan müze binası hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Arz Odası",
+          "rationale": "Arz odası saray kompleksine dahildir ama yapılan ilk bina değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bağdat Kasrı",
+          "rationale": "Dördüncü avludaki köşklerden biridir, sarayın ilk yapısı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çinili Köşk",
+          "rationale": "Notlarda Çinili Köşk'ün Fatih Sultan Mehmed döneminde (1472) saray kompleksi alanına yapılan İLK BİNA olduğu açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sepetçiler Kasrı",
+          "rationale": "Sepetçiler kasrı 1643 yılında yapılmıştır, çok daha geç bir dönemdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aya İrini Kilisesi",
+          "rationale": "Aya İrini Romalılardan kalmadır, Topkapı Sarayı projesi kapsamında sıfırdan inşa edilen Osmanlı binası değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ön yüzünde 14 mermer sütunlu revak bulunan bu yapı, günümüzde Selçuklu ve Osmanlı dönemi seramiklerine ev sahipliği yapar."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Aşağıdaki mimari yapılardan hangisi Balyan ailesi (Sarkis, Hagop, Garabet Amira, Nigoğos Balyan) tarafından tasarlanmamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çırağan Sarayı",
+          "rationale": "Sarkis ve Hagop Balyan tarafından tasarlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dolmabahçe Camisi",
+          "rationale": "Garabet Amira ve oğlu Nigoğos Balyan'ın eseridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dolmabahçe Saat Kulesi",
+          "rationale": "Sarkis Balyan tarafından inşa edilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ortaköy Camisi",
+          "rationale": "Garabet Amira ve oğlu Nigoğos Balyan'ın eseridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "St. Antoine Kilisesi",
+          "rationale": "İstiklal caddesindeki bu büyük kilise Balyan ailesinin değil, İstanbul doğumlu İtalyan mimar Giulio Mongeri'nin eseridir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Bu yapı İstiklal caddesinde yer alır ve cemaati en geniş Katolik Kilisesidir."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Zemini çok yumuşak olduğu için çökme tehlikesine karşı iskeleti tamamen 'demir ve çelik' kullanılarak inşa edilen tarihi kilise aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aya İrini Müzesi",
+          "rationale": "Aya İrini klasik Roma/Bizans dönemi taş ve tuğla mimarisidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "St. Antoine Kilisesi",
+          "rationale": "Geleneksel beton/tuğla malzemesi kullanılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stephan (Bulgar) Kilisesi",
+          "rationale": "Fener-Balat arasında yer alan bu kilise dünyadaki nadir tamamen demir iskeletli kiliselerden biridir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ayios Pelieuktos Kilisesi",
+          "rationale": "Saraçhane'deki eski bir bazilikadır, temel kalıntıları kalmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zeyrek Kilise Camisi",
+          "rationale": "Taş örgülü bir Pantokrator kilisesi yapısıdır, demirden yapılmamıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu kilisenin kurulması için 1870 yılında bir Osmanlı fermanıyla bağımsızlık hakkı tanınmıştır."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Fatih Sultan Mehmet'in İstanbul'u fethinden sonra şehre atadığı 'İlk Belediye Başkanı' aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Molla Şemsettin Gürani",
+          "rationale": "Fatih'in hocasıdır ve kendi adına kiliseyi camiye çevirmiştir, belediye başkanı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hızır Bey",
+          "rationale": "30 Mayıs 1453'te atanan ve aynı zamanda Kadıköy'e ismini veren (Kadı'nın Köyü) Hızır Bey, ilk belediye başkanıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ak Bıyıklı Mehmet Efendi",
+          "rationale": "Akbıyık camisini yaptıran bir ulemadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Molla Fenari",
+          "rationale": "Osmanlı'nın ünlü şeyhülislamlarındandır, belediye başkanı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Molla Zeyrek Mehmed Efendi",
+          "rationale": "Zeyrek medresesinin ilk müderrisidir (öğretmenidir).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kadıköy semti adını, bu kişinin Osmanlı'daki mesleki unvanından (Kadı) almıştır."
+    },
+    {
+      "questionNumber": 24,
+      "question": "1768 yılında Sultan III. Mustafa'nın odun ve su israfını önlemek için büyük hamam yapılmasını yasaklamasından önce inşa edilmiş olan 'son büyük Osmanlı hamamı' hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Galatasaray Hamamı",
+          "rationale": "Galatasaray hamamı çok daha eski tarihlerde (II. Bayezid dönemi) yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çemberlitaş Hamamı",
+          "rationale": "Çemberlitaş, 1584 yılında Mimar Sinan tarafından yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çardaklı Hamam",
+          "rationale": "Kadırga'da bulunur ve 1053 yapımı çok daha eski bir eserdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cağaloğlu Hamamı",
+          "rationale": "1741'de I. Mahmut tarafından yapılan bu yapı, yasaktan önce inşa edilen son büyük hamamdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Haseki Hürrem Hamamı",
+          "rationale": "Mimar Sinan dönemine ait, 16. yüzyıl eseridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu hamam, Ayasofya Camisi'ne gelir getirmesi amacıyla yaptırılmıştır."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Taksim Meydanı'ndaki 'Cumhuriyet Anıtı' ile ilgili verilen bilgilerden hangisi yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Anıtın yapımı için halktan bağış toplanmıştır.",
+          "rationale": "Halktan para toplanarak yapıldığı doğru bir bilgidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kaidesini İtalyan asıllı Mimar Mongeri tasarlamıştır.",
+          "rationale": "Mimar Mongeri'nin anıt kaidesini tasarladığı bilgisi notlarda yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Heykelleri İtalyan heykeltıraş Pietro Canonica yapmıştır.",
+          "rationale": "Canonica heykelleri İtalya'da yapıp vapurla getirmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anıtın bir yüzü Kurtuluş Savaşı'nı, diğer yüzü Cumhuriyet'i temsil eder.",
+          "rationale": "İki yüzün farklı temaları (halk/asker ve Cumhuriyet kadrosu) işlediği doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anıt tamamen mermer oyma tekniği ile Türkiye'de üretilmiştir.",
+          "rationale": "Heykellerin İtalya'da yapılıp deniz yoluyla (vapurla) İstanbul'a getirildiği belirtilmiştir, Türkiye'de üretilmemiştir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Devletin ekonomik durumu nedeniyle ünlü heykeller bir İtalyan sanatçının atölyesinden deniz yoluyla getirilmiştir."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Dolmabahçe Sarayı ile ilgili aşağıda verilen özelliklerden hangisi metindeki bilgilere göre hatalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Topkapı Sarayı'nın çağın protokollerine yanıt verememesi üzerine yapılmıştır.",
+          "rationale": "Dolmabahçe'nin yapılış amacı Topkapı'nın yetersiz kalmasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sarayda 285 oda, 46 salon ve 6 hamam bulunmaktadır.",
+          "rationale": "Mimari büyüklüğü bu rakamlarla ifade edilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Muayede Salonu tavanındaki kristal avize Kraliçe Victoria'nın hediyesidir.",
+          "rationale": "750 ampüllü 4.5 tonluk bu avize İngiltere hediyesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tahta çıkma ve geleneksel sünnet törenleri her zaman bu sarayda yapılmıştır.",
+          "rationale": "Notlara göre padişahlar burada yaşasa da, geleneksel tahta çıkma törenleri eski usul 'Topkapı Sarayı'nda' yapılmaya devam etmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Osmanlı'nın son dönemindeki 6 padişah bu sarayda ikamet etmiştir.",
+          "rationale": "Saray Osmanlı'nın son dönem padişahlarına ev sahipliği yapmıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Osmanlı padişahları modern bir sarayda yaşamaya geçseler bile, çok köklü ve dini nitelik taşıyan 'kılıç kuşanma/tahta çıkma' adetleri için atalarının sarayından vazgeçmemişlerdir."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Tarihsel kayıtlara göre İstanbul'daki ilk otomobil kazası aşağıdaki semtlerin hangisinde gerçekleşmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kadıköy",
+          "rationale": "Kadıköy Anadolu yakasındadır, kazanın olduğu bomboş araziler Şişli tarafındaydı.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şişli",
+          "rationale": "Eskiden dut ağaçlarıyla dolu olan Şişli'de, Cumhuriyet Caddesi'nin sonlandığı yerde İtalyan elçiliğinin şoförü ilk kazayı yapmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eminönü",
+          "rationale": "Eminönü her zaman kalabalıktı, kaza geniş arazide meydana gelmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pangaltı",
+          "rationale": "Şoför kazadan sonra kaçarken Pangaltı karakolu önünde yakalanmıştır, kazanın yeri Şişli meydanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Taksim",
+          "rationale": "Kazanın olduğu yer Taksim meydanı değil, günümüzdeki Şişli'dir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Şoför İtalyan elçiliğine aittir ve yakalandığında 'İtalya'da kimse beni yakalayamadı, siz nasıl becerdiniz?' diyerek tarihe geçmiştir."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Padişahların ölümleri sonrasında yapılan cenaze ritüellerinde hangi uygulama, özellikle Sultan IV. Murat'ın cenazesinde belirgin bir şekilde gerçekleştirilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Padişahın kılıcının ikiye kırılarak mezara konması",
+          "rationale": "Bu tarz bir kılıç kırma ritüeli Osmanlı padişahları için geçmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Padişahın seferlerde kullandığı atının eyerlerinin ters olarak bağlanıp yürütülmesi",
+          "rationale": "Sultanların ölümünde bir yas göstergesi olarak eyerlerin ters bağlanması adeti, IV. Murat'ta uygulanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Saraydaki tüm aynaların 40 gün boyunca siyah örtülerle kapatılması",
+          "rationale": "Bu bir Avrupa geleneği olabilir ancak notlardaki padişah ritüeli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cenazeye katılanların ayakkabılarını çıkarıp yalınayak yürümesi",
+          "rationale": "Cenazede siyah mintanlar giyilirdi ancak yalınayak yürüme zorunluluğu belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mezarın içine bir miktar altın sikke atılması",
+          "rationale": "İslami cenaze adetlerine aykırıdır ve notlarda yer almaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu gelenek, sahibini kaybetmiş soylu bir binek hayvanının taşıdığı hüznün fiziksel bir göstergesidir."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Aşağıdakilerden hangisi İstanbul'da bulunan Türk-İslam Eserleri Müzesi binasının tarihi özelliğidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Fatih Sultan Mehmet'in şehzadelik döneminde yaşadığı ev olması",
+          "rationale": "Fatih'in şehzadelik evi değildir, yapı Kanuni dönemine aittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osmanlı döneminde yapılmış en büyük devlet hastanesi (Darüşşifa) olması",
+          "rationale": "Burası bir hastane değil bir konuttur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eskiden Osmanlı donanmasının bağlandığı deniz köşkü olması",
+          "rationale": "Donanmanın izlendiği yer Sepetçiler Kasrı'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osmanlı İmparatorluğu dönemindeki en büyük özel konut (İbrahim Paşa Sarayı) olması",
+          "rationale": "Kanuni'nin sadrazamı İbrahim Paşa'ya hediye ettiği bu konut, padişah sarayları dışındaki en büyük özel mülktü.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eskiden cibali tütün fabrikası olarak kullanılması",
+          "rationale": "Tütün fabrikası olan yer günümüzde Rahmi Koç Müzesi'dir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kanuni Sultan Süleyman tarafından çok sevdiği bir sadrazamına hediye edilen devasa bir sivil mimari örneğidir."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Sultan II. Abdülhamit'in Boğaziçi'nin en dar geçiş yeri olan iki hisar arasına yapmayı planladığı köprü projesi (Bosphorus Railroad Company) neden iptal edilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İngiltere'nin siyasi baskıları yüzünden",
+          "rationale": "Dış baskılar değil iç siyasi bir devinim projenin sonunu getirmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Boğazın zemin etütlerinin köprü ayaklarını taşıyamayacak kadar yumuşak çıkması yüzünden",
+          "rationale": "Fiziksel veya mühendislik bir engel notlarda belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şirketin (Bosphorus Railroad) iflas etmesi yüzünden",
+          "rationale": "Şirketle sözleşme yapılmıştır ancak şirketin iflası yüzünden proje rafa kalkmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sultan II. Abdülhamit'in 31 Mart vakası sonrası tahttan indirilmesi yüzünden",
+          "rationale": "Proje tam hayata geçecekken II. Abdülhamit'in tahttan indirilip sürgüne gönderilmesiyle rafa kaldırılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Köprünün bütçesinin devlet hazinesinden karşılanamayacak kadar yüksek çıkması yüzünden",
+          "rationale": "Maliyet her zaman sorun olsa da projenin resmi iptal gerekçesi padişahın gidişidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "1909 yılında yaşanan ve Hareket Ordusu'nun bastırdığı olay sonrasında padişahın makamını kaybetmesi etkili olmuştur."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Bir yerin önemini belirleyen temel faktörler arasında aşağıdakilerden hangisi sayılmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Verimli topraklarının olup olmaması",
+          "rationale": "Doğrudan önem belirleyen faktörlerdendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stratejik özelliklere sahip olması",
+          "rationale": "Stratejik konum bir ülkenin/bölgenin en temel önem kriteridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nüfus yoğunluğunun her bölgede eşit olması",
+          "rationale": "Nüfusun eşit dağılımı coğrafi önemi belirleyen temel faktörler arasında derste sayılmamıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İklim şartlarının sert ya da yumuşak olması",
+          "rationale": "İklim şartları önemi belirleyen temel unsurlardandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çeşitli kültürlerle olan etkileşimi",
+          "rationale": "Kültürel etkileşim yerin önemini artırır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İnsan dağılımı her zaman homojen olmayabilir ve bu durum doğrudan 'önem' kriteri değildir."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Dağları kıyıya dik bir şekilde uzanan ve aralarında çöküntü hendeklerinin yer aldığı yeryüzü bölümümüz hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kuzey Anadolu",
+          "rationale": "Kuzey'de dağlar kıyıya paraleldir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İç Anadolu",
+          "rationale": "İç Anadolu düzlükleri ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Batı Anadolu",
+          "rationale": "Batı Anadolu'da (Ege) dağlar kıyıya dik uzanır ve aralarında çöküntü hendekleri bulunur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Doğu Anadolu",
+          "rationale": "Doğu Anadolu yükseltileri ifade eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güney Anadolu",
+          "rationale": "Toroslar kıyıya paralel uzanır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ege Bölgesi'nin coğrafi yapısını düşünün."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Daha çok güneş, deniz ve kum gibi tabii kaynakları tercih eden turist tipi aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Gezginci Turist",
+          "rationale": "Gezginci turist tarihi ve sosyo-kültürel kaynakları tercih eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tatilci Turist",
+          "rationale": "Tatilci turist doğrudan güneş, deniz ve kum arayan turisttir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kültür Turisti",
+          "rationale": "Kültür turisti tarih odaklıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maceracı Turist",
+          "rationale": "Doğa sporları ve adrenalin arar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sağlık Turisti",
+          "rationale": "Şifalı sular ve tedavi merkezlerini tercih eder.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu turistler rekreasyonel açıdan dinlenmeyi ve sahili hedefler."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Aşağıdakilerden hangisi 'Yeşil Turizm'in alt dallarından biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çiftlik Turizmi",
+          "rationale": "Yeşil turizmin bir dalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuş Gözetleme Turizmi",
+          "rationale": "Yeşil turizm uygulamalarındandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kongre Turizmi",
+          "rationale": "Kongre turizmi doğa odaklı değil, iş ve toplantı odaklıdır. Yeşil turizm şemsiyesi altında yer almaz.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yaban Hayatını İnceleme Turizmi",
+          "rationale": "Doğaya dönük bir aktivitedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dağ Turizmi",
+          "rationale": "Yeşil turizmin temel türlerinden biridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Doğadan ziyade kapalı alanlarda ve şehir merkezlerinde yapılan ticari/akademik etkinlikleri düşünün."
+    },
+    {
+      "questionNumber": 35,
+      "question": "2004 yılı verilerine göre Türkiye'ye gelen 17,5 milyon yabancı turistin yaklaşık 2,1 milyonu hangi amaçla ülkemizi tercih etmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sağlık ve kaplıca tedavisi",
+          "rationale": "Sağlık turizmi rakamı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece alışveriş yapmak",
+          "rationale": "Alışveriş için gelenlerin oranı bu kadar yüksek vurgulanmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Coğrafi yakınlık ve tabii değerler",
+          "rationale": "İstatistiklere göre 2.1 milyon turist sadece coğrafi yakınlık ve tabii değerler sebebiyle gelmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece inanç turizmi",
+          "rationale": "İnanç turizmi spesifik bir daldır, rakam buna ait değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kongre ve toplantılar",
+          "rationale": "İş turizmi amaçlıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lokasyon avantajı ve doğanın çekiciliği bu grupta etkilidir."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Yaz (dinlenme) turizmi açısından istenen iklim özellikleri arasında aşağıdakilerden hangisi yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bol güneş",
+          "rationale": "Yaz turizmi için gereklidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Az yağış",
+          "rationale": "İstenen bir özelliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İstikrarlı ısı",
+          "rationale": "Sıcaklığın istikrarlı olması istenir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yüksek nem oranı",
+          "rationale": "Yaz turizminde yüksek değil, 'düşük nem oranı' aranır; çünkü nem bunaltıcıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sert olmayan hava akımları",
+          "rationale": "Şiddetli rüzgarlar istenmez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İnsanları bunaltan ve terleten hava koşulunu düşünün."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Her mevsimi yağışlı geçen, yazları serin ve nemli, kışları ılık ve yağışlı olan iklim tipi aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Akdeniz İklimi",
+          "rationale": "Akdeniz'de yazlar sıcak ve kuraktır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karasal İklim",
+          "rationale": "Karasal iklimde yazlar sıcak ve kurak, kışlar dondurucu ve karlıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karadeniz İklimi",
+          "rationale": "Her mevsim yağışlı, yazları serin ve nemli olan iklim Karadeniz iklimidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Marmara Geçiş İklimi",
+          "rationale": "Marmara bir geçiş iklimidir, her mevsimi yağışlı değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Step İklimi",
+          "rationale": "Karasal iklimin alt türüdür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Ülkemizin kuzey kıyılarında görülen iklimdir."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Karasal iklimin bitki örtüsü aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Maki",
+          "rationale": "Maki Akdeniz ikliminin bitki örtüsüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Geniş yapraklı orman",
+          "rationale": "Karadeniz'de daha sık görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bozkırlar (Stepler)",
+          "rationale": "Karasal iklimin temel bitki örtüsü stepler, yani bozkırlardır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tayga ormanları",
+          "rationale": "Kuzey yarımkürenin çok soğuk bölgelerinde görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tundra",
+          "rationale": "Kutuplara yakın bölgelerde görülür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İç Anadolu'da sıkça karşılaştığımız kısa boylu ot topluluklarıdır."
+    },
+    {
+      "questionNumber": 39,
+      "question": "İklimi belirleyen 3 temel faktör aşağıdakilerden hangisinde doğru ve eksiksiz olarak verilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Isı - Enlem - Boylam",
+          "rationale": "Enlem ve boylam konumu belirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Isı - Basınç - Yağış",
+          "rationale": "İklimi belirleyen üç temel faktör ısı, basınç ve yağıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rüzgar - Nem - Yükselti",
+          "rationale": "Bunlar da etkilidir ancak ders notlarında temel 3 faktör olarak belirtilenler değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Isı - Rüzgar - Güneşlenme süresi",
+          "rationale": "Eksik bir tanımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yağış - Nem - Enlem",
+          "rationale": "Enlem iklimi etkiler ancak 3 temel parametreden biri olarak sayılmamıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Termometre, barometre ve yağış miktarı ile ölçülen üçlüdür."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Karasal iklimde yağışın az olmasının en temel sebebi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dağların siper (engel) oluşturması ve denizden uzaklık",
+          "rationale": "Denizel etkinin iç kesimlere girememesinin temel nedeni dağların siper olmasıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sürekli yüksek basınç altında kalınması",
+          "rationale": "Sadece basınçla ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bitki örtüsünün bozkır olması",
+          "rationale": "Bu bir sonuçtur, neden değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Buharlaşmanın çok az olması",
+          "rationale": "Karasal bölgelerde yazın buharlaşma fazladır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeraltı sularının derinlerde olması",
+          "rationale": "İklimle doğrudan yağış bağlantısı kurmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Denizden gelen nemli havanın içeriye girmesini engelleyen coğrafi yapıları düşünün."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Bir yerin turistik çekiciliğini en üst seviyeye çıkaran 'Altın Kural' formülünde hangi unsurlar bir arada bulunur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Su kaynakları + Bitki/Orman örtüsü + Yükselti farkları",
+          "rationale": "Su, orman ve dağ/yükselti farklarının bir arada olması çekiciliği zirveye taşır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Deniz + Kum + Güneş",
+          "rationale": "Bu deniz turizminin formülüdür, dersteki 'altın kural' bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tarihi eser + Müze + Restoran",
+          "rationale": "Kültür turizmine ait öğelerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Akarsu + Baraj + Sulama kanalı",
+          "rationale": "Bu tarım ve enerji için önemlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kaplıca + Otel + İklim",
+          "rationale": "Sağlık turizmi unsurlarıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Doğal peyzajı oluşturan üç temel fiziki unsuru hatırlayın."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Aşağıdaki nehirlerden hangisi Marmara Denizi'ne dökülür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çoruh",
+          "rationale": "Karadeniz'e dökülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyhan",
+          "rationale": "Akdeniz'e dökülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Susurluk",
+          "rationale": "Marmara Denizi'ne dökülen en önemli akarsudur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gediz",
+          "rationale": "Ege Denizi'ne dökülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kızılırmak",
+          "rationale": "Karadeniz'e dökülür.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kırmastı ve Nilüfer çayları bu nehrin kollarıdır."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Atatürk, Keban ve Birecik gibi Türkiye'nin en büyük hidroelektrik barajları hangi nehir üzerindedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dicle",
+          "rationale": "Bu barajlar Dicle üzerinde değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fırat",
+          "rationale": "Ülkemizin en uzun nehri olan Fırat üzerindedirler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kızılırmak",
+          "rationale": "Kızılırmak üzerinde farklı barajlar vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çoruh",
+          "rationale": "Çoruh üzerinde Deriner vb. barajlar vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyhan",
+          "rationale": "Seyhan barajı Adana'dadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Türkiye'nin en uzun nehridir."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Aşağıdakilerden hangisi İklim Tedavisi (Klimatizm) potansiyeline sahip alanlardan biri olarak gösterilmemiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hakkari Cilo ve Sat Dağları",
+          "rationale": "Notlarda özel olarak klimatizm alanı olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Batı ve Orta Toroslardaki bazı dağlar",
+          "rationale": "Klimatizm alanı olarak belirtilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Erzurum ve çevresindeki yüksek alanlar",
+          "rationale": "Klimatizm için potansiyel alandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çukurova Deltası",
+          "rationale": "Çukurova deltası aşırı sıcak ve nemlidir, klimatizm için ideal yüksek/temiz hava alanı olarak gösterilmemiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hakkari Çevresi",
+          "rationale": "Cilo dağlarıyla birlikte belirtilmiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Klimatizm için genelde nemli ve boğucu alanlar değil, serin ve yüksek yerler tercih edilir."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Erken Hristiyan döneminde kilise işlevi gören, sütun dizilerince taşınan uzunlamasına ve çatısı ahşap olan dinsel mekana ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Manastır",
+          "rationale": "Şehirden uzak yaşam alanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sarnıç",
+          "rationale": "Su deposudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bazilika",
+          "rationale": "Romalılarda kamusal bina iken sonradan kilise işlevi gören bu yapılara bazilika denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Revak",
+          "rationale": "Sütunlu geçittir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eyvan",
+          "rationale": "İslami mimarideki üç yanı kapalı mekandır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Roma döneminde önceleri mahkeme ve pazar yeri (kamusal işlev) olarak kullanılıyordu."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Büyük Selçuklu ve Anadolu Selçukluları mimarisinde görülen, üç yanı kapalı, avluya bakan yanı açık ve üstü tonozla örtülmüş mekana ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Eyvan",
+          "rationale": "Tanımı verilen mimari terim Eyvan'dır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sur",
+          "rationale": "Şehir duvarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şerefe",
+          "rationale": "Minaredeki balkondur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Revak",
+          "rationale": "Revak binanın ön cephesindeki örtülü yoldur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fresk",
+          "rationale": "Duvar resmidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cami veya medreselerde avluya açılan, yerden yüksekçe gölgelikli alanlardır."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Osmanlı külliyelerinde yemeklerin pişirilip yoksullara ve öğrencilere ücretsiz dağıtıldığı yerin adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Darüşşifa",
+          "rationale": "Hastanedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tabhane",
+          "rationale": "Misafirhanedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İmaret",
+          "rationale": "Aşevi olarak bilinen yapıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Medrese",
+          "rationale": "Eğitim yeridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bedesten",
+          "rationale": "Çarşıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Günümüzdeki aşevlerinin tam karşılığıdır."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Osmanlı Külliyelerinin kendi giderlerini finanse etmek için kullandıkları en önemli model aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Padişahtan her yıl alınan ödenekler",
+          "rationale": "Sürekli ödenek alınmazdı.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeniçeri ocağından toplanan vergiler",
+          "rationale": "Böyle bir vergi sistemi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kendi içindeki çarşılardan (Arasta/Bedesten) elde edilen gelirler",
+          "rationale": "Külliyeler, bünyesindeki dükkanlardan gelen vakıf gelirleriyle kendi kendini finanse ederdi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yabancı elçilerden alınan harçlar",
+          "rationale": "Elçi harçları külliyeye gitmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hastalardan tedavi için alınan paralar",
+          "rationale": "Tedaviler tamamen ücretsizdi.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Vakıf sistemi çerçevesinde 'kendi yağıyla kavrulma' mantığına dayanır."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Cami içinde, imamın namaz kıldırdığı ve cemaate kıble yönünü gösteren duvardaki oyuk yapıya ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mihrap",
+          "rationale": "Kıbleyi gösteren ana mimari ögedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Minber",
+          "rationale": "Hatibin hutbe okuduğu yüksek kürsüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hünkar Mahfili",
+          "rationale": "Padişahın namaz kıldığı yerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şerefe",
+          "rationale": "Minarenin balkonudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hazire",
+          "rationale": "Mezarlıktır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Genellikle çinilerle veya mermerle süslenir ve tam ortada yer alır."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Külliyelerin veya camilerin bahçesinde bulunan, etrafı parmaklık veya kısa duvarla çevrili mezarlık alanlarına ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Türbe",
+          "rationale": "Türbe, önemli kişiler için yapılan 'anıt' mezardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hazire",
+          "rationale": "Açık alan mezarlıklarına hazire denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Külliye",
+          "rationale": "Yapıların tümüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arasta",
+          "rationale": "Çarşıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Revak",
+          "rationale": "Sütunlu geçittir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kelime anlamı olarak sınırlandırılmış yer demektir."
+    },
+    {
+      "questionNumber": 51,
+      "question": "Osmanlı padişahı tahta çıktığında yapılan asıl 'kılıç kuşanma' ritüeline ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tesrih-i Lihye",
+          "rationale": "Sakal bırakma törenidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cülus Bahşişi",
+          "rationale": "Askerlere dağıtılan paradır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Taklid-i Seyf",
+          "rationale": "Osmanlı'da kılıç kuşanma ritüelinin resmi adıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hırka-i Saadet Töreni",
+          "rationale": "Kutsal emanetleri ziyaret törenidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Divan-ı Hümayun",
+          "rationale": "Meclis toplantısıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "'Seyf' kelimesi Arapçada kılıç demektir."
+    },
+    {
+      "questionNumber": 52,
+      "question": "18. Yüzyılda zehirlenme korkusu yaşadığı için kendisine panzehir olarak özel ilaçlar geliştiren padişah kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "III. Ahmet",
+          "rationale": "Gözü önünde yemek pişirtirdi ama ilaç geliştiren o değildi.",
+          "isCorrect": false
+        },
+        {
+          "text": "IV. Murat",
+          "rationale": "Sert bir padişahtı, zehirlenme fobisiyle ilaç yapmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fatih Sultan Mehmet",
+          "rationale": "Rönesans dönemidir, bahsedilen dönem (18. yy) uymuyor.",
+          "isCorrect": false
+        },
+        {
+          "text": "III. Mustafa",
+          "rationale": "Notlarda özel panzehirler geliştirdiği açıkça belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "II. Abdülhamit",
+          "rationale": "19. yy sonu padişahıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kendisi Lale Devri padişahından (III. Ahmet) daha sonra yaşamıştır."
+    },
+    {
+      "questionNumber": 53,
+      "question": "Şarap içilmesine en sert tepkiyi göstererek yakalanan kişilerin boğazından aşağı erimiş kurşun akıtarak öldürten padişah kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yavuz Sultan Selim",
+          "rationale": "Sert olsa da bu ceza onunla anılmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "IV. Murat",
+          "rationale": "İçki ve tütün yasağıyla bilinir ancak erimiş kurşun cezası notlarda ona atfedilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kanuni Sultan Süleyman",
+          "rationale": "Ders notlarında şarap yasağına kurşun akıtarak ceza veren padişah Kanuni olarak geçer.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fatih Sultan Mehmet",
+          "rationale": "Bu yasakla anılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "I. Ahmet",
+          "rationale": "Bu denli sert bir uygulamasıyla anılmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Muhteşem Yüzyıl olarak da bilinen dönemin kudretli padişahıdır."
+    },
+    {
+      "questionNumber": 54,
+      "question": "Kanuni Sultan Süleyman'ın ölümü ordudan gizlenirken onun yerine geçirilen ve padişahın elbiseleri giydirilen kişi kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadrazam Sokullu",
+          "rationale": "Sokullu planı yapan kişidir, dublör değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İmam Hasan",
+          "rationale": "Padişaha çok benzediği için 1.5 ay boyunca onun yerine geçirilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Küçük Efendi",
+          "rationale": "Özel kalem müdürüdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hızır Çelebi",
+          "rationale": "İlk belediye başkanıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şeyhülislam Ebussuud",
+          "rationale": "Dönemin şeyhülislamıdır, dublör olmamıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kendisi padişaha çok benzeyen sıradan bir imamdır."
+    },
+    {
+      "questionNumber": 55,
+      "question": "Mimar Sinan'ın Edirnekapı'da inşa ettiği, etrafında başka yüksek yapı olmaması nedeniyle kentin her yerinden görünen 'yalnız ve abidevi' eseri hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Süleymaniye Camisi",
+          "rationale": "Süleymaniye de tepededir ama notta 'yalnız ve abidevi' olarak tanımlanan başkadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rüstem Paşa Camisi",
+          "rationale": "Zemin kat üzerine (fevkani) yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Haseki Hürrem Sultan Camisi",
+          "rationale": "İlk büyük eseridir, Edirnekapı'da değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mihrümah Sultan Camisi",
+          "rationale": "Kanuni'nin kızı adına surların yanına yaptığı çok yüksek ve heybetli eserdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Şehzade Camisi",
+          "rationale": "Çıraklık eseri olarak bilinir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Güneş ve ay anlamına gelen bir isme sahiptir."
+    },
+    {
+      "questionNumber": 56,
+      "question": "Osmanlı tarihinin 'en şişman sadrazamı' olarak bilinen ve üstünde gezecek beygir (at) dayandıramamasıyla meşhur olan sadrazam kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rüstem Paşa",
+          "rationale": "O da Kanuni'nin sadrazamıdır ama en şişman olan o değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Semiz Ali Paşa",
+          "rationale": "Tarihe en şişman sadrazam olarak geçmiştir, adına yapılan medrese bugün sağlık kurumudur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hüsrev Paşa",
+          "rationale": "Görevden alınınca kendini açlıktan öldüren paşadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sokullu Mehmet Paşa",
+          "rationale": "Şişmanlığıyla anılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuyucu Murat Paşa",
+          "rationale": "İsyancıları kuyulara dolduran paşadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lakabı zaten kilolu insanları tanımlamak için kullanılan bir kelimedir (Semiz)."
+    },
+    {
+      "questionNumber": 57,
+      "question": "Divanda tartışıp görevden alınmasını hazmedemeyerek evine kapanan ve kendini açlıkla ölüme mahkum eden sadrazam kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hüsrev Paşa",
+          "rationale": "1542'de açlıktan ölmüş, Mimar Sinan ona zarif bir türbe yapmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sinan Paşa",
+          "rationale": "Yemen Fatihi'dir, eceliyle ölmüştür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Merzifonlu Kara Mustafa Paşa",
+          "rationale": "Viyana'da idam edilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hadım Süleyman Paşa",
+          "rationale": "Hüsrev Paşa'nın divanda tartıştığı kişidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İshak Paşa",
+          "rationale": "Cimriliğiyle bilinir, açlıktan ölmemiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Mimar Sinan, onun ölümünün anısına kendi döneminin en zarif türbelerinden birini inşa etmiştir."
+    },
+    {
+      "questionNumber": 58,
+      "question": "Türkiye'de dikilen ilk anıt olma özelliğini taşıyan 'Abide-i Hürriyet', hangi olayın anısına dikilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Cumhuriyet'in İlanı",
+          "rationale": "Cumhuriyet anıtı Taksim'dedir, bu anıt 1911'de dikilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İstanbul'un Fethi",
+          "rationale": "Bununla ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "31 Mart Olayı (Ayaklanması)",
+          "rationale": "Hareket Ordusu askerlerinin anısına 1911'de Şişli'ye dikilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Viyana Kuşatması",
+          "rationale": "Bu dönemle ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kırım Savaşı",
+          "rationale": "Kırım Savaşı anısına kilise yapılmıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "1909 yılında meşrutiyet karşıtlarının çıkardığı büyük isyanı bastıran askerler anısına yapılmıştır."
+    },
+    {
+      "questionNumber": 59,
+      "question": "İstanbul'un ilk toplu konutları olarak bilinen ve 1918 yangınında evsiz kalan aileleri barındırmak için Mimar Kemalettin tarafından yapılan bina hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Akaretler Sıra Evleri",
+          "rationale": "Saray hizmetkarları içindir, yangınzedeler için değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tayyare Apartmanları",
+          "rationale": "Laleli'deki bu apartmanlar yangınzedeler için halktan toplanan bağışlarla yapılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pangaltı Binaları",
+          "rationale": "Böyle bir toplu konut projesi notta geçmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "İş Bankası Müzesi Binası",
+          "rationale": "Eskiden PTT binasıydı, konut değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fransız Sokağı Evleri",
+          "rationale": "Cezayir Sokağı evleri olarak bilinir, toplu konut projesi değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cumhuriyet'in ilanından sonra gelir sağlaması için Türk Hava Kurumu'na devredildiği için bu adı almıştır."
+    },
+    {
+      "questionNumber": 60,
+      "question": "17. Yüzyılda sadrazamlık yapan ve Anadolu'daki isyancıları kestirip kuyulara doldurduğu için lakap alan paşa kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kuyucu Murat Paşa",
+          "rationale": "Can alıcılığı ve açtığı kuyularla nam salmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sinan Paşa",
+          "rationale": "Yemen Fatihi'dir, açgözlülükle suçlanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Davut Paşa",
+          "rationale": "Eski bir sadrazamdır, böyle bir lakabı yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hadım Süleyman Paşa",
+          "rationale": "Hüsrev paşa ile kavga edendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rüstem Paşa",
+          "rationale": "Kanuni'nin damadıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İsmi doğrudan kazdığı ve cesetleri doldurduğu çukurlardan gelir."
+    },
+    {
+      "questionNumber": 61,
+      "question": "Mısır Firavunu III. Tutmosis'in Asya zaferi anısına Karnak Tapınağı'nın önüne diktirdiği ve 390 yılında İstanbul'a getirilen anıt hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yılanlı Sütun",
+          "rationale": "Pers zaferi anısına Yunanlar yapmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dikilitaş (Theodosius Sütunu)",
+          "rationale": "Sultanahmet'te bulunan meşhur Mısır hiyeroglifli anıttır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Örme Dikilitaş",
+          "rationale": "Bizans imparatoru tarafından yaptırılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kıztaşı",
+          "rationale": "İmparator Marcianus onuruna dikilmiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çemberlitaş",
+          "rationale": "Konstantin tarafından diktirilmiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Üzerinde eski Mısır yazıları (hiyeroglifler) bulunur."
+    },
+    {
+      "questionNumber": 62,
+      "question": "Padişah Fatih Sultan Mehmet, yemek yerken sineklerden rahatsız olunca 'Cimriliğinden mutfağında yemek pişmediği için sinek de olmaz' denilerek hangi vezirinin mekanı önerilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İshak Paşa",
+          "rationale": "Cimriliğiyle nam salan ve Fatih'in veziri olan kişi İshak Paşa'dır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sinan Paşa",
+          "rationale": "Yemen Fatihi'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rüstem Paşa",
+          "rationale": "Zengindi ama sinek anekdotu onun için değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Davut Paşa",
+          "rationale": "Kendi adına camisi vardır ancak bu hikayeyle bilinmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sokullu Mehmet Paşa",
+          "rationale": "Cimriliği ile ilgili böyle bir anekdotu yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Cankurtaran mahallesinde, tek minareli ahşap bir camiye de adını veren paşadır."
+    },
+    {
+      "questionNumber": 63,
+      "question": "Osmanlı döneminde Şeyhülislamlar için geçerli olan ve katı kurallar içeren uygulamalardan biri aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Asla evlenemezlerdi.",
+          "rationale": "İslami kurallara aykırıdır, evlenebilirlerdi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece Padişahın huzurunda konuşabilirlerdi.",
+          "rationale": "Fetva verip halkla temas ederlerdi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emekli olan Şeyhülislamların birbirleriyle görüşmeleri ve konaklarından dışarı çıkmaları yasaktı.",
+          "rationale": "Devlet sırları ve otorite çatışmasını önlemek için emekli şeyhülislamlar tecrit edilirdi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Öldüklerinde mezarları gizli tutulurdu.",
+          "rationale": "Aksine büyük türbelere gömülürlerdi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Saray dışında yaşamaları yasaktı.",
+          "rationale": "Kendi konaklarında yaşarlardı.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Molla Fenari anlatılırken özellikle görev sonrasındaki yaşamlarıyla ilgili kısıtlama belirtilmiştir."
+    },
+    {
+      "questionNumber": 64,
+      "question": "Eskiden at ahırlarının bulunduğu ve Kanuni döneminde sürülen Rumların yerleştiği 'Tatavla' semti, Cumhuriyet döneminde hangi ismi almıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kasımpaşa",
+          "rationale": "Tersane vardır ancak Tatavla değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kurtuluş",
+          "rationale": "Tatavla semtinin Cumhuriyet'ten sonraki adı Kurtuluş olmuştur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Feriköy",
+          "rationale": "Madam Feri'den adını alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Okmeydanı",
+          "rationale": "Okçuluk tesislerinin yeridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pangaltı",
+          "rationale": "Pane calde'den türemiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İstanbul'un çok ünlü bir semtidir ve hala ara sokaklarında eski Rum kiliselerini barındırır."
+    },
+    {
+      "questionNumber": 65,
+      "question": "Fatih Sultan Mehmet'in ok atma talimleri için kurdurduğu Okmeydanı, zaman içinde hangi farklı askeri/ticari amaç için de kullanılmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Top döküm merkezi",
+          "rationale": "Tophane'dedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kılıç ve zırh üretimi",
+          "rationale": "Burada yapılmazdı.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gemi donanımlarından 'halat' imalatı",
+          "rationale": "Geniş alan olduğu için gemilere uzun halatların üretildiği yer olmuştur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Saray faytonlarının üretimi",
+          "rationale": "Metinde geçmemektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yeniçerilerin talim alanı",
+          "rationale": "Okçularındır ama asıl sürpriz bilgi halat üretimidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Geniş ve uzun bir düzlük gerektiren denizcilik donanımını düşünün."
+    },
+    {
+      "questionNumber": 66,
+      "question": "Körler Ülkesi (Khalkedon) efsanesi ve Fatih dönemindeki ilk belediye başkanı ile anılan İstanbul ilçesi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Üsküdar",
+          "rationale": "Khalkedon Üsküdar değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Beşiktaş",
+          "rationale": "Avrupa yakasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kadıköy",
+          "rationale": "Hızır Çelebi'ye (Kadı'ya) verildiği için Kadı'nın Köyü (Kadıköy) ve Byzas'ın Körler Ülkesi dediği yerdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fatih",
+          "rationale": "Tarihi yarımadadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Beyoğlu",
+          "rationale": "Galata civarıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Anadolu yakasının merkez ilçesidir."
+    },
+    {
+      "questionNumber": 67,
+      "question": "1844 yılında Bezmialem Valide Sultan tarafından ahşap dubalar üzerine yaptırılan ve halktan geçiş için 'mururiye' ücreti alınan tarihi yapı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Unkapanı Köprüsü",
+          "rationale": "Atatürk köprüsü olarak da bilinir, bahsedilen bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Galata Köprüsü",
+          "rationale": "İlk Galata köprüsü (Cisricedit) için geçiş ücreti alınırdı.",
+          "isCorrect": true
+        },
+        {
+          "text": "Haliç Zinciri",
+          "rationale": "Köprü değil zincirdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Boğaziçi Köprüsü",
+          "rationale": "Cumhuriyet döneminde 1973'te yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bosphorus Railroad",
+          "rationale": "II. Abdülhamit'in iptal edilen demiryolu köprüsü projesidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Karaköy ile Eminönü'nü birbirine bağlayan köprüdür."
+    },
+    {
+      "questionNumber": 68,
+      "question": "Eminönü'nde bulunan ve asıl adı 'Yeni Çarşı' olmasına rağmen 18. yüzyıldan itibaren Kahire'den gelen malların satılması nedeniyle ismi değişen çarşı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kapalıçarşı",
+          "rationale": "Fatih döneminden beri vardır, adı değişmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arasta Bazaar",
+          "rationale": "Sultanahmet'tedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mısır Çarşısı",
+          "rationale": "Baharatların Mısır (Kahire) üzerinden gelmesi nedeniyle bu ismi almıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sipahi Pazarı",
+          "rationale": "Arasta bazaar'ın diğer adıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mahmutpaşa Çarşısı",
+          "rationale": "Mahmutpaşa yokuşundadır, Mısır ile ilgisi yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Günümüzde 'Baharat Çarşısı' olarak da bilinir."
+    },
+    {
+      "questionNumber": 69,
+      "question": "Topkapı Sarayı'nın dış bahçesi olan, 1839'da Tanzimat Fermanı'nın okunduğu ve Atatürk'ün Latin harflerini ilk kez halka gösterdiği alan neresidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yıldız Parkı",
+          "rationale": "Beşiktaş'tadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gülhane Parkı",
+          "rationale": "Tanzimat fermanı burada okunmuştur, tarihi önemi büyüktür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Emirgan Korusu",
+          "rationale": "Boğazdadır, saray dış bahçesi değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çamlıca Tepesi",
+          "rationale": "Anadolu yakasındadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hasbahçe",
+          "rationale": "Kasımpaşa'da Aynalıkavak kasrının yeridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Hatta Nazım Hikmet'in meşhur bir şiirinde 'Ceviz ağacıyım' dediği parktır."
+    },
+    {
+      "questionNumber": 70,
+      "question": "Ayasofya'yı kubbesine kadar destek duvarlarıyla sararak yıkılmaktan kurtaran Osmanlı mimarı kimdir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mimar Sinan",
+          "rationale": "Ayasofya'yı payandalarla (destek duvarları) kurtaran kişi Mimar Sinan'dır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mimar Mustafa Ağa",
+          "rationale": "Mısır çarşısı ve Yeni Cami'yi yapmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sedefkar Mehmet Ağa",
+          "rationale": "Sultanahmet Camisi'nin mimarıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mimar Hayreddin",
+          "rationale": "Mostar köprüsünü yapmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Balyan Ailesi",
+          "rationale": "19. yy son dönem saray mimarlarıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Osmanlı'nın en ünlü baş mimarıdır."
+    },
+    {
+      "questionNumber": 71,
+      "question": "Doğu Roma İmparatoru Jüstinyen tarafından sarayın su ihtiyacını karşılamak için yaptırılan ve içinde 336 adet sütun bulunan devasa yeraltı yapısı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Binbirdirek Sarnıcı",
+          "rationale": "Bir başka sarnıçtır fakat Jüstinyen'in yaptırdığı en büyüğü Yerebatan'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerebatan Sarnıcı",
+          "rationale": "En büyük yeraltı sarnıcıdır ve 336 sütunu vardır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Valens Kemeri",
+          "rationale": "Yeraltında değil, havadan su taşıyan kemerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gülhane Sarnıcı",
+          "rationale": "Böyle bir tarihi yapı vurgusu yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çemberlitaş Sarnıcı",
+          "rationale": "Böyle bir spesifik yapı ders notlarında geçmez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Üzerinde eskiden bir bazilika bulunduğu için Bazilika adıyla da anılır."
+    },
+    {
+      "questionNumber": 72,
+      "question": "Almanya (Prusya) İmparatoru II. Wilhelm'in İstanbul ziyareti anısına Mimar Schoele tarafından Almanya'da yapılıp parçalar halinde İstanbul'a getirilerek kurulan eser hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tophane Çeşmesi",
+          "rationale": "I. Mahmut yaptırmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alman Çeşmesi",
+          "rationale": "II. Wilhelm'in hediyesi olan kubbe içi altın süslemeli çeşmedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hekimoğlu Çeşmesi",
+          "rationale": "Osmanlı Barok dönemi çeşmesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "III. Ahmet Çeşmesi",
+          "rationale": "Topkapı sarayı girişindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Soğukçeşme",
+          "rationale": "Sokağa adını veren küçük çeşmedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sultanahmet meydanında bulunur ve içi altın yaldızlarla kaplıdır."
+    },
+    {
+      "questionNumber": 73,
+      "question": "Ohrid'den gelen Yahudiler tarafından yaptırılan ve dua okuma kürsüsü 'Gemi güvertesini' simgeleyen sinagog hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Zülfaris Sinagogu",
+          "rationale": "Burası 500. Yıl Vakfı müzesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neve Şalom Sinagogu",
+          "rationale": "Ders notlarında gemi güvertesi olarak bahsedilen bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ahrida Sinagogu",
+          "rationale": "Kürsüsü Nuh'un Gemisini veya göç edilen kadırgaları simgeler.",
+          "isCorrect": true
+        },
+        {
+          "text": "Balat Sinagogu",
+          "rationale": "Bölge adı Balat'tır ama özel ismi Ahrida'dır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karaköy Sinagogu",
+          "rationale": "Böyle bir isimlendirme derste yoktur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İsmini Makedonya'daki bir şehirden (Ohrid) almıştır."
+    },
+    {
+      "questionNumber": 74,
+      "question": "6. Yüzyılda çok tanrılı inancın yasaklanmasına isyan eden halkın başlattığı 'Nika ayaklanması' sırasında yanıp kül olan ve 'Kutsal Barış' anlamına gelen müze/kilise hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aya Sofya",
+          "rationale": "Kutsal Bilgelik anlamına gelir, yanmıştır ama sorulan Aya İrini'dir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aya Teodosios",
+          "rationale": "Farklı bir kilisedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aya İrini",
+          "rationale": "Kutsal barış anlamı taşır ve Topkapı sarayı birinci avlusundadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ayios Pelieuktos",
+          "rationale": "Haçlı seferlerinde yağmalanmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pantokrator",
+          "rationale": "Zeyrek camisine çevrilmiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bugün Topkapı Sarayı'nın birinci avlusunda yer alan, eski silah müzesidir."
+    },
+    {
+      "questionNumber": 75,
+      "question": "Venediklilerle imzalanan Pasarofça Antlaşması sonrası hediye edilen boy aynaları ile süslendiği için 'Tersane Has Bahçeleri' olan adı değişen yapı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çırağan Sarayı",
+          "rationale": "19. yy'da yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sepetçiler Kasrı",
+          "rationale": "Sarayburnu'ndadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Küçüksu Kasrı",
+          "rationale": "Boğaz'dadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aynalıkavak Kasrı",
+          "rationale": "Kavak kadar uzun aynalar geldiği için bu adı almıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Beylerbeyi Sarayı",
+          "rationale": "Anadolu yakasındadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İsminde 'Ayna' kelimesi geçmektedir."
+    },
+    {
+      "questionNumber": 76,
+      "question": "Galata'da bulunan, Dominiken Tarikatı'na ait St. Paul kilisesi iken 15. yy sonlarında İspanya'dan gelenlerin yerleştirilmesiyle adı değişen cami hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ortaköy Camisi",
+          "rationale": "Abdülmecid yaptırmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arap Camisi",
+          "rationale": "İspanya'dan göçen Araplar buraya yerleştirildiği için bu ismi almıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nusretiye Camisi",
+          "rationale": "Tophane'dedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zeyrek Camisi",
+          "rationale": "Fatih ilçesindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kılıç Ali Paşa Camisi",
+          "rationale": "Mimar Sinan eseri bir camidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Caminin bugünkü kulesi aslen kilisenin çan kulesidir ve sivri çatısıyla İtalyan mimarisini andırır."
+    },
+    {
+      "questionNumber": 77,
+      "question": "Kırım Savaşı'na katılan İngilizlerin anısına Abdülmecid'in tahsis ettiği alana yapılan ve Kraliçe Victoria'nın minnettarlık olarak otomobil hediye ettiği kilise hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "St. Antoine Kilisesi",
+          "rationale": "Katolik İtalyan kilisesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stephan Bulgar Kilisesi",
+          "rationale": "Demir kilisedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anglikan Kilisesi (Kırım'ı Anma Kilisesi)",
+          "rationale": "İngiliz Anglikan kilisesidir, otomobilin denize atıldığı efsanesiyle meşhurdur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ayia Triada",
+          "rationale": "Taksim'deki Rum Ortodoks kilisesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Süryani Meryem Ana Kilisesi",
+          "rationale": "Mardin taşından yapılan tek kilisedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İngiltere'nin resmi devlet mezhebine ait bir kilisedir."
+    },
+    {
+      "questionNumber": 78,
+      "question": "Türkiye ve Osmanlı coğrafyasından seçilmiş eserlerin 1/25 ölçekli maketlerinin bulunduğu, Sütlüce'deki açık hava müzesi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Pera Müzesi",
+          "rationale": "Tablo ve çini müzesidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rahmi Koç Müzesi",
+          "rationale": "Sanayi ve ulaşım tarihidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Miniatürk",
+          "rationale": "Maketlerin sergilendiği parktır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İş Bankası Müzesi",
+          "rationale": "Bankacılık tarihidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Panaroma 1453",
+          "rationale": "Fethi anlatan müzedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İsmi minyatür kelimesinden türetilmiştir."
+    },
+    {
+      "questionNumber": 79,
+      "question": "Doğu Roma İmparatorluğu'nun gemi geçişlerini engellemek için Haliç'e gerdiği meşhur zincirin kalıntıları bugün hangi müzede sergilenmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Deniz Müzesi",
+          "rationale": "Mantıklı gelse de zincir orada değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Askeri Müze",
+          "rationale": "Fetihte ele geçirilen silahlar ve zincir Askeri Müze'dedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Arkeoloji Müzesi",
+          "rationale": "Antik çağ eserleri buradadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Topkapı Sarayı Müzesi",
+          "rationale": "Padişah eşyaları buradadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rahmi Koç Müzesi",
+          "rationale": "Sanayi araçları sergilenir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Harbiye semtinde bulunan bu müze eski bir okuldur (Mekteb-i Harbiye)."
+    },
+    {
+      "questionNumber": 80,
+      "question": "Eski adı 'Cezayir Sokağı' olan, binaları pembe-sarıya boyalı ve Paris Belediyesi'nin hediye ettiği 100 yıllık havagazı lambalarıyla aydınlatılan turistik sokak hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Soğukçeşme Sokağı",
+          "rationale": "Ayasofya arkasında ahşap evlerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İstiklal Caddesi",
+          "rationale": "Sokak değil büyük caddedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fransız Sokağı",
+          "rationale": "Fransız mimarisi konseptine dönüştürülmüştür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Perçemli Sokak",
+          "rationale": "Karaköy'de sinagogun sokağıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Serdarı Ekrem Sokağı",
+          "rationale": "Galata kulesi dibindedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Galatasaray lisesinin hemen arkasında merdivenli bir sokaktır."
+    },
+    {
+      "questionNumber": 81,
+      "question": "Kumu romatizmal hastalıklara iyi geldiği için Doğu Roma döneminden itibaren sağlık turizmi açısından halkın ilgisini çeken Karadeniz kıyısındaki sayfiye yeri hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kilyos",
+          "rationale": "Avrupa yakasında deniz için tercih edilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Riva",
+          "rationale": "Deresi ve plajı vardır ama romatizma vurgusu yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ağva",
+          "rationale": "Şile'nin bir bölgesidir ama özel romatizma vurgusu Şile için yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şile",
+          "rationale": "Özellikle romatizmaya iyi gelen kumuyla ünlüdür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kefken",
+          "rationale": "Kocaeli'ye bağlıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Aynı zamanda İstanbul'da üretilen meşhur pamuklu dokuma bezine de ismini veren ilçedir."
+    },
+    {
+      "questionNumber": 82,
+      "question": "1910 yılında geçirdiği büyük yangında 2 saat içinde kül olan ve Ermeni ressam Ayvazovski'nin değerli tablolarının yok olmasına neden olan saray hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dolmabahçe Sarayı",
+          "rationale": "Ayaktadır, yangın geçirmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yıldız Sarayı",
+          "rationale": "Yangın felaketi ile anılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çırağan Sarayı",
+          "rationale": "Balyan ailesi yapımı bu saray 1910'da tamamen yanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Beylerbeyi Sarayı",
+          "rationale": "Yangın geçirmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Topkapı Sarayı",
+          "rationale": "Harem'de bazı yangınlar olmuşsa da tümden 1910'da yanmamıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Günümüzde dış duvarları aslına uygun restore edilmiş lüks bir oteldir."
+    },
+    {
+      "questionNumber": 83,
+      "question": "Boğaziçi'nin Avrupa yakasında Kabataş ile Beşiktaş arasında, 285 oda, 46 salon ve 6 hamamdan oluşan büyük saray hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çırağan Sarayı",
+          "rationale": "Beşiktaş'tan sonradır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dolmabahçe Sarayı",
+          "rationale": "Topkapı'nın yetersiz kalması üzerine 1856'da bitirilen büyük komplekstir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yıldız Sarayı",
+          "rationale": "Tepededir, deniz kıyısında değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Küçüksu Kasrı",
+          "rationale": "Çok daha küçüktür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tekfur Sarayı",
+          "rationale": "Bizans'tan kalmadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Mustafa Kemal Atatürk'ün de son günlerini geçirdiği ve vefat ettiği saraydır."
+    },
+    {
+      "questionNumber": 84,
+      "question": "Mardin'den getirilen taşlarla 1960 yılında inşa edilen ve İstanbul'da kendi toplulukları tarafından yaptırılan 'tek kilise' olma özelliğini taşıyan ibadethane hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "St. Antoine Katolik Kilisesi",
+          "rationale": "İtalyanlar yapmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anglikan Kilisesi",
+          "rationale": "İngilizler içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stephan Bulgar Kilisesi",
+          "rationale": "Demir dökümdür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meryem Ana Süryani Kilisesi",
+          "rationale": "Tarlabaşı'nda Mardin taşıyla yapılan tek Süryani kilisesidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ayia Triada",
+          "rationale": "Rum kilisesidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu kiliseyi yaptıran topluluğun kökenleri Mezopotamya'ya, 5000 yıl öncesine dayanır."
+    },
+    {
+      "questionNumber": 85,
+      "question": "Sultan II. Selim'in eşi ve III. Murat'ın annesi olan Nurbanu Sultan tarafından Üsküdar'daki Atik Valide Külliyesi'ne gelir getirmesi amacıyla yaptırılan hamam hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Cağaloğlu Hamamı",
+          "rationale": "I. Mahmut yaptırmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Galatasaray Hamamı",
+          "rationale": "II. Bayezid yaptırmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Haseki Hürrem Hamamı",
+          "rationale": "Hürrem Sultan yaptırmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çardaklı Hamam",
+          "rationale": "1053 yılında yapılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çemberlitaş Hamamı",
+          "rationale": "Nurbanu Sultan tarafından Mimar Sinan'a yaptırılmıştır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Divanyolu üzerinde bulunan ve 1868 yol genişletme çalışmalarında kadınlar kısmı yıkılan ünlü hamamdır."
+    },
+    {
+      "questionNumber": 86,
+      "question": "Enderun teşkilatının Harem'deki karşılığı olan sistemde, Padişahın annesine verilen ve haremin en güçlü kişisi olan unvan hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kadınefendi",
+          "rationale": "Erkek çocuk doğuranların en gözdeleridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Valide Sultan",
+          "rationale": "Padişahın annesidir ve harem yönetiminin zirvesidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Haseki Sultan",
+          "rationale": "Çocuk doğuran hasekilerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hünkar Hasekisi",
+          "rationale": "Gözde olan hasekilerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Darüssaade Ağası",
+          "rationale": "Haremin idarecisi siyah ağadır ama padişah annesi değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Osmanlı tarihinde Kösem veya Hürrem gibi isimlerin ulaştığı en güçlü makamdır."
+    },
+    {
+      "questionNumber": 87,
+      "question": "Topkapı Sarayı'nda yabancı elçilerin ve sefere çıkacak komutanların padişah tarafından resmi kabulünün yapıldığı Üçüncü Avlu'daki yapıya ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Divan-ı Hümayun",
+          "rationale": "İkinci avluda hükümet toplantısı yapılan yerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sünnet Odası",
+          "rationale": "Dördüncü avludaki köşklerdendir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hasoda",
+          "rationale": "Kutsal emanetlerin saklandığı yerdir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arz Odası (Arz Divanhanesi)",
+          "rationale": "Padişahın elçileri kabul ettiği 'arz' mekanıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Enderun Koğuşları",
+          "rationale": "Öğrencilerin yattığı ve eğitim gördüğü yerlerdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kelime anlamı 'sunma, gösterme, huzura çıkma' olan bir kelimeden türemiştir."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Hangi mimari yapının tavanındaki 4.5 ton ağırlığındaki ve 750 ampüllü devasa kristal avize, İngiltere Kraliçesi Victoria tarafından Osmanlı'ya hediye edilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Topkapı Sarayı / Arz Odası",
+          "rationale": "Burada böyle bir avize yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dolmabahçe Sarayı / Muayede Salonu",
+          "rationale": "Sarayın en görkemli yerindeki bu dev avize Victoria'nın hediyesidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yıldız Sarayı / Şale Köşkü",
+          "rationale": "Buradaki halılar meşhurdur ancak avize Dolmabahçe'dedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çırağan Sarayı",
+          "rationale": "Bu saray yanmıştır, avize kurtulmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aynalıkavak Kasrı",
+          "rationale": "Buraya Venedik'ten dev aynalar gelmiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bayramlaşma törenlerinin yapıldığı ve sarayın tam ortasında bulunan devasa salondur."
+    },
+    {
+      "questionNumber": 89,
+      "question": "Hangi Osmanlı padişahı döneminde Çinili Köşk yapılarak Topkapı Sarayı'nın temelleri atılmış ve 'ilk bina' inşa edilmiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kanuni Sultan Süleyman",
+          "rationale": "Saray onun döneminde zaten bitmiş ve çoktan genişletilmişti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yavuz Sultan Selim",
+          "rationale": "O daha çok kutsal emanetleri getirmesiyle bilinir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fatih Sultan Mehmet",
+          "rationale": "Topkapı Sarayı projesi (1478) ve ilk binası olan Çinili Köşk (1472) onun emriyle yapılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "II. Beyazıt",
+          "rationale": "Fatih'in oğludur, ondan sonradır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sultan I. Ahmet",
+          "rationale": "Sultanahmet Camisi'ni yaptırmıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İstanbul'u fethederek imparatorluğun merkezini buraya taşıyan padişahtır."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Türkiye'nin iklim özelliklerine göre bozkır (step) iklimi ve bitki örtüsü en belirgin olarak hangi bölgelerimizde hüküm sürmektedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Güney ve Batı Kıyıları",
+          "rationale": "Akdeniz iklimi görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuzey Kıyıları",
+          "rationale": "Karadeniz ormanları görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Marmara Bölgesi",
+          "rationale": "Geçiş iklimidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Türkiye'nin ortasında ve doğusunda",
+          "rationale": "İç kesimlerde denizel etki kırılarak Karasal (Bozkır/Step) iklim görülür.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece Trakya Yarımadasında",
+          "rationale": "Trakya'nın bir kısmında vardır ama en belirgin olarak tüm orta ve doğu bölgeleri kapsar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Dağların denize paralel uzanıp nemli havayı engellediği denizden uzak geniş düzlüklerdir."
+    },
+    {
+      "questionNumber": 91,
+      "question": "Topkapı Sarayı'nda Padişahın, haremin ve Enderun'un 'Özel Alanı' olan ve Hz. Muhammed'in kılıçları gibi 'Kutsal Emanetlerin' saklandığı (Hasoda) bölüm hangi avludadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Birinci Avlu",
+          "rationale": "Halk avlusudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "İkinci Avlu",
+          "rationale": "Devlet işleri görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üçüncü Avlu",
+          "rationale": "Enderun okulu ve Arz odasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dördüncü Avlu",
+          "rationale": "Köşklerin ve Hasoda'nın bulunduğu padişaha ait özel 4. avludur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Meydan-ı Hümayun",
+          "rationale": "Avlunun adı bu değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "En içte, sarayın en mahrem ve korunaklı köşesinde yer alır."
+    },
+    {
+      "questionNumber": 92,
+      "question": "Hangi nehir, üzerinde kurulan Atatürk, Keban ve Birecik baraj gölleriyle birlikte sadece enerji değil aynı zamanda turistik aktiviteler için de büyük potansiyel oluşturur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çoruh",
+          "rationale": "Rafting için önemlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kızılırmak",
+          "rationale": "Karadeniz'e dökülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seyhan",
+          "rationale": "Çukurova'ya can verir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dicle",
+          "rationale": "Güneydoğu anadolu'dan geçer ancak Atatürk barajı üzerinde değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fırat",
+          "rationale": "Türkiye'nin en uzun nehri olan Fırat, büyük baraj gölleri turizmine ev sahipliği yapar.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Şanlıurfa, Elazığ, Adıyaman gibi şehirlerimizden geçen efsanevi nehrimizdir."
+    },
+    {
+      "questionNumber": 93,
+      "question": "Akdeniz iklim bölgesinde yer alan akarsuların özellikleri incelendiğinde uzun nehirler (Dalaman, Seyhan, Ceyhan, Asi) genellikle Akdeniz'in hangi bölümünde toplanmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Batı Akdeniz",
+          "rationale": "Burada daha kısa çaylar bulunur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doğu Akdeniz",
+          "rationale": "Çukurova ve Hatay civarındaki Doğu Akdeniz bölümü uzun nehirlerin döküldüğü yerdir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Orta Akdeniz",
+          "rationale": "Antalya körfezine dökülenler genelde çaylardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tüm Akdeniz Sahili Boyunca Eşit",
+          "rationale": "Homojen bir dağılım yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kuzey Akdeniz (Göller Yöresi)",
+          "rationale": "Göller yöresi denize dökülen nehirleriyle meşhur değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Çukurova deltasını oluşturan nehirlerin bulunduğu bölgedir."
+    },
+    {
+      "questionNumber": 94,
+      "question": "Türkiye'deki su sporları altyapısı incelendiğinde yelken, kürek ve su kayağı gibi aktivitelere en uygun ve kullanıma en hazır durumdaki göllerimiz hangileridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tuz Gölü ve Seyfe Gölü",
+          "rationale": "Çok sığ oldukları için su sporlarına uygun değildirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Van ve Çıldır Gölleri",
+          "rationale": "Çıldır kışın donar, Van gölü ulaşım için kullanılır ama su sporları teçhizatı açısından ilk örnek değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İznik ve Sapanca Gölleri",
+          "rationale": "Marmara bölgesindeki İznik ve Sapanca gölleri su sporları tesisi ve kullanıma uygunluğuyla notlarda örnek gösterilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Burdur ve Acıgöl",
+          "rationale": "Suları tuzlu/acıdır, su sporları merkezi değildirler.",
+          "isCorrect": false
+        },
+        {
+          "text": "Alaşehir ve Beyşehir",
+          "rationale": "Sulama ve balıkçılık için önemlidirler.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Büyük şehirlere yakınlığı sayesinde rekreasyonel kullanım için en çok tesisleşen Marmara bölgesi gölleridir."
+    },
+    {
+      "questionNumber": 95,
+      "question": "Aşağıdaki tarihi yapılardan hangisinin 'sıcaklık' bölümünün mimari yapısının klasik Osmanlı hamamlarından çok farklı olması ve kapısında Bizans dönemi kitabesi bulunması nedeniyle aslında Doğu Roma'dan kaldığı iddia edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çemberlitaş Hamamı",
+          "rationale": "Mimar Sinan eseridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cağaloğlu Hamamı",
+          "rationale": "I. Mahmut eseridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Galatasaray Hamamı",
+          "rationale": "II. Beyazıt eseridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çardaklı Hamam",
+          "rationale": "Kadırga'daki 1053 yapımı Çardaklı hamamın bu özelliği yüzünden Bizans eseri olduğu iddiaları doğmuştur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Haseki Hürrem Hamamı",
+          "rationale": "Net bir Osmanlı eseridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Küçük Ayasofya camisi yakınlarında bulunur ve 1053'te Kapı Ağası Hüseyin Ağa'nın yaptırdığı iddia edilir."
+    },
+    {
+      "questionNumber": 96,
+      "question": "Aşağıdaki padişahlardan hangisi, Topkapı Sarayı'ndaki Bab-ı Hümayun kapısının üzerine kendi tuğrasını (imzasını) ekletmemiştir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sultan II. Mahmud",
+          "rationale": "II. Mahmud'un kapıda tuğrası vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sultan Abdülaziz",
+          "rationale": "Sultan Abdülaziz'in kapıda tuğrası vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fatih Sultan Mehmet",
+          "rationale": "Fatih kapıyı yapan kişidir, notlarda üzerinde tuğrası olan padişahlar 19.yy padişahlarıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hiçbiri (Kapıda tuğra yoktur)",
+          "rationale": "Kapıda tuğra vardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sultan IV. Murat",
+          "rationale": "IV. Murat tuğra ekleyenlerden değildir, ancak seçeneklerde Fatih asıl yapandır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Saltanat Kapısı'nda onarım ve eklemeler yapan iki 19. yüzyıl padişahının mührü bulunur, ilk yaptıranın yoktur."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Aşağıdakilerden hangisi İstanbul'u ziyaret eden yabancı turistlerin en çok tercih ettiği 8 faaliyetten biri olarak sayılmamıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kır yürüyüşü (Trekking) yapmak",
+          "rationale": "Listede mevcuttur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dağcılık ve dağ sporlarına iştirak etmek",
+          "rationale": "Listede mevcuttur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rafting ve kano yapmak",
+          "rationale": "Listede mevcuttur.",
+          "isCorrect": false
+        },
+        {
+          "text": "AVM'lerde dünyaca ünlü markaların defilelerine katılmak",
+          "rationale": "Turizm coğrafyası ders notlarındaki doğa ve tarih odaklı 8 faaliyet arasında modern lüks tüketim sayılmamıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Güneşlenip denize girmek",
+          "rationale": "Listede mevcuttur.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Diğer seçeneklerin tamamı doğa ve rekreasyon odaklı faaliyetlerdir."
+    },
+    {
+      "questionNumber": 98,
+      "question": "Cami kelimesi köken olarak hangi dilden gelmektedir ve anlamı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Farsça - Dua edilen yer",
+          "rationale": "Cami kelimesi Farsça değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Arapça - Toplanma, bir araya gelme",
+          "rationale": "Arapça 'Cem olma' kökünden gelir ve toplanma yeridir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Süryanice - Kutsal ev",
+          "rationale": "Süryanice değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İbranice - Şükür mekanı",
+          "rationale": "İbranice değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aramice - Secde edilen yer",
+          "rationale": "Secde edilen yer 'Mescid' kelimesinin anlamıdır, cami ise toplanma yeridir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "'Cemiyet' veya 'Cemevi' kelimeleriyle aynı kökten gelir."
+    },
+    {
+      "questionNumber": 99,
+      "question": "Eskiden Osmanlı padişahlarının denize açılan donanmayı izledikleri, Sarayburnu'nda bulunan ve günümüzde restoran olarak hizmet veren tarihi kasır hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aynalıkavak Kasrı",
+          "rationale": "Kasımpaşa'dadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ihlamur Kasrı",
+          "rationale": "Beşiktaş'tadır, deniz kenarında donanma izleme yeri değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sepetçiler Kasrı",
+          "rationale": "Sarayburnu surları üzerindedir, donanma sefere çıkarken buradan izlenirdi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maslak Kasrı",
+          "rationale": "Orman içindedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hünkar Kasrı",
+          "rationale": "Camiye bitişik istirahat alanıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Gülhane parkının deniz tarafındaki ucundadır."
+    },
+    {
+      "questionNumber": 100,
+      "question": "Kanuni'nin ölümünü askerden gizleyen Sadrazam Sokullu Mehmet Paşa, dublör olarak kullanılan imam ile iletişimini nasıl kurarak askeri inandırmıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Geniş bir paravanın arkasından fısıltıyla konuşarak",
+          "rationale": "Paravan arkasından değil, askerlerin önünde açıkça yapmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İmamın eline ezberlemesi için küçük notlar vererek",
+          "rationale": "Tarihi kaynaklarda böyle bir not iletme ritüeli geçmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "İmamı uzaktan selamlayıp hiçbir şey sormadan yanından ayrılarak",
+          "rationale": "İletişimsizlik değil, bilakis iletişim kurmuş gibi yapmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Onun önünde eğilip padişahmış gibi onunla konuşurmuş gibi yaparak",
+          "rationale": "Askerlerin yaklaşması ve padişahın yüzüne bakması yasak olduğu için Sokullu uzaktan eğilerek ve monolog kurarak herkesi inandırmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Padişahın yüzünü tamamen örten siyah bir peçe kullanmasını emrederek",
+          "rationale": "Padişah peçe takmazdı, uzaktan benzediği için fark edilmemiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Askerlerin yaklaşması ve doğrudan yüze bakması zaten yasaktı, bu yüzden sadrazamın uzaktan sergilediği saygı jestleri tek başına ikna edici olmuştur."
+    }
+  ]
+}

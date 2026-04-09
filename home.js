@@ -280,6 +280,28 @@ const TEST_DATA = {
   "2": {
     vize: [
       {
+        id: "barda-servis",
+        title: "Barda Servis",
+        description: "Ikinci donem vize konularini iki ayri testle calis.",
+        tag: "Barda Servis",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=barda-servis" },
+          { name: "Test 2 Basla", url: "quiz.html?test=barda-servis-2" }
+        ],
+        pdfUrl: "assets/pdf/2-donem/vize/barda-servis.pdf"
+      },
+      {
+        id: "turizm-ve-cevre-1",
+        title: "Turizm ve Cevre I",
+        description: "Ikinci donem vize konularini iki ayri testle calis.",
+        tag: "Turizm & Cevre",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=turizm-ve-cevre-1-1" },
+          { name: "Test 2 Basla", url: "quiz.html?test=turizm-ve-cevre-1-2" }
+        ],
+        pdfUrl: "assets/pdf/2-donem/vize/turizm-ve-cevre-1.pdf"
+      },
+      {
         id: "dijital-pazarlama-ve-sosyal-medya",
         title: "Dijital Pazarlama ve Sosyal Medya",
         description: "Ikinci donem vize konularini tek testle calis.",
