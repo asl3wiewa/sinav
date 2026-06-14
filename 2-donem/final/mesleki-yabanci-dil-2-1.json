@@ -1,0 +1,3304 @@
+{
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "The deluxe room is ___ than the standard room.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "larger",
+                    "rationale": "Doğru. 'large' kısa sıfattır, '-r' eki alır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "large",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "largest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more large",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the largest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Cümlede 'than' var, karşılaştırma (comparative) yapılmalı."
+        },
+        {
+            "questionNumber": 2,
+            "question": "This street is ___ than the other one.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "cleaner",
+                    "rationale": "Doğru. Kısa sıfat '-er' eki alır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "clean",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "cleanest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more clean",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the cleanest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Temiz kelimesinin kısa sıfat kurallarına göre değişimi."
+        },
+        {
+            "questionNumber": 3,
+            "question": "Today the weather is ___ than yesterday.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "hotter",
+                    "rationale": "Doğru. Sessiz+sesli+sessiz kuralından 't' çift yazılır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "hoter",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "hot",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "hottest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more hot",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "'Hot' kelimesinin yazım kuralına dikkat et."
+        },
+        {
+            "questionNumber": 4,
+            "question": "This bag is ___ than the other one.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "bigger",
+                    "rationale": "Doğru. CVC kuralı gereği 'g' çift yazılır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "biger",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "big",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "biggest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more big",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "'Big' kelimesinin karşılaştırma haline dikkat et."
+        },
+        {
+            "questionNumber": 5,
+            "question": "The receptionist is ___ today than yesterday.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "busier",
+                    "rationale": "Doğru. Sonu 'y' ile bitenlerde 'y' düşer '-ier' gelir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "busyer",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "busy",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more busy",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "busiest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "'Busy' kelimesindeki 'y' harfi düşer."
+        },
+        {
+            "questionNumber": 6,
+            "question": "My bed is ___ than yours.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "softer",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "soft",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more soft",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "softest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the softest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kısa bir sıfat olan 'soft' nasıl ek alır?"
+        },
+        {
+            "questionNumber": 7,
+            "question": "A train is ___ than a bus.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "faster",
+                    "rationale": "Doğru. 'Fast' kısa sıfattır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "fast",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more fast",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "fastest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the fastest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Hızlı kelimesinin karşılaştırma hali."
+        },
+        {
+            "questionNumber": 8,
+            "question": "This hotel is ___ than the beach hotel.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "cheaper",
+                    "rationale": "Doğru. Kısa sıfatlara '-er' eklenir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "cheap",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more cheap",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "cheapest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more cheaper",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "'Cheap' tek hecelidir."
+        },
+        {
+            "questionNumber": 9,
+            "question": "My luggage is ___ than yours.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "heavier",
+                    "rationale": "Doğru. 'y' düşer '-ier' gelir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "heavyer",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more heavy",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "heavy",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "heaviest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Ağır (heavy) kelimesinin son harfine dikkat."
+        },
+        {
+            "questionNumber": 10,
+            "question": "This room is ___ than that room.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "smaller",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "small",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more small",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "smallest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the smallest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Küçük kelimesinin comparative hali."
+        },
+        {
+            "questionNumber": 11,
+            "question": "The sea view room is ___ than the garden view room.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "more expensive",
+                    "rationale": "Doğru. Uzun sıfatlar 'more' alır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "expensive",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "expensiver",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most expensive",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the most expensive",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Pahalı kelimesi uzun bir sıfattır."
+        },
+        {
+            "questionNumber": 12,
+            "question": "The deluxe room is ___ than the standard room.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "more comfortable",
+                    "rationale": "Doğru. Uzun sıfatlar 'more' alır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "comfortable",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "comfortabler",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most comfortable",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the comfortable",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Rahat kelimesi çok hecelidir."
+        },
+        {
+            "questionNumber": 13,
+            "question": "Antalya is ___ than many small towns in summer.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "more popular",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "popularer",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "popular",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most popular",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the popular",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Uzun bir kelime olan 'popular' nasıl ek alır?"
+        },
+        {
+            "questionNumber": 14,
+            "question": "This museum is ___ than the other one.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "more interesting",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "interesting",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "interestinger",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most interesting",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the interesting",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İlginç kelimesinin karşılaştırması."
+        },
+        {
+            "questionNumber": 15,
+            "question": "The city center is ___ than the suburbs.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "more modern",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "modern",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "moderner",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most modern",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the most modern",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Modern kelimesi karşılaştırma alırken 'more' kullanır."
+        },
+        {
+            "questionNumber": 16,
+            "question": "This is the ___ room in the hotel.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "biggest",
+                    "rationale": "Doğru. 'the' var, superlative yapılmalı.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "bigger",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "big",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more big",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most big",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Oteldeki 'en' büyük oda."
+        },
+        {
+            "questionNumber": 17,
+            "question": "The express check-in is the ___ service.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "fastest",
+                    "rationale": "Doğru. Superlative için '-est' gelir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "faster",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "fast",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more fast",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most fast",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Hızlı giriş 'en' hızlı servistir."
+        },
+        {
+            "questionNumber": 18,
+            "question": "This is the ___ room on this floor.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "cleanest",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "cleaner",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "clean",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more clean",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most clean",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kattaki 'en' temiz oda."
+        },
+        {
+            "questionNumber": 19,
+            "question": "August is the ___ month of the year.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "hottest",
+                    "rationale": "Doğru. CVC kuralıyla 't' çift yazılır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "hotest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "hotter",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more hot",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "hot",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Yılın 'en' sıcak ayı."
+        },
+        {
+            "questionNumber": 20,
+            "question": "This is the ___ hotel in the city.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "cheapest",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "cheaper",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "cheap",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more cheap",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most cheap",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Şehirdeki 'en' ucuz otel."
+        },
+        {
+            "questionNumber": 21,
+            "question": "The suite is the ___ room in the hotel.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "most expensive",
+                    "rationale": "Doğru. Uzun sıfatlar 'the most' alır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "expensive",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "expensivest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more expensive",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "En pahalı oda olduğunu belirtmek için uzun sıfat kuralını uygula."
+        },
+        {
+            "questionNumber": 22,
+            "question": "The old town is the ___ tourist attraction.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "most popular",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "popular",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more popular",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "popularest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "popularer",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "En popüler yer (uzun sıfat)."
+        },
+        {
+            "questionNumber": 23,
+            "question": "This is the ___ room in our hotel.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "most comfortable",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "comfortable",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more comfortable",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "comfortablest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "En rahat oda (uzun sıfat)."
+        },
+        {
+            "questionNumber": 24,
+            "question": "That was the ___ movie I have ever seen.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "most boring",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "boring",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "boringer",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more boring",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "boringest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İzlediğim 'en' sıkıcı film."
+        },
+        {
+            "questionNumber": 25,
+            "question": "Paris is one of the ___ cities in the world.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "most beautiful",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "beautiful",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more beautiful",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "beautifulest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "beautifuler",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Dünyadaki 'en güzel' şehir."
+        },
+        {
+            "questionNumber": 26,
+            "question": "This restaurant is ___ than the one near the station.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "better",
+                    "rationale": "Doğru. 'Good' sıfatı düzensizdir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "good",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "gooder",
+                    "rationale": "Yanlış. En büyük tuzak!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "best",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the best",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İyi kelimesinin karşılaştırması (kural dışı)."
+        },
+        {
+            "questionNumber": 27,
+            "question": "This route is ___ than the other route.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "worse",
+                    "rationale": "Doğru. 'Bad' sıfatı düzensizdir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "bad",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "badder",
+                    "rationale": "Yanlış. Büyük tuzak!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "worst",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the worst",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kötü kelimesinin karşılaştırması (kural dışı)."
+        },
+        {
+            "questionNumber": 28,
+            "question": "This is the ___ restaurant near the hotel.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "best",
+                    "rationale": "Doğru. 'Good' kelimesinin en üstünlük halidir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "good",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "better",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "goodest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most good",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "En iyi restoran (kural dışı)."
+        },
+        {
+            "questionNumber": 29,
+            "question": "That was the ___ experience of my life.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "worst",
+                    "rationale": "Doğru. 'Bad' kelimesinin en üstünlük halidir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "bad",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "worse",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "baddest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most bad",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Hayatımın 'en kötü' tecrübesi."
+        },
+        {
+            "questionNumber": 30,
+            "question": "That hotel is the ___ from the city center.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "farthest",
+                    "rationale": "Doğru. 'Far' kelimesinin en üstünlük halidir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "far",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "farther",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "farrer",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more far",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Merkeze 'en uzak' (kural dışı)."
+        },
+        {
+            "questionNumber": 31,
+            "question": "His English is ___ than mine.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "better",
+                    "rationale": "Doğru. İki kişi kıyaslanıyor, good -> better.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "good",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "gooder",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "best",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the best",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Onun İngilizcesi benimkinden 'daha iyi'."
+        },
+        {
+            "questionNumber": 32,
+            "question": "The weather today is ___ than it was yesterday.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "worse",
+                    "rationale": "Doğru. Bad -> worse.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "badder",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "bad",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "worst",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the worst",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bugün hava dünden 'daha kötü'."
+        },
+        {
+            "questionNumber": 33,
+            "question": "She is the ___ student in the class.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "best",
+                    "rationale": "Doğru. Sınıftaki 'en iyi' anlamında.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "better",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "good",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "goodest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most good",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Sınıftaki 'en iyi' öğrenci."
+        },
+        {
+            "questionNumber": 34,
+            "question": "My house is ___ from the school than yours.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "farther",
+                    "rationale": "Doğru. İki mesafe kıyaslanıyor.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "far",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "farthest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "farrer",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more far",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Daha uzak (kural dışı kelime)."
+        },
+        {
+            "questionNumber": 35,
+            "question": "This is the ___ mistake you can make.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "worst",
+                    "rationale": "Doğru. Yapılabilecek 'en kötü' hata.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "worse",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "bad",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "badder",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "baddest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "En kötü hata (kural dışı)."
+        },
+        {
+            "questionNumber": 36,
+            "question": "Guests ___ show their passports. It is a legal rule.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "must",
+                    "rationale": "Doğru. Kesin zorunluluk (rule).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "should",
+                    "rationale": "Yanlış. Sadece tavsiye değil.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Yasal bir kural, göstermek zorundalar."
+        },
+        {
+            "questionNumber": 37,
+            "question": "You ___ check in before 10 p.m.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "must",
+                    "rationale": "Doğru. Otel kuralı.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "should",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Saat 10'dan önce giriş yapmak zorunludur."
+        },
+        {
+            "questionNumber": 38,
+            "question": "Employees ___ wear uniforms.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "must",
+                    "rationale": "Doğru. İş kuralı.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "has to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Çalışanlar için üniforma kesin bir zorunluluktur."
+        },
+        {
+            "questionNumber": 39,
+            "question": "Visitors ___ follow hotel rules.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "must",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "would",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kurallara uymak mecburidir."
+        },
+        {
+            "questionNumber": 40,
+            "question": "Guests ___ pay before check-out.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "have to",
+                    "rationale": "Doğru. Prosedür ve dış zorunluluk.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "haven't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Ödeme yapmak zorunluluğu (have to)."
+        },
+        {
+            "questionNumber": 41,
+            "question": "Employees ___ arrive on time.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "have to",
+                    "rationale": "Doğru. Kurallardan gelen zorunluluk.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "has to",
+                    "rationale": "Yanlış. Employees çoğuldur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Zamanında gelmek gerekliliktir."
+        },
+        {
+            "questionNumber": 42,
+            "question": "Tourists ___ carry identification.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "have to",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "haven't to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kimlik taşıma zorunluluğu."
+        },
+        {
+            "questionNumber": 43,
+            "question": "Visitors ___ register at reception.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "have to",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "would",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kayıt yaptırmak prosedürdür."
+        },
+        {
+            "questionNumber": 44,
+            "question": "Guests ___ smoke in the rooms. It is forbidden.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "mustn't",
+                    "rationale": "Doğru. Yasaktır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "should",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Forbidden = Yasak."
+        },
+        {
+            "questionNumber": 45,
+            "question": "You ___ make noise after midnight.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "mustn't",
+                    "rationale": "Doğru. Otel kurallarına göre yasaktır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "should",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Gece gürültü yapmak yasaktır."
+        },
+        {
+            "questionNumber": 46,
+            "question": "Visitors ___ enter staff areas.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "mustn't",
+                    "rationale": "Doğru. Kesin yasaktır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "should",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Personel alanlarına girmek ziyaretçilere yasaktır."
+        },
+        {
+            "questionNumber": 47,
+            "question": "Guests ___ use emergency exits unless necessary.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "mustn't",
+                    "rationale": "Doğru. Gerekli olmadıkça kullanmak yasaktır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "should",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Acil çıkış kapılarını gereksiz kullanmak yasaktır."
+        },
+        {
+            "questionNumber": 48,
+            "question": "Guests ___ pay for Wi-Fi. It is free.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "don't have to",
+                    "rationale": "Doğru. Ücretsiz olduğu için gerek yoktur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış. Yasak anlamına gelir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bedava olan bir şey için ödeme yapmak zorunda değilsin."
+        },
+        {
+            "questionNumber": 49,
+            "question": "You ___ book breakfast. You can decide in the morning.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "don't have to",
+                    "rationale": "Doğru. İsteğe bağlı, zorunlu değil.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Sabah karar verebilirsin, yani rezervasyon zorunlu değil."
+        },
+        {
+            "questionNumber": 50,
+            "question": "Children ___ pay. They stay for free.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "don't have to",
+                    "rationale": "Doğru. Ücretsizdir, ödemek zorunda değillerdir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Çocuklar bedava kalıyor, ödeme zorunluluğu yok."
+        },
+        {
+            "questionNumber": 51,
+            "question": "Guests ___ bring towels. The hotel provides them.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "don't have to",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Otel havlu veriyor, senin getirmene gerek yok."
+        },
+        {
+            "questionNumber": 52,
+            "question": "Guests ___ keep their valuables in the safe. It is a good idea.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "should",
+                    "rationale": "Doğru. 'Good idea' tavsiye belirtir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "has to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İyi bir fikir (tavsiye)."
+        },
+        {
+            "questionNumber": 53,
+            "question": "You ___ book early in summer.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "should",
+                    "rationale": "Doğru. Erken rezervasyon bir tavsiyedir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "would",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Yazın erken yer ayırtmak iyi bir tavsiyedir."
+        },
+        {
+            "questionNumber": 54,
+            "question": "Tourists ___ visit the old town.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "should",
+                    "rationale": "Doğru. Gezilmesi tavsiye edilir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "haven't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Turistlere yapılan bir mekan önerisi."
+        },
+        {
+            "questionNumber": 55,
+            "question": "Guests ___ contact reception if they need help.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "should",
+                    "rationale": "Doğru. Yardıma ihtiyaç varsa tavsiye edilir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "would",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İhtiyaç durumunda resepsiyonu aramalısınız (tavsiye)."
+        },
+        {
+            "questionNumber": 56,
+            "question": "Guests ___ leave valuables in public areas.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "shouldn't",
+                    "rationale": "Doğru. Kötü bir fikirdir (olumsuz tavsiye).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "should",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Ortalıkta değerli eşya bırakmamalısın."
+        },
+        {
+            "questionNumber": 57,
+            "question": "You ___ walk alone late at night.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "shouldn't",
+                    "rationale": "Doğru. Tehlikeli olduğu için olumsuz tavsiyedir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "should",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Gece tek yürümek kötü bir fikirdir."
+        },
+        {
+            "questionNumber": 58,
+            "question": "Receptionists ___ give guest information to strangers.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "shouldn't",
+                    "rationale": "Doğru. (Aynı zamanda mustn't da olabilir ancak şıklarda shouldn't daha uygun tavsiye formatıdır).",
+                    "isCorrect": true
+                },
+                {
+                    "text": "should",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bilgi vermemeliler."
+        },
+        {
+            "questionNumber": 59,
+            "question": "You ___ park here. The police will tow your car.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "mustn't",
+                    "rationale": "Doğru. Polis çekeceği için kesin yasaktır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış. En büyük tuzak! Yasak anlamına gelmez.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "should",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Polis (police) varsa bu kesin bir yasaktır."
+        },
+        {
+            "questionNumber": 60,
+            "question": "You ___ park here. You can park on the next street if you want.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "don't have to",
+                    "rationale": "Doğru. Buraya park etmek zorunda değilsin, istersen başka yere park edebilirsin.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış. Yasak anlamına gelir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "should",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Mecbur değilsin, başka seçeneklerin de var."
+        },
+        {
+            "questionNumber": 61,
+            "question": "Opposite of 'clean' is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "dirty",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "quiet",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "comfortable",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "expensive",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "large",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Temiz kelimesinin zıddı."
+        },
+        {
+            "questionNumber": 62,
+            "question": "Opposite of 'comfortable' is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "uncomfortable",
+                    "rationale": "Doğru. Başına 'un' eki alır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "dirty",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "noisy",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "small",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "old",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Rahat kelimesinin olumsuzu."
+        },
+        {
+            "questionNumber": 63,
+            "question": "Opposite of 'noisy' is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "quiet",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "loud",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "busy",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "crowded",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "dirty",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Gürültülü kelimesinin zıddı."
+        },
+        {
+            "questionNumber": 64,
+            "question": "Opposite of 'modern' is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "old",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "new",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "clean",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "safe",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "simple",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Modern kelimesinin zıddı."
+        },
+        {
+            "questionNumber": 65,
+            "question": "Opposite of 'close' is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "far",
+                    "rationale": "Doğru. Uzak demektir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "near",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "central",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "popular",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "local",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Yakın (close) kelimesinin zıddı."
+        },
+        {
+            "questionNumber": 66,
+            "question": "Another word for 'large' or 'spacious' is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "big",
+                    "rationale": "Doğru. Geniş ve büyük anlamındadır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "small",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "cheap",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "quiet",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "old",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Büyük kelimesinin eş anlamlısı."
+        },
+        {
+            "questionNumber": 67,
+            "question": "A hotel with very low prices is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "cheap",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "luxurious",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "expensive",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "crowded",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "busy",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Düşük fiyatlı (ucuz)."
+        },
+        {
+            "questionNumber": 68,
+            "question": "A top quality, very expensive hotel is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "luxurious",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "cheap",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "affordable",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "simple",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "dirty",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Üst düzey kalitedeki oteller."
+        },
+        {
+            "questionNumber": 69,
+            "question": "A basic room without any special view is a ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "standard room",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "suite",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "sea view room",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "deluxe room",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "balcony",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "En temel oda tipi."
+        },
+        {
+            "questionNumber": 70,
+            "question": "The largest and most expensive room is a ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "suite",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "standard room",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "garden view room",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "minibar",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "safe",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lüks ve büyük oda tipi."
+        },
+        {
+            "questionNumber": 71,
+            "question": "You can keep your drinks cold in the ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "minibar",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "safe",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "air conditioning",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "balcony",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "large window",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Odada içeceklerin durduğu dolap."
+        },
+        {
+            "questionNumber": 72,
+            "question": "You can keep your money and passport in the ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "safe",
+                    "rationale": "Doğru. Değerli eşyalar kasaya konur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "minibar",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "luggage",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "uniform",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "emergency exit",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Odadaki güvenlik kasası."
+        },
+        {
+            "questionNumber": 73,
+            "question": "The machine that cools the room is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "air conditioning",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "fire alarm",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "minibar",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "safe",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "balcony",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Klima."
+        },
+        {
+            "questionNumber": 74,
+            "question": "In case of a fire, use the ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "emergency exit",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "safe",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "minibar",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "luggage",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "balcony",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Acil durumlarda kullanılan çıkış."
+        },
+        {
+            "questionNumber": 75,
+            "question": "An official document for travel is a ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "passport",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "rule",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "uniform",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "luggage",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "safe",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Yurtdışı için gereken belge."
+        },
+        {
+            "questionNumber": 76,
+            "question": "The bags you carry when traveling are your ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "luggage",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "safe",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "uniform",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "passport",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "staff",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bavul, çanta (bagaj)."
+        },
+        {
+            "questionNumber": 77,
+            "question": "The people who work in the hotel are the ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "staff",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "guests",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "visitors",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "tourists",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "passengers",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Personel."
+        },
+        {
+            "questionNumber": 78,
+            "question": "The clothes employees must wear is a ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "uniform",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "luggage",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "passport",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "rule",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "safe",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İş kıyafeti."
+        },
+        {
+            "questionNumber": 79,
+            "question": "The person staying in the hotel is a ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "guest",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "staff",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "rule",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "receptionist",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "manager",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Otelde konaklayan misafir."
+        },
+        {
+            "questionNumber": 80,
+            "question": "A place with many old buildings is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "historical",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "modern",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "natural",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "central",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "relaxing",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Tarihi yer."
+        },
+        {
+            "questionNumber": 81,
+            "question": "Food that belongs to a specific region is ___ food.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "local",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "historical",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "far",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "dirty",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "expensive",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Yöresel, yerel."
+        },
+        {
+            "questionNumber": 82,
+            "question": "A place with too many people is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "crowded",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "quiet",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "empty",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "peaceful",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "safe",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kalabalık."
+        },
+        {
+            "questionNumber": 83,
+            "question": "Another word for ID card is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "identity card",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "passport",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "uniform",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "rule",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "luggage",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kimlik kartı."
+        },
+        {
+            "questionNumber": 84,
+            "question": "The time you arrive at the hotel is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "check-in time",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "check-out time",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "breakfast time",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "closing time",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "free time",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Otele giriş saati."
+        },
+        {
+            "questionNumber": 85,
+            "question": "The time you leave the hotel is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "check-out time",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "check-in time",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "dinner time",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "opening time",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "night time",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Otelden çıkış saati."
+        },
+        {
+            "questionNumber": 86,
+            "question": "Guest: Do I have to pay now? \nStaff: No, you ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "don't have to",
+                    "rationale": "Doğru. Zorunluluk yok.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Zorunda değilsiniz anlamında."
+        },
+        {
+            "questionNumber": 87,
+            "question": "Guest: Can I smoke here? \nStaff: No, you ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "mustn't",
+                    "rationale": "Doğru. Yasak.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kesin yasaktır."
+        },
+        {
+            "questionNumber": 88,
+            "question": "Guest: What do you recommend? \nStaff: You ___ visit the museum.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "should",
+                    "rationale": "Doğru. Tavsiye.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "has to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Tavsiye istiyor."
+        },
+        {
+            "questionNumber": 89,
+            "question": "Guest: Do I have to show my ID? \nStaff: Yes, you ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "must",
+                    "rationale": "Doğru. Kesin kural.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "shouldn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "mustn't",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "would",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kimlik göstermek mecburidir."
+        },
+        {
+            "questionNumber": 90,
+            "question": "Opposite of 'safe' is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "dangerous",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "quiet",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "clean",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "simple",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "cheap",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Güvenli kelimesinin zıddı."
+        },
+        {
+            "questionNumber": 91,
+            "question": "You hear a loud noise. It's the ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "fire alarm",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "safe",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "luggage",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "balcony",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "minibar",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Yangın alarmı."
+        },
+        {
+            "questionNumber": 92,
+            "question": "This bed is the ___ in the hotel.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "most comfortable",
+                    "rationale": "Doğru. 'The' var, uzun sıfat.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "comfortable",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more comfortable",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "comfortablest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "En rahat yatak."
+        },
+        {
+            "questionNumber": 93,
+            "question": "That was the ___ meal I have ever eaten.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "best",
+                    "rationale": "Doğru. En iyi yemek.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "good",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "better",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "goodest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most good",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Yediğim 'en iyi' yemek (düzensiz)."
+        },
+        {
+            "questionNumber": 94,
+            "question": "This room is ___ than the standard one.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "better",
+                    "rationale": "Doğru. Karşılaştırma hali.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "good",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "best",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "gooder",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "the best",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Daha iyi."
+        },
+        {
+            "questionNumber": 95,
+            "question": "I am ___ than my brother.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "taller",
+                    "rationale": "Doğru. Kısa sıfat.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "tall",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "tallest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more tall",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most tall",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kardeşimden 'daha uzunum'."
+        },
+        {
+            "questionNumber": 96,
+            "question": "This is the ___ pool I have seen.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "largest",
+                    "rationale": "Doğru. Superlative.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "large",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "larger",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more large",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most large",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Gördüğüm 'en büyük' havuz."
+        },
+        {
+            "questionNumber": 97,
+            "question": "You ___ swim after eating. It is a bad idea.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "shouldn't",
+                    "rationale": "Doğru. Olumsuz tavsiye.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "must",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "don't have to",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "should",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kötü bir fikir, yapmamalısın."
+        },
+        {
+            "questionNumber": 98,
+            "question": "My bag is ___ than yours.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "smaller",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "small",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "smallest",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more small",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most small",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Benim çantam seninkinden 'daha küçük'."
+        },
+        {
+            "questionNumber": 99,
+            "question": "This is the ___ tree in the garden.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "oldest",
+                    "rationale": "Doğru. Superlative.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "old",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "older",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "more old",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "most old",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bahçedeki 'en eski' ağaç."
+        },
+        {
+            "questionNumber": 100,
+            "question": "The opposite of 'peaceful' is ___.",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "noisy",
+                    "rationale": "Doğru.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "quiet",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "relaxing",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "safe",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "clean",
+                    "rationale": "Yanlış.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Huzurlu kelimesinin zıddı (gürültülü/kalabalık)."
+        }
+    ]
+}

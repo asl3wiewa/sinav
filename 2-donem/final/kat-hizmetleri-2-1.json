@@ -1,0 +1,524 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi temizlik süresini etkileyen 'işgörenden (çalışandan) kaynaklanan' faktörlerden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşgörenin yaşı ve fiziksel gücü", "rationale": "Çalışanın kişisel özelliğidir.", "isCorrect": false },
+        { "text": "Takım çalışmasına uygunluğu", "rationale": "Çalışanın kişisel özelliğidir.", "isCorrect": false },
+        { "text": "Temizlenecek toplam alanın büyüklüğü", "rationale": "Bu mekan ve alandan kaynaklanan bir faktördür.", "isCorrect": true },
+        { "text": "İşgörenin motivasyonu", "rationale": "Çalışanın psikolojik özelliğidir.", "isCorrect": false },
+        { "text": "İşgörenin eğitimi ve deneyimi", "rationale": "Çalışanın kişisel özelliğidir.", "isCorrect": false }
+      ],
+      "hint": "Bu faktör personelin kendisiyle değil, temizlenen fiziksel alanla ilgilidir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Odadaki mevcut engellerin türü ve miktarı (fazla mobilya, kablolar vb.) temizlik süresini etkileyen hangi ana faktör grubu içerisinde yer alır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşgörenden kaynaklanan faktörler", "rationale": "Personelle değil, ortamla ilgilidir.", "isCorrect": false },
+        { "text": "Yönetimden kaynaklanan faktörler", "rationale": "Bu isimde temel bir başlık belirtilmemiştir.", "isCorrect": false },
+        { "text": "Çalışma koşullarından kaynaklanan faktörler", "rationale": "Çalışma koşulları standartlar ve malzemeyle ilgilidir.", "isCorrect": false },
+        { "text": "Temizlenecek alan ve yüzeyden kaynaklanan faktörler", "rationale": "Fiziksel mekanın özellikleri ve engeller bu gruba girer.", "isCorrect": true },
+        { "text": "Misafirden kaynaklanan faktörler", "rationale": "Misafirin bizzat varlığı etkiler ancak ana başlık bu değildir.", "isCorrect": false }
+      ],
+      "hint": "Mekanın fiziksel durumu ile ilgili bir kategoridir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Temizlik araç/malzemelerinin odaya uzaklığı ve ortamın aydınlatması gibi faktörler hangi grup altında incelenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çalışma koşullarından kaynaklanan faktörler", "rationale": "Fiziksel çalışma imkanları ve lojistik bu gruba girer.", "isCorrect": true },
+        { "text": "İşgörenden kaynaklanan faktörler", "rationale": "Personelin kendi özelliği değildir.", "isCorrect": false },
+        { "text": "Alan ve yüzeyden kaynaklanan faktörler", "rationale": "Mekanın kendi zorluğu değil, sağlanan imkanlarla ilgilidir.", "isCorrect": false },
+        { "text": "Ekipmandan kaynaklanan faktörler", "rationale": "Sınıflandırmada böyle ayrı bir ana başlık yoktur.", "isCorrect": false },
+        { "text": "Bütçelemeden kaynaklanan faktörler", "rationale": "Bütçe ile direkt ilişkili bir temizlik süresi faktörü başlığı yoktur.", "isCorrect": false }
+      ],
+      "hint": "Bu faktörler işletmenin sağladığı imkanlar ve fiziksel çevre standartlarıdır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Bir otel odasının standart temizlik süresi hesaplanırken formülde 'ortalama süreye' aşağıdakilerden hangisi eklenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mola süresi", "rationale": "Mola süresi standart süreye değil, net çalışma süresine etki eder.", "isCorrect": false },
+        { "text": "Gecikme (Hata) payı", "rationale": "Araç, gereç ve kişisel gecikmeler için ortalama süreye hata payı eklenir.", "isCorrect": true },
+        { "text": "Vardiya saati", "rationale": "Vardiya, toplam süreyi bulmak için kullanılır.", "isCorrect": false },
+        { "text": "Departman bütçesi", "rationale": "Süre hesabında bütçe parametresi yer almaz.", "isCorrect": false },
+        { "text": "Ortalama oda sayısı", "rationale": "Oda sayısı en son elde edilecek sonuçtur.", "isCorrect": false }
+      ],
+      "hint": "Gözlem ve araç-gereç arızaları gibi nedenlerle verilen tölerans payıdır."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Toplam Çalışma Süresi'nden, tüm mola ve işe hazırlık süreleri çıkarıldığında elde edilen değere ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Standart Süre", "rationale": "Standart süre bir odanın temizlik süresidir.", "isCorrect": false },
+        { "text": "Brüt Çalışma Süresi", "rationale": "Bu kavram metinde geçmez, toplam süre kullanılır.", "isCorrect": false },
+        { "text": "Net Çalışma Süresi", "rationale": "Toplam süreden molalar düşünce net çalışma süresi bulunur.", "isCorrect": true },
+        { "text": "Gecikme Payı", "rationale": "Gecikme payı tolerans yüzdesidir.", "isCorrect": false },
+        { "text": "Vardiya Süresi", "rationale": "Vardiya süresi, molaların dahil olduğu toplam saattir.", "isCorrect": false }
+      ],
+      "hint": "İşçinin fiilen ve kesintisiz sadece iş için ayırdığı süreyi ifade eder."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Bir personelin günlük vardiyasında (8 saat) toplam çalışma süresi kaç dakikadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "400", "rationale": "400 mola düşülmüş bir örnek değer olabilir.", "isCorrect": false },
+        { "text": "420", "rationale": "8 saat 420 dakika yapmaz.", "isCorrect": false },
+        { "text": "450", "rationale": "Yanlış çarpım sonucu.", "isCorrect": false },
+        { "text": "480", "rationale": "8 saat x 60 dakika = 480 dakikadır.", "isCorrect": true },
+        { "text": "500", "rationale": "Matematiksel olarak hatalıdır.", "isCorrect": false }
+      ],
+      "hint": "Bir saatin kaç dakika olduğunu vardiya saatiyle çarpın."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Ortalama oda temizlik süresi 20 dakika olan ve %10 gecikme (hata) payı öngörülen bir odanın 'Standart Temizlik Süresi' kaç dakikadır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "20", "rationale": "Hata payı eklenmemiş hali.", "isCorrect": false },
+        { "text": "22", "rationale": "20'nin %10'u 2'dir. 20 + 2 = 22 dakika.", "isCorrect": true },
+        { "text": "25", "rationale": "Hesaplama hatası.", "isCorrect": false },
+        { "text": "30", "rationale": "Hesaplama hatası.", "isCorrect": false },
+        { "text": "24", "rationale": "Hesaplama hatası.", "isCorrect": false }
+      ],
+      "hint": "Ortalama sürenin %10'unu bularak tekrar ortalama süreye eklemelisin."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Personelin günlük net çalışma süresi 265 dakika, standart oda temizlik süresi ise 22 dakika olarak hesaplanmıştır. Bu personel vardiyasında ortalama kaç oda temizlemelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "10", "rationale": "Eksik hesaplama.", "isCorrect": false },
+        { "text": "11", "rationale": "Eksik hesaplama.", "isCorrect": false },
+        { "text": "12", "rationale": "265 / 22 = 12.04 yapar, yani yaklaşık 12 oda.", "isCorrect": true },
+        { "text": "13", "rationale": "Fazla hesaplama.", "isCorrect": false },
+        { "text": "15", "rationale": "Fazla hesaplama.", "isCorrect": false }
+      ],
+      "hint": "Net çalışma süresini, bir odayı temizleme süresine böl."
+    },
+    {
+      "questionNumber": 9,
+      "question": "İnsanların yaşadıkları alanların sürdürülebilirliğini sağlayarak fonksiyonel ve estetik görünümlü alanlar yaratma işine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Dekorasyon", "rationale": "Dekorasyon mekan içindeki süslemedir.", "isCorrect": false },
+        { "text": "Sanitasyon", "rationale": "Sanitasyon hijyen güvenliğidir.", "isCorrect": false },
+        { "text": "Peyzaj (Çevre Düzenleme)", "rationale": "Doğal ve kültürel unsurlarla estetik dış/iç mekan yaratma işine peyzaj denir.", "isCorrect": true },
+        { "text": "Sterilizasyon", "rationale": "Mikropları yok etme işlemidir.", "isCorrect": false },
+        { "text": "Oryantasyon", "rationale": "İşe alıştırma sürecidir.", "isCorrect": false }
+      ],
+      "hint": "Çevre ve bahçe düzenlemesi kavramının akademik ve profesyonel karşılığıdır."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Aşağıdakilerden hangisi peyzajda kullanılan 'Yapay Unsurlar'dan biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Şelale", "rationale": "Yapay olarak kurgulanabilir.", "isCorrect": false },
+        { "text": "Yürüyüş Yolu", "rationale": "İnsan eliyle yapılan yapay bir unsurdur.", "isCorrect": false },
+        { "text": "Işıklandırma", "rationale": "Elektriksel yapay bir unsurdur.", "isCorrect": false },
+        { "text": "Ağaç ve Çim", "rationale": "Bunlar peyzajın canlı ve doğal unsurlarıdır.", "isCorrect": true },
+        { "text": "Köprüler", "rationale": "İnsan yapımı cansız/yapay unsurdur.", "isCorrect": false }
+      ],
+      "hint": "Doğada kendiliğinden yetişen ve canlı olan bir öğe aramalısın."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Otel lobilerinde peyzaj planlaması yapılırken genellikle nasıl bitkiler tercih edilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çok küçük ve sade bitkiler", "rationale": "Lobi ferah ve lüks olmalıdır.", "isCorrect": false },
+        { "text": "Sadece kurutulmuş yapay çiçekler", "rationale": "Öncelik canlı gösterişli çiçeklerdir.", "isCorrect": false },
+        { "text": "Büyük ve gösterişli bitkiler", "rationale": "Lobiye zengin ve ferah bir görünüm katmak için büyük bitkiler kullanılır.", "isCorrect": true },
+        { "text": "Sarmaşık türü yer örtücüler", "rationale": "Lobiden ziyade bahçe ve dış duvarlarda kullanılır.", "isCorrect": false },
+        { "text": "Görüşü engellemeyen masa ortası çiçekleri", "rationale": "Bu özellik restoranlar içindir.", "isCorrect": false }
+      ],
+      "hint": "Misafiri ilk karşılayan mekan olduğu için 'lüks' algısı ön planda olmalıdır."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Restoran ve yemek salonlarında masa ortasına konulacak çiçeklerde aranan en önemli özellik nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çok büyük ve gösterişli olması", "rationale": "Masada görüşü engeller.", "isCorrect": false },
+        { "text": "Koyu renklerin alt kısımda yoğunlaşması", "rationale": "Bu genel bir çiçek aranjman kuralıdır, restorana özgü değildir.", "isCorrect": false },
+        { "text": "Keskin bir kokuya sahip olması", "rationale": "Yemek kokusuna karışacağından tercih edilmez.", "isCorrect": false },
+        { "text": "Karşılıklı oturan misafirlerin birbirini görmesine engel olmaması", "rationale": "Küçük ve görüşü kesmeyen sade tasarımlar olması en temel kuraldır.", "isCorrect": true },
+        { "text": "Yapay malzemelerden üretilmiş olması", "rationale": "Zorunlu bir kural değildir.", "isCorrect": false }
+      ],
+      "hint": "Misafirlerin yemek yerken birbirleriyle rahat iletişim kurabilmesini engelleyen durumlardan kaçınılmalıdır."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Peyzaj düzenlemesinde, güzel görünmeyen veya kurumuş unsurların ortamdan kaldırılması ya da bitkilerle gizlenmesi işlemi hangi estetiklik ilkesi alt başlığına aittir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uyum", "rationale": "Uyum benzer nesnelerin bir arada kullanılmasıdır.", "isCorrect": false },
+        { "text": "Zıtlık (Kontrast)", "rationale": "Kontrast karşıtlık yaratmaktır.", "isCorrect": false },
+        { "text": "Ayıklama", "rationale": "Çirkinleri uzaklaştırmak veya gizlemek ayıklama aşamasıdır.", "isCorrect": true },
+        { "text": "Fonksiyonellik", "rationale": "İşlevsellik sağlayan ayrı bir ana ilkedir.", "isCorrect": false },
+        { "text": "Ekonomiklik", "rationale": "Maliyet yönetimiyle ilgilidir.", "isCorrect": false }
+      ],
+      "hint": "İstenmeyenleri ortamdan çıkarma veya kamufle etme anlamına gelir."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Yemyeşil bir alanın ortasına kıpkırmızı renkte çiçekler yerleştirmek, estetiklik ilkesinin hangi kuralına örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uyum", "rationale": "Uyum benzerliği ifade eder.", "isCorrect": false },
+        { "text": "Zıtlık (Kontrast)", "rationale": "Farklı ve çarpıcı renklerin kullanılarak objenin vurgulanması kontrasttır.", "isCorrect": true },
+        { "text": "Ayıklama", "rationale": "Ayıklama temizleme/gizleme işlemidir.", "isCorrect": false },
+        { "text": "Fonksiyonellik", "rationale": "Bir nesnenin işlevi olmasıyla ilgilidir.", "isCorrect": false },
+        { "text": "Ekonomiklik", "rationale": "Bütçeyi doğru kullanma kuralıdır.", "isCorrect": false }
+      ],
+      "hint": "İki nesnenin farklılıklarıyla ön plana çıkma durumudur."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Bahçedeki ağaçların misafirlere gölge sağlaması veya çalıların dışarıdan gelen gürültüyü azaltması peyzajın hangi değişmez ilkesi ile açıklanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Estetiklik", "rationale": "Güzellik amacı taşır, bu örnekte ise kullanım amacı vardır.", "isCorrect": false },
+        { "text": "Fonksiyonellik (İşlevsellik)", "rationale": "Kullanılan nesnenin bir işe yaraması fonksiyonellik ilkesidir.", "isCorrect": true },
+        { "text": "Ekonomiklik", "rationale": "Maliyet tasarrufuyla alakalıdır.", "isCorrect": false },
+        { "text": "Kontrast", "rationale": "Zıtlık belirten estetik kuralıdır.", "isCorrect": false },
+        { "text": "Oryantasyon", "rationale": "Bu kavram insan kaynakları ile ilgilidir.", "isCorrect": false }
+      ],
+      "hint": "Bir unsurun sadece güzel görünmekle kalmayıp aynı zamanda bir 'işe yaraması' durumudur."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Otel lobisindeki şeffaf cam vazoya yerleştirilen canlı çiçek aranjmanlarında, sapların kötü görüntüsünü engellemek için yapılması gereken işlem nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Vazonun altını kumla doldurmak", "rationale": "Temel kural bu değildir.", "isCorrect": false },
+        { "text": "Suyu her saat başı değiştirmek", "rationale": "Suyu her gün değiştirmek gerekir ancak sap görünümünü gizlemez.", "isCorrect": false },
+        { "text": "Sapları alüminyum folyo ile sarmak veya kalın bir yaprakla kapatmak", "rationale": "Şeffaf vazoda kök/sap gizleme standardıdır.", "isCorrect": true },
+        { "text": "Sapların tamamen koparılması", "rationale": "Çiçeğin ömrünü kısaltır.", "isCorrect": false },
+        { "text": "Işıklandırmayı azaltmak", "rationale": "Çözüm ışığı kısmak değildir.", "isCorrect": false }
+      ],
+      "hint": "Çiçeğin vazo içinde kalan kısımlarını estetik bir malzemeyle örtmek gerekir."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Mekânı estetik kılan ve misafirin konforunu artıran 'dekorasyonun temel unsurları' arasında hangisi yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Renk", "rationale": "En temel dekoratif unsurdur.", "isCorrect": false },
+        { "text": "Aydınlatma", "rationale": "Görsel algıyı oluşturur, temel unsurdur.", "isCorrect": false },
+        { "text": "Yer döşemeleri ve halılar", "rationale": "Mekan algısını yaratan unsurdur.", "isCorrect": false },
+        { "text": "Personel Sayısı", "rationale": "Personel sayısı dekoratif bir unsur değil, yönetim planlamasıdır.", "isCorrect": true },
+        { "text": "Mobilyalar ve perdeler", "rationale": "Mekanı dolduran temel dekoratif eşyalardır.", "isCorrect": false }
+      ],
+      "hint": "Bu unsurlardan biri fiziksel bir mekan objesi değil, insan kaynağı ile ilgilidir."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Kat hizmetlerinde temel bir kural olarak odadaki yastıklar nasıl yerleştirilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Açık kısımları kapıdan girişte görünecek şekilde dışa dönük", "rationale": "Bu tam tersi istenmeyen bir görüntüdür.", "isCorrect": false },
+        { "text": "Sadece yatağın ayak ucuna konularak", "rationale": "Yastık başlık kısmında yer alır.", "isCorrect": false },
+        { "text": "Kılıfın açık kısımları kapıdan girişte görünmeyecek şekilde (içe dönük/ters)", "rationale": "Görsel estetik ve hijyen algısı için açık kısımlar gizlenir.", "isCorrect": true },
+        { "text": "Kılıfsız şekilde katlanarak", "rationale": "Hijyen kurallarına tamamen aykırıdır.", "isCorrect": false },
+        { "text": "Yastık kullanılmadığı için dolaba kaldırılarak", "rationale": "Yastık yatakta standart olarak sunulur.", "isCorrect": false }
+      ],
+      "hint": "Odaya giren misafir, yastık yüzünün iç dikişlerini veya yastık süngerini direkt görmemelidir."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Kat hizmetleri standartlarına göre otel odasındaki gardıroplarda en az kaç adet elbise askısı bulunmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "2", "rationale": "Misafir için yeterli değildir.", "isCorrect": false },
+        { "text": "4", "rationale": "Standart sayıdan düşüktür.", "isCorrect": false },
+        { "text": "6", "rationale": "Dolaplarda en az 6 adet ve dolaba sabitlenmiş askı olmalıdır.", "isCorrect": true },
+        { "text": "8", "rationale": "Minimum standart 6'dır.", "isCorrect": false },
+        { "text": "10", "rationale": "Fazladır, standart 6'dır.", "isCorrect": false }
+      ],
+      "hint": "Yarım düzine sayısına karşılık gelir."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Elektrik anahtarları ve prizlerin dekorasyonunda uyulması gereken temel güvenlik ve fark edilebilirlik kuralı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Duvar rengiyle tamamen aynı renkte olmaları", "rationale": "Aynı renkte olurlarsa misafir bulmakta zorlanır.", "isCorrect": false },
+        { "text": "Mobilyaların arkasına gizlenmeleri", "rationale": "Kullanımı engeller.", "isCorrect": false },
+        { "text": "Sadece zemine monte edilmeleri", "rationale": "Ergonomik değildir.", "isCorrect": false },
+        { "text": "Duvar renginden farklı bir renkte olmaları", "rationale": "Fark edilebilir olması için zıt/farklı renk seçilmelidir.", "isCorrect": true },
+        { "text": "Aydınlatma armatürlerinin içine gömülmeleri", "rationale": "Tehlikeli ve standart dışı bir uygulamadır.", "isCorrect": false }
+      ],
+      "hint": "Misafirin odaya girdiğinde elektriği açabilmesi için bu yerlerin kolayca gözle seçilebilmesi gerekir."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Otelcilik sektöründe işin görüldüğü ortamın, çalışma süresinin ve koşulların incelenerek mevcut durumun tespit edilmesine İnsan Kaynaklarında ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş Tanımı", "rationale": "İş tanımı, yapılan tespitin yazıya (görevlere) dökülmesidir.", "isCorrect": false },
+        { "text": "İş Analizi", "rationale": "İşin bizzat yerinde incelenmesi ve mevcut durum tespiti İş Analizidir.", "isCorrect": true },
+        { "text": "İş Gerekleri", "rationale": "İş gerekleri o işi yapacak kişide aranan özelliktir.", "isCorrect": false },
+        { "text": "İş Basitleştirme", "rationale": "Daha pratik yol bulma işlemidir.", "isCorrect": false },
+        { "text": "Oryantasyon", "rationale": "İşe alıştırma sürecidir.", "isCorrect": false }
+      ],
+      "hint": "Bir sorunu veya durumu 'inceleme ve parçalarına ayırarak araştırma' işlemidir."
+    },
+    {
+      "questionNumber": 22,
+      "question": "İşe alınacak bir 'Kat Görevlisi'nin en az ilköğretim mezunu olması, eğilip kalkmaya engeli bulunmaması ve alerjisinin olmaması gibi şartlar İKY'de hangi kavramla ifade edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş Analizi", "rationale": "İşin incelenmesidir.", "isCorrect": false },
+        { "text": "İş Tanımı", "rationale": "Görevin kapsamıdır.", "isCorrect": false },
+        { "text": "İş Gerekleri", "rationale": "Personelde aranan şahsi nitelikler işin gerekleridir.", "isCorrect": true },
+        { "text": "İş Rotasyonu", "rationale": "Bölümler arası yer değiştirmedir.", "isCorrect": false },
+        { "text": "Performans Değerlendirme", "rationale": "İş sonu başarı ölçümüdür.", "isCorrect": false }
+      ],
+      "hint": "İşi yapacak personelin sahip olması 'gereken' şahsi ve fiziksel yetkinliklerdir."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Kat görevlilerinin çamaşırları taşırken yorulmasını engellemek için otel katlarına 'Çamaşır Şutu (kirli atma borusu)' sisteminin kurulması İKY planlamasındaki hangi aşamaya mükemmel bir örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş Tanımı", "rationale": "İşin kapsamı değildir, kolaylaştırma adımıdır.", "isCorrect": false },
+        { "text": "İş Basitleştirme", "rationale": "İşin daha az eforla, pratik ve kolay yapılmasını sağlayan düzenlemelerdir.", "isCorrect": true },
+        { "text": "İş Rotasyonu", "rationale": "Mekan ve bölüm değişikliği ifade eder.", "isCorrect": false },
+        { "text": "Performans Yönetimi", "rationale": "Personelin başarısını ölçme sistemidir.", "isCorrect": false },
+        { "text": "Oryantasyon", "rationale": "Eğitim sürecidir.", "isCorrect": false }
+      ],
+      "hint": "Görevin uygulanış biçimini daha 'kolay' ve efor gerektirmeyen bir yapıya sokma adımıdır."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Aşağıdakilerden hangisi işletme içi insan kaynakları temin (personel bulma) yöntemlerinden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Terfi (Dikey yükselme)", "rationale": "İç kaynak yöntemidir.", "isCorrect": false },
+        { "text": "Transfer (Yatay geçiş)", "rationale": "İç kaynak yöntemidir.", "isCorrect": false },
+        { "text": "İntranet Duyuruları", "rationale": "Şirket içi haberleşme olduğu için iç kaynaktır.", "isCorrect": false },
+        { "text": "Özel İstihdam Büroları (Danışmanlık)", "rationale": "Dışarıdan personel getirdiği için işletme dışı kaynak yöntemidir.", "isCorrect": true },
+        { "text": "İş Zenginleştirme", "rationale": "Mevcut personelin görevlerini artırmak iç kaynak çözümüdür.", "isCorrect": false }
+      ],
+      "hint": "Otel çalışanları haricinde, tamamen dışarıdan bir aracı kurum vasıtasıyla personel arayışıdır."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Yeni işe başlayan personelin işletmeye, çalışma arkadaşlarına ve departman kurallarına uyum sağlaması için verilen eğitim sürecine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Oryantasyon (İşe Alıştırma)", "rationale": "Kuruma adaptasyon sağlayan tanışma ve alışma eğitimidir.", "isCorrect": true },
+        { "text": "İş Basitleştirme", "rationale": "Süreç iyileştirmedir.", "isCorrect": false },
+        { "text": "İş Zenginleştirme", "rationale": "İş sorumluluğu eklemektir.", "isCorrect": false },
+        { "text": "Rotasyon", "rationale": "Bölüm değişikliğidir.", "isCorrect": false },
+        { "text": "Performans Ölçümü", "rationale": "İlerleyen dönemde yapılan değerlendirmedir.", "isCorrect": false }
+      ],
+      "hint": "Üniversitelerde veya şirketlerde 'ilk gün / ilk hafta' düzenlenen tanışma turlarının akademik adıdır."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Kat Hizmetleri bütçesi hazırlanırken gelir tahminleri için (gelecekteki doluluk oranları vb.) en çok hangi departmandan veri alınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yiyecek ve İçecek (F&B)", "rationale": "Oda doluluk verisi burada oluşmaz.", "isCorrect": false },
+        { "text": "İnsan Kaynakları", "rationale": "Personel verisi alınır, rezervasyon verisi değil.", "isCorrect": false },
+        { "text": "Önbüro (Front Office)", "rationale": "Otelin resepsiyon ve rezervasyon verileri, gelecekteki doluluğu bildiren asıl bölümdür.", "isCorrect": true },
+        { "text": "Teknik Servis", "rationale": "Arıza ve bakım işlemlerine bakar.", "isCorrect": false },
+        { "text": "Güvenlik", "rationale": "Bütçe gelir verisiyle ilgisi yoktur.", "isCorrect": false }
+      ],
+      "hint": "Otel rezervasyonlarının yapıldığı ve misafir kayıtlarının tutulduğu resepsiyon bölümüdür."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Kat Hizmetleri departmanının gider kalemleri içerisinde, kullanım miktarına bağlı olan (örneğin elektrik, su tüketimi) gider türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sabit Giderler", "rationale": "Sabit gider değişmez (Örn: kira).", "isCorrect": false },
+        { "text": "Personel Giderleri", "rationale": "Maaş kalemidir.", "isCorrect": false },
+        { "text": "Yarı Değişken Giderler", "rationale": "Hem sabit bir kullanım bedeli olan hem de tüketim arttıkça artan giderler yarı değişkendir.", "isCorrect": true },
+        { "text": "Donanım Giderleri", "rationale": "Ekipman alım maliyetidir.", "isCorrect": false },
+        { "text": "Amortisman", "rationale": "Yıpranma payıdır, sabittir.", "isCorrect": false }
+      ],
+      "hint": "Sabit bir abonelik ücreti olan ama kullanıma göre de faturası değişen giderlerdir."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Bir otelde terfi ederek 'Kat Görevlisi' pozisyonundan 'Kat Şefi' pozisyonuna yükselen bir personelin maaşının eski maaşından yüksek olarak belirlenmesi, ücret yönetiminin hangi ilkesidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Açıklık İlkesi", "rationale": "Ücret sisteminin net olmasıdır.", "isCorrect": false },
+        { "text": "Esneklik İlkesi", "rationale": "Piyasaya göre uyum sağlayabilmektir.", "isCorrect": false },
+        { "text": "Eşitlik İlkesi", "rationale": "Aynı işi yapana aynı ücreti vermektir.", "isCorrect": false },
+        { "text": "Yükselmeye Ücret Artışı Sağlanması İlkesi", "rationale": "Makam yükseldikçe alınacak ücretin de mutlak surette artması ilkesidir.", "isCorrect": true },
+        { "text": "Piyasa Ücretiyle Karşılaştırma İlkesi", "rationale": "Rakiplerin maaşlarına bakmaktır.", "isCorrect": false }
+      ],
+      "hint": "Statü ve sorumluluk arttıkça gelirin de buna paralel olarak artması gerektiğini savunan kuraldır."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Otel işletmelerinde genellikle uygulanan ve personelin aylık/haftalık olarak işte geçirdiği süreye göre standart bir maaş aldığı ücret sistemi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Parça Başı Ücret Sistemi", "rationale": "Üretilen mala/odaya göre ödenir.", "isCorrect": false },
+        { "text": "Primli Ücret Sistemi", "rationale": "Sabit ücret + aşılan hedef oranında ek ücret sistemidir.", "isCorrect": false },
+        { "text": "Zaman Temeline Dayanan Ücret Sistemi", "rationale": "Geçirilen süreye göre (aylık maaş) ödeme yapılan standart ve yaygın sistemdir.", "isCorrect": true },
+        { "text": "Rotasyonlu Ücret Sistemi", "rationale": "Böyle bir ücretleme literatürü yoktur.", "isCorrect": false },
+        { "text": "Komisyon Sistemi", "rationale": "Satış bazlı ekstra kazanç sistemidir.", "isCorrect": false }
+      ],
+      "hint": "Türkiye'de ve dünyada yaygın olan standart aylık veya asgari ücret mantığına dayanan sistemdir."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Ortamdaki kirlerin ve gözle görünen maddelerin fiziksel olarak uzaklaştırılması işlemine ne ad verilir? (Not: Bu işlem mikroorganizmaları öldürmez, sadece yerlerini değiştirir).",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sanitasyon", "rationale": "Sanitasyon mikropları güvenli seviyeye çeker.", "isCorrect": false },
+        { "text": "Temizlik", "rationale": "Sadece fiziksel ve gözle görülür kirliliği ortadan kaldırma işine temizlik denir.", "isCorrect": true },
+        { "text": "Sterilizasyon", "rationale": "Tüm mikroorganizmaları sıfırlar.", "isCorrect": false },
+        { "text": "Dezenfeksiyon", "rationale": "Cansız yüzeylerdeki patojenleri yok eder.", "isCorrect": false },
+        { "text": "Antisepsi", "rationale": "Canlı dokudaki mikrobu yok eder.", "isCorrect": false }
+      ],
+      "hint": "Evlerimizde yaptığımız standart toz alma veya süpürme işleminin en genel adıdır."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Bir ortamdaki (faydalı veya zararlı, canlı veya spor halindeki) tüm mikroorganizmaların KUSURSUZ BİR ŞEKİLDE tamamen yok edilmesi işlemine ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Dezenfeksiyon", "rationale": "Büyük kısmını öldürür, tamamen sıfırlamaz.", "isCorrect": false },
+        { "text": "Sanitasyon", "rationale": "Güvenli seviyeye indirir.", "isCorrect": false },
+        { "text": "Sterilizasyon", "rationale": "Mikroorganizma yükünü istisnasız sıfırlayan %100 arındırma işlemidir.", "isCorrect": true },
+        { "text": "Temizlik", "rationale": "Sadece fiziksel kirden arındırmadır.", "isCorrect": false },
+        { "text": "Antisepsi", "rationale": "Canlı cilt üzerindeki uygulamadır.", "isCorrect": false }
+      ],
+      "hint": "Genellikle ameliyathanelerde ve cerrahi aletlerde uygulanan en üst düzey mikrop öldürme standartıdır."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Aşağıdakilerden hangisi dezenfeksiyon işleminin canlı dokulara (insan cildine) uygulanmasıdır? (Örn: ameliyat öncesi ellere tentürdiyot sürmek)",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sterilizasyon", "rationale": "Eşyalara uygulanır.", "isCorrect": false },
+        { "text": "Dezenfeksiyon", "rationale": "Cansız yüzeylere uygulanır.", "isCorrect": false },
+        { "text": "Antisepsi", "rationale": "Canlı dokudaki mikroorganizmaları yok etme/azaltma işlemidir.", "isCorrect": true },
+        { "text": "Sanitasyon", "rationale": "Endüstriyel genel güvenliktir.", "isCorrect": false },
+        { "text": "Peyzaj", "rationale": "Çevre düzenlemesidir.", "isCorrect": false }
+      ],
+      "hint": "Eczanelerde satılan cilt dezenfektanlarına da ismini veren kavramdır."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Günlük hayatta bireysel bakımı ve hekimlik alanında kişiyi hastalıklardan korumayı ifade eden 'Hijyen' kelimesi adını nereden almıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Latince sanitas kelimesinden", "rationale": "Sanitas sanitasyonun kökenidir.", "isCorrect": false },
+        { "text": "Mitolojik sağlık tanrısı Asklepios'un kızı Hygieia'dan", "rationale": "Hygieia kelimesi zamanla hijyen kavramına dönüşmüştür.", "isCorrect": true },
+        { "text": "Osmanlı'daki Hıfzısıhha kavramından", "rationale": "Karşılığıdır ancak kökeni değildir.", "isCorrect": false },
+        { "text": "Sterilizasyon cihazlarının markasından", "rationale": "Bu tarihi bir mitolojik terimdir.", "isCorrect": false },
+        { "text": "Fransızca temizlik anlamına gelen 'nettoyage' kelimesinden", "rationale": "Etimolojisi bu kelimeye dayanmaz.", "isCorrect": false }
+      ],
+      "hint": "Antik Yunan inanç sistemindeki bir tanrıçanın ismidir."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Kat hizmetleri departmanında bulaşma riskini engellemek için kullanılan 'Renk Kodlu Temizlik Bezleri' sisteminde Kırmızı Bez nerede kullanılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Banyo aynaları ve duşakabin", "rationale": "Buralar mavi bez ile temizlenir.", "isCorrect": false },
+        { "text": "Oda içi toz alma (TV, masa)", "rationale": "Toz alma için sarı bez kullanılır.", "isCorrect": false },
+        { "text": "Klozet ve çevresi", "rationale": "En riskli alan olan klozetler için uluslararası kırmızı bez kodu kullanılır.", "isCorrect": true },
+        { "text": "Yer silme paspası olarak", "rationale": "Bez türü paspas değildir.", "isCorrect": false },
+        { "text": "Pencereler ve dış camlar", "rationale": "Camlar için farklı aparatlar kullanılır.", "isCorrect": false }
+      ],
+      "hint": "En tehlikeli ve bakterinin en yoğun olduğu bölgede rengi ile tehlikeyi belirten bez kullanılır."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Otel odası temizliğinde çapraz bulaşmayı önlemek için uygulanması gereken doğru 'Temizlik Sıralaması' prensibi aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kirliden Temize / Aşağıdan Yukarıya", "rationale": "Prensibin tam tersi tehlikeli bir yöntemdir.", "isCorrect": false },
+        { "text": "Temizden Kirliye / Yukarıdan Aşağıya", "rationale": "Tozların aşağı inmesi ve temiz alanın kirletilmemesi için en doğru sıralamadır.", "isCorrect": true },
+        { "text": "Banyodan Yatak Odasına / Soldan Sağa", "rationale": "Banyo her zaman en son temizlenmelidir.", "isCorrect": false },
+        { "text": "Islaktan Kuruya / Rastgele", "rationale": "Temizlikte rastgele işlem yapılmaz.", "isCorrect": false },
+        { "text": "Balkondan Kapıya / Merkezden Dışa", "rationale": "Kat hizmetleri spesifik kuralına uymaz.", "isCorrect": false }
+      ],
+      "hint": "Mekanın en az kirlenmiş yerinden başlanmalı ve tavandaki tozun yere ineceği hesaba katılmalıdır."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Odada kimyasal kullanmadan sadece yüksek sıcaklıktaki 'ısıl şok' gücüyle yatak ve perdelerdeki bakterileri öldüren temizlik teknolojisi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "HEPA Filtreli Vakum", "rationale": "Hava çeker, filtreler, ısı vermez.", "isCorrect": false },
+        { "text": "UVC Işınlama Cihazı", "rationale": "UV ışını verir, ısıl şok yaratmaz.", "isCorrect": false },
+        { "text": "Buharlı Temizleyiciler (Steam Cleaning)", "rationale": "Yüksek ısılı su buharı ile doğal dezenfeksiyon sağlar.", "isCorrect": true },
+        { "text": "Eko-etiketli Kimyasallar", "rationale": "Bunlar kimyasaldır, soruda kimyasal olmadan denilmiştir.", "isCorrect": false },
+        { "text": "Ultrasonik Yıkama", "rationale": "Genellikle takı ve ufak donanım temizliğinde ses dalgasıyla kullanılır.", "isCorrect": false }
+      ],
+      "hint": "Suyu ısıtıp gaz formuna dönüştürerek püskürten cihazlardır."
+    },
+    {
+      "questionNumber": 37,
+      "question": "Oda temizliğinde kullanılan teknolojilerden UVC (Ultraviyole) Işınlama Cihazları ile ilgili hangisi KESİNLİKLE doğrudur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece klozet içine uygulanır", "rationale": "Tüm odaya uygulanabilir.", "isCorrect": false },
+        { "text": "Oda boşken kullanılmalıdır", "rationale": "UVC ışını cilde ve göze zararlı olduğu için mutlaka personel ve misafir odada yokken kullanılır.", "isCorrect": true },
+        { "text": "Toz almak için idealdir", "rationale": "Fiziksel toz çekmez, genetik şifre bozar.", "isCorrect": false },
+        { "text": "Kötü kokuları parfümleyerek bastırır", "rationale": "Parfüm salgılamaz.", "isCorrect": false },
+        { "text": "Temizlik kimyasalları ile karıştırılarak uygulanır", "rationale": "Işık veren bir cihazdır, sıvı değildir.", "isCorrect": false }
+      ],
+      "hint": "Bu cihazlar çalışırken yaydıkları ışınlardan dolayı insan sağlığı için tehlikelidir."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Sanitasyon kurallarına göre otel personelinin aşağıdaki durumlardan hangisinde ellerini yıkaması zorunlu DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Molalardan ve tuvaletten sonra", "rationale": "Kesinlikle yıkanmalıdır.", "isCorrect": false },
+        { "text": "Odadaki temiz havluları dolaba dizerken", "rationale": "Temiz eşyaya dokunmak kirlilik yaratmaz, eğer el öncesinde temizse yıkama gerektirmez.", "isCorrect": true },
+        { "text": "Çöpe veya kimyasala temas edince", "rationale": "Kesinlikle yıkanmalıdır.", "isCorrect": false },
+        { "text": "Çalışma alanı veya temizlik tezgâhı değiştiğinde", "rationale": "Çapraz bulaşmayı önlemek için yıkanmalıdır.", "isCorrect": false },
+        { "text": "Vücutta bir yeri (saç, deri) kaşıdıktan sonra", "rationale": "Kesinlikle yıkanmalıdır.", "isCorrect": false }
+      ],
+      "hint": "Ellerin zaten steril veya temiz olduğu varsayılan rutinin tam ortasında olan eylemdir."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Otel personelinin üniformasında 'aksesuar, yüzük, sarkan kolye vb. ziynet eşyası' kullanımı neden YASAKTIR?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Misafirleri kıskandırmamak için", "rationale": "Psikolojik değil, tamamen güvenlik ve standart kurallarıdır.", "isCorrect": false },
+        { "text": "İş güvenliği riski taşıması ve hijyen problemine (mikrop birikimi) yol açması", "rationale": "Takılar hem makinelerde tehlike yaratır hem de altlarında bakteri biriktirir.", "isCorrect": true },
+        { "text": "Üniformanın estetiğini bozduğu için", "rationale": "Birincil neden estetik değil güvenlik ve hijyendir.", "isCorrect": false },
+        { "text": "Otel yönetiminin takı alımını teşvik etmemek istemesi", "rationale": "İlgisiz bir yönetimsel düşüncedir.", "isCorrect": false },
+        { "text": "Maliyetleri kısmak için", "rationale": "Takı otel maliyeti değildir.", "isCorrect": false }
+      ],
+      "hint": "İş kazalarını önlemek ve bakterilerin metal/taş aralarında üremesini engellemek için bu kural konulur."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Aşağıdakilerden hangisi Kat Hizmetleri performans değerlendirme sonuçlarının sağladığı faydalardan biri DEĞİLDİR?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Başarıyı ödüllendirmeyi sağlaması", "rationale": "Performans sonucuna göre prim verilir.", "isCorrect": false },
+        { "text": "Personelin eğitim ihtiyacını saptaması", "rationale": "Eksik görülen konular için eğitim planlanır.", "isCorrect": false },
+        { "text": "Terfilerde objektif (tarafsız) karar verilmesini sağlaması", "rationale": "Verilere dayanarak adil terfi yaptırır.", "isCorrect": false },
+        { "text": "İşletmenin bütçe açıklarını anında kapatması", "rationale": "Performans ölçümü personelle ilgilidir, otelin bütçe açığını kapatan finansal bir araç değildir.", "isCorrect": true },
+        { "text": "Başarısızlıkları ve nedenlerini belirlemesi", "rationale": "Değerlendirmenin temel amaçlarındandır.", "isCorrect": false }
+      ],
+      "hint": "Bu faydalar personelin gelişimini hedefler, doğrudan muhasebesel bir mali aracı ifade etmez."
+    }
+  ]
+}

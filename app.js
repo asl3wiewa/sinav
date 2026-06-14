@@ -306,6 +306,14 @@ const TESTS = {
 
   },
 
+  "yiyecek-ve-icecek-servisi-2-1-final": {
+
+    title: "Yiyecek ve Icecek Servisi II Testi 1 (Final)",
+
+    dataUrl: "2-donem/final/yiyecek-ve-icecek-servisi-2-1.json",
+
+  },
+
   "kat-hizmetleri-2-1": {
 
     title: "Kat Hizmetleri II Testi 1",
@@ -346,6 +354,38 @@ const TESTS = {
 
   },
 
+  "kat-hizmetleri-2-1-final": {
+
+    title: "Kat Hizmetleri II Testi 1 (Final)",
+
+    dataUrl: "2-donem/final/kat-hizmetleri-2-1.json",
+
+  },
+
+  "kat-hizmetleri-2-2-final": {
+
+    title: "Kat Hizmetleri II Testi 2 (Final)",
+
+    dataUrl: "2-donem/final/kat-hizmetleri-2-2.json",
+
+  },
+
+  "kat-hizmetleri-2-3-final": {
+
+    title: "Kat Hizmetleri II Testi 3 (Final)",
+
+    dataUrl: "2-donem/final/kat-hizmetleri-2-3.json",
+
+  },
+
+  "kat-hizmetleri-2-4-final": {
+
+    title: "Kat Hizmetleri II Testi 4 (Final)",
+
+    dataUrl: "2-donem/final/kat-hizmetleri-2-4.json",
+
+  },
+
   "konukla-iletisim": {
 
     title: "Konukla Iletisim Testi 1",
@@ -378,6 +418,38 @@ const TESTS = {
 
   },
 
+  "konukla-iletisim-final": {
+
+    title: "Konukla Iletisim Testi 1 (Final)",
+
+    dataUrl: "2-donem/final/Konukla-iletisim-1.json",
+
+  },
+
+  "konukla-iletisim-2-final": {
+
+    title: "Konukla Iletisim Testi 2 (Final)",
+
+    dataUrl: "2-donem/final/Konukla-iletisim-2.json",
+
+  },
+
+  "konukla-iletisim-3-final": {
+
+    title: "Konukla Iletisim Testi 3 (Final)",
+
+    dataUrl: "2-donem/final/Konukla-iletisim-3.json",
+
+  },
+
+  "konukla-iletisim-4-final": {
+
+    title: "Konukla Iletisim Testi 4 (Final)",
+
+    dataUrl: "2-donem/final/Konukla-iletisim-4.json",
+
+  },
+
   "mesleki-yabanci-dil-2-1": {
 
     title: "Mesleki Yabanci Dil II Testi 1",
@@ -391,6 +463,14 @@ const TESTS = {
     title: "Mesleki Yabanci Dil II Testi 2",
 
     dataUrl: "2-donem/vize/mesleki-yabanci-dil-2-2.json",
+
+  },
+
+  "mesleki-yabanci-dil-2-1-final": {
+
+    title: "Mesleki Yabanci Dil II Testi 1 (Final)",
+
+    dataUrl: "2-donem/final/mesleki-yabanci-dil-2-1.json",
 
   },
 
@@ -619,6 +699,8 @@ const TEST_ALIASES = {
 
   "yiyecek ve icecek servisi ii 3": "yiyecek-ve-icecek-servisi-2-3",
 
+  "yiyecek ve icecek servisi ii 1 final": "yiyecek-ve-icecek-servisi-2-1-final",
+
   "kat hizmetleri ii 1": "kat-hizmetleri-2-1",
 
   "kat hizmetleri ii 2": "kat-hizmetleri-2-2",
@@ -629,6 +711,14 @@ const TEST_ALIASES = {
 
   "kat hizmetleri ii 5": "kat-hizmetleri-2-5",
 
+  "kat hizmetleri ii 1 final": "kat-hizmetleri-2-1-final",
+
+  "kat hizmetleri ii 2 final": "kat-hizmetleri-2-2-final",
+
+  "kat hizmetleri ii 3 final": "kat-hizmetleri-2-3-final",
+
+  "kat hizmetleri ii 4 final": "kat-hizmetleri-2-4-final",
+
   "konukla iletisim": "konukla-iletisim",
 
   "konukla iletisim 2": "konukla-iletisim-2",
@@ -637,9 +727,19 @@ const TEST_ALIASES = {
 
   "konukla iletisim 4": "konukla-iletisim-4",
 
+  "konukla iletisim final": "konukla-iletisim-final",
+
+  "konukla iletisim 2 final": "konukla-iletisim-2-final",
+
+  "konukla iletisim 3 final": "konukla-iletisim-3-final",
+
+  "konukla iletisim 4 final": "konukla-iletisim-4-final",
+
   "mesleki yabanci dil ii 1": "mesleki-yabanci-dil-2-1",
 
   "mesleki yabanci dil ii 2": "mesleki-yabanci-dil-2-2",
+
+  "mesleki yabanci dil ii 1 final": "mesleki-yabanci-dil-2-1-final",
 
   "dijital pazarlama ve sosyal medya": "dijital-pazarlama-ve-sosyal-medya",
 

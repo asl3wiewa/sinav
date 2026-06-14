@@ -1,0 +1,1404 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Aşağıdakilerden hangisi 'Rezervasyon' kavramının dokümandaki tanımıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişilerin hizmet almadan önce o hizmet için işletmeden yer ayırtmasıdır.",
+          "rationale": "Dokümanda rezervasyon tam olarak bu ifade ile tanımlanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "İşletmenin günlük müşteri kapasitesini belirleme işlemidir.",
+          "rationale": "Rezervasyon kapasite hakkında bilgi verse de, tanımı bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşterinin restorana gelip beklediği süredir.",
+          "rationale": "Bu bekleme süresidir, yer ayırtma işlemi değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletmenin özel günlerde uyguladığı fiyat politikasıdır.",
+          "rationale": "Rezervasyon bir fiyatlandırma stratejisi değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu kavram, hizmetin gerçekleşmesinden 'önce' yapılan bir yer sağlama eylemidir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Aşağıdakilerden hangisi rezervasyonun işletmeye sağladığı avantajlardan biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Operasyonun boyutu hakkında bilgi sahibi olmak.",
+          "rationale": "Dokümana göre bu temel avantajlardan biridir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gelecek misafirlerin profili hakkında bilgi sahibi olmak.",
+          "rationale": "Misafir profilini önceden bilmek avantajlar arasında sayılmıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletmenin tüm maddi giderlerini sıfırlamak.",
+          "rationale": "Rezervasyon giderleri sıfırlamaz, sadece planlamayı kolaylaştırır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Personel motivasyonunu sağlamada yardımcı olmak.",
+          "rationale": "Hazırlıklı olmak personeli motive ettiği için bu bir avantajdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Rezervasyonlar öngörü sağlar ancak finansal maliyetleri tamamen ortadan kaldırmaz."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Dokümana göre misafirler en sık hangi yöntemle rezervasyon yaparlar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İnternet üzerinden",
+          "rationale": "İnternet bir yöntemdir ama en sık kullanılanı olarak belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Telefonla",
+          "rationale": "Dokümanda 'en sık gerçekleşen de budur' şeklinde açıkça ifade edilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Şahsen gelerek",
+          "rationale": "Şahsen gelmek genelde banquet rezervasyonlarında görülür.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kurye aracılığıyla",
+          "rationale": "Böyle bir yöntem dokümanda geçmemektedir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu iletişim aracı anlık sesli iletişim kurmayı sağlar."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Şahsen gelerek rezervasyon yapmak genelde hangi tür organizasyonlarda görülür?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "A la carte akşam yemeklerinde",
+          "rationale": "Dokümanda bu tür için şahsen gelindiği belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Öğle yemeklerinde",
+          "rationale": "Öğle yemekleri için özel bir ayrım yapılmamıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Banquet rezervasyonlarında",
+          "rationale": "Dokümanda şahsen gelerek rezervasyonun genelde banquet rezervasyonlarında görüldüğü yazmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Paket servis siparişlerinde",
+          "rationale": "Paket servis rezervasyon kapsamında değerlendirilmemiştir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Büyük, planlı ve detaylı ziyafet organizasyonları için yüz yüze görüşmek tercih edilir."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Telefonla rezervasyon alırken personelin uyması gereken kurallardan biri hangisi değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Müşterinin özel hayatını sorgulama",
+          "rationale": "Telefon kuralları arasında müşterinin özeline girmek kesinlikle yoktur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ses tonuna dikkat etme",
+          "rationale": "Ses tonu uyulması gereken birinci kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Net konuşma",
+          "rationale": "Net konuşma iletişimin sağlıklı olması için bir kuraldır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Selamlama",
+          "rationale": "Telefon konuşması mutlaka selamlama ile başlamalıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Kurallar sadece nezaket ve profesyonel hizmet için gerekli sınırları çizer."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Telefonla rezervasyon alan bir görevlinin misafirin söylediklerini onaylaması adımı hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Not alma",
+          "rationale": "Not alma bilgileri kaydetmektir, onaylamak değil.",
+          "isCorrect": false
+        },
+        {
+          "text": "İşletmeyi tanıma",
+          "rationale": "İşletmeyi tanıma bilgi verebilmek içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teyit",
+          "rationale": "Alınan bilgilerin doğru anlaşıldığını onaylamak teyit adımıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Teşekkür",
+          "rationale": "Teşekkür konuşmanın sonlandırıldığı nezaket adımıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu adım, yanlış anlaşılmaları önlemek için bilgilerin tekrar edilmesini içerir."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Aşağıdakilerden hangisi 'Servis Basamakları'nın ilk adımıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Menü Takdimi",
+          "rationale": "Menü takdimi, müşteri oturtulduktan sonra yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konukların Karşılanması",
+          "rationale": "Karşılama ikinci adımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rezervasyon Alma",
+          "rationale": "Servisin kalitesini belirleyen başlangıç noktası rezervasyondur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ylerine Oturtulması",
+          "rationale": "Oturtulma, karşılamadan sonra gelir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Müşteri henüz restoranın kapısından bile girmeden önce başlayan süreçtir."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Servis basamaklarında 'Menü Takdimi'nden hemen sonra gelen adım aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Konukların Karşılanması",
+          "rationale": "Karşılama menüden çok önce yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yerlerine Oturtulması",
+          "rationale": "Oturtulma menüden önce yapılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sipariş Alınması",
+          "rationale": "Dokümandaki listeye göre menü takdiminden sonra sipariş alınması adımı gelir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Siparişleri Mutfağa İletme",
+          "rationale": "Mutfağa iletme, sipariş alındıktan sonra yapılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafirler seçenekleri inceledikten sonra tercihlerini görevliye bildirmelidir."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Rezervasyon alırken müşteriden alınması gereken bilgilerden biri değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kişi sayısı",
+          "rationale": "Masa ayarlaması için kişi sayısı şarttır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirin adı ve soyadı",
+          "rationale": "Misafiri tanımak için ad soyad alınır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirin ev adresi",
+          "rationale": "İletişim bilgisi alınır ancak açık ev adresi rezervasyon için zorunlu bilgi olarak listelenmemiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rezervasyonu kim için yaptırdığı",
+          "rationale": "Dokümanda bu bilgi alınması gerekenler listesinde yer almaktadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Restoran için iletişim numarası önemlidir, ancak müşterinin ikametgah detayı gereksizdir."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Opsiyon durumu nedir ve ne zaman sorgulanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rezervasyon alırken sorgulanan kesinlik veya iptal esnekliği durumudur.",
+          "rationale": "Dokümanda 'Opsiyon durumu' rezervasyon alınırken gereken bilgiler arasında yer alır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Müşterinin menüdeki seçenekleri beğenme durumudur.",
+          "rationale": "Opsiyon menü seçimi ile ilgili değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hesabı ödeme alternatifleridir.",
+          "rationale": "Ödeme yöntemleriyle ilgisi yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masanın cam kenarı olup olmamasıdır.",
+          "rationale": "Masa konumu opsiyon değil özel istektir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu kavram, rezervasyonun geçerlilik süresi ve şartlarıyla ilgilidir."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Alınan rezervasyonlar kaç şekilde kaydedilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece bilgisayarla",
+          "rationale": "Sadece bilgisayarla kaydedilmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece elle (deftere)",
+          "rationale": "Sadece elle kaydedilmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Üç şekilde: Bilgisayar, elle ve ses kaydıyla",
+          "rationale": "Ses kaydı dokümanda geçmemektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "İki şekilde: Biri bilgisayarla, diğeri elledir",
+          "rationale": "Dokümanda açıkça 'Alınan rezervasyonlar iki şekilde kaydedilir' denmektedir.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Kayıt işlemi hem dijital hem de geleneksel yöntemlerle yapılabilmektedir."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Rezervasyon kayıtlarında 'chart' (çizelge) kullanılmasının amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Alınan bilgileri yazarak kayıt altına almak",
+          "rationale": "Bilgisayarla veya elle fark etmeksizin bilgilerin yazıldığı yer chart'tır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafirlere menü seçeneklerini sunmak",
+          "rationale": "Chart misafire sunulmaz, iç kayıt sistemidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak personeline yemek tariflerini göstermek",
+          "rationale": "Mutfakla ilgisi yoktur, rezervasyon yönetimi içindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aylık gelir tablosunu hazırlamak",
+          "rationale": "Muhasebe aracı değil rezervasyon aracıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu yapı, verilerin düzenli bir formatta tutulmasını sağlar."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Sadece o günkü rezervasyonları gösteren belgeye ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Rezervasyon formu",
+          "rationale": "Form genel rezervasyonları gösterir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adisyon",
+          "rationale": "Adisyon yenen yemeklerin yazıldığı fiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rezervasyon listesi",
+          "rationale": "Gün geldiğinde o güne ait rezervasyonları gösteren özel belgeye rezervasyon listesi denir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Müşteri veri tabanı",
+          "rationale": "Veritabanı tüm geçmişi de kapsar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Orijinal kayıt formundan filtre edilerek sadece o 'güne' ait oluşturulan belgedir."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Misafirler restorana geldiklerinde ilk olarak kim tarafından karşılanırlar?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Mutfak şefi tarafından",
+          "rationale": "Mutfak ekibi arka planda çalışır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Komi tarafından",
+          "rationale": "Komiler servis yardımcılarıdır, ilk karşılamayı yapmazlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hostes veya salon şefi tarafından",
+          "rationale": "Dokümanda karşılamanın bu kişiler tarafından yapıldığı belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Barmen tarafından",
+          "rationale": "Barmen bar bölümünde görevlidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Karşılama işlemi restoranın girişinden ve genel düzeninden sorumlu görevlilerin işidir."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Misafiri karşılarken gözle takibe ne zaman başlanmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafir sipariş verdiğinde",
+          "rationale": "Bu çok geç bir adımdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir görüş alanına girdiği anda",
+          "rationale": "Dokümana göre iletişim misafir görüş alanına girdiği anda göz takibiyle başlar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafir kapıdan içeri tamamen girdiğinde",
+          "rationale": "Daha erken, görüş alanına girer girmez başlanmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafir masasına oturduğunda",
+          "rationale": "Oturma aşaması karşılamadan sonradır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Dikkat, misafirin varlığı algılanır algılanmaz başlamalıdır."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Sözlü karşılama hangi mesafede yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Bağırarak en uzak noktadan",
+          "rationale": "Bağırmak nezaketsiz bir tutumdur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çok dibine girerek",
+          "rationale": "Kişisel alanı ihlal etmek yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bizi duyabilecekleri mesafede",
+          "rationale": "Dokümanda 'Bizi duyabilecekleri mesafede sözle karşılanmalıdırlar' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Masaya oturdukları mesafede",
+          "rationale": "Sözlü karşılama girişte ve yönlendirmeden önce yapılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sözlü iletişim için en uygun olan, sesimizi rahatça ulaştırabildiğimiz ama rahatsız etmeyen aralıktır."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Sözlü karşılama yapılırken aynı zamanda ne kullanılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Megafon",
+          "rationale": "Böyle bir araç kullanılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vücut dili",
+          "rationale": "Dokümanda sözlü karşılamanın yanında vücut dilinin de kullanılması gerektiği vurgulanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Yazılı tabelalar",
+          "rationale": "Tabela ile kişisel karşılama yapılmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menü kitapçığı",
+          "rationale": "Menü daha sonra takdim edilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sözlerin etkisini artırmak için fiziksel duruşumuz ve jestlerimiz de önemlidir."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Misafirler salona girmeden önce vestiyer hizmeti kapsamında neler teslim alınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Cüzdan ve değerli eşyalar",
+          "rationale": "Değerli eşyalar misafirde kalmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece kadınların çantaları",
+          "rationale": "Çantalar masaya alınabilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şemsiye, kaban, yağmurluk gibi eşyalar",
+          "rationale": "Dokümanda vestiyere teslim edilecek dış giyim eşyaları bunlar olarak sıralanmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Cep telefonları",
+          "rationale": "Telefonlar vestiyere verilmez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu eşyalar genellikle dış mekan koşullarından koruyan giysi ve aksesuarlardır."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Misafirler salona nasıl gitmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kendi başlarına masayı bularak",
+          "rationale": "Bu ilgisiz bir servis örneğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir personel eşliğinde",
+          "rationale": "Dokümanda 'masalarına bir personel eşliğinde gitmelidir' yazmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece menüye bakarak",
+          "rationale": "Menü masada verilir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak içinden geçerek",
+          "rationale": "Misafirler mutfağa sokulmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Profesyonel bir restoranda konuklar salonda yalnız bırakılmaz ve yönlendirilir."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Masaya oturtulurken kimlere öncelik verilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hesabı ödeyecek kişiye",
+          "rationale": "Hesap ödeyecek kişi protokolde öncelikli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Çocuklara",
+          "rationale": "Çocuklardan ziyade genel nezaket kuralı kadınları işaret eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Erkeklere",
+          "rationale": "Öncelik erkeklerin değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kadınlara (yaşlı-genç)",
+          "rationale": "Dokümana göre masaya oturtulurken öncelik yaşlı-genç ayrımı gözetilerek kadınlardadır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Klasik görgü kurallarında 'önce hanımlar' prensibi uygulanır."
+    },
+    {
+      "questionNumber": 21,
+      "question": "Misafirlere masa seçilirken nasıl bir yere alınmaları tercih edilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tuvalete yakın bir yere",
+          "rationale": "Tuvalet yakını genellikle tercih edilmeyen bir alandır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manzaralı yere",
+          "rationale": "Dokümanda misafirlerin manzaralı yere alınmaları gerektiği belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mutfak kapısının yanına",
+          "rationale": "Gürültülü alanlar tercih edilmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "En karanlık köşeye",
+          "rationale": "Bu müşteri memnuniyeti sağlamaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Göze hitap eden ve atmosferi en iyi yaşatan konumlar tercih edilmelidir."
+    },
+    {
+      "questionNumber": 22,
+      "question": "Misafirler masaya yerleştikten sonra, onlara eşlik eden kişi masadan ayrılmadan önce ne yapmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hemen hesabı getirmelidir",
+          "rationale": "Daha sipariş verilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menüdeki en pahalı ürünü satmaya çalışmalıdır",
+          "rationale": "Pahalı ürün dayatması yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Onlara servis verecek personeli tanıştırmalıdır",
+          "rationale": "Görev devri için masaya bakacak personelin tanıtılması gerekir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Masanın tozunu almalıdır",
+          "rationale": "Masa zaten misafir gelmeden hazır olmalıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafirler masada kimden hizmet alacaklarını bilmelidirler."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Servis personelinin misafire hissettirmesi gereken duygu nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Acelecilik",
+          "rationale": "Acelecilik misafiri strese sokar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Korku ve çekince",
+          "rationale": "Bunlar hissettirilmemesi gereken duygulardır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Misafirin orada olmasının mutluluk olduğu",
+          "rationale": "Dokümanda personelin misafire külfet değil mutluluk hissettirmesi gerektiği yazar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bıkkınlık",
+          "rationale": "Profesyonel hizmete aykırıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İşletme, konukların varlığından rahatsız değil aksine memnun olmalıdır."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Rezervasyon listesinde aşağıdakilerden hangisi yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Misafirlerin isimleri",
+          "rationale": "İsimler mutlaka yer alır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hangi masanın ayrıldığı",
+          "rationale": "Masa numarası hazırlık için önemlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin maaş bilgisi",
+          "rationale": "Rezervasyon listesi müşteri verilerini içerir, personelin özel verilerini içermez.",
+          "isCorrect": true
+        },
+        {
+          "text": "Geliş saatleri",
+          "rationale": "Zaman planlaması için geliş saati şarttır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Liste tamamen müşterinin işletmedeki deneyimini organize etmeye yöneliktir."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Salon şefi rezervasyon listesini inceledikten sonra o günkü rezervasyonları hangi bölümlere de bildirmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece mutfağa",
+          "rationale": "Mutfak en başta olsa da tek yer değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak, bar, önbüro ve concierge",
+          "rationale": "Dokümanda bu birimlerin hepsine haber verilmesi gerektiği yazmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece güvenlik görevlilerine",
+          "rationale": "Güvenlik özel durumlar hariç operasyona dahil edilmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece temizlik personeline",
+          "rationale": "Operasyonun asıl ayakları servis veren birimlerdir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Tüm operasyonel birimlerin, özellikle hazırlık yapan tüm departmanların bilgilendirilmesi gerekir."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Menü takdiminde de tıpkı oturtma sırasındaki gibi kime öncelik verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çocuklara",
+          "rationale": "Bu spesifik kural çocukları değil kadınları işaret eder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Erkeklere",
+          "rationale": "Erkekler öncelikli değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kadınlara",
+          "rationale": "Dokümanda 'Menüler yine önce kadınlara verilmelidir' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ev sahibine",
+          "rationale": "Ev sahibinin siparişi en son alınır, öncelik kadınlardadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Restoran nezaket kurallarının genelinde 'önce hanımlar' geçerlidir."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Bazı işletmelerde kadınlara verilen menülerin erkeklere verilenlerden farkı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Sadece tatlıların olması",
+          "rationale": "Menü tüm yemekleri içerir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiyatların yazılı olmaması",
+          "rationale": "Kadın davetlilerin rahat etmesi için fiyatların yazılı olmadığı menüler kullanılır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Daha büyük boyutlu olması",
+          "rationale": "Boyutla ilgili bir fark belirtilmemiştir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sadece içecekleri içermesi",
+          "rationale": "Menü genel yiyecekleri kapsar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Davet edilen kişinin maddi bir çekince yaşamadan dilediğini seçebilmesi için bu detay çıkarılır."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Menü takdiminden sonra 'top kimdedir'?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Aşçıda",
+          "rationale": "Aşçı sipariş mutfağa gelince devreye girer.",
+          "isCorrect": false
+        },
+        {
+          "text": "Salon Şefinde",
+          "rationale": "Salon şefi kontrol sağlar, servisi yürüten kişide sıra.",
+          "isCorrect": false
+        },
+        {
+          "text": "Servis personelinde",
+          "rationale": "Dokümanda 'Bundan sonra top servis personelindedir' ifadesi açıkça kullanılmıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Misafirde",
+          "rationale": "Misafir menüyü incelerken servisi personel yönetir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu aşamadan sonra süreci yönetecek ve masayla ilgilenecek olan ana görevliye işaret eder."
+    },
+    {
+      "questionNumber": 29,
+      "question": "Menü takdiminden hemen sonra servis personeli misafire ne sormalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tatlı isteyip istemediklerini",
+          "rationale": "Tatlı genelde yemek sonrasında sorulur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su servisi ve aperatif isteyip istemediklerini",
+          "rationale": "Menü takdimi akabinde su (su ya da maden suyu) ve aperatif sorulur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hesabı nakit mi kredi kartı mı ödeyeceklerini",
+          "rationale": "Bu aşamada ödeme sorulmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yemeğin ne kadar hızlı gelmesini istediklerini",
+          "rationale": "Bu daha sonra sipariş aşamasında detaylandırılır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yemek gelmeden önce başlangıç içecekleri bu aşamada teklif edilir."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Misafir menüye bakarken masaya ücretsiz olarak hangi ikramlar getirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ana yemek ve salata",
+          "rationale": "Bunlar sipariş sonrası gelir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amuse bouche ve ekmek",
+          "rationale": "Dokümanda 'Aynı zamanda amuse bouche ve ekmek de masaya getirilir' yazmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kahve ve çay",
+          "rationale": "Bunlar genelde yemek sonrasıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tatlı tabağı",
+          "rationale": "Tatlı yemek sonrasıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İştah açıcı küçük atıştırmalıklar ve unlu mamuller bu aşamada masaya konur."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Menüyü verir vermez yapılan yanlış hareket nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Su sormak",
+          "rationale": "Bu doğru bir harekettir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gülümsemek",
+          "rationale": "Gülümsemek her zaman doğrudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sipariş almayı beklemek",
+          "rationale": "Misafirin seçim yapması için zaman vermeyip hemen sipariş beklemek yanlıştır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Masadan biraz uzaklaşmak",
+          "rationale": "Mesafe tanımak doğru bir harekettir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafire tercih yapması için bir miktar zaman ve alan tanınmalıdır."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Sipariş alırken personelin 'doğru seçim', 'çok iyi karar' gibi cümleler kurması neden yanlıştır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Zaman kaybına neden olur",
+          "rationale": "Asıl sorun zaman kaybı değil yaratılan algıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ukalalık olarak algılanabilir ve diğer misafirleri rahatsız edebilir",
+          "rationale": "Dokümanda bu cümlelerin kullanılmamasının sebebi tam olarak budur.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mutfaktaki diğer yemeklerin satışını düşürür",
+          "rationale": "Bu satış stratejisiyle ilgili değil, müşteri psikolojisiyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Siparişin unutulmasına sebep olur",
+          "rationale": "Cümle kurmak siparişi unutturmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir tercihi överken, diğer kişilerin tercihlerini eleştiriyormuş hissi uyandırma riski vardır."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Menüyle ilgili tavsiyede bulunurken hangi yemeklerin seçilmesi gerekir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ne olursa olsun pahalı yemekler",
+          "rationale": "Dokümana göre pahalı yemekler özellikle seçilmemelidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hazırlanması en uzun süren yemekler",
+          "rationale": "Süre ile ilgili bir tavsiye kuralı yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Güvenilir yemekler",
+          "rationale": "Tavsiyelerde risksiz, iyi yapıldığı bilinen 'güvenilir yemekler' seçilmelidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sadece deniz ürünleri",
+          "rationale": "Böyle spesifik bir ayrım yapılmamıştır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafiri riske atmayacak, işletmenin kesinlikle başarılı yaptığı ürünler önerilmelidir."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Servis personeli olaya hakim olduğunu hissettirirken misafire ne hissettirmemelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Korku veya çekince",
+          "rationale": "Dokümanda 'misafire korku veya çekince hissettirilmemelidir' denmektedir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Huzur",
+          "rationale": "Huzur istenen bir duygudur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Açlık",
+          "rationale": "Açlık restorana gelme sebebidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Özel hissetme",
+          "rationale": "Özel hissetmeleri istenir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Personelin profesyonelliği müşteride baskı oluşturmamalıdır."
+    },
+    {
+      "questionNumber": 35,
+      "question": "Masadan sipariş alırken ilk kime yönelinir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "En genç kişiye",
+          "rationale": "Yaş küçüklüğü siparişte bir öncelik yaratmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ev sahibine",
+          "rationale": "Diğerleri için de sipariş verebilme ihtimaline karşı ilk ev sahibine yönelinir.",
+          "isCorrect": true
+        },
+        {
+          "text": "En yaşlı kişiye",
+          "rationale": "6 kişiden fazla grupta yaşlı kadın kuralı vardır ancak genel yönelim ev sahibinedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapıya en yakın oturan kişiye",
+          "rationale": "Oturma yeri kuralı belirlemez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Daveti veren veya organizasyonu yapan kişi grubu yönlendirebilir."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Sipariş almak için masaya ilk yaklaşıldığında ev sahibine yönelinmesinin asıl sebebi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Hesabı onun ödeyecek olması",
+          "rationale": "Hesap ödemesi servis sırasını belirleyen teknik neden değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ev sahibinin diğer misafirler için de sipariş verebilme ihtimali",
+          "rationale": "Dokümanda bu kuralın gerekçesi açıkça böyle belirtilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ev sahibinin daha aç olması",
+          "rationale": "Açlık durumu bilinemez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menüyü sadece onun bilmesi",
+          "rationale": "Menü herkese verilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Organizasyonu düzenleyen kişi, konuklarının seçimlerini önceden belirlemiş olabilir."
+    },
+    {
+      "questionNumber": 37,
+      "question": "6 kişiden az misafirin bulunduğu bir masada sipariş alınmaya kimlerden başlanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Erkeklerden",
+          "rationale": "Erkeklere öncelik verilmez.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ev sahibinden",
+          "rationale": "Ev sahibine yönelinir ancak siparişi bireysel vereceklerse kadın ve çocuklar öndedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bayan ve çocuklardan",
+          "rationale": "Küçük masalarda sipariş önceliği bayan ve çocuklardadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gelişigüzel alınır",
+          "rationale": "Serviste rastgelelik yoktur, protokol uygulanır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pozitif ayrımcılık gereği öncelik tanınan gruplardır."
+    },
+    {
+      "questionNumber": 38,
+      "question": "6 kişiden fazla olan ve masada yaşlı bir kadın bulunan bir grupta sipariş alma sırası nasıl olur?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Yaşlı erkekle başlanır, saat yönünün tersine gidilir",
+          "rationale": "Hem cinsiyet hem de yön yanlıştır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Yaşlı kadınla başlanır ve saat yönünde sıradan devam edilir",
+          "rationale": "Dokümanda kalabalık masalarda yaşlı kadın varsa onunla başlanıp saat yönünde devam edileceği yazmaktadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ev sahibinden başlanır",
+          "rationale": "Yaşlı kadın önceliği devralır.",
+          "isCorrect": false
+        },
+        {
+          "text": "En çok sipariş verecek olandan başlanır",
+          "rationale": "Sipariş miktarı bilinmez ve kuralı belirlemez.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Masanın en kıdemli hanımefendisi başlangıç noktası seçilir ve düzenli bir dairesel akış izlenir."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Daha kalabalık masalarda herkes kendisi sipariş verecekse sipariş alma sırası nereden başlar ve hangi yönde ilerler?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Ev sahibinin solundan, saat yönünde",
+          "rationale": "Yön ve başlangıç hatalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ev sahibinden başlar, rastgele devam eder",
+          "rationale": "Rastgelelik servis kurallarına aykırıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ev sahibinin sağındaki misafirden başlanarak saat yönünün tersine",
+          "rationale": "Dokümana göre herkes kendi sipariş verecekse bu sıra izlenir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kapıya en yakın kişiden başlar",
+          "rationale": "Masa konumu kapıya göre değil ev sahibine göre belirlenir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bu düzenleme, saygı gereği ev sahibini sona bırakacak şekilde konumlandırılmıştır."
+    },
+    {
+      "questionNumber": 40,
+      "question": "Çok kalabalık masalarda siparişler bireysel alınırken en son kimin siparişi alınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "En genç kişinin",
+          "rationale": "Yaş bu durumda son belirleyici değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kadınların",
+          "rationale": "Kadınlar önceliklidir, sona kalmazlar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Personelin kendi seçimi",
+          "rationale": "Personel kendi karar vermez, kural uygulanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ev sahibinin",
+          "rationale": "Ev sahibinin sağından başlanıp tur tamamlanarak en son ev sahibinin siparişi alınır.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Davet sahibi, misafirlerinin tüm ihtiyaçlarının karşılandığından emin olduktan sonra kendi tercihini belirtir."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Sipariş almak için masaya girme vakti geldiğini nasıl anlarsınız?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Masadakiler menüleri kapattığında veya yardıma ihtiyacı hissettiğiniz anda",
+          "rationale": "Misafirin hazır olduğu veya yardıma ihtiyacı olduğu an masaya girilir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Menü verildikten tam 5 dakika sonra",
+          "rationale": "Sabit bir süre kuralı yoktur, gözlem önemlidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutfak müsait olduğunda",
+          "rationale": "Mutfak durumuna göre değil misafir durumuna göre sipariş alınır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Diğer masaların siparişi bittiğinde",
+          "rationale": "Her masanın kendi süreci vardır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Misafirlerin beden dilleri ve menüyle ilgilenmeleri size ipucu verecektir."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Sipariş almaya gittiğinizde duruşunuz neyi ifade etmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Çok yorgun olduğunuzu",
+          "rationale": "Yorgunluk yansıtılmamalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menüye tam hakim olduğunuzu",
+          "rationale": "Duruşunuz menüyü ve içeriğini bildiğinizi kanıtlamalıdır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Acele ettiğinizi",
+          "rationale": "Misafir strese sokulmamalıdır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sohbet etmek istediğinizi",
+          "rationale": "Samimiyet sınırı korunmalı, aşırı sohbete girilmemelidir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Müşteri sorular sorduğunda tereddüt etmeyeceğinizi, güvenilir bir kaynak olduğunuzu göstermelisiniz."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Eğer misafirin seçim yaparken yardıma ihtiyacı varsa nasıl davranılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "İlgisiz kalıp karar vermesini beklemek",
+          "rationale": "Bu kötü bir hizmet örneğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kararı onun yerine vermek",
+          "rationale": "Sadece tavsiye verilir, karar misafirindir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Şevkli şekilde bilgi verip tavsiyede bulunmak",
+          "rationale": "Dokümanda personelin şevkle bilgi vermesi ve tavsiye yapması gerektiği yazar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Menüyü geri almak",
+          "rationale": "Menü seçimi kolaylaştırmak için onlarda kalmalıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İstekli ve yardımsever bir tavırla seçenekler detaylandırılmalıdır."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Tavsiye verirken misafire karşı dürüst olunmalıdır, ancak bunu yaparken ne yapılmamalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Pahalı ürünleri önermek",
+          "rationale": "Pahalı ürün önermek her zaman yasak değil ama zorlanmamalıdır, asıl kural kötülememektir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menüyü kötülemek",
+          "rationale": "Bir yemeği satmak veya yönlendirmek için diğer yemekler veya işletme menüsü asla kötülenmemelidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "İçerik hakkında bilgi vermek",
+          "rationale": "İçerik bilgisi vermek dürüstlüğün gereğidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fiyatlardan bahsetmek",
+          "rationale": "Gerekirse bahsedilebilir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Bir seçeneği övmek için diğer seçenekleri değersiz göstermek işletme imajına zarar verir."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Siparişleri alırken yapılan çok büyük bir yanlış nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Siparişleri aşırı ayrıntılı yazmak",
+          "rationale": "Ayrıntılı yazmak yanlış değil aksine gerekliliktir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Siparişleri masada yazmadan, masadan ayrılıp akılda tutarak dönüşte yazmayı düşünmek",
+          "rationale": "Bu unutkanlığa ve karışıklığa yol açan büyük bir hatadır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Siparişleri tekrar ederek onaylatmak",
+          "rationale": "Onaylatmak doğru bir uygulamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Marşlanacak yemekleri işaretlemek",
+          "rationale": "Bu yapılması gereken bir kuraldır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "İnsan hafızası restoran gibi dinamik ortamlarda güvenilir değildir."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Dönüşte yazmayı düşünerek masadan ayrıldığınızda karşılaşabileceğiniz en büyük risk nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Kaleminizin bitmesi",
+          "rationale": "Fiziksel bir sorundur ancak ana risk bu değildir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşterinin mekanı terk etmesi",
+          "rationale": "Müşteri sipariş verdikten sonra kalkmaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bir başka misafir bir şey isterse önceki siparişi unutmak",
+          "rationale": "Dokümanda bu risk açıkça ifade edilmiştir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mutfağın siparişi kabul etmemesi",
+          "rationale": "Mutfak her yazılı siparişi işler, sorun yazılmamasındadır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Yeni bir uyaran veya talep, aklınızda tuttuğunuz ilk bilgiyi silmenize yol açabilir."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Siparişleri alırken detayları doğru kişilere servis edebilmek için misafirlere ne uygulanmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Renk kodları vermek",
+          "rationale": "Renk kodlaması değil numara kullanılır.",
+          "isCorrect": false
+        },
+        {
+          "text": "İsimlerini sormak",
+          "rationale": "Herkesin adını akılda tutmak zordur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mutlaka numara vermek",
+          "rationale": "Masadaki sandalyelere/kişilere (zihnen) numara verilerek kimin ne yiyeceği belirlenir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fotoğraflarını çekmek",
+          "rationale": "Bu müşteri gizliliğine aykırıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Sistematik bir sıra oluşturarak 'kim ne istemişti' karmaşasını çözen yöntemdir."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Siparişleri yazarken adisyon üzerinde özellikle yapılması gereken işlem nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Tüm kelimeleri büyük harfle yazmak",
+          "rationale": "Harf büyüklüğü ile ilgili kural yoktur.",
+          "isCorrect": false
+        },
+        {
+          "text": "Marşlanacak (hemen hazırlanmaya başlanacak) yemekleri işaretlemek",
+          "rationale": "Mutfağın öncelik sırasını belirlemek için bu işaretleme şarttır.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fiyatları yanlarına büyük yazmak",
+          "rationale": "Fiyatlar sistemden çıkar, elde yazılan adisyonda öncelik sıralamadır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşterinin imzasını almak",
+          "rationale": "Sipariş adisyonuna imza alınmaz.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Mutfağa hangi yemeğin hazırlığına öncelik vermesi gerektiğini belirten bir koddur."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Restoran rezervasyonu için 'Opsiyon Durumu' bilgisinin alınması neden önemlidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Masanın kaç saat boş kalacağını hesaplamak için",
+          "rationale": "Opsiyon daha çok gelmeme durumuna karşı konan süredir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menüdeki opsiyonel yemeklerin hazırlanması için",
+          "rationale": "Opsiyon durumu menüyle değil rezervasyonun kesinliğiyle ilgilidir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rezervasyonun kesinleşme ihtimalini veya iptal edilme esnekliğini bilmek için",
+          "rationale": "Opsiyon, masanın başka bir müşteriye verilip verilmeyeceğini belirleyen tolerans/bekleme süresidir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Müşterinin bahşiş verme opsiyonunu bilmek için",
+          "rationale": "Bahşiş önceden sorgulanan bir şey değildir.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Eğer misafir belirtilen sürede gelmezse veya onay vermezse, masanın başka müşterilere satılabilmesi için bu bilgi şarttır."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Aşağıdakilerden hangisi servis sırasında baştan sona korunması gereken en temel tutumu özetler?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "Dürüstlük, hakimiyet ve misafire külfet değil mutluluk hissi vermek",
+          "rationale": "Dokümanın geneline yayılan mesaj profesyonel hakimiyet, dürüstlük ve misafiri ağırlamaktan duyulan memnuniyettir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sürekli satış odaklı olup en yüksek hesabı çıkarmak",
+          "rationale": "Dokümanda bu net bir şekilde reddedilmektedir.",
+          "isCorrect": false
+        },
+        {
+          "text": "Müşteriyle samimi olup kuralları esnetmek",
+          "rationale": "Nezaket vardır ancak kurallar(protokoller) esnetilmez, sırayla uygulanır.",
+          "isCorrect": false
+        },
+        {
+          "text": "Siparişleri mümkün olan en hızlı şekilde alıp masadan ayrılmak",
+          "rationale": "Misafire zaman tanınmalı, aceleci davranılmamalıdır.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Servis personeli sadece yemek taşıyan kişi değil, güven veren bir rehber ve ev sahibidir."
+    }
+  ]
+}

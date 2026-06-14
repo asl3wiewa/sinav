@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Temizlik süresini etkileyen 'işgörenden kaynaklanan faktörler'den biri hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kullanılan kimyasal", "rationale": "Araç-gereç faktörüdür.", "isCorrect": false },
+        { "text": "Zeminin türü", "rationale": "Yüzey faktörüdür.", "isCorrect": false },
+        { "text": "İşgörenin yaşı", "rationale": "Fiziksel güç yaşla bağlantılı olup işgören faktörüdür.", "isCorrect": true },
+        { "text": "Aydınlatma durumu", "rationale": "Çalışma koşulları faktörüdür.", "isCorrect": false },
+        { "text": "Eşya yoğunluğu", "rationale": "Alan faktörüdür.", "isCorrect": false }
+      ],
+      "hint": "Personelin kişisel bir özelliğidir."
+    },
+    {
+      "questionNumber": 2,
+      "question": "Oda temizlik süresini etkileyen 'yüzey faktörleri'ne hangisi örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşgören motivasyonu", "rationale": "İşgören faktörüdür.", "isCorrect": false },
+        { "text": "Eşyaların kalitesi", "rationale": "Dekorasyonun niteliği temizlik süresini değiştiren yüzey/alan faktörüdür.", "isCorrect": true },
+        { "text": "Gürültü", "rationale": "Çalışma koşulu faktörüdür.", "isCorrect": false },
+        { "text": "Personel eğitimi", "rationale": "İşgören faktörüdür.", "isCorrect": false },
+        { "text": "Havalandırma", "rationale": "Çalışma koşuludur.", "isCorrect": false }
+      ],
+      "hint": "Temizlenecek materyalin kendi yapısıyla ilgilidir."
+    },
+    {
+      "questionNumber": 3,
+      "question": "Oda yapım süresi hesaplanırken 'gecikme payı' standart olarak yüzde kaçtır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "%5", "rationale": "Çok düşüktür.", "isCorrect": false },
+        { "text": "%10", "rationale": "Yetersiz bir orandır.", "isCorrect": false },
+        { "text": "%15", "rationale": "Standart kabul edilmez.", "isCorrect": false },
+        { "text": "%20", "rationale": "Gözlem ve kişisel molalar için standart %20 eklenir.", "isCorrect": true },
+        { "text": "%25", "rationale": "Optimum seviyenin üstündedir.", "isCorrect": false }
+      ],
+      "hint": "Sürenin beşte biri kadardır."
+    },
+    {
+      "questionNumber": 4,
+      "question": "Net çalışma süresi nasıl bulunur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Toplam süreden gecikme payı çıkarılır", "rationale": "Gecikme payı eklenir, çıkarılmaz.", "isCorrect": false },
+        { "text": "Toplam çalışma süresinden molalar çıkarılır", "rationale": "Dinlenme ve yemek molaları toplam süreden düşülerek net süre bulunur.", "isCorrect": true },
+        { "text": "Oda sayısı süreye bölünür", "rationale": "Bu verimliliği verir.", "isCorrect": false },
+        { "text": "Molalar toplam süreye eklenir", "rationale": "Eklenmez, net süreyi azaltır.", "isCorrect": false },
+        { "text": "Gecikme payı ikiyle çarpılır", "rationale": "Böyle bir formül yoktur.", "isCorrect": false }
+      ],
+      "hint": "Personelin çalışmadığı zaman dilimleri hesaptan düşülür."
+    },
+    {
+      "questionNumber": 5,
+      "question": "Gecikme payının içinde hangisi yer almaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kişisel ihtiyaçlar", "rationale": "Gecikme payına dahildir.", "isCorrect": false },
+        { "text": "Yorgunluk", "rationale": "Gecikme payına dahildir.", "isCorrect": false },
+        { "text": "Öğle yemeği molası", "rationale": "Öğle yemeği standart moladır, gecikme payı içinde değil dinlenme süresinde hesaplanır.", "isCorrect": true },
+        { "text": "Araç gereç gecikmesi", "rationale": "Gecikme payına dahildir.", "isCorrect": false },
+        { "text": "Yavaşlama", "rationale": "Gecikme payına dahildir.", "isCorrect": false }
+      ],
+      "hint": "Günlük planda yeri önceden tam olarak belli olan uzun aradır."
+    },
+    {
+      "questionNumber": 6,
+      "question": "Oda süresi belirlemede 'çalışma koşullarından' sayılan faktör hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Zemin türü", "rationale": "Yüzey faktörüdür.", "isCorrect": false },
+        { "text": "Hava sıcaklığı", "rationale": "Sıcak veya soğuk hava, personeli etkileyen çalışma ortamı koşuludur.", "isCorrect": true },
+        { "text": "Personel yaşı", "rationale": "İşgören faktörüdür.", "isCorrect": false },
+        { "text": "Oda boyutu", "rationale": "Alan faktörüdür.", "isCorrect": false },
+        { "text": "Kullanılan süpürge", "rationale": "Araç-gereç faktörüdür.", "isCorrect": false }
+      ],
+      "hint": "Ortamın fiziksel durumuyla (iklim/ısı) ilgilidir."
+    },
+    {
+      "questionNumber": 7,
+      "question": "Peyzajda farklı doku veya renklerin bir arada kullanılması hangi ilkedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uyum", "rationale": "Benzerliktir.", "isCorrect": false },
+        { "text": "Ayıklama", "rationale": "Temizlemedir.", "isCorrect": false },
+        { "text": "Zıtlık", "rationale": "Kontrast yaratmak zıtlık ilkesidir.", "isCorrect": true },
+        { "text": "Fonksiyonellik", "rationale": "İşlevsellik ilkesidir.", "isCorrect": false },
+        { "text": "Ekonomiklik", "rationale": "Maliyetle ilgilidir.", "isCorrect": false }
+      ],
+      "hint": "Siyah ve beyazın bir aradalığı gibidir."
+    },
+    {
+      "questionNumber": 8,
+      "question": "Peyzajda kurumuş yaprakların ve kötü saksıların gizlenmesi/atılması işlemine ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uyum", "rationale": "Benzerlik oluşturmaktır.", "isCorrect": false },
+        { "text": "Ayıklama", "rationale": "Kötü görüntüleri uzaklaştırma işlemidir.", "isCorrect": true },
+        { "text": "Vurgu", "rationale": "Dikkat çekmektir.", "isCorrect": false },
+        { "text": "Orantı", "rationale": "Ölçülerin dengesidir.", "isCorrect": false },
+        { "text": "Zıtlık", "rationale": "Kontrasttır.", "isCorrect": false }
+      ],
+      "hint": "İstenmeyenleri seçip çıkarma eylemidir."
+    },
+    {
+      "questionNumber": 9,
+      "question": "Ahşap ağırlıklı bir otele doğal bitkiler seçilmesi hangi ilkeyi açıklar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Vurgu", "rationale": "Öne çıkarmaktır.", "isCorrect": false },
+        { "text": "Zıtlık", "rationale": "Farklılıktır.", "isCorrect": false },
+        { "text": "Uyum", "rationale": "Çevreyle obje arasındaki ahenk uyumdur.", "isCorrect": true },
+        { "text": "Fonksiyonellik", "rationale": "İşe yararlıktır.", "isCorrect": false },
+        { "text": "Ayıklama", "rationale": "Kusurları gizlemektir.", "isCorrect": false }
+      ],
+      "hint": "Ortama adapte olma ve benzerlik sağlama durumudur."
+    },
+    {
+      "questionNumber": 10,
+      "question": "Peyzajda objelerin birbirine göre veya çevreye göre büyüklük/küçüklük ilişkisine ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Orantı", "rationale": "Ölçü ve boyutların birbiriyle uyumu orantıdır.", "isCorrect": true },
+        { "text": "Odak noktası", "rationale": "Dikkat merkezidir.", "isCorrect": false },
+        { "text": "Ritim", "rationale": "Tekrarlanan harekettir.", "isCorrect": false },
+        { "text": "Ayıklama", "rationale": "Temizlemedir.", "isCorrect": false },
+        { "text": "Uyum", "rationale": "Renk/şekil benzerliğidir.", "isCorrect": false }
+      ],
+      "hint": "Boyutların ve hacimlerin kıyaslanmasıdır."
+    },
+    {
+      "questionNumber": 11,
+      "question": "Mekanda dikkati belli bir alana çekmek için kurulan ana kompozisyona ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ritim", "rationale": "Akıcılıktır.", "isCorrect": false },
+        { "text": "Orantı", "rationale": "Boyut ilişkisidir.", "isCorrect": false },
+        { "text": "Odak Noktası (Vurgu)", "rationale": "İlginin toplandığı ana merkezdir.", "isCorrect": true },
+        { "text": "Ayıklama", "rationale": "Gizleme eylemidir.", "isCorrect": false },
+        { "text": "Ekonomiklik", "rationale": "Maliyet tasarrufudur.", "isCorrect": false }
+      ],
+      "hint": "Gözün ilk takıldığı ve dikkat kesildiği yerdir."
+    },
+    {
+      "questionNumber": 12,
+      "question": "Çiçek düzenlemelerinde açık renkli çiçekler nereye yerleştirilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Orta kısma", "rationale": "Orta kısma orta tonlar konur.", "isCorrect": false },
+        { "text": "Alt kısma", "rationale": "Alta koyu renkler konur.", "isCorrect": false },
+        { "text": "Üst kısma", "rationale": "Görsel denge için açık renkler üstte olmalıdır.", "isCorrect": true },
+        { "text": "Sadece sağa", "rationale": "Böyle bir kural yoktur.", "isCorrect": false },
+        { "text": "Vazonun dibine", "rationale": "Yanlış bir uygulamadır.", "isCorrect": false }
+      ],
+      "hint": "Ağırlık hissini dengelemek için hafif olanlar tepeye konur."
+    },
+    {
+      "questionNumber": 13,
+      "question": "Masa çiçek düzenlemelerinde en önemli kural hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çok yüksek olması", "rationale": "Yüksek olması iletişimi keser.", "isCorrect": false },
+        { "text": "Görüş açısını engellememesi", "rationale": "Karşılıklı oturanların birbirini görmesini kesmemelidir.", "isCorrect": true },
+        { "text": "Koyu renkli olması", "rationale": "Sadece koyu renk kuralı yoktur.", "isCorrect": false },
+        { "text": "Vazonun çiçekten renkli olması", "rationale": "Vazo sade olmalıdır.", "isCorrect": false },
+        { "text": "Plastik olması", "rationale": "Canlı çiçek tercih edilir.", "isCorrect": false }
+      ],
+      "hint": "İnsanların birbirleriyle konuşmasını zorlaştırmamalıdır."
+    },
+    {
+      "questionNumber": 14,
+      "question": "Çiçek vazolara konulurken vazonun özelliği nasıl olmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çiçekten daha ilgi çekici olmalı", "rationale": "İlgi çiçekte kalmalıdır.", "isCorrect": false },
+        { "text": "Çiçeği gölgede bırakacak kadar renkli olmalı", "rationale": "Vazo sade olmalıdır.", "isCorrect": false },
+        { "text": "Sade ve çiçeği öne çıkaran yapıda olmalı", "rationale": "Odak bitkide kalmalı, taşıyıcı sade olmalıdır.", "isCorrect": true },
+        { "text": "Çok büyük olmalı", "rationale": "Orantısızlık yaratır.", "isCorrect": false },
+        { "text": "Sadece cam olmalı", "rationale": "Seramik vs. de olabilir.", "isCorrect": false }
+      ],
+      "hint": "Asıl yıldızın bitki olması sağlanmalıdır."
+    },
+    {
+      "questionNumber": 15,
+      "question": "Peyzajda çok bakım istemeyen, maliyeti düşük bitkilerin seçilmesi hangi ilkedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uyum", "rationale": "Görsel bir etkidir.", "isCorrect": false },
+        { "text": "Fonksiyonellik", "rationale": "İşlevselliktir.", "isCorrect": false },
+        { "text": "Ekonomiklik", "rationale": "Maliyet tasarrufu sağlaması ekonomiklik ilkesidir.", "isCorrect": true },
+        { "text": "Orantı", "rationale": "Boyutla ilgilidir.", "isCorrect": false },
+        { "text": "Zıtlık", "rationale": "Farklılıktır.", "isCorrect": false }
+      ],
+      "hint": "Bütçe ve masrafla doğrudan alakalıdır."
+    },
+    {
+      "questionNumber": 16,
+      "question": "Oda dekorasyonunda yataklar odaya nasıl yerleştirilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Pencereye dik", "rationale": "Tercih edilmez.", "isCorrect": false },
+        { "text": "Kapıya dönük", "rationale": "Mahremiyeti bozar.", "isCorrect": false },
+        { "text": "Odanın ortasına", "rationale": "Alanı daraltır.", "isCorrect": false },
+        { "text": "Pencereye paralel", "rationale": "Doğal ışıktan faydalanmak için paralel yerleştirilir.", "isCorrect": true },
+        { "text": "Gardıroba yaslanarak", "rationale": "Kullanımı engeller.", "isCorrect": false }
+      ],
+      "hint": "Işığın yatağa yatay gelmesini sağlayan açıdır."
+    },
+    {
+      "questionNumber": 17,
+      "question": "Otel odalarındaki gardıroplarda asgari kaç adet askı bulunmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "2", "rationale": "Yetersizdir.", "isCorrect": false },
+        { "text": "4", "rationale": "Standardın altındadır.", "isCorrect": false },
+        { "text": "6", "rationale": "Standart donanım gereği en az 6 askı şarttır.", "isCorrect": true },
+        { "text": "10", "rationale": "Lüks odalarda olabilir ama asgari şart değildir.", "isCorrect": false },
+        { "text": "12", "rationale": "Çok yüksektir.", "isCorrect": false }
+      ],
+      "hint": "Yarım düzine sayısına denktir."
+    },
+    {
+      "questionNumber": 18,
+      "question": "Oda dekorasyonunda görsel kirliliği önlemek için hangisi mobilyayla gizlenir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Prizler", "rationale": "Erişilebilir olmalıdır.", "isCorrect": false },
+        { "text": "Makyaj masası", "rationale": "Gizlenmez, aydınlatılır.", "isCorrect": false },
+        { "text": "Kalorifer petekleri", "rationale": "Isıtma/havalandırma tesisatları ahşap/hasırla gizlenir.", "isCorrect": true },
+        { "text": "Koltuklar", "rationale": "Kullanım için açıktadır.", "isCorrect": false },
+        { "text": "Televizyon", "rationale": "Görünür olmalıdır.", "isCorrect": false }
+      ],
+      "hint": "Isınmayı sağlayan donanımdır."
+    },
+    {
+      "questionNumber": 19,
+      "question": "Odada aynalar hangi amaçla kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Odayı dar göstermek", "rationale": "Tam tersi geniş gösterir.", "isCorrect": false },
+        { "text": "Isıyı artırmak", "rationale": "Aynanın ısıya etkisi yoktur.", "isCorrect": false },
+        { "text": "Karanlık yaratmak", "rationale": "Işığı yansıtarak aydınlatır.", "isCorrect": false },
+        { "text": "Odayı geniş ve derin göstermek", "rationale": "Aynalar mekanın hacmini görsel olarak büyütür.", "isCorrect": true },
+        { "text": "Sesi yalıtmak", "rationale": "Ses yalıtımı yapmaz.", "isCorrect": false }
+      ],
+      "hint": "Küçük alanlarda optik bir illüzyon yaratır."
+    },
+    {
+      "questionNumber": 20,
+      "question": "Odaların aydınlatmasında dinlendirici bir ortam için hangi ışık tercih edilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Parlak florasan", "rationale": "Göz yorar.", "isCorrect": false },
+        { "text": "Çok güçlü beyaz ışık", "rationale": "Huzursuzluk verebilir.", "isCorrect": false },
+        { "text": "Sarımsı, loş ve dolaylı ışık", "rationale": "Sıcak renkler ve dolaylı aydınlatma dinlendiricidir.", "isCorrect": true },
+        { "text": "Mavi neon", "rationale": "Dinlenmeye uygun değildir.", "isCorrect": false },
+        { "text": "Kırmızı lazer", "rationale": "Otel odasında kullanılmaz.", "isCorrect": false }
+      ],
+      "hint": "Sıcak bir ton olan gün ışığı rengidir."
+    },
+    {
+      "questionNumber": 21,
+      "question": "İşin nasıl yapılacağını saptamak için işin detaylıca incelenmesi sürecine ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş tanımı", "rationale": "Görev listesidir.", "isCorrect": false },
+        { "text": "İş analizi", "rationale": "Mevcut durumun ve işin çevresinin incelenmesi sürecidir.", "isCorrect": true },
+        { "text": "İş gerekleri", "rationale": "Personel şartlarıdır.", "isCorrect": false },
+        { "text": "Performans", "rationale": "Başarı ölçümüdür.", "isCorrect": false },
+        { "text": "Bütçeleme", "rationale": "Mali plandır.", "isCorrect": false }
+      ],
+      "hint": "Bir durumu tüm detaylarıyla araştırma eylemidir."
+    },
+    {
+      "questionNumber": 22,
+      "question": "İşletmede çalışacak personelde bulunması gereken 'eğitim, deneyim' gibi şartlara ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş analizi", "rationale": "Durum incelemesidir.", "isCorrect": false },
+        { "text": "İş gerekleri", "rationale": "Personelde aranan nitelikler (gerekler) listesidir.", "isCorrect": true },
+        { "text": "İş tanımı", "rationale": "Görev listesidir.", "isCorrect": false },
+        { "text": "Oryantasyon", "rationale": "Eğitimdir.", "isCorrect": false },
+        { "text": "Rotasyon", "rationale": "Yer değiştirmedir.", "isCorrect": false }
+      ],
+      "hint": "İşi yapmak için 'gereken' kişi nitelikleridir."
+    },
+    {
+      "questionNumber": 23,
+      "question": "Çalışanların yetki ve sorumluluklarını liste halinde açıklayan yazılı belgeye ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş tanımı", "rationale": "İşin ne olduğunun ve sınırlarının tarif edildiği belgedir.", "isCorrect": true },
+        { "text": "İş basitleştirme", "rationale": "İşi kolaylaştırma yöntemidir.", "isCorrect": false },
+        { "text": "İş gerekleri", "rationale": "Personel şartlarıdır.", "isCorrect": false },
+        { "text": "Rotasyon", "rationale": "Yer değiştirmedir.", "isCorrect": false },
+        { "text": "Performans", "rationale": "Değerlendirme sonucudur.", "isCorrect": false }
+      ],
+      "hint": "Görevlerin tarif edildiği formdur."
+    },
+    {
+      "questionNumber": 24,
+      "question": "Mevcut işin en kolay ve pratik yolla yapılmasını sağlayan düzenlemelere ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş analizi", "rationale": "İncelemedir.", "isCorrect": false },
+        { "text": "İş zenginleştirme", "rationale": "Ek sorumluluk vermektir.", "isCorrect": false },
+        { "text": "İş basitleştirme", "rationale": "Gereksiz adımları atarak işi pratik hale getirmektir.", "isCorrect": true },
+        { "text": "Transfer", "rationale": "Personel kaydırmadır.", "isCorrect": false },
+        { "text": "Terfi", "rationale": "Yükselmedir.", "isCorrect": false }
+      ],
+      "hint": "Zor olanı kolaya çevirme eylemidir."
+    },
+    {
+      "questionNumber": 25,
+      "question": "Otel katlarına 'çamaşır şutu (borusu)' kurulması hangi İK uygulamasına örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Rotasyon", "rationale": "Değişimdir.", "isCorrect": false },
+        { "text": "Oryantasyon", "rationale": "Alıştırmadır.", "isCorrect": false },
+        { "text": "İş basitleştirme", "rationale": "Asansör bekleme işini bitirerek işi pratikleştirir.", "isCorrect": true },
+        { "text": "Transfer", "rationale": "Yatay geçiştir.", "isCorrect": false },
+        { "text": "İş gerekleri", "rationale": "Kişisel özelliklerdir.", "isCorrect": false }
+      ],
+      "hint": "Gereksiz zaman kaybını önleyen kolaylaştırma yöntemidir."
+    },
+    {
+      "questionNumber": 26,
+      "question": "Aynı seviyedeki bir personelin başka bir departmanda aynı düzeydeki işe kaydırılmasına ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Terfi", "rationale": "Yukarı çıkıştır.", "isCorrect": false },
+        { "text": "Transfer", "rationale": "Yatay düzeyde yer değiştirme atamasıdır.", "isCorrect": true },
+        { "text": "İş zenginleştirme", "rationale": "Sorumluluk eklemedir.", "isCorrect": false },
+        { "text": "İşten çıkarma", "rationale": "İlişik kesmedir.", "isCorrect": false },
+        { "text": "Oryantasyon", "rationale": "Eğitimdir.", "isCorrect": false }
+      ],
+      "hint": "Sporda da kullanılan yatay geçiş terimidir."
+    },
+    {
+      "questionNumber": 27,
+      "question": "Başarılı bir çalışanın daha üst düzey bir pozisyona getirilmesi işlemidir:",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Transfer", "rationale": "Aynı seviyedir.", "isCorrect": false },
+        { "text": "Terfi", "rationale": "Hiyerarşik olarak yükselmedir.", "isCorrect": true },
+        { "text": "Rotasyon", "rationale": "Sistematik geçici yer değiştirmedir.", "isCorrect": false },
+        { "text": "İş basitleştirme", "rationale": "Yöntemdir.", "isCorrect": false },
+        { "text": "Oryantasyon", "rationale": "Alıştırmadır.", "isCorrect": false }
+      ],
+      "hint": "Makam veya rütbe atlama durumudur."
+    },
+    {
+      "questionNumber": 28,
+      "question": "Aşağıdakilerden hangisi 'işletme dışı' personel temin kaynağıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Terfi", "rationale": "İç kaynaktır.", "isCorrect": false },
+        { "text": "Transfer", "rationale": "İç kaynaktır.", "isCorrect": false },
+        { "text": "Rotasyon", "rationale": "İç kaynaktır.", "isCorrect": false },
+        { "text": "Eğitim Kurumları", "rationale": "Dışarıdan yeni mezun bulma kaynağıdır.", "isCorrect": true },
+        { "text": "İlan asma (şirket içi)", "rationale": "İç kaynaktır.", "isCorrect": false }
+      ],
+      "hint": "Okullar ve üniversiteler bu gruba girer."
+    },
+    {
+      "questionNumber": 29,
+      "question": "İşe yeni alınan çalışana kurum kültürünü ve kurallarını öğretmek için verilen eğitime ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Performans", "rationale": "Ölçümdür.", "isCorrect": false },
+        { "text": "Rotasyon", "rationale": "Yer değiştirmedir.", "isCorrect": false },
+        { "text": "Oryantasyon (İşe Alıştırma)", "rationale": "Yeni personelin adaptasyon sürecidir.", "isCorrect": true },
+        { "text": "İş basitleştirme", "rationale": "Süreç yönetimidir.", "isCorrect": false },
+        { "text": "İş analizi", "rationale": "Mevcut durum tespiti.", "isCorrect": false }
+      ],
+      "hint": "Yabancı kökenli bir kelime olup 'yönlendirme' anlamındadır."
+    },
+    {
+      "questionNumber": 30,
+      "question": "Oryantasyon eğitiminin amacı aşağıdakilerden hangisi değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kurum kültürünü aşılamak", "rationale": "Temel amaçlardandır.", "isCorrect": false },
+        { "text": "Çalışanı iş arkadaşlarıyla kaynaştırmak", "rationale": "Amacıdır.", "isCorrect": false },
+        { "text": "Güvenlik kurallarını öğretmek", "rationale": "Önemli bir parçasıdır.", "isCorrect": false },
+        { "text": "Personelin maaşını düşürmek", "rationale": "Eğitimin ücret düşürmeyle ilgisi yoktur.", "isCorrect": true },
+        { "text": "İşe uyum sürecini hızlandırmak", "rationale": "Asıl hedef budur.", "isCorrect": false }
+      ],
+      "hint": "Personele zarar veren, mantıksız bir seçenektir."
+    },
+    {
+      "questionNumber": 31,
+      "question": "Hataların anında düzeltildiği, ustanın çırağa göstererek öğrettiği eğitim yöntemi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş dışı eğitim", "rationale": "Sınıfta veya konferansta verilir.", "isCorrect": false },
+        { "text": "İşbaşı eğitim", "rationale": "Doğrudan çalışma alanında ve iş yapılırken verilir.", "isCorrect": true },
+        { "text": "Performans görüşmesi", "rationale": "Ölçüm yöntemidir.", "isCorrect": false },
+        { "text": "Seminer", "rationale": "İş dışı teorik eğitimdir.", "isCorrect": false },
+        { "text": "Zenginleştirme", "rationale": "Sorumluluk artırmadır.", "isCorrect": false }
+      ],
+      "hint": "Doğal çalışma ortamında, bizzat iş uygulanırken verilir."
+    },
+    {
+      "questionNumber": 32,
+      "question": "Uzmanlar tarafından otel dışında seminer veya kurslarla verilen vizyon geliştirici eğitimlere ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşbaşı eğitim", "rationale": "Sahada verilir.", "isCorrect": false },
+        { "text": "Oryantasyon", "rationale": "Yeni personele verilir.", "isCorrect": false },
+        { "text": "İş dışı eğitim", "rationale": "Çalışma ortamından koparılarak vizyon kazandırmak için verilir.", "isCorrect": true },
+        { "text": "Rotasyon", "rationale": "Bölüm değiştirmedir.", "isCorrect": false },
+        { "text": "İş basitleştirme", "rationale": "Uygulama yöntemidir.", "isCorrect": false }
+      ],
+      "hint": "Fiziksel olarak otel dışında veya konferans salonunda yapılır."
+    },
+    {
+      "questionNumber": 33,
+      "question": "Bir yöneticinin, çalışanın verimini ve başarısını ölçüp terfi/zam kararı alırken kullandığı sisteme ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Performans değerlendirme", "rationale": "Başarıyı ve eksikleri objektif olarak ölçme sistemidir.", "isCorrect": true },
+        { "text": "İş tanımı", "rationale": "Görev listesidir.", "isCorrect": false },
+        { "text": "Oryantasyon", "rationale": "Alıştırmadır.", "isCorrect": false },
+        { "text": "İş analizi", "rationale": "Durum tespiti.", "isCorrect": false },
+        { "text": "İş gerekleri", "rationale": "Şartlardır.", "isCorrect": false }
+      ],
+      "hint": "Kişinin yıl içindeki çalışma karnesidir."
+    },
+    {
+      "questionNumber": 34,
+      "question": "Gelecek dönemdeki gelir ve gider tahminlerini gösteren rakamsal plana ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İş analizi", "rationale": "Fiziki bir incelemedir.", "isCorrect": false },
+        { "text": "Bilanço", "rationale": "Geçmiş dönemin fotoğrafıdır.", "isCorrect": false },
+        { "text": "Bütçe", "rationale": "Gelecek vizyonunu rakamlarla anlatan mali plandır.", "isCorrect": true },
+        { "text": "Performans", "rationale": "Kişisel ölçümdür.", "isCorrect": false },
+        { "text": "Peyzaj", "rationale": "Çevre düzenlemesidir.", "isCorrect": false }
+      ],
+      "hint": "Hükümetlerin de her yıl meclisten geçirdiği mali çizelgedir."
+    },
+    {
+      "questionNumber": 35,
+      "question": "İşletmenin 5 yıl veya daha uzun süreli hedeflerini kapsayan geniş planlı bütçelere ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Nakit bütçesi", "rationale": "Anlık likiditedir.", "isCorrect": false },
+        { "text": "Departman bütçesi", "rationale": "Bölüm bazlı kısa sürelidir.", "isCorrect": false },
+        { "text": "Stratejik bütçe (plan)", "rationale": "Uzun vadeli şirket vizyonunu yansıtır.", "isCorrect": true },
+        { "text": "Sermaye bütçesi", "rationale": "Büyük yatırımlar içindir.", "isCorrect": false },
+        { "text": "Sabit bütçe", "rationale": "Gider türüyle ilgilidir.", "isCorrect": false }
+      ],
+      "hint": "Geniş vizyonlu ve askeri kökenli bir kelimedir."
+    },
+    {
+      "questionNumber": 36,
+      "question": "Büyük donanım (yeni çamaşır makineleri, bina tadilatı) alımları için hazırlanan bütçe türü hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Stratejik plan", "rationale": "Genel hedeflerdir.", "isCorrect": false },
+        { "text": "Sermaye bütçesi", "rationale": "Pahalı ve kalıcı yatırımlar için hazırlanır.", "isCorrect": true },
+        { "text": "Departman bütçesi", "rationale": "Operasyoneldir.", "isCorrect": false },
+        { "text": "Nakit bütçesi", "rationale": "Günlük akıştır.", "isCorrect": false },
+        { "text": "Sabit gider bütçesi", "rationale": "Genel giderlerdir.", "isCorrect": false }
+      ],
+      "hint": "Ana malvarlığına (kapitale) yapılan harcamadır."
+    },
+    {
+      "questionNumber": 37,
+      "question": "İş hacmi ne olursa olsun her ay ödenmek zorunda olan kira, sigorta ve amortisman gibi giderlere ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Değişken giderler", "rationale": "Üretime göre değişir.", "isCorrect": false },
+        { "text": "Sabit giderler", "rationale": "Otel kapalı olsa bile değişmeyen düzenli giderlerdir.", "isCorrect": true },
+        { "text": "Yarı değişken giderler", "rationale": "Hem sabit hem değişken kısmı vardır.", "isCorrect": false },
+        { "text": "Performans gideri", "rationale": "Böyle bir terim yoktur.", "isCorrect": false },
+        { "text": "Danışmanlık gideri", "rationale": "Değişkendir.", "isCorrect": false }
+      ],
+      "hint": "Miktarı aydan aya oynamayan masraflardır."
+    },
+    {
+      "questionNumber": 38,
+      "question": "Elektrik ve su faturaları gibi belli bir kullanıma kadar sabit, kullanım arttıkça yükselen giderlere ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sabit giderler", "rationale": "Tamamı sabit değildir.", "isCorrect": false },
+        { "text": "Yarı değişken giderler", "rationale": "Kullanım miktarına göre kademeli artan giderlerdir.", "isCorrect": true },
+        { "text": "Değişken giderler", "rationale": "Tamamen iş hacmine bağlıdır.", "isCorrect": false },
+        { "text": "Stratejik giderler", "rationale": "Böyle bir sınıf yoktur.", "isCorrect": false },
+        { "text": "Personel giderleri", "rationale": "Maaşlardır.", "isCorrect": false }
+      ],
+      "hint": "İki durumu (sabitlik ve değişkenlik) bir arada barındırır."
+    },
+    {
+      "questionNumber": 39,
+      "question": "Kullanılan kimyasal madde maliyeti veya şüpheli alacaklar gibi tamamen iş hacmine bağlı değişen giderlere ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sabit giderler", "rationale": "Sabit değildir.", "isCorrect": false },
+        { "text": "Yarı değişken", "rationale": "Alt limiti yoktur.", "isCorrect": false },
+        { "text": "Değişken giderler", "rationale": "Otel doluluğuna ve iş hacmine göre artıp azalan masraflardır.", "isCorrect": true },
+        { "text": "Amortisman", "rationale": "Sabit giderdir.", "isCorrect": false },
+        { "text": "Kira", "rationale": "Sabit giderdir.", "isCorrect": false }
+      ],
+      "hint": "Sabit olmayan, duruma göre farklılık gösteren harcamalardır."
+    },
+    {
+      "questionNumber": 40,
+      "question": "İşletmede aynı işi yapan kişilere aynı ücretin ödenmesini savunan adalet prensibi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Esneklik", "rationale": "Piyasaya uyumdur.", "isCorrect": false },
+        { "text": "Açıklık", "rationale": "Anlaşılırlıktır.", "isCorrect": false },
+        { "text": "Eşitlik", "rationale": "Aynı efora aynı karşılığı verme adaletidir.", "isCorrect": true },
+        { "text": "Dengeli ücret", "rationale": "Standart korumadır.", "isCorrect": false },
+        { "text": "Uzlaşım", "rationale": "Karşılıklı anlaşmadır.", "isCorrect": false }
+      ],
+      "hint": "Ayrımcılığı reddeden haktır."
+    },
+    {
+      "questionNumber": 41,
+      "question": "Ücret sisteminin tüm çalışanlar tarafından kolayca hesaplanabilmesi ve anlaşılabilmesi ilkesi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Eşitlik", "rationale": "Adaletle ilgilidir.", "isCorrect": false },
+        { "text": "Denge", "rationale": "Bütçe korumadır.", "isCorrect": false },
+        { "text": "Açıklık", "rationale": "Gizlilik olmaması ve sistemin net olmasıdır.", "isCorrect": true },
+        { "text": "Esneklik", "rationale": "Değişime uyumdur.", "isCorrect": false },
+        { "text": "Parça başı", "rationale": "Bir ödeme sistemidir.", "isCorrect": false }
+      ],
+      "hint": "Şeffaflık ve netlik anlamına gelir."
+    },
+    {
+      "questionNumber": 42,
+      "question": "Çalışanın mesaide geçirdiği saat, gün veya aya göre hesaplanan standart ücret sistemi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Primli", "rationale": "Ekstra başarılara verilir.", "isCorrect": false },
+        { "text": "Parça başı", "rationale": "Üretime göre verilir.", "isCorrect": false },
+        { "text": "Zaman temeline dayanan", "rationale": "Sadece süreyi baz alan standart maaş sistemidir.", "isCorrect": true },
+        { "text": "Komisyon", "rationale": "Satışa göre verilir.", "isCorrect": false },
+        { "text": "Bonus", "rationale": "Ödül sistemidir.", "isCorrect": false }
+      ],
+      "hint": "Performans yerine 'mesai süresini' dikkate alır."
+    },
+    {
+      "questionNumber": 43,
+      "question": "Temizlediği oda sayısına göre veya ürettiği iş miktarına göre ödeme yapılan ücret sistemi hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Zaman temelli", "rationale": "Süreye dayalıdır.", "isCorrect": false },
+        { "text": "Primli", "rationale": "Standardı aşana verilir.", "isCorrect": false },
+        { "text": "Parça başı", "rationale": "Doğrudan üretilen parça/iş birimi üzerinden hesaplanır.", "isCorrect": true },
+        { "text": "Eşitlik", "rationale": "İlkedir.", "isCorrect": false },
+        { "text": "Açıklık", "rationale": "İlkedir.", "isCorrect": false }
+      ],
+      "hint": "Ürün başına ödeme mantığıdır."
+    },
+    {
+      "questionNumber": 44,
+      "question": "Standart bir saat ücretinin üzerine, hedefini aşan çalışana verilen ek ödeme sistemine ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Zaman temelli", "rationale": "Süreye dayalıdır.", "isCorrect": false },
+        { "text": "Primli ücret", "rationale": "Kotayı doldurana motive edici ek para verilmesidir.", "isCorrect": true },
+        { "text": "Parça başı", "rationale": "Standart saat ücreti yoktur.", "isCorrect": false },
+        { "text": "Asgari ücret", "rationale": "Taban maaştır.", "isCorrect": false },
+        { "text": "Sabit ücret", "rationale": "Ek ödeme içermez.", "isCorrect": false }
+      ],
+      "hint": "Satış hedefini geçenlerin aldığı bonustur."
+    },
+    {
+      "questionNumber": 45,
+      "question": "Otellerde ve gıda sektöründe mikroorganizmaları insan sağlığına zarar vermeyecek emniyetli seviyeye düşürme işlemine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sterilizasyon", "rationale": "%100 sıfırlamadır.", "isCorrect": false },
+        { "text": "Sanitasyon", "rationale": "Sağlıklı ve güvenli bir ortam oluşturma sürecidir.", "isCorrect": true },
+        { "text": "Antisepsi", "rationale": "Canlı doku işlemidir.", "isCorrect": false },
+        { "text": "Ayıklama", "rationale": "Peyzaj kavramıdır.", "isCorrect": false },
+        { "text": "Kaba temizlik", "rationale": "Mikropları etkilemez.", "isCorrect": false }
+      ],
+      "hint": "Halk sağlığını korumayı hedefleyen kapsayıcı terimdir."
+    },
+    {
+      "questionNumber": 46,
+      "question": "Ameliyathanelerde uygulanan ve tüm canlı mikropları %100 yok etme işlemine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sanitasyon", "rationale": "Güvenli seviyeye indirir.", "isCorrect": false },
+        { "text": "Dezenfeksiyon", "rationale": "Sporları yok edemeyebilir.", "isCorrect": false },
+        { "text": "Sterilizasyon", "rationale": "Kusursuz bir sıfırlama ve yok etme eylemidir.", "isCorrect": true },
+        { "text": "Antisepsi", "rationale": "Canlı dokuya uygulanır.", "isCorrect": false },
+        { "text": "Temizlik", "rationale": "Gözle görülür kiri alır.", "isCorrect": false }
+      ],
+      "hint": "Cerrahi aletlere uygulanan en üst düzey arındırmadır."
+    },
+    {
+      "questionNumber": 47,
+      "question": "Cansız yüzeylerdeki hastalık yapıcı (patojen) bakterileri öldürme işlemine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sterilizasyon", "rationale": "%100 sıfırlamadır.", "isCorrect": false },
+        { "text": "Dezenfeksiyon", "rationale": "Yüzeylerdeki hastalık yayan patojenleri kimyasallarla öldürmektir.", "isCorrect": true },
+        { "text": "Antisepsi", "rationale": "Canlı dokuya uygulanır.", "isCorrect": false },
+        { "text": "Temizlik", "rationale": "Sadece kiri alır.", "isCorrect": false },
+        { "text": "Bakteriostatik", "rationale": "Üremeyi durdurur.", "isCorrect": false }
+      ],
+      "hint": "Genellikle yüzey temizleyicilerin üzerinde yazan kelimedir."
+    },
+    {
+      "questionNumber": 48,
+      "question": "Canlı dokular üzerindeki (insan cildi, eller) mikropları öldürme veya uzaklaştırma işlemine ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Dezenfeksiyon", "rationale": "Cansız nesnelere uygulanır.", "isCorrect": false },
+        { "text": "Antisepsi", "rationale": "Canlı dokudaki mikrobu kırma işlemidir (örn. tentürdiyot).", "isCorrect": true },
+        { "text": "Sterilizasyon", "rationale": "İnsan derisi sterilize edilemez.", "isCorrect": false },
+        { "text": "Sanitasyon", "rationale": "Çevre güvenliğidir.", "isCorrect": false },
+        { "text": "Bakterisidal", "rationale": "Kimyasal türüdür.", "isCorrect": false }
+      ],
+      "hint": "Yaralanmalarda tentürdiyot ile yapılan uygulamadır."
+    },
+    {
+      "questionNumber": 49,
+      "question": "Bakterileri öldürmeyen ancak çoğalmalarını durdurarak sayılarını sabit tutan maddelere ne denir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bakterisidal", "rationale": "Doğrudan öldüren maddedir.", "isCorrect": false },
+        { "text": "Bakteriostatik", "rationale": "Üremeyi statik (sabit) tutan, durduran maddedir.", "isCorrect": true },
+        { "text": "Sterilizan", "rationale": "Tamamen yok eden gazdır.", "isCorrect": false },
+        { "text": "Antiseptik", "rationale": "Canlı doku ilacıdır.", "isCorrect": false },
+        { "text": "Dezenfektan", "rationale": "Patojen öldürücüdür.", "isCorrect": false }
+      ],
+      "hint": "'Sabit tutan, durduran' anlamına gelen bir eke sahiptir."
+    },
+    {
+      "questionNumber": 50,
+      "question": "Bakterileri doğrudan öldüren kimyasal maddelere genel olarak ne ad verilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bakteriostatik", "rationale": "Öldürmez, durdurur.", "isCorrect": false },
+        { "text": "Bakterisidal (Bakterisit)", "rationale": "Doğrudan zehirleyip öldüren kimyasaldır.", "isCorrect": true },
+        { "text": "Antibiyotik", "rationale": "Vücut içindeki ilaçtır.", "isCorrect": false },
+        { "text": "Antiseptik", "rationale": "Canlı doku temizleyicisidir.", "isCorrect": false },
+        { "text": "Ozon", "rationale": "Bir gaz türüdür.", "isCorrect": false }
+      ],
+      "hint": "'İntihar' anlamına gelen suicide kelimesindeki öldürücü kökü taşır."
+    },
+    {
+      "questionNumber": 51,
+      "question": "Kat hizmetlerinde temizlik yaparken çapraz bulaşmayı önlemek için oluşturulan sistemin adı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Zaman temelli temizlik", "rationale": "Ücret sistemidir.", "isCorrect": false },
+        { "text": "Renk kodlu temizlik bezleri sistemi", "rationale": "Farklı alanlarda farklı renkte bez kullanarak mikrobu taşımayı engeller.", "isCorrect": true },
+        { "text": "Performans sistemi", "rationale": "Ölçüm yöntemidir.", "isCorrect": false },
+        { "text": "Rotasyon sistemi", "rationale": "İK uygulamasıdır.", "isCorrect": false },
+        { "text": "UVC sistemi", "rationale": "Işınlama yöntemidir.", "isCorrect": false }
+      ],
+      "hint": "Görsel ayrımlarla karıştırmayı önleyen bir metottur."
+    },
+    {
+      "questionNumber": 52,
+      "question": "Renk kodlu bez sisteminde en kirli alan olan 'klozet ve pisuvarlarda' hangi renk bez kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Mavi", "rationale": "Lavaboda kullanılır.", "isCorrect": false },
+        { "text": "Sarı", "rationale": "Toz almada kullanılır.", "isCorrect": false },
+        { "text": "Yeşil", "rationale": "Mutfakta kullanılır.", "isCorrect": false },
+        { "text": "Kırmızı", "rationale": "Tehlike rengidir, en yüksek mikrop yükü olan tuvalet taşlarında kullanılır.", "isCorrect": true },
+        { "text": "Beyaz", "rationale": "Genellikle ayna/cam için tercih edilebilir.", "isCorrect": false }
+      ],
+      "hint": "Uyarı ve tehlikeyi simgeleyen canlı bir renktir."
+    },
+    {
+      "questionNumber": 53,
+      "question": "Odadaki mobilyaların tozunu almada genellikle hangi renk bez tercih edilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kırmızı", "rationale": "Klozet içindir.", "isCorrect": false },
+        { "text": "Mavi", "rationale": "Banyo yüzeyi içindir.", "isCorrect": false },
+        { "text": "Sarı", "rationale": "Risk seviyesi düşük genel toz alma işlemlerinde kullanılır.", "isCorrect": true },
+        { "text": "Siyah", "rationale": "Temizlikte kiri belli etmeyeceği için kullanılmaz.", "isCorrect": false },
+        { "text": "Yeşil", "rationale": "Gıda/mutfak içindir.", "isCorrect": false }
+      ],
+      "hint": "Güneş rengi olup düşük risk grubunu temsil eder."
+    },
+    {
+      "questionNumber": 54,
+      "question": "Banyo tezgahları, lavabolar ve duşakabinlerde hangi renk temizlik bezi kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kırmızı", "rationale": "Klozet içindir.", "isCorrect": false },
+        { "text": "Sarı", "rationale": "Toz almak içindir.", "isCorrect": false },
+        { "text": "Mavi", "rationale": "Suyla ilişkili alanları (lavabo, duş) temsil eder.", "isCorrect": true },
+        { "text": "Yeşil", "rationale": "Mutfak içindir.", "isCorrect": false },
+        { "text": "Beyaz", "rationale": "Camlar içindir.", "isCorrect": false }
+      ],
+      "hint": "Suyu ve temizliği çağrıştıran bir renktir."
+    },
+    {
+      "questionNumber": 55,
+      "question": "Oda temizliği sırasında doğru fiziksel temizlik yönü (sırası) aşağıdakilerden hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kirliden temize", "rationale": "Mikrobu temiz alana bulaştırır.", "isCorrect": false },
+        { "text": "Aşağıdan yukarıya", "rationale": "Yer çekimine aykırıdır.", "isCorrect": false },
+        { "text": "Temizden kirliye ve yukarıdan aşağıya", "rationale": "Hem çapraz bulaşmayı önler hem de tozların yere düşmesini sağlar.", "isCorrect": true },
+        { "text": "Önce klozet, sonra yatak", "rationale": "En riskli hatadır.", "isCorrect": false },
+        { "text": "Önce zemin, sonra dolap üstü", "rationale": "Dolaptaki toz temiz zemini kirletir.", "isCorrect": false }
+      ],
+      "hint": "Hem yer çekimine uygun hem de bulaşmayı önleyen çifte kuraldır."
+    },
+    {
+      "questionNumber": 56,
+      "question": "Kimyasal kullanmadan suyu ısıtarak yüksek basınçlı püskürtmeyle derz aralarındaki bakterileri öldüren cihaz hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "UVC Işınlama", "rationale": "Mor ötesi ışıktır.", "isCorrect": false },
+        { "text": "HEPA Vakum", "rationale": "Sadece tozu çeker.", "isCorrect": false },
+        { "text": "Buharlı Temizleyici", "rationale": "Isıl şok (kaynar buhar) vererek derinlemesine ve kimyasalsız temizlik yapar.", "isCorrect": true },
+        { "text": "Ozon Jeneratörü", "rationale": "Gaz yayar.", "isCorrect": false },
+        { "text": "İyonizer", "rationale": "Havayı temizler.", "isCorrect": false }
+      ],
+      "hint": "Suyu gaz haline dönüştürerek çalışan makinedir."
+    },
+    {
+      "questionNumber": 57,
+      "question": "Havada ve yüzeylerdeki virüslerin DNA yapısını bozarak onları etkisiz hale getiren yüksek teknolojili ışın sistemi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Lazer", "rationale": "Kesme ve işaretleme yapar.", "isCorrect": false },
+        { "text": "Kızılötesi (Infrared)", "rationale": "Isıtır.", "isCorrect": false },
+        { "text": "UVC (Ultraviyole C) Işınlama", "rationale": "Mor ötesi C ışınları mikropların hücre DNA'sını saniyeler içinde parçalar.", "isCorrect": true },
+        { "text": "Ultrasonik", "rationale": "Ses dalgasıdır.", "isCorrect": false },
+        { "text": "X-Ray", "rationale": "Röntgen cihazıdır.", "isCorrect": false }
+      ],
+      "hint": "Güneş yanığına sebep olan ışınların ölümcül frekansıdır."
+    },
+    {
+      "questionNumber": 58,
+      "question": "Odadaki sigara ve rutubet kokularını tamamen yok etmek için kullanılan, ortama doğal bir gaz salan cihaz hangisidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "UVC Lambası", "rationale": "Işın yayar, gaz değil.", "isCorrect": false },
+        { "text": "Ozon Jeneratörü", "rationale": "O3 (ozon) gazı üreterek odadaki kötü kokuları nötralize eder.", "isCorrect": true },
+        { "text": "Buhar makinesi", "rationale": "Nem verir.", "isCorrect": false },
+        { "text": "Parfüm spreyi", "rationale": "Kokuyu maskeler, yok etmez.", "isCorrect": false },
+        { "text": "Vakum motoru", "rationale": "Fiziksel çekiş yapar.", "isCorrect": false }
+      ],
+      "hint": "Yağmurdan sonra havada oluşan ferahlık kokusunu veren gazdır."
+    },
+    {
+      "questionNumber": 59,
+      "question": "Aşağıdakilerden hangisi UVC lambaları çalışırken dikkat edilmesi gereken en önemli güvenlik kuralıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Müzik dinlemek", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Odada insan, bitki veya evcil hayvan bulunmaması", "rationale": "UVC ışını canlı hücre DNA'sına zarar vereceği için ortamın tamamen boş olması şarttır.", "isCorrect": true },
+        { "text": "Işıkları açık tutmak", "rationale": "Gerekli değildir.", "isCorrect": false },
+        { "text": "Televizyonu kapatmak", "rationale": "Bağlantısı yoktur.", "isCorrect": false },
+        { "text": "Kapıyı aralık bırakmak", "rationale": "Işın dışarı sızmamalıdır.", "isCorrect": false }
+      ],
+      "hint": "Bu teknoloji canlı hücre ayrımı yapmadan her DNA'ya saldırır."
+    },
+    {
+      "questionNumber": 60,
+      "question": "HEPA filtrenin özelliği nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Suyu ısıtır", "rationale": "Buhar makinesidir.", "isCorrect": false },
+        { "text": "Ozon gazı yayar", "rationale": "Jeneratördür.", "isCorrect": false },
+        { "text": "Mikroskobik tozları ve akarları emip dışarı sızdırmaz", "rationale": "Alerjenleri hapseden yüksek teknoloji süpürge filtresidir.", "isCorrect": true },
+        { "text": "Işınla DNA bozar", "rationale": "UVC'dir.", "isCorrect": false },
+        { "text": "Cila yapar", "rationale": "Zemin makinesidir.", "isCorrect": false }
+      ],
+      "hint": "Astım ve alerji hastaları için elektrik süpürgelerinde aranan parçadır."
+    },
+    {
+      "questionNumber": 61,
+      "question": "Kat hizmetleri personelinin iş güvenliği gereği üniformasında hangisi bulunmamalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Yaka kartı", "rationale": "Zorunludur.", "isCorrect": false },
+        { "text": "Kaymaz tabanlı ayakkabı", "rationale": "Güvenlik için gereklidir.", "isCorrect": false },
+        { "text": "Sarkan bilezik, uzun kolye ve büyük yüzükler", "rationale": "Makinelere takılma ve mikrop tutma riski nedeniyle yasaktır.", "isCorrect": true },
+        { "text": "Nefes alan kumaş", "rationale": "Tercih edilir.", "isCorrect": false },
+        { "text": "Saç bonesi veya toka", "rationale": "Hijyen için gereklidir.", "isCorrect": false }
+      ],
+      "hint": "Süslenmek amacıyla takılan metal objelerdir."
+    },
+    {
+      "questionNumber": 62,
+      "question": "Personel üniformaları neden tamamen naylon (sentetik) malzemeden üretilmemelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çok pahalı olduğu için", "rationale": "Sentetik ucuzdur.", "isCorrect": false },
+        { "text": "Hızlı kuruduğu için", "rationale": "Bu bir avantaj sayılabilir.", "isCorrect": false },
+        { "text": "Personeli terletip konforsuzluk ve cilt sorunları yaratacağı için", "rationale": "Naylon hava almadığından terletir ve sağlığı bozar.", "isCorrect": true },
+        { "text": "Ütü istemediği için", "rationale": "Bu da avantajdır, sorun değildir.", "isCorrect": false },
+        { "text": "Rengi solduğu için", "rationale": "Ana sebep terletmesidir.", "isCorrect": false }
+      ],
+      "hint": "Hava geçirgenliği sıfır olan kumaşların yaratacağı fiziksel rahatsızlıktır."
+    },
+    {
+      "questionNumber": 63,
+      "question": "Günlük duş almanın fizyolojik faydası nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Saç dökülmesini durdurur", "rationale": "Duşun böyle tıbbi bir garantisi yoktur.", "isCorrect": false },
+        { "text": "Görme duyusunu artırır", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Kan dolaşımını hızlandırır ve eklemlere hareketlilik kazandırır", "rationale": "Sıcak/ılık su kasları gevşetir ve dolaşımı açar.", "isCorrect": true },
+        { "text": "Kilo verdirir", "rationale": "Duş zayıflatmaz.", "isCorrect": false },
+        { "text": "Boy uzatır", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Bedendeki sıvı akışını dengelemesi ve yorgunluğu almasıdır."
+    },
+    {
+      "questionNumber": 64,
+      "question": "Hangisi personelin ellerini yıkaması için zorunlu bir an değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Tuvaletten çıktıktan sonra", "rationale": "Kesinlikle yıkanmalıdır.", "isCorrect": false },
+        { "text": "Çöp kovasını boşalttıktan sonra", "rationale": "Kritiktir, yıkanmalıdır.", "isCorrect": false },
+        { "text": "Kirli çarşafları topladıktan sonra", "rationale": "Mikrop bulaştığı için yıkanmalıdır.", "isCorrect": false },
+        { "text": "Yepyeni bir yastık kılıfını dolaptan alırken", "rationale": "Temiz eşyaya dokunurken mikrop alma riski yoktur.", "isCorrect": true },
+        { "text": "Öksürüp mendil kullandıktan sonra", "rationale": "Bakteri yayılmasını önlemek için yıkanmalıdır.", "isCorrect": false }
+      ],
+      "hint": "Temiz ve yeni bir objeye temas edilen andır."
+    },
+    {
+      "questionNumber": 65,
+      "question": "Personelin tırnaklarının kısa ve ojesiz olmasının temel sebebi nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maliyeti düşürmek", "rationale": "Oje maliyetiyle ilgisi yoktur.", "isCorrect": false },
+        { "text": "Tırnak diplerinde kir ve mikrop barınmasını engellemek", "rationale": "Uzun tırnak hijyen açısından ciddi bir bakteri yuvasıdır.", "isCorrect": true },
+        { "text": "Hızlı koşabilmek", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Göz yormamak", "rationale": "Görselden çok hijyen sorunudur.", "isCorrect": false },
+        { "text": "Eldiveni yırtmamak", "rationale": "Bir etken olsa da temel amaç hijyendir.", "isCorrect": false }
+      ],
+      "hint": "Ellerdeki patojenlerin en çok gizlendiği yerlerdir."
+    },
+    {
+      "questionNumber": 66,
+      "question": "Kadın çalışanların saçlarının toplu olması neden zorunludur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Müşterinin dikkatini çekmemek için", "rationale": "Ana sebep bu değildir.", "isCorrect": false },
+        { "text": "Yıkaması kolay olsun diye", "rationale": "Kişisel bir durumdur.", "isCorrect": false },
+        { "text": "Çalışırken çevreye ve yataklara saç dökülmesini önlemek için", "rationale": "Misafirin yatağında saç bulunması en büyük şikayet konusudur.", "isCorrect": true },
+        { "text": "Klimalardan etkilenmemek için", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Şapka takabilmek için", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Ortama yabancı bir vücut telinin düşmesini engellemektir."
+    },
+    {
+      "questionNumber": 67,
+      "question": "Temizlikte hijyeni sağlamak için oluşturulan 'üç temel ayak'tan biri hangisi olamaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kişisel hijyen", "rationale": "Temel ayaktır.", "isCorrect": false },
+        { "text": "Su hijyeni", "rationale": "Temel ayaktır.", "isCorrect": false },
+        { "text": "Kullanım alanı hijyeni", "rationale": "Temel ayaktır.", "isCorrect": false },
+        { "text": "Mimari hijyen", "rationale": "Mimari, estetikle ilgilidir hijyenin bir dalı değildir.", "isCorrect": true },
+        { "text": "Tümü temel ayaktır", "rationale": "Mimari kavramı yanlıştır.", "isCorrect": false }
+      ],
+      "hint": "Yapı ve bina inşasıyla ilgili olan kelimedir."
+    },
+    {
+      "questionNumber": 68,
+      "question": "Açıklık, eşitlik ve dengeli olma ilkeleri konaklama sektöründe hangi konunun temel prensipleridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Peyzaj düzenlemesinin", "rationale": "Peyzaj ilkeleri farklıdır.", "isCorrect": false },
+        { "text": "Bütçe yapımının", "rationale": "Bütçenin sabit/değişken ilkeleri vardır.", "isCorrect": false },
+        { "text": "Ücretlendirmenin", "rationale": "Maaş belirlerken adil, şeffaf ve dengeli olmak zorunludur.", "isCorrect": true },
+        { "text": "Çiçek düzenlemesinin", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Oda temizliğinin", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Personel maaşlarının adaletli dağıtımıyla ilgilidir."
+    },
+    {
+      "questionNumber": 69,
+      "question": "Peyzajda farklı büyüklükteki heykellerin veya ağaçların bir arada kullanılması hangi ilke kapsamında değerlendirilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Orantı", "rationale": "Hacimlerin ve boyutların kıyaslanması orantıdır.", "isCorrect": true },
+        { "text": "Ekonomiklik", "rationale": "Maliyetle ilgilidir.", "isCorrect": false },
+        { "text": "Ayıklama", "rationale": "Temizlemedir.", "isCorrect": false },
+        { "text": "Uyum", "rationale": "Benzerliktir.", "isCorrect": false },
+        { "text": "Ritim", "rationale": "Tekrardır.", "isCorrect": false }
+      ],
+      "hint": "Boyut ve hacimlerin birbiriyle ilişkisidir."
+    },
+    {
+      "questionNumber": 70,
+      "question": "Ağaçların veya aydınlatma direklerinin eşit aralıklarla tekrar edilerek dikilmesi peyzajda hangi ilkedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ritim (Denge)", "rationale": "Belirli aralıklarla tekrarlanan hareket ritim duygusu verir.", "isCorrect": true },
+        { "text": "Zıtlık", "rationale": "Kontrasttır.", "isCorrect": false },
+        { "text": "Odak noktası", "rationale": "Tek bir merkezdir.", "isCorrect": false },
+        { "text": "Ayıklama", "rationale": "Dışlamadır.", "isCorrect": false },
+        { "text": "Fonksiyonellik", "rationale": "İşlevdir.", "isCorrect": false }
+      ],
+      "hint": "Müzikteki gibi düzenli tekrarlardır."
+    },
+    {
+      "questionNumber": 71,
+      "question": "Ağaçların yazın gölge sağlaması, rüzgarı kesmesi amacıyla dikilmesi hangi peyzaj ilkesidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uyum", "rationale": "Görsel bir şeydir.", "isCorrect": false },
+        { "text": "Fonksiyonellik (İşlevsellik)", "rationale": "Bitkinin bir amaca (gölge, paravan) hizmet etmesidir.", "isCorrect": true },
+        { "text": "Zıtlık", "rationale": "Kontrasttır.", "isCorrect": false },
+        { "text": "Odak noktası", "rationale": "Görsel merkezdir.", "isCorrect": false },
+        { "text": "Ritim", "rationale": "Tekrardır.", "isCorrect": false }
+      ],
+      "hint": "Görselliğinden ziyade ne işe yaradığıyla ilgilidir."
+    },
+    {
+      "questionNumber": 72,
+      "question": "Bir masanın üzerine devasa bir vazo konulması hangi dekorasyon ilkesine aykırıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Uyum", "rationale": "Renk uyumu olabilir, sorun boyuttadır.", "isCorrect": false },
+        { "text": "Zıtlık", "rationale": "Kontrast aranmaz.", "isCorrect": false },
+        { "text": "Orantı (Ölçü)", "rationale": "Obje ve masa arasındaki büyüklük dengesizliği orantıyı bozar.", "isCorrect": true },
+        { "text": "Ekonomiklik", "rationale": "Maliyetle ilgilidir.", "isCorrect": false },
+        { "text": "Fonksiyonellik", "rationale": "Vazo çiçek tutuyor olabilir.", "isCorrect": false }
+      ],
+      "hint": "Mobilya ile obje arasındaki ebat uyumsuzluğudur."
+    },
+    {
+      "questionNumber": 73,
+      "question": "İç mekan aydınlatmasında direkt göze vuran spot ışıklar yerine aplik veya abajur kullanılmasının temel nedeni nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Daha ucuz olması", "rationale": "Maliyet her zaman düşük olmayabilir.", "isCorrect": false },
+        { "text": "Dinlendirici, yansımalı ve göz yormayan bir ortam sağlamak", "rationale": "Dolaylı aydınlatma rahatlatıcı bir atmosfer yaratır.", "isCorrect": true },
+        { "text": "Elektrik tasarrufu", "rationale": "Tasarruf garantisi vermez.", "isCorrect": false },
+        { "text": "Odayı sıcak tutmak", "rationale": "Isıtmayla ilgisi yoktur.", "isCorrect": false },
+        { "text": "Sivrisinekleri uzak tutmak", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Misafirin odada huzur bulması hedeflenir."
+    },
+    {
+      "questionNumber": 74,
+      "question": "Bütçe hazırlarken 'beklenmeyen harcamalar' genellikle hangi gider grubuna dahildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sabit giderler", "rationale": "Sabit ve önceden bellidir.", "isCorrect": false },
+        { "text": "Yarı değişken giderler", "rationale": "Düzenli faturadır.", "isCorrect": false },
+        { "text": "Değişken giderler", "rationale": "Öngörülemeyen ve iş hacmine/duruma göre değişen sürpriz giderlerdir.", "isCorrect": true },
+        { "text": "Amortisman", "rationale": "Yıpranma payıdır, sabittir.", "isCorrect": false },
+        { "text": "Maaşlar", "rationale": "Düzenli giderdir.", "isCorrect": false }
+      ],
+      "hint": "Miktarı her ay farklılık gösteren harcamalardır."
+    },
+    {
+      "questionNumber": 75,
+      "question": "Personel rotasyonu (yer değiştirme) uygulamasının temel amacı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Maaşı düşürmek", "rationale": "Maaş düşürmek yasal suçtur.", "isCorrect": false },
+        { "text": "Personeli bezdirmek", "rationale": "Amaç bu olamaz.", "isCorrect": false },
+        { "text": "Tekdüzeliği kırmak, iş körlüğünü önlemek ve personeli çok yönlü geliştirmek", "rationale": "Sürekli aynı işi yapan personelin motivasyonunu yenilemek ve farklı yetenekler kazandırmaktır.", "isCorrect": true },
+        { "text": "Personeli terfi ettirmek", "rationale": "Rotasyon terfi değildir, yatay geçiştir.", "isCorrect": false },
+        { "text": "Sayımı kolaylaştırmak", "rationale": "Stok sayımıyla ilgisi yoktur.", "isCorrect": false }
+      ],
+      "hint": "Çalışana farklı alanlarda tecrübe kazandırarak can sıkıntısını gidermektir."
+    },
+    {
+      "questionNumber": 76,
+      "question": "Aşağıdakilerden hangisi bir 'İş Gerekleri' kriteridir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Klozetin nasıl temizleneceği", "rationale": "İş basitleştirme veya tanımdır.", "isCorrect": false },
+        { "text": "Çalışma saatlerinin esnek olması", "rationale": "Çalışma koşuludur.", "isCorrect": false },
+        { "text": "Adayın İngilizce bilmesi ve lise mezunu olması", "rationale": "İşi yapacak personelde aranan kişisel özellikler (gerekler) listesidir.", "isCorrect": true },
+        { "text": "Performans primi verilmesi", "rationale": "Ücretlendirmedir.", "isCorrect": false },
+        { "text": "İşe alıştırma eğitimi", "rationale": "Oryantasyondur.", "isCorrect": false }
+      ],
+      "hint": "CV'de aranan niteliklerdir."
+    },
+    {
+      "questionNumber": 77,
+      "question": "Bir otel odasında hangi alan misafir için genellikle ilk izlenimi oluşturur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Balkon", "rationale": "Girişte hemen görünmez.", "isCorrect": false },
+        { "text": "Giriş holü ve yatak", "rationale": "Odaya girildiğinde göze çarpan ilk genel tablo çok önemlidir.", "isCorrect": true },
+        { "text": "Mini barın içi", "rationale": "Sonradan açılır.", "isCorrect": false },
+        { "text": "Dolap çekmeceleri", "rationale": "Gizli alanlardır.", "isCorrect": false },
+        { "text": "Banyo havalandırması", "rationale": "Detaylı incelenince fark edilir.", "isCorrect": false }
+      ],
+      "hint": "Kapı açıldığı an gözün gördüğü genel manzaradır."
+    },
+    {
+      "questionNumber": 78,
+      "question": "Kirli çarşafları toplarken personelin dikkat etmesi gereken en önemli kural nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çarşafları odada şiddetle silkelemek", "rationale": "Toz ve virüsleri havaya saçar, yasaktır.", "isCorrect": false },
+        { "text": "Yere atmak", "rationale": "Hijyenik değildir.", "isCorrect": false },
+        { "text": "Çarşafları uçlarından tutup yavaşça rulo yaparak toplamak", "rationale": "Havaya toz ve mikrop kalkmasını engeller.", "isCorrect": true },
+        { "text": "Hepsini aynı anda yırtarak çekmek", "rationale": "Malzemeye zarar verir.", "isCorrect": false },
+        { "text": "Camdan aşağı atmak", "rationale": "Kabul edilemez.", "isCorrect": false }
+      ],
+      "hint": "Tozların havalanmasını önleyen yumuşak bir katlama şeklidir."
+    },
+    {
+      "questionNumber": 79,
+      "question": "Aşağıdakilerden hangisi doğrudan bir maliyet (departman gideri) değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Temizlik kimyasalları", "rationale": "Maliyettir.", "isCorrect": false },
+        { "text": "Personel maaşları", "rationale": "Maliyettir.", "isCorrect": false },
+        { "text": "Müşteri memnuniyet anketleri", "rationale": "Anket sonuçları maliyet değil, veri kaynağıdır.", "isCorrect": true },
+        { "text": "Çarşaf alımı", "rationale": "Maliyettir.", "isCorrect": false },
+        { "text": "Elektrik faturası", "rationale": "Maliyettir.", "isCorrect": false }
+      ],
+      "hint": "Rakam ve paradan ziyade duygu ve düşünceleri ölçen bir formdur."
+    },
+    {
+      "questionNumber": 80,
+      "question": "Kat arabası (Trolley) hazırlanırken ağır ve büyük malzemeler arabanın neresine konmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "En üst rafa", "rationale": "Ağırlık merkezini bozar, devrilir.", "isCorrect": false },
+        { "text": "Arabanın dışına", "rationale": "Taşınamaz.", "isCorrect": false },
+        { "text": "En alt rafa", "rationale": "Fiziksel dengeyi sağlamak için ağır yükler daima en alta konur.", "isCorrect": true },
+        { "text": "Personelin cebine", "rationale": "Ağır malzeme cebe sığmaz.", "isCorrect": false },
+        { "text": "Tekerleklere asılarak", "rationale": "Hareketi engeller.", "isCorrect": false }
+      ],
+      "hint": "Yer çekimi ve denge kanunlarıyla ilgilidir."
+    },
+    {
+      "questionNumber": 81,
+      "question": "Sprey şişelerindeki kimyasallar odaya sıkılırken nasıl kullanılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Havaya doğru rastgele sıkılarak", "rationale": "Solunumu tehlikeye atar.", "isCorrect": false },
+        { "text": "Doğrudan kişinin yüzüne", "rationale": "Tehlikelidir.", "isCorrect": false },
+        { "text": "Doğrudan temizlik bezine sıkılarak", "rationale": "Kimyasalın havaya karışmasını önler ve yüzeye kontrollü uygulanmasını sağlar.", "isCorrect": true },
+        { "text": "Ateşin üstüne sıkarak", "rationale": "Parlayıcı olabilir.", "isCorrect": false },
+        { "text": "Sıcak suya boşaltarak", "rationale": "Gaz çıkarabilir.", "isCorrect": false }
+      ],
+      "hint": "Ürünün doğrudan yüzey yerine aracı bir kumaşa uygulanmasıdır."
+    },
+    {
+      "questionNumber": 82,
+      "question": "Yatak örtülerinin ve kalın perdelerin temizliğinde hangi yöntem tercih edilmelidir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çamaşır suyuna basmak", "rationale": "Renklerini bozar.", "isCorrect": false },
+        { "text": "Sert fırçayla kazımak", "rationale": "Kumaşı yıpratır.", "isCorrect": false },
+        { "text": "Buharlı temizleyici veya kuru temizleme", "rationale": "Kalın kumaşlardaki akarları ısıyla öldürüp kumaşı korur.", "isCorrect": true },
+        { "text": "Sadece silkelemek", "rationale": "Tozları yayar, temizlemez.", "isCorrect": false },
+        { "text": "Kaynar suda kaynatmak", "rationale": "Çekme ve küçülme yapar.", "isCorrect": false }
+      ],
+      "hint": "Yüksek ısıda nemlendirme yöntemidir."
+    },
+    {
+      "questionNumber": 83,
+      "question": "Bakterileri öldürmek yerine üremelerini durduran maddelerin ('Bakteriostatik') avantajı nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çok hızlı öldürmesi", "rationale": "Öldürmez, durdurur.", "isCorrect": false },
+        { "text": "Patojenlerin direnç kazanmasını önleyerek sayılarını sabit tutması", "rationale": "Canlıyı yok etmediği için bakteri mutasyon geçirip direnç kazanamaz.", "isCorrect": true },
+        { "text": "Çok ucuz olması", "rationale": "Fiyatla ilgisi yoktur.", "isCorrect": false },
+        { "text": "Güzel kokması", "rationale": "Kokuyla ilgisi yoktur.", "isCorrect": false },
+        { "text": "Suyu ısıtması", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Mikropların ilaçlara karşı bağışıklık geliştirmesini engeller."
+    },
+    {
+      "questionNumber": 84,
+      "question": "Zıtlık (Kontrast) ilkesi peyzajda hangi amaçla kullanılır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Objeleri gizlemek", "rationale": "Tam tersi öne çıkarır.", "isCorrect": false },
+        { "text": "Maliyeti düşürmek", "rationale": "Maliyetle ilgisizdir.", "isCorrect": false },
+        { "text": "Heyecan yaratmak ve belli bir öğeyi vurgulamak", "rationale": "Farklılıklar gözü çeker ve tekdüzeliği kırar.", "isCorrect": true },
+        { "text": "Uyku getirmek", "rationale": "Aksine canlılık verir.", "isCorrect": false },
+        { "text": "Böcekleri kaçırmak", "rationale": "Görsel bir etkidir.", "isCorrect": false }
+      ],
+      "hint": "Siyah ve beyazın yan yana durduğundaki çarpıcı etkisidir."
+    },
+    {
+      "questionNumber": 85,
+      "question": "Odada unutulan veya bozulan bir demirbaş için personel ne yapmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çöpe atmalıdır", "rationale": "Zimmetli eşyadır.", "isCorrect": false },
+        { "text": "Kendisi tamir etmelidir", "rationale": "Teknik servisin işidir.", "isCorrect": false },
+        { "text": "Durumu derhal yöneticiye (veya teknik servise) rapor etmelidir", "rationale": "Sorumluluk zinciri gereği arıza bildirim formu doldurulur.", "isCorrect": true },
+        { "text": "Görmezden gelmelidir", "rationale": "Müşteri şikayetine sebep olur.", "isCorrect": false },
+        { "text": "Eşyayı eve götürmelidir", "rationale": "Hırsızlığa girer.", "isCorrect": false }
+      ],
+      "hint": "Sorumluluğu ilgili departmana devretme eylemidir."
+    },
+    {
+      "questionNumber": 86,
+      "question": "Özel İstihdam Büroları personel temininde hangi kaynağa girer?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşletme içi", "rationale": "Dışarıdaki kurumlardır.", "isCorrect": false },
+        { "text": "İşletme dışı", "rationale": "Dışarıdan eleman sağlayan profesyonel aracı kurumlardır.", "isCorrect": true },
+        { "text": "Rotasyon", "rationale": "İç harekettir.", "isCorrect": false },
+        { "text": "Terfi", "rationale": "İç harekettir.", "isCorrect": false },
+        { "text": "Transfer", "rationale": "İç harekettir.", "isCorrect": false }
+      ],
+      "hint": "Şirketin bordrosunda olmayan kurumlarla çalışılmasıdır."
+    },
+    {
+      "questionNumber": 87,
+      "question": "Eşit işe eşit ücret ilkesi çiğnenirse çalışanlarda ne oluşur?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Motivasyon artışı", "rationale": "Adaletsizlik motivasyonu bitirir.", "isCorrect": false },
+        { "text": "Takım ruhu", "rationale": "Zedelenir.", "isCorrect": false },
+        { "text": "İş tatminsizliği ve verim düşüklüğü", "rationale": "Haksızlığa uğrayan personelin morali bozulur.", "isCorrect": true },
+        { "text": "Kalite artışı", "rationale": "Kalite düşer.", "isCorrect": false },
+        { "text": "Peyzaj uyumu", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Adaletsizliğin yarattığı psikolojik çöküştür."
+    },
+    {
+      "questionNumber": 88,
+      "question": "Aşağıdakilerden hangisi performans değerlendirmesinin amaçlarından değildir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Eğitim ihtiyacını belirlemek", "rationale": "Amacıdır.", "isCorrect": false },
+        { "text": "Terfi kararı almak", "rationale": "Amacıdır.", "isCorrect": false },
+        { "text": "Başarılı personeli ödüllendirmek", "rationale": "Amacıdır.", "isCorrect": false },
+        { "text": "Personelin dini inancını sorgulamak", "rationale": "Kişisel haklara saldırıdır ve performansla ilgisi yoktur.", "isCorrect": true },
+        { "text": "İşten çıkarma kararlarına zemin hazırlamak", "rationale": "Verimsiz personeli tespit etmek içindir.", "isCorrect": false }
+      ],
+      "hint": "Özel hayatın gizliliğini ihlal eden durumdur."
+    },
+    {
+      "questionNumber": 89,
+      "question": "Kat arabasındaki kirli çamaşır torbası nerede durmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Temiz havluların hemen üstünde", "rationale": "Çapraz bulaşma yapar.", "isCorrect": false },
+        { "text": "Personelin elinde", "rationale": "Taşınması zordur.", "isCorrect": false },
+        { "text": "Arabanın en altındaki veya yanındaki ayrı izole bölümde", "rationale": "Temiz malzemelerden uzak, kapalı/izole haznesinde olmalıdır.", "isCorrect": true },
+        { "text": "Tepesinde açıkta", "rationale": "Görüntü ve koku yapar.", "isCorrect": false },
+        { "text": "Şampuanların yanında", "rationale": "Kimyasalla karışmamalıdır.", "isCorrect": false }
+      ],
+      "hint": "Temiz eşyalardan izole edilmiş özel saklama alanıdır."
+    },
+    {
+      "questionNumber": 90,
+      "question": "Dezenfeksiyon işlemi hangi ortamlar için uygulanır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sadece canlı dokular", "rationale": "Bu antisepsidir.", "isCorrect": false },
+        { "text": "Ameliyat aletleri", "rationale": "Sterilizasyon gerekir.", "isCorrect": false },
+        { "text": "Cansız yüzeyler, zeminler ve eşyalar", "rationale": "Dezenfeksiyon masa, yer ve cansız objeler içindir.", "isCorrect": true },
+        { "text": "Bitki yaprakları", "rationale": "Zarar verir.", "isCorrect": false },
+        { "text": "Gıdalar", "rationale": "Zehirlidir.", "isCorrect": false }
+      ],
+      "hint": "Hissiz ve cansız nesnelerin üzerindeki mikrobu kırmaktır."
+    },
+    {
+      "questionNumber": 91,
+      "question": "Tentürdiyot uygulaması hangi hijyen kavramına örnektir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sterilizasyon", "rationale": "%100 ölümcül gazla yapılır.", "isCorrect": false },
+        { "text": "Dezenfeksiyon", "rationale": "Cansız yüzeye sıkılır.", "isCorrect": false },
+        { "text": "Antisepsi", "rationale": "Canlı cilt üzerindeki yaranın mikroptan arındırılmasıdır.", "isCorrect": true },
+        { "text": "Ayıklama", "rationale": "Peyzaj terimidir.", "isCorrect": false },
+        { "text": "Sanitasyon", "rationale": "Ortam güvenliğidir.", "isCorrect": false }
+      ],
+      "hint": "İnsan derisi üzerindeki tıbbi temizlik eylemidir."
+    },
+    {
+      "questionNumber": 92,
+      "question": "Bütçe yapım sürecinde veriler nereden alınır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Fal bakarak", "rationale": "Bilimsel değildir.", "isCorrect": false },
+        { "text": "Sadece patronun isteklerinden", "rationale": "Gerçekçi değildir.", "isCorrect": false },
+        { "text": "Geçmiş yıl istatistikleri ve piyasa araştırmalarından", "rationale": "Gelecek daima geçmişin bilimsel verileriyle planlanır.", "isCorrect": true },
+        { "text": "Personel oylamasıyla", "rationale": "Uzmanlık ister.", "isCorrect": false },
+        { "text": "Peyzaj planlarından", "rationale": "İlgisizdir.", "isCorrect": false }
+      ],
+      "hint": "Önceki yılların istatistik tablolarıdır."
+    },
+    {
+      "questionNumber": 93,
+      "question": "Hangi işlemde sporlu bakteriler dahil 'hiçbir yaşam formu' kalmaz?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Kaba Temizlik", "rationale": "Kir alır.", "isCorrect": false },
+        { "text": "Dezenfeksiyon", "rationale": "Sporlar canlı kalabilir.", "isCorrect": false },
+        { "text": "Sterilizasyon", "rationale": "Faydalı zararlı istisnasız her şeyi yok eder.", "isCorrect": true },
+        { "text": "Sanitasyon", "rationale": "Sadece emniyetli düzeye çeker.", "isCorrect": false },
+        { "text": "Antisepsi", "rationale": "Deriye uygulanır.", "isCorrect": false }
+      ],
+      "hint": "Sıfır tolerans gösteren mutlak arındırmadır."
+    },
+    {
+      "questionNumber": 94,
+      "question": "Oda süresinde gecikme payı formülü nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Oda süresi + %50", "rationale": "Çok fazladır.", "isCorrect": false },
+        { "text": "Oda süresi - %10", "rationale": "Eksi olmaz.", "isCorrect": false },
+        { "text": "Ortalama oda temizlik süresi + %20", "rationale": "Standart kabul edilen pay %20'dir.", "isCorrect": true },
+        { "text": "Süre * Oda sayısı", "rationale": "Toplam süreyi verir.", "isCorrect": false },
+        { "text": "Net süre / Molalar", "rationale": "Anlamsızdır.", "isCorrect": false }
+      ],
+      "hint": "Mevcut sürenin üzerine %20 eklemektir."
+    },
+    {
+      "questionNumber": 95,
+      "question": "Bakterileri tamamen öldüren maddelere verilen isim nedir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Bakteriostatik", "rationale": "Durdurucudur.", "isCorrect": false },
+        { "text": "Bakterisidal", "rationale": "Doğrudan yok eden ve öldüren maddedir.", "isCorrect": true },
+        { "text": "Antiseptik", "rationale": "Canlı doku içindir.", "isCorrect": false },
+        { "text": "Ozon", "rationale": "Gazdır.", "isCorrect": false },
+        { "text": "Buhar", "rationale": "Fiziksel güçtür.", "isCorrect": false }
+      ],
+      "hint": "Sonu 'sidal/sit' ile biten yokedici anlamındaki kelimedir."
+    },
+    {
+      "questionNumber": 96,
+      "question": "Personel temininde 'İşkur' hangi kaynaktır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "İşletme İçi", "rationale": "İç kaynak personelin kendisidir.", "isCorrect": false },
+        { "text": "İşletme Dışı", "rationale": "Devletin kurumu olduğu için dış bir kaynaktır.", "isCorrect": true },
+        { "text": "Terfi", "rationale": "İçeridendir.", "isCorrect": false },
+        { "text": "Transfer", "rationale": "İçeridendir.", "isCorrect": false },
+        { "text": "Rotasyon", "rationale": "İçeridendir.", "isCorrect": false }
+      ],
+      "hint": "Şirketin dışındaki resmi bir kurumdur."
+    },
+    {
+      "questionNumber": 97,
+      "question": "Aydınlatmada kullanılan 'abajurlar' ne tür bir aydınlatma sağlar?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Sert ve direkt", "rationale": "Spot ışık serttir.", "isCorrect": false },
+        { "text": "Dolaylı, loş ve yansımalı", "rationale": "Işığı süzerek ortama yumuşak bir hava verir.", "isCorrect": true },
+        { "text": "Göz yoran", "rationale": "Tam tersi dinlendirir.", "isCorrect": false },
+        { "text": "Renkli disko", "rationale": "Otel odasında olmaz.", "isCorrect": false },
+        { "text": "Mor ötesi", "rationale": "UVC lambasıdır.", "isCorrect": false }
+      ],
+      "hint": "Gözü rahatsız etmeyen süzülmüş ışıktır."
+    },
+    {
+      "questionNumber": 98,
+      "question": "Canlı çiçek bakımında su değişimi ne sıklıkla yapılmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Ayda bir", "rationale": "Çiçek çürür.", "isCorrect": false },
+        { "text": "Haftada bir", "rationale": "Koku yapar.", "isCorrect": false },
+        { "text": "Her gün düzenli olarak", "rationale": "Bakteri ürememesi ve koku olmaması için her gün su tazelenir.", "isCorrect": true },
+        { "text": "Hiç değiştirilmez", "rationale": "Yanlıştır.", "isCorrect": false },
+        { "text": "Kurudukça", "rationale": "Canlı çiçek için geç kalınmıştır.", "isCorrect": false }
+      ],
+      "hint": "Günlük rutin temizlikte yapılması gereken eylemdir."
+    },
+    {
+      "questionNumber": 99,
+      "question": "Performans değerlendirmesinin sonunda hangisi gerçekleşebilir?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Çalışan boy uzatır", "rationale": "İlgisizdir.", "isCorrect": false },
+        { "text": "Terfi, zam veya ek eğitim kararı çıkar", "rationale": "Ölçümün amacı çalışanın durumuna göre kariyerini şekillendirmektir.", "isCorrect": true },
+        { "text": "Oda süresi artar", "rationale": "Bağlantısızdır.", "isCorrect": false },
+        { "text": "Bütçe yılı değişir", "rationale": "Bağlantısızdır.", "isCorrect": false },
+        { "text": "Peyzaj yenilenir", "rationale": "Bağlantısızdır.", "isCorrect": false }
+      ],
+      "hint": "Başarının getirdiği maddi veya rütbesel ödüldür."
+    },
+    {
+      "questionNumber": 100,
+      "question": "Hijyeni sağlamak adına çöplere ve kimyasallara temas ettikten sonra personel derhal ne yapmalıdır?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "Oturup dinlenmelidir", "rationale": "Mikropla dinlenilmez.", "isCorrect": false },
+        { "text": "Üniformasını çöpe atmalıdır", "rationale": "Gereksiz abartıdır.", "isCorrect": false },
+        { "text": "Ellerini su ve sabunla kuralına uygun şekilde yıkamalıdır", "rationale": "Toksik maddelerden ve bakterilerden arınmanın ilk ve en kesin yoludur.", "isCorrect": true },
+        { "text": "Ellerini cebine koymalıdır", "rationale": "Kıyafetini kirletir.", "isCorrect": false },
+        { "text": "Krem sürmelidir", "rationale": "Kiri deriye hapseder.", "isCorrect": false }
+      ],
+      "hint": "Su ve sabunla gerçekleştirilen eylemdir."
+    }
+  ]
+}

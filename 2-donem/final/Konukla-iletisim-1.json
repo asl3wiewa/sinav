@@ -1,0 +1,3304 @@
+{
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "Telefonda iletişimi yüz yüze iletişimden ayıran ve iletişim kazalarına daha açık hale getiren temel sorun aşağıdakilerden hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Sesin karşı tarafa teknik nedenlerle net gitmemesi.",
+                    "rationale": "Teknik sorunlar olabilir ancak temel iletişim kazası nedeni bu değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Konuşma süresinin genellikle daha kısıtlı olması.",
+                    "rationale": "Süre bir faktör olabilir ama temel iletişim zorluğu beden dilinin eksikliğidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jest ve mimiklerin (beden dilinin) olmaması nedeniyle duygu ve ruh halini anlatmanın güçleşmesi.",
+                    "rationale": "Beden dili olmadığı için telefonda sadece ses ile iletişim kurulur, bu da kazalara yol açar.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kullanılan kelimelerin özenle seçilmesi zorunluluğu.",
+                    "rationale": "Bu bir sonuçtur, temel neden (sorun) beden dilinin eksikliğidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kişisel imajın telefonda hiçbir şekilde yansıtılamaması.",
+                    "rationale": "Kişisel imaj sese ve kelimelere yansır, tamamen yansıtılamaz demek yanlıştır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Yüz yüze iletişimde bizi destekleyen ancak telefonda olmayan görsel unsuru düşünün."
+        },
+        {
+            "questionNumber": 2,
+            "question": "Telefonda iletişimde 'Başarılı İletişimin Formülü' aşağıdakilerden hangisinde doğru oranlarla verilmiştir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "%70 Ses Tonu + %30 Nazik İfade",
+                    "rationale": "Oranlar eşit kabul edilmektedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "%50 Beden Dili + %50 Ses Tonu",
+                    "rationale": "Telefonda beden dili iletişime doğrudan yansımaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "%80 Bilgi + %20 Ses Tonu",
+                    "rationale": "Bilgi önemli olsa da formül ses tonu ve nezaket üzerinedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "%50 Ses Tonu + %50 Nazik İfade",
+                    "rationale": "Sınav özetine göre başarılı iletişimin formülü yarı yarıya ses tonu ve nazik ifadedir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "%40 Kelimeler + %60 Ses Tonu",
+                    "rationale": "Bu oran genel iletişim kuramlarına ait olabilir ancak dokümandaki formül bu değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Her iki unsurun da eşit ağırlığa sahip olduğunu unutmayın."
+        },
+        {
+            "questionNumber": 3,
+            "question": "Sınavlarda sıkça sorulan 'Sinirli bir konuğa telefonda nasıl davranılmalıdır?' sorusunun en etkili yanıtı nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Aynı şekilde sert bir ses tonuyla sınırları belirleyerek.",
+                    "rationale": "Sert karşılık vermek krizi daha da büyütür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hemen telefonu yöneticinize aktararak.",
+                    "rationale": "Sorumluluktan kaçmak profesyonel bir tutum değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cana yakınlık, neşe ve nezaketle yaklaşarak.",
+                    "rationale": "Nazik ve güler yüzlü davranan birine karşı uzun süre öfkeli kalmak zordur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sessiz kalarak karşı tarafın telefonu kapatmasını bekleyerek.",
+                    "rationale": "Sessizlik ilgisizlik olarak algılanır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafirin hatalı olduğunu mantıklı argümanlarla yüzüne vurarak.",
+                    "rationale": "Misafire hatalı olduğu söylenmez, savunmaya geçilmez.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İnsanların olumlu duygular karşısında yelkenleri suya indirdiğini hatırlayın."
+        },
+        {
+            "questionNumber": 4,
+            "question": "Telefonla konuşurken ahize (telefon) ağızdan ne kadar mesafede tutulmalıdır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Tamamen dudağa temas etmelidir.",
+                    "rationale": "Çok yakın tutulursa ses boğuk ve tıslama şeklinde çıkar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2-3 cm uzakta tutulmalıdır.",
+                    "rationale": "Ahize için ideal mesafe ağızdan 2-3 cm uzaklıktır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "5-10 cm uzakta tutulmalıdır.",
+                    "rationale": "Bu mesafe sesin karşı tarafa çok az gitmesine neden olur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mesafenin bir önemi yoktur, cihaz sesi ayarlar.",
+                    "rationale": "Cihaz doğal sesi iletir, mesafe çok kritiktir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çeneden aşağıda tutulmalıdır.",
+                    "rationale": "Sesin net gitmesini engeller.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Tıslamayı önleyecek kadar uzak, sesin net gideceği kadar yakın bir mesafedir."
+        },
+        {
+            "questionNumber": 5,
+            "question": "Telefonda gelen aramayı açma süresi ile ilgili altın kural aşağıdakilerden hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Telefon en fazla dört defa çaldıktan sonra açılmalıdır.",
+                    "rationale": "Dört kez çok geç bir süredir, misafirde ilgisizlik hissi yaratır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Müsait olunduğu ilk an açılmalıdır, net bir sınırı yoktur.",
+                    "rationale": "Kurumsal iletişimde belirli kurallar ve sınırlar vardır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telefon iki defadan fazla çalmadan açılmalıdır.",
+                    "rationale": "İşletme prosedürlerinde çalan zilin sıkıcı sesi düşünülerek maksimum 2 çalışta açılmalıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Her zaman ilk çalışta, saniye geçmeden açılmalıdır.",
+                    "rationale": "İdeal olan çabuk açmaktır ancak kesin kural 'iki defadan fazla çalmaması' yönündedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telesekreterin devreye girmesi için 5 saniye beklenmelidir.",
+                    "rationale": "Misafirle canlı iletişim her zaman önceliklidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Çalan zilin sıkıcı sesinin konukta sabırsızlık yaratmaması için belirlenen kısa sayıyı hatırlayın."
+        },
+        {
+            "questionNumber": 6,
+            "question": "Resmi ve protokol kurallarına göre telefon görüşmesinin sonunda telefonu önce kimin kapatması beklenir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Her zaman telefonu açan personel kapatır.",
+                    "rationale": "Personel telefonu önce kapatırsa saygısızlık olarak algılanabilir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karşılıklı olarak aynı anda kapatılır.",
+                    "rationale": "Aynı anda kapatmayı senkronize etmek mümkün değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Her zaman alt makamdaki kişi önce kapatır.",
+                    "rationale": "Protokol kuralları gereği alt makam beklemede kalmalıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Resmi görüşmelerde telefonu önce üst makamdaki kişi kapatır.",
+                    "rationale": "Protokolde telefonu üst makam veya arayan kişi kapatır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kimin aradığından bağımsız olarak en son konuşan kişi kapatır.",
+                    "rationale": "Kural son konuşana değil, statüye ve arayan kişiye bağlıdır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Hiyerarşik düzende söz hakkının bitişini genellikle kim belirler?"
+        },
+        {
+            "questionNumber": 7,
+            "question": "Arayan kişiyi yöneticiye bağlamadan önce, ajandaya not etmek üzere alınması gereken 3 eksiksiz bilgi hangi şıkta doğru verilmiştir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Arayanın adı, arama sebebi, e-posta adresi",
+                    "rationale": "E-posta adresi ilk etapta yöneticiye bağlamak için zorunlu değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Arayanın Adı-Soyadı, Unvanı/Sıfatı, Telefon Numarası",
+                    "rationale": "Yöneticiye bağlamadan önce kişinin kim olduğu, sıfatı ve olası geri dönüş için numarası alınmalıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Arayanın şirketi, aradığı departman, aciliyet durumu",
+                    "rationale": "Adı-soyadı olmadan şirketi bilmek eksik bilgi aktarımıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Adı, Soyadı, Doğum tarihi",
+                    "rationale": "Bağlantı öncesi doğum tarihi talep edilmez.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Adı-Soyadı, Şikayeti, Konaklama tarihi",
+                    "rationale": "Her arayanın şikayeti veya konaklama tarihi olmayabilir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Yöneticinin kiminle, hangi sıfatla konuştuğunu bilmesi ve bağlantı koparsa arayabilmesi için gerekenleri düşünün."
+        },
+        {
+            "questionNumber": 8,
+            "question": "Telefonda kendini tanıtmayan bir arayana, kim olduğunu öğrenmek için aşağıdaki ifadelerden hangisinin kullanılması doğrudur?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Kimsiniz?",
+                    "rationale": "Bu ifade oldukça kaba ve emredicidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kiminle görüşüyorum?",
+                    "rationale": "Kibar ve profesyonel bir şekilde karşı tarafın ismini sorma kalıbıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Adınızı bağışlar mısınız?",
+                    "rationale": "Fazla ağdalı ve kurumsal dilden uzak bir ifadedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kendinizi tanıtmadınız, kimsiniz?",
+                    "rationale": "Karşı tarafı suçlayıcı ve emredici bir ifadedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İsminizi söylemeden yardımcı olamam.",
+                    "rationale": "Tehditvari ve iletişimi tıkayıcı bir kalıptır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kaba ve suçlayıcı ifadelerden kaçınarak kibarca sormayı tercih etmelisiniz."
+        },
+        {
+            "questionNumber": 9,
+            "question": "Telefonda çağrıyı karşılarken atılması gereken İLK adım aşağıdakilerden hangisi olmalıdır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "'Alo' diyerek karşı tarafın konuşmasını beklemek.",
+                    "rationale": "Kurumsal iletişimde kesinlikle 'Alo' ile telefon açılmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Görüşmeyi doğrudan ilgili departmana aktarmak.",
+                    "rationale": "Önce karşılama ve ihtiyaç analizi yapılmalıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Arayanın adını ve soyadını talep etmek.",
+                    "rationale": "Selamlama yapmadan bilgi talep etmek kabadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Selamlama yapmak ('Günaydın', 'İyi günler' vb.) ve kurumu/kendini tanıtmak.",
+                    "rationale": "En doğru açılış selamlama ve ardından kurumu/kendini tanıtmadır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Siparişi ya da şikayeti olup olmadığını doğrudan sormak.",
+                    "rationale": "İletişimin doğal selamlama adımını atlamak yanlıştır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Günlük hayatta da birini gördüğümüzde ilk yaptığımız nazik eylemi düşünün."
+        },
+        {
+            "questionNumber": 10,
+            "question": "Bir aboneyi başka bir departmana aktarırken uyulması gereken '30 Saniye Kuralı'nın amacı nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Görüşmeyi 30 saniye içinde sonlandırıp diğer çağrıları almak.",
+                    "rationale": "Amaç görüşmeyi kesmek değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karşı tarafa her 30 saniyede bir hatta girilip bilgi vermek ve bekletildiği için özür dilemek.",
+                    "rationale": "Misafiri bilgisiz bırakmamak ve unutulmadığını hissettirmek için bu kural uygulanır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Arayanı hatta tam 30 saniye boyunca sessizce bekletmek.",
+                    "rationale": "Sessizce bekletmek kurallara aykırıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "30 saniye içinde çözüm bulunamazsa telefonu arayanın yüzüne kapatmak.",
+                    "rationale": "Telefon asla misafirin yüzüne kapatılmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telesekreterin tam 30. saniyede devreye girmesini sağlamak.",
+                    "rationale": "Bu donanımsal bir ayarlamadır, personel iletişim kuralı değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bekleyen bir misafirin unutulmadığını ona hissettirme süresidir."
+        },
+        {
+            "questionNumber": 11,
+            "question": "Dikte (not alma) tekniklerinde kullanılan 'EVET' kuralı ne işe yarar?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Misafirin her şikayetine itiraz etmeden 'evet' denilmesini sağlar.",
+                    "rationale": "Şikayet yönetiminde koşulsuz evet demek her zaman doğru değildir, dikte ile ilgisi yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Not alan kişinin bir cümleyi yazmayı bitirdiğinde karşı tarafa yeni cümleye hazır olduğunu belirtmesidir.",
+                    "rationale": "Görsel temas olmadığı için karşı tarafa yazım işleminin bittiği 'EVET' diyerek hissettirilir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Satış yapmak için misafiri 'Evet' demeye yönlendiren psikolojik bir taktiktir.",
+                    "rationale": "Bu satış tekniği ile ilgili bir terimdir, not alma tekniği değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sadece yönetici konuşurken onaylama anlamında kullanılır.",
+                    "rationale": "Kim not alıyorsa süreci hızlandırmak için o kullanır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Görüşmenin kayıt altına alınmasına onay verildiğini belirtir.",
+                    "rationale": "KVKK veya yasal onay metniyle karıştırılmamalıdır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Yüz yüze olmadığınız birine, yazdığınıza dair işaret verme yöntemidir."
+        },
+        {
+            "questionNumber": 12,
+            "question": "Aşağıdakilerden hangisi Ulusal (Türkiye) fonetik alfabeye (kodlama) göre YANLIŞ eşleştirilmiştir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "A - Ankara",
+                    "rationale": "Bu doğru bir eşleştirmedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "B - Bursa",
+                    "rationale": "Bu doğru bir eşleştirmedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "C - Çanakkale",
+                    "rationale": "Ulusal kodlamada C harfi 'Ceyhan' ile kodlanır, Çanakkale Ç harfi ile alakalıdır veya kafa karıştırıcıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "D - Denizli",
+                    "rationale": "Bu doğru bir eşleştirmedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "E - Edirne",
+                    "rationale": "Bu doğru bir eşleştirmedir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "C harfi için genellikle Adana'nın bir ilçesi kullanılır."
+        },
+        {
+            "questionNumber": 13,
+            "question": "Aşağıdakilerden hangisi Concierge tarafından doldurulan bir 'Mesaj Formunda' kesinlikle bulunması gereken 8 bilgiden biri DEĞİLDİR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Mesajı bırakan kişinin adı ve telefonu",
+                    "rationale": "Kimden geldiğini bilmek zorunludur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mesajın alındığı saat ve tarih",
+                    "rationale": "Mesajın güncelliği için zorunludur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mesajın kime geldiği (Adı, oda numarası)",
+                    "rationale": "Mesajı doğru kişiye ulaştırmak için zorunludur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mesajın önem derecesi (İvedi, süreli vb.)",
+                    "rationale": "Öncelik sırasını belirlemek için zorunludur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafirin kredi kartı bilgileri",
+                    "rationale": "Mesaj formunda finansal ve özel bilgilerin yeri yoktur.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Mesaj formları iletişim amaçlıdır, ödeme işlemi içermezler."
+        },
+        {
+            "questionNumber": 14,
+            "question": "Otelden check-out yapmış (ayrılmış) bir misafire gelen posta için izlenmesi gereken doğru yol nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Posta doğrudan çöpe atılır veya imha edilir.",
+                    "rationale": "Misafirin postası yasal olarak imha edilemez.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafir adres bırakmışsa oraya yönlendirilir, yoksa registration card'daki adrese gönderilir.",
+                    "rationale": "İşletmenin misafire olan sorumluluğu ayrıldıktan sonra da yönlendirme ile devam eder.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Posta sadece yönetime teslim edilir ve bekletilir.",
+                    "rationale": "Yönetim ofisi depolama alanı değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafir telefonla aranarak postayı gelip alması emredilir.",
+                    "rationale": "Konuktan otele geri dönmesini istemek hizmet anlayışına aykırıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Posta personel tarafından açılıp okunarak önemi değerlendirilir.",
+                    "rationale": "Özel hayatın gizliliği gereği posta açılamaz.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Otelin, misafirin geçici ikametgahı olduğunu ve ona ulaşma sorumluluğu bulunduğunu düşünün."
+        },
+        {
+            "questionNumber": 15,
+            "question": "MİY (Misafir İlişkileri Yönetimi) kavramının kapsamı hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "MİY, sadece misafirin şikayeti olduğunda devreye giren bir birimdir.",
+                    "rationale": "MİY sadece şikayet yönetimi değil, bütünsel bir stratejidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "MİY, sadece satışı tamamlamak için kullanılan ikna yöntemleridir.",
+                    "rationale": "Satış, sürecin sadece bir parçasıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "MİY, sadece satış sonrasında misafiri memnun etme çabasıdır.",
+                    "rationale": "Sınav ipucunda özellikle belirtildiği gibi, MİY sadece satış sonrası bir hizmet değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "MİY; satış öncesini, satışı, satış sonrasını ve hatta üretim sürecini kapsayan geniş bir süreçtir.",
+                    "rationale": "MİY işletmenin tüm birimlerini ve aşamalarını kapsayan stratejik ve bütünsel bir yapıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "MİY, tamamen otelin dijital pazarlama departmanının sorumluluğundadır.",
+                    "rationale": "Tüm birimler arası koordinasyonu kapsar, tek bir departmana indirgenemez.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Özette yer alan 'Hocalar genellikle yanıltmacalı sorar' ipucuna dikkat edin."
+        },
+        {
+            "questionNumber": 16,
+            "question": "MİY terminolojisinde 'Yaşam Boyu Değer' kavramı neyi ifade eder?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Misafirin otelde geçirdiği toplam konaklama süresini.",
+                    "rationale": "Sadece konaklama süresi değil, getirdiği toplam değerdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Her bir misafirin işletmeye uzun yıllar boyunca bırakacağı toplam maddi ve manevi değeri.",
+                    "rationale": "Misafirin yaşamı boyunca o markayı tercih ederek sağladığı kümülatif kazançtır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Otel personelinin işletmeye olan sadakat süresini.",
+                    "rationale": "Kavram personel değil, misafir odaklıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Otelin kuruluşundan kapanışına kadar elde ettiği toplam ciro.",
+                    "rationale": "Tüm ciro değil, tek bir müşteri bazındaki değerdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sadece sadık misafirlerin yararlandığı indirimli ömür boyu üyelik sistemini.",
+                    "rationale": "Bu bir üyelik sistemi değil, pazarlama metriğidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bir kişinin sadık bir müşteri olarak yıllar içinde şirkete kattığı toplam potansiyeli düşünün."
+        },
+        {
+            "questionNumber": 17,
+            "question": "Aşağıdakilerden hangisi MİY'in (Misafir İlişkileri Yönetimi) işletmeye sağladığı temel faydalardan biri DEĞİLDİR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Mevcut misafiri elde tutarak yeni misafir bulma maliyetinden tasarruf sağlamak.",
+                    "rationale": "Mevcut müşteriyi tutmak her zaman daha karlı ve az maliyetlidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İhtiyaçları doğru tespit ederek maksimum karşılıklı fayda yaratmak.",
+                    "rationale": "Karşılıklı (kazan-kazan) fayda MİY'in özüdür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sürdürülebilir misafir sadakati oluşturmak.",
+                    "rationale": "Sadakat, işletmenin kalıcı değerini artırır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Otelin tüm departmanlarında çalışan sayısını azaltmak.",
+                    "rationale": "MİY istihdamı azaltmayı değil, verimliliği ve koordinasyonu artırmayı hedefler.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Minimum maliyetle ilave satışlar yapmak.",
+                    "rationale": "Düşük maliyet ve yüksek kar MİY'in hedeflerindendir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "MİY insan odaklı bir sistemdir, personeli işten çıkarmak gibi bir operasyonel amacı yoktur."
+        },
+        {
+            "questionNumber": 18,
+            "question": "MİY Sürecinin birinci aşaması olan 'Misafir Seçimi'nde, misafirleri homojen alt gruplara ayırmak (segmentasyon) için kullanılan 4 kriter arasında aşağıdakilerden hangisi BULUNMAZ?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Gelirlere göre",
+                    "rationale": "Bu segmentasyon kriterlerinden biridir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kârlılığa göre",
+                    "rationale": "Bu segmentasyon kriterlerinden biridir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yaş ve cinsiyete göre",
+                    "rationale": "Demografik özellikler genel pazarlamada kullanılsa da, MİY'in finansal segmentasyon 4'lüsünde doğrudan yer almaz.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Maliyet ve gelir ilişkisine göre",
+                    "rationale": "Bu segmentasyon kriterlerinden biridir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gelir-kârlılık ilişkisine göre",
+                    "rationale": "Bu segmentasyon kriterlerinden biridir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "MİY'deki ana hedef 'en kârlı' misafiri bulmak olduğu için sınıflandırma daha çok finansal metriklerle yapılır."
+        },
+        {
+            "questionNumber": 19,
+            "question": "Standart oda rezervasyonu yapmış olan bir misafire, belirli bir fiyat farkı ödemesi karşılığında oteldeki en lüks Suit odayı önermek ve satmaya çalışmak, MİY tekniklerinden hangisine örnektir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Çapraz Satış (Cross-selling)",
+                    "rationale": "Çapraz satış, odanın yanına farklı bir ürün (örneğin masaj) satmaktır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dikey Satış (Up-selling)",
+                    "rationale": "Aynı ürünün daha üst modelini/kalitelisini satma çabası dikey satıştır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Benchmarking (Kıyaslama)",
+                    "rationale": "Kıyaslama, rakiplerle kendi durumunu karşılaştırma analizidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Veri Madenciliği (Data Mining)",
+                    "rationale": "Veri madenciliği bir analiz yöntemidir, satış tekniği değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafir Edinme",
+                    "rationale": "Bu, MİY sürecinin bir aşamasıdır, spesifik satış tekniğinin adı değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bir ürünü 'üst' modeline yükseltme (upgrade) eyleminin İngilizce ismini düşünün."
+        },
+        {
+            "questionNumber": 20,
+            "question": "Misafire kullandığı temel ürüne ek olarak farklı ürün çeşitlerinin de sunulması işlemine ne ad verilir? (Örneğin: Oda tutan misafire SPA veya transfer paketi satmak)",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Çapraz Satış (Cross-selling)",
+                    "rationale": "Farklı kategorideki tamamlayıcı veya ek ürünlerin satışına çapraz satış denir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Dikey Satış (Up-selling)",
+                    "rationale": "Dikey satış aynı ürünün daha iyisini satmaktır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promosyon Dağıtımı",
+                    "rationale": "Bu ücretsiz bir tutundurma faaliyetidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Geri Ödeme (Refund)",
+                    "rationale": "Geri ödeme hatalı işlem sonrası para iadesidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Operasyonel MİY",
+                    "rationale": "Bu MİY'in türlerinden biridir, teknik adı değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Farklı departmanların ürünlerini birbirine entegre ederek satma eylemidir."
+        },
+        {
+            "questionNumber": 21,
+            "question": "İşletmenin 'Beyni' olarak kabul edilen, veri madenciliği ile misafir davranış biçimlerini anlayan ve yöneticilere geleceğe yönelik öngörü sağlayan MİY sistemi aşağıdakilerden hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Operasyonel MİY",
+                    "rationale": "Operasyonel kısım doğrudan temas noktasıdır, yüzüdür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İşbirlikçi (Collaborative) MİY",
+                    "rationale": "İşbirlikçi MİY, tedarikçiler ve iş ortaklarıyla iletişimi sağlayan köprüdür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Analitik MİY",
+                    "rationale": "Verileri analiz edip tahmin yürüten, işletmenin zekası/beyni konumundaki sistemdir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Satış Gücü Otomasyonu",
+                    "rationale": "Sadece satışı destekleyen yazılımsal bir modüldür, beyni değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Geleneksel Pazarlama",
+                    "rationale": "Bu bir MİY sistemi değil, klasik pazarlama yaklaşımıdır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Analiz etme, verileri işleme ve tahmin yürütme kelimelerinden yola çıkabilirsiniz."
+        },
+        {
+            "questionNumber": 22,
+            "question": "Aşağıdakilerden hangisi işletme yönetiminin aldığı kuralların konuk tarafından haksızlık veya kısıtlama olarak algılanması sonucu oluşan 'Politika Hatalarına' bir örnektir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Resepsiyonistin konuğun yüzüne bakmadan işlem yapması.",
+                    "rationale": "Bu bir işgören (personel) davranışı hatasıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Odada klimanın bozuk olması ve tamir edilmemesi.",
+                    "rationale": "Bu teknik/ekipman kaynaklı bir şikayettir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Her şey dahil sistemde konuklara zorunlu bileklik takılması veya klimaların sadece belli saatlerde çalıştırılması.",
+                    "rationale": "Yönetimin aldığı genel bir kuralın misafirde yarattığı kısıtlanmışlık hissidir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Açık büfede yemeklerin soğuk sunulması.",
+                    "rationale": "Bu hizmet/ürün kalitesi hatasıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yan odadaki misafirin yüksek sesle müzik dinlemesi.",
+                    "rationale": "Bu diğer konuklardan kaynaklanan şikayettir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Personelin elinde olmayan, tamamen üst yönetimin belirlediği 'otel kuralları' ile ilgili seçeneği bulun."
+        },
+        {
+            "questionNumber": 23,
+            "question": "Şikayet istatistiklerine göre, otellerde şikayet etmeyi gerektiren bir durumla karşılaşan konukların sadece yüzde kaçı durumu sözlü olarak ifade eder (Şikayet eder)?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "%50",
+                    "rationale": "Oran bu kadar yüksek değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "%90",
+                    "rationale": "Tam tersine, şikayet etmeyen sessiz kitle %90'dır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "%10",
+                    "rationale": "Misafirlerin sadece %10'u şikayetini sözlü dile getirir, kalanı sessizce ayrılır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "%25",
+                    "rationale": "İstatistiksel olarak hatalı bir orandır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "%75",
+                    "rationale": "Bu oran kötü hizmeti başkasına anlatanların oranıdır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Buzdağının sadece görünen ve çok küçük olan kısmını (Sessiz çoğunluğun dışındakileri) temsil eder."
+        },
+        {
+            "questionNumber": 24,
+            "question": "Konuk şikayetlerini çözmede misafir tarafında EN YÜKSEK memnuniyeti sağlayan ve tatmini en çok artıran yöntem aşağıdakilerden hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Sadece sorunun nedenini açıklayıp özür dilemek.",
+                    "rationale": "Bu %66 oranında memnuniyet sağlar ancak en yükseği değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hiçbir şey yapmayıp misafirin sakinleşmesini beklemek.",
+                    "rationale": "Bu durum tam bir tatminsizlik yaratır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hatanın düzeltilmesi ve yanında ekstra bir ikram (şampanya, meyve sepeti vb.) verilmesi.",
+                    "rationale": "Sorunun çözümü üzerine eklenen jest, misafir tatminini zirveye taşır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Suçu başka bir departmana atarak personeli korumak.",
+                    "rationale": "Misafir kimin suçlu olduğuyla değil, sorunun çözümüyle ilgilenir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sadece hatayı sessizce gidermek.",
+                    "rationale": "Ekstra ikram olmadan yapılan düzeltme %72 memnuniyet sağlar, ikram eklendiğinde etki çok daha büyüktür.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Özür dilemenin ötesine geçip misafire 'Değerlisin' mesajı veren fiziksel bir jest içeren şıkkı bulun."
+        },
+        {
+            "questionNumber": 25,
+            "question": "Şikayet eden bir misafir ile iletişim kurarken KESİNLİKLE kaçınılması gereken ve 'Olumsuz/İnatlaşma' anlamı taşıyan majör iletişim hatası nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Konuğun sorununu dikkatlice dinlemek.",
+                    "rationale": "Bu yapılması gereken en doğru şeydir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafir %100 haksız olsa bile onunla tartışmaya girmek ve hatasını yüzüne vurmak.",
+                    "rationale": "Tartışmak, inatlaşmak ve misafiri alt etmeye çalışmak turizmde kabul edilemez bir hatadır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Güleryüzlü olmak.",
+                    "rationale": "Sorun çözerken dahi profesyonel bir tebessüm gereklidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Olayı çözmek için yetkili yöneticiye bilgi vermek.",
+                    "rationale": "Bu doğru bir eskalasyon yöntemidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Şikayeti sadece sunulan hizmete yönelik olarak (kişisel algılamadan) değerlendirmek.",
+                    "rationale": "Şikayeti kişisel algılamamak profesyonel bir duruştur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Haklı çıkmak değil, misafiri kazanmak önemlidir prensibine aykırı olan eylemdir."
+        },
+        {
+            "questionNumber": 26,
+            "question": "Şikayet yönetimi sırasında konuğa karşı kullanılması YASAKLI olan 7 ifadeden biri aşağıdakilerden hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Haklısınız.",
+                    "rationale": "Empati kurmak için sıklıkla kullanılır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Derhal ilgileniyorum.",
+                    "rationale": "Hızlı aksiyon alındığını gösterir, olumlu bir ifadedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Özür dilerim.",
+                    "rationale": "Şikayet çözümünün anahtarlarından biridir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yanlış biliyorsunuz!",
+                    "rationale": "Konuğu yalancı çıkaran, aşağılayıcı ve çatışma yaratan kesinlikle yasaklı bir ifadedir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Anlıyorum efendim.",
+                    "rationale": "Dinlediğinizi ve değer verdiğinizi gösterir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Misafiri doğrudan suçlayan ve onun zekasına/bilgisine hakaret gibi algılanan cümleyi arayın."
+        },
+        {
+            "questionNumber": 27,
+            "question": "Aşağıdakilerden hangisi misafirlerin memnuniyetsizliğine (şikayete) neden olan 'Personel/İşgören Hataları'ndan biri olarak kabul edilir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Otelin yanındaki yolda devam eden belediye inşaatı.",
+                    "rationale": "Bu dış etkenlerden kaynaklı bir sorundur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tesis çalışanının kendi yaptığı bir hata sonrasında konuğu suçlaması.",
+                    "rationale": "Personelin kendi hatasını misafire yıkması büyük bir işgören davranışı hatasıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Otelin asansörünün motor arızası vermesi.",
+                    "rationale": "Bu ekipman/teknik kaynaklı bir sorundur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yönetimin kararı ile havuzun akşam 18:00'de kapanması.",
+                    "rationale": "Bu yönetimsel bir politika hatası/kısıtlamasıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Konuğun kendi odasında bardak kırması.",
+                    "rationale": "Bu konuk kaynaklı bir hatadır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Doğrudan otel çalışanının karakter, tutum veya eyleminden kaynaklanan şıkkı bulun."
+        },
+        {
+            "questionNumber": 28,
+            "question": "MİY tarihinde 'MİY' kavramının bugünkü adını (Misafir İlişkileri Yönetimi - CRM) aldığı ve gelişimini tamamladığı yıl hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "1983",
+                    "rationale": "1983 yılı MİY'in kökeni olan 'İlişki Pazarlaması'nın çıktığı yıldır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1988",
+                    "rationale": "1988 yılı Veri Tabanı Pazarlaması aşamasıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1990",
+                    "rationale": "1990 yılı Satış Gücü Otomasyonu aşamasıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1995",
+                    "rationale": "Kavramın günümüzdeki adıyla anılmaya başlandığı yıl 1995'tir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "2000",
+                    "rationale": "Tarihsel gelişim tablosunda 2000 yılı yer almamaktadır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kronolojik tabloda yer alan en son ve güncel tarihi hatırlayın."
+        },
+        {
+            "questionNumber": 29,
+            "question": "Şikayet çözüm sürecinde memnuniyetsizlik yaratan ve yapılmaması gereken durumlardan 'Zamanında Yapılamayan Düzeltmeler' misafirde nasıl bir etki bırakır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Misafir sorunun ciddiye alındığını düşünerek mutlu olur.",
+                    "rationale": "Geç gelen çözüm mutluluk değil, aksine kızgınlık yaratır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Müdahale yapılmış olsa bile saatler sonra gelindiği için konuk tatmin olmaz.",
+                    "rationale": "Turizmde hız kalitenin bir parçasıdır. Gecikmiş çözüm, çözümsüzlük gibidir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Konuk tesisin ne kadar yoğun ve popüler olduğunu anlar.",
+                    "rationale": "Misafir kendi konforuyla ilgilenir, otelin yoğunluğunu mazeret olarak görmez.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Memnuniyet oranını %100'e çıkarır.",
+                    "rationale": "Zamanında yapılmayan bir işin memnuniyeti artırması imkansızdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafir durumu kendi başına çözmeyi öğrenir.",
+                    "rationale": "Otelcilikte misafirin sorunu kendi çözmesi beklenmez.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "'Geciken adalet, adalet değildir' sözünün otelcilikteki yansımasını düşünün."
+        },
+        {
+            "questionNumber": 30,
+            "question": "Aşağıdakilerden hangisi 'Dış Etkenlerden Kaynaklanan Şikayetler' sınıfına girer ve telafisi işletme için en güç olanlardan biridir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Garsonun yemeği yanlış masaya servis etmesi.",
+                    "rationale": "Bu personel (işgören) hatasıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bölgedeki plaj imkanlarının yetersiz olması veya belediyenin yol çalışması yapması.",
+                    "rationale": "İşletmenin müdahale edemeyeceği, tesis sınırları dışındaki sorunlardır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Resepsiyonda bekleyen sıranın çok uzun olması.",
+                    "rationale": "Bu organizasyon ve hız kaynaklı işletme içi sorundur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Odadaki televizyon kumandasının pillerinin bitik olması.",
+                    "rationale": "Bu ekipman kontrolü/hizmet eksikliği ile ilgilidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Biten yemeklerin büfeye zamanında takviye edilmemesi.",
+                    "rationale": "Bu mutfak ve servis koordinasyonu ile ilgili iç hatadır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Otelin kendi arazisi ve yetki sınırları dışında gerçekleşen olayları arayın."
+        },
+        {
+            "questionNumber": 31,
+            "question": "Telefonda iletişimde 'Doğrulama (Onaylatma)' işleminin temel amacı nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Karşı tarafı oyalayarak zaman kazanmak.",
+                    "rationale": "Telefon iletişiminde zaman kaybettirmek doğru değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Alınan mesaj veya talimatın doğru anlaşıldığını kontrol ederek hata yapmayı önlemek.",
+                    "rationale": "Tekrarlamak, bilgilerin doğruluğunu teyit eder ve dikkatli çalışıldığını gösterir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Karşı tarafın ne kadar yetkili olduğunu sorgulamak.",
+                    "rationale": "Doğrulama yetki sorgulamak için değil, hata önlemek için yapılır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Müşterinin ses tonundan kişilik analizi yapmak.",
+                    "rationale": "Ses tonu kişiliğe dair ipucu verse de doğrulamanın amacı analiz değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Siparişi iptal etmek için fırsat kollamak.",
+                    "rationale": "Satışı veya işlemi sabote etmek amacı taşımaz.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bir işlemi sonlandırmadan önce, iki tarafın da aynı şeyi anladığından emin olma işlemidir."
+        },
+        {
+            "questionNumber": 32,
+            "question": "İş yerinde özel ve uzun telefon görüşmeleri yapılmasının yasak/etik dışı olmasının temel nedenleri arasında aşağıdakilerden hangisi yer almaz?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Hattı gereksiz yere meşgul etmesi.",
+                    "rationale": "Bu ana sebeplerden biridir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İşletmeye parasal (fatura) kayıp yaşatması.",
+                    "rationale": "Bu ana sebeplerden biridir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Müşterilerin işletmeye ulaşabilirliğini engellemesi.",
+                    "rationale": "Hat meşguliyetinden dolayı müşteri kaybına yol açar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Personelin iş arkadaşlarıyla daha fazla sosyalleşmesini sağlaması.",
+                    "rationale": "Bu olumsuz bir sonuç değil, mantıksız bir gerekçedir; iş ahlakına aykırı bir durumu savunamaz.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Personelin işe odaklanmasını azaltması.",
+                    "rationale": "Özel işlerle uğraşmak iş verimini düşürür.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Olumsuz sonuçları değerlendirdiğinizde, şıklar arasında kulağa 'fayda' gibi gelmeye çalışan mantıksız seçeneği bulun."
+        },
+        {
+            "questionNumber": 33,
+            "question": "Otel postalarının yönetiminde, 'Personel Bölümüne' gelen postalar kime teslim edilmelidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Doğrudan otel genel müdürüne.",
+                    "rationale": "Müdüriyet sadece otel yönetimine gelenlere bakar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İnsan Kaynakları departmanına.",
+                    "rationale": "Özete göre personele gelen postalar Personel Bölümüne (İnsan Kaynakları) teslim edilir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Misafir ilişkileri departmanına.",
+                    "rationale": "Bu departman konuklarla ilgilenir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Güvenlik birimine.",
+                    "rationale": "Postalar genel olarak güvenlikte tutulmaz, ilgili birime dağıtılır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Belboy'a.",
+                    "rationale": "Belboy misafire gelen postaları dağıtır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Çalışanların özlük dosyalarını ve iç yazışmalarını yöneten ana departmanı düşünün."
+        },
+        {
+            "questionNumber": 34,
+            "question": "Arama yapmak üzere (dış arama) telefonu kaldırmadan önce kişinin kendine sorması gereken test sorularından biri DEĞİLDİR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Görüşme için hangi hazırlıkları yaptım?",
+                    "rationale": "Bu sorulması gereken ilk sorudur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Görüşme planı yaptım mı?",
+                    "rationale": "Plan yapmak esastır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Arama saatim uygun mu?",
+                    "rationale": "Uygun zamanlama aramanın verimini etkiler.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karşı tarafın ne kadar bütçesi var?",
+                    "rationale": "Her arama satış odaklı değildir, arama öncesi iletişim planında bu soru yer almaz.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Konuşmaya hazır mıyım, sesim düzgün mü?",
+                    "rationale": "Fiziksel ve mental hazırlık sorusudur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Slayttaki liste sadece görüşmenin iletişimi, akışı ve hazırlığı ile ilgilidir, müşterinin cüzdanıyla değil."
+        },
+        {
+            "questionNumber": 35,
+            "question": "MİY (Misafir İlişkileri Yönetimi) Süreci aşamaları hangi şıkta doğru sırayla verilmiştir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Misafir Edinme - Misafir Seçimi - Misafir Derinleştirme - Misafir Koruma",
+                    "rationale": "Seçim yapmadan edinme yapılamaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafir Seçimi - Misafir Edinme - Misafir Koruma - Misafir Derinleştirme",
+                    "rationale": "Süreç; seçme, kazanma (edinme), elde tutma (koruma) ve geliştirme (derinleştirme) sırasıyla ilerler.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Misafir Koruma - Misafir Derinleştirme - Misafir Edinme - Misafir Seçimi",
+                    "rationale": "Bu tam tersi bir sıralamadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafir Edinme - Misafir Derinleştirme - Misafir Seçimi - Misafir Koruma",
+                    "rationale": "Karışık ve hatalı bir sıralamadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafir Seçimi - Misafir Koruma - Misafir Edinme - Misafir Derinleştirme",
+                    "rationale": "Edinmeden (kazanmadan) koruma işlemi yapılamaz.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Önce bul (seç), sonra kazan, ardından kaybetme ve en son ondan daha çok faydalan."
+        },
+        {
+            "questionNumber": 36,
+            "question": "Aşağıdakilerden hangisi şikayet çözümünde işlem basamaklarından biri olarak sayılmaz?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Konuğu dikkatle dinlemek.",
+                    "rationale": "Bu en temel çözüm basamaklarından biridir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Konuğun sözünü sık sık keserek savunma yapmak.",
+                    "rationale": "Konuğun sözü kesilmez ve savunmaya geçilmez, bu yasaklı bir davranıştır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ses tonunu iyi ayarlamak.",
+                    "rationale": "Ses tonu yatıştırıcı ve güven verici olmalıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sorunun çözümü ile ilgili rapor düzenlemek.",
+                    "rationale": "Süreci kayıt altına almak kurumsal bir basamaktır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İşletmenin yönetim yapısındaki hiyerarşik sıralamaya dikkat etmek.",
+                    "rationale": "Çözüm esnasında yetki sınırlarını bilmek önemlidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Dinlemek ve saygı göstermek kurallarının tam tersi olan şıkkı arayın."
+        },
+        {
+            "questionNumber": 37,
+            "question": "Tesis içerisinde bir personelin kendi hatası sonrasında konuğu suçlaması ve konuk bankoya geldiğinde yerinde olmaması gibi durumlar hangi başlık altında toplanır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Memnuniyetsizliğe Neden Olan Davranışlar",
+                    "rationale": "Bu eylemler doğrudan konukları çileden çıkaran personel davranış hatalarıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kurumsal Temsil Stratejileri",
+                    "rationale": "Bu strateji değil, bir yönetim zaafiyetidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafir Derinleştirme Taktikleri",
+                    "rationale": "Derinleştirme satışla ilgilidir, hatayla değil.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telefonda İletişim Kuralları",
+                    "rationale": "Bunlar genellikle yüz yüze temas noktalarında olan hatalardır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dış Etkenlerden Kaynaklanan Sorunlar",
+                    "rationale": "Personel, işletmenin iç etkenidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Misafiri mutsuz eden, işletmenin hizmet standardına uymayan 13 maddelik listeyi hatırlayın."
+        },
+        {
+            "questionNumber": 38,
+            "question": "Telefonda iletişim sırasında 'Sihirli Kelimeler' olarak adlandırılan ifadeler neden kullanılmalıdır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Sadece telefonu kapatırken zaman kazanmak için.",
+                    "rationale": "Sihirli kelimeler iletişimin her aşamasında kullanılır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karşı tarafın dikkati dağıldığında onu uyarmak için.",
+                    "rationale": "Uyarı aracı değil, nezaket göstergesidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sık sık nazik sözcükler kullanarak sese sıcaklık ve profesyonellik katmak için.",
+                    "rationale": "Lütfen, özür dilerim, rica ederim gibi sözcükler iletişimi yumuşatır ve nezaketi artırır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Müşterinin şikayetini bastırmak için.",
+                    "rationale": "Şikayetler kelime oyunuyla bastırılmaz, çözülür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kurumun yasal prosedürlerini okurken zorunlu oldukları için.",
+                    "rationale": "Yasal bir zorunluluk değil, iletişim etiğidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lütfen, rica ederim, teşekkür ederim gibi ifadelerin genel amacını düşünün."
+        },
+        {
+            "questionNumber": 39,
+            "question": "'O kadar da kötü değildi, kime şikayet edeceğimi bilmiyordum veya geçen sefer şikayet ettim hiçbir şey yapılmadı' gibi düşüncelerle sorunlarını dile getirmeyen kitleye ne ad verilir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Sadık Misafirler",
+                    "rationale": "Sadık misafir sorun gördüğünde işletmenin iyiliği için uyarır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sessiz Çoğunluk",
+                    "rationale": "Tesisin hatalarını görmezden gelip bir daha gelmemeyi tercih eden geniş %90'lık kitledir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Potansiyel Müşteriler",
+                    "rationale": "Bunlar zaten otelde kalan mevcut müşterilerdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Memnun Müşteriler",
+                    "rationale": "Memnun değillerdir, sadece söylemezler.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aşırı Tepkili Misafirler",
+                    "rationale": "Tepkili olsalar ses çıkarırlardı.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Hiçbir şey söylemeden çekip giden %90'lık kitleyi ifade eden kavramı hatırlayın."
+        },
+        {
+            "questionNumber": 40,
+            "question": "Aşağıdakilerden hangisi telefonda konuşurken FİZİKSEL DURUM ile ilgili uyulması gereken kesin kurallardan biridir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Telefonla konuşurken arka planda mutlaka hafif bir müzik açılmalıdır.",
+                    "rationale": "Arka plan müziği veya gürültüsü iletişimi bozar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telefonla konuşurken kesinlikle sigara içilmez, ağızda bir şey varken konuşulmaz.",
+                    "rationale": "Ağız doluyken veya sigara içerken konuşmak hem saygısızlık hem de sesin bozulmasına nedendir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Telefonla ayakta konuşmak yasaktır.",
+                    "rationale": "Ayakta konuşmak sesi daha gür çıkarabilir, yasak değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ahize mutlaka sol el ile tutulmalıdır.",
+                    "rationale": "Böyle bir ergonomik zorunluluk kuralı yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Konuşurken sürekli yürünmelidir.",
+                    "rationale": "Yürümek nefes nefese kalmaya neden olabilir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Saygı sınırları ve sesin anlaşılabilirliği açısından ağız hareketlerini kısıtlayacak eylemleri düşünün."
+        },
+        {
+            "questionNumber": 41,
+            "question": "Bir otelde, MİY Sürecinin 'Misafir Koruma (Elde Tutma)' aşamasında kriz veya sorunlu dönemlerde doğru aksiyon alınırsa konukların yüzde kaçı elde tutulabilir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "%10",
+                    "rationale": "Bu oran çok düşüktür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "%35",
+                    "rationale": "Erken müdahale ile kriz anlarında bile misafirlerin %35'i kaybedilmekten kurtarılabilir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "%50",
+                    "rationale": "Özette verilen net spesifik istatistik bu değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "%75",
+                    "rationale": "Bu kötü hizmeti başkalarına anlatanların oranıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "%90",
+                    "rationale": "Kriz anında bu kadar yüksek bir elde tutma oranı gerçekçi değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "MİY istatistiklerinde kriz anı için verilen spesifik oranı (üçte bire yakın) hatırlayın."
+        },
+        {
+            "questionNumber": 42,
+            "question": "Görüşülecek konu için not almak amacıyla çok uzun bir konuşma yapılacaksa, personelin kullanması önerilen cihazın adı nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Hesap Makinesi",
+                    "rationale": "Not almak için kullanılmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faks Cihazı",
+                    "rationale": "Faks belge iletimi içindir, ses kaydetmez.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Diktafon (Dikte Makinesi)",
+                    "rationale": "Uzun notlar için görüşmeyi kaydedip sonra temize çekmeye yarayan cihazdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Telesekreter",
+                    "rationale": "Telesekreter sadece kısa mesaj bırakmak içindir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tarayıcı (Scanner)",
+                    "rationale": "Belge dijitalleştirmek için kullanılır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Gazetecilerin de sık kullandığı, sesi kaydedip sonradan yazıya dökmeye yarayan aracı düşünün."
+        },
+        {
+            "questionNumber": 43,
+            "question": "Otel yönetiminin, rakip otellerin uygulamalarını inceleyerek kıyaslama yapmasına (Misafir Edinme aşaması) ne ad verilir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Benchmarking",
+                    "rationale": "İşletmenin kendi süreçlerini en iyilerle kıyaslamasıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cross-selling",
+                    "rationale": "Bu bir satış tekniğidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Data Mining",
+                    "rationale": "Veri madenciliği bir analiz yöntemidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Up-selling",
+                    "rationale": "Bu bir dikey satış tekniğidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Segmentasyon",
+                    "rationale": "Müşterileri gruplara ayırma işlemidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İngilizcede 'kıyaslama, referans noktası alma' anlamına gelen terimdir."
+        },
+        {
+            "questionNumber": 44,
+            "question": "Aşağıdakilerden hangisi şikayet çözümünde yapılması gereken 'Geri Ödeme (Refund)' uygulamasının sonucunu ifade eder?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Memnuniyeti tamamen sıfırlar.",
+                    "rationale": "Geri ödeme misafirin zararını karşıladığı için olumlu bir etkisi vardır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Müşteriyi otelden kovmak anlamına gelir.",
+                    "rationale": "Refund yasal bir haktır, kovmak değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yanlış ücretlendirme hatalarında paranın iade edilmesidir ve %50 oranında memnuniyet sağlar.",
+                    "rationale": "Maddi hatalarda tek çözüm para iadesidir, adaleti sağlar ancak ekstra ikram olmadığı için tatmin %50 civarındadır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Müşteriye otelde bedava konaklama hakkı tanımaktır.",
+                    "rationale": "Bedava konaklama çok daha büyük bir kompandır, refund sadece alınan paranın iadesidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Otel personelinin maaşından kesinti yapmaktır.",
+                    "rationale": "Bu bir personel disiplin sürecidir, misafir çözümü değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Maddi bir hata (fazla para çekilmesi vb.) yapıldığında düzeltmenin tek yolunu düşünün."
+        },
+        {
+            "questionNumber": 45,
+            "question": "Uluslararası fonetik alfabeye (İngilizce okunuşlarına) göre E, H ve J harflerinin kodlaması sırasıyla hangi şıkta doğru verilmiştir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Edirne - Hopa - Jale",
+                    "rationale": "Bunlar ulusal (Türkçe) kodlamalardır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Echo - Hotel - Juliett",
+                    "rationale": "Uluslararası standart havacılık ve turizm alfabesindeki karşılıkları bunlardır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eagle - House - Jack",
+                    "rationale": "Bu kelimeler uluslararası standart fonetik alfabede kullanılmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Echo - Hopa - Juliett",
+                    "rationale": "Hopa ulusal, diğerleri uluslararasıdır, karışıktır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Elephant - Hotel - January",
+                    "rationale": "Standart dışı, rastgele uydurulmuş kelimelerdir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Özetteki İngilizce okunuş tablosundaki standart telsiz kelimelerini anımsayın."
+        },
+        {
+            "questionNumber": 46,
+            "question": "Geleneksel iletişim araçları (Telefon, Faks) ile modern teknolojilerin (E-posta, SMS) birleşmesiyle iki yönlü diyalog kurmayı sağlayan MİY sistemi hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Operasyonel MİY",
+                    "rationale": "Doğrudan yüzyüze ve birincil iletişimdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Analitik MİY",
+                    "rationale": "Arka planda veri işler.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İşbirlikçi (Collaborative) MİY",
+                    "rationale": "Misafirler ve tedarikçilerle iletişim kanallarını çoğaltıp entegre eden köprü sistemidir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Klasik Pazarlama",
+                    "rationale": "Tek yönlü reklamı kapsar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telesekreter Ağı",
+                    "rationale": "Sadece sesli mesaj sistemidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İletişimi çoğaltarak herkesi (tedarikçi, müşteri) sisteme dahil eden, ortaklaşa çalışılan sistemi düşünün."
+        },
+        {
+            "questionNumber": 47,
+            "question": "Aşağıdakilerden hangisi bir şikayeti çözerken işletmenin yapabileceği en 'tatmin etmeyen' (en kötü) aksiyondur?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Hiçbir şey yapılmaması (Bilerek aksiyon almamak).",
+                    "rationale": "Sorunu görmezden gelmek misafirde tam bir hayal kırıklığı ve öfke yaratır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sorunu çözüp özür dilemek.",
+                    "rationale": "Bu kabul edilebilir iyi bir yöntemdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hesaptan indirim yapmak.",
+                    "rationale": "Maddi olarak tatmin edici bir uzlaşmadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Odayı bir üst segmentle değiştirmek (Upgrade).",
+                    "rationale": "Bu çok tatmin edici bir jesttir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hatanın yönetici tarafından düzeltilmesi.",
+                    "rationale": "Yöneticinin ilgilenmesi misafire değer verildiğini gösterir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Tepkisiz kalmanın, iletişimi tamamen koparan bir eylem olduğunu unutmayın."
+        },
+        {
+            "questionNumber": 48,
+            "question": "Telefonda konuşurken yavaş ve kelimeleri yutarak konuşmak (yanlış tempo) hangi olumsuz sonuca yol açar?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Sesin daha ikna edici çıkmasını sağlar.",
+                    "rationale": "Kelimeleri yutmak ikna ediciliği yok eder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karşı tarafın anlamasını zorlaştırır ve yanlış anlaşılmalara sebep olur.",
+                    "rationale": "Kötü diksiyon ve yanlış tempo, iletişimin sağlıklı kurulmasını engeller.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Müşterinin sakinleşmesini sağlar.",
+                    "rationale": "Anlaşılmamak müşteriyi daha da sinirlendirir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telefon cihazının ömrünü uzatır.",
+                    "rationale": "Donanımla konuşma hızının alakası yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Otelin profesyonel imajını yansıtır.",
+                    "rationale": "Tam tersine, amatör ve özensiz bir imaj çizer.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Birini zar zor duyduğunuzda hissettiğiniz iletişimsizlik duygusunu aklınıza getirin."
+        },
+        {
+            "questionNumber": 49,
+            "question": "Misafirler nezdinde şikayetler aslen kime veya neye yöneliktir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Doğrudan personelin kişiliğine, şahsına.",
+                    "rationale": "Personel şikayetleri kişisel algılamamalıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sadece işletme sahibine.",
+                    "rationale": "Misafir muhatap olarak karşısındaki hizmeti görür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hükümetin turizm politikalarına.",
+                    "rationale": "Bu çok makro bir boyuttur, otel içi şikayetle ilgisi yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sunulan hizmete ve sistemin işleyişine.",
+                    "rationale": "Şikayet şahsa değil, verilen hizmetin kalitesindeki düşüşedir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Rakiplere.",
+                    "rationale": "Misafir rakibi değil, aldığı hizmeti şikayet eder.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Çalışanların şikayetleri 'Kişisel algılamaması' gerektiği kuralının temel sebebini düşünün."
+        },
+        {
+            "questionNumber": 50,
+            "question": "Şikayet yönetimi esnasında hatanın sorumluluğunu başka bir departmana veya kişiye atmak neden yanlıştır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Çünkü konuk, diğer departmanların yerini bilmeyebilir.",
+                    "rationale": "Fiziksel yer bilmemek sorun değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çünkü turizm bir bütündür; misafir için otel tek bir kurumdur, hata herkesi ilgilendirir.",
+                    "rationale": "Konuk iç çekişmelerle ilgilenmez, kurumun kendisine bakar.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Çünkü diğer departman müdürü daha kıdemli olabilir.",
+                    "rationale": "Sebep hiyerarşi değil, misafire sunulan kurumsal bütünlüktür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çünkü suçu atılan kişi işten çıkarılabilir.",
+                    "rationale": "Bu bir iç disiplin meselesidir, misafire karşı sorumluluk reddi mazereti değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çünkü misafire suçlu bulunamadığı söylenmelidir.",
+                    "rationale": "Suçluyu bulamamak misafire güven vermez, çözüm odaklı olmak gerekir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Misafirin oteli bölümler olarak değil, 'tek bir marka' olarak gördüğünü unutmayın."
+        },
+        {
+            "questionNumber": 51,
+            "question": "Telefon cihazları üretilirken iletişimin sağlıklı olması için nasıl bir ayarla tasarlanmışlardır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Bağırma sesini yükseltmek için.",
+                    "rationale": "Cihazlar bağırmayı daha da rahatsız edici kılar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fısıltıyı netleştirmek için.",
+                    "rationale": "Fısıltı telefonda anlaşılmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Doğal ses tonunu iletebilecek şekilde üretilmişlerdir.",
+                    "rationale": "Bu yüzden telefonda ekstra bağırmaya veya fısıldamaya gerek yoktur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kalın sesleri inceletmek için.",
+                    "rationale": "Böyle bir ses değiştirme amacı yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Arka plan gürültüsünü tamamen silmek için.",
+                    "rationale": "Gelişmiş cihazlarda olsa da temel kural doğal sesi iletmesidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Telefonda konuşurken sesinizi ekstra yükseltmenize gerek olmamasının nedenini düşünün."
+        },
+        {
+            "questionNumber": 52,
+            "question": "Telefon görüşmesine hazırlık yaparken 'Masa Düzeni'nde aşağıdakilerden hangisinin her an bulunması zorunludur?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Su ve atıştırmalık",
+                    "rationale": "Telefonda bir şey yiyip içmek yasaktır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kalem, not defteri ve mesaj kayıt formu",
+                    "rationale": "Gelen bilgiyi hızla ve eksiksiz kaydetmek için gereklidir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kişisel cep telefonu",
+                    "rationale": "Odaklanmayı bozar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Otelin tüm hesap dökümleri",
+                    "rationale": "Bu her personel masasında durmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sözlük",
+                    "rationale": "Sözlük genel bir ihtiyaçtır ancak anlık kayıt için zaruri olan not araçlarıdır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Söylenenleri unutmamak için en geleneksel ihtiyacımız nedir?"
+        },
+        {
+            "questionNumber": 53,
+            "question": "Bir konuğu hatta beklemeye almadan önce uyulması gereken doğru kural nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Habersizce 'bekletme' (hold) tuşuna basmak.",
+                    "rationale": "Sessizce beklemeye almak saygısızlıktır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Konuğa bağırarak bekleyeceğini söylemek.",
+                    "rationale": "Bağırmak yasaktır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sadece müziği açıp uzaklaşmak.",
+                    "rationale": "Bilgi vermemek konuğu rahatsız eder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bekleme süresini belirtip, uygun ifadeyle özür dileyerek bilgi vermek.",
+                    "rationale": "Konuğu bilgilendirip rızasını almak zorunludur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Önce telefonu kapatıp sonra tekrar aramasını istemek.",
+                    "rationale": "Çözüm kapatmak değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Karşınızdakini belirsizlik içinde bırakmamanın en kibar yoludur."
+        },
+        {
+            "questionNumber": 54,
+            "question": "Telefon görüşmesi bittiğinde ahizenin sert bir şekilde yerine konulması karşı tarafta nasıl bir his yaratır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "İşlemin hızla bittiği hissi",
+                    "rationale": "Sert kapatmak hız değil öfke hissettirir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Profesyonellik hissi",
+                    "rationale": "Profesyonel bir davranış değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Olumsuz etkilenme ve önyargılara kapılma",
+                    "rationale": "Sert bir ses, misafirin yüzüne kapanmış gibi hissettirir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Teknolojik bir arıza olduğu düşüncesi",
+                    "rationale": "Misafir bunu doğrudan personelin tavrı olarak algılar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Önemli hissetme",
+                    "rationale": "Saygısızlık misafiri önemsiz hissettirir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Öfkeli insanların telefonu nasıl kapattığını hatırlayın."
+        },
+        {
+            "questionNumber": 55,
+            "question": "Telefonda tanınmayan kişilere hitap ederken KESİNLİKLE kullanılmaması gereken ifade hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Hanımefendi",
+                    "rationale": "Bu doğru bir hitaptır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Beyefendi",
+                    "rationale": "Bu doğru bir hitaptır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Siz",
+                    "rationale": "Bu doğru bir hitaptır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "SEN",
+                    "rationale": "Kurumsal iletişimde müşteriye 'Sen' denmez, lavbalilik yaratır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Müdürüm",
+                    "rationale": "Unvan kullanımı doğrudur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Aralarındaki mesafe korunması gereken kişilere nasıl hitap edilmeyeceğini bulun."
+        },
+        {
+            "questionNumber": 56,
+            "question": "Telefonda konuşurken 'aaaa, yaa, haa, hii, şeyyyy' gibi ifadeler kullanmak iletişimde neyin eksikliğini gösterir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Diksiyon ve Türkçe telaffuz kalitesinin",
+                    "rationale": "Anlamsız dolgu kelimeleri zayıf diksiyonun göstergesidir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Samimiyetin",
+                    "rationale": "Samimiyet dolgu kelimeleriyle kurulmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bağlantı hızının",
+                    "rationale": "Teknolojiyle ilgisi yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Otel kurallarının",
+                    "rationale": "Doğrudan kişinin konuşma becerisiyle ilgilidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Teknik bilginin",
+                    "rationale": "Sadece dil kullanımına dair bir sorundur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Güzel ve etkili konuşma sanatının diğer adını düşünün."
+        },
+        {
+            "questionNumber": 57,
+            "question": "Bilgi Güvenliği kuralları gereği, doğruluğundan emin olunmayan veya eksik olan bir bilgi hakkında personele düşen görev nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Tahmin yürüterek cevap vermek.",
+                    "rationale": "Tahminler yanlış yönlendirmeye sebep olur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Konuğu yalan söyleyerek yatıştırmak.",
+                    "rationale": "Karşı taraf kesinlikle yanıltılmaz kuralı esastır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Asla bu bilgiyi vermemek ve karşı tarafı yanıltmamak.",
+                    "rationale": "Eksik bilgi kurumu zarara uğratabilir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sadece diğer personele sormasını söylemek.",
+                    "rationale": "Çözümü kendiniz veya yetkili bulmalıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telefonu yüzüne kapatmak.",
+                    "rationale": "Kapatmak hiçbir zaman çözüm değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Emin değilseniz sessiz kalmak veya öğrenip dönmek yalan söylemekten daha iyidir."
+        },
+        {
+            "questionNumber": 58,
+            "question": "Otel çalışanının kendi çalışma bölgesinden ayrılması gerektiğinde yapması gereken en önemli eylem nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Telefonun fişini çekmek.",
+                    "rationale": "Telefonu kapatmak iletişimi kesmektir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mutlaka telefonlara başka birinin bakmasını sağlamak.",
+                    "rationale": "Yerine birini bırakmak kurumsal sürekliliğin şartıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Telesekretere 'Ben yokum' mesajı kaydetmek.",
+                    "rationale": "Kurumsal telefonda kişisel mesaj bırakılmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cihazı tamamen sessize almak.",
+                    "rationale": "Gelen çağrıların yanıtsız kalmasına neden olur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kapıya not asmak.",
+                    "rationale": "Arayan kişi kapıdaki notu göremez.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Çarkın dönmeye devam etmesi için yerinize birini ikame etmelisiniz."
+        },
+        {
+            "questionNumber": 59,
+            "question": "Otel not defterinin iletişim esnasında sağladığı temel faydalar arasında hangisi YOKTUR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Sorunu daha iyi anlamak",
+                    "rationale": "Yazarak takip etmek anlamayı kolaylaştırır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Konuyu toparlamak",
+                    "rationale": "Detayları kaybetmemeyi sağlar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Verilen sözleri unutmamak",
+                    "rationale": "En önemli faydalarından biridir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Müşterinin yüz hatlarını çizmek",
+                    "rationale": "Telefonda yüz görünmez, not defterinin amacı resim yapmak değildir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Bilgileri özetlemek",
+                    "rationale": "Görüşme sonu işlem yapmak için gereklidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Mantıksız ve amacı dışında olan kullanımı bulun."
+        },
+        {
+            "questionNumber": 60,
+            "question": "Telefonda çağrıya geç cevap verildiğinde personelin atması gereken İLK adım nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Hiçbir şey olmamış gibi konuşmaya başlamak.",
+                    "rationale": "Misafirin beklediği gerçeği yok sayılamaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mazeret uydurmak.",
+                    "rationale": "Mazeret üretmek profesyonel değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mutlaka gecikmeden dolayı özür dilemek.",
+                    "rationale": "Bekletilen kişinin gerginliğini almanın en kibar yoludur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Arayanı azarlamak.",
+                    "rationale": "Müşteri azarlanmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hemen yöneticiye bağlamak.",
+                    "rationale": "Geç açmak yöneticiye havale edilecek bir durum değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kendi hatanızı telafi etmenin en evrensel kelimesidir."
+        },
+        {
+            "questionNumber": 61,
+            "question": "Görüşülemeyen kişilere veya alınan notlara geri dönüş yapılırken 'zaman geçirmeden dönülmesinin' temel sebebi nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Telefon faturasının az gelmesini sağlamak.",
+                    "rationale": "Geri dönüş hızı faturayla ilgili değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zaman geçerse konunun önemini yitirebilmesi ve nezaketsizlik olması.",
+                    "rationale": "Eskişen bilgi değersizleşir ve müşteri önemsenmediğini hisseder.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mesai saatinin bitmesini beklemek.",
+                    "rationale": "Bu bilerek işi geciktirmektir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Diğer personelin işini azaltmak.",
+                    "rationale": "Sebep personeli rahatlatmak değil, misafir memnuyietidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telesekreterin dolmasını önlemek.",
+                    "rationale": "Geri dönüşlerin cihaz belleği ile alakası yoktur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Acil bir ihtiyacın bir gün sonra karşılanmasının hiçbir işe yaramaması gibi düşünebilirsiniz."
+        },
+        {
+            "questionNumber": 62,
+            "question": "Konuşma sırasında personelin arayan misafirin adını öğrenmesi durumunda yapması gereken en doğru davranış nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "İsmi sadece forma yazıp bir daha kullanmamak.",
+                    "rationale": "İsmi bilip kullanmamak fırsatı kaçırmaktır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hemen 'Sen' diye hitap etmeye başlamak.",
+                    "rationale": "İsim bilmek senli benli olmayı gerektirmez.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Görüşme boyunca ismini kullanarak (örn: Ahmet Bey) hitap etmek.",
+                    "rationale": "İsmiyle hitap etmek misafirin kendini özel hissetmesini sağlar.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "İsmini sürekli tekrarlayarak rahatsız etmek.",
+                    "rationale": "Aşırıya kaçmak yapaylık yaratır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İsmini başkalarına söylemek.",
+                    "rationale": "Bilgi mahremiyeti önemlidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İnsanların en sevdiği sesin kendi isimleri olduğunu unutmayın."
+        },
+        {
+            "questionNumber": 63,
+            "question": "Bir telefon görüşmesini sonlandırmadan HEMEN ÖNCE atılması gereken kritik adım nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Ahizeyi hızla kapatmak.",
+                    "rationale": "Kapatmadan önce iletişim tamamlanmalıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Müşterinin kredi kartı numarasını istemek.",
+                    "rationale": "Her işlem paralı değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "'Başka bir dileği/isteği olup olmadığını' sormak.",
+                    "rationale": "Bu soru, hizmetin tam anlamıyla bittiğinden emin olmak için şarttır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Yöneticiye haber vermek.",
+                    "rationale": "Bu işlem kapandıktan sonra yapılır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Derin bir nefes almak.",
+                    "rationale": "Fiziksel bir hareket iletişim adımı değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Misafirin unuttuğu başka bir sorusu kalıp kalmadığını teyit etme sorusudur."
+        },
+        {
+            "questionNumber": 64,
+            "question": "Dış arama yaparken (müşteriyi ararken) kişinin ses tonuyla ilgili olarak karşı taraftan ne BEKLENMEMELİDİR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Sesin açık ve net çıkması.",
+                    "rationale": "Bu beklenmesi ve yapılması gereken bir şeydir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kelimelerin iyi telaffuz edilmesi.",
+                    "rationale": "Bu da yapılması gereken bir şeydir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karşı tarafın sadece sesinizi duyarak sizi hemen tanıması.",
+                    "rationale": "Sesten tanınmayı beklemek yerine önce kendini tanıtmak zorunludur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Doğal bir ton kullanılması.",
+                    "rationale": "Doğallık şarttır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nezaket kurallarına uyulması.",
+                    "rationale": "Her halükarda şarttır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Sizi sadece anneniz veya çok yakınlarınız sesinizden anında tanıyabilir."
+        },
+        {
+            "questionNumber": 65,
+            "question": "Telesekretere mesaj bırakılırken ilk sırada (sinyal sesinden hemen sonra) ne yapılmalıdır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Telefon numarasını söylemek.",
+                    "rationale": "Numara görüşmenin sonuna doğru bırakılır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Arama nedenini açıklamak.",
+                    "rationale": "Kim olduğunuzu bilmeden neden aradığınızı anlamazlar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Selamlamak ve kendini tanıtmak.",
+                    "rationale": "Tıpkı canlı görüşmedeki gibi önce kimliğinizi belli etmelisiniz.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Teşekkür etmek.",
+                    "rationale": "Kapanışta yapılır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Müsait zamanı bildirmek.",
+                    "rationale": "Bu da sonlara doğru yapılan bir işlemdir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Her iletişim önce kim olduğunuzu bildirmekle başlar."
+        },
+        {
+            "questionNumber": 66,
+            "question": "Telesekretere bırakılan mesajın kapanışında mutlaka hangisi yapılmalıdır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Özür dilemek.",
+                    "rationale": "Mesaj bırakmak özür dilenecek bir durum değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sessizce kapatmak.",
+                    "rationale": "Nezaketsizdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Teşekkür ederek kapatmak.",
+                    "rationale": "Prosedürün son (7.) adımı teşekkür edip kapatmaktır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Cihazın kapanmasını beklemek.",
+                    "rationale": "Mesajınız bitince sizin kapatmanız gerekir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Numarayı baştan kodlamak.",
+                    "rationale": "Numara kapanıştan hemen önce bir kez tekrar edilir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Görüşmeyi nezaketle sonlandıran sihirli kelimeyi hatırlayın."
+        },
+        {
+            "questionNumber": 67,
+            "question": "Hızlı not (dikte) alırken personelin yetişemediği yerler olursa nasıl bir yöntem izlemelidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Karşı tarafı susturmak.",
+                    "rationale": "Söz kesmek yasaktır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telefonu kapatmak.",
+                    "rationale": "İletişimi koparmaktır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Buraları boş bırakmak veya soru işareti koyarak sonradan telafi etmek.",
+                    "rationale": "Akışı bozmamak için atlanan yerlere işaret konulur ve doğrulatma aşamasında tamamlanır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kafasından uydurarak doldurmak.",
+                    "rationale": "Yanlış bilgi facia yaratır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Not almaktan vazgeçmek.",
+                    "rationale": "Bu işlemin aksamasına sebep olur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Dinleme akışını bölmeden belirsizliği işaretlemenin en pratik yoludur."
+        },
+        {
+            "questionNumber": 68,
+            "question": "Uluslararası Fonetik Alfabeye göre 'F' harfi nasıl kodlanır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Fatsa",
+                    "rationale": "Bu Ulusal (Türkiye) kodlamasıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Foxtrot",
+                    "rationale": "Uluslararası havacılık ve turizm kodlamasında F Foxtrot'tur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "France",
+                    "rationale": "Yanlış bir kelimedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fire",
+                    "rationale": "Standart dışı bir kodlamadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fatih",
+                    "rationale": "Türkçe özel isimdir, kodlamada geçmez.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Ünlü bir dans türünün ismini taşıyan seçeneği bulun."
+        },
+        {
+            "questionNumber": 69,
+            "question": "Ulusal (Türkiye) Fonetik Alfabeye göre 'L' harfi hangi şehirle kodlanır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Lima",
+                    "rationale": "Bu uluslararası kodlamadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Laleli",
+                    "rationale": "Bu yaygın bir semt olsa da standart kodlama değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Lüleburgaz",
+                    "rationale": "Standart Ulusal alfabede L harfi Lüleburgaz ile kodlanır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Londra",
+                    "rationale": "Yabancı bir şehirdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Lapseki",
+                    "rationale": "Kodlama listesinde yer almaz.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kırklareli'nin ünlü bir ilçesini düşünün."
+        },
+        {
+            "questionNumber": 70,
+            "question": "Aşağıdakilerden hangisi bir 'Mesaj Formu'nda yer alan Arama Şekli (Yöntemi) bilgisine örnektir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "İvedi (Acil)",
+                    "rationale": "Bu mesajın önem derecesidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Saat 15:30",
+                    "rationale": "Bu mesajın alındığı saattir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telefonla mı yoksa şahsen mi (yüz yüze mi) arandığı bilgisi",
+                    "rationale": "Mesajı bırakanın tesise gelip mi yoksa uzaktan mı ulaştığını belirtir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Oda numarası",
+                    "rationale": "Bu mesajın kime geldiğini belirtir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tekrar arayacak",
+                    "rationale": "Bu karşı tarafın niyetidir, arama şekli değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kişinin mesajı bırakırken hangi iletişim aracını kullandığını düşünün."
+        },
+        {
+            "questionNumber": 71,
+            "question": "Taahhütlü mektupların (imza karşılığı gelen postaların) otel içindeki takip sürecinde nereye kaydedilmesi zorunludur?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Misafirin adisyonuna",
+                    "rationale": "Posta bir ücretlendirme unsuru değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Posta Kayıt Defterine",
+                    "rationale": "Resmi bir evrak olduğu için kaybolmasını önlemek adına deftere işlenir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Şikayet defterine",
+                    "rationale": "Posta bir şikayet değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telefon rehberine",
+                    "rationale": "Rehber sadece numaraları tutar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Polis kayıtlarına",
+                    "rationale": "Gelen normal bir posta için kolluk kuvvetine bilgi verilmez.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Gelen resmi evrakların zimmetlendiği işletme defteridir."
+        },
+        {
+            "questionNumber": 72,
+            "question": "Otelden ayrılan misafire ait sistemde ve dosyada hiçbir adres kaydı (registration card vb.) bulunamıyorsa gelen postaya ne işlem yapılır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Çöpe atılır.",
+                    "rationale": "Resmi posta imha edilemez.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Göndericiye iade edilir ve kayıt defterine not düşülür.",
+                    "rationale": "Muhatabı bulunamayan postanın geri gönderilmesi yasal zorunluluktur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Otelin arşivine kaldırılır.",
+                    "rationale": "Otel, misafirin eşyalarını sonsuza dek depolayamaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Personele dağıtılır.",
+                    "rationale": "Özel mülkiyet ihlalidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Resepsiyon bankosunda açıkta bırakılır.",
+                    "rationale": "Güvenlik riskidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Evinize yanlış isimle gelen bir mektubu postaneye ne yaptığınızı düşünün."
+        },
+        {
+            "questionNumber": 73,
+            "question": "MİY stratejisi kapsamında, işletmeye 'Sürdürülebilir Misafir Sadakati' ne kazandırır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Geçici ciro artışı.",
+                    "rationale": "Sadakat geçici değil kalıcıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Personel devir hızını.",
+                    "rationale": "Misafirle ilgilidir, personelin işten çıkışıyla ilgili değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İşletmenin 'kalıcı değeri' olmalarını sağlar ve uzun vadede geliri garanti eder.",
+                    "rationale": "Sadık misafirler markanın savunucuları ve değişmez gelir kapılarıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Rakip otellerin kapanmasını.",
+                    "rationale": "Direkt rakibi batırmaz, size avantaj sağlar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pazarlama bütçesinin sıfırlanmasını.",
+                    "rationale": "Pazarlama hiçbir zaman sıfırlanmaz.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bir şey 'sürdürülebilir' ise, onun etkisinin geçici değil uzun ömürlü olduğunu gösterir."
+        },
+        {
+            "questionNumber": 74,
+            "question": "Misafir Edinme (Kazanma) aşamasında, kazanılan müşteriler beklentilerine göre 4 ana gruba sınıflandırılır. Aşağıdakilerden hangisi bu gruplardan biri DEĞİLDİR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Bilenler",
+                    "rationale": "Hizmeti bilen gruptur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tercih edenler",
+                    "rationale": "Bizi seçen gruptur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İlgisizler",
+                    "rationale": "Bize nötr olan gruptur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reddedenler",
+                    "rationale": "Bizi tercih etmeyen gruptur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Satın alanlar",
+                    "rationale": "Sınıflandırma terminolojisinde 'Tercih edenler' vardır, Satın alanlar bu 4'lü modelin doğrudan kelimesi değildir.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Modele göre misafirin tutum/yaklaşım kelimelerini düşünün, eylem kelimelerini değil."
+        },
+        {
+            "questionNumber": 75,
+            "question": "MİY'in işletmeye kazandırdığı en önemli özelliklerden olan 'tüm birimlerin misafiri tanımasını sağlayarak talepleri kusursuz karşılamak' ne anlama gelir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Örgütte bütünleşmeyi ve koordinasyonu sağlamak.",
+                    "rationale": "Her departmanın aynı bilgiyi kullanması tam bir entegrasyon örneğidir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Personeli gözetim altında tutmak.",
+                    "rationale": "MİY bir güvenlik değil, hizmet sistemidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Otelin maliyetlerini gizlemek.",
+                    "rationale": "Maliyet gizlemek etik dışıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yeni personelin eğitimini iptal etmek.",
+                    "rationale": "Eğitim her zaman gereklidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tedarikçilere daha az para ödemek.",
+                    "rationale": "Misafiri tanımak ile tedarikçi ödemesinin ilgisi yoktur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Ön büronun bildiğini restoranın da bilmesinin (bilgi paylaşımının) şirket içindeki genel adıdır."
+        },
+        {
+            "questionNumber": 76,
+            "question": "Şikayet yönetiminde 'Olaya ticari yaklaşmak' neden büyük bir iletişim hatasıdır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Çünkü konuk, sorununun samimiyetle çözülmesinden çok parasal kâr arandığını hisseder.",
+                    "rationale": "Sorunu olan biri parasal çıkarlar güdüldüğünü hissederse markaya güveni tamamen sarsılır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Çünkü oteller kâr amacı gütmeyen kurumlardır.",
+                    "rationale": "Oteller ticari kurumlardır ancak kriz anında bu ön plana çıkarılmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çünkü konuk indirim isteyebilir.",
+                    "rationale": "İndirim çözüm olabilir ama ticari yaklaşım duygusuzluktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çünkü yasal olarak yasaktır.",
+                    "rationale": "Yasal bir yasak değil, etik bir prensiptir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çünkü hesaplamalar uzun sürer.",
+                    "rationale": "Sebep zaman değil, zedelenen duygudur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bir doktorun hastasına önce parasını sormasının yaratacağı güvensizlik hissini düşünün."
+        },
+        {
+            "questionNumber": 77,
+            "question": "Aşağıdakilerden hangisi misafire 'Olmayacak vaatler vermek' hatasına bir örnektir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Arızalı klimanın yarım saat içinde tamir edileceğini söyleyip tamircinin gelmesi.",
+                    "rationale": "Bu yerine getirilen bir vaattir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tamamen dolu olan bir otelde misafire, 'Yarın size kesinlikle Kral Dairesi vereceğiz' deyip verememek.",
+                    "rationale": "Gerçekleşmesi imkansız veya çok zor olan sözler verip beklentiyi boşa çıkarmaktır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Yemeklerin sıcak geleceğini söyleyip sıcak getirmek.",
+                    "rationale": "Vaat tutulmuştur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafirin şikayetini dikkatle not almak.",
+                    "rationale": "Bu bir iletişim eylemidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Şikayet formunu misafire imzalatmak.",
+                    "rationale": "Bu prosedürdür.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Durumu kurtarmak için geçici olarak yalan söylemek misalidir."
+        },
+        {
+            "questionNumber": 78,
+            "question": "Oda temizliğinin konuğu rahatsız edecek şekilde çok erken veya uyumak istediği çok geç saatlerde yapılması hangi şikayet kategorisine girer?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Teknik Şikayet",
+                    "rationale": "Tamir gereken bir şey yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dış Etken Şikayeti",
+                    "rationale": "Otel personeli yaptığı için dış etken değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Konuk Hatası",
+                    "rationale": "Konuğun kendi hatası değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Memnuniyetsizliğe Neden Olan Personel/Hizmet Davranışı",
+                    "rationale": "Housekeeping departmanının yanlış planlaması/davranışıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Yanlış Ücretlendirme",
+                    "rationale": "Temizliğin faturayla ilgisi yoktur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Personelin zamanlama hatası yaparak misafirin mahremiyetini ve dinlenmesini bölmesidir."
+        },
+        {
+            "questionNumber": 79,
+            "question": "Açık büfede bir yemeğin adının veya içeriğinin (Örn: domuz eti, alerjen uyarısı) konuğa personel tarafından yanlış söylenmesi, otelcilikte neye yol açar?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Ciddi memnuniyetsizliğe ve olası sağlık krizlerine (şikayetlere).",
+                    "rationale": "Eksik/yanlış ürün bilgisi hem güven sarsar hem de hayati risk (alerji vb.) taşır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Misafirin yemeği daha çok sevmesine.",
+                    "rationale": "Yanlış içerik kandırmacadır, sevgiyi artırmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Restoranın daha hızlı çalışmasına.",
+                    "rationale": "Hız ile yanlış bilgi arasında bağ yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Operasyonel maliyetlerin düşmesine.",
+                    "rationale": "Aksine tazminat gibi sorunlar doğurabilir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "MİY sisteminin çökmesine.",
+                    "rationale": "Yazılım değil güven çöker.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bir misafirin dini veya sağlık hassasiyeti olan bir ürünü yanlış bilgiyle yediğini düşünün."
+        },
+        {
+            "questionNumber": 80,
+            "question": "Şikayet çözüm sürecindeki 'İşlem Basamakları' arasında 4. sırada yer alan 'Yöneticiye Bilgi Verme' adımının amacı nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Konuğu yöneticiden korkutmak.",
+                    "rationale": "Amaç sindirmek değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sorunun çözülüp çözülmediğini raporlayarak işletme hiyerarşisini ve iş takibini sağlamak.",
+                    "rationale": "Üst merciyi bilgilendirmek, sorunun askıda kalmasını önler.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Personelin maaşına zam istemek.",
+                    "rationale": "Şikayet çözümü bir ödül talebi platformu değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yöneticinin işine son vermek.",
+                    "rationale": "Mantıksız bir seçenektir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telesekretere mesaj bırakmak.",
+                    "rationale": "Yöneticiye bilgi vermek genellikle canlı veya yazılı raporla olur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kurumsal firmalarda 'Benden çıktı' dememek için yapılan raporlama türüdür."
+        },
+        {
+            "questionNumber": 81,
+            "question": "Şikayet sırasında kullanılmaması gereken 7 kelimeden biri olan 'Asla!' ifadesi misafirde nasıl bir algı yaratır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Güven ve rahatlık",
+                    "rationale": "Asla kelimesi çok serttir, rahatlatmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kapıların tamamen kapandığı, uzlaşmazlık ve çözümsüzlük",
+                    "rationale": "Kesin reddetme bildiren bu kelime diyaloğu tamamen bitirir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Empati ve anlayış",
+                    "rationale": "Empati kuran kişi esnektir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Profesyonellik",
+                    "rationale": "Profesyonel birisi daha yapıcı kelimeler seçer.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hız ve çeviklik",
+                    "rationale": "İşlem hızı ile ilgisi yoktur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Hiçbir şart altında kabul etmiyorum anlamına gelen kelimenin etkisidir."
+        },
+        {
+            "questionNumber": 82,
+            "question": "Şikayet yönetimi kurallarına göre 'Detaylara özen göstermemek' neden başarısız bir çözümdür?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Çünkü sadece genel tablo önemlidir.",
+                    "rationale": "Otelcilik detayların sektörüdür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çünkü konuk, sorununun üstünkörü dinlendiğini ve aslında önemsenmediğini hisseder.",
+                    "rationale": "Detayları atlamak, dinlemiyor olmanın en büyük kanıtıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Çünkü detaylar faturaya yansımaz.",
+                    "rationale": "Misafir ilişkilerinde fatura ikinci plandadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çünkü personelin hafızası zayıf olabilir.",
+                    "rationale": "Not almak bu yüzden vardır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çünkü detaylar sadece yöneticiyi ilgilendirir.",
+                    "rationale": "Sorunu çözen herkesi ilgilendirir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Şeytan ayrıntıda gizlidir sözünün müşteri tarafındaki hayal kırıklığı karşılığıdır."
+        },
+        {
+            "questionNumber": 83,
+            "question": "Aşağıdakilerden hangisi MİY'in 'Misafir Derinleştirme' aşamasında yapılan çalışmalardan biridir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Sadece şikayetleri dinlemek",
+                    "rationale": "Şikayet dinleme Koruma aşamasında yoğundur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Müşterinin tüm kayıtlarını silmek",
+                    "rationale": "Kayıt silinmez, aksine zenginleştirilir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çapraz satış ve Dikey satış teknikleriyle mevcut misafirden kârlılığı artırmak",
+                    "rationale": "Derinleştirme, mevcut müşteriden daha fazla verim/satış elde etmektir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Rakip otelin fiyatlarını düşürmek",
+                    "rationale": "Rakibin fiyatlarına müdahale edilemez.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafirleri otele almamak",
+                    "rationale": "Amacın tamamen zıttıdır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bir maden kuyusunu (müşteriyi) daha derine kazarak daha çok maden (kazanç) çıkarma işlemidir."
+        },
+        {
+            "questionNumber": 84,
+            "question": "Aşağıdakilerden hangisi bir 'Hizmet/Ürün' hatası şikayetidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Odadaki lambanın patlaması",
+                    "rationale": "Bu bir ekipman hatasıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Restoranda servis edilen çorbanın tamamen soğuk ve lezzetsiz olması",
+                    "rationale": "Doğrudan sunulan temel ürünün kusurudur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Personelin asık suratlı olması",
+                    "rationale": "Bu işgören davranışıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yol gürültüsü",
+                    "rationale": "Bu dış etken şikayetidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Diğer konuğun havuzu kirletmesi",
+                    "rationale": "Konuk hatasıdır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Para ödeyip satın aldığınız fiziksel metanın kusurlu çıkması durumudur."
+        },
+        {
+            "questionNumber": 85,
+            "question": "Rezervasyon başarısızlıkları (Overbooking, yanlış tarih vb.) şikayetleri genel olarak hangi ana gruba dahildir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Ekipman hataları",
+                    "rationale": "Teknik bir cihaz sorunu değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dış Etkenler",
+                    "rationale": "Otel içi veya konukla iletişim sorunudur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hizmet Hatalarından Kaynaklanan Şikayetler",
+                    "rationale": "Sistematik bir hizmet sunum kusurudur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Konuk hataları (Tamamen)",
+                    "rationale": "Sadece konuk değil, personel de yanlış anlamış olabilir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Politika hataları",
+                    "rationale": "Bilinçli bir kural değil, operasyonel bir hatadır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Otelin ana işi olan konaklatma eylemindeki bir kusurdur."
+        },
+        {
+            "questionNumber": 86,
+            "question": "MİY stratejisinde 'Maliyet ve Finansal Avantajlar' başlığı altında hangisi söylenebilir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Maliyetleri hızla artırır.",
+                    "rationale": "MİY maliyetleri artırmaz, optimize eder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hizmet kalitesini düşürerek tasarruf sağlar.",
+                    "rationale": "Kalite düşürmek otelciliğe aykırıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Maliyetleri artırmadan hizmet kalitesini yükseltir ve doğrudan geliri artırır.",
+                    "rationale": "Doğru verilerle nokta atışı hizmet vererek israfı önler, kaliteyi artırır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sadece personelden kesinti yapar.",
+                    "rationale": "Böyle bir strateji yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sadece lüks oteller içindir.",
+                    "rationale": "Her işletme MİY kullanabilir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Hem pastam dursun hem karnım doysun deyişinin MİY'deki olumlu finansal yansımasıdır."
+        },
+        {
+            "questionNumber": 87,
+            "question": "Telefon iletişiminde 'Sesinize yansıyanlar' arasında aşağıdakilerden hangisi yer alır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Kıyafetinizin rengi",
+                    "rationale": "Görsel unsurlar sese yansımaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tutumunuz, davranışlarınız, nezaketiniz ve gülümsemeniz",
+                    "rationale": "Karşı taraf gülümsemeyi ve tavrı sesin enerjisinden rahatça anlar.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Boyunuz ve kilonuz",
+                    "rationale": "Fiziksel ölçüler sesle anlaşılamaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Göz renginiz",
+                    "rationale": "Görsel bir özelliktir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ayakkabı numaranız",
+                    "rationale": "Görsel/fiziksel özelliktir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Aynaya bakmadan da birinin size kızgın mı yoksa mutlu mu olduğunu anladığınız unsurlardır."
+        },
+        {
+            "questionNumber": 88,
+            "question": "Bir otelin Ön Büro, Satış ve Çağrı Merkezi departmanları MİY'in hangi türünü kullanmaktadır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Operasyonel MİY",
+                    "rationale": "Doğrudan misafirle yüz yüze ve telefonla temas eden ön cephedir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Analitik MİY",
+                    "rationale": "Analitik MİY arka planda çalışan yazılımdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İşbirlikçi MİY",
+                    "rationale": "Paydaşlarla etkileşimdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Muhasebe",
+                    "rationale": "Finansal birimdir, temas noktası değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kat Hizmetleri (Housekeeping)",
+                    "rationale": "Misafirle ilk temas (satış/rezervasyon) noktası değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Askeriyedeki 'cephe' (operasyon) birliğinin oteldeki karşılığıdır."
+        },
+        {
+            "questionNumber": 89,
+            "question": "Misafirlerden alınan şikayetler, otel için aslen nasıl bir durum olarak değerlendirilmelidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Tamamen bir kriz ve felaket",
+                    "rationale": "Şikayetler fırsattır, felaket değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafirlerin para koparma taktiği",
+                    "rationale": "Bu çok önyargılı ve yanlış bir bakış açısıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Konuk bağlılığını güçlendirmek ve hizmet kalitesini artırmak için olumlu bir fırsat",
+                    "rationale": "Şikayeti çözen otel, müşterinin gözünde çok daha güvenilir hale gelir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Personeli işten çıkarma bahanesi",
+                    "rationale": "Yönetimsel bir ceza aracı değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rakip otellerin bir oyunu",
+                    "rationale": "Paranoyakça bir tutumdur, profesyonel değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Hatanızı düzeltme ve müşteriyi kazanma şansı yakaladığınızı düşünün."
+        },
+        {
+            "questionNumber": 90,
+            "question": "Kötü bir hizmetle karşılaşan (memnun olmayan) konukların yüzde kaçı bu durumu yakınlarına aktararak işletmeye negatif reklam yapar?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "%10",
+                    "rationale": "Bu oran şikayeti sözlü söyleyenlerin oranıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "%38",
+                    "rationale": "Bu oran mükemmel hizmeti anlatanların oranıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "%75",
+                    "rationale": "İnsanlar kötü olayları çok daha yüksek oranda çevrelerine anlatırlar.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "%5",
+                    "rationale": "Kötü haber çok hızlı yayılır, bu oran çok düşüktür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "%99",
+                    "rationale": "Tamamı anlatmasa da çoğunluğu anlatır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kötü haberin ne kadar uzağa ve çok kişiye (dörtte üçe) ulaştığını gösteren orandır."
+        },
+        {
+            "questionNumber": 91,
+            "question": "Aşağıdakilerden hangisi bir 'Yanlış Ücretlendirme / Fatura Hatası' olarak sınıflandırılır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "İçeceklerin sıcak gelmesi.",
+                    "rationale": "Ürün hatasıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Odadaki klimanın ses yapması.",
+                    "rationale": "Ekipman hatasıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fiyat değişikliklerinin otel sistemine işlenmemesi sonucu misafirden fazla para alınması.",
+                    "rationale": "Doğrudan finansal bir kayıt hatasıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Misafirin uçak saatini kaçırması.",
+                    "rationale": "Bilgilendirme yetersizliği/dış etkendir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Oda havlularının eksik olması.",
+                    "rationale": "Stok/hizmet hatasıdır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Cüzdanı doğrudan ilgilendiren teknolojik/kayıtsal sorundur."
+        },
+        {
+            "questionNumber": 92,
+            "question": "Otelcilik hizmetinin doğası gereği hataların 'kaçınılmaz' olmasının temel sebebi nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Otel binalarının çok büyük olması.",
+                    "rationale": "Fiziksel büyüklük ana sebep değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafirlerin her zaman sinirli olması.",
+                    "rationale": "Bu doğru bir genelleme değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İnsan faktörünün yüksek olması ve üretimin tüketimle aynı anda gerçekleşmesi.",
+                    "rationale": "Bir makine gibi standart üretim yapılamaz, hizmet anlık üretilir ve insan (personel) kaynaklıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Turizm yasalarının yetersizliği.",
+                    "rationale": "Yasal bir sorun değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Otellerin sadece yazın açık olması.",
+                    "rationale": "Oteller 12 ay açık olabilir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Fabrika gibi stoklanamayan, garsonun o an sunduğu ve misafirin o an yediği bir eylem olmasını düşünün."
+        },
+        {
+            "questionNumber": 93,
+            "question": "Konuklar neden 'şikayet etmezler' sorusunun en tehlikeli yanıtı aşağıdakilerden hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "O kadar da kötü değildi.",
+                    "rationale": "Bu nispeten zararsız bir kabulleniştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cevap almak için çok bekleyecektim.",
+                    "rationale": "Sistem yavaşlığını gösterir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hiçbir şey söylemeden çekip gitmek ve asla geri gelmemek daha kolay.",
+                    "rationale": "Müşteriyi sonsuza dek ve sessizce kaybetmek işletme için en ölümcül tehlikedir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kime şikayet edeceğimi bilmiyordum.",
+                    "rationale": "Yönlendirme eksikliğidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kendimi savunmak zorunda kalabilirdim.",
+                    "rationale": "Çekingenliktir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bir markayı tamamen hayatından çıkaran tüketicinin nihai cezasını düşünün."
+        },
+        {
+            "questionNumber": 94,
+            "question": "Şikayet yönetiminde personelin 'Sorumluluk Almamak' eylemi misafirde ne uyandırır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Personeli haklı bulmasını.",
+                    "rationale": "Sorumluluk almayan personel değer kaybeder.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sorunun otelle ilgili olmadığı inancını.",
+                    "rationale": "Konuk sorunun otelle ilgili olduğunu gayet iyi bilir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kurumsal kimliğe olan güvenin tamamen yıkılmasını.",
+                    "rationale": "'Bu benim işim değil' tavrı otelin kurumsal imajını mahveder.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Şikayetten vazgeçmesini.",
+                    "rationale": "Vazgeçmek yerine daha üst merciye öfkeyle çıkar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gülümsemesini.",
+                    "rationale": "Kızgınlık yaratır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Topu başkasına atan bir devlet dairesindeki memur karşısındaki hissinizi düşünün."
+        },
+        {
+            "questionNumber": 95,
+            "question": "MİY stratejisinde 'Yeni ürün geliştirme ve yeni pazarlara açılma vizyonu' hangi ana başlığın altındadır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Maliyet Avantajları",
+                    "rationale": "Maliyet tasarrufuyla ilgili değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafir Sadakati",
+                    "rationale": "Sadakat süreç yönetimidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pazarlama ve Satış Stratejisi",
+                    "rationale": "Müşterinin ne istediğini bilmek, o isteğe uygun yeni ürün (pazarlama) yaratmayı sağlar.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Operasyonel Kayıplar",
+                    "rationale": "Kayıp değil kazançtır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Telesekreter Ağı",
+                    "rationale": "Teknolojik bir araçtır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Yeni kitlelere ulaşmak ve onlara uygun mal üretmek hangi departmanın işidir?"
+        },
+        {
+            "questionNumber": 96,
+            "question": "Ulusal Fonetik Alfabeye (Türkiye) göre J, K, ve N harflerinin kodlaması hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Japonya - Kastamonu - Niğde",
+                    "rationale": "Standart dışı kodlamalardır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Juliett - Kilo - November",
+                    "rationale": "Bunlar Uluslararası kodlamalardır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jale - Kayseri - Nazilli",
+                    "rationale": "Özetteki Ulusal tabloya göre doğru kodlamalardır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Jandarma - Konya - Nevşehir",
+                    "rationale": "Standart dışıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jale - Kars - Niğde",
+                    "rationale": "Kars ve Niğde standart tabloda yoktur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Aydın'ın meşhur ilçesi ve İç Anadolu'nun pastırmasıyla ünlü şehrini düşünün."
+        },
+        {
+            "questionNumber": 97,
+            "question": "Telefonda 'Doğal ses tonunda kalmak' kuralına göre hangisi YANLIŞTIR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Bağırmak",
+                    "rationale": "Doğal sese aykırıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fısıldamak",
+                    "rationale": "Doğal sese aykırıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Suni ve yapmacık sesler çıkarmak",
+                    "rationale": "Doğallığı bozar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kelimeleri açık ve anlaşılır telaffuz etmek",
+                    "rationale": "Bu yanlış değil, tam tersine yapılması gereken DOĞRU eylemdir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Çok yavaş ve kelimeleri yutarak konuşmak",
+                    "rationale": "Doğal tempoya aykırıdır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Şıklarda tek olumlu ve profesyonel olan davranışı arayın."
+        },
+        {
+            "questionNumber": 98,
+            "question": "Arama yapmadan önce planlama (hazırlık) yapmanın EN ÖNEMLİ sebebi nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Patrona çalışıyor görünmek",
+                    "rationale": "İş etiği gösteri değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aktarılacakları eksiksiz iletmek ve olası sorulara hazırlıklı olmak",
+                    "rationale": "Planlama unutkanlığı önler ve müzakerede eli güçlendirir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Telefonun şarjını kontrol etmek",
+                    "rationale": "Teknik hazırlıktır, iletişimin özü değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karşı tarafın uyanmasını beklemek",
+                    "rationale": "Planlama bu değildir, zamanlama kuralıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faturayı hesaplamak",
+                    "rationale": "Kurum görüşmelerinde asıl amaç fatura hesabı değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Elinizde notlarınız olmadan önemli bir toplantıya girmenin risklerini düşünün."
+        },
+        {
+            "questionNumber": 99,
+            "question": "Bir otelde Concierge departmanı hangi hizmetten sorumludur?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Yemekleri pişirmek",
+                    "rationale": "Mutfak departmanının işidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Odaları temizlemek",
+                    "rationale": "Housekeeping departmanının işidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafir mesajlarını almak, postaları teslim almak ve konuk taleplerini yönlendirmek",
+                    "rationale": "Concierge misafirin otel içindeki tüm iletişim ve özel taleplerini yöneten masadır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Otelin muhasebesini tutmak",
+                    "rationale": "Finans departmanının işidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Asansörleri tamir etmek",
+                    "rationale": "Teknik servisin işidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Lobide durup misafirin kargosundan uçak biletine kadar her şeyiyle ilgilenen görevlilerdir."
+        },
+        {
+            "questionNumber": 100,
+            "question": "Şikayet eden bir misafirin sorunu çözülürken 'Beden dilini iyi kullanmak' kuralı hangi aşamada/durumda geçerlidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Sadece telefonda konuşurken",
+                    "rationale": "Telefonda beden dili görünmez.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Misafire e-posta yazarken",
+                    "rationale": "Yazılı iletişimde beden dili yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yüz yüze iletişim ve şikayet karşılama anında",
+                    "rationale": "Göz teması, duruş, baş sallama gibi beden dilleri yüz yüze şikayet çözümünün temelidir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Telesekretere mesaj bırakırken",
+                    "rationale": "Sesli mesajda beden dili olmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uyurken",
+                    "rationale": "İletişim hali değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bir jest veya mimiğin ancak fiziksel olarak aynı ortamda bulunduğunuzda işe yaramasını düşünün."
+        }
+    ]
+}

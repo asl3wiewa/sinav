@@ -362,11 +362,58 @@ const TEST_DATA = {
         pdfUrl: "assets/pdf/2-donem/vize/yiyecek-ve-icecek-servisi-2.pdf"
       }
     ],
-    final: []
+    final: [
+      {
+        id: "kat-hizmetleri-2-final",
+        title: "Kat Hizmetleri II (Final)",
+        description: "Ikinci donem final konularini dort ayri testle calis.",
+        tag: "Kat Hizmetleri",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=kat-hizmetleri-2-1-final" },
+          { name: "Test 2 Basla", url: "quiz.html?test=kat-hizmetleri-2-2-final" },
+          { name: "Test 3 Basla", url: "quiz.html?test=kat-hizmetleri-2-3-final" },
+          { name: "Test 4 Basla", url: "quiz.html?test=kat-hizmetleri-2-4-final" }
+        ],
+        pdfUrl: "assets/pdf/2-donem/final/kat-hizmetleri-2.pdf"
+      },
+      {
+        id: "yiyecek-ve-icecek-servisi-2-final",
+        title: "Yiyecek ve Icecek Servisi II (Final)",
+        description: "Ikinci donem final konularini tek testle pekistir.",
+        tag: "Yiyecek & Icecek",
+        tests: [
+          { name: "Teste Basla", url: "quiz.html?test=yiyecek-ve-icecek-servisi-2-1-final", primary: true }
+        ],
+        pdfUrl: "assets/pdf/2-donem/final/yiyecek-ve-icecek-servisi-2.pdf"
+      },
+      {
+        id: "konukla-iletisim-final",
+        title: "Konukla Iletisim (Final)",
+        description: "Ikinci donem final konularini dort ayri testle calis.",
+        tag: "Konuk Iliskileri",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=konukla-iletisim-final" },
+          { name: "Test 2 Basla", url: "quiz.html?test=konukla-iletisim-2-final" },
+          { name: "Test 3 Basla", url: "quiz.html?test=konukla-iletisim-3-final" },
+          { name: "Test 4 Basla", url: "quiz.html?test=konukla-iletisim-4-final" }
+        ],
+        pdfUrl: "assets/pdf/2-donem/final/Konukla-iletisim.pdf"
+      },
+      {
+        id: "mesleki-yabanci-dil-2-final",
+        title: "Mesleki Yabanci Dil II (Final)",
+        description: "Ikinci donem final konularini testle pekistir.",
+        tag: "Mesleki Yabanci Dil II",
+        tests: [
+          { name: "Teste Basla", url: "quiz.html?test=mesleki-yabanci-dil-2-1-final", primary: true }
+        ],
+        pdfUrl: "assets/pdf/2-donem/final/mesleki-yabanci-dil-2.pdf"
+      }
+    ]
   }
 };
 
-let currentFilter = "vize";
+let currentFilter = "final";
 let currentSemester = "2";
 
 function getTestsForSemester(semester, filter = "all") {
