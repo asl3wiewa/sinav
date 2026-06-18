@@ -474,6 +474,30 @@ const TESTS = {
 
   },
 
+  "turizm-cografyasi-1-1-final": {
+
+    title: "Turizm Cografyasi I Testi 1 (Final)",
+
+    dataUrl: "2-donem/final/turizm-cografyasi-1-1.json",
+
+  },
+
+  "turizm-cografyasi-1-2-final": {
+
+    title: "Turizm Cografyasi I Testi 2 (Final)",
+
+    dataUrl: "2-donem/final/turizm-cografyasi-1-2.json",
+
+  },
+
+  "turizm-cografyasi-1-3-final": {
+
+    title: "Turizm Cografyasi I Testi 3 (Final)",
+
+    dataUrl: "2-donem/final/turizm-cografyasi-1-3.json",
+
+  },
+
   "dijital-pazarlama-ve-sosyal-medya": {
 
     title: "Dijital Pazarlama ve Sosyal Medya",
@@ -740,6 +764,12 @@ const TEST_ALIASES = {
   "mesleki yabanci dil ii 2": "mesleki-yabanci-dil-2-2",
 
   "mesleki yabanci dil ii 1 final": "mesleki-yabanci-dil-2-1-final",
+
+  "turizm cografyasi i 1 final": "turizm-cografyasi-1-1-final",
+
+  "turizm cografyasi i 2 final": "turizm-cografyasi-1-2-final",
+
+  "turizm cografyasi i 3 final": "turizm-cografyasi-1-3-final",
 
   "dijital pazarlama ve sosyal medya": "dijital-pazarlama-ve-sosyal-medya",
 

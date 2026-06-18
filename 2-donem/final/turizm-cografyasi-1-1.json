@@ -1,0 +1,1654 @@
+{
+    "questions": [
+        {
+            "questionNumber": 1,
+            "question": "Dolmabahçe Sarayı'nın yapılış nedeni çalışma notlarında nasıl açıklanmıştır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Sultan Abdülmecid'in Boğaz manzarasını çok sevmesi.",
+                    "rationale": "Sarayın konumu Boğaz'da olsa da asıl yapılış nedeni bu değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Topkapı Sarayı'nın çağın protokollerine ve diplomatik ihtiyaçlarına artık yanıt verememesi.",
+                    "rationale": "Notlara göre Dolmabahçe Sarayı tam olarak bu diplomatik ve protokol eksikliklerinden dolayı inşa edilmiştir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eski sarayın bir depremde büyük hasar görmüş olması.",
+                    "rationale": "Topkapı Sarayı depremler atlatmış olsa da terk edilme nedeni bu değildi.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Halktan toplanan vergilerle yeni bir ihtişam gösterisi yapılmak istenmesi.",
+                    "rationale": "Saray ihtişamlı olsa da yapılış gayesi diplomatik ihtiyaçlardır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İngiltere Kraliçesi Victoria'nın tavsiyesi üzerine yapılması.",
+                    "rationale": "Kraliçe Victoria sadece Muayede Salonu'ndaki avizeyi hediye etmiştir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Topkapı Sarayı'nın artık dönemin şartlarını karşılayamaması ile ilgilidir."
+        },
+        {
+            "questionNumber": 2,
+            "question": "Dolmabahçe Saat Kulesi hangi padişah döneminde ve kim tarafından yapılmıştır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Sultan Abdülaziz - Mimar Sinan",
+                    "rationale": "Mimar Sinan çok daha eski bir dönemde yaşamıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sultan Abdülmecid - Garabet Balyan",
+                    "rationale": "Abdülmecid ve Garabet Balyan Dolmabahçe Sarayı'nın yapımında rol almıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sultan II. Abdülhamid - Sarkis Balyan",
+                    "rationale": "Notlara göre kule, II. Abdülhamid tarafından Sarkis Balyan'a 1890-1895 yıllarında yaptırılmıştır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sultan III. Selim - Mimar Mongeri",
+                    "rationale": "Mimar Mongeri Cumhuriyet Anıtı'nın kaidesini yapmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sultan V. Murat - Nigoğos Balyan",
+                    "rationale": "Nigoğos Balyan, Ihlamur Kasırları'nın mimarıdır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kulenin üzerinde tuğrası bulunan padişahı ve Balyan ailesinden bir mimarı düşünün."
+        },
+        {
+            "questionNumber": 3,
+            "question": "Taksim Cumhuriyet Anıtı'ndaki heykelleri yapan İtalyan heykeltıraş kimdir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Mimar Mongeri",
+                    "rationale": "Mongeri heykelleri değil, anıtın dairesel kaidesini yapmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Delfo Seminati",
+                    "rationale": "Delfo Seminati Hıdiv Kasrı'nın mimarıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pietro Canonica",
+                    "rationale": "Anıtın heykelleri İtalyan heykeltıraş Pietro Canonica tarafından İtalya'da yapılıp vapurla getirilmiştir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Montani",
+                    "rationale": "İtalyan mimar Montani, Pertevniyal Valide Sultan Camisi'nin mimarıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Garabet Amira Balyan",
+                    "rationale": "Balyan, Osmanlı dönemi saray mimarlarındandır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İtalya'da yapılıp vapurla getirilen bu heykelleri yapan kişi Pietro isimli bir heykeltıraştır."
+        },
+        {
+            "questionNumber": 4,
+            "question": "Zemininin yumuşak olmasından dolayı iskeletinde tamamen demir ve çelik kullanılan tarihi yapı aşağıdakilerden hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Meryem Ana Süryani Kilisesi",
+                    "rationale": "Bu kilisenin yapımında Mardin'den getirilen taşlar kullanılmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Stephan (Bulgar) Kilisesi",
+                    "rationale": "Fener ile Balat arasında yer alan ve Demir Kilise olarak da bilinen yapı Stephan Kilisesi'dir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Neve Şalom Sinagogu",
+                    "rationale": "Bu yapı eski bir Musevi kız ilkokulundan dönüştürülmüştür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aya İrini Kilisesi",
+                    "rationale": "Bu yapı klasik Doğu Roma mimarisinin izlerini taşır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pammakaristos Kilisesi",
+                    "rationale": "Daha sonra Fethiye Camisi'ne dönüştürülmüştür, demir iskeleti yoktur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Halk arasında 'Demir Kilise' olarak da bilinen ve denize doğru kayma tehlikesi geçiren yapıdır."
+        },
+        {
+            "questionNumber": 5,
+            "question": "Mimar Sinan tarafından Klasik Osmanlı hamam mimarisinden farklı bir tarzda inşa edilen Çemberlitaş Hamamı'nın yapılış amacı nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Divanyolu Caddesi'nin estetiğini artırmak.",
+                    "rationale": "Cadde estetiği için değil, gelir amaçlı bir vakıf eseri olarak yapılmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Saray halkının özel kullanımı için tahsis edilmek.",
+                    "rationale": "Halka açık bir hamamdır, sadece saraya özel değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Süleymaniye Külliyesi'ne maddi destek sağlamak.",
+                    "rationale": "Süleymaniye'ye değil, Atik Valide Külliyesi'ne destek içindir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Üsküdar'daki Atik Valide Külliyesi ve Camisi'ne gelir getirmesi (Vakıf eseri).",
+                    "rationale": "Nurbanu Sultan tarafından, Atik Valide Külliyesi'ne gelir sağlaması amacıyla yaptırılmıştır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Roma döneminden kalan eski bir hamamın restore edilmesi.",
+                    "rationale": "Sıfırdan Mimar Sinan'a yaptırılan bir eserdir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Nurbanu Sultan'ın Üsküdar'da yaptırdığı büyük bir külliyeye maddi kaynak yaratmak amacıyla inşa edilmiştir."
+        },
+        {
+            "questionNumber": 6,
+            "question": "Fatih Sultan Mehmed döneminde yapılan ve Topkapı Sarayı'nın ilk binası olma özelliğini taşıyan müze hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Eski Şark Eserleri Müzesi",
+                    "rationale": "Bu müze arkeoloji müzeleri kompleksi içindedir, sarayın ilk binası değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çinili Köşk Müzesi",
+                    "rationale": "1472 yılında Mimar Atik Sinan tarafından yapılan sarayın ilk yapısıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Hazine Dairesi",
+                    "rationale": "Hazine binası Kanuni Sultan Süleyman döneminde yapılmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mecidiye Kasrı",
+                    "rationale": "Bu yapı Sultan Abdülmecid döneminde dördüncü avluya eklenmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Revan Kasrı",
+                    "rationale": "IV. Murad tarafından yaptırılmıştır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İki katlıdır, ön yüzünde 14 mermer sütunlu bir revak bulunur ve adını süslemelerinden alır."
+        },
+        {
+            "questionNumber": 7,
+            "question": "Topkapı Sarayı'nda Enderun teşkilatının, Arz Odası'nın bulunduğu ve padişahın resmi kabul salonu olan avlu hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Birinci Avlu",
+                    "rationale": "Birinci avlu halkın bazı günlerde girebildiği giriş avlusudur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İkinci Avlu",
+                    "rationale": "İkinci avlu Divan-ı Hümayun'un toplandığı yönetim merkezidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Üçüncü Avlu",
+                    "rationale": "Bab-üs Saade kapısından girilen, Enderun okulu ve Arz Odası'nın bulunduğu kabul bölümüdür.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Dördüncü Avlu",
+                    "rationale": "Dördüncü avlu padişahın özel alanıdır, Hasoda ve Harem'i barındırır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sofa-i Hümayun",
+                    "rationale": "Sofa-i Hümayun dördüncü avludaki revaklı bölümdür.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bab-üs Saade kapısından girilir ve devşirme sisteminin eğitim kurumu buradadır."
+        },
+        {
+            "questionNumber": 8,
+            "question": "Topkapı Sarayı Harem hiyerarşisinde, erkek çocuk doğuran Haseki Sultanların en gözdelerine verilen unvan nedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Valide Sultan",
+                    "rationale": "Padişahların annelerine verilen, haremdeki en yüksek unvandır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kadınefendi",
+                    "rationale": "Haseki Sultanların en gözdeleri olan ve erkek çocuk doğuran cariyelerin ulaştığı makamdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Hünkar Hasekisi",
+                    "rationale": "Hasekiler içindeki gözdelerdir, erkek çocuk doğurma şartı en üst düzey belirtisi değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gözde",
+                    "rationale": "Padişaha sadece yaklaşan cariyelere verilen en alt düzey unvandır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cariye",
+                    "rationale": "Hiyerarşinin henüz başında olan eğitime alınan genç kızlardır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Valide Sultan'dan bir kademe altta yer alan, genellikle erkek veliaht annelerinin unvanıdır."
+        },
+        {
+            "questionNumber": 9,
+            "question": "Rivayete göre, Padişahın 'Camiini deniz üzerine yaptır' sözü üzerine, denizin doldurulmasıyla inşa edilen cami hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Süleymaniye Camisi",
+                    "rationale": "İstanbul'un tepelerinden birine inşa edilmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kılıç Ali Reis Camisi",
+                    "rationale": "Kaptan-ı Derya olan Kılıç Ali Paşa, deniz doldurularak bu camiyi Tophane'de yaptırmıştır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ortaköy Camisi",
+                    "rationale": "Deniz kenarındadır ama denizin doldurulması rivayeti Kılıç Ali Paşa'ya aittir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yeni Cami",
+                    "rationale": "Eminönü'nde yer alır, temelleri su sebebiyle zor atılsa da efsanesi bu değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mihrimah Sultan Camisi",
+                    "rationale": "Üsküdar İskele Meydanı'ndadır, deniz doldurma hikayesi ile bilinmez.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Mimar Sinan'ın yaşlılık dönemi eseri olup banisi bir Kaptan-ı Derya'dır."
+        },
+        {
+            "questionNumber": 10,
+            "question": "Osmanlı mimarisinde Barok üslupta yapılan İLK büyük yapı hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Süleymaniye Camisi",
+                    "rationale": "Klasik Osmanlı mimarisinin zirvelerindendir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Valide Sultan (Pertevniyal) Camisi",
+                    "rationale": "Bu yapı Barok değil, Rokoko üslubundadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Laleli Camisi",
+                    "rationale": "Daha sonraki dönemlerde yapılmıştır, ilk değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nuruosmaniye Külliyesi ve Camisi",
+                    "rationale": "Sultan I. Mahmud ve III. Osman dönemlerinde yapılan, ilk Barok Osmanlı eseridir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Yeni Valide Camisi",
+                    "rationale": "Üsküdar'da yer alır, ilk barok yapı unvanını taşımaz.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Çemberlitaş Sütunu yakınlarında yer alan ve III. Osman'ın adını taşıyan ('Osman'ın Nuru') yapıdır."
+        },
+        {
+            "questionNumber": 11,
+            "question": "Mimar Sinan, Süleymaniye Camisi'ni yaparken avlunun dört köşesine yerleştirdiği 4 minare ve toplam 10 şerefe ile neyi simgelemiştir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "İslam'ın 4 halifesi ve 10 peygamberi.",
+                    "rationale": "Dini bir simgelemeden ziyade padişaha yönelik bir atıftır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kanuni'nin İstanbul'un 4. fatihi, Osmanlı'nın 10. padişahı olmasını.",
+                    "rationale": "Minare sayısı İstanbul fethinden sonraki 4. padişahlığı, şerefe sayısı ise genelde 10. padişahlığı simgeler.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "4 büyük melek ve 10 kutsal ayı.",
+                    "rationale": "Bu tamamen yanlış bir kurgudur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Avrupa, Asya, Afrika, Amerika kıtalarını ve 10 eyaleti.",
+                    "rationale": "Osmanlı tarihiyle doğrudan bağıntılı bir sembolizmdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4 mevsimi ve 10 uzun saltanat yılını.",
+                    "rationale": "Kanuni'nin saltanatı 10 yıldan çok daha uzundur (46 yıl).",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kanuni Sultan Süleyman'ın hanedan içindeki sırası ve fetihten sonraki konumu ile ilgilidir."
+        },
+        {
+            "questionNumber": 12,
+            "question": "Yüzyıllar boyunca Dünya'nın merkezi (sıfır noktası) olarak kabul edilen ve 'Bütün yollar Roma'ya çıkar' sözünün kaynağı olan tarihi taş hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Dikilitaş",
+                    "rationale": "Hipodrom'da yer alan bir Mısır anıtıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çemberlitaş",
+                    "rationale": "Constantinus Forumu'na dikilen anıttır, sıfır noktası sayılmaz.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Milion Taşı",
+                    "rationale": "Bilinen tüm şehirlerin uzaklığının ölçüldüğü ve dünyanın merkezi kabul edilen anıttır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Gotlar Sütunu",
+                    "rationale": "Gotlara karşı kazanılan zafer anısına dikilen abidedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Örme Sütun",
+                    "rationale": "Sultanahmet Meydanı'ndaki diğer bir anıttır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Sultanahmet'te, Ayasofya Müzesi karşısında yer alan mesafelerin ölçülmeye başlandığı anıttır."
+        },
+        {
+            "questionNumber": 13,
+            "question": "Sahaflar Çarşısı, eskiden Kapalıçarşı'nın içindeyken bugünkü yerine neden taşınmak zorunda kalmıştır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Padişah fermanıyla kitap ticaretinin yasaklanması.",
+                    "rationale": "Böyle bir yasak söz konusu olmamıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1894 yılındaki büyük depremde Kapalıçarşı'nın hasar görmesi.",
+                    "rationale": "Depremdeki hasar nedeniyle çarşı bugünkü II. Bayezid Camisi yanına taşınmıştır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Matbaanın icadıyla el yazmalarına ilginin tamamen bitmesi.",
+                    "rationale": "Notlara göre matbaa sonrasında da el yazmaları büyük ilgi görmeye devam etmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kapalıçarşı esnafının kitapçılarla anlaşmazlık yaşaması.",
+                    "rationale": "Taşınma sebebi tamamen fiziksel bir afettir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yeni Cami Külliyesi'nin inşası için alan açılmak istenmesi.",
+                    "rationale": "Yeni Cami Eminönü'ndedir, Sahaflar ise Beyazıt'tadır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "19. yüzyılın sonlarında gerçekleşen doğal bir afet taşınmaya sebep olmuştur."
+        },
+        {
+            "questionNumber": 14,
+            "question": "Hangi Osmanlı eseri 'kalfalık', 'çıraklık' ve 'ustalık' sıralamasında Mimar Sinan'ın 'Çıraklık Eserim' dediği camidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Süleymaniye Camisi",
+                    "rationale": "Süleymaniye, kalfalık eseri olarak bilinir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Selimiye Camisi",
+                    "rationale": "Selimiye, ustalık eseridir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rüstem Paşa Camisi",
+                    "rationale": "Bu eseri için belirli bir gelişim aşaması sıfatı kullanmamıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Şehzade Camisi",
+                    "rationale": "Mimar Sinan'ın kendi ifadesiyle çıraklık eseri Şehzade Camisi'dir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mihrimah Sultan Camisi",
+                    "rationale": "İlk kez çift revaklı sistemin denendiği yapıdır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kanuni Sultan Süleyman'ın çiçek hastalığından genç yaşta ölen oğlu Manisa Valisi Mehmed adına yaptırılan camidir."
+        },
+        {
+            "questionNumber": 15,
+            "question": "Ayasofya'dan sonra günümüze ulaşabilmiş, eşsiz mozaik ve fresklere sahip en önemli kilise olan ve Atik Ali Paşa tarafından camiye çevrilen yapı hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Fethiye Müzesi (Pammakaristos)",
+                    "rationale": "Fethiye, III. Murad döneminde camiye çevrilmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kariye Müzesi",
+                    "rationale": "II. Bayezid devrinde Atik Ali Paşa tarafından camiye çevrilen eşsiz mozaikli yapı Kariye'dir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kalenderhane Camisi",
+                    "rationale": "Maktul Beşir Ağa tarafından camiye çevrilmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eski İmaret Camisi",
+                    "rationale": "Fatih Sultan Mehmed tarafından imarete dönüştürülmüştür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aya İrini Müzesi",
+                    "rationale": "Aya İrini hiç camiye çevrilmemiş, silah ambarı olarak kullanılmıştır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Edirnekapı'da bulunur, mozaikleri sıva ile kaplanmış ve 1948-1958 yılları arasında tekrar gün yüzüne çıkarılmıştır."
+        },
+        {
+            "questionNumber": 16,
+            "question": "Osmanlı döneminde İstiklal Caddesi'nin eski adı aşağıdakilerden hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Pera",
+                    "rationale": "Pera, İstiklal Caddesi'nin değil, genel olarak Beyoğlu'nun ilk/eski adıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cadde-i Kebir",
+                    "rationale": "Cumhuriyetin ilanı sonrası İstiklal'in önemini vurgulamak için değiştirilene kadar caddenin adı buydu.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Calata",
+                    "rationale": "Galata kelimesinin İtalyanca 'inen yol' anlamına gelen kökenidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Divanyolu",
+                    "rationale": "Çemberlitaş ve Sultanahmet civarındaki tarihi yoldur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kadırgalar Yokuşu",
+                    "rationale": "Maçka'dan Dolmabahçe'ye inen büyük caddedir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Osmanlıca 'Büyük Cadde' anlamına gelen bir isimdi."
+        },
+        {
+            "questionNumber": 17,
+            "question": "11 Kasım 1942'de yürürlüğe giren ve gayrimüslimlerin büyük oranlarda vergilendirildiği Varlık Vergisi faciasında en yüksek vergi oranı (%232) kimlere uygulanmıştır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Yahudi tüccarlar",
+                    "rationale": "Yahudi tüccarlara %179 oranında vergi uygulanmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rum tüccarlar",
+                    "rationale": "Rum tüccarlara %156 oranında vergi uygulanmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ermeni tüccarlar",
+                    "rationale": "Ders notlarına göre %232 oranıyla en yüksek vergi Ermeni tüccarlara kesilmiştir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Müslüman-Türk tüccarlar",
+                    "rationale": "Müslüman-Türk tüccarlara sadece %4,94 oranında uygulanmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Levantenler",
+                    "rationale": "Notlarda spesifik olarak Levantenlere ait bir oran belirtilmemiştir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Varlık vergisi dağılımında en yüksek dilim onlara ayrılmıştır."
+        },
+        {
+            "questionNumber": 18,
+            "question": "Kız Kulesi ile ilgili anlatılan 'Battal Gazi Efsanesi' hangi ünlü deyimin kaynağı olmuştur?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Eski çamlar bardak oldu.",
+                    "rationale": "Bu deyimin Kız Kulesi veya Battal Gazi ile ilgisi yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Üsküdar'da sabah oldu.",
+                    "rationale": "Bu da benzer bir deyimdir ancak efsaneden gelen deyim bu değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Atı alan Üsküdar'ı geçti.",
+                    "rationale": "Battal Gazi'nin kızı ve hazineyi alıp atıyla hızlıca Üsküdar'ı terk etmesi hikayesinden gelmektedir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Dimyat'a pirince giderken evdeki bulgurdan olmak.",
+                    "rationale": "Efsaneyle hiçbir tarihi ya da mekansal bağlantısı yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gözden ırak olan gönülden de ırak olur.",
+                    "rationale": "Bu genel bir atasözüdür, olayın hikayesiyle eşleşmez.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bir işin fırsatının kaçırıldığı ve artık yapılacak bir şeyin kalmadığı durumlarda söylenen sözdür."
+        },
+        {
+            "questionNumber": 19,
+            "question": "Fatih Sultan Mehmet'in 1481 İtalya seferi hazırlığı sırasında rahatsızlanıp otağını kurdurduğu ve vefat ettiği yer günümüzde hangi ilimizin sınırları içindedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "İstanbul / Üsküdar",
+                    "rationale": "İstanbul'dan yola çıkmıştır fakat vefat ettiği yer burası değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bursa / İznik",
+                    "rationale": "Osmanlı'nın eski başkentidir fakat Fatih burada vefat etmemiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kocaeli / Gebze",
+                    "rationale": "Fatih'in otağını kurduğu Hünkar Çayırı, günümüzde Kocaeli'nin Gebze ilçesinde yer almaktadır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Tekirdağ / Şarköy",
+                    "rationale": "Tekirdağ yönüne değil, Doğu/İtalya seferi için Anadolu yakasına geçmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çanakkale / Gelibolu",
+                    "rationale": "Gelibolu yarımadası güzergahında vefat etmemiştir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bağdat yolu üzerinde, 'Hünkar Çayırı' olarak bilinen bölgedir ve Hannibal Anıtı da bu ilçeye yakındır."
+        },
+        {
+            "questionNumber": 20,
+            "question": "Aşağıdakilerden hangisi Mimar Sinan'ın eserlerinden biri DEĞİLDİR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Şehzade Camisi",
+                    "rationale": "Mimar Sinan'ın 'Çıraklık' eseridir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kılıç Ali Reis Camisi",
+                    "rationale": "Mimar Sinan'ın yaşlılık dönemi eserlerinden biridir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mihrimah Sultan Camisi",
+                    "rationale": "Çift revakı ilk kez denediği, Üsküdar'daki Sinan eseridir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nuruosmaniye Camisi",
+                    "rationale": "Sultan I. Mahmud döneminde başlanan ilk Barok eserdir, mimarı Sinan değildir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Selimiye Camisi",
+                    "rationale": "Mimar Sinan'ın 'Ustalık' eseridir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Osmanlı mimarisinde Barok üslubun ilk büyük örneği olan ve yapımı 1755'te biten eserdir."
+        },
+        {
+            "questionNumber": 21,
+            "question": "Eski adı 'Tekfurdağı' olan, 1917'de günümüzdeki adını alan ve Namık Kemal'in doğduğu ilimiz neresidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Edirne",
+                    "rationale": "Edirne'nin eski adı Odrissiler'den gelir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kırklareli",
+                    "rationale": "Kırklareli'nin eski adının 40 akıncı şehitten geldiği belirtilmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Balıkesir",
+                    "rationale": "Balıkesir'in eski adı 'Karasi'dir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tekirdağ",
+                    "rationale": "Hristiyan beylerine verilen Tekfur isminden türemiş, sonradan Tekirdağ adını almıştır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Çanakkale",
+                    "rationale": "Truva ve Madylos (Eceabat) antik kentlerini barındırır, eski adı Tekfurdağı değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Marmara Ereğlisi ve Şarköy ilçelerine sahip Trakya ilimizdir."
+        },
+        {
+            "questionNumber": 22,
+            "question": "Osmanlı mimarisinde 'Erken ve Klasik dönemler' arasındaki geçiş üslubunu temsil eden, II. Murat tarafından Edirne'de yaptırılan cami hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Selimiye Camii",
+                    "rationale": "Selimiye klasik mimarinin ustalık zirvesidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Üç Şerefeli Cami",
+                    "rationale": "Büyük merkezi kubbesi 6 dayanağa oturan ve geçiş üslubu sayılan eser Üç Şerefeli Cami'dir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "II. Bayezid Külliyesi",
+                    "rationale": "Daha sonraki dönemde yapılan ve Tıp medresesiyle bilinen komplekstir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kurşunlu Camii",
+                    "rationale": "Bilecik'tedir ve ilk kubbeli cami denemelerindendir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fatih Camisi",
+                    "rationale": "İstanbul'dadır ve Atik Sinan tarafından klasik döneme girilirken yapılmıştır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "1443-1447 yılları arasında yapılan ve minaresindeki şerefe sayısıyla isimlendirilen yapıdır."
+        },
+        {
+            "questionNumber": 23,
+            "question": "Türk akıncılarının (Serdengeçti yiğitlerin) Rumeli'de fetihler yaparken verdikleri 40 şehidin anısına 'Kırklar-eli' denilen ve zamanla günümüzdeki halini alan ilimiz hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Kırıkkale",
+                    "rationale": "İç Anadolu bölgesinde yer alan, farklı bir etimolojiye sahip bir ildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tekirdağ",
+                    "rationale": "Eski adı Tekfurdağı'dır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kırklareli",
+                    "rationale": "Notlarda tam olarak hikayesi bu şekilde anlatılan Trakya ilimizdir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Edirne",
+                    "rationale": "40 şehit hikayesi Edirne için değil Kırklareli için geçerlidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sakarya",
+                    "rationale": "Adını yakınından geçen ırmaktan almıştır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Demirköy ilçesinde Fatih'in toplarını döktürdüğü demirhaneyi barındıran ilimizdir."
+        },
+        {
+            "questionNumber": 24,
+            "question": "Bursa'nın alınışından sonra, kendi vasiyeti üzerine eski bir Bizans manastırı (Sainte Elie) kalıntıları üzerine defnedilen ve türbesi 'Gümüşlü Kümbet' olarak da bilinen Osmanlı Padişahı kimdir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Orhan Gazi",
+                    "rationale": "Orhan Gazi'nin türbesi hemen karşıdadır ancak Gümüşlü Kümbet vasiyeti babasına aittir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "I. Murad",
+                    "rationale": "I. Murad türbesi Muradiye'de değil, Çekirge'dedir, vasiyet hikayesi ona ait değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yıldırım Bayezid",
+                    "rationale": "Yıldırım Bayezid türbesi farklı bir noktadadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Osman Gazi",
+                    "rationale": "Osmanlı Devleti'nin kurucusudur ve Gümüşlü Kümbet olarak bilinen türbeye vasiyeti üzerine gömülmüştür.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Çelebi Mehmet",
+                    "rationale": "Çelebi Mehmet'in türbesi ünlü Yeşil Türbe'dir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Osmanlı Devleti'nin kurucusu olan ilk padişahtır."
+        },
+        {
+            "questionNumber": 25,
+            "question": "Yunan işgalinden kurtarılmadan önceki ismi 'Karasi' olan, hem Marmara hem de Ege Denizi'ne kıyısı bulunan ilimiz hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Bursa",
+                    "rationale": "Bursa'nın Ege Denizi'ne kıyısı yoktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çanakkale",
+                    "rationale": "Çanakkale iki denize kıyısı olsa da eski adı Karasi değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Balıkesir",
+                    "rationale": "Eski adı Karasi olup, 1923 yılında Balıkesir adıyla il yapılmıştır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Yalova",
+                    "rationale": "Yalova sadece Marmara Denizi'ne kıyısı olan bir ildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kocaeli",
+                    "rationale": "Marmara ve Karadeniz'e kıyısı vardır, Ege'ye yoktur.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Ayvalık, Ören, Erdek ve Avşa gibi turizm merkezlerine sahiptir."
+        },
+        {
+            "questionNumber": 26,
+            "question": "Anadolu'da kurulan İLK imparatorluk hangisidir ve başkenti neresidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Frigler - Gordion",
+                    "rationale": "Frigler, Hititlerden sonra kurulan devletlerdendir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Lidyalılar - Sard",
+                    "rationale": "Lidyalılar Batı Anadolu'da kurulmuştur, ilk imparatorluk sayılmazlar.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İyonyalılar - Efes",
+                    "rationale": "İyonyalılar şehir devletleri halinde yaşamıştır, imparatorluk değillerdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Urartular - Tuşpa",
+                    "rationale": "Urartular Doğu Anadolu'da hakimiyet kurmuştur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hititler - Hattuşaş",
+                    "rationale": "Milli birliği sağlayarak Anadolu'daki ilk imparatorluğu kurmuşlardır ve başkentleri Çorum-Hattuşaş'tır.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "M.Ö. 2000'lerde Kafkaslar üzerinden gelen ve Kadeş Antlaşmasını imzalayan uygarlıktır."
+        },
+        {
+            "questionNumber": 27,
+            "question": "Dünyanın 7 Harikası'ndan sadece 2 tanesi günümüzde Anadolu sınırları içindedir. Bu eserler aşağıdakilerin hangisinde doğru verilmiştir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Babil'in Asma Bahçeleri - Artemis Tapınağı",
+                    "rationale": "Babil'in Asma Bahçeleri Mezopotamya (Irak) civarındaydı.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İskenderiye Feneri - Halikarnas Mozolesi",
+                    "rationale": "İskenderiye Feneri Mısır'da yer alır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Artemis Tapınağı - Halikarnas Mozolesi",
+                    "rationale": "Biri Efes'te, diğeri Bodrum'da bulunan Anadolu'nun iki büyük harikasıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Rodos Heykeli - Artemis Tapınağı",
+                    "rationale": "Rodos heykeli, Rodos Adası (Yunanistan) sınırları içindeydi.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Keops Piramidi - Halikarnas Mozolesi",
+                    "rationale": "Piramit Mısır'dadır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Biri Efes'te, diğeri Bodrum'dadır."
+        },
+        {
+            "questionNumber": 28,
+            "question": "İnsanlığın bulduğu/işlediği İLK maden aşağıdakilerden hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Bakır",
+                    "rationale": "Bakır, altından sonra kolay işlenebilirliğiyle yaygınlaşan ilk madenlerdendir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Demir",
+                    "rationale": "Demirin bulunması çok daha sonra, Demir Devri'ndedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tunç",
+                    "rationale": "Tunç, Bakır ile Kalayın karıştırılmasıyla elde edilen bir alaşımdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kalay",
+                    "rationale": "Kalay tuncu elde etmek için sonradan keşfedilmiş ve kullanılmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Altın",
+                    "rationale": "Notlara göre insanların bulduğu ilk maden, dövülerek şekil alan Altın'dır.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Başta maden olduğu anlaşılmayan, sarı renkli, değerli ve kolay dövülen madendir."
+        },
+        {
+            "questionNumber": 29,
+            "question": "Mezopotamya uygarlıklarından Sümerler, diğer medeniyetlere temel oluşturacak çok önemli icatlar yapmışlardır. Aşağıdakilerden hangisi Sümerlerin bulduğu/icat ettiği şeylerden biri DEĞİLDİR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Çivi Yazısı",
+                    "rationale": "Yazıyı tarihte ilk kez icat eden Sümerlerdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İlk tekerlekli taşıtlar",
+                    "rationale": "Tekerleği taşıtlara entegre edip kullanan medeniyettir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Paranın icadı",
+                    "rationale": "Parayı tarihte ilk kez kullanan medeniyet Sümerler değil, Anadolu'da yaşayan Lidyalılardır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Matematik ve Geometrinin temelleri",
+                    "rationale": "Dört işlemi ve dairenin alanını hesaplamayı başarmışlardır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "İlk şehir devletlerinin (sitelerin) kurulması",
+                    "rationale": "Şehir devleti mantığıyla örgütlenmeyi ilk başlatanlardandır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Ticareti kolaylaştıran bu ekonomik aracı aslında Batı Anadolu'da yaşayan bir uygarlık bulmuştur."
+        },
+        {
+            "questionNumber": 30,
+            "question": "Aşağıdaki Anadolulu tarihi şahsiyet ve özellikleri eşleştirmelerinden hangisi YANLIŞTIR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Thales - İlk uzay bilimcisi",
+                    "rationale": "Bu eşleştirme çalışma notlarında doğru verilmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Anaksimenes - İlk kez ay tutulmasını keşfeden kişi",
+                    "rationale": "Bu eşleştirme çalışma notlarında doğru verilmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aspasya - İlk kadın hakları savunucusu",
+                    "rationale": "Bu eşleştirme çalışma notlarında doğru verilmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hipokrat - Tıp biliminin öncüsü",
+                    "rationale": "Bu eşleştirme çalışma notlarında doğru verilmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pisagor - İlk yazılı anayasayı yapan kişi",
+                    "rationale": "Pisagor ünlü matematikçidir; ilk yazılı anayasa (yasalar) Hammurabi'ye aittir.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Bu kişi matematikteki üçgen teorisi ile tanınır, kanun yapıcı değildir."
+        },
+        {
+            "questionNumber": 31,
+            "question": "Asurlular, tarihteki bilinen ilk kütüphaneyi hangi şehirde (başkentlerinde) kurmuşlardır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Babil",
+                    "rationale": "Babil, Babillerin başkentidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hattuşaş",
+                    "rationale": "Hattuşaş, Hititlerin başkentidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sard",
+                    "rationale": "Sard, Lidyalıların başkentidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ninova",
+                    "rationale": "Asurluların başkenti Ninova'dır ve ilk kütüphaneyi burada kurmuşlardır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Gordion",
+                    "rationale": "Gordion, Friglerin başkentidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Kral Yolu'nun da doğu ucu sayılabilecek Asur başkentidir."
+        },
+        {
+            "questionNumber": 32,
+            "question": "Büyük Selçuklu Devleti döneminde inşa edilen, 'kırmızı tuğladan' yapıldığı için 'Kızıl Minare' olarak da bilinen Selçuklu eseri hangi ilimizdedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Konya",
+                    "rationale": "İnce Minareli Medrese Konya'dadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aksaray",
+                    "rationale": "Eğri Minare veya Kızıl Minare Aksaray ilimizde bulunur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sivas",
+                    "rationale": "Divriği Ulu Camii Sivas'tadır ancak bu eser farklıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Erzurum",
+                    "rationale": "Çifte Minareli Medrese gibi eserler Erzurum'dadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Diyarbakır",
+                    "rationale": "Selçuklu etkileri görülse de Kızıl Minare burada değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Eğri Minare olarak da bilinen bu eser Kapadokya bölgesinin giriş kapısı sayılan ilimizdedir."
+        },
+        {
+            "questionNumber": 33,
+            "question": "TEMA Vakfı'nın da kurucusu olan Hayrettin Karaca tarafından oluşturulan, sadece odunsu türleri barındıran ve 'Canlı ağaç müzesi' olma özelliği taşıyan Türkiye'nin ilk özel Arboretumu hangi ilimizdedir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Bursa",
+                    "rationale": "Bursa orman zengini olsa da bu tesis orada değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Balıkesir",
+                    "rationale": "Kuş Cenneti Balıkesir'dedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yalova",
+                    "rationale": "Karaca Ağaçevi (Arboretumu) Yalova ilimizde yer almaktadır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kocaeli",
+                    "rationale": "Doğa parkları vardır ancak ilk arboretum burada değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sakarya",
+                    "rationale": "Sapanca Gölü ve kaplıcalarıyla ünlüdür.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Armutlu ve Termal ilçeleriyle turizmde öne çıkan, 1995'te il olan şehrimizdir."
+        },
+        {
+            "questionNumber": 34,
+            "question": "Kocaeli'nin Gebze ilçesinde (Eskihisar köyünde) bulunan ve 1981 yılında Atatürk'ün eski vasiyeti/emri üzerine tamamlanan tarihi anıt kimin anısına yapılmıştır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Fatih Sultan Mehmet",
+                    "rationale": "Fatih Sultan Mehmet'in otağı ve namazgahı Gebze'dedir ancak anıt başkasına aittir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Osman Gazi",
+                    "rationale": "Türbesi Bursa'dadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hannibal (Kartaca Kralı)",
+                    "rationale": "Mezarının bulunduğu Eskihisar'da ünlü Kartacalı komutan/kral Hannibal için yapılmıştır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Akça Koca",
+                    "rationale": "Kocaeli'ye ismini veren komutandır ancak anıt onun için yapılmamıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "I. Nicomedes",
+                    "rationale": "Şehri kuran kraldır fakat Atatürk'ün yaptırdığı anıt ona ait değildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Romalılara karşı filleriyle Alp dağlarını geçen ünlü Kartacalı liderdir."
+        },
+        {
+            "questionNumber": 35,
+            "question": "Osmanlı Devleti'nin kuruluş devrinde Orhan Gazi tarafından fethedilen İLK önemli kale hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Rumeli Hisarı",
+                    "rationale": "İstanbul'un fethinden önce Fatih tarafından yapılmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Belekoma Kalesi",
+                    "rationale": "Bilecik Tekfuru'nun en güvendiği, sarp bir kaya üzerine kurulu olan ve ilk alınan önemli kaledir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Anadolu Hisarı",
+                    "rationale": "Yıldırım Bayezid tarafından yapılmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eceabat Kalesi",
+                    "rationale": "Çanakkale boğazı kontrolü için yapılmış farklı döneme ait kaledir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kilitbahir Kalesi",
+                    "rationale": "Fatih Sultan Mehmet devrinde boğazın savunması için yapılmıştır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bilecik'te Hamsu ve Tabakhane dereleri arasında yer alan Bizans kalesidir."
+        },
+        {
+            "questionNumber": 36,
+            "question": "Osman Gazi'nin kayınpederi, Ahilik teşkilatının temsilcisi ve Bilecik'in ilk kadısı olan kişinin türbesi nerededir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Ertuğrul Gazi Türbesi",
+                    "rationale": "Ertuğrul Gazi, Osman Gazi'nin babasıdır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Şeyh Edebali Türbesi",
+                    "rationale": "Sözü edilen önemli şahsiyet Şeyh Edebali'dir ve türbesi Bilecik'tedir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Orhan Gazi Türbesi",
+                    "rationale": "Osman Gazi'nin oğludur, türbesi Bursa'dadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mevlana Türbesi",
+                    "rationale": "Konya'dadır, Ahilik ile direkt bağlantısından ziyade Mevleviliğin merkezidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ahi Evran Türbesi",
+                    "rationale": "Kırşehir'dedir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Osmanlı Devleti'nin manevi kurucusu olarak da kabul edilen alimdir."
+        },
+        {
+            "questionNumber": 37,
+            "question": "UNESCO Dünya Kültür Mirası listesine 2011 yılında giren ve 'bugünün mimarlarına parmak ısırtan' Edirne'nin sembol eseri hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Üç Şerefeli Cami",
+                    "rationale": "Önemli bir eserdir fakat 2011'de UNESCO listesine giren Mimar Sinan eseri değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Divriği Ulu Camii",
+                    "rationale": "Listeye 1985 yılında Sivas'tan girmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Süleymaniye Camii",
+                    "rationale": "İstanbul'un tarihi alanları içinde listelenmiştir, Edirne'de değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Selimiye Camii ve Külliyesi",
+                    "rationale": "Mimar Sinan'ın ustalık eseridir ve 2011'de UNESCO listesine alınmıştır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "II. Bayezid Külliyesi",
+                    "rationale": "Edirne'deki diğer önemli bir külliyedir ancak 2011 asıl listede kaydedilen Selimiye'dir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Mimar Sinan'ın 80 yaşında tek bir kubbe ile üzerini kapattığı ustalık eseridir."
+        },
+        {
+            "questionNumber": 38,
+            "question": "2005 yılında yapılan oylama sonucuna göre 'Anadolu'nun 7 Harikası' arasına giren ve Adıyaman ilinde yer alan eser aşağıdakilerden hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Mardin Şehir Dokusu",
+                    "rationale": "Mardin'de yer alır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hasankeyf Şehir Dokusu",
+                    "rationale": "Batman'da yer alır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ani Şehri",
+                    "rationale": "Kars'ta yer alır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zeugma Antik Kenti",
+                    "rationale": "Gaziantep'te yer alır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nemrut Dağı",
+                    "rationale": "Adıyaman ilimizde bulunan, dev heykellerin yer aldığı zirvedir.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Kommagene Krallığı'na ait dev heykelleriyle ünlü, güneşin doğuşunun ve batışının izlendiği tarihi dağdır."
+        },
+        {
+            "questionNumber": 39,
+            "question": "Eski çağlarda insanların göçebelikten yerleşik hayata geçtiği, köylerin kurulduğu ve tarımın (buğday, mısır, arpa) başladığı devrim niteliğindeki dönem hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Yontma Taş Devri",
+                    "rationale": "Henüz mağaralarda yaşanılan, toplayıcılık ve avcılık dönemidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Orta Taş Devri",
+                    "rationale": "Geçiş dönemidir, mağara duvarlarına resimlerin yapıldığı dönemdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cilalı Taş Devri",
+                    "rationale": "Tarımın başladığı, aletlerin cilalandığı, yerleşik hayata geçilen ilk devirdir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Bakır Devri",
+                    "rationale": "Maden çağına çoktan geçilmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Demir Devri",
+                    "rationale": "Ticaretin girdiği daha ileri bir maden dönemidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Taştan aletlerin yüzeylerinin parlatıldığı (Neolitik) dönemdir."
+        },
+        {
+            "questionNumber": 40,
+            "question": "Bizans İmparatoru Justinyen tarafından yaptırılan ve deprem sonrası suların çekilmesiyle günümüzde tarlaların ortasında kalan, Sakarya Çark Çayı üzerindeki köprü hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Malabadi Köprüsü",
+                    "rationale": "Diyarbakır - Batman civarında Artuklular döneminden kalmadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uzunköprü",
+                    "rationale": "Edirne'de Ergene nehri üzerinde Osmanlı devrinde yapılmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Beşköprü (Justinyen Köprüsü)",
+                    "rationale": "Aynı yere 5 kez köprü inşa sürecinden dolayı bu adla anılan Sakarya'daki tarihi köprüdür.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Büyükçekmece (Kanuni) Köprüsü",
+                    "rationale": "Mimar Sinan tarafından İstanbul'da yapılmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çobandede Köprüsü",
+                    "rationale": "Erzurum civarında İlhanlılar dönemine aittir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Zaman içinde aynı yere dört kez daha (toplam beş) köprü yapıldığı için bu isimle anılır."
+        },
+        {
+            "questionNumber": 41,
+            "question": "Aşağıdakilerden hangisi M.Ö. 2000'li yıllarda yaşamış olan Babillerin en ünlü kralı Hammurabi'nin hazırladığı kanunların özelliklerinden biri DEĞİLDİR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Tarihin bilinen ilk anayasası olarak kabul edilmesi.",
+                    "rationale": "Hammurabi kanunları bilinen ilk yazılı anayasa niteliğindedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kısas (Göze göz, dişe diş) esasına dayanması.",
+                    "rationale": "Kanunlar oldukça serttir ve misilleme mantığına dayanır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Şehir merkezine, herkesin görebileceği şekilde dikilmesi.",
+                    "rationale": "Adalet ve güveni sağlamak için halkın görebileceği yere konmuştur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sümer yasalarından hiçbir şekilde etkilenmemiş, tamamen sıfırdan yazılmış olması.",
+                    "rationale": "Notlara göre Hammurabi, Sümer yasalarını düzenleyerek bu kanunları oluşturmuştur.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Akatça dilinde ve çivi yazısıyla 282 madde olarak yazılmış olması.",
+                    "rationale": "Bu fiziksel ve dilsel özellik doğru bir bilgidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Mezopotamya uygarlıkları arasında birbirlerini etkileme durumu çok yaygındır."
+        },
+        {
+            "questionNumber": 42,
+            "question": "Çanakkale destanının yazıldığı Gelibolu Yarımadası Tarihi Milli Parkı içinde aşağıdakilerden hangisi BULUNMAZ?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Tuz Gölü",
+                    "rationale": "Milli parkın sınırları içindedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Arıburnu Kayalıkları",
+                    "rationale": "Çıkartmaların yapıldığı ve park içinde yer alan önemli doğal oluşumdur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Şehitlikler ve Mezarlıklar",
+                    "rationale": "Parkın temel varlık nedenidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Truva (Troia) Antik Kenti",
+                    "rationale": "Truva antik kenti Çanakkale merkeze 30 km mesafede Hisarlık Tepesi'ndedir, Gelibolu Yarımadası Tarihi Milli Parkı içinde değildir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Çanakkale Şehitleri Anıtı",
+                    "rationale": "253.000 asker anısına park içine dikilmiştir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bu antik kent yarımadada değil, Anadolu (Asya) tarafında, Hisarlık tepesinde bulunur."
+        },
+        {
+            "questionNumber": 43,
+            "question": "Osmanlı Devleti'nin Türk devletleri içindeki 'En'leri ile ilgili aşağıda verilen bilgilerden hangisi YANLIŞTIR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Tek bir hanedanın hüküm sürdüğü en uzun ömürlü devlettir.",
+                    "rationale": "Yaklaşık 600 yıl aynı hanedanla yönetilmiştir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Türk devletleri içinde en geniş sınırlara ulaşanıdır.",
+                    "rationale": "Üç kıtaya yayılmış büyük bir imparatorluktur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Merkezi otoritesi en zayıf olan Türk devletidir.",
+                    "rationale": "Aksine, Türk devletleri içinde merkezi otoritesi EN GÜÇLÜ olan devlettir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kültür ve uygarlık alanında en ileri olan Türk devletidir.",
+                    "rationale": "Mimari, sanat, edebiyat alanlarında en ileri safhaya ulaşmıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Türk devletleri içinde en uzun süre yaşayanıdır.",
+                    "rationale": "Tarihteki en uzun soluklu Türk devletidir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Padişahın (sultanın) devleti yönetme gücü ve eyaletler üzerindeki denetim kuvveti bu devlette oldukça yüksektir."
+        },
+        {
+            "questionNumber": 44,
+            "question": "Batı Anadolu kıyılarından (Sardes) başlayıp, Babil ve Ninova'yı geçerek İran içlerine (Susa ve Persepolis) kadar uzanan ünlü Kral Yolu'nu hangi uygarlık inşa etmiştir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Lidyalılar",
+                    "rationale": "Sardes Lidya başkentidir ancak yolu inşa eden imparatorluk onlar değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Asurlular",
+                    "rationale": "Ticaret kolonileri kurmuşlardır fakat bu devasa yolu inşa etmemişlerdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sümerler",
+                    "rationale": "Mezopotamya'da ilk medeniyettirler, dönemlerinde bu yol yapılmamıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hititler",
+                    "rationale": "Anadolu'da ilk imparatorluk olsalar da İran içlerine uzanan bu yol onlara ait değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Persler",
+                    "rationale": "Anadolu'yu 213 yıl egemenlik altında tutmalarını sağlayan, postacılık ve ticarette kullanılan Kral Yolu'nu Persler yapmıştır.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Anadolu'yu uzun yıllar hakimiyetleri altında tutan ve ülkeler kralı unvanına sahip hükümdarların yönettiği uygarlıktır."
+        },
+        {
+            "questionNumber": 45,
+            "question": "Süleymaniye Külliyesi yapılırken akustiği mükemmel kılmak için hangi mimari yöntem kullanılmıştır?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Duvarlara boşluklu tahta panellerin yerleştirilmesi.",
+                    "rationale": "Bu modern bir izolasyon yöntemidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kubbeye ve köşelere 64 adet küp yerleştirilmesi.",
+                    "rationale": "Mimar Sinan, sesin içeride yankılanmadan dağılması için ağzı açık küpleri sisteme entegre etmiştir.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Yerden ısıtma kanallarının ses yankısını önleyecek şekilde dizayn edilmesi.",
+                    "rationale": "Böyle bir teknoloji notlarda geçmemektedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zeminin özel bir süngerimsi taş tabakasıyla kaplanması.",
+                    "rationale": "Tamamen uydurma bir yöntemdir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Minarelerin iç kısımlarına rüzgar kovanları eklenmesi.",
+                    "rationale": "Akustik kubbe ve köşelerle ilgilidir, minareyle değil.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Sesi toplayıp yansıtma prensibiyle çalışan içi boş seramik/toprak objeler kullanılmıştır."
+        },
+        {
+            "questionNumber": 46,
+            "question": "Aşağıdaki İstanbul sur kapıları ve bulundukları sur bölümü eşleştirmelerinden hangisi DOĞRUDUR?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Marmara Surları - Edirnekapı",
+                    "rationale": "Edirnekapı Kara Surları üzerindedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Haliç Surları - Çatladıkapı",
+                    "rationale": "Çatladıkapı Marmara Surları üzerindedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kara Surları - Aura Porta (Altın Kapı)",
+                    "rationale": "Yedikule civarında olan Altın Kapı, Kara surlarının en güneyindeki kapısıdır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Marmara Surları - Zindan Kapısı",
+                    "rationale": "Zindan Kapısı Haliç Surları üzerindedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Haliç Surları - Belgrat Kapı",
+                    "rationale": "Belgrat Kapı Kara Surları üzerindedir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İmparatorluk Kapısı olarak da bilinen ve en güneyde yer alan çok değerli kapıdır."
+        },
+        {
+            "questionNumber": 47,
+            "question": "Sultan Selim Külliyesi'nin günümüze ulaşamayan iki bölümü hangileridir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Cami ve Sıbyan mektebi",
+                    "rationale": "Bu bölümler ayaktadır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hamam ve İmaret",
+                    "rationale": "Notlara göre Külliyenin hamam ve imaret bölümleri zamanla yok olmuş, günümüze ulaşamamıştır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Türbe ve Medrese",
+                    "rationale": "Türbeler ayaktadır ve ziyaret edilmektedir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Darüşşifa ve Kütüphane",
+                    "rationale": "Orijinal bölümleri arasında sayılan ancak yıkılan kısımlar bunlar değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Arasta (Çarşı) ve Muvakkithane",
+                    "rationale": "Bu bölümler bu külliye için ana yapılar arasında geçmemiştir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "İnsanların temizlendiği ve yemek yediği vakıf bölümleridir."
+        },
+        {
+            "questionNumber": 48,
+            "question": "Osmanlı döneminde Anadolu'nun en büyük şehirlerinden biri olmasını sağlayan, her yıl binden fazla devenin ipek kozası taşıyarak ticaretini canlandırdığı ilimiz neresidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Sakarya",
+                    "rationale": "Sakarya daha çok tarım ve sonradan endüstri şehrine dönüşmüştür.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kocaeli",
+                    "rationale": "Bithinya merkezi olsa da ipek yolu ile asıl ünlü olan şehir burası değildir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Çanakkale",
+                    "rationale": "Boğaz kontrolüyle bilinir, dokuma sanayisi ile değil.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bursa",
+                    "rationale": "İpekli dokuma endüstrisi ve İpek Yolu üzerindeki önemi sayesinde büyük ün kazanmıştır.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Balıkesir",
+                    "rationale": "Maden ve orman zenginliği olan, turizmle öne çıkan bir ildir.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Bir zamanlar Osmanlı'ya başkentlik yapmış, Uludağ'ı ile meşhur olan ilimizdir."
+        },
+        {
+            "questionNumber": 49,
+            "question": "Süleymaniye'den sonra Osmanlı'daki en büyük imaret yapısına (aşevi vb.) sahip olan ve günümüzde cezaevi olarak kullanılan külliye hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Mihrimah Sultan Külliyesi",
+                    "rationale": "İmareti günümüze ulaşamamıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yeni Valide Külliyesi",
+                    "rationale": "III. Ahmed'in annesi adına yaptırılan bu yapı cezaevi yapılmamıştır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fatih Külliyesi",
+                    "rationale": "İmaret bölümü günümüze ulaşamayan yapılardandır.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eski Valide Sultan Külliyesi (Valide-i Atik)",
+                    "rationale": "Nurbanu Sultan adına yapılan bu eserin devasa imaret kısmı günümüzde Toptaşı Cezaevi olarak işlev görmüştür.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Atik Ali Paşa Külliyesi",
+                    "rationale": "Divanyolu'ndadır ve imareti günümüze ulaşmamıştır.",
+                    "isCorrect": false
+                }
+            ],
+            "hint": "Sultan II. Selim ve oğlu III. Murad tarafından Nurbanu Sultan adına Üsküdar Toptaşı'nda yaptırılmıştır."
+        },
+        {
+            "questionNumber": 50,
+            "question": "Birçok antik kente sahip olan Çanakkale yöresinde yer alan ve M.Ö. 3200 ile M.S. 400 yılları arasında 9 defa yıkılıp yeniden kurulan ünlü antik kent hangisidir?",
+            "imageUrl": null,
+            "answerOptions": [
+                {
+                    "text": "Hattuşaş",
+                    "rationale": "Çorum'da yer alan Hitit başkentidir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Xanthos - Letoon",
+                    "rationale": "Antalya - Muğla sınırında bulunur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bergama",
+                    "rationale": "İzmir'de bulunur.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zeugma",
+                    "rationale": "Gaziantep'te yer alan antik kenttir.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Truva (Troia)",
+                    "rationale": "Çanakkale Boğazı'na hakim Hisarlık Tepesi'nde yer alan, defalarca yıkılıp kurulan meşhur antik kenttir.",
+                    "isCorrect": true
+                }
+            ],
+            "hint": "Dünyanın en meşhur müzesi durumunda olan ve ünlü bir savaşa/ata konu olmuş antik kenttir."
+        }
+    ]
+}

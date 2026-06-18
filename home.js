@@ -408,6 +408,18 @@ const TEST_DATA = {
           { name: "Teste Basla", url: "quiz.html?test=mesleki-yabanci-dil-2-1-final", primary: true }
         ],
         pdfUrl: "assets/pdf/2-donem/final/mesleki-yabanci-dil-2.pdf"
+      },
+      {
+        id: "turizm-cografyasi-1-final",
+        title: "Turizm Cografyasi I (Final)",
+        description: "Ikinci donem final konularini uc ayri testle calis.",
+        tag: "Turizm Cografyasi I",
+        tests: [
+          { name: "Test 1 Basla", url: "quiz.html?test=turizm-cografyasi-1-1-final" },
+          { name: "Test 2 Basla", url: "quiz.html?test=turizm-cografyasi-1-2-final" },
+          { name: "Test 3 Basla", url: "quiz.html?test=turizm-cografyasi-1-3-final" }
+        ],
+        pdfUrl: "assets/pdf/2-donem/final/turizm-cografyasi-1.pdf"
       }
     ]
   }
